@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-01T22:20:53.679Z</id>
+    <id>urn:2025-04-01T22:26:22.939Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T22:20:53.679Z</updated>
+    <updated>2025-04-01T22:26:22.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,61 @@
         <summary type="html"><![CDATA[The Generational Legacy of Samples in Music]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Proof Smooths Out the Math of Melting]]></title>
+        <id>https://www.quantamagazine.org/?p=147854</id>
+        <link href="https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/"/>
+        <updated>2025-03-31T14:22:02.000Z</updated>
+        <summary type="html"><![CDATA[A powerful mathematical technique is used to model melting ice and other phenomena. But it has long been imperiled by certain “nightmare scenarios.” A new proof has removed that obstacle.            
+The post A New Proof Smooths Out the Math of Melting first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The High Cost of Quantum Randomness Is Dropping]]></title>
+        <id>https://www.quantamagazine.org/?p=147825</id>
+        <link href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/"/>
+        <updated>2025-03-28T14:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Randomness is essential to some research, but it’s always been prohibitively complicated. Now, we can use “pseudorandomness” instead.            
+The post The High Cost of Quantum Randomness Is Dropping first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Webb Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mysterious Flow of Fluid in the Brain]]></title>
+        <id>https://www.quantamagazine.org/?p=147746</id>
+        <link href="https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"/>
+        <updated>2025-03-26T14:22:06.000Z</updated>
+        <summary type="html"><![CDATA[A popular hypothesis for how the brain clears molecular waste, which may help explain why sleep feels refreshing, is a subject of debate.            
+The post The Mysterious Flow of Fluid in the Brain first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Hundred Years Later, a Tool from Isaac Newton Gets an Update]]></title>
+        <id>https://www.quantamagazine.org/?p=147674</id>
+        <link href="https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/"/>
+        <updated>2025-03-24T05:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A simple, widely used mathematical technique can finally be applied to boundlessly complex problems.            
+The post Three Hundred Years Later, a Tool from Isaac Newton Gets an Update first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Metabolism Can Shape Cells’ Destinies]]></title>
+        <id>https://www.quantamagazine.org/?p=147632</id>
+        <link href="https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/"/>
+        <updated>2025-03-21T13:40:30.000Z</updated>
+        <summary type="html"><![CDATA[A growing body of work suggests that cell metabolism — the chemical reactions that provide energy and building materials — plays a vital, overlooked role in the first steps of life.            
+The post How Metabolism Can Shape Cells’ Destinies first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
         </author>
     </entry>
     <entry>
