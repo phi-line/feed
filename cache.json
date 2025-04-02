@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=147924",
+          "author": "Philip Ball",
+          "description": "A new suggestion that complexity increases over time, not just in living organisms but in the nonliving world, promises to rewrite notions of time and evolution.            \nThe post Why Everything in the Universe Turns More Complex first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/",
+          "publishedOn": "2025-04-02T14:55:40.000Z",
+          "wordCount": 5091,
+          "title": "Why Everything in the Universe Turns More Complex",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/LawOfComplexity-crIrenePerez-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=147854",
           "author": "Steve Nadis",
           "description": "A powerful mathematical technique is used to model melting ice and other phenomena. But it has long been imperiled by certain “nightmare scenarios.” A new proof has removed that obstacle.            \nThe post A New Proof Smooths Out the Math of Melting first appeared on Quanta Magazine",
@@ -81,16 +91,6 @@
           "wordCount": 3079,
           "title": "Three Hundred Years Later, a Tool from Isaac Newton Gets an Update",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/Newtons-Method-cr.MicheleSclafani-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=147632",
-          "author": "Viviane Callier",
-          "description": "A growing body of work suggests that cell metabolism — the chemical reactions that provide energy and building materials — plays a vital, overlooked role in the first steps of life.            \nThe post How Metabolism Can Shape Cells’ Destinies first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/",
-          "publishedOn": "2025-03-21T13:40:30.000Z",
-          "wordCount": 3990,
-          "title": "How Metabolism Can Shape Cells’ Destinies",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/FlyCells_crBruno-C.-Vellutini-Social.jpg"
         }
       ]
     }

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-02T12:07:00.228Z</id>
+    <id>urn:2025-04-02T18:05:25.226Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T12:07:00.228Z</updated>
+    <updated>2025-04-02T18:05:25.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Everything in the Universe Turns More Complex]]></title>
+        <id>https://www.quantamagazine.org/?p=147924</id>
+        <link href="https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/"/>
+        <updated>2025-04-02T14:55:40.000Z</updated>
+        <summary type="html"><![CDATA[A new suggestion that complexity increases over time, not just in living organisms but in the nonliving world, promises to rewrite notions of time and evolution.            
+The post Why Everything in the Universe Turns More Complex first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Philip Ball</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
         <id>https://pudding.cool/2025/04/music-dna</id>
@@ -57,17 +68,6 @@ The post The Mysterious Flow of Fluid in the Brain first appeared on Quanta Maga
 The post Three Hundred Years Later, a Tool from Isaac Newton Gets an Update first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Metabolism Can Shape Cells’ Destinies]]></title>
-        <id>https://www.quantamagazine.org/?p=147632</id>
-        <link href="https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/"/>
-        <updated>2025-03-21T13:40:30.000Z</updated>
-        <summary type="html"><![CDATA[A growing body of work suggests that cell metabolism — the chemical reactions that provide energy and building materials — plays a vital, overlooked role in the first steps of life.            
-The post How Metabolism Can Shape Cells’ Destinies first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Viviane Callier</name>
         </author>
     </entry>
     <entry>
