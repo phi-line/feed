@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=147956",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Despite the hype, it’s been surprisingly challenging to find quantum algorithms that outperform classical ones. In this episode, Ewin Tang discusses her pioneering work in “dequantizing” quantum algorithms — and what it means for the future of quantum computing.            \nThe post What Is the True Promise of Quantum Computing? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-the-true-promise-of-quantum-computing-20250403/",
+          "publishedOn": "2025-04-03T14:35:57.000Z",
+          "wordCount": 8635,
+          "title": "What Is the True Promise of Quantum Computing?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/EPs2QuantumVs1_crPeterGreenwood-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=147924",
           "author": "Philip Ball",
           "description": "A new suggestion that complexity increases over time, not just in living organisms but in the nonliving world, promises to rewrite notions of time and evolution.            \nThe post Why Everything in the Universe Turns More Complex first appeared on Quanta Magazine",
@@ -68,7 +78,7 @@
           "description": "Randomness is essential to some research, but it’s always been prohibitively complicated. Now, we can use “pseudorandomness” instead.            \nThe post The High Cost of Quantum Randomness Is Dropping first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/",
           "publishedOn": "2025-03-28T14:33:16.000Z",
-          "wordCount": 2501,
+          "wordCount": 2510,
           "title": "The High Cost of Quantum Randomness Is Dropping",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/BuildingRandomness-crMaggieChiang-Social.jpg"
         },
@@ -81,16 +91,6 @@
           "wordCount": 3474,
           "title": "The Mysterious Flow of Fluid in the Brain",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/Glymphatic-Theory-cr.ChanelleNibbelink-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=147674",
-          "author": "Kevin Hartnett",
-          "description": "A simple, widely used mathematical technique can finally be applied to boundlessly complex problems.            \nThe post Three Hundred Years Later, a Tool from Isaac Newton Gets an Update first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/",
-          "publishedOn": "2025-03-24T05:32:56.000Z",
-          "wordCount": 3079,
-          "title": "Three Hundred Years Later, a Tool from Isaac Newton Gets an Update",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/Newtons-Method-cr.MicheleSclafani-Social.jpg"
         }
       ]
     }

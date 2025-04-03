@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T12:06:56.383Z</id>
+    <id>urn:2025-04-03T18:05:49.206Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T12:06:56.383Z</updated>
+    <updated>2025-04-03T18:05:49.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is the True Promise of Quantum Computing?]]></title>
+        <id>https://www.quantamagazine.org/?p=147956</id>
+        <link href="https://www.quantamagazine.org/what-is-the-true-promise-of-quantum-computing-20250403/"/>
+        <updated>2025-04-03T14:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Despite the hype, it’s been surprisingly challenging to find quantum algorithms that outperform classical ones. In this episode, Ewin Tang discusses her pioneering work in “dequantizing” quantum algorithms — and what it means for the future of quantum computing.            
+The post What Is the True Promise of Quantum Computing? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Everything in the Universe Turns More Complex]]></title>
         <id>https://www.quantamagazine.org/?p=147924</id>
@@ -57,17 +68,6 @@ The post The High Cost of Quantum Randomness Is Dropping first appeared on Quant
 The post The Mysterious Flow of Fluid in the Brain first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Veronique Greenwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Hundred Years Later, a Tool from Isaac Newton Gets an Update]]></title>
-        <id>https://www.quantamagazine.org/?p=147674</id>
-        <link href="https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/"/>
-        <updated>2025-03-24T05:32:56.000Z</updated>
-        <summary type="html"><![CDATA[A simple, widely used mathematical technique can finally be applied to boundlessly complex problems.            
-The post Three Hundred Years Later, a Tool from Isaac Newton Gets an Update first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
         </author>
     </entry>
     <entry>
