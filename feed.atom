@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T12:06:55.192Z</id>
+    <id>urn:2025-04-04T18:05:26.584Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T12:06:55.192Z</updated>
+    <updated>2025-04-04T18:05:26.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How a Problem About Pigeons Powers Complexity Theory]]></title>
+        <id>https://www.quantamagazine.org/?p=147987</id>
+        <link href="https://www.quantamagazine.org/how-a-problem-about-pigeons-powers-complexity-theory-20250404/"/>
+        <updated>2025-04-04T13:47:39.000Z</updated>
+        <summary type="html"><![CDATA[When pigeons outnumber pigeonholes, some birds must double up. This obvious statement — and its inverse — have deep connections to many areas of math and computer science.             
+The post How a Problem About Pigeons Powers Complexity Theory first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is the True Promise of Quantum Computing?]]></title>
         <id>https://www.quantamagazine.org/?p=147956</id>
@@ -57,17 +68,6 @@ The post A New Proof Smooths Out the Math of Melting first appeared on Quanta Ma
 The post The High Cost of Quantum Randomness Is Dropping first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Webb Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mysterious Flow of Fluid in the Brain]]></title>
-        <id>https://www.quantamagazine.org/?p=147746</id>
-        <link href="https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"/>
-        <updated>2025-03-26T14:22:06.000Z</updated>
-        <summary type="html"><![CDATA[A popular hypothesis for how the brain clears molecular waste, which may help explain why sleep feels refreshing, is a subject of debate.            
-The post The Mysterious Flow of Fluid in the Brain first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Veronique Greenwood</name>
         </author>
     </entry>
     <entry>
