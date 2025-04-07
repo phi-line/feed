@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-07T12:07:05.084Z</id>
+    <id>urn:2025-04-07T18:05:37.839Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T12:07:05.084Z</updated>
+    <updated>2025-04-07T18:05:37.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intelligence Evolved at Least Twice in Vertebrate Animals]]></title>
+        <id>https://www.quantamagazine.org/?p=148101</id>
+        <link href="https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/"/>
+        <updated>2025-04-07T14:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Complex neural pathways likely arose independently in birds and mammals, suggesting that vertebrates evolved intelligence multiple times.            
+The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a Problem About Pigeons Powers Complexity Theory]]></title>
         <id>https://www.quantamagazine.org/?p=147987</id>
@@ -57,17 +68,6 @@ The post Why Everything in the Universe Turns More Complex first appeared on Qua
 The post A New Proof Smooths Out the Math of Melting first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The High Cost of Quantum Randomness Is Dropping]]></title>
-        <id>https://www.quantamagazine.org/?p=147825</id>
-        <link href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/"/>
-        <updated>2025-03-28T14:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Randomness is essential to some research, but it’s always been prohibitively complicated. Now, we can use “pseudorandomness” instead.            
-The post The High Cost of Quantum Randomness Is Dropping first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Webb Wright</name>
         </author>
     </entry>
     <entry>
