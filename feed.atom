@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-08T12:06:57.189Z</id>
+    <id>urn:2025-04-08T18:05:03.071Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T12:06:57.189Z</updated>
+    <updated>2025-04-08T18:05:03.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,16 +76,6 @@ The post A New Proof Smooths Out the Math of Melting first appeared on Quanta Ma
         <link href="https://pudding.cool/2025/03/housewives"/>
         <updated>2025-03-19T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[What we can learn from watching reality stars apologize]]></summary>
-        <author>
-            <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onomatopoeia Odyssey]]></title>
-        <id>https://pudding.cool/2025/03/language</id>
-        <link href="https://pudding.cool/2025/03/language"/>
-        <updated>2025-03-10T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning.]]></summary>
         <author>
             <name>The Pudding</name>
         </author>
