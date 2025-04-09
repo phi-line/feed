@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=148208",
+          "author": "Joseph Howlett",
+          "description": "The mathematician Tai-Danae Bradley is using category theory to try to understand both human and AI-generated language.            \nThe post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/",
+          "publishedOn": "2025-04-09T14:07:20.000Z",
+          "wordCount": 3575,
+          "title": "Where Does Meaning Live in a Sentence? Math Might Tell Us.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/Tai_Danae_Bradley-cr.MonicaAlmeida-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=148101",
           "author": "Yasemin Saplakoglu",
           "description": "Complex neural pathways likely arose independently in birds and mammals, suggesting that vertebrates evolved intelligence multiple times.            \nThe post Intelligence Evolved at Least Twice in Vertebrate Animals first appeared on Quanta Magazine",
@@ -71,16 +81,6 @@
           "wordCount": 5091,
           "title": "Why Everything in the Universe Turns More Complex",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/LawOfComplexity-crIrenePerez-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=147854",
-          "author": "Steve Nadis",
-          "description": "A powerful mathematical technique is used to model melting ice and other phenomena. But it has long been imperiled by certain “nightmare scenarios.” A new proof has removed that obstacle.            \nThe post A New Proof Smooths Out the Math of Melting first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/",
-          "publishedOn": "2025-03-31T14:22:02.000Z",
-          "wordCount": 3129,
-          "title": "A New Proof Smooths Out the Math of Melting",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/03/MultiplicityOneConjecture-crClausJensen_ScienceSource-Social.jpg"
         }
       ]
     }
