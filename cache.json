@@ -83,6 +83,269 @@
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/LawOfComplexity-crIrenePerez-Social.jpg"
         }
       ]
+    },
+    {
+      "title": "It's Going Down",
+      "feedUrl": "https://itsgoingdown.org/feed/",
+      "siteUrl": "https://itsgoingdown.org",
+      "articles": [
+        {
+          "id": "https://itsgoingdown.org/?p=254064",
+          "author": "Pie de Página",
+          "description": "A short text by Camilo Ocampo, published on Pie de Página and translated by Scott Campbell, that looks at recent developments at the National Autonomous University of Mexico. Since the publishing of this article, the struggle has spread throughout UNAM, with reports of five departments on “total strike” as of Wednesday, April 9, 2025. Those... Read Full Article",
+          "link": "https://itsgoingdown.org/unam-demobilize-students-protests/",
+          "publishedOn": "2025-04-10T01:50:22.000Z",
+          "wordCount": null,
+          "title": "UNAM seeks to demobilize students, but protests continue",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254059",
+          "author": "The Dugout",
+          "description": "The Dugout presents a look at the revolutionary life and legacy of Martin Sostre. Support The Dugout on Patreon here and listen to the show here. Martin Sostre was more than a political prisoner—he was a revolutionary thinker who reshaped the prison abolition movement from behind bars. In this episode of The Dugout, we uncover the life... Read Full Article",
+          "link": "https://itsgoingdown.org/martin-sostre-a-legacy-of-jailhouse-law-prefigurative-politics-and-revolt/",
+          "publishedOn": "2025-04-09T17:57:07.000Z",
+          "wordCount": null,
+          "title": "Martin Sostre: A Legacy of Jailhouse Law, Prefigurative Politics and Revolt",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254056",
+          "author": "The Beautiful Idea",
+          "description": "On September 6th of last year, 26 year old University of Washington graduate Ayşenur Ezgi Eygi was shot and killed by IDF soldiers while doing accompaniment in the West Bank of Palestine with International Solidarity Movement (ISM). In this episode, we speak with a friend of Ayşenur’s who had travelled to the West Bank to... Read Full Article",
+          "link": "https://itsgoingdown.org/the-murder-of-aysenur-ezgi-eygi-and-the-future-of-international-solidarity/",
+          "publishedOn": "2025-04-09T17:41:04.000Z",
+          "wordCount": null,
+          "title": "The Murder of Ayşenur Ezgi Eygi and the Future of International Solidarity",
+          "itunes": {
+            "duration": "1:21:02"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/itsgoingdown/thebeautifulidea.show/content/media/2025/04/The-Murder-of-Ay-enur-Ezgi-Eygi-and-the-Future-of-International-Solidarity.mp3",
+            "length": "116686125",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254049",
+          "author": "Anonymous Contributor",
+          "description": "Statement of solidarity with the photojournalist and community organizer David Peralta Betanzos who was recently attacked and robbed of his photo equipment by the cacique Manuel Zepeda Cortés in the community of Eloxochitlán de Flores Magón, Oaxaca. On April 3, 2025 the photojournalist David Peralta Betanzos, member of the Indigenous Mazatec community of Eloxochitlán de... Read Full Article",
+          "link": "https://itsgoingdown.org/photojournalist-david-peralta-betanzos-attacked-in-eloxochitlan-de-flores-magon/",
+          "publishedOn": "2025-04-09T13:46:35.000Z",
+          "wordCount": null,
+          "title": "Photojournalist David Peralta Betanzos Attacked and Robbed of His Equipment in Eloxochitlán de Flores Magón",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254043",
+          "author": "Anonymous Contributor",
+          "description": "The following collective letter comes in response to the discovery in early March by searching families of a forced recruitment and extermination camp in Teuchitlán, Jalisco, near Guadalajara. It was translated by Scott Campbell. To those who are not indifferent to the war: The discovery of the exploitation, torture, and extermination camp in Teuchitlán, Jalisco,... Read Full Article",
+          "link": "https://itsgoingdown.org/mexico-is-teuchitlan/",
+          "publishedOn": "2025-04-07T05:59:37.000Z",
+          "wordCount": null,
+          "title": "Because all of Mexico is Teuchitlán",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254027",
+          "author": "Black Rose Anarchist Federation",
+          "description": "An analysis of the recent wave of repression against international students and how communities might respond. The Trump administration has begun disappearing international students and workers from university campuses. This article, written by three academic workers, argues that this escalation was made possible by a campaign of repression initiated by universities themselves. After analyzing where... Read Full Article",
+          "link": "https://itsgoingdown.org/it-will-take-collective-direct-action-to-stop-the-abductions/",
+          "publishedOn": "2025-04-05T08:53:10.000Z",
+          "wordCount": null,
+          "title": "It Will Take Collective Direct Action to Stop the Abductions",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254024",
+          "author": "In Contempt",
+          "description": "In this column, we present our monthly roundup of political prisoner, prison rebel, and repression news, happenings, announcements, action and analysis. Packed in as always are updates, fundraisers, and birthdays. There’s a lot happening, so let’s dive right in! Protests Erupt Following DHS Abduction of Mahmoud Khalil and Crackdown on Palestine Solidarity \"The group…dismissed the... Read Full Article",
+          "link": "https://itsgoingdown.org/in-contempt-51/",
+          "publishedOn": "2025-04-05T08:37:23.000Z",
+          "wordCount": null,
+          "title": "In Contempt #51: Thousands Hit the Streets Against Deportations and Authoritarian Crackdown, ‘Imaginary Crimes’ Tour Kicks Off",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254018",
+          "author": "Outlaw Podcast",
+          "description": "Introducing Outlaw, a new podcast on “how the law is being used to repress liberation movements, and what we can do about it.” Listen and Download HERE Outlaw is an interview-driven podcast exploring how the law is wielded to suppress social movements in the U.S. and the strategies used to resist it. Through conversations with political prisoners,... Read Full Article",
+          "link": "https://itsgoingdown.org/outlaw-everyones-a-terrorist-with-michael-loadenthal/",
+          "publishedOn": "2025-03-31T20:38:33.000Z",
+          "wordCount": null,
+          "title": "Outlaw: Everyone’s a Terrorist with Michael Loadenthal",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254014",
+          "author": "Final Straw",
+          "description": "Long-running anarchist radio and podcast show The Final Straw speaks with “Imaginary Crimes” tour participants. This week, we’re sharing an interview with Selena who speaks about the “Stop Cop City: Imaginary Crimes Tour” and Jordan, a RICO defendant from the Stop Cop City 61 case. The two speak about anti-repression, about where the case is at... Read Full Article",
+          "link": "https://itsgoingdown.org/final-straw-stop-cop-city-imaginary-crimes-tour/",
+          "publishedOn": "2025-03-31T20:15:56.000Z",
+          "wordCount": null,
+          "title": "Final Straw: Stop Cop City “Imaginary Crimes Tour”",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253999",
+          "author": "Black Rose Anarchist Federation",
+          "description": "Critical discussion around mutual aid organizing from the Black Rose/Rosa Negra Anarchist Federation. If you’ve spent any time among people who want to better our world, you’ve probably heard a lot of talk about “organizing.” In the United States, activists use this term to describe any number of activities intended to oppose oppression, from planning... Read Full Article",
+          "link": "https://itsgoingdown.org/survival-of-the-organized-critical-reflections-on-organizing-and-mutual-aid/",
+          "publishedOn": "2025-03-31T19:59:59.000Z",
+          "wordCount": null,
+          "title": "Survival of the Organized: Critical Reflections on Organizing and Mutual Aid",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=254001",
+          "author": "It's Going Down",
+          "description": "Protests against billionaire Elon Musk and his growing attacks on federal workers, veterans, and social programs like Social Security, Medicare, and Medicaid, continued to gain momentum on Saturday, as thousands took part in hundreds of #TeslaTakedown demonstrations across the US and beyond, despite an attempt by small groups of neo-Nazis, Proud Boys, and Trump supporters... Read Full Article",
+          "link": "https://itsgoingdown.org/teslatakedown-protests-grow-nazis-proud-boys/",
+          "publishedOn": "2025-03-30T08:58:42.000Z",
+          "wordCount": null,
+          "title": "#TeslaTakedown Protests Grow as Proud Boys and White Supremacists Fail to Intimidate Demonstrators off the Streets",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253995",
+          "author": "Anonymous Contributor",
+          "description": "Report on recent “Dogs not DOGE” demonstration against Tesla in Bloomington, IN. A dozen people gathered in Bloomington, IN on March 22 for a “Dogs Not DOGE” protest at the only Tesla charging station in town. Upon arrival, cops were just dispersing after harassing an unhoused woman sitting nearby the charging station. For an hour,... Read Full Article",
+          "link": "https://itsgoingdown.org/bloomgington-dogs-not-doge/",
+          "publishedOn": "2025-03-25T20:00:46.000Z",
+          "wordCount": null,
+          "title": "Bloomington, IN: “Dogs not DOGE” Protests Tesla Charging Station",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253990",
+          "author": "Anonymous Contributor",
+          "description": "Report on recent mobilization in Stockton, CA against a far-Right, anti-LGBTQ+ speaker. To view zine PDF mentioned in this report, go here. On Wednesday March 19th 2025, students and community in Stockton, California mobilized against a transphobic speaking event hosted by the crypto-fascist campus group Turning Point USA (TPUSA). The event, titled “The Truth About... Read Full Article",
+          "link": "https://itsgoingdown.org/stockton-ca-protesters-mobilize-against-anti-lgbtq-speaker/",
+          "publishedOn": "2025-03-24T21:13:33.000Z",
+          "wordCount": null,
+          "title": "Stockton, CA: Protesters Mobilize Against Anti-LGBTQ+ Speaker",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253981",
+          "author": "Anonymous Contributor",
+          "description": "Critical reflection on how lessons from the first Trump presidency can inform emerging struggles and grassroots organizing.  As we transition into another four years of Trump, there are important lessons we need to learn from in order to guide us forward. It’s important to understand the root causes of this turn towards right-wing populism, to... Read Full Article",
+          "link": "https://itsgoingdown.org/what-i-learned-from-the-last-trump-presidency/",
+          "publishedOn": "2025-03-24T06:02:15.000Z",
+          "wordCount": null,
+          "title": "What I Learned from the Last Trump Presidency",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253965",
+          "author": "Anonymous Contributor",
+          "description": "A look at the evolving authoritarian makeup of the second Trump presidency and the threat that it poses. Originally published at The Now Times. We are now 9 weeks into the second Trump presidency. In that time, nothing has occurred that suggests we are not on the path of the Worst Case Scenario — an... Read Full Article",
+          "link": "https://itsgoingdown.org/the-counter-revolution-we-earned/",
+          "publishedOn": "2025-03-24T05:53:39.000Z",
+          "wordCount": null,
+          "title": "The Counter-Revolution We Earned",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253977",
+          "author": "Black Rose Anarchist Federation",
+          "description": "Members of the Black Rose Anarchist Federation speak with organizers of the Koreatown Popular Assembly (KPA), who worked to stop deportations and ICE raids during the first Trump administration. This interview is a reflection on the successes and missteps of the Koreatown Popular Assembly (KPA), an attempt at neighborhood based organizing that existed from 2016-2022... Read Full Article",
+          "link": "https://itsgoingdown.org/how-the-koreatown-popular-assembly-organized-neighborhood-power-to-confront-ice/",
+          "publishedOn": "2025-03-24T05:41:45.000Z",
+          "wordCount": null,
+          "title": "How the Koreatown Popular Assembly Organized Neighborhood Power to Confront ICE",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253968",
+          "author": "Anonymous Contributor",
+          "description": "Call out to participate in an international anarchist and anti-carceral poetry collection in solidarity with anarchist prisoners. Se puede encontrar la convocatoria en español aquí en la página del periódico anarquista Sol Acrata. Individuals and collectives from different regions of the Global South/ Abya Yala, gathered together in different projects in the Chilean region–Guitarras Libertarias... Read Full Article",
+          "link": "https://itsgoingdown.org/international-call-for-anarchist-and-anti-carceral-poets/",
+          "publishedOn": "2025-03-21T00:21:07.000Z",
+          "wordCount": null,
+          "title": "International Call for Anarchist and Anti-Carceral Poets",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253960",
+          "author": "Anonymous Contributor",
+          "description": "Anarchist author and organizer Cindy Milstein writes on antisemitism. This was originally published in the anthology, There Is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists. Check out a zine version of this text, here. by Cindy Milstein Hurt: still. We are moved because it hurts still. We are not... Read Full Article",
+          "link": "https://itsgoingdown.org/antisemitism-hurts/",
+          "publishedOn": "2025-03-20T19:55:12.000Z",
+          "wordCount": null,
+          "title": "Antisemitism Hurts",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253944",
+          "author": "Lake Effect Collective",
+          "description": "Analysis from the Lake Effect Collective on the recent attack on Mahmoud Khalil at Columbia University. Mahmoud Khalil, a participant in Columbia’s path-breaking Palestine solidarity encampment, has been abducted from his home, labeled a “national security threat,” detained and shipped to Louisiana pending deportation. This abduction and its justification distill four years of state responses... Read Full Article",
+          "link": "https://itsgoingdown.org/why-mahmoud-ransom-and-retribution/",
+          "publishedOn": "2025-03-17T20:38:53.000Z",
+          "wordCount": null,
+          "title": "Why Mahmoud?: Ransom and Retribution",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253947",
+          "author": "Anonymous Contributor",
+          "description": "On March 5, the Warrior Searchers of Jalisco, a collective of family members of the disappeared, found a gruesome scene on a ranch in Teuchitlán, near Guadalajara, Jalisco. There, at a location supposedly searched by the state government in September 2024, they found three cremation ovens, clandestine graves, hundreds of human remains, and countless personal... Read Full Article",
+          "link": "https://itsgoingdown.org/horror-comes-again-march-15-mexico-national-mourning/",
+          "publishedOn": "2025-03-15T04:45:00.000Z",
+          "wordCount": null,
+          "title": "When the horror comes to light again. March 15 in Mexico: National Mourning",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253939",
+          "author": "The Beautiful Idea",
+          "description": "In this episode of The Beautiful Idea, we present an interview with author Jamie Merchant, author of Engame: Economic Nationalism and Global Decline and numerous articles at The Brooklyn Rail. Merchant argues that we have entered a post-neoliberal age, with both Trump and Biden abandoning many of the touch-stones of corporate globalization that defined the... Read Full Article",
+          "link": "https://itsgoingdown.org/trump-the-tech-right-and-the-post-neoliberal-order/",
+          "publishedOn": "2025-03-14T19:57:53.000Z",
+          "wordCount": null,
+          "title": "Trump, the Tech-Right, and the Post-Neoliberal Order",
+          "itunes": {
+            "duration": "1:43:05"
+          },
+          "enclosure": {
+            "url": "https://media.blubrry.com/itsgoingdown/ia600109.us.archive.org/31/items/trump-the-tech-right-and-the-post-neoliberal-order/Trump--the-Tech-Right--and-the-Post-Neoliberal-Order.mp3",
+            "length": "148445613",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://itsgoingdown.org/?p=253938",
+          "author": "Final Straw",
+          "description": "Long-running anarchist radio show and podcast The Final Straw speaks with a member of About Face.  This week, we’re featuring an interview with Fig, an anarchist and member of the anti-Imperialist US veterans organization About Face to talk about decruitment, the work of About Face and an assessment of shifts in military priority under the lead... Read Full Article",
+          "link": "https://itsgoingdown.org/final-straw-military-decruitment-trump-2-0-and-resisting-new-empire/",
+          "publishedOn": "2025-03-14T19:56:47.000Z",
+          "wordCount": null,
+          "title": "Final Straw: Military Decruitment, Trump 2.0 and Resisting New Empire",
+          "itunes": {},
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
