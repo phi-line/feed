@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=148287",
+          "author": "Shalma Wegsman",
+          "description": "A new proposal makes the case that paraparticles — a new category of quantum particle — could be created in exotic materials.             \nThe post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/",
+          "publishedOn": "2025-04-11T13:55:26.000Z",
+          "wordCount": 3187,
+          "title": "‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/Paraparticles-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=148208",
           "author": "Joseph Howlett",
           "description": "The mathematician Tai-Danae Bradley is using category theory to try to understand both human and AI-generated language.            \nThe post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appeared on Quanta Magazine",
@@ -71,16 +81,6 @@
           "wordCount": 8634,
           "title": "What Is the True Promise of Quantum Computing?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/EPs2QuantumVs1_crPeterGreenwood-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=147924",
-          "author": "Philip Ball",
-          "description": "A new suggestion that complexity increases over time, not just in living organisms but in the nonliving world, promises to rewrite notions of time and evolution.            \nThe post Why Everything in the Universe Turns More Complex first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/",
-          "publishedOn": "2025-04-02T14:55:40.000Z",
-          "wordCount": 5091,
-          "title": "Why Everything in the Universe Turns More Complex",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/LawOfComplexity-crIrenePerez-Social.jpg"
         }
       ]
     },
