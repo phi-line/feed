@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T12:06:21.361Z</id>
+    <id>urn:2025-04-13T18:04:57.836Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T12:06:21.361Z</updated>
+    <updated>2025-04-13T18:04:57.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -278,16 +278,6 @@ The post What Is the True Promise of Quantum Computing? first appeared on Quanta
         <summary type="html"><![CDATA[Analysis from the Lake Effect Collective on the recent attack on Mahmoud Khalil at Columbia University. Mahmoud Khalil, a participant in Columbia’s path-breaking Palestine solidarity encampment, has been abducted from his home, labeled a “national security threat,” detained and shipped to Louisiana pending deportation. This abduction and its justification distill four years of state responses... Read Full Article]]></summary>
         <author>
             <name>Lake Effect Collective</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the horror comes to light again. March 15 in Mexico: National Mourning]]></title>
-        <id>https://itsgoingdown.org/?p=253947</id>
-        <link href="https://itsgoingdown.org/horror-comes-again-march-15-mexico-national-mourning/"/>
-        <updated>2025-03-15T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[On March 5, the Warrior Searchers of Jalisco, a collective of family members of the disappeared, found a gruesome scene on a ranch in Teuchitlán, near Guadalajara, Jalisco. There, at a location supposedly searched by the state government in September 2024, they found three cremation ovens, clandestine graves, hundreds of human remains, and countless personal... Read Full Article]]></summary>
-        <author>
-            <name>Anonymous Contributor</name>
         </author>
     </entry>
 </feed>
