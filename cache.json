@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=148362",
+          "author": "Anil Ananthaswamy",
+          "description": "We insist that large language models repeatedly translate their mathematical processes into words. There may be a better way.            \nThe post To Make Language Models Work Better, Researchers Sidestep Language first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/",
+          "publishedOn": "2025-04-14T14:21:56.000Z",
+          "wordCount": 3383,
+          "title": "To Make Language Models Work Better, Researchers Sidestep Language",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/LLMNativeLanguage-crMyriamWares-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=148287",
           "author": "Shalma Wegsman",
           "description": "A new proposal makes the case that paraparticles — a new category of quantum particle — could be created in exotic materials.             \nThe post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first appeared on Quanta Magazine",
@@ -71,16 +81,6 @@
           "wordCount": 2525,
           "title": "How a Problem About Pigeons Powers Complexity Theory",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/Pigeonhole-cr.Brady-Clegg-Shutterstock-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=147956",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "Despite the hype, it’s been surprisingly challenging to find quantum algorithms that outperform classical ones. In this episode, Ewin Tang discusses her pioneering work in “dequantizing” quantum algorithms — and what it means for the future of quantum computing.            \nThe post What Is the True Promise of Quantum Computing? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-is-the-true-promise-of-quantum-computing-20250403/",
-          "publishedOn": "2025-04-03T14:35:57.000Z",
-          "wordCount": 8634,
-          "title": "What Is the True Promise of Quantum Computing?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/EPs2QuantumVs1_crPeterGreenwood-Social-LOGO.jpg"
         }
       ]
     },
