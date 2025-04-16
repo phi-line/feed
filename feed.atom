@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T12:07:07.670Z</id>
+    <id>urn:2025-04-16T17:42:16.409Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T12:07:07.670Z</updated>
+    <updated>2025-04-16T17:42:16.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors]]></title>
+        <id>https://www.quantamagazine.org/?p=148537</id>
+        <link href="https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/"/>
+        <updated>2025-04-16T14:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Every soft caress of wind, searing burn and seismic rumble is detected by our skin’s tangle of touch sensors. David Ginty has spent his career cataloging the neurons beneath everyday sensations.            
+The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ariel Bleicher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers claim breakthrough in fight against AI’s frustrating security hole]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/"/>
+        <updated>2025-04-16T11:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4chan has been down since Monday night after “pretty comprehensive own”]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/"/>
+        <updated>2025-04-15T18:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Early info is unreliable, but the site has been mostly unavailable for hours.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aruba’s Digitized Slavery Documents Added to UNESCO’s International Memory of the World Register]]></title>
         <id>https://blog.archive.org/?p=28710</id>
@@ -26,6 +57,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI continues naming chaos despite CEO acknowledging the habit]]></title>
+        <id>https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/</id>
+        <link href="https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/"/>
+        <updated>2025-04-14T20:53:51.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's brand-new "GPT-4.1" has a funky name but reasonable performance for the price.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amid Trump tariff chaos, Nvidia launches AI chip production on US soil]]></title>
+        <id>https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/</id>
+        <link href="https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/"/>
+        <updated>2025-04-14T15:55:47.000Z</updated>
+        <summary type="html"><![CDATA[New announcement seems aimed at appeasing Trump, signals company shift.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[To Make Language Models Work Better, Researchers Sidestep Language]]></title>
         <id>https://www.quantamagazine.org/?p=148362</id>
         <link href="https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/"/>
@@ -37,6 +88,16 @@ The post To Make Language Models Work Better, Researchers Sidestep Language firs
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[That groan you hear is users’ reaction to Recall going back into Windows]]></title>
+        <id>https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/</id>
+        <link href="https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/"/>
+        <updated>2025-04-11T18:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle]]></title>
         <id>https://www.quantamagazine.org/?p=148287</id>
         <link href="https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/"/>
@@ -45,6 +106,46 @@ The post To Make Language Models Work Better, Researchers Sidestep Language firs
 The post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Shalma Wegsman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher uncovers dozens of sketchy Chrome extensions with 4 million installs]]></title>
+        <id>https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/</id>
+        <link href="https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/"/>
+        <updated>2025-04-11T11:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Even weirder: Why would Google give so many the "Featured" stamp for trustworthiness?]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers concerned to find AI models misrepresenting their “reasoning” processes]]></title>
+        <id>https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/</id>
+        <link href="https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/"/>
+        <updated>2025-04-10T22:37:13.000Z</updated>
+        <summary type="html"><![CDATA[New Anthropic research shows AI models often fail to disclose reasoning shortcuts.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI helps spammers plaster 80,000 sites with messages that bypassed filters]]></title>
+        <id>https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/</id>
+        <link href="https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/"/>
+        <updated>2025-04-09T19:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Company didn't notice its chatbot was being abused for (at least) 4 months.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After months of user complaints, Anthropic debuts new $200/month AI plan]]></title>
+        <id>https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/</id>
+        <link href="https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/"/>
+        <updated>2025-04-09T19:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Two-tiered "Claude Max" expands rate limits and offers traffic priority to subscribers.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +170,26 @@ The post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appear
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“The girl should be calling men.” Leak exposes Black Basta’s influence tactics.]]></title>
+        <id>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</id>
+        <link href="https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/"/>
+        <updated>2025-04-08T20:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Disclosure of tactics, techniques, and procedures provides rare glimpse into secretive group.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”]]></title>
+        <id>https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/</id>
+        <link href="https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/"/>
+        <updated>2025-04-08T18:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Carmack: "Power tools" like AI are "central to all the progress in computers."]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration]]></title>
         <id>https://blog.archive.org/?p=28668</id>
         <link href="https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/"/>
@@ -76,6 +197,16 @@ The post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appear
         <summary type="html"><![CDATA[Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]]]></summary>
         <author>
             <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality]]></title>
+        <id>https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/</id>
+        <link href="https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/"/>
+        <updated>2025-04-07T19:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Touted 10M token context proves elusive, while early performance tests disappoint experts.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -100,14 +231,33 @@ The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a Problem About Pigeons Powers Complexity Theory]]></title>
-        <id>https://www.quantamagazine.org/?p=147987</id>
-        <link href="https://www.quantamagazine.org/how-a-problem-about-pigeons-powers-complexity-theory-20250404/"/>
-        <updated>2025-04-04T13:47:39.000Z</updated>
-        <summary type="html"><![CDATA[When pigeons outnumber pigeonholes, some birds must double up. This obvious statement — and its inverse — have deep connections to many areas of math and computer science.             
-The post How a Problem About Pigeons Powers Complexity Theory first appeared on Quanta Magazine]]></summary>
+        <title type="html"><![CDATA[NSA warns “fast flux” threatens national security. What is fast flux anyway?]]></title>
+        <id>https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/</id>
+        <link href="https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/"/>
+        <updated>2025-04-04T20:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Used by nation-states and crime groups, fast flux bypasses many common defenses.]]></summary>
         <author>
-            <name>Ben Brubaker</name>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail unveils end-to-end encrypted messages. Only thing is: It’s not true E2EE.]]></title>
+        <id>https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/</id>
+        <link href="https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/"/>
+        <updated>2025-04-03T21:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Yes, encryption/decryption occurs on end-user devices, but there's a catch.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI bots strain Wikimedia as bandwidth surges 50%]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/"/>
+        <updated>2025-04-02T17:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Automated AI bots seeking training data threaten Wikipedia project stability, foundation says.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -121,6 +271,16 @@ The post How a Problem About Pigeons Powers Complexity Theory first appeared on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MCP: The new “USB-C for AI” that’s bringing fierce rivals together]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together/"/>
+        <updated>2025-04-01T11:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Model context protocol standardizes how AI uses data sources, supported by OpenAI and Anthropic.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
         <id>https://pudding.cool/2025/04/music-dna</id>
         <link href="https://pudding.cool/2025/04/music-dna"/>
@@ -128,6 +288,46 @@ The post How a Problem About Pigeons Powers Complexity Theory first appeared on 
         <summary type="html"><![CDATA[The Generational Legacy of Samples in Music]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What could possibly go wrong? DOGE to rapidly rebuild Social Security codebase.]]></title>
+        <id>https://arstechnica.com/tech-policy/2025/03/what-could-possibly-go-wrong-doge-to-rapidly-rebuild-social-security-codebase/</id>
+        <link href="https://arstechnica.com/tech-policy/2025/03/what-could-possibly-go-wrong-doge-to-rapidly-rebuild-social-security-codebase/"/>
+        <updated>2025-03-29T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[A safe and proper rewrite should take years not months.]]></summary>
+        <author>
+            <name>Makena Kelly, wired.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond RGB: A new image file format efficiently stores invisible light data]]></title>
+        <id>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</id>
+        <link href="https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/"/>
+        <updated>2025-03-28T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[New Spectral JPEG XL compression reduces file sizes, making spectral imaging more practical.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle has reportedly suffered 2 separate breaches exposing thousands of customers‘ PII]]></title>
+        <id>https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/</id>
+        <link href="https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/"/>
+        <updated>2025-03-28T19:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Alleged breaches affect Oracle Cloud and Oracle Health.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini hackers can deliver more potent attacks with a helping hand from… Gemini]]></title>
+        <id>https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/</id>
+        <link href="https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/"/>
+        <updated>2025-03-28T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Hacking LLMs has always been more art than science. A new attack on Gemini could change that.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
