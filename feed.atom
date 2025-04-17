@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T18:05:49.991Z</id>
+    <id>urn:2025-04-17T00:18:08.784Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T18:05:49.991Z</updated>
+    <updated>2025-04-17T00:18:08.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI releases new simulated reasoning models with full tool access]]></title>
+        <id>https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/</id>
+        <link href="https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/"/>
+        <updated>2025-04-16T22:21:38.000Z</updated>
+        <summary type="html"><![CDATA[New o3 model appears "near-genius level," according to one doctor, but it still makes mistakes.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors]]></title>
         <id>https://www.quantamagazine.org/?p=148537</id>
@@ -24,6 +34,16 @@ The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first
         <summary type="html"><![CDATA[Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.]]></summary>
         <author>
             <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pour-igin of Species]]></title>
+        <id>https://pudding.cool/2025/04/wine-animals</id>
+        <link href="https://pudding.cool/2025/04/wine-animals"/>
+        <updated>2025-04-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
+        <author>
+            <name>The Pudding</name>
         </author>
     </entry>
     <entry>
@@ -284,8 +304,8 @@ The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeare
         <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
         <id>https://pudding.cool/2025/04/music-dna</id>
         <link href="https://pudding.cool/2025/04/music-dna"/>
-        <updated>2025-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Generational Legacy of Samples in Music]]></summary>
+        <updated>2025-04-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
         </author>
@@ -321,16 +341,6 @@ The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini hackers can deliver more potent attacks with a helping hand from… Gemini]]></title>
-        <id>https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/</id>
-        <link href="https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/"/>
-        <updated>2025-03-28T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Hacking LLMs has always been more art than science. A new attack on Gemini could change that.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DWeb and Digital Rights: A Report Back from RightsCon in Taipei]]></title>
         <id>https://blog.archive.org/?p=28618</id>
         <link href="https://blog.archive.org/2025/03/26/dweb-and-digital-rights-a-report-back-from-rightscon-in-taipei/"/>
@@ -354,8 +364,8 @@ The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeare
         <title type="html"><![CDATA[What we can learn from watching reality stars apologize]]></title>
         <id>https://pudding.cool/2025/03/housewives</id>
         <link href="https://pudding.cool/2025/03/housewives"/>
-        <updated>2025-03-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What we can learn from watching reality stars apologize]]></summary>
+        <updated>2025-03-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What we can learn from watching reality stars apologize.]]></summary>
         <author>
             <name>The Pudding</name>
         </author>
