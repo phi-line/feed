@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-17T12:06:59.332Z</id>
+    <id>urn:2025-04-17T18:05:44.384Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T12:06:59.332Z</updated>
+    <updated>2025-04-17T18:05:44.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
+        <id>https://blog.archive.org/?p=28714</id>
+        <link href="https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/"/>
+        <updated>2025-04-17T17:32:01.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive needs your help. A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding $700 million for our work preserving and providing access to […]]]></summary>
+        <author>
+            <name>Chris Freeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Webs Digitization Grant Reveals Stories of San Francisco’s Immigrant Communities]]></title>
+        <id>https://blog.archive.org/?p=28720</id>
+        <link href="https://blog.archive.org/2025/04/17/community-webs-digitization-grant-reveals-stories-of-san-franciscos-immigrant-communities/"/>
+        <updated>2025-04-17T16:35:42.000Z</updated>
+        <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
+        <author>
+            <name>Anna Trammell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Quantum Gravity Be Created in the Lab?]]></title>
+        <id>https://www.quantamagazine.org/?p=148520</id>
+        <link href="https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/"/>
+        <updated>2025-04-17T13:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Quantum gravity could help physicists unite the currently incompatible worlds of quantum mechanics and gravity. In this episode, Monika Schleier-Smith discusses her pioneering experimental approach, using laser-cooled atoms to explore whether gravity could emerge from quantum entanglement.            
+The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz and Janna Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI releases new simulated reasoning models with full tool access]]></title>
         <id>https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/</id>
@@ -230,17 +261,6 @@ The post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intelligence Evolved at Least Twice in Vertebrate Animals]]></title>
-        <id>https://www.quantamagazine.org/?p=148101</id>
-        <link href="https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/"/>
-        <updated>2025-04-07T14:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Complex neural pathways likely arose independently in birds and mammals, suggesting that vertebrates evolved intelligence multiple times.            
-The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vanishing Culture: Preserving the Library System]]></title>
         <id>https://blog.archive.org/?p=28662</id>
         <link href="https://blog.archive.org/2025/04/07/vanishing-culture-preserving-the-library-system/"/>
@@ -358,16 +378,6 @@ The post Intelligence Evolved at Least Twice in Vertebrate Animals first appeare
         <summary type="html"><![CDATA[Yesterday, the Internet Archive submitted its response to the record labels’ recent motion, which seeks to add an additional 493 sound recordings to their lawsuit against the Internet Archive for […]]]></summary>
         <author>
             <name>internetarchive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we can learn from watching reality stars apologize]]></title>
-        <id>https://pudding.cool/2025/03/housewives</id>
-        <link href="https://pudding.cool/2025/03/housewives"/>
-        <updated>2025-03-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What we can learn from watching reality stars apologize.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>
