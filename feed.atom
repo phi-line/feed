@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-17T18:05:44.384Z</id>
+    <id>urn:2025-04-18T00:17:55.591Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T18:05:44.384Z</updated>
+    <updated>2025-04-18T00:17:55.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Company apologizes after AI support agent invents policy that causes user uproar]]></title>
+        <id>https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/</id>
+        <link href="https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/"/>
+        <updated>2025-04-17T22:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Frustrated software developer believed AI-generated message came from human support rep.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
         <id>https://blog.archive.org/?p=28714</id>
@@ -348,16 +358,6 @@ The post Where Does Meaning Live in a Sentence? Math Might Tell Us. first appear
         <summary type="html"><![CDATA[New Spectral JPEG XL compression reduces file sizes, making spectral imaging more practical.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle has reportedly suffered 2 separate breaches exposing thousands of customers‘ PII]]></title>
-        <id>https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/</id>
-        <link href="https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/"/>
-        <updated>2025-03-28T19:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Alleged breaches affect Oracle Cloud and Oracle Health.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
