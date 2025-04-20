@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T00:20:10.047Z</id>
+    <id>urn:2025-04-20T06:05:32.941Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T00:20:10.047Z</updated>
+    <updated>2025-04-20T06:05:32.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -368,16 +368,6 @@ The post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first 
         <summary type="html"><![CDATA[In late February, members of the DWeb Core Team and the DWeb community were in Taipei to attend the 13th edition of RightsCon, the largest global summit on human rights […]]]></summary>
         <author>
             <name>mai ishikawa sutton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Archive Responds to Record Labels: Stop Playing “Hide-The-Ball”]]></title>
-        <id>https://blog.archive.org/?p=28605</id>
-        <link href="https://blog.archive.org/2025/03/21/internet-archive-responds-to-record-labels-stop-playing-hide-the-ball/"/>
-        <updated>2025-03-21T13:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, the Internet Archive submitted its response to the record labels’ recent motion, which seeks to add an additional 493 sound recordings to their lawsuit against the Internet Archive for […]]]></summary>
-        <author>
-            <name>internetarchive</name>
         </author>
     </entry>
 </feed>

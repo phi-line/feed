@@ -178,16 +178,6 @@
           "wordCount": 3085,
           "title": "DWeb and Digital Rights: A Report Back from RightsCon in Taipei",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.archive.org/?p=28605",
-          "author": "internetarchive",
-          "description": "Yesterday, the Internet Archive submitted its response to the record labels’ recent motion, which seeks to add an additional 493 sound recordings to their lawsuit against the Internet Archive for […]",
-          "link": "https://blog.archive.org/2025/03/21/internet-archive-responds-to-record-labels-stop-playing-hide-the-ball/",
-          "publishedOn": "2025-03-21T13:56:00.000Z",
-          "wordCount": 3053,
-          "title": "Internet Archive Responds to Record Labels: Stop Playing “Hide-The-Ball”",
-          "imageUrl": null
         }
       ]
     },
@@ -202,7 +192,7 @@
           "description": "Frustrated software developer believed AI-generated message came from human support rep.",
           "link": "https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/",
           "publishedOn": "2025-04-17T22:42:23.000Z",
-          "wordCount": 2362,
+          "wordCount": 2361,
           "title": "Company apologizes after AI support agent invents policy that causes user uproar",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/telephone_robot_2-1152x648.jpg"
         },
@@ -212,7 +202,7 @@
           "description": "New o3 model appears \"near-genius level,\" according to one doctor, but it still makes mistakes.",
           "link": "https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/",
           "publishedOn": "2025-04-16T22:21:38.000Z",
-          "wordCount": 2976,
+          "wordCount": 2973,
           "title": "OpenAI releases new simulated reasoning models with full tool access",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/digital_thinker_1-1152x648.jpg"
         },
@@ -222,7 +212,7 @@
           "description": "Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.",
           "link": "https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/",
           "publishedOn": "2025-04-16T11:15:44.000Z",
-          "wordCount": 3172,
+          "wordCount": 3173,
           "title": "Researchers claim breakthrough in fight against AI’s frustrating security hole",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/camel_image-1152x648.jpg"
         },
@@ -232,7 +222,7 @@
           "description": "Early info is unreliable, but the site has been mostly unavailable for hours.",
           "link": "https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/",
           "publishedOn": "2025-04-15T18:43:29.000Z",
-          "wordCount": 1832,
+          "wordCount": 1831,
           "title": "4chan has been down since Monday night after “pretty comprehensive own”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/4chan-logo-1152x648.png"
         },
@@ -242,7 +232,7 @@
           "description": "OpenAI's brand-new \"GPT-4.1\" has a funky name but reasonable performance for the price.",
           "link": "https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/",
           "publishedOn": "2025-04-14T20:53:51.000Z",
-          "wordCount": 2485,
+          "wordCount": 2484,
           "title": "OpenAI continues naming chaos despite CEO acknowledging the habit",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/confused_man_2-1152x648.jpg"
         },
@@ -262,7 +252,7 @@
           "description": "Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?",
           "link": "https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/",
           "publishedOn": "2025-04-11T18:45:40.000Z",
-          "wordCount": 2222,
+          "wordCount": 2228,
           "title": "That groan you hear is users’ reaction to Recall going back into Windows",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/win11-recall-listing-1152x648.jpg"
         },
@@ -272,7 +262,7 @@
           "description": "Even weirder: Why would Google give so many the \"Featured\" stamp for trustworthiness?",
           "link": "https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/",
           "publishedOn": "2025-04-11T11:15:59.000Z",
-          "wordCount": 2733,
+          "wordCount": 2744,
           "title": "Researcher uncovers dozens of sketchy Chrome extensions with 4 million installs",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/chrome-browser-1000x648.jpg"
         },
@@ -282,7 +272,7 @@
           "description": "New Anthropic research shows AI models often fail to disclose reasoning shortcuts.",
           "link": "https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/",
           "publishedOn": "2025-04-10T22:37:13.000Z",
-          "wordCount": 2619,
+          "wordCount": 2616,
           "title": "Researchers concerned to find AI models misrepresenting their “reasoning” processes",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_fibbing-1152x648.jpg"
         },
@@ -292,7 +282,7 @@
           "description": "Company didn't notice its chatbot was being abused for (at least) 4 months.",
           "link": "https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/",
           "publishedOn": "2025-04-09T19:32:31.000Z",
-          "wordCount": 1965,
+          "wordCount": 1976,
           "title": "OpenAI helps spammers plaster 80,000 sites with messages that bypassed filters",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/chatbot-1152x648.jpg"
         },
@@ -302,7 +292,7 @@
           "description": "Two-tiered \"Claude Max\" expands rate limits and offers traffic priority to subscribers.",
           "link": "https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/",
           "publishedOn": "2025-04-09T19:20:07.000Z",
-          "wordCount": 2006,
+          "wordCount": 2005,
           "title": "After months of user complaints, Anthropic debuts new $200/month AI plan",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/anthropic_max-1152x648.jpg"
         },
@@ -312,7 +302,7 @@
           "description": "Disclosure of tactics, techniques, and procedures provides rare glimpse into secretive group.",
           "link": "https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/",
           "publishedOn": "2025-04-08T20:47:23.000Z",
-          "wordCount": 2386,
+          "wordCount": 2394,
           "title": "“The girl should be calling men.” Leak exposes Black Basta’s influence tactics.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet.jpg"
         },
@@ -322,7 +312,7 @@
           "description": "Carmack: \"Power tools\" like AI are \"central to all the progress in computers.\"",
           "link": "https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/",
           "publishedOn": "2025-04-08T18:26:33.000Z",
-          "wordCount": 2564,
+          "wordCount": 2565,
           "title": "Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/quake_II_ripple-1152x648.jpg"
         },
@@ -332,7 +322,7 @@
           "description": "Touted 10M token context proves elusive, while early performance tests disappoint experts.",
           "link": "https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/",
           "publishedOn": "2025-04-07T19:54:47.000Z",
-          "wordCount": 2547,
+          "wordCount": 2546,
           "title": "Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/llama_head_1-1152x648.jpg"
         },
@@ -342,7 +332,7 @@
           "description": "Used by nation-states and crime groups, fast flux bypasses many common defenses.",
           "link": "https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/",
           "publishedOn": "2025-04-04T20:17:13.000Z",
-          "wordCount": 1982,
+          "wordCount": 1974,
           "title": "NSA warns “fast flux” threatens national security. What is fast flux anyway?",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/botnet.jpg"
         },
@@ -382,7 +372,7 @@
           "description": "A safe and proper rewrite should take years not months.",
           "link": "https://arstechnica.com/tech-policy/2025/03/what-could-possibly-go-wrong-doge-to-rapidly-rebuild-social-security-codebase/",
           "publishedOn": "2025-03-29T14:08:49.000Z",
-          "wordCount": 3486,
+          "wordCount": 3484,
           "title": "What could possibly go wrong? DOGE to rapidly rebuild Social Security codebase.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/cobolcode-1152x648.jpg"
         },
@@ -392,7 +382,7 @@
           "description": "New Spectral JPEG XL compression reduces file sizes, making spectral imaging more practical.",
           "link": "https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/",
           "publishedOn": "2025-03-28T22:11:00.000Z",
-          "wordCount": 2696,
+          "wordCount": 2693,
           "title": "Beyond RGB: A new image file format efficiently stores invisible light data",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/spectral_prisms-1152x648.jpg"
         }
