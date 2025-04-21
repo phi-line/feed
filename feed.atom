@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T12:06:49.631Z</id>
+    <id>urn:2025-04-21T18:05:49.249Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T12:06:49.631Z</updated>
+    <updated>2025-04-21T18:05:49.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Annoyed ChatGPT users complain about bot’s relentlessly positive tone]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/"/>
+        <updated>2025-04-21T16:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Users complain of new "sycophancy" streak where ChatGPT thinks everything is brilliant.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Biofilm’s Strange Shape Emerges From Cellular Geometry]]></title>
+        <id>https://www.quantamagazine.org/?p=148776</id>
+        <link href="https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/"/>
+        <updated>2025-04-21T14:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Micro decisions can have macro consequences. A soft matter physicist reveals how interactions within simple cellular collectives can lead to emergent physical traits.            
+The post How a Biofilm’s Strange Shape Emerges From Cellular Geometry first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Carrie Arnold</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Proof Settles Decades-Old Bet About Connected Networks]]></title>
         <id>https://www.quantamagazine.org/?p=148716</id>
@@ -167,17 +188,6 @@ The post To Make Language Models Work Better, Researchers Sidestep Language firs
         <summary type="html"><![CDATA[Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle]]></title>
-        <id>https://www.quantamagazine.org/?p=148287</id>
-        <link href="https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/"/>
-        <updated>2025-04-11T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[A new proposal makes the case that paraparticles — a new category of quantum particle — could be created in exotic materials.             
-The post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Shalma Wegsman</name>
         </author>
     </entry>
     <entry>
@@ -348,16 +358,6 @@ The post ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle first 
         <summary type="html"><![CDATA[A safe and proper rewrite should take years not months.]]></summary>
         <author>
             <name>Makena Kelly, wired.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond RGB: A new image file format efficiently stores invisible light data]]></title>
-        <id>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</id>
-        <link href="https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/"/>
-        <updated>2025-03-28T22:11:00.000Z</updated>
-        <summary type="html"><![CDATA[New Spectral JPEG XL compression reduces file sizes, making spectral imaging more practical.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
