@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T12:07:04.335Z</id>
+    <id>urn:2025-04-23T18:05:57.086Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T12:07:04.335Z</updated>
+    <updated>2025-04-23T18:05:57.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Improving Deep Learning With a Little Help From Physics]]></title>
+        <id>https://www.quantamagazine.org/?p=148967</id>
+        <link href="https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/"/>
+        <updated>2025-04-23T14:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Rose Yu has a plan for how to make AI better, faster and smarter — and it’s already yielding results.            
+The post Improving Deep Learning With a Little Help From Physics first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Digital Collection Preserves Key Books on Drug Use and Policy]]></title>
+        <id>https://blog.archive.org/?p=28748</id>
+        <link href="https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/"/>
+        <updated>2025-04-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]]]></summary>
+        <author>
+            <name>Caralee Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Annoyed ChatGPT users complain about bot’s relentlessly positive tone]]></title>
         <id>https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/</id>
@@ -167,17 +188,6 @@ The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first
         <summary type="html"><![CDATA[New announcement seems aimed at appeasing Trump, signals company shift.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Make Language Models Work Better, Researchers Sidestep Language]]></title>
-        <id>https://www.quantamagazine.org/?p=148362</id>
-        <link href="https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/"/>
-        <updated>2025-04-14T14:21:56.000Z</updated>
-        <summary type="html"><![CDATA[We insist that large language models repeatedly translate their mathematical processes into words. There may be a better way.            
-The post To Make Language Models Work Better, Researchers Sidestep Language first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Anil Ananthaswamy</name>
         </author>
     </entry>
     <entry>
