@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T12:07:08.680Z</id>
+    <id>urn:2025-04-24T18:05:12.684Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T12:07:08.680Z</updated>
+    <updated>2025-04-24T18:05:12.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -124,7 +124,7 @@ The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first
         <title type="html"><![CDATA[The Pour-igin of Species]]></title>
         <id>https://pudding.cool/2025/04/wine-animals</id>
         <link href="https://pudding.cool/2025/04/wine-animals"/>
-        <updated>2025-04-16T05:00:00.000Z</updated>
+        <updated>2025-04-16T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
         <author>
             <name>The Pudding</name>
@@ -344,7 +344,7 @@ The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first
         <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
         <id>https://pudding.cool/2025/04/music-dna</id>
         <link href="https://pudding.cool/2025/04/music-dna"/>
-        <updated>2025-04-01T05:00:00.000Z</updated>
+        <updated>2025-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
