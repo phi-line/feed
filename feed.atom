@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T18:05:12.684Z</id>
+    <id>urn:2025-04-25T00:18:52.090Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T18:05:12.684Z</updated>
+    <updated>2025-04-25T00:18:52.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Android spyware is targeting Russian military personnel on the front lines]]></title>
+        <id>https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/</id>
+        <link href="https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/"/>
+        <updated>2025-04-24T20:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Trojanized mapping app steals users' locations, contacts, and more.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving Deep Learning With a Little Help From Physics]]></title>
         <id>https://www.quantamagazine.org/?p=148967</id>
@@ -348,16 +358,6 @@ The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first
         <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What could possibly go wrong? DOGE to rapidly rebuild Social Security codebase.]]></title>
-        <id>https://arstechnica.com/tech-policy/2025/03/what-could-possibly-go-wrong-doge-to-rapidly-rebuild-social-security-codebase/</id>
-        <link href="https://arstechnica.com/tech-policy/2025/03/what-could-possibly-go-wrong-doge-to-rapidly-rebuild-social-security-codebase/"/>
-        <updated>2025-03-29T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[A safe and proper rewrite should take years not months.]]></summary>
-        <author>
-            <name>Makena Kelly, wired.com</name>
         </author>
     </entry>
     <entry>
