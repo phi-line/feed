@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T12:06:53.082Z</id>
+    <id>urn:2025-04-25T18:05:43.630Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T12:06:53.082Z</updated>
+    <updated>2025-04-25T18:05:43.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s Going On Inside Io, Jupiter’s Volcanic Moon?]]></title>
+        <id>https://www.quantamagazine.org/?p=149255</id>
+        <link href="https://www.quantamagazine.org/whats-going-on-inside-io-jupiters-volcanic-moon-20250425/"/>
+        <updated>2025-04-25T14:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Recent flybys of the fiery world refute a leading theory of its inner structure — and reveal how little is understood about geologically active moons.            
+The post What’s Going On Inside Io, Jupiter’s Volcanic Moon? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Robin George Andrews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In the age of AI, we must protect human creativity as a natural resource]]></title>
         <id>https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/</id>
@@ -117,17 +128,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[New o3 model appears "near-genius level," according to one doctor, but it still makes mistakes.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors]]></title>
-        <id>https://www.quantamagazine.org/?p=148537</id>
-        <link href="https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/"/>
-        <updated>2025-04-16T14:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Every soft caress of wind, searing burn and seismic rumble is detected by our skin’s tangle of touch sensors. David Ginty has spent his career cataloging the neurons beneath everyday sensations.            
-The post Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ariel Bleicher</name>
         </author>
     </entry>
     <entry>
