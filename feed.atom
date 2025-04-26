@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T18:05:43.630Z</id>
+    <id>urn:2025-04-26T00:17:54.677Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T18:05:43.630Z</updated>
+    <updated>2025-04-26T00:17:54.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New study shows why simulated reasoning AI models don’t yet live up to their billing]]></title>
+        <id>https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/</id>
+        <link href="https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/"/>
+        <updated>2025-04-25T21:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Top AI models excel at math problems but lack reasoning needed for Math Olympiad proofs.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI offers $10 million for information about Salt Typhoon members]]></title>
+        <id>https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/</id>
+        <link href="https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/"/>
+        <updated>2025-04-25T20:38:02.000Z</updated>
+        <summary type="html"><![CDATA[FBI accepts tips by TOR in likely attempt to woo China-based informants.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s Going On Inside Io, Jupiter’s Volcanic Moon?]]></title>
         <id>https://www.quantamagazine.org/?p=149255</id>
@@ -318,26 +338,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[Used by nation-states and crime groups, fast flux bypasses many common defenses.]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail unveils end-to-end encrypted messages. Only thing is: It’s not true E2EE.]]></title>
-        <id>https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/</id>
-        <link href="https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/"/>
-        <updated>2025-04-03T21:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Yes, encryption/decryption occurs on end-user devices, but there's a catch.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI bots strain Wikimedia as bandwidth surges 50%]]></title>
-        <id>https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/</id>
-        <link href="https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/"/>
-        <updated>2025-04-02T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Automated AI bots seeking training data threaten Wikipedia project stability, foundation says.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
