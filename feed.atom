@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T06:05:22.794Z</id>
+    <id>urn:2025-04-26T12:06:23.938Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T06:05:22.794Z</updated>
+    <updated>2025-04-26T12:06:23.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -65,6 +65,16 @@ The post What’s Going On Inside Io, Jupiter’s Volcanic Moon? first appeared 
 The post Improving Deep Learning With a Little Help From Physics first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Digital Collection Preserves Key Books on Drug Use and Policy]]></title>
+        <id>https://blog.archive.org/?p=28748</id>
+        <link href="https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/"/>
+        <updated>2025-04-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]]]></summary>
+        <author>
+            <name>Caralee Adams</name>
         </author>
     </entry>
     <entry>
