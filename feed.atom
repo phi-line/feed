@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T18:06:07.890Z</id>
+    <id>urn:2025-04-28T19:37:16.499Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T18:06:07.890Z</updated>
+    <updated>2025-04-28T19:37:16.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[New ChoiceJacking attack allows malicious chargers to steal data from phones.]]></summary>
         <author>
             <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reports of the Death of  California High-Speed Rail Have Been Greatly Exaggerated]]></title>
+        <id>https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated</id>
+        <link href="https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a high-speed rail between Los Angeles and San Francisco was never going to be easy — but the critics who write it off are missing the real source of the project’s struggles.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -85,6 +95,16 @@ The post Improving Deep Learning With a Little Help From Physics first appeared 
         <summary type="html"><![CDATA[For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]]]></summary>
         <author>
             <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Abundance Start at Home?]]></title>
+        <id>https://asteriskmag.com/issues/09/abundance-at-home</id>
+        <link href="https://asteriskmag.com/issues/09/abundance-at-home"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kelsey Piper and Jasmine Sun talk about microschools, whether localism is the enemy of Abundance, and why Chinese bureaucrats are like Growth PMs.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -351,6 +371,16 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Where Babies Come From]]></title>
+        <id>https://asteriskmag.com/issues/09/where-babies-come-from</id>
+        <link href="https://asteriskmag.com/issues/09/where-babies-come-from"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s more complicated than you may think.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vanishing Culture: Cultural Preservation and Queer History]]></title>
         <id>https://blog.archive.org/?p=28640</id>
         <link href="https://blog.archive.org/2025/04/02/vanishing-culture-cultural-preservation-and-queer-history/"/>
@@ -368,6 +398,26 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Day]]></title>
+        <id>https://asteriskmag.com/issues/10/the-first-day</id>
+        <link href="https://asteriskmag.com/issues/10/the-first-day"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of American Foreign Aid]]></title>
+        <id>https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid</id>
+        <link href="https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[USAID has been slashed, and it is unclear what shape its successor will take. How might American foreign assistance be restructured to maintain critical functions? And how should we think about its future?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
 </feed>
