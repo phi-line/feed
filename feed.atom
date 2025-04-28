@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T06:10:13.751Z</id>
+    <id>urn:2025-04-28T12:07:12.536Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T06:10:13.751Z</updated>
+    <updated>2025-04-28T12:07:12.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iOS and Android juice jacking defenses have been trivial to bypass for years]]></title>
+        <id>https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/</id>
+        <link href="https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/"/>
+        <updated>2025-04-28T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[New ChoiceJacking attack allows malicious chargers to steal data from phones.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New study shows why simulated reasoning AI models don’t yet live up to their billing]]></title>
         <id>https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/</id>
@@ -338,16 +348,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[The following guest post from digital librarian and founder of the Internet Archive, Brewster Kahle, is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more […]]]></summary>
         <author>
             <name>vanishingculture</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA warns “fast flux” threatens national security. What is fast flux anyway?]]></title>
-        <id>https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/</id>
-        <link href="https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/"/>
-        <updated>2025-04-04T20:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Used by nation-states and crime groups, fast flux bypasses many common defenses.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>

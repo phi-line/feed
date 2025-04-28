@@ -187,12 +187,22 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
+          "author": "Dan Goodin",
+          "description": "New ChoiceJacking attack allows malicious chargers to steal data from phones.",
+          "link": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
+          "publishedOn": "2025-04-28T11:00:59.000Z",
+          "wordCount": 3620,
+          "title": "iOS and Android juice jacking defenses have been trivial to bypass for years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/scary-usb-juice-jacking-whooooo-1152x648.jpg"
+        },
+        {
           "id": "https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/",
           "author": "Benj Edwards",
           "description": "Top AI models excel at math problems but lack reasoning needed for Math Olympiad proofs.",
           "link": "https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/",
           "publishedOn": "2025-04-25T21:43:09.000Z",
-          "wordCount": 3009,
+          "wordCount": 3010,
           "title": "New study shows why simulated reasoning AI models don’t yet live up to their billing",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/math_question_1-1152x648.jpg"
         },
@@ -202,7 +212,7 @@
           "description": "FBI accepts tips by TOR in likely attempt to woo China-based informants.",
           "link": "https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/",
           "publishedOn": "2025-04-25T20:38:02.000Z",
-          "wordCount": 2024,
+          "wordCount": 2023,
           "title": "FBI offers $10 million for information about Salt Typhoon members",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/salt-typoon-chinese-flag-1152x648.jpg"
         },
@@ -212,7 +222,7 @@
           "description": "Op-ed: As AI outputs flood the Internet, diverse human perspectives are our most valuable resource.",
           "link": "https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/",
           "publishedOn": "2025-04-25T11:00:57.000Z",
-          "wordCount": 3582,
+          "wordCount": 3581,
           "title": "In the age of AI, we must protect human creativity as a natural resource",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/scenic_vista-1152x648.jpg"
         },
@@ -222,7 +232,7 @@
           "description": "Trojanized mapping app steals users' locations, contacts, and more.",
           "link": "https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/",
           "publishedOn": "2025-04-24T20:02:40.000Z",
-          "wordCount": 1950,
+          "wordCount": 1949,
           "title": "New Android spyware is targeting Russian military personnel on the front lines",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-1000x648.jpg"
         },
@@ -242,7 +252,7 @@
           "description": "Frustrated software developer believed AI-generated message came from human support rep.",
           "link": "https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/",
           "publishedOn": "2025-04-17T22:42:23.000Z",
-          "wordCount": 2353,
+          "wordCount": 2359,
           "title": "Company apologizes after AI support agent invents policy that causes user uproar",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/telephone_robot_2-1152x648.jpg"
         },
@@ -252,7 +262,7 @@
           "description": "New o3 model appears \"near-genius level,\" according to one doctor, but it still makes mistakes.",
           "link": "https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/",
           "publishedOn": "2025-04-16T22:21:38.000Z",
-          "wordCount": 2954,
+          "wordCount": 2964,
           "title": "OpenAI releases new simulated reasoning models with full tool access",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/digital_thinker_1-1152x648.jpg"
         },
@@ -262,7 +272,7 @@
           "description": "Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.",
           "link": "https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/",
           "publishedOn": "2025-04-16T11:15:44.000Z",
-          "wordCount": 3174,
+          "wordCount": 3164,
           "title": "Researchers claim breakthrough in fight against AI’s frustrating security hole",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/camel_image-1152x648.jpg"
         },
@@ -292,7 +302,7 @@
           "description": "New announcement seems aimed at appeasing Trump, signals company shift.",
           "link": "https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/",
           "publishedOn": "2025-04-14T15:55:47.000Z",
-          "wordCount": 2178,
+          "wordCount": 2166,
           "title": "Amid Trump tariff chaos, Nvidia launches AI chip production on US soil",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chinese_ai_header-1152x648.jpg"
         },
@@ -322,7 +332,7 @@
           "description": "New Anthropic research shows AI models often fail to disclose reasoning shortcuts.",
           "link": "https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/",
           "publishedOn": "2025-04-10T22:37:13.000Z",
-          "wordCount": 2607,
+          "wordCount": 2597,
           "title": "Researchers concerned to find AI models misrepresenting their “reasoning” processes",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_fibbing-1152x648.jpg"
         },
@@ -332,7 +342,7 @@
           "description": "Company didn't notice its chatbot was being abused for (at least) 4 months.",
           "link": "https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/",
           "publishedOn": "2025-04-09T19:32:31.000Z",
-          "wordCount": 1957,
+          "wordCount": 1967,
           "title": "OpenAI helps spammers plaster 80,000 sites with messages that bypassed filters",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/chatbot-1152x648.jpg"
         },
@@ -342,7 +352,7 @@
           "description": "Two-tiered \"Claude Max\" expands rate limits and offers traffic priority to subscribers.",
           "link": "https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/",
           "publishedOn": "2025-04-09T19:20:07.000Z",
-          "wordCount": 1987,
+          "wordCount": 1998,
           "title": "After months of user complaints, Anthropic debuts new $200/month AI plan",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/anthropic_max-1152x648.jpg"
         },
@@ -352,7 +362,7 @@
           "description": "Disclosure of tactics, techniques, and procedures provides rare glimpse into secretive group.",
           "link": "https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/",
           "publishedOn": "2025-04-08T20:47:23.000Z",
-          "wordCount": 2375,
+          "wordCount": 2385,
           "title": "“The girl should be calling men.” Leak exposes Black Basta’s influence tactics.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet.jpg"
         },
@@ -362,7 +372,7 @@
           "description": "Carmack: \"Power tools\" like AI are \"central to all the progress in computers.\"",
           "link": "https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/",
           "publishedOn": "2025-04-08T18:26:33.000Z",
-          "wordCount": 2556,
+          "wordCount": 2545,
           "title": "Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/quake_II_ripple-1152x648.jpg"
         },
@@ -372,19 +382,9 @@
           "description": "Touted 10M token context proves elusive, while early performance tests disappoint experts.",
           "link": "https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/",
           "publishedOn": "2025-04-07T19:54:47.000Z",
-          "wordCount": 2537,
+          "wordCount": 2538,
           "title": "Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/llama_head_1-1152x648.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/",
-          "author": "Dan Goodin",
-          "description": "Used by nation-states and crime groups, fast flux bypasses many common defenses.",
-          "link": "https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/",
-          "publishedOn": "2025-04-04T20:17:13.000Z",
-          "wordCount": 1973,
-          "title": "NSA warns “fast flux” threatens national security. What is fast flux anyway?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/botnet.jpg"
         }
       ]
     }
