@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T06:06:23.844Z</id>
+    <id>urn:2025-04-29T12:07:45.248Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T06:06:23.844Z</updated>
+    <updated>2025-04-29T12:07:45.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI-generated code could be a disaster for the software supply chain. Here’s why.]]></title>
+        <id>https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/</id>
+        <link href="https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/"/>
+        <updated>2025-04-29T11:15:43.000Z</updated>
+        <summary type="html"><![CDATA[LLM-produced code could make us much more vulnerable to supply-chain attacks.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT goes shopping with new product-browsing feature]]></title>
         <id>https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/</id>
@@ -338,16 +348,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]]]></summary>
         <author>
             <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The girl should be calling men.” Leak exposes Black Basta’s influence tactics.]]></title>
-        <id>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</id>
-        <link href="https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/"/>
-        <updated>2025-04-08T20:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Disclosure of tactics, techniques, and procedures provides rare glimpse into secretive group.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
