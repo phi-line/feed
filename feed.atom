@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T12:07:45.248Z</id>
+    <id>urn:2025-04-29T18:05:54.698Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T12:07:45.248Z</updated>
+    <updated>2025-04-29T18:05:54.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,7 +30,7 @@
         <id>https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/</id>
         <link href="https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/"/>
         <updated>2025-04-28T21:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Short seller publishes report detailing allegations about Backblaze's financials]]></summary>
+        <summary type="html"><![CDATA[Short seller publishes report detailing allegations about Backblaze's financials.]]></summary>
         <author>
             <name>Scharon Harding</name>
         </author>
