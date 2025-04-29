@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T19:37:16.499Z</id>
+    <id>urn:2025-04-29T00:18:36.502Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T19:37:16.499Z</updated>
+    <updated>2025-04-29T00:18:36.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT goes shopping with new product-browsing feature]]></title>
+        <id>https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/</id>
+        <link href="https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/"/>
+        <updated>2025-04-28T22:04:26.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT will now recommend products to be bought offsite—but no sponsored ads just yet.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backblaze responds to claims of “sham accounting,” customer backups at risk]]></title>
+        <id>https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/</id>
+        <link href="https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/"/>
+        <updated>2025-04-28T21:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Short seller publishes report detailing allegations about Backblaze's financials]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS and Android juice jacking defenses have been trivial to bypass for years]]></title>
         <id>https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/</id>
@@ -331,16 +351,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”]]></title>
-        <id>https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/</id>
-        <link href="https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/"/>
-        <updated>2025-04-08T18:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Carmack: "Power tools" like AI are "central to all the progress in computers."]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration]]></title>
         <id>https://blog.archive.org/?p=28668</id>
         <link href="https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/"/>
@@ -348,16 +358,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]]]></summary>
         <author>
             <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality]]></title>
-        <id>https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/</id>
-        <link href="https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/"/>
-        <updated>2025-04-07T19:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Touted 10M token context proves elusive, while early performance tests disappoint experts.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
