@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T06:06:25.664Z</id>
+    <id>urn:2025-04-30T12:06:58.968Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T06:06:25.664Z</updated>
+    <updated>2025-04-30T12:06:58.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The end of an AI that shocked the world: OpenAI retires GPT-4]]></title>
+        <id>https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/</id>
+        <link href="https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/"/>
+        <updated>2025-04-30T11:30:40.000Z</updated>
+        <summary type="html"><![CDATA[A look back at GPT-4's legacy as OpenAI pulls the pioneering 2023 AI model from ChatGPT.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump admin lashes out as Amazon considers displaying tariff costs on its sites]]></title>
         <id>https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/</id>
@@ -331,16 +341,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI helps spammers plaster 80,000 sites with messages that bypassed filters]]></title>
-        <id>https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/</id>
-        <link href="https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/"/>
-        <updated>2025-04-09T19:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Company didn't notice its chatbot was being abused for (at least) 4 months.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vanishing Culture: When Preservation Meets Social Media]]></title>
         <id>https://blog.archive.org/?p=28678</id>
         <link href="https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/"/>
@@ -398,26 +398,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First Day]]></title>
-        <id>https://asteriskmag.com/issues/10/the-first-day</id>
-        <link href="https://asteriskmag.com/issues/10/the-first-day"/>
-        <updated>2025-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of American Foreign Aid]]></title>
-        <id>https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid</id>
-        <link href="https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid"/>
-        <updated>2025-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[USAID has been slashed, and it is unclear what shape its successor will take. How might American foreign assistance be restructured to maintain critical functions? And how should we think about its future?]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
 </feed>
