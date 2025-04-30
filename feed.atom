@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T12:06:58.968Z</id>
+    <id>urn:2025-04-30T18:05:57.379Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T12:06:58.968Z</updated>
+    <updated>2025-04-30T18:05:57.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Science, Promise and Peril in the Age of AI]]></title>
+        <id>https://www.quantamagazine.org/?p=150084</id>
+        <link href="https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/"/>
+        <updated>2025-04-30T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[An exploration of how artificial intelligence is changing what it means to do science and math, and what it means to be a scientist.            
+The post Science, Promise and Peril in the Age of AI first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Michael Moyer, Ben Brubaker, John Pavlus, Mark Belan, Jordana Cepelewicz, Yasemin Saplakoglu, Gregory Barber, Elise Cutts and Emily Buder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Do Scientists Think This Is All Going?]]></title>
+        <id>https://www.quantamagazine.org/?p=149049</id>
+        <link href="https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/"/>
+        <updated>2025-04-30T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[We asked some of the world’s foremost experts an impossible question. Amazingly, they answered.            
+The post Where Do Scientists Think This Is All Going? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Michael Moyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When AI Starts To Ask the Questions?]]></title>
+        <id>https://www.quantamagazine.org/?p=148939</id>
+        <link href="https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/"/>
+        <updated>2025-04-30T13:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Technology has forever served as science’s toolbox. But now that AI is being used to develop questions and methods as well, some scientists wonder what their role is going to become.            
+The post What Happens When AI Starts To Ask the Questions? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Gregory Barber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Beauty, Truth and Proof in the Age of AI]]></title>
+        <id>https://www.quantamagazine.org/?p=148957</id>
+        <link href="https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/"/>
+        <updated>2025-04-30T13:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians have started to prepare for a profound shift in what it means to do math.            
+The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Language Models Are So Hard To Understand]]></title>
+        <id>https://www.quantamagazine.org/?p=148831</id>
+        <link href="https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/"/>
+        <updated>2025-04-30T13:56:10.000Z</updated>
+        <summary type="html"><![CDATA[AI researchers are using techniques inspired by neuroscience to study how language models work — and to reveal how perplexing they can be.            
+The post Why Language Models Are So Hard To Understand first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The end of an AI that shocked the world: OpenAI retires GPT-4]]></title>
         <id>https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/</id>
@@ -96,17 +151,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s Going On Inside Io, Jupiter’s Volcanic Moon?]]></title>
-        <id>https://www.quantamagazine.org/?p=149255</id>
-        <link href="https://www.quantamagazine.org/whats-going-on-inside-io-jupiters-volcanic-moon-20250425/"/>
-        <updated>2025-04-25T14:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Recent flybys of the fiery world refute a leading theory of its inner structure — and reveal how little is understood about geologically active moons.            
-The post What’s Going On Inside Io, Jupiter’s Volcanic Moon? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Robin George Andrews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In the age of AI, we must protect human creativity as a natural resource]]></title>
         <id>https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/</id>
         <link href="https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/"/>
@@ -124,17 +168,6 @@ The post What’s Going On Inside Io, Jupiter’s Volcanic Moon? first appeared 
         <summary type="html"><![CDATA[Trojanized mapping app steals users' locations, contacts, and more.]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Deep Learning With a Little Help From Physics]]></title>
-        <id>https://www.quantamagazine.org/?p=148967</id>
-        <link href="https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/"/>
-        <updated>2025-04-23T14:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Rose Yu has a plan for how to make AI better, faster and smarter — and it’s already yielding results.            
-The post Improving Deep Learning With a Little Help From Physics first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
         </author>
     </entry>
     <entry>
@@ -168,28 +201,6 @@ The post Improving Deep Learning With a Little Help From Physics first appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a Biofilm’s Strange Shape Emerges From Cellular Geometry]]></title>
-        <id>https://www.quantamagazine.org/?p=148776</id>
-        <link href="https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/"/>
-        <updated>2025-04-21T14:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Micro decisions can have macro consequences. A soft matter physicist reveals how interactions within simple cellular collectives can lead to emergent physical traits.            
-The post How a Biofilm’s Strange Shape Emerges From Cellular Geometry first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Carrie Arnold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Proof Settles Decades-Old Bet About Connected Networks]]></title>
-        <id>https://www.quantamagazine.org/?p=148716</id>
-        <link href="https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/"/>
-        <updated>2025-04-18T13:30:55.000Z</updated>
-        <summary type="html"><![CDATA[According to mathematical legend, Peter Sarnak and Noga Alon made a bet about optimal graphs in the late 1980s. They’ve now both been proved wrong.            
-The post New Proof Settles Decades-Old Bet About Connected Networks first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Company apologizes after AI support agent invents policy that causes user uproar]]></title>
         <id>https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/</id>
         <link href="https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/"/>
@@ -217,17 +228,6 @@ The post New Proof Settles Decades-Old Bet About Connected Networks first appear
         <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
         <author>
             <name>Anna Trammell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Quantum Gravity Be Created in the Lab?]]></title>
-        <id>https://www.quantamagazine.org/?p=148520</id>
-        <link href="https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/"/>
-        <updated>2025-04-17T13:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Quantum gravity could help physicists unite the currently incompatible worlds of quantum mechanics and gravity. In this episode, Monika Schleier-Smith discusses her pioneering experimental approach, using laser-cooled atoms to explore whether gravity could emerge from quantum entanglement.            
-The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steven Strogatz and Janna Levin</name>
         </author>
     </entry>
     <entry>
@@ -388,16 +388,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[The following guest post from artist and writer Brooke Palmieri is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full […]]]></summary>
         <author>
             <name>vanishingculture</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
-        <id>https://pudding.cool/2025/04/music-dna</id>
-        <link href="https://pudding.cool/2025/04/music-dna"/>
-        <updated>2025-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>
