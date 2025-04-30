@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T18:05:54.698Z</id>
+    <id>urn:2025-04-30T00:18:47.962Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T18:05:54.698Z</updated>
+    <updated>2025-04-30T00:18:47.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump admin lashes out as Amazon considers displaying tariff costs on its sites]]></title>
+        <id>https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/</id>
+        <link href="https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/"/>
+        <updated>2025-04-29T18:03:46.000Z</updated>
+        <summary type="html"><![CDATA["This was never approved and is not going to happen," says Amazon.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI-generated code could be a disaster for the software supply chain. Here’s why.]]></title>
         <id>https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/</id>
@@ -328,16 +338,6 @@ The post Can Quantum Gravity Be Created in the Lab? first appeared on Quanta Mag
         <summary type="html"><![CDATA[Company didn't notice its chatbot was being abused for (at least) 4 months.]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After months of user complaints, Anthropic debuts new $200/month AI plan]]></title>
-        <id>https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/</id>
-        <link href="https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/"/>
-        <updated>2025-04-09T19:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Two-tiered "Claude Max" expands rate limits and offers traffic priority to subscribers.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
