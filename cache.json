@@ -23,12 +23,22 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150198",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            \nThe post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/",
+          "publishedOn": "2025-05-01T13:38:30.000Z",
+          "wordCount": 9708,
+          "title": "Will AI Ever Understand Language Like Humans?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/AI-language_crPeter-Greenwood-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150084",
           "author": "Michael Moyer, Ben Brubaker, John Pavlus, Mark Belan, Jordana Cepelewicz, Yasemin Saplakoglu, Gregory Barber, Elise Cutts and Emily Buder",
           "description": "An exploration of how artificial intelligence is changing what it means to do science and math, and what it means to be a scientist.            \nThe post Science, Promise and Peril in the Age of AI first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/",
           "publishedOn": "2025-04-30T14:00:50.000Z",
-          "wordCount": 1606,
+          "wordCount": 1611,
           "title": "Science, Promise and Peril in the Age of AI",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-series-Social.jpg"
         },
@@ -38,7 +48,7 @@
           "description": "We asked some of the world’s foremost experts an impossible question. Amazingly, they answered.            \nThe post Where Do Scientists Think This Is All Going? first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/",
           "publishedOn": "2025-04-30T13:59:28.000Z",
-          "wordCount": 1571,
+          "wordCount": 1576,
           "title": "Where Do Scientists Think This Is All Going?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AIWhereIsItGoing-crSallyCaulwell-Social.webp"
         },
@@ -48,7 +58,7 @@
           "description": "Technology has forever served as science’s toolbox. But now that AI is being used to develop questions and methods as well, some scientists wonder what their role is going to become.            \nThe post What Happens When AI Starts To Ask the Questions? first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/",
           "publishedOn": "2025-04-30T13:58:57.000Z",
-          "wordCount": 4900,
+          "wordCount": 4905,
           "title": "What Happens When AI Starts To Ask the Questions?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Warps-Science_crSally-Caulwell-Social.jpg"
         },
@@ -61,16 +71,6 @@
           "wordCount": 5054,
           "title": "Mathematical Beauty, Truth and Proof in the Age of AI",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Changing-Math_crSally-Caulwell-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=148831",
-          "author": "Ben Brubaker",
-          "description": "AI researchers are using techniques inspired by neuroscience to study how language models work — and to reveal how perplexing they can be.            \nThe post Why Language Models Are So Hard To Understand first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/",
-          "publishedOn": "2025-04-30T13:56:10.000Z",
-          "wordCount": 2177,
-          "title": "Why Language Models Are So Hard To Understand",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Interpretability_crJames-OBrien-Social.jpg"
         }
       ]
     },
@@ -95,7 +95,7 @@
           "description": "The Internet Archive needs your help. A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding $700 million for our work preserving and providing access to […]",
           "link": "https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/",
           "publishedOn": "2025-04-17T17:32:01.000Z",
-          "wordCount": 6481,
+          "wordCount": 6343,
           "title": "Take Action: Defend the Internet Archive",
           "imageUrl": null
         },
@@ -105,7 +105,7 @@
           "description": "The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]",
           "link": "https://blog.archive.org/2025/04/17/community-webs-digitization-grant-reveals-stories-of-san-franciscos-immigrant-communities/",
           "publishedOn": "2025-04-17T16:35:42.000Z",
-          "wordCount": 3102,
+          "wordCount": 3068,
           "title": "Community Webs Digitization Grant Reveals Stories of San Francisco’s Immigrant Communities",
           "imageUrl": null
         },
@@ -158,16 +158,6 @@
           "wordCount": 4056,
           "title": "Vanishing Culture: Preserving the Library System",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.archive.org/?p=28640",
-          "author": "vanishingculture",
-          "description": "The following guest post from artist and writer Brooke Palmieri is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full […]",
-          "link": "https://blog.archive.org/2025/04/02/vanishing-culture-cultural-preservation-and-queer-history/",
-          "publishedOn": "2025-04-02T02:58:28.000Z",
-          "wordCount": 3659,
-          "title": "Vanishing Culture: Cultural Preservation and Queer History",
-          "imageUrl": null
         }
       ]
     },
@@ -182,7 +172,7 @@
           "description": "Researchers say the behavior amounts to a persistent backdoor.",
           "link": "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/",
           "publishedOn": "2025-04-30T18:36:26.000Z",
-          "wordCount": 2591,
+          "wordCount": 2582,
           "title": "Windows RDP lets you log in using revoked passwords. Microsoft is OK with that.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/remote-desktop.png"
         },
@@ -192,7 +182,7 @@
           "description": "Hackers can run their code on AirPlay devices thanks to a collection of bugs known as AirBorne.",
           "link": "https://arstechnica.com/security/2025/04/millions-of-apple-airplay-enabled-devices-can-be-hacked-via-wi-fi/",
           "publishedOn": "2025-04-30T17:52:06.000Z",
-          "wordCount": 2509,
+          "wordCount": 2503,
           "title": "Millions of Apple Airplay-enabled devices can be hacked via Wi-Fi",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/airplay-malware-gear-1391670285-1152x648.jpg"
         },
@@ -202,7 +192,7 @@
           "description": "A look back at GPT-4's legacy as OpenAI pulls the pioneering 2023 AI model from ChatGPT.",
           "link": "https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/",
           "publishedOn": "2025-04-30T11:30:40.000Z",
-          "wordCount": 2663,
+          "wordCount": 2653,
           "title": "The end of an AI that shocked the world: OpenAI retires GPT-4",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/the_end_typewriter-1152x648.jpg"
         },
@@ -212,7 +202,7 @@
           "description": "\"This was never approved and is not going to happen,\" says Amazon.",
           "link": "https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/",
           "publishedOn": "2025-04-29T18:03:46.000Z",
-          "wordCount": 2209,
+          "wordCount": 2215,
           "title": "Trump admin lashes out as Amazon considers displaying tariff costs on its sites",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-1317474419-1152x648.jpg"
         },
@@ -222,7 +212,7 @@
           "description": "LLM-produced code could make us much more vulnerable to supply-chain attacks.",
           "link": "https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/",
           "publishedOn": "2025-04-29T11:15:43.000Z",
-          "wordCount": 2508,
+          "wordCount": 2514,
           "title": "AI-generated code could be a disaster for the software supply chain. Here’s why.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot-working-computer-1152x648.jpg"
         },
@@ -232,7 +222,7 @@
           "description": "ChatGPT will now recommend products to be bought offsite—but no sponsored ads just yet.",
           "link": "https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/",
           "publishedOn": "2025-04-28T22:04:26.000Z",
-          "wordCount": 1929,
+          "wordCount": 1930,
           "title": "ChatGPT goes shopping with new product-browsing feature",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_shopper_1-1152x648.jpg"
         },
@@ -242,7 +232,7 @@
           "description": "Short seller publishes report detailing allegations about Backblaze's financials.",
           "link": "https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/",
           "publishedOn": "2025-04-28T21:43:43.000Z",
-          "wordCount": 2000,
+          "wordCount": 2016,
           "title": "Backblaze responds to claims of “sham accounting,” customer backups at risk",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/66ecb7b025b5adbe29cfd593_Backup_20_26_20Archive-1000x648.jpg"
         },
@@ -252,7 +242,7 @@
           "description": "New ChoiceJacking attack allows malicious chargers to steal data from phones.",
           "link": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
           "publishedOn": "2025-04-28T11:00:59.000Z",
-          "wordCount": 4045,
+          "wordCount": 4051,
           "title": "iOS and Android juice jacking defenses have been trivial to bypass for years",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/scary-usb-juice-jacking-whooooo-1152x648.jpg"
         },
@@ -262,7 +252,7 @@
           "description": "Top AI models excel at math problems but lack reasoning needed for Math Olympiad proofs.",
           "link": "https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/",
           "publishedOn": "2025-04-25T21:43:09.000Z",
-          "wordCount": 3013,
+          "wordCount": 3016,
           "title": "New study shows why simulated reasoning AI models don’t yet live up to their billing",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/math_question_1-1152x648.jpg"
         },
@@ -272,7 +262,7 @@
           "description": "FBI accepts tips by TOR in likely attempt to woo China-based informants.",
           "link": "https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/",
           "publishedOn": "2025-04-25T20:38:02.000Z",
-          "wordCount": 2016,
+          "wordCount": 2030,
           "title": "FBI offers $10 million for information about Salt Typhoon members",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/salt-typoon-chinese-flag-1152x648.jpg"
         },
@@ -282,7 +272,7 @@
           "description": "Op-ed: As AI outputs flood the Internet, diverse human perspectives are our most valuable resource.",
           "link": "https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/",
           "publishedOn": "2025-04-25T11:00:57.000Z",
-          "wordCount": 3585,
+          "wordCount": 3589,
           "title": "In the age of AI, we must protect human creativity as a natural resource",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/scenic_vista-1152x648.jpg"
         },
@@ -292,7 +282,7 @@
           "description": "Trojanized mapping app steals users' locations, contacts, and more.",
           "link": "https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/",
           "publishedOn": "2025-04-24T20:02:40.000Z",
-          "wordCount": 1953,
+          "wordCount": 1945,
           "title": "New Android spyware is targeting Russian military personnel on the front lines",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-1000x648.jpg"
         },
@@ -302,7 +292,7 @@
           "description": "Users complain of new \"sycophancy\" streak where ChatGPT thinks everything is brilliant.",
           "link": "https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/",
           "publishedOn": "2025-04-21T16:22:09.000Z",
-          "wordCount": 2978,
+          "wordCount": 2977,
           "title": "Annoyed ChatGPT users complain about bot’s relentlessly positive tone",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_hearts-1152x648.jpg"
         },
@@ -332,7 +322,7 @@
           "description": "Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.",
           "link": "https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/",
           "publishedOn": "2025-04-16T11:15:44.000Z",
-          "wordCount": 3180,
+          "wordCount": 3170,
           "title": "Researchers claim breakthrough in fight against AI’s frustrating security hole",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/camel_image-1152x648.jpg"
         },
@@ -342,7 +332,7 @@
           "description": "Early info is unreliable, but the site has been mostly unavailable for hours.",
           "link": "https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/",
           "publishedOn": "2025-04-15T18:43:29.000Z",
-          "wordCount": 1817,
+          "wordCount": 1819,
           "title": "4chan has been down since Monday night after “pretty comprehensive own”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/4chan-logo-1152x648.png"
         },
@@ -352,7 +342,7 @@
           "description": "OpenAI's brand-new \"GPT-4.1\" has a funky name but reasonable performance for the price.",
           "link": "https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/",
           "publishedOn": "2025-04-14T20:53:51.000Z",
-          "wordCount": 2470,
+          "wordCount": 2481,
           "title": "OpenAI continues naming chaos despite CEO acknowledging the habit",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/confused_man_2-1152x648.jpg"
         },
@@ -362,7 +352,7 @@
           "description": "New announcement seems aimed at appeasing Trump, signals company shift.",
           "link": "https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/",
           "publishedOn": "2025-04-14T15:55:47.000Z",
-          "wordCount": 2181,
+          "wordCount": 2172,
           "title": "Amid Trump tariff chaos, Nvidia launches AI chip production on US soil",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chinese_ai_header-1152x648.jpg"
         },
@@ -372,7 +362,7 @@
           "description": "Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?",
           "link": "https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/",
           "publishedOn": "2025-04-11T18:45:40.000Z",
-          "wordCount": 2213,
+          "wordCount": 2215,
           "title": "That groan you hear is users’ reaction to Recall going back into Windows",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/win11-recall-listing-1152x648.jpg"
         }

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T12:06:57.795Z</id>
+    <id>urn:2025-05-01T18:05:51.649Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T12:06:57.795Z</updated>
+    <updated>2025-05-01T18:05:51.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
+        <id>https://www.quantamagazine.org/?p=150198</id>
+        <link href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/"/>
+        <updated>2025-05-01T13:38:30.000Z</updated>
+        <summary type="html"><![CDATA[AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            
+The post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows RDP lets you log in using revoked passwords. Microsoft is OK with that.]]></title>
         <id>https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/</id>
@@ -67,17 +78,6 @@ The post What Happens When AI Starts To Ask the Questions? first appeared on Qua
 The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Language Models Are So Hard To Understand]]></title>
-        <id>https://www.quantamagazine.org/?p=148831</id>
-        <link href="https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/"/>
-        <updated>2025-04-30T13:56:10.000Z</updated>
-        <summary type="html"><![CDATA[AI researchers are using techniques inspired by neuroscience to study how language models work — and to reveal how perplexing they can be.            
-The post Why Language Models Are So Hard To Understand first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
     <entry>
@@ -378,16 +378,6 @@ The post Why Language Models Are So Hard To Understand first appeared on Quanta 
         <summary type="html"><![CDATA[It’s more complicated than you may think.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanishing Culture: Cultural Preservation and Queer History]]></title>
-        <id>https://blog.archive.org/?p=28640</id>
-        <link href="https://blog.archive.org/2025/04/02/vanishing-culture-cultural-preservation-and-queer-history/"/>
-        <updated>2025-04-02T02:58:28.000Z</updated>
-        <summary type="html"><![CDATA[The following guest post from artist and writer Brooke Palmieri is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full […]]]></summary>
-        <author>
-            <name>vanishingculture</name>
         </author>
     </entry>
 </feed>
