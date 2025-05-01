@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T18:05:57.379Z</id>
+    <id>urn:2025-05-01T00:20:48.958Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T18:05:57.379Z</updated>
+    <updated>2025-05-01T00:20:48.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows RDP lets you log in using revoked passwords. Microsoft is OK with that.]]></title>
+        <id>https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/</id>
+        <link href="https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"/>
+        <updated>2025-04-30T18:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say the behavior amounts to a persistent backdoor.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millions of Apple Airplay-enabled devices can be hacked via Wi-Fi]]></title>
+        <id>https://arstechnica.com/security/2025/04/millions-of-apple-airplay-enabled-devices-can-be-hacked-via-wi-fi/</id>
+        <link href="https://arstechnica.com/security/2025/04/millions-of-apple-airplay-enabled-devices-can-be-hacked-via-wi-fi/"/>
+        <updated>2025-04-30T17:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Hackers can run their code on AirPlay devices thanks to a collection of bugs known as AirBorne.]]></summary>
+        <author>
+            <name>Lily Hay Newman and Andy Greenberg, WIRED.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Science, Promise and Peril in the Age of AI]]></title>
         <id>https://www.quantamagazine.org/?p=150084</id>
@@ -318,26 +338,6 @@ The post Why Language Models Are So Hard To Understand first appeared on Quanta 
         <summary type="html"><![CDATA[Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher uncovers dozens of sketchy Chrome extensions with 4 million installs]]></title>
-        <id>https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/</id>
-        <link href="https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/"/>
-        <updated>2025-04-11T11:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Even weirder: Why would Google give so many the "Featured" stamp for trustworthiness?]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers concerned to find AI models misrepresenting their “reasoning” processes]]></title>
-        <id>https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/</id>
-        <link href="https://arstechnica.com/ai/2025/04/researchers-concerned-to-find-ai-models-hiding-their-true-reasoning-processes/"/>
-        <updated>2025-04-10T22:37:13.000Z</updated>
-        <summary type="html"><![CDATA[New Anthropic research shows AI models often fail to disclose reasoning shortcuts.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
