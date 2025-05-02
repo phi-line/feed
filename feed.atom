@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T18:05:51.649Z</id>
+    <id>urn:2025-05-02T00:18:47.864Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T18:05:51.649Z</updated>
+    <updated>2025-05-02T00:18:47.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Time saved by AI offset by new work created, study suggests]]></title>
+        <id>https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/</id>
+        <link href="https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/"/>
+        <updated>2025-05-01T21:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Survey of 2023–2024 data finds that AI created more tasks for 8.4 percent of workers.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why MFA is getting easer to bypass and what to do about it]]></title>
+        <id>https://arstechnica.com/security/2025/05/phishing-attacks-that-defeat-mfa-are-easier-than-ever-so-what-are-we-to-do/</id>
+        <link href="https://arstechnica.com/security/2025/05/phishing-attacks-that-defeat-mfa-are-easier-than-ever-so-what-are-we-to-do/"/>
+        <updated>2025-05-01T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Why multifactor authentication based on one-time-passwords and push notifications fails.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
@@ -318,26 +338,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         <summary type="html"><![CDATA[OpenAI's brand-new "GPT-4.1" has a funky name but reasonable performance for the price.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amid Trump tariff chaos, Nvidia launches AI chip production on US soil]]></title>
-        <id>https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/</id>
-        <link href="https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/"/>
-        <updated>2025-04-14T15:55:47.000Z</updated>
-        <summary type="html"><![CDATA[New announcement seems aimed at appeasing Trump, signals company shift.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That groan you hear is users’ reaction to Recall going back into Windows]]></title>
-        <id>https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/</id>
-        <link href="https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/"/>
-        <updated>2025-04-11T18:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Snapshotting and AI processing a screen every 3 seconds. What could possibly go wrong?]]></summary>
-        <author>
-            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
