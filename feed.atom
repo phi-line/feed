@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T12:07:01.977Z</id>
+    <id>urn:2025-05-02T17:36:55.280Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T12:07:01.977Z</updated>
+    <updated>2025-05-02T17:36:55.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Time saved by AI offset by new work created, study suggests]]></title>
-        <id>https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/</id>
-        <link href="https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/"/>
-        <updated>2025-05-01T21:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Survey of 2023–2024 data finds that AI created more tasks for 8.4 percent of workers.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why MFA is getting easer to bypass and what to do about it]]></title>
-        <id>https://arstechnica.com/security/2025/05/phishing-attacks-that-defeat-mfa-are-easier-than-ever-so-what-are-we-to-do/</id>
-        <link href="https://arstechnica.com/security/2025/05/phishing-attacks-that-defeat-mfa-are-easier-than-ever-so-what-are-we-to-do/"/>
-        <updated>2025-05-01T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Why multifactor authentication based on one-time-passwords and push notifications fails.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
@@ -34,26 +14,6 @@
 The post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows RDP lets you log in using revoked passwords. Microsoft is OK with that.]]></title>
-        <id>https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/</id>
-        <link href="https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"/>
-        <updated>2025-04-30T18:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Researchers say the behavior amounts to a persistent backdoor.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions of Apple Airplay-enabled devices can be hacked via Wi-Fi]]></title>
-        <id>https://arstechnica.com/security/2025/04/millions-of-apple-airplay-enabled-devices-can-be-hacked-via-wi-fi/</id>
-        <link href="https://arstechnica.com/security/2025/04/millions-of-apple-airplay-enabled-devices-can-be-hacked-via-wi-fi/"/>
-        <updated>2025-04-30T17:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Hackers can run their code on AirPlay devices thanks to a collection of bugs known as AirBorne.]]></summary>
-        <author>
-            <name>Lily Hay Newman and Andy Greenberg, WIRED.com</name>
         </author>
     </entry>
     <entry>
@@ -101,66 +61,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The end of an AI that shocked the world: OpenAI retires GPT-4]]></title>
-        <id>https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/</id>
-        <link href="https://arstechnica.com/ai/2025/04/the-ai-that-sparked-tech-panic-and-scared-world-leaders-heads-to-retirement/"/>
-        <updated>2025-04-30T11:30:40.000Z</updated>
-        <summary type="html"><![CDATA[A look back at GPT-4's legacy as OpenAI pulls the pioneering 2023 AI model from ChatGPT.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump admin lashes out as Amazon considers displaying tariff costs on its sites]]></title>
-        <id>https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/</id>
-        <link href="https://arstechnica.com/information-technology/2025/04/amazon-denies-it-will-start-listing-cost-of-tariffs-as-other-sites-start-doing-it/"/>
-        <updated>2025-04-29T18:03:46.000Z</updated>
-        <summary type="html"><![CDATA["This was never approved and is not going to happen," says Amazon.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-generated code could be a disaster for the software supply chain. Here’s why.]]></title>
-        <id>https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/</id>
-        <link href="https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/"/>
-        <updated>2025-04-29T11:15:43.000Z</updated>
-        <summary type="html"><![CDATA[LLM-produced code could make us much more vulnerable to supply-chain attacks.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT goes shopping with new product-browsing feature]]></title>
-        <id>https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/</id>
-        <link href="https://arstechnica.com/ai/2025/04/chatgpt-goes-shopping-with-new-product-browsing-feature/"/>
-        <updated>2025-04-28T22:04:26.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT will now recommend products to be bought offsite—but no sponsored ads just yet.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backblaze responds to claims of “sham accounting,” customer backups at risk]]></title>
-        <id>https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/</id>
-        <link href="https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/"/>
-        <updated>2025-04-28T21:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Short seller publishes report detailing allegations about Backblaze's financials.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS and Android juice jacking defenses have been trivial to bypass for years]]></title>
-        <id>https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/</id>
-        <link href="https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/"/>
-        <updated>2025-04-28T11:00:59.000Z</updated>
-        <summary type="html"><![CDATA[New ChoiceJacking attack allows malicious chargers to steal data from phones.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reports of the Death of  California High-Speed Rail Have Been Greatly Exaggerated]]></title>
         <id>https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated</id>
         <link href="https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated"/>
@@ -168,46 +68,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         <summary type="html"><![CDATA[Building a high-speed rail between Los Angeles and San Francisco was never going to be easy — but the critics who write it off are missing the real source of the project’s struggles.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New study shows why simulated reasoning AI models don’t yet live up to their billing]]></title>
-        <id>https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/</id>
-        <link href="https://arstechnica.com/ai/2025/04/new-study-shows-why-simulated-reasoning-ai-models-dont-yet-live-up-to-their-billing/"/>
-        <updated>2025-04-25T21:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Top AI models excel at math problems but lack reasoning needed for Math Olympiad proofs.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI offers $10 million for information about Salt Typhoon members]]></title>
-        <id>https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/</id>
-        <link href="https://arstechnica.com/security/2025/04/fbi-offers-10-million-for-information-about-salt-typhoon-members/"/>
-        <updated>2025-04-25T20:38:02.000Z</updated>
-        <summary type="html"><![CDATA[FBI accepts tips by TOR in likely attempt to woo China-based informants.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the age of AI, we must protect human creativity as a natural resource]]></title>
-        <id>https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/</id>
-        <link href="https://arstechnica.com/ai/2025/04/in-the-age-of-ai-we-must-protect-human-creativity-as-a-natural-resource/"/>
-        <updated>2025-04-25T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Op-ed: As AI outputs flood the Internet, diverse human perspectives are our most valuable resource.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Android spyware is targeting Russian military personnel on the front lines]]></title>
-        <id>https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/</id>
-        <link href="https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/"/>
-        <updated>2025-04-24T20:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Trojanized mapping app steals users' locations, contacts, and more.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
@@ -231,26 +91,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Annoyed ChatGPT users complain about bot’s relentlessly positive tone]]></title>
-        <id>https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/</id>
-        <link href="https://arstechnica.com/information-technology/2025/04/annoyed-chatgpt-users-complain-about-bots-relentlessly-positive-tone/"/>
-        <updated>2025-04-21T16:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Users complain of new "sycophancy" streak where ChatGPT thinks everything is brilliant.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company apologizes after AI support agent invents policy that causes user uproar]]></title>
-        <id>https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/</id>
-        <link href="https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/"/>
-        <updated>2025-04-17T22:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Frustrated software developer believed AI-generated message came from human support rep.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
         <id>https://blog.archive.org/?p=28714</id>
         <link href="https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/"/>
@@ -271,26 +111,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI releases new simulated reasoning models with full tool access]]></title>
-        <id>https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/</id>
-        <link href="https://arstechnica.com/ai/2025/04/openai-releases-new-simulated-reasoning-models-with-full-tool-access/"/>
-        <updated>2025-04-16T22:21:38.000Z</updated>
-        <summary type="html"><![CDATA[New o3 model appears "near-genius level," according to one doctor, but it still makes mistakes.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers claim breakthrough in fight against AI’s frustrating security hole]]></title>
-        <id>https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/</id>
-        <link href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/"/>
-        <updated>2025-04-16T11:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Prompt injections are the Achilles' heel of AI assistants. Google offers a potential fix.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Pour-igin of Species]]></title>
         <id>https://pudding.cool/2025/04/wine-animals</id>
         <link href="https://pudding.cool/2025/04/wine-animals"/>
@@ -298,16 +118,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4chan has been down since Monday night after “pretty comprehensive own”]]></title>
-        <id>https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/</id>
-        <link href="https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/"/>
-        <updated>2025-04-15T18:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Early info is unreliable, but the site has been mostly unavailable for hours.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -328,16 +138,6 @@ The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on
         <summary type="html"><![CDATA[The Internet Archive was recently honored for its valuable contribution to the Dutch-language Wikipedia community at an event at Leiden University in the Netherlands. Internet Archive founder Brewster Kahle accepted […]]]></summary>
         <author>
             <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI continues naming chaos despite CEO acknowledging the habit]]></title>
-        <id>https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/</id>
-        <link href="https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/"/>
-        <updated>2025-04-14T20:53:51.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's brand-new "GPT-4.1" has a funky name but reasonable performance for the price.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
