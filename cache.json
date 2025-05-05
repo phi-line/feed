@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150260",
+          "author": "Erica Klarreich",
+          "description": "A new proof represents the culmination of a 65-year-old story about anomalous shapes in special dimensions.            \nThe post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
+          "publishedOn": "2025-05-05T14:08:42.000Z",
+          "wordCount": 3739,
+          "title": "Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/KervaireConjecture-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150198",
           "author": "Janna Levin and Steven Strogatz",
           "description": "AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            \nThe post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine",
@@ -61,16 +71,6 @@
           "wordCount": 4905,
           "title": "What Happens When AI Starts To Ask the Questions?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Warps-Science_crSally-Caulwell-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=148957",
-          "author": "Jordana Cepelewicz",
-          "description": "Mathematicians have started to prepare for a profound shift in what it means to do math.            \nThe post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/",
-          "publishedOn": "2025-04-30T13:57:32.000Z",
-          "wordCount": 5054,
-          "title": "Mathematical Beauty, Truth and Proof in the Age of AI",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Changing-Math_crSally-Caulwell-Social.jpg"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "description": "For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]",
           "link": "https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/",
           "publishedOn": "2025-04-22T12:00:00.000Z",
-          "wordCount": 2591,
+          "wordCount": 2604,
           "title": "New Digital Collection Preserves Key Books on Drug Use and Policy",
           "imageUrl": null
         },
@@ -95,7 +95,7 @@
           "description": "The Internet Archive needs your help. A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding $700 million for our work preserving and providing access to […]",
           "link": "https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/",
           "publishedOn": "2025-04-17T17:32:01.000Z",
-          "wordCount": 6343,
+          "wordCount": 6345,
           "title": "Take Action: Defend the Internet Archive",
           "imageUrl": null
         },
@@ -105,7 +105,7 @@
           "description": "The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]",
           "link": "https://blog.archive.org/2025/04/17/community-webs-digitization-grant-reveals-stories-of-san-franciscos-immigrant-communities/",
           "publishedOn": "2025-04-17T16:35:42.000Z",
-          "wordCount": 3068,
+          "wordCount": 3070,
           "title": "Community Webs Digitization Grant Reveals Stories of San Francisco’s Immigrant Communities",
           "imageUrl": null
         },
@@ -115,7 +115,7 @@
           "description": "The Internet Archive is proud to join in celebrating a major milestone in the preservation of global cultural heritage: documents related to the history of slavery in Aruba have been […]",
           "link": "https://blog.archive.org/2025/04/15/arubas-digitized-slavery-documents-added-to-unescos-international-memory-of-the-world-register/",
           "publishedOn": "2025-04-15T15:53:40.000Z",
-          "wordCount": 2329,
+          "wordCount": 2331,
           "title": "Aruba’s Digitized Slavery Documents Added to UNESCO’s International Memory of the World Register",
           "imageUrl": null
         },
@@ -125,7 +125,7 @@
           "description": "The Internet Archive was recently honored for its valuable contribution to the Dutch-language Wikipedia community at an event at Leiden University in the Netherlands. Internet Archive founder Brewster Kahle accepted […]",
           "link": "https://blog.archive.org/2025/04/15/brewster-kahle-accepts-project-uil-award-from-dutch-wikipedia-community/",
           "publishedOn": "2025-04-15T14:00:43.000Z",
-          "wordCount": 2622,
+          "wordCount": 2624,
           "title": "Brewster Kahle Accepts Project Uil Award from Dutch Wikipedia Community",
           "imageUrl": null
         },
@@ -135,7 +135,7 @@
           "description": "The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]",
           "link": "https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/",
           "publishedOn": "2025-04-09T12:00:00.000Z",
-          "wordCount": 2904,
+          "wordCount": 2906,
           "title": "Vanishing Culture: When Preservation Meets Social Media",
           "imageUrl": null
         },
@@ -145,7 +145,7 @@
           "description": "Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]",
           "link": "https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/",
           "publishedOn": "2025-04-08T12:00:00.000Z",
-          "wordCount": 2660,
+          "wordCount": 2662,
           "title": "Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration",
           "imageUrl": null
         },
@@ -155,7 +155,7 @@
           "description": "The following guest post from digital librarian and founder of the Internet Archive, Brewster Kahle, is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more […]",
           "link": "https://blog.archive.org/2025/04/07/vanishing-culture-preserving-the-library-system/",
           "publishedOn": "2025-04-07T14:16:34.000Z",
-          "wordCount": 4056,
+          "wordCount": 4058,
           "title": "Vanishing Culture: Preserving the Library System",
           "imageUrl": null
         }
@@ -174,6 +174,16 @@
           "publishedOn": "2025-04-28T00:00:00.000Z",
           "wordCount": 4474,
           "title": "Reports of the Death of  California High-Speed Rail Have Been Greatly Exaggerated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit",
+          "author": null,
+          "description": "A conversation about the factors that might slow down the pace of AI development, what could happen next, and whether we’ll be able to see it coming.",
+          "link": "https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 6305,
+          "title": "Does AI Progress Have a Speed Limit?",
           "imageUrl": null
         },
         {

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T12:07:19.475Z</id>
+    <id>urn:2025-05-05T18:05:04.982Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T12:07:19.475Z</updated>
+    <updated>2025-05-05T18:05:04.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove]]></title>
+        <id>https://www.quantamagazine.org/?p=150260</id>
+        <link href="https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"/>
+        <updated>2025-05-05T14:08:42.000Z</updated>
+        <summary type="html"><![CDATA[A new proof represents the culmination of a 65-year-old story about anomalous shapes in special dimensions.            
+The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Erica Klarreich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
@@ -50,22 +61,21 @@ The post What Happens When AI Starts To Ask the Questions? first appeared on Qua
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mathematical Beauty, Truth and Proof in the Age of AI]]></title>
-        <id>https://www.quantamagazine.org/?p=148957</id>
-        <link href="https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/"/>
-        <updated>2025-04-30T13:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Mathematicians have started to prepare for a profound shift in what it means to do math.            
-The post Mathematical Beauty, Truth and Proof in the Age of AI first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jordana Cepelewicz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reports of the Death of  California High-Speed Rail Have Been Greatly Exaggerated]]></title>
         <id>https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated</id>
         <link href="https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated"/>
         <updated>2025-04-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Building a high-speed rail between Los Angeles and San Francisco was never going to be easy — but the critics who write it off are missing the real source of the project’s struggles.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does AI Progress Have a Speed Limit?]]></title>
+        <id>https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit</id>
+        <link href="https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A conversation about the factors that might slow down the pace of AI development, what could happen next, and whether we’ll be able to see it coming.]]></summary>
         <author>
             <name>Asterisk</name>
         </author>
