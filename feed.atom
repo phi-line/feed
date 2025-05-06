@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T06:06:17.931Z</id>
+    <id>urn:2025-05-06T12:08:04.507Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T06:06:17.931Z</updated>
+    <updated>2025-05-06T12:08:04.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -328,16 +328,6 @@ The post What Happens When AI Starts To Ask the Questions? first appeared on Qua
         <summary type="html"><![CDATA[The following guest post from digital librarian and founder of the Internet Archive, Brewster Kahle, is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more […]]]></summary>
         <author>
             <name>vanishingculture</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Babies Come From]]></title>
-        <id>https://asteriskmag.com/issues/09/where-babies-come-from</id>
-        <link href="https://asteriskmag.com/issues/09/where-babies-come-from"/>
-        <updated>2025-04-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s more complicated than you may think.]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
 </feed>
