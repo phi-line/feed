@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T12:08:04.507Z</id>
+    <id>urn:2025-05-06T18:05:53.590Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T12:08:04.507Z</updated>
+    <updated>2025-05-06T18:05:53.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X]]></title>
+        <id>681a1c55e2ccd00001b07690</id>
+        <link href="https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/"/>
+        <updated>2025-05-06T14:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s AI bot is undressing women on X.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Man Who Hacked Disney With Malicious AI Tool Pleads Guilty]]></title>
         <id>68191ff650a1db0001f899d2</id>
@@ -23,6 +33,16 @@
         <summary type="html"><![CDATA[Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.]]></summary>
         <author>
             <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC News: Can the Internet Archive Save Our Digital History?]]></title>
+        <id>https://blog.archive.org/?p=28773</id>
+        <link href="https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/"/>
+        <updated>2025-05-05T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]]]></summary>
+        <author>
+            <name>Chris Freeland</name>
         </author>
     </entry>
     <entry>
@@ -165,16 +185,6 @@ The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove f
 The post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Say the Most Popular Tool for Grading AIs Unfairly Favors Meta, Google, OpenAI]]></title>
-        <id>68127798552f89000187c641</id>
-        <link href="https://www.404media.co/chatbot-arena-illusion-paper-meta-openai/"/>
-        <updated>2025-05-01T13:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Chatbot Arena is the most popular AI benchmarking tool, but new research says its scores are misleading and benefit a handful of the biggest companies.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
         </author>
     </entry>
     <entry>
