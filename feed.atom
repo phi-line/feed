@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T00:18:55.871Z</id>
+    <id>urn:2025-05-07T06:06:19.800Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T00:18:55.871Z</updated>
+    <updated>2025-05-07T06:06:19.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.]]></summary>
         <author>
             <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC News: Can the Internet Archive Save Our Digital History?]]></title>
-        <id>https://blog.archive.org/?p=28773</id>
-        <link href="https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/"/>
-        <updated>2025-05-05T17:09:00.000Z</updated>
-        <summary type="html"><![CDATA[“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]]]></summary>
-        <author>
-            <name>Chris Freeland</name>
         </author>
     </entry>
     <entry>
@@ -328,16 +318,6 @@ The post What Happens When AI Starts To Ask the Questions? first appeared on Qua
         <summary type="html"><![CDATA[Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]]]></summary>
         <author>
             <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanishing Culture: Preserving the Library System]]></title>
-        <id>https://blog.archive.org/?p=28662</id>
-        <link href="https://blog.archive.org/2025/04/07/vanishing-culture-preserving-the-library-system/"/>
-        <updated>2025-04-07T14:16:34.000Z</updated>
-        <summary type="html"><![CDATA[The following guest post from digital librarian and founder of the Internet Archive, Brewster Kahle, is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more […]]]></summary>
-        <author>
-            <name>vanishingculture</name>
         </author>
     </entry>
 </feed>
