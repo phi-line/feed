@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150339",
+          "author": "Ajdina Halilovic",
+          "description": "How do memories last a lifetime when the molecules that form them turn over within days, weeks or months? An interaction between two proteins points to a molecular basis for memory.            \nThe post The Molecular Bond That Helps Secure Your Memories first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/",
+          "publishedOn": "2025-05-07T13:50:11.000Z",
+          "wordCount": 3323,
+          "title": "The Molecular Bond That Helps Secure Your Memories",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/MolecularMemory_crCarlos-Arrojo-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150260",
           "author": "Erica Klarreich",
           "description": "A new proof represents the culmination of a 65-year-old story about anomalous shapes in special dimensions.            \nThe post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine",
@@ -61,16 +71,6 @@
           "wordCount": 1576,
           "title": "Where Do Scientists Think This Is All Going?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AIWhereIsItGoing-crSallyCaulwell-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=148939",
-          "author": "Gregory Barber",
-          "description": "Technology has forever served as science’s toolbox. But now that AI is being used to develop questions and methods as well, some scientists wonder what their role is going to become.            \nThe post What Happens When AI Starts To Ask the Questions? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/",
-          "publishedOn": "2025-04-30T13:58:57.000Z",
-          "wordCount": 4905,
-          "title": "What Happens When AI Starts To Ask the Questions?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Warps-Science_crSally-Caulwell-Social.jpg"
         }
       ]
     },
@@ -194,12 +194,52 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "681b856ae2ccd00001b2a35b",
+          "author": "Joseph Cox",
+          "description": "A hacker compromised TeleMessage, a company that provides Signal chat archiving services to the Trump administration. TeleMessage has now hidden a video on YouTube that explained its Signal service.",
+          "link": "https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/",
+          "publishedOn": "2025-05-07T16:14:36.000Z",
+          "wordCount": 1731,
+          "title": "Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/telemessage-signal-video.png"
+        },
+        {
+          "id": "681b74a0e2ccd00001b29872",
+          "author": "Emanuel Maiberg",
+          "description": "Nickelodeon’s cartoon character tells kids why it’s cool to be a kind of toxic male that comes from the darkest corners of the manosphere.",
+          "link": "https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/",
+          "publishedOn": "2025-05-07T15:03:15.000Z",
+          "wordCount": 1675,
+          "title": "Dora the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male Aspiration",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--1-.png"
+        },
+        {
+          "id": "681b5e02e2ccd00001b0d696",
+          "author": "Matthew Gault",
+          "description": "AI-generated outrage bait is the perfect artistic medium for a president who rules by trying to overwhelm the system.",
+          "link": "https://www.404media.co/the-ai-slop-presidency/",
+          "publishedOn": "2025-05-07T13:35:34.000Z",
+          "wordCount": 2098,
+          "title": "The AI Slop Presidency",
+          "imageUrl": "https://www.404media.co/content/images/2025/05/SloppyAITrump2.jpg"
+        },
+        {
+          "id": "681a72a4e2ccd00001b0aae4",
+          "author": "Joseph Cox",
+          "description": "Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes.",
+          "link": "https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/",
+          "publishedOn": "2025-05-07T13:00:25.000Z",
+          "wordCount": 1107,
+          "title": "Podcast: The Trump Admin's Signal Clone Was Hacked",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/trump-signal-ty-cover--2-.jpg"
+        },
+        {
           "id": "681a553be2ccd00001b09e3b",
           "author": "Joseph Cox",
           "description": "404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.",
           "link": "https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/",
           "publishedOn": "2025-05-06T18:32:35.000Z",
-          "wordCount": 1146,
+          "wordCount": 1157,
           "title": "Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-01-at-14.30.56@2x-2.png"
         },
@@ -209,7 +249,7 @@
           "description": "Elon Musk’s AI bot is undressing women on X.",
           "link": "https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/",
           "publishedOn": "2025-05-06T14:39:07.000Z",
-          "wordCount": 1021,
+          "wordCount": 1008,
           "title": "Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X",
           "imageUrl": "https://images.unsplash.com/photo-1717143587138-2532a35ce9b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdyb2t8ZW58MHx8fHwxNzQ2NTQxNjUwfDA&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -219,7 +259,7 @@
           "description": "A hacker who tricked people into downloading malware using AI image generation tools plead guilty to two felony counts.",
           "link": "https://www.404media.co/man-who-hacked-disney-with-malicious-ai-tool-pleads-guilty/",
           "publishedOn": "2025-05-05T20:32:12.000Z",
-          "wordCount": 1258,
+          "wordCount": 1261,
           "title": "Man Who Hacked Disney With Malicious AI Tool Pleads Guilty",
           "imageUrl": "https://images.unsplash.com/photo-1611345405264-d9f9629c2f3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxkaXNuZXl8ZW58MHx8fHwxNzQ2NDc3MDUyfDA&ixlib=rb-4.0.3&q=80&w=2000"
         },
@@ -229,7 +269,7 @@
           "description": "Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.",
           "link": "https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/",
           "publishedOn": "2025-05-05T17:39:31.000Z",
-          "wordCount": 1171,
+          "wordCount": 1192,
           "title": "GlobalX, Airline for Trump’s Deportations, Hacked",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/global-x-promo-image.png"
         },
@@ -239,7 +279,7 @@
           "description": "An open AI video generation model that was released last month is now being used by thousands of people to generate nonconsensual sexual videos of real people.",
           "link": "https://www.404media.co/telegram-ai-cumshot-bot/",
           "publishedOn": "2025-05-05T12:58:45.000Z",
-          "wordCount": 1030,
+          "wordCount": 1054,
           "title": "100,000 People Are Using a Telegram Bot That Makes AI Cumshot Videos of Anyone",
           "imageUrl": "https://images.unsplash.com/photo-1636743094110-5e153f93ad7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fCUyMHRlbGVncmFtfGVufDB8fHx8MTc0NjIwMTM3OHww&ixlib=rb-4.0.3&q=80&w=2000"
         },
@@ -249,7 +289,7 @@
           "description": "The biggest site for nonconsensual deepfake porn on the internet says it’s shutting down and not coming back.",
           "link": "https://www.404media.co/mr-deepfakes-the-biggest-deepfake-porn-site-on-the-internet-says-its-shutting-down-for-good/",
           "publishedOn": "2025-05-05T01:01:20.000Z",
-          "wordCount": 1061,
+          "wordCount": 1085,
           "title": "Mr. Deepfakes, the Biggest Deepfake Porn Site on the Internet, Says It’s Shutting Down for Good",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mrd1.jpg"
         },
@@ -259,7 +299,7 @@
           "description": "TeleMessage, a company that makes a modified version of Signal that archives messages for government agencies, was hacked.",
           "link": "https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/",
           "publishedOn": "2025-05-04T22:00:14.000Z",
-          "wordCount": 1118,
+          "wordCount": 1142,
           "title": "The Signal Clone the Trump Admin Uses Was Hacked",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/2025-05-01T191524Z_1593952591_RC2H8EAD8KFG_RTRMADP_3_USA-TRUMP-SECURITY-WALTZ-2.JPG"
         },
@@ -269,7 +309,7 @@
           "description": "Tardigrades, tiny microscopic animals, woke up from suspended animation with body art.",
           "link": "https://www.404media.co/these-tardigrades-have-tiny-tattoos-2/",
           "publishedOn": "2025-05-03T14:52:13.000Z",
-          "wordCount": 2385,
+          "wordCount": 2398,
           "title": "These Tardigrades Have Tiny Tattoos",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/image1.jpg"
         },
@@ -279,7 +319,7 @@
           "description": "An anonymous OSINT sleuth mis-identified a quarry as an underground Houthi base. Days later, the Pentagon allegedly struck the site and killed eight people.",
           "link": "https://www.404media.co/u-s-denies-picking-bombing-targets-from-random-twitter-accounts/",
           "publishedOn": "2025-05-02T19:39:50.000Z",
-          "wordCount": 2249,
+          "wordCount": 2273,
           "title": "U.S. Denies Picking Bombing Targets From Random Twitter Accounts",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Yemen.png"
         },
@@ -289,7 +329,7 @@
           "description": "The small, pathetic technofeudalist dystopian vision of Howard Lutnick and the Trump administration.",
           "link": "https://www.404media.co/your-childrens-children-will-die-in-our-factories/",
           "publishedOn": "2025-05-02T16:59:49.000Z",
-          "wordCount": 2028,
+          "wordCount": 2041,
           "title": "Your Children’s Children Will Die in Our Factories",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-02-at-09.49.31@2x.png"
         },
@@ -299,49 +339,9 @@
           "description": "This week, we discuss eyebrow-raising apps, more media mess, and lovingly gazing at AI slop.",
           "link": "https://www.404media.co/behind-the-blog-the-news-hits-different/",
           "publishedOn": "2025-05-02T15:53:43.000Z",
-          "wordCount": 1092,
+          "wordCount": 1105,
           "title": "Behind the Blog: The News Hits Different",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl5.2-1.png"
-        },
-        {
-          "id": "6813e10450a1db0001ef2889",
-          "author": "Joseph Cox",
-          "description": "A photograph of Trump administration official Mike Waltz's phone shows him using an unofficial version of Signal designed to archive messages during a cabinet meeting.",
-          "link": "https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/",
-          "publishedOn": "2025-05-01T21:25:23.000Z",
-          "wordCount": 1091,
-          "title": "Mike Waltz Accidentally Reveals Obscure App the Government Is Using to Archive Signal Messages",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-01-at-14.30.56@2x.png"
-        },
-        {
-          "id": "6813da0f50a1db0001ef2760",
-          "author": "Matthew Gault",
-          "description": "A recent memo detailed a future where soldiers can repair their own equipment.",
-          "link": "https://www.404media.co/army-will-seek-right-to-repair-clauses-in-all-its-contracts/",
-          "publishedOn": "2025-05-01T20:45:01.000Z",
-          "wordCount": 1547,
-          "title": "Army Will Seek Right to Repair Clauses in All Its Contracts",
-          "imageUrl": "https://www.404media.co/content/images/2025/05/M1-cartoon-PS-1.png"
-        },
-        {
-          "id": "6813b5ec50a1db0001ef2170",
-          "author": "Samantha Cole",
-          "description": "Before he founded Valnet, Hassan Youssef started one of the biggest porn sites on the internet.",
-          "link": "https://www.404media.co/polygon-acquired-by-porn-mogul-who-co-founded-brazzers/",
-          "publishedOn": "2025-05-01T19:35:53.000Z",
-          "wordCount": 1031,
-          "title": "Polygon Acquired by Porn Mogul Who Co-Founded Brazzers",
-          "imageUrl": "https://www.404media.co/content/images/2025/05/polygon.png"
-        },
-        {
-          "id": "6813982e50a1db0001ef1a54",
-          "author": "Samantha Cole",
-          "description": "The CEO of Meta says \"the average American has fewer than three friends, fewer than three people they would consider friends. And the average person has demand for meaningfully more.”",
-          "link": "https://www.404media.co/mark-zuckerberg-ai-chatbot-friends-interview-podcast/",
-          "publishedOn": "2025-05-01T15:57:51.000Z",
-          "wordCount": 2008,
-          "title": "Mark Zuckerberg Thinks You Don't Have Enough Friends and His Chatbots Are the Answer",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mark.png"
         }
       ]
     }
