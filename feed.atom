@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T18:06:19.602Z</id>
+    <id>urn:2025-05-08T00:19:06.137Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T18:06:19.602Z</updated>
+    <updated>2025-05-08T00:19:06.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA['I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident]]></title>
+        <id>681bb66fe2ccd00001b2b877</id>
+        <link href="https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/"/>
+        <updated>2025-05-07T19:45:57.000Z</updated>
+        <summary type="html"><![CDATA[How the sister of Christopher Pelkey made an avatar of him to testify in court.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said]]></title>
         <id>681b856ae2ccd00001b2a35b</id>
@@ -168,16 +178,6 @@ The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the Blog: The News Hits Different]]></title>
-        <id>6814c26150a1db0001ef5e48</id>
-        <link href="https://www.404media.co/behind-the-blog-the-news-hits-different/"/>
-        <updated>2025-05-02T15:53:43.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss eyebrow-raising apps, more media mess, and lovingly gazing at AI slop.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
         <link href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/"/>
@@ -306,16 +306,6 @@ The post Where Do Scientists Think This Is All Going? first appeared on Quanta M
         <link href="https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/"/>
         <updated>2025-04-09T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]]]></summary>
-        <author>
-            <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration]]></title>
-        <id>https://blog.archive.org/?p=28668</id>
-        <link href="https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/"/>
-        <updated>2025-04-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]]]></summary>
         <author>
             <name>Caralee Adams</name>
         </author>
