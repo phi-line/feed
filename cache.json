@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/04/birthday-effect",
+          "author": null,
+          "description": "Are you more likely to die on your birthday? Yes.",
+          "link": "https://pudding.cool/2025/04/birthday-effect",
+          "publishedOn": "2025-05-08T04:00:00.000Z",
+          "wordCount": 1885,
+          "title": "Are you more likely to die on your birthday?",
+          "imageUrl": "https://pudding.cool/2025/04/birthday-effect/assets/social.png"
+        },
+        {
           "id": "https://pudding.cool/2025/04/wine-animals",
           "author": null,
           "description": "We try to predict the price and quality of a bottle of wine based on the animal on the label.",
@@ -189,7 +199,7 @@
           "description": "How the sister of Christopher Pelkey made an avatar of him to testify in court.",
           "link": "https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/",
           "publishedOn": "2025-05-07T19:45:57.000Z",
-          "wordCount": 2253,
+          "wordCount": 1068,
           "title": "'I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-07-at-12.38.16@2x.png"
         },
