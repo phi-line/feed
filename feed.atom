@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T18:06:01.992Z</id>
+    <id>urn:2025-05-09T00:19:04.764Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T18:06:01.992Z</updated>
+    <updated>2025-05-09T00:19:04.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch an AI-Generated Recruiter Make a Job Interview Even Worse]]></title>
+        <id>681cfa5ce2ccd00001b66cd0</id>
+        <link href="https://www.404media.co/ai-recruiter-apriora-tiktok/"/>
+        <updated>2025-05-08T18:48:02.000Z</updated>
+        <summary type="html"><![CDATA[“Vertical bar pilates."]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are you more likely to die on your birthday?]]></title>
         <id>https://pudding.cool/2025/04/birthday-effect</id>
@@ -178,16 +188,6 @@ The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Children’s Children Will Die in Our Factories]]></title>
-        <id>6814f78b50a1db0001f14ccb</id>
-        <link href="https://www.404media.co/your-childrens-children-will-die-in-our-factories/"/>
-        <updated>2025-05-02T16:59:49.000Z</updated>
-        <summary type="html"><![CDATA[The small, pathetic technofeudalist dystopian vision of Howard Lutnick and the Trump administration.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
         <link href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/"/>
@@ -306,16 +306,6 @@ The post Where Do Scientists Think This Is All Going? first appeared on Quanta M
         <link href="https://blog.archive.org/2025/04/15/brewster-kahle-accepts-project-uil-award-from-dutch-wikipedia-community/"/>
         <updated>2025-04-15T14:00:43.000Z</updated>
         <summary type="html"><![CDATA[The Internet Archive was recently honored for its valuable contribution to the Dutch-language Wikipedia community at an event at Leiden University in the Netherlands. Internet Archive founder Brewster Kahle accepted […]]]></summary>
-        <author>
-            <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanishing Culture: When Preservation Meets Social Media]]></title>
-        <id>https://blog.archive.org/?p=28678</id>
-        <link href="https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/"/>
-        <updated>2025-04-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]]]></summary>
         <author>
             <name>Caralee Adams</name>
         </author>
