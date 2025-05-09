@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T12:07:00.012Z</id>
+    <id>urn:2025-05-09T18:05:41.717Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T12:07:00.012Z</updated>
+    <updated>2025-05-09T18:05:41.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: Brainrot and Brain Power Hours]]></title>
+        <id>681e1221e2ccd00001b68d2a</id>
+        <link href="https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/"/>
+        <updated>2025-05-09T15:49:07.000Z</updated>
+        <summary type="html"><![CDATA[This week, we discuss the death of Mr. Deepfakes, introducing kids to the Manosphere, and working on big, difficult, high-brain-power scoops.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows]]></title>
+        <id>681ccd47e2ccd00001b492d2</id>
+        <link href="https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/"/>
+        <updated>2025-05-09T14:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Beauty and Truth in Mundane Occurrences]]></title>
+        <id>https://www.quantamagazine.org/?p=150378</id>
+        <link href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/"/>
+        <updated>2025-05-09T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            
+The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Well, Well, Well: Meta to Add Facial Recognition To Glasses After All]]></title>
+        <id>681dfb60e2ccd00001b689f1</id>
+        <link href="https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/"/>
+        <updated>2025-05-09T13:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch an AI-Generated Recruiter Make a Job Interview Even Worse]]></title>
         <id>681cfa5ce2ccd00001b66cd0</id>
@@ -158,36 +199,6 @@ The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Signal Clone the Trump Admin Uses Was Hacked]]></title>
-        <id>6817c8a050a1db0001f4cb02</id>
-        <link href="https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/"/>
-        <updated>2025-05-04T22:00:14.000Z</updated>
-        <summary type="html"><![CDATA[TeleMessage, a company that makes a modified version of Signal that archives messages for government agencies, was hacked.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Tardigrades Have Tiny Tattoos]]></title>
-        <id>68162d7c50a1db0001f31bfd</id>
-        <link href="https://www.404media.co/these-tardigrades-have-tiny-tattoos-2/"/>
-        <updated>2025-05-03T14:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Tardigrades, tiny microscopic animals, woke up from suspended animation with body art.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Denies Picking Bombing Targets From Random Twitter Accounts]]></title>
-        <id>681519c450a1db0001f15ee0</id>
-        <link href="https://www.404media.co/u-s-denies-picking-bombing-targets-from-random-twitter-accounts/"/>
-        <updated>2025-05-02T19:39:50.000Z</updated>
-        <summary type="html"><![CDATA[An anonymous OSINT sleuth mis-identified a quarry as an underground Houthi base. Days later, the Pentagon allegedly struck the site and killed eight people.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
         <id>https://www.quantamagazine.org/?p=150198</id>
         <link href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/"/>
@@ -207,17 +218,6 @@ The post Will AI Ever Understand Language Like Humans? first appeared on Quanta 
 The post Science, Promise and Peril in the Age of AI first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Michael Moyer, Ben Brubaker, John Pavlus, Mark Belan, Jordana Cepelewicz, Yasemin Saplakoglu, Gregory Barber, Elise Cutts and Emily Buder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Do Scientists Think This Is All Going?]]></title>
-        <id>https://www.quantamagazine.org/?p=149049</id>
-        <link href="https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/"/>
-        <updated>2025-04-30T13:59:28.000Z</updated>
-        <summary type="html"><![CDATA[We asked some of the world’s foremost experts an impossible question. Amazingly, they answered.            
-The post Where Do Scientists Think This Is All Going? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Michael Moyer</name>
         </author>
     </entry>
     <entry>
