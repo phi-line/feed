@@ -90,6 +90,36 @@
       "siteUrl": "https://blog.archive.org",
       "articles": [
         {
+          "id": "https://blog.archive.org/?p=28783",
+          "author": "Lila Bailey",
+          "description": "Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers […]",
+          "link": "https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/",
+          "publishedOn": "2025-05-07T22:06:53.000Z",
+          "wordCount": 2213,
+          "title": "Public Interest Groups to FTC: Make Digital Ownership Real",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28776",
+          "author": "vanishingculture",
+          "description": "The following guest post from journalist and computer historian Josh Renaud is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]",
+          "link": "https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/",
+          "publishedOn": "2025-05-07T12:00:00.000Z",
+          "wordCount": 3276,
+          "title": "Vanishing Culture: Recovering Lost Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28773",
+          "author": "Chris Freeland",
+          "description": "“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]",
+          "link": "https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/",
+          "publishedOn": "2025-05-05T17:09:00.000Z",
+          "wordCount": 2060,
+          "title": "BBC News: Can the Internet Archive Save Our Digital History?",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.archive.org/?p=28748",
           "author": "Caralee Adams",
           "description": "For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]",
@@ -184,12 +214,22 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "681e0ccae2ccd00001b68c71",
+          "author": "Becky Ferreira",
+          "description": "The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry.",
+          "link": "https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/",
+          "publishedOn": "2025-05-10T13:00:31.000Z",
+          "wordCount": 2808,
+          "title": "Ancient Poems Record the Decline of a Special Porpoise",
+          "imageUrl": "https://www.404media.co/content/images/2025/05/image6.jpg"
+        },
+        {
           "id": "681e1221e2ccd00001b68d2a",
           "author": "Samantha Cole",
           "description": "This week, we discuss the death of Mr. Deepfakes, introducing kids to the Manosphere, and working on big, difficult, high-brain-power scoops.",
           "link": "https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/",
           "publishedOn": "2025-05-09T15:49:07.000Z",
-          "wordCount": 1156,
+          "wordCount": 1175,
           "title": "Behind the Blog: Brainrot and Brain Power Hours",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl5.9.png"
         },
@@ -199,7 +239,7 @@
           "description": "Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country.",
           "link": "https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/",
           "publishedOn": "2025-05-09T14:48:43.000Z",
-          "wordCount": 1300,
+          "wordCount": 1319,
           "title": "Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image-15.png"
         },
@@ -209,7 +249,7 @@
           "description": "Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself.",
           "link": "https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/",
           "publishedOn": "2025-05-09T13:09:22.000Z",
-          "wordCount": 1221,
+          "wordCount": 1240,
           "title": "Well, Well, Well: Meta to Add Facial Recognition To Glasses After All",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.jpg"
         },
@@ -219,7 +259,7 @@
           "description": "“Vertical bar pilates.\"",
           "link": "https://www.404media.co/ai-recruiter-apriora-tiktok/",
           "publishedOn": "2025-05-08T18:48:02.000Z",
-          "wordCount": 1050,
+          "wordCount": 1039,
           "title": "Watch an AI-Generated Recruiter Make a Job Interview Even Worse",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.png"
         },
@@ -229,7 +269,7 @@
           "description": "How the sister of Christopher Pelkey made an avatar of him to testify in court.",
           "link": "https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/",
           "publishedOn": "2025-05-07T19:45:57.000Z",
-          "wordCount": 1087,
+          "wordCount": 1076,
           "title": "'I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-07-at-12.38.16@2x.png"
         },
@@ -239,7 +279,7 @@
           "description": "A hacker compromised TeleMessage, a company that provides Signal chat archiving services to the Trump administration. TeleMessage has now hidden a video on YouTube that explained its Signal service.",
           "link": "https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/",
           "publishedOn": "2025-05-07T16:14:36.000Z",
-          "wordCount": 1230,
+          "wordCount": 1219,
           "title": "Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/telemessage-signal-video.png"
         },
@@ -249,7 +289,7 @@
           "description": "Nickelodeon’s cartoon character tells kids why it’s cool to be a kind of toxic male that comes from the darkest corners of the manosphere.",
           "link": "https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/",
           "publishedOn": "2025-05-07T15:03:15.000Z",
-          "wordCount": 1108,
+          "wordCount": 1097,
           "title": "Dora the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male Aspiration",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--1-.png"
         },
@@ -259,7 +299,7 @@
           "description": "AI-generated outrage bait is the perfect artistic medium for a president who rules by trying to overwhelm the system.",
           "link": "https://www.404media.co/the-ai-slop-presidency/",
           "publishedOn": "2025-05-07T13:35:34.000Z",
-          "wordCount": 1218,
+          "wordCount": 1207,
           "title": "The AI Slop Presidency",
           "imageUrl": "https://www.404media.co/content/images/2025/05/SloppyAITrump2.jpg"
         },
@@ -269,7 +309,7 @@
           "description": "Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes.",
           "link": "https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/",
           "publishedOn": "2025-05-07T13:00:25.000Z",
-          "wordCount": 1137,
+          "wordCount": 1126,
           "title": "Podcast: The Trump Admin's Signal Clone Was Hacked",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/trump-signal-ty-cover--2-.jpg"
         },
@@ -279,7 +319,7 @@
           "description": "404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.",
           "link": "https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/",
           "publishedOn": "2025-05-06T18:32:35.000Z",
-          "wordCount": 1187,
+          "wordCount": 1176,
           "title": "Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-01-at-14.30.56@2x-2.png"
         },
@@ -289,7 +329,7 @@
           "description": "Elon Musk’s AI bot is undressing women on X.",
           "link": "https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/",
           "publishedOn": "2025-05-06T14:39:07.000Z",
-          "wordCount": 1071,
+          "wordCount": 1060,
           "title": "Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X",
           "imageUrl": "https://images.unsplash.com/photo-1717143587138-2532a35ce9b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdyb2t8ZW58MHx8fHwxNzQ2NTQxNjUwfDA&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -299,7 +339,7 @@
           "description": "A hacker who tricked people into downloading malware using AI image generation tools plead guilty to two felony counts.",
           "link": "https://www.404media.co/man-who-hacked-disney-with-malicious-ai-tool-pleads-guilty/",
           "publishedOn": "2025-05-05T20:32:12.000Z",
-          "wordCount": 1140,
+          "wordCount": 1129,
           "title": "Man Who Hacked Disney With Malicious AI Tool Pleads Guilty",
           "imageUrl": "https://images.unsplash.com/photo-1611345405264-d9f9629c2f3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxkaXNuZXl8ZW58MHx8fHwxNzQ2NDc3MDUyfDA&ixlib=rb-4.0.3&q=80&w=2000"
         },
@@ -309,7 +349,7 @@
           "description": "Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.",
           "link": "https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/",
           "publishedOn": "2025-05-05T17:39:31.000Z",
-          "wordCount": 1255,
+          "wordCount": 1244,
           "title": "GlobalX, Airline for Trump’s Deportations, Hacked",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/global-x-promo-image.png"
         },
@@ -319,19 +359,9 @@
           "description": "An open AI video generation model that was released last month is now being used by thousands of people to generate nonconsensual sexual videos of real people.",
           "link": "https://www.404media.co/telegram-ai-cumshot-bot/",
           "publishedOn": "2025-05-05T12:58:45.000Z",
-          "wordCount": 1117,
+          "wordCount": 1106,
           "title": "100,000 People Are Using a Telegram Bot That Makes AI Cumshot Videos of Anyone",
           "imageUrl": "https://images.unsplash.com/photo-1636743094110-5e153f93ad7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fCUyMHRlbGVncmFtfGVufDB8fHx8MTc0NjIwMTM3OHww&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "68180b4f50a1db0001f68455",
-          "author": "Emanuel Maiberg",
-          "description": "The biggest site for nonconsensual deepfake porn on the internet says it’s shutting down and not coming back.",
-          "link": "https://www.404media.co/mr-deepfakes-the-biggest-deepfake-porn-site-on-the-internet-says-its-shutting-down-for-good/",
-          "publishedOn": "2025-05-05T01:01:20.000Z",
-          "wordCount": 1148,
-          "title": "Mr. Deepfakes, the Biggest Deepfake Porn Site on the Internet, Says It’s Shutting Down for Good",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mrd1.jpg"
         }
       ]
     }
