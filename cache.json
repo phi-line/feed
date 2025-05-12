@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150443",
+          "author": "Steve Nadis",
+          "description": "Researchers have devised a scheme for painting the edges of a graph that’s almost as speedy as possible.            \nThe post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/",
+          "publishedOn": "2025-05-12T14:20:49.000Z",
+          "wordCount": 2923,
+          "title": "The Fastest Way Yet to Color Graphs",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/VizingsTheorem-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150378",
           "author": "Charlie Wood",
           "description": "The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            \nThe post Finding Beauty and Truth in Mundane Occurrences first appeared on Quanta Magazine",
@@ -68,19 +78,9 @@
           "description": "AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            \nThe post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/",
           "publishedOn": "2025-05-01T13:38:30.000Z",
-          "wordCount": 9708,
+          "wordCount": 9703,
           "title": "Will AI Ever Understand Language Like Humans?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/AI-language_crPeter-Greenwood-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150084",
-          "author": "Michael Moyer, Ben Brubaker, John Pavlus, Mark Belan, Jordana Cepelewicz, Yasemin Saplakoglu, Gregory Barber, Elise Cutts and Emily Buder",
-          "description": "An exploration of how artificial intelligence is changing what it means to do science and math, and what it means to be a scientist.            \nThe post Science, Promise and Peril in the Age of AI first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/",
-          "publishedOn": "2025-04-30T14:00:50.000Z",
-          "wordCount": 1611,
-          "title": "Science, Promise and Peril in the Age of AI",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-series-Social.jpg"
         }
       ]
     },
@@ -147,12 +147,22 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice",
+          "author": null,
+          "description": "America’s roads are more dangerous than those of almost every country in the developed world. We know how to change that.",
+          "link": "https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 3769,
+          "title": "Traffic Fatalities Are a Choice",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated",
           "author": null,
           "description": "Building a high-speed rail between Los Angeles and San Francisco was never going to be easy — but the critics who write it off are missing the real source of the project’s struggles.",
           "link": "https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated",
           "publishedOn": "2025-04-28T00:00:00.000Z",
-          "wordCount": 4474,
+          "wordCount": 4487,
           "title": "Reports of the Death of  California High-Speed Rail Have Been Greatly Exaggerated",
           "imageUrl": null
         },
@@ -184,12 +194,52 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "682217a6e2ccd00001be49b7",
+          "author": "Matthew Gault",
+          "description": "The new site is a cozy and chaotic sucessor to 'Twitch plays Pokémon.",
+          "link": "https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/",
+          "publishedOn": "2025-05-12T15:49:03.000Z",
+          "wordCount": 1691,
+          "title": "900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/InternetRoadtripo.png"
+        },
+        {
+          "id": "68220be7e2ccd00001be466b",
+          "author": "Samantha Cole",
+          "description": "Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.",
+          "link": "https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/",
+          "publishedOn": "2025-05-12T15:03:30.000Z",
+          "wordCount": 981,
+          "title": "New Bill Would Make All Pornography a Federal Crime in the U.S.",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/4096px-Mike_Lee_-52249592902-.jpg"
+        },
+        {
+          "id": "6821fe80e2ccd00001be41b9",
+          "author": "Emanuel Maiberg",
+          "description": "Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.",
+          "link": "https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/",
+          "publishedOn": "2025-05-12T14:09:47.000Z",
+          "wordCount": 1349,
+          "title": "Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill",
+          "imageUrl": "https://images.unsplash.com/photo-1569285647999-67fc5a1ff1ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNvbmdyZXNzfGVufDB8fHx8MTc0NzA1ODMwMnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "681e15e5e2ccd00001b68e1f",
+          "author": "Emanuel Maiberg",
+          "description": "A new Coke ad proudly features a quote from a J.G. Ballard book, only he didn’t write the words and it’s not his book.",
+          "link": "https://www.404media.co/ai-powered-coca-cola-ad-celebrating-authors-gets-basic-facts-wrong/",
+          "publishedOn": "2025-05-12T13:00:53.000Z",
+          "wordCount": 1083,
+          "title": "AI-Powered Coca-Cola Ad Celebrating Authors Gets Basic Facts Wrong",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/classic02a.jpg"
+        },
+        {
           "id": "681e0ccae2ccd00001b68c71",
           "author": "Becky Ferreira",
           "description": "The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry.",
           "link": "https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/",
           "publishedOn": "2025-05-10T13:00:31.000Z",
-          "wordCount": 2808,
+          "wordCount": 2766,
           "title": "Ancient Poems Record the Decline of a Special Porpoise",
           "imageUrl": "https://www.404media.co/content/images/2025/05/image6.jpg"
         },
@@ -199,7 +249,7 @@
           "description": "This week, we discuss the death of Mr. Deepfakes, introducing kids to the Manosphere, and working on big, difficult, high-brain-power scoops.",
           "link": "https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/",
           "publishedOn": "2025-05-09T15:49:07.000Z",
-          "wordCount": 1175,
+          "wordCount": 1139,
           "title": "Behind the Blog: Brainrot and Brain Power Hours",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl5.9.png"
         },
@@ -209,7 +259,7 @@
           "description": "Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country.",
           "link": "https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/",
           "publishedOn": "2025-05-09T14:48:43.000Z",
-          "wordCount": 1319,
+          "wordCount": 1262,
           "title": "Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image-15.png"
         },
@@ -219,7 +269,7 @@
           "description": "Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself.",
           "link": "https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/",
           "publishedOn": "2025-05-09T13:09:22.000Z",
-          "wordCount": 1240,
+          "wordCount": 1173,
           "title": "Well, Well, Well: Meta to Add Facial Recognition To Glasses After All",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.jpg"
         },
@@ -229,7 +279,7 @@
           "description": "“Vertical bar pilates.\"",
           "link": "https://www.404media.co/ai-recruiter-apriora-tiktok/",
           "publishedOn": "2025-05-08T18:48:02.000Z",
-          "wordCount": 1039,
+          "wordCount": 1008,
           "title": "Watch an AI-Generated Recruiter Make a Job Interview Even Worse",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.png"
         },
@@ -239,7 +289,7 @@
           "description": "How the sister of Christopher Pelkey made an avatar of him to testify in court.",
           "link": "https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/",
           "publishedOn": "2025-05-07T19:45:57.000Z",
-          "wordCount": 1076,
+          "wordCount": 1045,
           "title": "'I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-07-at-12.38.16@2x.png"
         },
@@ -249,7 +299,7 @@
           "description": "A hacker compromised TeleMessage, a company that provides Signal chat archiving services to the Trump administration. TeleMessage has now hidden a video on YouTube that explained its Signal service.",
           "link": "https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/",
           "publishedOn": "2025-05-07T16:14:36.000Z",
-          "wordCount": 1219,
+          "wordCount": 1150,
           "title": "Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/telemessage-signal-video.png"
         },
@@ -259,7 +309,7 @@
           "description": "Nickelodeon’s cartoon character tells kids why it’s cool to be a kind of toxic male that comes from the darkest corners of the manosphere.",
           "link": "https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/",
           "publishedOn": "2025-05-07T15:03:15.000Z",
-          "wordCount": 1097,
+          "wordCount": 1022,
           "title": "Dora the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male Aspiration",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--1-.png"
         },
@@ -269,7 +319,7 @@
           "description": "AI-generated outrage bait is the perfect artistic medium for a president who rules by trying to overwhelm the system.",
           "link": "https://www.404media.co/the-ai-slop-presidency/",
           "publishedOn": "2025-05-07T13:35:34.000Z",
-          "wordCount": 1207,
+          "wordCount": 1132,
           "title": "The AI Slop Presidency",
           "imageUrl": "https://www.404media.co/content/images/2025/05/SloppyAITrump2.jpg"
         },
@@ -279,7 +329,7 @@
           "description": "Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes.",
           "link": "https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/",
           "publishedOn": "2025-05-07T13:00:25.000Z",
-          "wordCount": 1126,
+          "wordCount": 1095,
           "title": "Podcast: The Trump Admin's Signal Clone Was Hacked",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/trump-signal-ty-cover--2-.jpg"
         },
@@ -289,49 +339,9 @@
           "description": "404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.",
           "link": "https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/",
           "publishedOn": "2025-05-06T18:32:35.000Z",
-          "wordCount": 1176,
+          "wordCount": 1145,
           "title": "Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-01-at-14.30.56@2x-2.png"
-        },
-        {
-          "id": "681a1c55e2ccd00001b07690",
-          "author": "Emanuel Maiberg",
-          "description": "Elon Musk’s AI bot is undressing women on X.",
-          "link": "https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/",
-          "publishedOn": "2025-05-06T14:39:07.000Z",
-          "wordCount": 1060,
-          "title": "Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X",
-          "imageUrl": "https://images.unsplash.com/photo-1717143587138-2532a35ce9b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdyb2t8ZW58MHx8fHwxNzQ2NTQxNjUwfDA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "68191ff650a1db0001f899d2",
-          "author": "Matthew Gault",
-          "description": "A hacker who tricked people into downloading malware using AI image generation tools plead guilty to two felony counts.",
-          "link": "https://www.404media.co/man-who-hacked-disney-with-malicious-ai-tool-pleads-guilty/",
-          "publishedOn": "2025-05-05T20:32:12.000Z",
-          "wordCount": 1129,
-          "title": "Man Who Hacked Disney With Malicious AI Tool Pleads Guilty",
-          "imageUrl": "https://images.unsplash.com/photo-1611345405264-d9f9629c2f3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxkaXNuZXl8ZW58MHx8fHwxNzQ2NDc3MDUyfDA&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "6818f32350a1db0001f87be1",
-          "author": "Joseph Cox",
-          "description": "Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.",
-          "link": "https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/",
-          "publishedOn": "2025-05-05T17:39:31.000Z",
-          "wordCount": 1244,
-          "title": "GlobalX, Airline for Trump’s Deportations, Hacked",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/global-x-promo-image.png"
-        },
-        {
-          "id": "6814eb2650a1db0001ef68cb",
-          "author": "Emanuel Maiberg",
-          "description": "An open AI video generation model that was released last month is now being used by thousands of people to generate nonconsensual sexual videos of real people.",
-          "link": "https://www.404media.co/telegram-ai-cumshot-bot/",
-          "publishedOn": "2025-05-05T12:58:45.000Z",
-          "wordCount": 1106,
-          "title": "100,000 People Are Using a Telegram Bot That Makes AI Cumshot Videos of Anyone",
-          "imageUrl": "https://images.unsplash.com/photo-1636743094110-5e153f93ad7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fCUyMHRlbGVncmFtfGVufDB8fHx8MTc0NjIwMTM3OHww&ixlib=rb-4.0.3&q=80&w=2000"
         }
       ]
     }

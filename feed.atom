@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T12:07:39.432Z</id>
+    <id>urn:2025-05-12T18:05:58.656Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T12:07:39.432Z</updated>
+    <updated>2025-05-12T18:05:58.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View]]></title>
+        <id>682217a6e2ccd00001be49b7</id>
+        <link href="https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/"/>
+        <updated>2025-05-12T15:49:03.000Z</updated>
+        <summary type="html"><![CDATA[The new site is a cozy and chaotic sucessor to 'Twitch plays Pokémon.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Bill Would Make All Pornography a Federal Crime in the U.S.]]></title>
+        <id>68220be7e2ccd00001be466b</id>
+        <link href="https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/"/>
+        <updated>2025-05-12T15:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way Yet to Color Graphs]]></title>
+        <id>https://www.quantamagazine.org/?p=150443</id>
+        <link href="https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/"/>
+        <updated>2025-05-12T14:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have devised a scheme for painting the edges of a graph that’s almost as speedy as possible.            
+The post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill]]></title>
+        <id>6821fe80e2ccd00001be41b9</id>
+        <link href="https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/"/>
+        <updated>2025-05-12T14:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Coca-Cola Ad Celebrating Authors Gets Basic Facts Wrong]]></title>
+        <id>681e15e5e2ccd00001b68e1f</id>
+        <link href="https://www.404media.co/ai-powered-coca-cola-ad-celebrating-authors-gets-basic-facts-wrong/"/>
+        <updated>2025-05-12T13:00:53.000Z</updated>
+        <summary type="html"><![CDATA[A new Coke ad proudly features a quote from a J.G. Ballard book, only he didn’t write the words and it’s not his book.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ancient Poems Record the Decline of a Special Porpoise]]></title>
         <id>681e0ccae2ccd00001b68c71</id>
@@ -148,36 +199,6 @@ The post The Molecular Bond That Helps Secure Your Memories first appeared on Qu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X]]></title>
-        <id>681a1c55e2ccd00001b07690</id>
-        <link href="https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/"/>
-        <updated>2025-05-06T14:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk’s AI bot is undressing women on X.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Who Hacked Disney With Malicious AI Tool Pleads Guilty]]></title>
-        <id>68191ff650a1db0001f899d2</id>
-        <link href="https://www.404media.co/man-who-hacked-disney-with-malicious-ai-tool-pleads-guilty/"/>
-        <updated>2025-05-05T20:32:12.000Z</updated>
-        <summary type="html"><![CDATA[A hacker who tricked people into downloading malware using AI image generation tools plead guilty to two felony counts.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlobalX, Airline for Trump’s Deportations, Hacked]]></title>
-        <id>6818f32350a1db0001f87be1</id>
-        <link href="https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/"/>
-        <updated>2025-05-05T17:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove]]></title>
         <id>https://www.quantamagazine.org/?p=150260</id>
         <link href="https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"/>
@@ -186,16 +207,6 @@ The post The Molecular Bond That Helps Secure Your Memories first appeared on Qu
 The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100,000 People Are Using a Telegram Bot That Makes AI Cumshot Videos of Anyone]]></title>
-        <id>6814eb2650a1db0001ef68cb</id>
-        <link href="https://www.404media.co/telegram-ai-cumshot-bot/"/>
-        <updated>2025-05-05T12:58:45.000Z</updated>
-        <summary type="html"><![CDATA[An open AI video generation model that was released last month is now being used by thousands of people to generate nonconsensual sexual videos of real people.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
         </author>
     </entry>
     <entry>
@@ -210,14 +221,13 @@ The post Will AI Ever Understand Language Like Humans? first appeared on Quanta 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science, Promise and Peril in the Age of AI]]></title>
-        <id>https://www.quantamagazine.org/?p=150084</id>
-        <link href="https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/"/>
-        <updated>2025-04-30T14:00:50.000Z</updated>
-        <summary type="html"><![CDATA[An exploration of how artificial intelligence is changing what it means to do science and math, and what it means to be a scientist.            
-The post Science, Promise and Peril in the Age of AI first appeared on Quanta Magazine]]></summary>
+        <title type="html"><![CDATA[Traffic Fatalities Are a Choice]]></title>
+        <id>https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice</id>
+        <link href="https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[America’s roads are more dangerous than those of almost every country in the developed world. We know how to change that.]]></summary>
         <author>
-            <name>Michael Moyer, Ben Brubaker, John Pavlus, Mark Belan, Jordana Cepelewicz, Yasemin Saplakoglu, Gregory Barber, Elise Cutts and Emily Buder</name>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
