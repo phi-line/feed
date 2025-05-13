@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-13T12:07:30.565Z</id>
+    <id>urn:2025-05-13T18:06:07.469Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T12:07:30.565Z</updated>
+    <updated>2025-05-13T18:06:07.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kanye’s Nazi Song Is All Over Instagram]]></title>
+        <id>68237b0a6a8bc90001739fe4</id>
+        <link href="https://www.404media.co/kanyes-nazi-song-is-all-over-instagram/"/>
+        <updated>2025-05-13T17:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Kanye’s Nazi song has been chased off of most mainstream platforms, but it’s all over Instagram.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity Is Threatening to Revoke Licenses From DayZ Developer Dean Hall]]></title>
+        <id>6823766e6a8bc90001739eab</id>
+        <link href="https://www.404media.co/unity-is-threatening-to-revoke-licenses-from-dayz-developer-dean-hall/"/>
+        <updated>2025-05-13T16:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Game developer RocketWerkz doesn’t understand why Unity is threatening to pull its licenses for its games.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing The Quanta Podcast]]></title>
+        <id>https://www.quantamagazine.org/?p=150480</id>
+        <link href="https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/"/>
+        <updated>2025-05-13T15:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the distant universe, the insides of cells, the abstractions of math, the complexity of information itself and much more, The Quanta Podcast will be a tour of the frontier between the known and the unknown.             
+The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Samir Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simulation Says the Orioles Should Be Good]]></title>
+        <id>682355a36a8bc9000173924e</id>
+        <link href="https://www.404media.co/the-simulation-says-the-orioles-should-be-good/"/>
+        <updated>2025-05-13T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[AI, simulations, and technology have revolutionized not just how baseball is played and managed, but how we experience it, too.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Video Game Sex Scenes Are Made]]></title>
+        <id>6822294be2ccd00001be4f04</id>
+        <link href="https://www.404media.co/how-video-game-sex-scenes-are-made/"/>
+        <updated>2025-05-13T13:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Game developers use intimacy coordinators, velcro, and juicy oranges to make better sex in games.]]></summary>
+        <author>
+            <name>Nicole Carpenter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View]]></title>
         <id>682217a6e2ccd00001be49b7</id>
@@ -148,16 +199,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dora the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male Aspiration]]></title>
-        <id>681b74a0e2ccd00001b29872</id>
-        <link href="https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/"/>
-        <updated>2025-05-07T15:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Nickelodeon’s cartoon character tells kids why it’s cool to be a kind of toxic male that comes from the darkest corners of the manosphere.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Molecular Bond That Helps Secure Your Memories]]></title>
         <id>https://www.quantamagazine.org/?p=150339</id>
         <link href="https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/"/>
@@ -169,36 +210,6 @@ The post The Molecular Bond That Helps Secure Your Memories first appeared on Qu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Slop Presidency]]></title>
-        <id>681b5e02e2ccd00001b0d696</id>
-        <link href="https://www.404media.co/the-ai-slop-presidency/"/>
-        <updated>2025-05-07T13:35:34.000Z</updated>
-        <summary type="html"><![CDATA[AI-generated outrage bait is the perfect artistic medium for a president who rules by trying to overwhelm the system.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: The Trump Admin's Signal Clone Was Hacked]]></title>
-        <id>681a72a4e2ccd00001b0aae4</id>
-        <link href="https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/"/>
-        <updated>2025-05-07T13:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation]]></title>
-        <id>681a553be2ccd00001b09e3b</id>
-        <link href="https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/"/>
-        <updated>2025-05-06T18:32:35.000Z</updated>
-        <summary type="html"><![CDATA[404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove]]></title>
         <id>https://www.quantamagazine.org/?p=150260</id>
         <link href="https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"/>
@@ -207,17 +218,6 @@ The post The Molecular Bond That Helps Secure Your Memories first appeared on Qu
 The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will AI Ever Understand Language Like Humans?]]></title>
-        <id>https://www.quantamagazine.org/?p=150198</id>
-        <link href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/"/>
-        <updated>2025-05-01T13:38:30.000Z</updated>
-        <summary type="html"><![CDATA[AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            
-The post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
         </author>
     </entry>
     <entry>

@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150480",
+          "author": "Samir Patel",
+          "description": "Exploring the distant universe, the insides of cells, the abstractions of math, the complexity of information itself and much more, The Quanta Podcast will be a tour of the frontier between the known and the unknown.             \nThe post Introducing The Quanta Podcast first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/",
+          "publishedOn": "2025-05-13T15:57:14.000Z",
+          "wordCount": 3767,
+          "title": "Introducing The Quanta Podcast",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/TQP-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150443",
           "author": "Steve Nadis",
           "description": "Researchers have devised a scheme for painting the edges of a graph that’s almost as speedy as possible.            \nThe post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine",
@@ -71,16 +81,6 @@
           "wordCount": 3752,
           "title": "Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/KervaireConjecture-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150198",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "AI may sound like a human, but that doesn’t mean that AI learns like a human. In this episode, Ellie Pavlick explains why understanding how LLMs can process language could unlock deeper insights into both AI and the human mind.            \nThe post Will AI Ever Understand Language Like Humans? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/",
-          "publishedOn": "2025-05-01T13:38:30.000Z",
-          "wordCount": 9703,
-          "title": "Will AI Ever Understand Language Like Humans?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/AI-language_crPeter-Greenwood-Social-LOGO.jpg"
         }
       ]
     },
@@ -194,12 +194,52 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "68237b0a6a8bc90001739fe4",
+          "author": "Matthew Gault",
+          "description": "Kanye’s Nazi song has been chased off of most mainstream platforms, but it’s all over Instagram.",
+          "link": "https://www.404media.co/kanyes-nazi-song-is-all-over-instagram/",
+          "publishedOn": "2025-05-13T17:10:17.000Z",
+          "wordCount": 1424,
+          "title": "Kanye’s Nazi Song Is All Over Instagram",
+          "imageUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fEluc3RhfGVufDB8fHx8MTc0NzE1NTcyNXww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6823766e6a8bc90001739eab",
+          "author": "Emanuel Maiberg",
+          "description": "Game developer RocketWerkz doesn’t understand why Unity is threatening to pull its licenses for its games.",
+          "link": "https://www.404media.co/unity-is-threatening-to-revoke-licenses-from-dayz-developer-dean-hall/",
+          "publishedOn": "2025-05-13T16:43:57.000Z",
+          "wordCount": 1745,
+          "title": "Unity Is Threatening to Revoke Licenses From DayZ Developer Dean Hall",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/stationers.jpg"
+        },
+        {
+          "id": "682355a36a8bc9000173924e",
+          "author": "Jason Koebler",
+          "description": "AI, simulations, and technology have revolutionized not just how baseball is played and managed, but how we experience it, too.",
+          "link": "https://www.404media.co/the-simulation-says-the-orioles-should-be-good/",
+          "publishedOn": "2025-05-13T14:48:57.000Z",
+          "wordCount": 5484,
+          "title": "The Simulation Says the Orioles Should Be Good",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-13-at-07.28.25@2x.png"
+        },
+        {
+          "id": "6822294be2ccd00001be4f04",
+          "author": "Nicole Carpenter",
+          "description": "Game developers use intimacy coordinators, velcro, and juicy oranges to make better sex in games.",
+          "link": "https://www.404media.co/how-video-game-sex-scenes-are-made/",
+          "publishedOn": "2025-05-13T13:00:20.000Z",
+          "wordCount": 3736,
+          "title": "How Video Game Sex Scenes Are Made",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/final.jpg"
+        },
+        {
           "id": "682217a6e2ccd00001be49b7",
           "author": "Matthew Gault",
           "description": "The new site is a cozy and chaotic sucessor to 'Twitch plays Pokémon.",
           "link": "https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/",
           "publishedOn": "2025-05-12T15:49:03.000Z",
-          "wordCount": 1691,
+          "wordCount": 1643,
           "title": "900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/InternetRoadtripo.png"
         },
@@ -209,7 +249,7 @@
           "description": "Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.",
           "link": "https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/",
           "publishedOn": "2025-05-12T15:03:30.000Z",
-          "wordCount": 981,
+          "wordCount": 971,
           "title": "New Bill Would Make All Pornography a Federal Crime in the U.S.",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/4096px-Mike_Lee_-52249592902-.jpg"
         },
@@ -219,7 +259,7 @@
           "description": "Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.",
           "link": "https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/",
           "publishedOn": "2025-05-12T14:09:47.000Z",
-          "wordCount": 1349,
+          "wordCount": 1306,
           "title": "Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill",
           "imageUrl": "https://images.unsplash.com/photo-1569285647999-67fc5a1ff1ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNvbmdyZXNzfGVufDB8fHx8MTc0NzA1ODMwMnww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -229,7 +269,7 @@
           "description": "A new Coke ad proudly features a quote from a J.G. Ballard book, only he didn’t write the words and it’s not his book.",
           "link": "https://www.404media.co/ai-powered-coca-cola-ad-celebrating-authors-gets-basic-facts-wrong/",
           "publishedOn": "2025-05-12T13:00:53.000Z",
-          "wordCount": 1083,
+          "wordCount": 1046,
           "title": "AI-Powered Coca-Cola Ad Celebrating Authors Gets Basic Facts Wrong",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/classic02a.jpg"
         },
@@ -239,7 +279,7 @@
           "description": "The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry.",
           "link": "https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/",
           "publishedOn": "2025-05-10T13:00:31.000Z",
-          "wordCount": 2766,
+          "wordCount": 2757,
           "title": "Ancient Poems Record the Decline of a Special Porpoise",
           "imageUrl": "https://www.404media.co/content/images/2025/05/image6.jpg"
         },
@@ -249,7 +289,7 @@
           "description": "This week, we discuss the death of Mr. Deepfakes, introducing kids to the Manosphere, and working on big, difficult, high-brain-power scoops.",
           "link": "https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/",
           "publishedOn": "2025-05-09T15:49:07.000Z",
-          "wordCount": 1139,
+          "wordCount": 1130,
           "title": "Behind the Blog: Brainrot and Brain Power Hours",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl5.9.png"
         },
@@ -259,7 +299,7 @@
           "description": "Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country.",
           "link": "https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/",
           "publishedOn": "2025-05-09T14:48:43.000Z",
-          "wordCount": 1262,
+          "wordCount": 1240,
           "title": "Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image-15.png"
         },
@@ -269,7 +309,7 @@
           "description": "Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself.",
           "link": "https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/",
           "publishedOn": "2025-05-09T13:09:22.000Z",
-          "wordCount": 1173,
+          "wordCount": 1151,
           "title": "Well, Well, Well: Meta to Add Facial Recognition To Glasses After All",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.jpg"
         },
@@ -279,7 +319,7 @@
           "description": "“Vertical bar pilates.\"",
           "link": "https://www.404media.co/ai-recruiter-apriora-tiktok/",
           "publishedOn": "2025-05-08T18:48:02.000Z",
-          "wordCount": 1008,
+          "wordCount": 999,
           "title": "Watch an AI-Generated Recruiter Make a Job Interview Even Worse",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Untitled-design.png"
         },
@@ -289,7 +329,7 @@
           "description": "How the sister of Christopher Pelkey made an avatar of him to testify in court.",
           "link": "https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/",
           "publishedOn": "2025-05-07T19:45:57.000Z",
-          "wordCount": 1045,
+          "wordCount": 1036,
           "title": "'I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-07-at-12.38.16@2x.png"
         },
@@ -299,49 +339,9 @@
           "description": "A hacker compromised TeleMessage, a company that provides Signal chat archiving services to the Trump administration. TeleMessage has now hidden a video on YouTube that explained its Signal service.",
           "link": "https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/",
           "publishedOn": "2025-05-07T16:14:36.000Z",
-          "wordCount": 1150,
+          "wordCount": 1128,
           "title": "Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/telemessage-signal-video.png"
-        },
-        {
-          "id": "681b74a0e2ccd00001b29872",
-          "author": "Emanuel Maiberg",
-          "description": "Nickelodeon’s cartoon character tells kids why it’s cool to be a kind of toxic male that comes from the darkest corners of the manosphere.",
-          "link": "https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/",
-          "publishedOn": "2025-05-07T15:03:15.000Z",
-          "wordCount": 1022,
-          "title": "Dora the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male Aspiration",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--1-.png"
-        },
-        {
-          "id": "681b5e02e2ccd00001b0d696",
-          "author": "Matthew Gault",
-          "description": "AI-generated outrage bait is the perfect artistic medium for a president who rules by trying to overwhelm the system.",
-          "link": "https://www.404media.co/the-ai-slop-presidency/",
-          "publishedOn": "2025-05-07T13:35:34.000Z",
-          "wordCount": 1132,
-          "title": "The AI Slop Presidency",
-          "imageUrl": "https://www.404media.co/content/images/2025/05/SloppyAITrump2.jpg"
-        },
-        {
-          "id": "681a72a4e2ccd00001b0aae4",
-          "author": "Joseph Cox",
-          "description": "Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes.",
-          "link": "https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/",
-          "publishedOn": "2025-05-07T13:00:25.000Z",
-          "wordCount": 1095,
-          "title": "Podcast: The Trump Admin's Signal Clone Was Hacked",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/trump-signal-ty-cover--2-.jpg"
-        },
-        {
-          "id": "681a553be2ccd00001b09e3b",
-          "author": "Joseph Cox",
-          "description": "404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.",
-          "link": "https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/",
-          "publishedOn": "2025-05-06T18:32:35.000Z",
-          "wordCount": 1145,
-          "title": "Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-01-at-14.30.56@2x-2.png"
         }
       ]
     }
