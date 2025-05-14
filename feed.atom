@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T12:07:15.319Z</id>
+    <id>urn:2025-05-14T18:05:55.402Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T12:07:15.319Z</updated>
+    <updated>2025-05-14T18:05:55.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the Universe Differs From Its Mirror Image]]></title>
+        <id>https://www.quantamagazine.org/?p=150499</id>
+        <link href="https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/"/>
+        <updated>2025-05-14T13:57:23.000Z</updated>
+        <summary type="html"><![CDATA[From living matter to molecules to elementary particles, the world is made of “chiral” objects that differ from their reflected forms.            
+The post How the Universe Differs From Its Mirror Image first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Zack Savitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows]]></title>
+        <id>6824907f158d3b000176a8e4</id>
+        <link href="https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/"/>
+        <updated>2025-05-14T13:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Flock, which has license plate readers (LPRs) all around the country, wants police to be able to “jump from LPR to person,” according to leaked audio obtained by 404 Media.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars Shows the Future of AI Special Effects and It Sucks]]></title>
+        <id>682346c56a8bc90001738285</id>
+        <link href="https://www.404media.co/star-wars-shows-the-future-of-ai-special-effects-and-it-sucks/"/>
+        <updated>2025-05-14T13:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Industrial Light & Magic revealed a short film showcasing how it wants to use generative AI for Star Wars and it’s completely embarrassing.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: AI Avatar of Killed Man Testifies in Court]]></title>
+        <id>6823a65e6a8bc9000173a941</id>
+        <link href="https://www.404media.co/podcast-ai-avatar-of-killed-man-testifies-in-court/"/>
+        <updated>2025-05-14T13:00:30.000Z</updated>
+        <summary type="html"><![CDATA[A killed man's AI avatar testifies in court; Meta is developing facial recognition for its smart glasses; and how AI is changing baseball.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanye’s Nazi Song Is All Over Instagram]]></title>
         <id>68237b0a6a8bc90001739fe4</id>
@@ -159,16 +200,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch an AI-Generated Recruiter Make a Job Interview Even Worse]]></title>
-        <id>681cfa5ce2ccd00001b66cd0</id>
-        <link href="https://www.404media.co/ai-recruiter-apriora-tiktok/"/>
-        <updated>2025-05-08T18:48:02.000Z</updated>
-        <summary type="html"><![CDATA[“Vertical bar pilates."]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are you more likely to die on your birthday?]]></title>
         <id>https://pudding.cool/2025/04/birthday-effect</id>
         <link href="https://pudding.cool/2025/04/birthday-effect"/>
@@ -176,26 +207,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         <summary type="html"><![CDATA[Are you more likely to die on your birthday? Yes.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I Loved That AI:' Judge Moved by AI-Generated Avatar of Man Killed in Road Rage Incident]]></title>
-        <id>681bb66fe2ccd00001b2b877</id>
-        <link href="https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/"/>
-        <updated>2025-05-07T19:45:57.000Z</updated>
-        <summary type="html"><![CDATA[How the sister of Christopher Pelkey made an avatar of him to testify in court.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal Clone TeleMessage Deleted Video About How It Works—Here’s What It Said]]></title>
-        <id>681b856ae2ccd00001b2a35b</id>
-        <link href="https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/"/>
-        <updated>2025-05-07T16:14:36.000Z</updated>
-        <summary type="html"><![CDATA[A hacker compromised TeleMessage, a company that provides Signal chat archiving services to the Trump administration. TeleMessage has now hidden a video on YouTube that explained its Signal service.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
         </author>
     </entry>
     <entry>
@@ -207,17 +218,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
 The post The Molecular Bond That Helps Secure Your Memories first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ajdina Halilovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove]]></title>
-        <id>https://www.quantamagazine.org/?p=150260</id>
-        <link href="https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"/>
-        <updated>2025-05-05T14:08:42.000Z</updated>
-        <summary type="html"><![CDATA[A new proof represents the culmination of a 65-year-old story about anomalous shapes in special dimensions.            
-The post Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Erica Klarreich</name>
         </author>
     </entry>
     <entry>
