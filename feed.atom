@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T18:05:55.630Z</id>
+    <id>urn:2025-05-15T22:04:53.860Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T18:05:55.630Z</updated>
+    <updated>2025-05-15T22:04:53.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop]]></title>
+        <id>68264064324017000183dc3e</id>
+        <link href="https://www.404media.co/cbp-seizes-shipment-of-t-shirts-featuring-swarm-of-bees-attacking-cops/"/>
+        <updated>2025-05-15T19:41:15.000Z</updated>
+        <summary type="html"><![CDATA[The shirts will be returned to China or will be “destroyed under CBP supervision."]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game]]></title>
         <id>68262794324017000183d65e</id>
@@ -23,6 +33,16 @@
         <summary type="html"><![CDATA["Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go," an ad for Closure says. I tested a bunch of the chatbot startups' personas.]]></summary>
         <author>
             <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Organisms Are Not Static]]></title>
+        <id>https://www.asimov.press/p/model-organisms-are-not-static</id>
+        <link href="https://www.asimov.press/p/model-organisms-are-not-static"/>
+        <updated>2025-05-15T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[A research study reveals that some vertebrate genomes mutate 40-times faster than others.]]></summary>
+        <author>
+            <name>Asimov Press</name>
         </author>
     </entry>
     <entry>
@@ -169,6 +189,16 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Seven Wonders of Biology]]></title>
+        <id>https://www.asimov.press/p/seven-wonders-of-biology</id>
+        <link href="https://www.asimov.press/p/seven-wonders-of-biology"/>
+        <updated>2025-05-12T14:46:50.000Z</updated>
+        <summary type="html"><![CDATA[A decades-old essay offers newfound appreciation for progress.]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Fastest Way Yet to Color Graphs]]></title>
         <id>https://www.quantamagazine.org/?p=150443</id>
         <link href="https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/"/>
@@ -190,16 +220,6 @@ The post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Powered Coca-Cola Ad Celebrating Authors Gets Basic Facts Wrong]]></title>
-        <id>681e15e5e2ccd00001b68e1f</id>
-        <link href="https://www.404media.co/ai-powered-coca-cola-ad-celebrating-authors-gets-basic-facts-wrong/"/>
-        <updated>2025-05-12T13:00:53.000Z</updated>
-        <summary type="html"><![CDATA[A new Coke ad proudly features a quote from a J.G. Ballard book, only he didn’t write the words and it’s not his book.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Finding Beauty and Truth in Mundane Occurrences]]></title>
         <id>https://www.quantamagazine.org/?p=150378</id>
         <link href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/"/>
@@ -211,6 +231,16 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Much Information is in DNA?]]></title>
+        <id>https://www.asimov.press/p/dna-information</id>
+        <link href="https://www.asimov.press/p/dna-information"/>
+        <updated>2025-05-08T13:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Answering this question may seem straightforward, but actually requires an odyssey through information theory and molecular biology.]]></summary>
+        <author>
+            <name>dynomight</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Are you more likely to die on your birthday?]]></title>
         <id>https://pudding.cool/2025/04/birthday-effect</id>
         <link href="https://pudding.cool/2025/04/birthday-effect"/>
@@ -218,6 +248,26 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         <summary type="html"><![CDATA[Are you more likely to die on your birthday? Yes.]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making the Centrifuge]]></title>
+        <id>https://www.asimov.press/p/centrifuge</id>
+        <link href="https://www.asimov.press/p/centrifuge"/>
+        <updated>2025-05-05T12:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The modern centrifuge was first designed for milkfat separation in the dairy industry. Today, it is ubiquitous in research laboratories. To whom do we owe its astonishing versatility?]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History of GFP]]></title>
+        <id>https://www.asimov.press/p/gfp</id>
+        <link href="https://www.asimov.press/p/gfp"/>
+        <updated>2025-04-28T10:36:12.000Z</updated>
+        <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
+        <author>
+            <name>Smrithi Sunil</name>
         </author>
     </entry>
     <entry>
@@ -251,6 +301,16 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[China’s Clinical Trial Boom]]></title>
+        <id>https://www.asimov.press/p/china-trials</id>
+        <link href="https://www.asimov.press/p/china-trials"/>
+        <updated>2025-04-24T13:20:06.000Z</updated>
+        <summary type="html"><![CDATA[In 2017, there were just over 600 clinical trials initiated in China. By 2023, that number was nearly 2,000. How can American companies kick off a similar boom?]]></summary>
+        <author>
+            <name>Hiya Jain</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Digital Collection Preserves Key Books on Drug Use and Policy]]></title>
         <id>https://blog.archive.org/?p=28748</id>
         <link href="https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/"/>
@@ -271,6 +331,16 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eulogy to the Obits]]></title>
+        <id>https://www.asimov.press/p/obit</id>
+        <link href="https://www.asimov.press/p/obit"/>
+        <updated>2025-04-21T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[With a litany of gene therapies and longevity medicine staving off biological death, those paid to write about it must reimagine their craft.]]></summary>
+        <author>
+            <name>Alexandra Balwit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
         <id>https://blog.archive.org/?p=28714</id>
         <link href="https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/"/>
@@ -288,6 +358,16 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
         <author>
             <name>Anna Trammell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Plants Really “See”?]]></title>
+        <id>https://www.asimov.press/p/plant-vision</id>
+        <link href="https://www.asimov.press/p/plant-vision"/>
+        <updated>2025-04-17T13:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Some researchers claim that a Chilean vine can mimic the leaves of a plastic houseplant thanks to a form of primitive vision. But extraordinary claims require equally extraordinary evidence.]]></summary>
+        <author>
+            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
