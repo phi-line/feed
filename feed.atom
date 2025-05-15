@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T12:07:29.520Z</id>
+    <id>urn:2025-05-15T18:05:55.630Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T12:07:29.520Z</updated>
+    <updated>2025-05-15T18:05:55.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game]]></title>
+        <id>68262794324017000183d65e</id>
+        <link href="https://www.404media.co/doom-the-dark-ages-drm-is-locking-out-linux-users-who-bought-the-game/"/>
+        <updated>2025-05-15T17:45:53.000Z</updated>
+        <summary type="html"><![CDATA[As gaming on Linux becomes more popular, Denuvo’s “activations” limit will become a bigger problem.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Chatbot Promises to Help You Get Over That Ex Who Ghosted You]]></title>
+        <id>682606f4324017000183caaf</id>
+        <link href="https://www.404media.co/closure-ink-ai-chatbot-ghosted-ex/"/>
+        <updated>2025-05-15T15:55:13.000Z</updated>
+        <summary type="html"><![CDATA["Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go," an ad for Closure says. I tested a bunch of the chatbot startups' personas.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Grok Start Talking About ‘White Genocide’?]]></title>
+        <id>6826016f324017000183c631</id>
+        <link href="https://www.404media.co/why-did-grok-start-talking-about-white-genocide/"/>
+        <updated>2025-05-15T15:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are reflections of the people who program them.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Schools Were Deeply Unprepared for ChatGPT, Public Records Show]]></title>
+        <id>6825f37d3240170001821613</id>
+        <link href="https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/"/>
+        <updated>2025-05-15T14:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of pages of documents show school districts around the country did not understand how much ChatGPT would change their classrooms, and pro-AI consultants filled in some of the gaps.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Geometry Create Modern Physics?]]></title>
+        <id>https://www.quantamagazine.org/?p=150543</id>
+        <link href="https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/"/>
+        <updated>2025-05-15T14:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Geometry may have its origins thousands of years ago in ancient land surveying, but it has also had a surprising impact on modern physics. In the latest episode of The Joy of Why, Yang-Hui He explores geometry’s evolution and its future potential through AI.            
+The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Universe Differs From Its Mirror Image]]></title>
         <id>https://www.quantamagazine.org/?p=150499</id>
@@ -149,36 +200,6 @@ The post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ancient Poems Record the Decline of a Special Porpoise]]></title>
-        <id>681e0ccae2ccd00001b68c71</id>
-        <link href="https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/"/>
-        <updated>2025-05-10T13:00:31.000Z</updated>
-        <summary type="html"><![CDATA[The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: Brainrot and Brain Power Hours]]></title>
-        <id>681e1221e2ccd00001b68d2a</id>
-        <link href="https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/"/>
-        <updated>2025-05-09T15:49:07.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss the death of Mr. Deepfakes, introducing kids to the Manosphere, and working on big, difficult, high-brain-power scoops.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows]]></title>
-        <id>681ccd47e2ccd00001b492d2</id>
-        <link href="https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/"/>
-        <updated>2025-05-09T14:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Finding Beauty and Truth in Mundane Occurrences]]></title>
         <id>https://www.quantamagazine.org/?p=150378</id>
         <link href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/"/>
@@ -190,16 +211,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Well, Well, Well: Meta to Add Facial Recognition To Glasses After All]]></title>
-        <id>681dfb60e2ccd00001b689f1</id>
-        <link href="https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/"/>
-        <updated>2025-05-09T13:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are you more likely to die on your birthday?]]></title>
         <id>https://pudding.cool/2025/04/birthday-effect</id>
         <link href="https://pudding.cool/2025/04/birthday-effect"/>
@@ -207,17 +218,6 @@ The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quant
         <summary type="html"><![CDATA[Are you more likely to die on your birthday? Yes.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Molecular Bond That Helps Secure Your Memories]]></title>
-        <id>https://www.quantamagazine.org/?p=150339</id>
-        <link href="https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/"/>
-        <updated>2025-05-07T13:50:11.000Z</updated>
-        <summary type="html"><![CDATA[How do memories last a lifetime when the molecules that form them turn over within days, weeks or months? An interaction between two proteins points to a molecular basis for memory.            
-The post The Molecular Bond That Helps Secure Your Memories first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ajdina Halilovic</name>
         </author>
     </entry>
     <entry>
@@ -288,16 +288,6 @@ The post The Molecular Bond That Helps Secure Your Memories first appeared on Qu
         <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
         <author>
             <name>Anna Trammell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pour-igin of Species]]></title>
-        <id>https://pudding.cool/2025/04/wine-animals</id>
-        <link href="https://pudding.cool/2025/04/wine-animals"/>
-        <updated>2025-04-16T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>
