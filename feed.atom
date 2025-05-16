@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-16T12:08:01.324Z</id>
+    <id>urn:2025-05-16T18:05:58.570Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T12:08:01.324Z</updated>
+    <updated>2025-05-16T18:05:58.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: The Art of the 'Catharticle']]></title>
+        <id>68274e46324017000183fc7d</id>
+        <link href="https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/"/>
+        <updated>2025-05-16T16:19:33.000Z</updated>
+        <summary type="html"><![CDATA[This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence]]></title>
+        <id>https://www.quantamagazine.org/?p=150582</id>
+        <link href="https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"/>
+        <updated>2025-05-16T13:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Turbulence is a notoriously difficult phenomenon to study. Mathematicians are now starting to untangle it at its smallest scales.            
+The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joseph Howlett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop]]></title>
         <id>68264064324017000183dc3e</id>
@@ -207,27 +228,6 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
 The post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill]]></title>
-        <id>6821fe80e2ccd00001be41b9</id>
-        <link href="https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/"/>
-        <updated>2025-05-12T14:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Beauty and Truth in Mundane Occurrences]]></title>
-        <id>https://www.quantamagazine.org/?p=150378</id>
-        <link href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/"/>
-        <updated>2025-05-09T13:54:38.000Z</updated>
-        <summary type="html"><![CDATA[The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            
-The post Finding Beauty and Truth in Mundane Occurrences first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
         </author>
     </entry>
     <entry>

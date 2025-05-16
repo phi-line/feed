@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150582",
+          "author": "Joseph Howlett",
+          "description": "Turbulence is a notoriously difficult phenomenon to study. Mathematicians are now starting to untangle it at its smallest scales.            \nThe post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/",
+          "publishedOn": "2025-05-16T13:33:31.000Z",
+          "wordCount": 3899,
+          "title": "New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/SuperdiffusingFluids-crXX-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150543",
           "author": "Janna Levin and Steven Strogatz",
           "description": "Geometry may have its origins thousands of years ago in ancient land surveying, but it has also had a surprising impact on modern physics. In the latest episode of The Joy of Why, Yang-Hui He explores geometry’s evolution and its future potential through AI.            \nThe post How Did Geometry Create Modern Physics? first appeared on Quanta Magazine",
@@ -61,16 +71,6 @@
           "wordCount": 2923,
           "title": "The Fastest Way Yet to Color Graphs",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/VizingsTheorem-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150378",
-          "author": "Charlie Wood",
-          "description": "The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            \nThe post Finding Beauty and Truth in Mundane Occurrences first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/",
-          "publishedOn": "2025-05-09T13:54:38.000Z",
-          "wordCount": 3437,
-          "title": "Finding Beauty and Truth in Mundane Occurrences",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/SidneyNagel-cr.KristenNorman-Social.jpg"
         }
       ]
     },
@@ -164,12 +164,22 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "68274e46324017000183fc7d",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.",
+          "link": "https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/",
+          "publishedOn": "2025-05-16T16:19:33.000Z",
+          "wordCount": 939,
+          "title": "Behind the Blog: The Art of the 'Catharticle'",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl516-1.png"
+        },
+        {
           "id": "68264064324017000183dc3e",
           "author": "Jason Koebler",
           "description": "The shirts will be returned to China or will be “destroyed under CBP supervision.\"",
           "link": "https://www.404media.co/cbp-seizes-shipment-of-t-shirts-featuring-swarm-of-bees-attacking-cops/",
           "publishedOn": "2025-05-15T19:41:15.000Z",
-          "wordCount": 1362,
+          "wordCount": 1015,
           "title": "CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-15-at-12.32.20@2x.png"
         },
@@ -179,7 +189,7 @@
           "description": "As gaming on Linux becomes more popular, Denuvo’s “activations” limit will become a bigger problem.",
           "link": "https://www.404media.co/doom-the-dark-ages-drm-is-locking-out-linux-users-who-bought-the-game/",
           "publishedOn": "2025-05-15T17:45:53.000Z",
-          "wordCount": 1469,
+          "wordCount": 1480,
           "title": "‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/doom.jpg"
         },
@@ -189,7 +199,7 @@
           "description": "\"Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go,\" an ad for Closure says. I tested a bunch of the chatbot startups' personas.",
           "link": "https://www.404media.co/closure-ink-ai-chatbot-ghosted-ex/",
           "publishedOn": "2025-05-15T15:55:13.000Z",
-          "wordCount": 2697,
+          "wordCount": 2708,
           "title": "This Chatbot Promises to Help You Get Over That Ex Who Ghosted You",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/photo-1635442021499-34a3a724084a.jpeg"
         },
@@ -199,7 +209,7 @@
           "description": "Large language models are reflections of the people who program them.",
           "link": "https://www.404media.co/why-did-grok-start-talking-about-white-genocide/",
           "publishedOn": "2025-05-15T15:06:52.000Z",
-          "wordCount": 1745,
+          "wordCount": 1787,
           "title": "Why Did Grok Start Talking About ‘White Genocide’?",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mariia-shalabaieva-9rDIpHOE9IY-unsplash.jpg"
         },
@@ -209,7 +219,7 @@
           "description": "Thousands of pages of documents show school districts around the country did not understand how much ChatGPT would change their classrooms, and pro-AI consultants filled in some of the gaps.",
           "link": "https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/",
           "publishedOn": "2025-05-15T14:28:02.000Z",
-          "wordCount": 1701,
+          "wordCount": 1685,
           "title": "American Schools Were Deeply Unprepared for ChatGPT, Public Records Show",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-15-at-07.11.24@2x.png"
         },
@@ -219,7 +229,7 @@
           "description": "Flock, which has license plate readers (LPRs) all around the country, wants police to be able to “jump from LPR to person,” according to leaked audio obtained by 404 Media.",
           "link": "https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/",
           "publishedOn": "2025-05-14T13:55:14.000Z",
-          "wordCount": 1249,
+          "wordCount": 1233,
           "title": "License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/67d9ce838155796a534939a1_FlockNova-UI_1.webp"
         },
@@ -229,7 +239,7 @@
           "description": "Industrial Light & Magic revealed a short film showcasing how it wants to use generative AI for Star Wars and it’s completely embarrassing.",
           "link": "https://www.404media.co/star-wars-shows-the-future-of-ai-special-effects-and-it-sucks/",
           "publishedOn": "2025-05-14T13:09:28.000Z",
-          "wordCount": 1022,
+          "wordCount": 1006,
           "title": "Star Wars Shows the Future of AI Special Effects and It Sucks",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/sw1.png"
         },
@@ -239,7 +249,7 @@
           "description": "A killed man's AI avatar testifies in court; Meta is developing facial recognition for its smart glasses; and how AI is changing baseball.",
           "link": "https://www.404media.co/podcast-ai-avatar-of-killed-man-testifies-in-court/",
           "publishedOn": "2025-05-14T13:00:30.000Z",
-          "wordCount": 1074,
+          "wordCount": 1058,
           "title": "Podcast: AI Avatar of Killed Man Testifies in Court",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/yt-cover-ai-avatar--1-.jpg"
         },
@@ -249,7 +259,7 @@
           "description": "Kanye’s Nazi song has been chased off of most mainstream platforms, but it’s all over Instagram.",
           "link": "https://www.404media.co/kanyes-nazi-song-is-all-over-instagram/",
           "publishedOn": "2025-05-13T17:10:17.000Z",
-          "wordCount": 1458,
+          "wordCount": 1442,
           "title": "Kanye’s Nazi Song Is All Over Instagram",
           "imageUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fEluc3RhfGVufDB8fHx8MTc0NzE1NTcyNXww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -259,7 +269,7 @@
           "description": "Game developer RocketWerkz doesn’t understand why Unity is threatening to pull its licenses for its games.",
           "link": "https://www.404media.co/unity-is-threatening-to-revoke-licenses-from-dayz-developer-dean-hall/",
           "publishedOn": "2025-05-13T16:43:57.000Z",
-          "wordCount": 1787,
+          "wordCount": 1771,
           "title": "Unity Is Threatening to Revoke Licenses From DayZ Developer Dean Hall",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/stationers.jpg"
         },
@@ -289,7 +299,7 @@
           "description": "The new site is a cozy and chaotic successor to 'Twitch plays Pokémon.",
           "link": "https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/",
           "publishedOn": "2025-05-12T15:49:03.000Z",
-          "wordCount": 1678,
+          "wordCount": 1662,
           "title": "900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/InternetRoadtripo.png"
         },
@@ -299,19 +309,9 @@
           "description": "Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.",
           "link": "https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/",
           "publishedOn": "2025-05-12T15:03:30.000Z",
-          "wordCount": 994,
+          "wordCount": 978,
           "title": "New Bill Would Make All Pornography a Federal Crime in the U.S.",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/4096px-Mike_Lee_-52249592902-.jpg"
-        },
-        {
-          "id": "6821fe80e2ccd00001be41b9",
-          "author": "Emanuel Maiberg",
-          "description": "Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.",
-          "link": "https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/",
-          "publishedOn": "2025-05-12T14:09:47.000Z",
-          "wordCount": 1346,
-          "title": "Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill",
-          "imageUrl": "https://images.unsplash.com/photo-1569285647999-67fc5a1ff1ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNvbmdyZXNzfGVufDB8fHx8MTc0NzA1ODMwMnww&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
