@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-17T00:18:37.917Z</id>
+    <id>urn:2025-05-17T06:05:33.708Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T00:18:37.917Z</updated>
+    <updated>2025-05-17T06:05:33.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -338,36 +338,6 @@ The post The Fastest Way Yet to Color Graphs first appeared on Quanta Magazine]]
         <summary type="html"><![CDATA[With a litany of gene therapies and longevity medicine staving off biological death, those paid to write about it must reimagine their craft.]]></summary>
         <author>
             <name>Alexandra Balwit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
-        <id>https://blog.archive.org/?p=28714</id>
-        <link href="https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/"/>
-        <updated>2025-04-17T17:32:01.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Archive needs your help. A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding $700 million for our work preserving and providing access to […]]]></summary>
-        <author>
-            <name>Chris Freeland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community Webs Digitization Grant Reveals Stories of San Francisco’s Immigrant Communities]]></title>
-        <id>https://blog.archive.org/?p=28720</id>
-        <link href="https://blog.archive.org/2025/04/17/community-webs-digitization-grant-reveals-stories-of-san-franciscos-immigrant-communities/"/>
-        <updated>2025-04-17T16:35:42.000Z</updated>
-        <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
-        <author>
-            <name>Anna Trammell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Plants Really “See”?]]></title>
-        <id>https://www.asimov.press/p/plant-vision</id>
-        <link href="https://www.asimov.press/p/plant-vision"/>
-        <updated>2025-04-17T13:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Some researchers claim that a Chilean vine can mimic the leaves of a plastic houseplant thanks to a form of primitive vision. But extraordinary claims require equally extraordinary evidence.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
