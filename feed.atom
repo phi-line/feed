@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-17T12:06:34.108Z</id>
+    <id>urn:2025-05-17T18:05:01.912Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T12:06:34.108Z</updated>
+    <updated>2025-05-17T18:05:01.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Universe Will Decay a Lot Sooner than Expected]]></title>
+        <id>6827405d324017000183fa14</id>
+        <link href="https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/"/>
+        <updated>2025-05-17T13:00:19.000Z</updated>
+        <summary type="html"><![CDATA[This week, we have stories about wild horses, wild chimps, and wild cosmic deaths.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind the Blog: The Art of the 'Catharticle']]></title>
         <id>68274e46324017000183fc7d</id>
@@ -197,16 +207,6 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
         <summary type="html"><![CDATA[The new site is a cozy and chaotic successor to 'Twitch plays Pokémon.]]></summary>
         <author>
             <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bill Would Make All Pornography a Federal Crime in the U.S.]]></title>
-        <id>68220be7e2ccd00001be466b</id>
-        <link href="https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/"/>
-        <updated>2025-05-12T15:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
         </author>
     </entry>
     <entry>

@@ -144,12 +144,22 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6827405d324017000183fa14",
+          "author": "Becky Ferreira",
+          "description": "This week, we have stories about wild horses, wild chimps, and wild cosmic deaths.",
+          "link": "https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/",
+          "publishedOn": "2025-05-17T13:00:19.000Z",
+          "wordCount": 2315,
+          "title": "The Universe Will Decay a Lot Sooner than Expected",
+          "imageUrl": "https://www.404media.co/content/images/2025/05/image2.jpg"
+        },
+        {
           "id": "68274e46324017000183fc7d",
           "author": "Samantha Cole",
           "description": "This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.",
           "link": "https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/",
           "publishedOn": "2025-05-16T16:19:33.000Z",
-          "wordCount": 939,
+          "wordCount": 916,
           "title": "Behind the Blog: The Art of the 'Catharticle'",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl516-1.png"
         },
@@ -159,7 +169,7 @@
           "description": "The shirts will be returned to China or will be “destroyed under CBP supervision.\"",
           "link": "https://www.404media.co/cbp-seizes-shipment-of-t-shirts-featuring-swarm-of-bees-attacking-cops/",
           "publishedOn": "2025-05-15T19:41:15.000Z",
-          "wordCount": 1015,
+          "wordCount": 992,
           "title": "CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-15-at-12.32.20@2x.png"
         },
@@ -169,7 +179,7 @@
           "description": "As gaming on Linux becomes more popular, Denuvo’s “activations” limit will become a bigger problem.",
           "link": "https://www.404media.co/doom-the-dark-ages-drm-is-locking-out-linux-users-who-bought-the-game/",
           "publishedOn": "2025-05-15T17:45:53.000Z",
-          "wordCount": 1480,
+          "wordCount": 1457,
           "title": "‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/doom.jpg"
         },
@@ -179,7 +189,7 @@
           "description": "\"Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go,\" an ad for Closure says. I tested a bunch of the chatbot startups' personas.",
           "link": "https://www.404media.co/closure-ink-ai-chatbot-ghosted-ex/",
           "publishedOn": "2025-05-15T15:55:13.000Z",
-          "wordCount": 2708,
+          "wordCount": 2702,
           "title": "This Chatbot Promises to Help You Get Over That Ex Who Ghosted You",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/photo-1635442021499-34a3a724084a.jpeg"
         },
@@ -189,7 +199,7 @@
           "description": "Large language models are reflections of the people who program them.",
           "link": "https://www.404media.co/why-did-grok-start-talking-about-white-genocide/",
           "publishedOn": "2025-05-15T15:06:52.000Z",
-          "wordCount": 1787,
+          "wordCount": 1781,
           "title": "Why Did Grok Start Talking About ‘White Genocide’?",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mariia-shalabaieva-9rDIpHOE9IY-unsplash.jpg"
         },
@@ -199,7 +209,7 @@
           "description": "Thousands of pages of documents show school districts around the country did not understand how much ChatGPT would change their classrooms, and pro-AI consultants filled in some of the gaps.",
           "link": "https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/",
           "publishedOn": "2025-05-15T14:28:02.000Z",
-          "wordCount": 1685,
+          "wordCount": 1679,
           "title": "American Schools Were Deeply Unprepared for ChatGPT, Public Records Show",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-15-at-07.11.24@2x.png"
         },
@@ -209,7 +219,7 @@
           "description": "Flock, which has license plate readers (LPRs) all around the country, wants police to be able to “jump from LPR to person,” according to leaked audio obtained by 404 Media.",
           "link": "https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/",
           "publishedOn": "2025-05-14T13:55:14.000Z",
-          "wordCount": 1233,
+          "wordCount": 1227,
           "title": "License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/67d9ce838155796a534939a1_FlockNova-UI_1.webp"
         },
@@ -219,7 +229,7 @@
           "description": "Industrial Light & Magic revealed a short film showcasing how it wants to use generative AI for Star Wars and it’s completely embarrassing.",
           "link": "https://www.404media.co/star-wars-shows-the-future-of-ai-special-effects-and-it-sucks/",
           "publishedOn": "2025-05-14T13:09:28.000Z",
-          "wordCount": 1006,
+          "wordCount": 1000,
           "title": "Star Wars Shows the Future of AI Special Effects and It Sucks",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/sw1.png"
         },
@@ -229,7 +239,7 @@
           "description": "A killed man's AI avatar testifies in court; Meta is developing facial recognition for its smart glasses; and how AI is changing baseball.",
           "link": "https://www.404media.co/podcast-ai-avatar-of-killed-man-testifies-in-court/",
           "publishedOn": "2025-05-14T13:00:30.000Z",
-          "wordCount": 1058,
+          "wordCount": 1052,
           "title": "Podcast: AI Avatar of Killed Man Testifies in Court",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/yt-cover-ai-avatar--1-.jpg"
         },
@@ -239,7 +249,7 @@
           "description": "Kanye’s Nazi song has been chased off of most mainstream platforms, but it’s all over Instagram.",
           "link": "https://www.404media.co/kanyes-nazi-song-is-all-over-instagram/",
           "publishedOn": "2025-05-13T17:10:17.000Z",
-          "wordCount": 1442,
+          "wordCount": 1436,
           "title": "Kanye’s Nazi Song Is All Over Instagram",
           "imageUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fEluc3RhfGVufDB8fHx8MTc0NzE1NTcyNXww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -249,7 +259,7 @@
           "description": "Game developer RocketWerkz doesn’t understand why Unity is threatening to pull its licenses for its games.",
           "link": "https://www.404media.co/unity-is-threatening-to-revoke-licenses-from-dayz-developer-dean-hall/",
           "publishedOn": "2025-05-13T16:43:57.000Z",
-          "wordCount": 1771,
+          "wordCount": 1765,
           "title": "Unity Is Threatening to Revoke Licenses From DayZ Developer Dean Hall",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/stationers.jpg"
         },
@@ -279,19 +289,9 @@
           "description": "The new site is a cozy and chaotic successor to 'Twitch plays Pokémon.",
           "link": "https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/",
           "publishedOn": "2025-05-12T15:49:03.000Z",
-          "wordCount": 1662,
+          "wordCount": 1656,
           "title": "900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/InternetRoadtripo.png"
-        },
-        {
-          "id": "68220be7e2ccd00001be466b",
-          "author": "Samantha Cole",
-          "description": "Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.",
-          "link": "https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/",
-          "publishedOn": "2025-05-12T15:03:30.000Z",
-          "wordCount": 978,
-          "title": "New Bill Would Make All Pornography a Federal Crime in the U.S.",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/4096px-Mike_Lee_-52249592902-.jpg"
         }
       ]
     },
