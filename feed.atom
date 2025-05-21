@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T00:19:32.863Z</id>
+    <id>urn:2025-05-21T06:06:24.205Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T00:19:32.863Z</updated>
+    <updated>2025-05-21T06:06:24.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -348,16 +348,6 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
         <summary type="html"><![CDATA[Kelsey Piper and Jasmine Sun talk about microschools, whether localism is the enemy of Abundance, and why Chinese bureaucrats are like Growth PMs.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eulogy to the Obits]]></title>
-        <id>https://www.asimov.press/p/obit</id>
-        <link href="https://www.asimov.press/p/obit"/>
-        <updated>2025-04-21T13:58:50.000Z</updated>
-        <summary type="html"><![CDATA[With a litany of gene therapies and longevity medicine staving off biological death, those paid to write about it must reimagine their craft.]]></summary>
-        <author>
-            <name>Alexandra Balwit</name>
         </author>
     </entry>
 </feed>
