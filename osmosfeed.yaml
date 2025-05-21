@@ -17,6 +17,8 @@ sources:
   - href: https://www.asimov.press/feed
   - href: https://magazine.atavist.com/feed
 
-siteTitle: "phiid"
+siteTitle: phiid
+
+timezone: America/Los_Angeles
 
 cacheMaxDays: 90
