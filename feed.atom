@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-20T18:06:00.027Z</id>
+    <id>urn:2025-05-21T00:19:32.863Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T18:06:00.027Z</updated>
+    <updated>2025-05-21T00:19:32.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists Explain Why Trump's $175 Billion Golden Dome Is a Fantasy]]></title>
+        <id>67fd1f1c70fb2200014f3891</id>
+        <link href="https://www.404media.co/scientists-explain-why-trumps-175-billion-golden-dome-is-a-fantasy/"/>
+        <updated>2025-05-20T20:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Shooting missiles out of the sky from space could require a constellation of 36,000 satellites.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viral AI-Generated Summer Guide Printed by Chicago Sun-Times Was Made by Magazine Giant Hearst]]></title>
+        <id>682cc278066f410001f64330</id>
+        <link href="https://www.404media.co/viral-ai-generated-summer-guide-printed-by-chicago-sun-times-was-made-by-magazine-giant-hearst/"/>
+        <updated>2025-05-20T18:10:11.000Z</updated>
+        <summary type="html"><![CDATA[The Chicago Sun-Times said "we understand this is unacceptable for us to distribute."]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Civitai, Site Used to Generate AI Porn, Cut Off by Credit Card Processor]]></title>
         <id>682cb0de066f410001f6313a</id>
@@ -178,16 +198,6 @@ The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[American Schools Were Deeply Unprepared for ChatGPT, Public Records Show]]></title>
-        <id>6825f37d3240170001821613</id>
-        <link href="https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/"/>
-        <updated>2025-05-15T14:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of pages of documents show school districts around the country did not understand how much ChatGPT would change their classrooms, and pro-AI consultants filled in some of the gaps.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Did Geometry Create Modern Physics?]]></title>
         <id>https://www.quantamagazine.org/?p=150543</id>
         <link href="https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/"/>
@@ -207,16 +217,6 @@ The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazi
 The post How the Universe Differs From Its Mirror Image first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Zack Savitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows]]></title>
-        <id>6824907f158d3b000176a8e4</id>
-        <link href="https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/"/>
-        <updated>2025-05-14T13:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Flock, which has license plate readers (LPRs) all around the country, wants police to be able to “jump from LPR to person,” according to leaked audio obtained by 404 Media.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
         </author>
     </entry>
     <entry>
