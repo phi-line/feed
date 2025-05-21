@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150710",
+          "author": "Ben Brubaker",
+          "description": "One computer scientist’s “stunning” proof is the first progress in 50 years on one of the most famous questions in computer science.            \nThe post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
+          "publishedOn": "2025-05-21T14:50:23.000Z",
+          "wordCount": 5194,
+          "title": "For Algorithms, a Little Memory Outweighs a Lot of Time",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Space-Complexity-Breakthrough_crIrene-Perez-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150596",
           "author": "Elizabeth Landau",
           "description": "Slight changes in the number, shape, efficiency and interconnectedness of organelles in the cells of flight muscles provide extra energy for birds’ continent-spanning feats.            \nThe post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys first appeared on Quanta Magazine",
@@ -61,16 +71,6 @@
           "wordCount": 2168,
           "title": "How the Universe Differs From Its Mirror Image",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Chirality-byCelsius-Pictor-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150480",
-          "author": "Samir Patel",
-          "description": "Exploring the distant universe, the insides of cells, the abstractions of math, the complexity of information itself and much more, The Quanta Podcast will be a tour of the frontier between the known and the unknown.             \nThe post Introducing The Quanta Podcast first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/",
-          "publishedOn": "2025-05-13T15:57:14.000Z",
-          "wordCount": 3779,
-          "title": "Introducing The Quanta Podcast",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/TQP-Social.jpg"
         }
       ]
     },
@@ -80,52 +80,12 @@
       "siteUrl": "https://blog.archive.org",
       "articles": [
         {
-          "id": "https://blog.archive.org/?p=28796",
-          "author": "Brewster Kahle",
-          "description": "Fair use, the flexible aspect of U.S. copyright law, enables libraries to fulfill their public mission of providing access to knowledge, preserving culture, and supporting education and research. Fair use […]",
-          "link": "https://blog.archive.org/2025/05/14/protect-fair-use-especially-now/",
-          "publishedOn": "2025-05-14T19:15:46.000Z",
-          "wordCount": 2203,
-          "title": "Protect Fair Use, Especially Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.archive.org/?p=28783",
-          "author": "Lila Bailey",
-          "description": "Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers […]",
-          "link": "https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/",
-          "publishedOn": "2025-05-07T22:06:53.000Z",
-          "wordCount": 2487,
-          "title": "Public Interest Groups to FTC: Make Digital Ownership Real",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.archive.org/?p=28776",
-          "author": "vanishingculture",
-          "description": "The following guest post from journalist and computer historian Josh Renaud is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]",
-          "link": "https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/",
-          "publishedOn": "2025-05-07T12:00:00.000Z",
-          "wordCount": 3251,
-          "title": "Vanishing Culture: Recovering Lost Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.archive.org/?p=28773",
-          "author": "Chris Freeland",
-          "description": "“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]",
-          "link": "https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/",
-          "publishedOn": "2025-05-05T17:09:00.000Z",
-          "wordCount": 2033,
-          "title": "BBC News: Can the Internet Archive Save Our Digital History?",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.archive.org/?p=28748",
           "author": "Caralee Adams",
           "description": "For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]",
           "link": "https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/",
           "publishedOn": "2025-04-22T12:00:00.000Z",
-          "wordCount": 2565,
+          "wordCount": 2564,
           "title": "New Digital Collection Preserves Key Books on Drug Use and Policy",
           "imageUrl": null
         }
@@ -184,12 +144,52 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "682e058e4bd4b400017d11e0",
+          "author": "Samantha Cole",
+          "description": "The Nordic Model criminalizes buyers of sex in multiple European countries (and Maine). Sweden just voted to expand its reach to the internet.",
+          "link": "https://www.404media.co/sweden-sex-work-internet-law-nordic-model/",
+          "publishedOn": "2025-05-21T17:03:11.000Z",
+          "wordCount": 1100,
+          "title": "Sweden Expands Anti-Sex Work Law to Criminalize Paying for Custom OnlyFans Clips and Camming",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/photo-1572225303717-a96db5e8d8b0.jpeg"
+        },
+        {
+          "id": "682df97d4bd4b400017d0d1a",
+          "author": "Matthew Gault",
+          "description": "Popular VR game Gorilla Tag partnered with the company k-ID to comply with age verification laws.",
+          "link": "https://www.404media.co/kids-say-theyre-using-photos-of-trump-and-markiplier-to-bypass-gorllia-tag-age-verification/",
+          "publishedOn": "2025-05-21T16:08:19.000Z",
+          "wordCount": 1471,
+          "title": "Kids Say They're Using Photos of Trump and Markiplier to Bypass 'Gorllia Tag' Age Verification",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image-16.png"
+        },
+        {
+          "id": "682cd0fd066f410001f6513f",
+          "author": "Matthew Gault",
+          "description": "A Brazilian team used Discord’s API to scrape 10% of its open servers.",
+          "link": "https://www.404media.co/researchers-scrape-2-billion-discord-messages-and-publish-them-online/",
+          "publishedOn": "2025-05-21T14:05:36.000Z",
+          "wordCount": 989,
+          "title": "Researchers Scrape 2 Billion Discord Messages and Publish Them Online",
+          "imageUrl": "https://images.unsplash.com/photo-1614680376739-414d95ff43df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fERpc2NvcmR8ZW58MHx8fHwxNzQ3NzY3NjYzfDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "682cecb6066f410001f65cd2",
+          "author": "Joseph Cox",
+          "description": "How the Chicago Sun-Times printed an AI-generated summer guide; how schools were not prepared for ChatGPT; and those funny little guys from Star Wars.",
+          "link": "https://www.404media.co/podcast-ai-slop-summer/",
+          "publishedOn": "2025-05-21T13:00:54.000Z",
+          "wordCount": 1070,
+          "title": "Podcast: AI Slop Summer",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/ai-slop-summer-yt-cover.jpg"
+        },
+        {
           "id": "67fd1f1c70fb2200014f3891",
           "author": "Matthew Gault",
           "description": "Shooting missiles out of the sky from space could require a constellation of 36,000 satellites.",
           "link": "https://www.404media.co/scientists-explain-why-trumps-175-billion-golden-dome-is-a-fantasy/",
           "publishedOn": "2025-05-20T20:44:55.000Z",
-          "wordCount": 2942,
+          "wordCount": 2935,
           "title": "Scientists Explain Why Trump's $175 Billion Golden Dome Is a Fantasy",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/04/GoldenDome--2-.png"
         },
@@ -199,7 +199,7 @@
           "description": "The Chicago Sun-Times said \"we understand this is unacceptable for us to distribute.\"",
           "link": "https://www.404media.co/viral-ai-generated-summer-guide-printed-by-chicago-sun-times-was-made-by-magazine-giant-hearst/",
           "publishedOn": "2025-05-20T18:10:11.000Z",
-          "wordCount": 1127,
+          "wordCount": 1128,
           "title": "Viral AI-Generated Summer Guide Printed by Chicago Sun-Times Was Made by Magazine Giant Hearst",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-20-at-07.01.57@2x.png"
         },
@@ -209,7 +209,7 @@
           "description": "Civitai, a huge platform for sharing AI models and generating videos and images, has been cut off from its payment processor.",
           "link": "https://www.404media.co/civitai-site-used-to-generate-ai-porn-cut-off-by-credit-card-processor/",
           "publishedOn": "2025-05-20T16:45:16.000Z",
-          "wordCount": 1396,
+          "wordCount": 1397,
           "title": "Civitai, Site Used to Generate AI Porn, Cut Off by Credit Card Processor",
           "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNyZWRpdCUyMGNhcmR8ZW58MHx8fHwxNzQ3NzU5MzIzfDA&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -219,7 +219,7 @@
           "description": "\"I can't believe I missed it because it's so obvious. No excuses,\" the writer said. \"I'm completely embarrassed.\"",
           "link": "https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/",
           "publishedOn": "2025-05-20T14:46:16.000Z",
-          "wordCount": 1098,
+          "wordCount": 1091,
           "title": "Chicago Sun-Times Prints AI-Generated Summer Reading List With Books That Don't Exist",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--2-.png"
         },
@@ -229,7 +229,7 @@
           "description": "404 Media found that people were using Civitai to create nonconsensual AI porn videos of anyone for a small price.",
           "link": "https://www.404media.co/configuration-issue-allows-civitai-users-to-ai-generate-nonconsensual-porn-videos/",
           "publishedOn": "2025-05-20T14:09:29.000Z",
-          "wordCount": 1005,
+          "wordCount": 999,
           "title": "'Configuration Issue' Allows Civitai Users to AI Generate Nonconsensual Porn Videos",
           "imageUrl": "https://images.unsplash.com/photo-1565021324739-7493c5a74a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM5fHxsYXB0b3AlMjBkYXJrfGVufDB8fHx8MTc0Nzc0Nzc1OHww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -239,7 +239,7 @@
           "description": "According to its newest transparency report, Telegram complied with more than 5,000 requests from authorities in the first three months of 2025.",
           "link": "https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/",
           "publishedOn": "2025-05-19T17:10:42.000Z",
-          "wordCount": 1010,
+          "wordCount": 1004,
           "title": "Telegram Gave Authorities Data on More than 20,000 Users",
           "imageUrl": "https://images.unsplash.com/photo-1636743091340-af4ee8147080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fFRlbGVncmFtfGVufDB8fHx8MTc0NzY3MzM4M3ww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -249,7 +249,7 @@
           "description": "23andMe sold the genetic data of 15 million people for $256 million to a pharmaceutical company called Regeneron.",
           "link": "https://www.404media.co/23andme-sale-shows-your-genetic-data-is-worth-17/",
           "publishedOn": "2025-05-19T16:53:00.000Z",
-          "wordCount": 1019,
+          "wordCount": 1023,
           "title": "23andMe Sale Shows Your Genetic Data Is Worth $17",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-19-at-10.52.14@2x.png"
         },
@@ -259,7 +259,7 @@
           "description": "The 14 year old's mother left an old laptop in a closet and now alleges it's adult sites' problem that he watched porn.",
           "link": "https://www.404media.co/kansas-lawsuit-chaturbate-age-verification-old-laptop/",
           "publishedOn": "2025-05-19T16:47:15.000Z",
-          "wordCount": 1027,
+          "wordCount": 1031,
           "title": "Kansas Mom Sues Porn Sites Because Her Son Visited Chaturbate 30 Times",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/kajetan-sumila-61FWNkexYVc-unsplash-1.jpg"
         },
@@ -269,7 +269,7 @@
           "description": "The tool scans for users writing certain keywords on Reddit and assigns those users a so-called “radical score,” before deploying an AI-powered bot to automatically engage with the users to de-radicalize them.",
           "link": "https://www.404media.co/student-makes-tool-that-identifies-radicals-on-reddit-deploys-ai-bots-to-engage-with-them/",
           "publishedOn": "2025-05-19T13:13:54.000Z",
-          "wordCount": 933,
+          "wordCount": 927,
           "title": "Student Makes Tool That Identifies ‘Radicals’ on Reddit, Deploys AI Bots to Engage With Them",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-04-29-at-06.51.24@2x.png"
         },
@@ -279,7 +279,7 @@
           "description": "This week, we have stories about wild horses, wild chimps, and wild cosmic deaths.",
           "link": "https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/",
           "publishedOn": "2025-05-17T13:00:19.000Z",
-          "wordCount": 2317,
+          "wordCount": 2321,
           "title": "The Universe Will Decay a Lot Sooner than Expected",
           "imageUrl": "https://www.404media.co/content/images/2025/05/image2.jpg"
         },
@@ -289,49 +289,9 @@
           "description": "This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.",
           "link": "https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/",
           "publishedOn": "2025-05-16T16:19:33.000Z",
-          "wordCount": 925,
+          "wordCount": 929,
           "title": "Behind the Blog: The Art of the 'Catharticle'",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl516-1.png"
-        },
-        {
-          "id": "68264064324017000183dc3e",
-          "author": "Jason Koebler",
-          "description": "The shirts will be returned to China or will be “destroyed under CBP supervision.\"",
-          "link": "https://www.404media.co/cbp-seizes-shipment-of-t-shirts-featuring-swarm-of-bees-attacking-cops/",
-          "publishedOn": "2025-05-15T19:41:15.000Z",
-          "wordCount": 997,
-          "title": "CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-15-at-12.32.20@2x.png"
-        },
-        {
-          "id": "68262794324017000183d65e",
-          "author": "Emanuel Maiberg",
-          "description": "As gaming on Linux becomes more popular, Denuvo’s “activations” limit will become a bigger problem.",
-          "link": "https://www.404media.co/doom-the-dark-ages-drm-is-locking-out-linux-users-who-bought-the-game/",
-          "publishedOn": "2025-05-15T17:45:53.000Z",
-          "wordCount": 1039,
-          "title": "‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/doom.jpg"
-        },
-        {
-          "id": "682606f4324017000183caaf",
-          "author": "Samantha Cole",
-          "description": "\"Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go,\" an ad for Closure says. I tested a bunch of the chatbot startups' personas.",
-          "link": "https://www.404media.co/closure-ink-ai-chatbot-ghosted-ex/",
-          "publishedOn": "2025-05-15T15:55:13.000Z",
-          "wordCount": 2705,
-          "title": "This Chatbot Promises to Help You Get Over That Ex Who Ghosted You",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/photo-1635442021499-34a3a724084a.jpeg"
-        },
-        {
-          "id": "6826016f324017000183c631",
-          "author": "Matthew Gault",
-          "description": "Large language models are reflections of the people who program them.",
-          "link": "https://www.404media.co/why-did-grok-start-talking-about-white-genocide/",
-          "publishedOn": "2025-05-15T15:06:52.000Z",
-          "wordCount": 1771,
-          "title": "Why Did Grok Start Talking About ‘White Genocide’?",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/mariia-shalabaieva-9rDIpHOE9IY-unsplash.jpg"
         }
       ]
     },
