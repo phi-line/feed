@@ -3,7 +3,8 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://phi-line.github.io/feed/cache.json
+
 sources:
   # - href: https://www.reddit.com/r/wizardposting/.rss
   - href: https://pudding.cool/rss.xml
@@ -15,3 +16,7 @@ sources:
   - href: https://www.404media.co/rss
   - href: https://www.asimov.press/feed
   - href: https://magazine.atavist.com/feed
+
+siteTitle: "phiid"
+
+cacheMaxDays: 90
