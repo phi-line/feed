@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T06:06:24.205Z</id>
+    <id>urn:2025-05-21T12:07:32.759Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T06:06:24.205Z</updated>
+    <updated>2025-05-21T12:07:32.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -209,6 +209,16 @@ The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Protect Fair Use, Especially Now]]></title>
+        <id>https://blog.archive.org/?p=28796</id>
+        <link href="https://blog.archive.org/2025/05/14/protect-fair-use-especially-now/"/>
+        <updated>2025-05-14T19:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Fair use, the flexible aspect of U.S. copyright law, enables libraries to fulfill their public mission of providing access to knowledge, preserving culture, and supporting education and research. Fair use […]]]></summary>
+        <author>
+            <name>Brewster Kahle</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How the Universe Differs From Its Mirror Image]]></title>
         <id>https://www.quantamagazine.org/?p=150499</id>
         <link href="https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/"/>
@@ -258,6 +268,36 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
         <summary type="html"><![CDATA[Are you more likely to die on your birthday? Yes.]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Interest Groups to FTC: Make Digital Ownership Real]]></title>
+        <id>https://blog.archive.org/?p=28783</id>
+        <link href="https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/"/>
+        <updated>2025-05-07T22:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers […]]]></summary>
+        <author>
+            <name>Lila Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing Culture: Recovering Lost Software]]></title>
+        <id>https://blog.archive.org/?p=28776</id>
+        <link href="https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/"/>
+        <updated>2025-05-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The following guest post from journalist and computer historian Josh Renaud is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]]]></summary>
+        <author>
+            <name>vanishingculture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC News: Can the Internet Archive Save Our Digital History?]]></title>
+        <id>https://blog.archive.org/?p=28773</id>
+        <link href="https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/"/>
+        <updated>2025-05-05T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]]]></summary>
+        <author>
+            <name>Chris Freeland</name>
         </author>
     </entry>
     <entry>
@@ -338,16 +378,6 @@ The post Introducing The Quanta Podcast first appeared on Quanta Magazine]]></su
         <summary type="html"><![CDATA[For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]]]></summary>
         <author>
             <name>Caralee Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Abundance Start at Home?]]></title>
-        <id>https://asteriskmag.com/issues/09/abundance-at-home</id>
-        <link href="https://asteriskmag.com/issues/09/abundance-at-home"/>
-        <updated>2025-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kelsey Piper and Jasmine Sun talk about microschools, whether localism is the enemy of Abundance, and why Chinese bureaucrats are like Growth PMs.]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
 </feed>

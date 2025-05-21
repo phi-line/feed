@@ -80,12 +80,52 @@
       "siteUrl": "https://blog.archive.org",
       "articles": [
         {
+          "id": "https://blog.archive.org/?p=28796",
+          "author": "Brewster Kahle",
+          "description": "Fair use, the flexible aspect of U.S. copyright law, enables libraries to fulfill their public mission of providing access to knowledge, preserving culture, and supporting education and research. Fair use […]",
+          "link": "https://blog.archive.org/2025/05/14/protect-fair-use-especially-now/",
+          "publishedOn": "2025-05-14T19:15:46.000Z",
+          "wordCount": 2203,
+          "title": "Protect Fair Use, Especially Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28783",
+          "author": "Lila Bailey",
+          "description": "Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers […]",
+          "link": "https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/",
+          "publishedOn": "2025-05-07T22:06:53.000Z",
+          "wordCount": 2487,
+          "title": "Public Interest Groups to FTC: Make Digital Ownership Real",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28776",
+          "author": "vanishingculture",
+          "description": "The following guest post from journalist and computer historian Josh Renaud is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]",
+          "link": "https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/",
+          "publishedOn": "2025-05-07T12:00:00.000Z",
+          "wordCount": 3251,
+          "title": "Vanishing Culture: Recovering Lost Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28773",
+          "author": "Chris Freeland",
+          "description": "“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]",
+          "link": "https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/",
+          "publishedOn": "2025-05-05T17:09:00.000Z",
+          "wordCount": 2033,
+          "title": "BBC News: Can the Internet Archive Save Our Digital History?",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.archive.org/?p=28748",
           "author": "Caralee Adams",
           "description": "For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]",
           "link": "https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/",
           "publishedOn": "2025-04-22T12:00:00.000Z",
-          "wordCount": 2566,
+          "wordCount": 2565,
           "title": "New Digital Collection Preserves Key Books on Drug Use and Policy",
           "imageUrl": null
         }
@@ -134,16 +174,6 @@
           "publishedOn": "2025-04-28T00:00:00.000Z",
           "wordCount": 6318,
           "title": "Does AI Progress Have a Speed Limit?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://asteriskmag.com/issues/09/abundance-at-home",
-          "author": null,
-          "description": "Kelsey Piper and Jasmine Sun talk about microschools, whether localism is the enemy of Abundance, and why Chinese bureaucrats are like Growth PMs.",
-          "link": "https://asteriskmag.com/issues/09/abundance-at-home",
-          "publishedOn": "2025-04-22T00:00:00.000Z",
-          "wordCount": 8038,
-          "title": "Does Abundance Start at Home?",
           "imageUrl": null
         }
       ]
