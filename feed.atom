@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T18:48:23.735Z</id>
-    <title>osmos::feed</title>
-    <updated>2025-05-21T18:48:23.735Z</updated>
+    <id>https://phi-line.github.io/feed/index.html</id>
+    <title>phiid</title>
+    <updated>2025-05-21T18:54:14.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
+    <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Why Does Google’s New Veo 3 AI Video Generator Love This Dad Joke?]]></title>
         <id>682e153c4bd4b400017d17ca</id>
@@ -349,6 +350,378 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]]]></summary>
         <author>
             <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Abundance Start at Home?]]></title>
+        <id>https://asteriskmag.com/issues/09/abundance-at-home</id>
+        <link href="https://asteriskmag.com/issues/09/abundance-at-home"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kelsey Piper and Jasmine Sun talk about microschools, whether localism is the enemy of Abundance, and why Chinese bureaucrats are like Growth PMs.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eulogy to the Obits]]></title>
+        <id>https://www.asimov.press/p/obit</id>
+        <link href="https://www.asimov.press/p/obit"/>
+        <updated>2025-04-21T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[With a litany of gene therapies and longevity medicine staving off biological death, those paid to write about it must reimagine their craft.]]></summary>
+        <author>
+            <name>Alexandra Balwit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take Action: Defend the Internet Archive]]></title>
+        <id>https://blog.archive.org/?p=28714</id>
+        <link href="https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/"/>
+        <updated>2025-04-17T17:32:01.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive needs your help. A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding $700 million for our work preserving and providing access to […]]]></summary>
+        <author>
+            <name>Chris Freeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Webs Digitization Grant Reveals Stories of San Francisco’s Immigrant Communities]]></title>
+        <id>https://blog.archive.org/?p=28720</id>
+        <link href="https://blog.archive.org/2025/04/17/community-webs-digitization-grant-reveals-stories-of-san-franciscos-immigrant-communities/"/>
+        <updated>2025-04-17T16:35:42.000Z</updated>
+        <summary type="html"><![CDATA[The following guest post from Christina Moretta, Photo Curator and Acting San Francisco History Center Manager at San Francisco Public Library, is part of a series written by members of […]]]></summary>
+        <author>
+            <name>Anna Trammell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Plants Really “See”?]]></title>
+        <id>https://www.asimov.press/p/plant-vision</id>
+        <link href="https://www.asimov.press/p/plant-vision"/>
+        <updated>2025-04-17T13:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Some researchers claim that a Chilean vine can mimic the leaves of a plastic houseplant thanks to a form of primitive vision. But extraordinary claims require equally extraordinary evidence.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pour-igin of Species]]></title>
+        <id>https://pudding.cool/2025/04/wine-animals</id>
+        <link href="https://pudding.cool/2025/04/wine-animals"/>
+        <updated>2025-04-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aruba’s Digitized Slavery Documents Added to UNESCO’s International Memory of the World Register]]></title>
+        <id>https://blog.archive.org/?p=28710</id>
+        <link href="https://blog.archive.org/2025/04/15/arubas-digitized-slavery-documents-added-to-unescos-international-memory-of-the-world-register/"/>
+        <updated>2025-04-15T15:53:40.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive is proud to join in celebrating a major milestone in the preservation of global cultural heritage: documents related to the history of slavery in Aruba have been […]]]></summary>
+        <author>
+            <name>Chris Freeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brewster Kahle Accepts Project Uil Award from Dutch Wikipedia Community]]></title>
+        <id>https://blog.archive.org/?p=28701</id>
+        <link href="https://blog.archive.org/2025/04/15/brewster-kahle-accepts-project-uil-award-from-dutch-wikipedia-community/"/>
+        <updated>2025-04-15T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive was recently honored for its valuable contribution to the Dutch-language Wikipedia community at an event at Leiden University in the Netherlands. Internet Archive founder Brewster Kahle accepted […]]]></summary>
+        <author>
+            <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic of Fast Feedback Loops]]></title>
+        <id>https://www.asimov.press/p/fast-feedback</id>
+        <link href="https://www.asimov.press/p/fast-feedback"/>
+        <updated>2025-04-14T14:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Why biologists should operate with a sense of urgency.]]></summary>
+        <author>
+            <name>Stephen Malina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recipe for a Cell]]></title>
+        <id>https://www.asimov.press/p/cell-recipe</id>
+        <link href="https://www.asimov.press/p/cell-recipe"/>
+        <updated>2025-04-10T18:20:10.000Z</updated>
+        <summary type="html"><![CDATA[While we know how to break organisms down to their constituent parts, even at the atomic level, building them from scratch remains difficult.]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing Culture: When Preservation Meets Social Media]]></title>
+        <id>https://blog.archive.org/?p=28678</id>
+        <link href="https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/"/>
+        <updated>2025-04-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]]]></summary>
+        <author>
+            <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Prions and Protein Design]]></title>
+        <id>https://www.asimov.press/p/prions</id>
+        <link href="https://www.asimov.press/p/prions"/>
+        <updated>2025-04-08T15:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Prions are extremely resilient, infectious proteins. Studying their shape-shifting abilities could reveal lessons for how proteins fold at a molecular level, helping scientists design better ones.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration]]></title>
+        <id>https://blog.archive.org/?p=28668</id>
+        <link href="https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/"/>
+        <updated>2025-04-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope […]]]></summary>
+        <author>
+            <name>Caralee Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing Culture: Preserving the Library System]]></title>
+        <id>https://blog.archive.org/?p=28662</id>
+        <link href="https://blog.archive.org/2025/04/07/vanishing-culture-preserving-the-library-system/"/>
+        <updated>2025-04-07T14:16:34.000Z</updated>
+        <summary type="html"><![CDATA[The following guest post from digital librarian and founder of the Internet Archive, Brewster Kahle, is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more […]]]></summary>
+        <author>
+            <name>vanishingculture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Babies Come From]]></title>
+        <id>https://asteriskmag.com/issues/09/where-babies-come-from</id>
+        <link href="https://asteriskmag.com/issues/09/where-babies-come-from"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s more complicated than you may think.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Origins of Adjuvants]]></title>
+        <id>https://www.asimov.press/p/adjuvants</id>
+        <link href="https://www.asimov.press/p/adjuvants"/>
+        <updated>2025-04-04T16:14:52.000Z</updated>
+        <summary type="html"><![CDATA[More than a century after the invention of vaccines, a veterinarian stumbled across a technique to boost their efficacy in an unlikely way — by observing wounded horses.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing Culture: Cultural Preservation and Queer History]]></title>
+        <id>https://blog.archive.org/?p=28640</id>
+        <link href="https://blog.archive.org/2025/04/02/vanishing-culture-cultural-preservation-and-queer-history/"/>
+        <updated>2025-04-02T02:58:28.000Z</updated>
+        <summary type="html"><![CDATA[The following guest post from artist and writer Brooke Palmieri is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full […]]]></summary>
+        <author>
+            <name>vanishingculture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Generational Legacy of Samples in Music]]></title>
+        <id>https://pudding.cool/2025/04/music-dna</id>
+        <link href="https://pudding.cool/2025/04/music-dna"/>
+        <updated>2025-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Day]]></title>
+        <id>https://asteriskmag.com/issues/10/the-first-day</id>
+        <link href="https://asteriskmag.com/issues/10/the-first-day"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of American Foreign Aid]]></title>
+        <id>https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid</id>
+        <link href="https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[USAID has been slashed, and it is unclear what shape its successor will take. How might American foreign assistance be restructured to maintain critical functions? And how should we think about its future?]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nobel Duel]]></title>
+        <id>https://www.asimov.press/p/nobel-duel</id>
+        <link href="https://www.asimov.press/p/nobel-duel"/>
+        <updated>2025-03-30T18:24:43.000Z</updated>
+        <summary type="html"><![CDATA[A cautionary tale about the competitive pressures of scientific research, and how they alter the course of history.]]></summary>
+        <author>
+            <name>Metacelsus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWeb and Digital Rights: A Report Back from RightsCon in Taipei]]></title>
+        <id>https://blog.archive.org/?p=28618</id>
+        <link href="https://blog.archive.org/2025/03/26/dweb-and-digital-rights-a-report-back-from-rightscon-in-taipei/"/>
+        <updated>2025-03-26T20:53:21.000Z</updated>
+        <summary type="html"><![CDATA[In late February, members of the DWeb Core Team and the DWeb community were in Taipei to attend the 13th edition of RightsCon, the largest global summit on human rights […]]]></summary>
+        <author>
+            <name>mai ishikawa sutton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Limits a Cell’s Size?]]></title>
+        <id>https://www.asimov.press/p/cell-size</id>
+        <link href="https://www.asimov.press/p/cell-size"/>
+        <updated>2025-03-26T14:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Two physical constraints help explain why cells are so tiny: surface area-to-volume ratios and diffusion. The first article in our new Data Series.]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eagle Hunters of Kyrgyzstan]]></title>
+        <id>https://magazine.atavist.com/?p=46565</id>
+        <link href="https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/"/>
+        <updated>2025-03-25T18:14:04.000Z</updated>
+        <summary type="html"><![CDATA[In the mountains of Central Asia, a Small group of outdoorsmen are keeping an ancient tradition alive.
+The post The Eagle Hunters of Kyrgyzstan appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History of the Miracle Bacterium]]></title>
+        <id>https://www.asimov.press/p/miracle-bacterium</id>
+        <link href="https://www.asimov.press/p/miracle-bacterium"/>
+        <updated>2025-03-23T15:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Serratia marcescens, a pathogen with an uncanny resemblance to blood, has had an outsized influence on modern science.]]></summary>
+        <author>
+            <name>Corrado Nai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Balloon that Fell from the Sky]]></title>
+        <id>https://magazine.atavist.com/?p=47047</id>
+        <link href="https://magazine.atavist.com/the-balloon-that-fell-from-the-sky-gordon-bennett-belarus-disaster/"/>
+        <updated>2025-03-21T14:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Fifteen teams lifted off from Switzerland in gas ballooning’s most audacious race. Three days later, two of them drifted into Belarusian airspace—but only one would survive.
+The post The Balloon that Fell from the Sky appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Humans Building AI Scientists]]></title>
+        <id>https://www.asimov.press/p/futurehouse</id>
+        <link href="https://www.asimov.press/p/futurehouse"/>
+        <updated>2025-03-19T16:56:17.000Z</updated>
+        <summary type="html"><![CDATA[A look inside FutureHouse, a nonprofit research institute in San Francisco.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we can learn from watching reality stars apologize]]></title>
+        <id>https://pudding.cool/2025/03/housewives</id>
+        <link href="https://pudding.cool/2025/03/housewives"/>
+        <updated>2025-03-19T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What we can learn from watching reality stars apologize.]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healing My Family’s Future]]></title>
+        <id>https://www.asimov.press/p/family-future</id>
+        <link href="https://www.asimov.press/p/family-future"/>
+        <updated>2025-03-16T17:29:02.000Z</updated>
+        <summary type="html"><![CDATA[How genetics and IVF empowered our family to leave cancer behind.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Issue 06: Blood-Red Microbes, AI Scientists, Nobel Duels]]></title>
+        <id>https://www.asimov.press/p/issue-06</id>
+        <link href="https://www.asimov.press/p/issue-06"/>
+        <updated>2025-03-15T17:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Plus: A partnership with Astera Institute and our first job posting.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onomatopoeia Odyssey]]></title>
+        <id>https://pudding.cool/2025/03/language</id>
+        <link href="https://pudding.cool/2025/03/language"/>
+        <updated>2025-03-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning.]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Can, Must, and Will Simulate Nematode Brains]]></title>
+        <id>https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains</id>
+        <link href="https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have spent over 25 years trying — and failing — to build computer simulations of the smallest brain we know. Today, we finally have the tools to pull it off.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greening the Solar System]]></title>
+        <id>https://asteriskmag.com/issues/09/greening-the-solar-system</id>
+        <link href="https://asteriskmag.com/issues/09/greening-the-solar-system"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A future where life flourishes beyond Earth is closer than you think. How, precisely, will we get there?]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are AIs People?]]></title>
+        <id>https://asteriskmag.com/issues/09/are-ais-people</id>
+        <link href="https://asteriskmag.com/issues/09/are-ais-people"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year, AI models get better at thinking. Could they possibly be capable of feeling? And if they are, how would we know?]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Science of Woo]]></title>
+        <id>https://asteriskmag.com/issues/09/the-science-of-woo</id>
+        <link href="https://asteriskmag.com/issues/09/the-science-of-woo"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A conversation about neuroscience, meditation, and the many paths to insight.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Middle Ages]]></title>
+        <id>https://pudding.cool/2025/02/middle-school</id>
+        <link href="https://pudding.cool/2025/02/middle-school"/>
+        <updated>2025-03-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Follow hundreds of kids as they navigate their trecherous middle school years.]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a “Miracle” HIV Medicine]]></title>
+        <id>https://www.asimov.press/p/hiv-medicine</id>
+        <link href="https://www.asimov.press/p/hiv-medicine"/>
+        <updated>2025-02-23T17:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Lenacapavir — a long-acting, injectable drug — may be our strongest tool yet to curb HIV, provided it reaches those who need it most.]]></summary>
+        <author>
+            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
