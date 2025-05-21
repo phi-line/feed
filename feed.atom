@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T18:05:58.657Z</id>
+    <id>urn:2025-05-21T18:48:23.735Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T18:05:58.657Z</updated>
+    <updated>2025-05-21T18:48:23.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Does Google’s New Veo 3 AI Video Generator Love This Dad Joke?]]></title>
+        <id>682e153c4bd4b400017d17ca</id>
+        <link href="https://www.404media.co/why-does-googles-new-veo-3-ai-video-generator-love-this-dad-joke/"/>
+        <updated>2025-05-21T18:13:29.000Z</updated>
+        <summary type="html"><![CDATA[“I went to the zoo the other day, there was only one dog in it…”]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweden Expands Anti-Sex Work Law to Criminalize Paying for Custom OnlyFans Clips and Camming]]></title>
         <id>682e058e4bd4b400017d11e0</id>
@@ -178,16 +188,6 @@ The post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the Blog: The Art of the 'Catharticle']]></title>
-        <id>68274e46324017000183fc7d</id>
-        <link href="https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/"/>
-        <updated>2025-05-16T16:19:33.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence]]></title>
         <id>https://www.quantamagazine.org/?p=150582</id>
         <link href="https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"/>
@@ -328,6 +328,17 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         <summary type="html"><![CDATA[In 2017, there were just over 600 clinical trials initiated in China. By 2023, that number was nearly 2,000. How can American companies kick off a similar boom?]]></summary>
         <author>
             <name>Hiya Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All That Glitters]]></title>
+        <id>https://magazine.atavist.com/?p=47453</id>
+        <link href="https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/"/>
+        <updated>2025-04-23T18:54:42.000Z</updated>
+        <summary type="html"><![CDATA[His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?
+The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
         </author>
     </entry>
     <entry>

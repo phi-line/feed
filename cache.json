@@ -144,6 +144,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "682e153c4bd4b400017d17ca",
+          "author": "Emanuel Maiberg",
+          "description": "“I went to the zoo the other day, there was only one dog in it…”",
+          "link": "https://www.404media.co/why-does-googles-new-veo-3-ai-video-generator-love-this-dad-joke/",
+          "publishedOn": "2025-05-21T18:13:29.000Z",
+          "wordCount": 1604,
+          "title": "Why Does Google’s New Veo 3 AI Video Generator Love This Dad Joke?",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/stand1.png"
+        },
+        {
           "id": "682e058e4bd4b400017d11e0",
           "author": "Samantha Cole",
           "description": "The Nordic Model criminalizes buyers of sex in multiple European countries (and Maine). Sweden just voted to expand its reach to the internet.",
@@ -159,7 +169,7 @@
           "description": "Popular VR game Gorilla Tag partnered with the company k-ID to comply with age verification laws.",
           "link": "https://www.404media.co/kids-say-theyre-using-photos-of-trump-and-markiplier-to-bypass-gorllia-tag-age-verification/",
           "publishedOn": "2025-05-21T16:08:19.000Z",
-          "wordCount": 1471,
+          "wordCount": 1465,
           "title": "Kids Say They're Using Photos of Trump and Markiplier to Bypass 'Gorllia Tag' Age Verification",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image-16.png"
         },
@@ -169,7 +179,7 @@
           "description": "A Brazilian team used Discord’s API to scrape 10% of its open servers.",
           "link": "https://www.404media.co/researchers-scrape-2-billion-discord-messages-and-publish-them-online/",
           "publishedOn": "2025-05-21T14:05:36.000Z",
-          "wordCount": 989,
+          "wordCount": 983,
           "title": "Researchers Scrape 2 Billion Discord Messages and Publish Them Online",
           "imageUrl": "https://images.unsplash.com/photo-1614680376739-414d95ff43df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fERpc2NvcmR8ZW58MHx8fHwxNzQ3NzY3NjYzfDA&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -179,7 +189,7 @@
           "description": "How the Chicago Sun-Times printed an AI-generated summer guide; how schools were not prepared for ChatGPT; and those funny little guys from Star Wars.",
           "link": "https://www.404media.co/podcast-ai-slop-summer/",
           "publishedOn": "2025-05-21T13:00:54.000Z",
-          "wordCount": 1070,
+          "wordCount": 1075,
           "title": "Podcast: AI Slop Summer",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/ai-slop-summer-yt-cover.jpg"
         },
@@ -189,7 +199,7 @@
           "description": "Shooting missiles out of the sky from space could require a constellation of 36,000 satellites.",
           "link": "https://www.404media.co/scientists-explain-why-trumps-175-billion-golden-dome-is-a-fantasy/",
           "publishedOn": "2025-05-20T20:44:55.000Z",
-          "wordCount": 2935,
+          "wordCount": 2934,
           "title": "Scientists Explain Why Trump's $175 Billion Golden Dome Is a Fantasy",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/04/GoldenDome--2-.png"
         },
@@ -199,7 +209,7 @@
           "description": "The Chicago Sun-Times said \"we understand this is unacceptable for us to distribute.\"",
           "link": "https://www.404media.co/viral-ai-generated-summer-guide-printed-by-chicago-sun-times-was-made-by-magazine-giant-hearst/",
           "publishedOn": "2025-05-20T18:10:11.000Z",
-          "wordCount": 1128,
+          "wordCount": 1133,
           "title": "Viral AI-Generated Summer Guide Printed by Chicago Sun-Times Was Made by Magazine Giant Hearst",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-20-at-07.01.57@2x.png"
         },
@@ -209,7 +219,7 @@
           "description": "Civitai, a huge platform for sharing AI models and generating videos and images, has been cut off from its payment processor.",
           "link": "https://www.404media.co/civitai-site-used-to-generate-ai-porn-cut-off-by-credit-card-processor/",
           "publishedOn": "2025-05-20T16:45:16.000Z",
-          "wordCount": 1397,
+          "wordCount": 1404,
           "title": "Civitai, Site Used to Generate AI Porn, Cut Off by Credit Card Processor",
           "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNyZWRpdCUyMGNhcmR8ZW58MHx8fHwxNzQ3NzU5MzIzfDA&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -219,7 +229,7 @@
           "description": "\"I can't believe I missed it because it's so obvious. No excuses,\" the writer said. \"I'm completely embarrassed.\"",
           "link": "https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/",
           "publishedOn": "2025-05-20T14:46:16.000Z",
-          "wordCount": 1091,
+          "wordCount": 1098,
           "title": "Chicago Sun-Times Prints AI-Generated Summer Reading List With Books That Don't Exist",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/Copy-of-Screenshot-as-Lede-Image--2-.png"
         },
@@ -229,7 +239,7 @@
           "description": "404 Media found that people were using Civitai to create nonconsensual AI porn videos of anyone for a small price.",
           "link": "https://www.404media.co/configuration-issue-allows-civitai-users-to-ai-generate-nonconsensual-porn-videos/",
           "publishedOn": "2025-05-20T14:09:29.000Z",
-          "wordCount": 999,
+          "wordCount": 1006,
           "title": "'Configuration Issue' Allows Civitai Users to AI Generate Nonconsensual Porn Videos",
           "imageUrl": "https://images.unsplash.com/photo-1565021324739-7493c5a74a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM5fHxsYXB0b3AlMjBkYXJrfGVufDB8fHx8MTc0Nzc0Nzc1OHww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -239,7 +249,7 @@
           "description": "According to its newest transparency report, Telegram complied with more than 5,000 requests from authorities in the first three months of 2025.",
           "link": "https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/",
           "publishedOn": "2025-05-19T17:10:42.000Z",
-          "wordCount": 1004,
+          "wordCount": 1011,
           "title": "Telegram Gave Authorities Data on More than 20,000 Users",
           "imageUrl": "https://images.unsplash.com/photo-1636743091340-af4ee8147080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fFRlbGVncmFtfGVufDB8fHx8MTc0NzY3MzM4M3ww&ixlib=rb-4.1.0&q=80&w=2000"
         },
@@ -249,7 +259,7 @@
           "description": "23andMe sold the genetic data of 15 million people for $256 million to a pharmaceutical company called Regeneron.",
           "link": "https://www.404media.co/23andme-sale-shows-your-genetic-data-is-worth-17/",
           "publishedOn": "2025-05-19T16:53:00.000Z",
-          "wordCount": 1023,
+          "wordCount": 1028,
           "title": "23andMe Sale Shows Your Genetic Data Is Worth $17",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-05-19-at-10.52.14@2x.png"
         },
@@ -259,7 +269,7 @@
           "description": "The 14 year old's mother left an old laptop in a closet and now alleges it's adult sites' problem that he watched porn.",
           "link": "https://www.404media.co/kansas-lawsuit-chaturbate-age-verification-old-laptop/",
           "publishedOn": "2025-05-19T16:47:15.000Z",
-          "wordCount": 1031,
+          "wordCount": 1036,
           "title": "Kansas Mom Sues Porn Sites Because Her Son Visited Chaturbate 30 Times",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/kajetan-sumila-61FWNkexYVc-unsplash-1.jpg"
         },
@@ -269,7 +279,7 @@
           "description": "The tool scans for users writing certain keywords on Reddit and assigns those users a so-called “radical score,” before deploying an AI-powered bot to automatically engage with the users to de-radicalize them.",
           "link": "https://www.404media.co/student-makes-tool-that-identifies-radicals-on-reddit-deploys-ai-bots-to-engage-with-them/",
           "publishedOn": "2025-05-19T13:13:54.000Z",
-          "wordCount": 927,
+          "wordCount": 934,
           "title": "Student Makes Tool That Identifies ‘Radicals’ on Reddit, Deploys AI Bots to Engage With Them",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/CleanShot-2025-04-29-at-06.51.24@2x.png"
         },
@@ -279,19 +289,9 @@
           "description": "This week, we have stories about wild horses, wild chimps, and wild cosmic deaths.",
           "link": "https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/",
           "publishedOn": "2025-05-17T13:00:19.000Z",
-          "wordCount": 2321,
+          "wordCount": 2326,
           "title": "The Universe Will Decay a Lot Sooner than Expected",
           "imageUrl": "https://www.404media.co/content/images/2025/05/image2.jpg"
-        },
-        {
-          "id": "68274e46324017000183fc7d",
-          "author": "Samantha Cole",
-          "description": "This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.",
-          "link": "https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/",
-          "publishedOn": "2025-05-16T16:19:33.000Z",
-          "wordCount": 929,
-          "title": "Behind the Blog: The Art of the 'Catharticle'",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/nl516-1.png"
         }
       ]
     },
@@ -411,6 +411,23 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/28fefe6a-9028-4f7c-95e4-035b70e78f14_2000x1260.png"
+        }
+      ]
+    },
+    {
+      "title": "The Atavist Magazine",
+      "feedUrl": "https://magazine.atavist.com/feed",
+      "siteUrl": "https://magazine.atavist.com/",
+      "articles": [
+        {
+          "id": "https://magazine.atavist.com/?p=47453",
+          "author": "Ed Johnson",
+          "description": "His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?\nThe post All That Glitters appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/",
+          "publishedOn": "2025-04-23T18:54:42.000Z",
+          "wordCount": 15834,
+          "title": "All That Glitters",
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/04/Atavist_1.jpg"
         }
       ]
     }
