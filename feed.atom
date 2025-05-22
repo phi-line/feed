@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-22T19:30:22.064Z</updated>
+    <updated>2025-05-22T19:33:27.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -49,6 +49,15 @@ The post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Baker's Units]]></title>
+        <id>https://xkcd.com/3092/</id>
+        <link href="https://xkcd.com/3092/"/>
+        <updated>2025-05-21T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Keeping Ahead of Contagion]]></title>
         <id>https://www.asimov.press/p/contagion</id>
         <link href="https://www.asimov.press/p/contagion"/>
@@ -70,6 +79,15 @@ The post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Renormalization]]></title>
+        <id>https://xkcd.com/3091/</id>
+        <link href="https://xkcd.com/3091/"/>
+        <updated>2025-05-19T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence]]></title>
         <id>https://www.quantamagazine.org/?p=150582</id>
         <link href="https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"/>
@@ -78,6 +96,15 @@ The post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys 
 The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Joseph Howlett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sail Physics]]></title>
+        <id>https://xkcd.com/3090/</id>
+        <link href="https://xkcd.com/3090/"/>
+        <updated>2025-05-16T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -120,6 +147,15 @@ The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazi
 The post How the Universe Differs From Its Mirror Image first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Zack Savitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern]]></title>
+        <id>https://xkcd.com/3089/</id>
+        <link href="https://xkcd.com/3089/"/>
+        <updated>2025-05-14T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

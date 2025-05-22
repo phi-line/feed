@@ -802,6 +802,53 @@
           "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/03/Davidson_1_crop.jpg"
         }
       ]
+    },
+    {
+      "title": "xkcd.com",
+      "feedUrl": "https://xkcd.com/rss.xml",
+      "siteUrl": "https://xkcd.com/",
+      "articles": [
+        {
+          "id": "https://xkcd.com/3092/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3092/",
+          "publishedOn": "2025-05-21T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Baker's Units",
+          "imageUrl": "https://imgs.xkcd.com/comics/bakers_units_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/3091/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3091/",
+          "publishedOn": "2025-05-19T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Renormalization",
+          "imageUrl": "https://imgs.xkcd.com/comics/renormalization_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/3090/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3090/",
+          "publishedOn": "2025-05-16T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Sail Physics",
+          "imageUrl": "https://imgs.xkcd.com/comics/sail_physics_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/3089/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3089/",
+          "publishedOn": "2025-05-14T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Modern",
+          "imageUrl": "https://imgs.xkcd.com/comics/modern_2x.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
