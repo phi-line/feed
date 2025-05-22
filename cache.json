@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150758",
+          "author": "Leila Sloman",
+          "description": "A new proof illuminates the hidden patterns that emerge when addition becomes impossible.            \nThe post Graduate Student Solves Classic Problem About the Limits of Addition first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/",
+          "publishedOn": "2025-05-22T15:33:30.000Z",
+          "wordCount": 3397,
+          "title": "Graduate Student Solves Classic Problem About the Limits of Addition",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Sum-Free-Sets_crNash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150710",
           "author": "Ben Brubaker",
           "description": "One computer scientist’s “stunning” proof is the first progress in 50 years on one of the most famous questions in computer science.            \nThe post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared on Quanta Magazine",
@@ -414,6 +424,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "682f2cf34e38850001fae85a",
+          "author": "Joseph Cox",
+          "description": "One scheduled speaker has also pulled out of the New York-based event and specifically pointed to Trump’s mass deportation efforts.",
+          "link": "https://www.404media.co/hacker-conference-hope-says-fewer-people-buying-tickets-because-u-s-immigration-crackdown/",
+          "publishedOn": "2025-05-22T14:30:19.000Z",
+          "wordCount": 1031,
+          "title": "Hacker Conference HOPE Says U.S. Immigration Crackdown Caused Massive Crash in Ticket Sales",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/05/14748183133_f59f87bfd8.jpg"
+        },
+        {
           "id": "682e153c4bd4b400017d17ca",
           "author": "Emanuel Maiberg",
           "description": "“I went to the zoo the other day, there was only one dog in it…”",
@@ -570,6 +590,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/resistance",
+          "author": null,
+          "description": "By studying the millennia-old arms race between soil-dwelling microbes, scientists can pre-empt antibiotic resistance before it emerges in people.",
+          "link": "https://www.asimov.press/p/resistance",
+          "publishedOn": "2025-05-22T15:53:12.000Z",
+          "wordCount": null,
+          "title": "Reservoirs of Resistance",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59599e37-d941-42f0-94b3-659a086dabbc_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59599e37-d941-42f0-94b3-659a086dabbc_2000x1260.png"
+        },
         {
           "id": "https://www.asimov.press/p/contagion",
           "author": "Deena Mousa",
