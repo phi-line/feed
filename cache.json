@@ -130,6 +130,56 @@
       "siteUrl": "https://blog.archive.org",
       "articles": [
         {
+          "id": "https://blog.archive.org/?p=28801",
+          "author": "Chris Freeland",
+          "description": "Ever wonder how government documents, once locked away on tiny sheets of microfiche, become searchable and accessible online? Now you can see it happen in real time. Today, the Internet […]",
+          "link": "https://blog.archive.org/2025/05/21/new-livestream-brings-microfiche-digitization-to-life-for-democracys-library/",
+          "publishedOn": "2025-05-21T14:45:00.000Z",
+          "wordCount": 2673,
+          "title": "New Livestream Brings Microfiche Digitization to Life for Democracy’s Library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28796",
+          "author": "Brewster Kahle",
+          "description": "Fair use, the flexible aspect of U.S. copyright law, enables libraries to fulfill their public mission of providing access to knowledge, preserving culture, and supporting education and research. Fair use […]",
+          "link": "https://blog.archive.org/2025/05/14/protect-fair-use-especially-now/",
+          "publishedOn": "2025-05-14T19:15:46.000Z",
+          "wordCount": 2213,
+          "title": "Protect Fair Use, Especially Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28783",
+          "author": "Lila Bailey",
+          "description": "Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers […]",
+          "link": "https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/",
+          "publishedOn": "2025-05-07T22:06:53.000Z",
+          "wordCount": 2454,
+          "title": "Public Interest Groups to FTC: Make Digital Ownership Real",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28776",
+          "author": "vanishingculture",
+          "description": "The following guest post from journalist and computer historian Josh Renaud is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the […]",
+          "link": "https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/",
+          "publishedOn": "2025-05-07T12:00:00.000Z",
+          "wordCount": 3250,
+          "title": "Vanishing Culture: Recovering Lost Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.archive.org/?p=28773",
+          "author": "Chris Freeland",
+          "description": "“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside […]",
+          "link": "https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/",
+          "publishedOn": "2025-05-05T17:09:00.000Z",
+          "wordCount": 2032,
+          "title": "BBC News: Can the Internet Archive Save Our Digital History?",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.archive.org/?p=28748",
           "author": "Caralee Adams",
           "description": "For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working […]",
