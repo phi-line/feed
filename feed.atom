@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-22T19:53:18.375Z</updated>
+    <updated>2025-05-22T19:56:25.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[FAA: Airplanes should stay far away from SpaceX’s next Starship launch]]></title>
-        <id>https://arstechnica.com/space/2025/05/federal-regulators-clear-spacex-for-starship-test-flight-as-soon-as-next-week/</id>
-        <link href="https://arstechnica.com/space/2025/05/federal-regulators-clear-spacex-for-starship-test-flight-as-soon-as-next-week/"/>
-        <updated>2025-05-22T18:51:55.000Z</updated>
-        <summary type="html"><![CDATA["The FAA is expanding the size of hazard areas both in the US and other countries."]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New data confirms: There really is a planet squeezed in between two stars]]></title>
-        <id>https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/</id>
-        <link href="https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/"/>
-        <updated>2025-05-22T18:24:01.000Z</updated>
-        <summary type="html"><![CDATA[The planet may have formed from material transferred between the stars.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Reservoirs of Resistance]]></title>
         <id>https://www.asimov.press/p/resistance</id>
@@ -45,56 +25,6 @@
 The post Graduate Student Solves Classic Problem About the Limits of Addition first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrared contact lenses let you see in the dark]]></title>
-        <id>https://arstechnica.com/science/2025/05/infrared-contact-lenses-let-you-see-in-the-dark/</id>
-        <link href="https://arstechnica.com/science/2025/05/infrared-contact-lenses-let-you-see-in-the-dark/"/>
-        <updated>2025-05-22T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Mice and humans were able to detect infrared light, even with their eyes closed, with limited resolution.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists figure out how the brain forms emotional connections]]></title>
-        <id>https://arstechnica.com/science/2025/05/scientists-figure-out-how-the-brain-forms-emotional-connections/</id>
-        <link href="https://arstechnica.com/science/2025/05/scientists-figure-out-how-the-brain-forms-emotional-connections/"/>
-        <updated>2025-05-21T20:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Neural recordings track how neurons link environments to emotional events.]]></summary>
-        <author>
-            <name>Jacek Krywko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The physics of frilly Swiss cheese “flowers”]]></title>
-        <id>https://arstechnica.com/science/2025/05/the-physics-of-frilly-swiss-cheese-flowers/</id>
-        <link href="https://arstechnica.com/science/2025/05/the-physics-of-frilly-swiss-cheese-flowers/"/>
-        <updated>2025-05-21T19:50:56.000Z</updated>
-        <summary type="html"><![CDATA[Tête de Moine is often served by scraping the top of a cheese wheel in a circular motion with a special tool.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incredible shrinking clownfish beats the heat]]></title>
-        <id>https://arstechnica.com/science/2025/05/incredible-shrinking-clownfish-beats-the-heat/</id>
-        <link href="https://arstechnica.com/science/2025/05/incredible-shrinking-clownfish-beats-the-heat/"/>
-        <updated>2025-05-21T18:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Shrinking down to size boosted clownfish survival rates up to 78 percent during heat waves.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paris Agreement target won’t protect polar ice sheets, scientists warn]]></title>
-        <id>https://arstechnica.com/science/2025/05/paris-agreement-target-wont-protect-polar-ice-sheets-scientists-warn/</id>
-        <link href="https://arstechnica.com/science/2025/05/paris-agreement-target-wont-protect-polar-ice-sheets-scientists-warn/"/>
-        <updated>2025-05-21T15:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Calls for a more ambitious climate goal are rising as Earth hits several tipping points.]]></summary>
-        <author>
-            <name>Bob Berwyn, Inside Climate News</name>
         </author>
     </entry>
     <entry>
@@ -118,56 +48,6 @@ The post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How 3D printing is personalizing health care]]></title>
-        <id>https://arstechnica.com/science/2025/05/how-3d-printing-is-personalizing-health-care/</id>
-        <link href="https://arstechnica.com/science/2025/05/how-3d-printing-is-personalizing-health-care/"/>
-        <updated>2025-05-20T21:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Prosthetics are becoming increasingly affordable and accessible thanks to 3D printers.]]></summary>
-        <author>
-            <name>Anne Schmitz and Daniel Freedman, The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump admin lifts hold on offshore wind farm, doesn’t explain why]]></title>
-        <id>https://arstechnica.com/science/2025/05/trump-admin-lifts-hold-on-offshore-wind-farm-doesnt-explain-why/</id>
-        <link href="https://arstechnica.com/science/2025/05/trump-admin-lifts-hold-on-offshore-wind-farm-doesnt-explain-why/"/>
-        <updated>2025-05-20T17:03:11.000Z</updated>
-        <summary type="html"><![CDATA[Reasons for the hold were never backed up, and nobody's explaining why it ended.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biotech company Regeneron to buy bankrupt 23andMe for $256M]]></title>
-        <id>https://arstechnica.com/science/2025/05/biotech-company-regeneron-to-buy-bankrupt-23andme-for-256m/</id>
-        <link href="https://arstechnica.com/science/2025/05/biotech-company-regeneron-to-buy-bankrupt-23andme-for-256m/"/>
-        <updated>2025-05-19T21:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Regeneron will use trove of 23andMe genetic data to develop medical advances.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Force official: Commercial satellites can do a lot more than we thought]]></title>
-        <id>https://arstechnica.com/space/2025/05/space-force-official-commercial-satellites-can-do-a-lot-more-than-we-thought/</id>
-        <link href="https://arstechnica.com/space/2025/05/space-force-official-commercial-satellites-can-do-a-lot-more-than-we-thought/"/>
-        <updated>2025-05-19T21:12:50.000Z</updated>
-        <summary type="html"><![CDATA["They could shave off about a third of the time and over half the cost."]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERN gears up to ship antimatter across Europe]]></title>
-        <id>https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/</id>
-        <link href="https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/"/>
-        <updated>2025-05-19T16:13:42.000Z</updated>
-        <summary type="html"><![CDATA[A portable containment device that can be dropped on a truck.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Keeping Ahead of Contagion]]></title>
         <id>https://www.asimov.press/p/contagion</id>
         <link href="https://www.asimov.press/p/contagion"/>
@@ -175,16 +55,6 @@ The post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared 
         <summary type="html"><![CDATA[We have the technology to detect airborne pathogens in real time. Now we must use it.]]></summary>
         <author>
             <name>Deena Mousa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts alarmed over Trump’s promotion of deep-sea mining in international waters]]></title>
-        <id>https://arstechnica.com/science/2025/05/experts-alarmed-over-trumps-promotion-of-deep-sea-mining-in-international-waters/</id>
-        <link href="https://arstechnica.com/science/2025/05/experts-alarmed-over-trumps-promotion-of-deep-sea-mining-in-international-waters/"/>
-        <updated>2025-05-19T15:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Critics call for an industry moratorium until more scientific data can be obtained.]]></summary>
-        <author>
-            <name>Teresa Tomassoni, Inside Climate News</name>
         </author>
     </entry>
     <entry>
@@ -208,36 +78,6 @@ The post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do these Buddhist gods hint at the purpose of China’s super-secret satellites?]]></title>
-        <id>https://arstechnica.com/space/2025/05/do-these-buddhist-gods-hint-at-the-purpose-of-chinas-super-secret-satellites/</id>
-        <link href="https://arstechnica.com/space/2025/05/do-these-buddhist-gods-hint-at-the-purpose-of-chinas-super-secret-satellites/"/>
-        <updated>2025-05-17T17:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Until recently, China's entries in the realm of spaceflight patches often lacked originality.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From birth to gene-edited in 6 months: Custom therapy breaks speed limits]]></title>
-        <id>https://arstechnica.com/health/2025/05/the-remarkable-timeline-of-a-custom-gene-editing-therapy-to-save-a-newborn/</id>
-        <link href="https://arstechnica.com/health/2025/05/the-remarkable-timeline-of-a-custom-gene-editing-therapy-to-save-a-newborn/"/>
-        <updated>2025-05-16T18:00:23.000Z</updated>
-        <summary type="html"><![CDATA[The N-of-1 accomplishment provides a template for swift, personalized genetic therapies.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnivorous crocodile-like monsters used to terrorize the Caribbean]]></title>
-        <id>https://arstechnica.com/science/2025/05/carnivorous-crocodile-like-monsters-used-to-terrorize-the-caribbean/</id>
-        <link href="https://arstechnica.com/science/2025/05/carnivorous-crocodile-like-monsters-used-to-terrorize-the-caribbean/"/>
-        <updated>2025-05-16T17:10:01.000Z</updated>
-        <summary type="html"><![CDATA[While low sea levels helped sebecids spread, rising waters left them isolated.]]></summary>
-        <author>
-            <name>Elizabeth Rayne</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence]]></title>
         <id>https://www.quantamagazine.org/?p=150582</id>
         <link href="https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"/>
@@ -255,26 +95,6 @@ The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence
         <updated>2025-05-16T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The top fell off Australia’s first orbital-class rocket, delaying its launch]]></title>
-        <id>https://arstechnica.com/space/2025/05/the-top-fell-off-australias-first-orbital-class-rocket-delaying-its-launch/</id>
-        <link href="https://arstechnica.com/space/2025/05/the-top-fell-off-australias-first-orbital-class-rocket-delaying-its-launch/"/>
-        <updated>2025-05-16T00:03:15.000Z</updated>
-        <summary type="html"><![CDATA[The Australian startup behind the Eris rocket says the rest of the vehicle was undamaged.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renewable power reversing China’s emissions growth]]></title>
-        <id>https://arstechnica.com/science/2025/05/analysis-shows-that-chinas-emissions-are-dropping-due-to-renewables/</id>
-        <link href="https://arstechnica.com/science/2025/05/analysis-shows-that-chinas-emissions-are-dropping-due-to-renewables/"/>
-        <updated>2025-05-15T16:01:29.000Z</updated>
-        <summary type="html"><![CDATA[It's the country's first one-year emissions decline that's not linked to economic issues.]]></summary>
-        <author>
-            <name>John Timmer</name>
         </author>
     </entry>
     <entry>
@@ -296,26 +116,6 @@ The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence
 The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New twist on marshmallow test shows power of a promise]]></title>
-        <id>https://arstechnica.com/science/2025/05/a-peers-promise-can-help-kids-pass-the-marshmallow-test/</id>
-        <link href="https://arstechnica.com/science/2025/05/a-peers-promise-can-help-kids-pass-the-marshmallow-test/"/>
-        <updated>2025-05-15T13:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Younger children were slightly more likely to successfully delay gratification than older children.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dangerous E. coli strain has emerged; a small mutation may explain its rise]]></title>
-        <id>https://arstechnica.com/health/2025/05/a-dangerous-e-coli-strain-has-emerged-a-small-mutation-may-explain-its-rise/</id>
-        <link href="https://arstechnica.com/health/2025/05/a-dangerous-e-coli-strain-has-emerged-a-small-mutation-may-explain-its-rise/"/>
-        <updated>2025-05-14T21:22:36.000Z</updated>
-        <summary type="html"><![CDATA[It's unclear what the mutation does, but it might make E. coli stealthy on lettuce.]]></summary>
-        <author>
-            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
