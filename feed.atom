@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-23T12:07:17.369Z</updated>
+    <updated>2025-05-23T18:04:49.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Protected: The Longest Journey]]></title>
+        <id>https://magazine.atavist.com/?p=47876</id>
+        <link href="https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/"/>
+        <updated>2025-05-23T13:51:09.000Z</updated>
+        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
+The post Protected: The Longest Journey appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drafting]]></title>
+        <id>https://xkcd.com/3093/</id>
+        <link href="https://xkcd.com/3093/"/>
+        <updated>2025-05-23T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reservoirs of Resistance]]></title>
         <id>https://www.asimov.press/p/resistance</id>

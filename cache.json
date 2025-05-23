@@ -610,6 +610,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=47876",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Longest Journey appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/",
+          "publishedOn": "2025-05-23T13:51:09.000Z",
+          "wordCount": 1518,
+          "title": "Protected: The Longest Journey",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=47453",
           "author": "Ed Johnson",
           "description": "His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?\nThe post All That Glitters appeared first on The Atavist Magazine.",
@@ -651,6 +661,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3093/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3093/",
+          "publishedOn": "2025-05-23T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Drafting",
+          "imageUrl": "https://imgs.xkcd.com/comics/drafting_2x.png"
+        },
         {
           "id": "https://xkcd.com/3092/",
           "author": null,
