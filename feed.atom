@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-24T00:18:36.394Z</updated>
+    <updated>2025-05-24T06:05:30.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -539,16 +539,6 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[Follow hundreds of kids as they navigate their trecherous middle school years.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a “Miracle” HIV Medicine]]></title>
-        <id>https://www.asimov.press/p/hiv-medicine</id>
-        <link href="https://www.asimov.press/p/hiv-medicine"/>
-        <updated>2025-02-23T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Lenacapavir — a long-acting, injectable drug — may be our strongest tool yet to curb HIV, provided it reaches those who need it most.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
