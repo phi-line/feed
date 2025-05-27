@@ -646,6 +646,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3094/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3094/",
+          "publishedOn": "2025-05-26T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Mass Spec",
+          "imageUrl": "https://imgs.xkcd.com/comics/mass_spec_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3093/",
           "author": null,
           "description": "",
