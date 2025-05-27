@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150809",
+          "author": "Charlie Wood",
+          "description": "Black hole and Big Bang singularities break our best theory of gravity. A trilogy of theorems hints that physicists must go to the ends of space and time to find a fix.             \nThe post Singularities in Space-Time Prove Hard to Kill first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/",
+          "publishedOn": "2025-05-27T14:21:23.000Z",
+          "wordCount": 3964,
+          "title": "Singularities in Space-Time Prove Hard to Kill",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Quantum-Singularities_crMark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150758",
           "author": "Leila Sloman",
           "description": "A new proof illuminates the hidden patterns that emerge when addition becomes impossible.            \nThe post Graduate Student Solves Classic Problem About the Limits of Addition first appeared on Quanta Magazine",
@@ -139,6 +149,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/10/what-are-schools-for",
+          "author": null,
+          "description": "The modern education system around the world continues to bear the imprint of mass education’s original goal: obedience.",
+          "link": "https://asteriskmag.com/issues/10/what-are-schools-for",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 5856,
+          "title": "What Are Schools For?",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice",
           "author": null,

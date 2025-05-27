@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-27T12:07:39.614Z</updated>
+    <updated>2025-05-27T18:05:05.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Singularities in Space-Time Prove Hard to Kill]]></title>
+        <id>https://www.quantamagazine.org/?p=150809</id>
+        <link href="https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/"/>
+        <updated>2025-05-27T14:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Black hole and Big Bang singularities break our best theory of gravity. A trilogy of theorems hints that physicists must go to the ends of space and time to find a fix.             
+The post Singularities in Space-Time Prove Hard to Kill first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mass Spec]]></title>
         <id>https://xkcd.com/3094/</id>
@@ -215,6 +226,16 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Schools For?]]></title>
+        <id>https://asteriskmag.com/issues/10/what-are-schools-for</id>
+        <link href="https://asteriskmag.com/issues/10/what-are-schools-for"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The modern education system around the world continues to bear the imprint of mass education’s original goal: obedience.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
