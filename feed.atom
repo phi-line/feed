@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-28T18:05:52.829Z</updated>
+    <updated>2025-05-28T23:45:33.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -25,6 +25,15 @@ The post How Paradoxical Questions and Simple Wonder Lead to Great Science first
         <summary type="html"><![CDATA[How accurately are Asian Americans cast in Hollywood?]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaea]]></title>
+        <id>https://xkcd.com/3095/</id>
+        <link href="https://xkcd.com/3095/"/>
+        <updated>2025-05-28T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +106,16 @@ The post Graduate Student Solves Classic Problem About the Limits of Addition fi
 The post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If We Had Bigger Brains? Imagining Minds beyond Ours]]></title>
+        <id>https://writings.stephenwolfram.com/?p=68380</id>
+        <link href="https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/"/>
+        <updated>2025-05-21T14:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we humans […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
         </author>
     </entry>
     <entry>
@@ -510,6 +529,16 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[What we can learn from watching reality stars apologize.]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can We Learn about Engineering and Innovation from Half a Century of the Game of Life Cellular Automaton?]]></title>
+        <id>https://writings.stephenwolfram.com/?p=67595</id>
+        <link href="https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/"/>
+        <updated>2025-03-18T18:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Metaengineering and Laws of Innovation Things are invented. Things are discovered. And somehow there’s an arc of progress that’s formed. But are there what amount to “laws of innovation” that govern that arc of progress? There are some exponential and other laws that purport to at least measure overall quantitative aspects of progress (number of […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
         </author>
     </entry>
     <entry>
