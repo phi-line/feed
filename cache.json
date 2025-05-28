@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/05/aapi-casting",
+          "author": null,
+          "description": "How accurately are Asian Americans cast in Hollywood?",
+          "link": "https://pudding.cool/2025/05/aapi-casting",
+          "publishedOn": "2025-05-28T04:00:00.000Z",
+          "wordCount": 302,
+          "title": "Asian Misrepresentation",
+          "imageUrl": "https://pudding.cool/2025/05/aapi-casting/assets/social-facebook.png"
+        },
+        {
           "id": "https://pudding.cool/2025/04/birthday-effect",
           "author": null,
           "description": "Are you more likely to die on your birthday? Yes.",
@@ -72,6 +82,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=150897",
+          "author": "Molly Herring",
+          "description": "Manu Prakash works on the world’s most urgent problems and seemingly frivolous questions at the same time. They add up to a philosophy he calls “recreational biology.”            \nThe post How Paradoxical Questions and Simple Wonder Lead to Great Science first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528/",
+          "publishedOn": "2025-05-28T15:00:54.000Z",
+          "wordCount": 3961,
+          "title": "How Paradoxical Questions and Simple Wonder Lead to Great Science",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/ManuPrakash-cr.RachelBujalski-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=150809",
           "author": "Charlie Wood",
