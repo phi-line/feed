@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-29T12:07:29.487Z</updated>
+    <updated>2025-05-29T18:05:52.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Toxic Proteins for Drug Discovery]]></title>
+        <id>https://www.asimov.press/p/toxic-proteins</id>
+        <link href="https://www.asimov.press/p/toxic-proteins"/>
+        <updated>2025-05-29T16:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Toxic amino acids, peptides, and proteins — which first evolved as molecular weapons deployed by species in conflict — can also serve as blueprints for pharmaceutical innovation.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will We Ever Prove String Theory?]]></title>
+        <id>https://www.quantamagazine.org/?p=150944</id>
+        <link href="https://www.quantamagazine.org/will-we-ever-prove-string-theory-20250529/"/>
+        <updated>2025-05-29T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Promise and controversy continues to surround string theory as a potential unified theory of everything. In the latest episode of The Joy of Why, Cumrun Vafa discusses his progress in trying to find good, testable models hidden among the ‘swampland’ of impossible universes.            
+The post Will We Ever Prove String Theory? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Paradoxical Questions and Simple Wonder Lead to Great Science]]></title>
         <id>https://www.quantamagazine.org/?p=150897</id>

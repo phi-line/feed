@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=150944",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Promise and controversy continues to surround string theory as a potential unified theory of everything. In the latest episode of The Joy of Why, Cumrun Vafa discusses his progress in trying to find good, testable models hidden among the ‘swampland’ of impossible universes.            \nThe post Will We Ever Prove String Theory? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-we-ever-prove-string-theory-20250529/",
+          "publishedOn": "2025-05-29T14:38:34.000Z",
+          "wordCount": 10321,
+          "title": "Will We Ever Prove String Theory?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/JOW_S3E6_Cumrun_Vafa-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150897",
           "author": "Molly Herring",
           "description": "Manu Prakash works on the world’s most urgent problems and seemingly frivolous questions at the same time. They add up to a philosophy he calls “recreational biology.”            \nThe post How Paradoxical Questions and Simple Wonder Lead to Great Science first appeared on Quanta Magazine",
@@ -306,6 +316,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/toxic-proteins",
+          "author": "Asimov Press",
+          "description": "Toxic amino acids, peptides, and proteins — which first evolved as molecular weapons deployed by species in conflict — can also serve as blueprints for pharmaceutical innovation.",
+          "link": "https://www.asimov.press/p/toxic-proteins",
+          "publishedOn": "2025-05-29T16:31:09.000Z",
+          "wordCount": null,
+          "title": "Toxic Proteins for Drug Discovery",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91279475-ab39-4e2b-88e0-19ddb92816ee_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91279475-ab39-4e2b-88e0-19ddb92816ee_2000x1260.png"
+        },
         {
           "id": "https://www.asimov.press/p/resistance",
           "author": null,
