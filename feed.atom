@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-30T12:07:24.580Z</updated>
+    <updated>2025-05-30T18:05:49.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Can AI Researchers Save Energy? By Going Backward.]]></title>
+        <id>https://www.quantamagazine.org/?p=150987</id>
+        <link href="https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/"/>
+        <updated>2025-05-30T14:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Reversible programs run backward as easily as they run forward, saving energy in theory. After decades of research, they may soon power AI.            
+The post How Can AI Researchers Save Energy? By Going Backward. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Matt von Hippel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toxic Proteins for Drug Discovery]]></title>
         <id>https://www.asimov.press/p/toxic-proteins</id>
