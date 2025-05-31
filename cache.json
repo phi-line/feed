@@ -722,6 +722,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3096/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3096/",
+          "publishedOn": "2025-05-30T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Check Engine",
+          "imageUrl": "https://imgs.xkcd.com/comics/check_engine_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3095/",
           "author": null,
           "description": "",
