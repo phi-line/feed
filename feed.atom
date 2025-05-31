@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-05-31T12:06:37.070Z</updated>
+    <updated>2025-05-31T18:05:23.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -650,16 +650,6 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[A conversation about neuroscience, meditation, and the many paths to insight.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Middle Ages]]></title>
-        <id>https://pudding.cool/2025/02/middle-school</id>
-        <link href="https://pudding.cool/2025/02/middle-school"/>
-        <updated>2025-03-03T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Follow hundreds of kids as they navigate their trecherous middle school years.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>
