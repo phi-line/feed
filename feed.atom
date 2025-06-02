@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-02T06:06:42.918Z</updated>
+    <updated>2025-06-02T12:07:31.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -610,46 +610,6 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Can, Must, and Will Simulate Nematode Brains]]></title>
-        <id>https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains</id>
-        <link href="https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have spent over 25 years trying — and failing — to build computer simulations of the smallest brain we know. Today, we finally have the tools to pull it off.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greening the Solar System]]></title>
-        <id>https://asteriskmag.com/issues/09/greening-the-solar-system</id>
-        <link href="https://asteriskmag.com/issues/09/greening-the-solar-system"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A future where life flourishes beyond Earth is closer than you think. How, precisely, will we get there?]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are AIs People?]]></title>
-        <id>https://asteriskmag.com/issues/09/are-ais-people</id>
-        <link href="https://asteriskmag.com/issues/09/are-ais-people"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every year, AI models get better at thinking. Could they possibly be capable of feeling? And if they are, how would we know?]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Science of Woo]]></title>
-        <id>https://asteriskmag.com/issues/09/the-science-of-woo</id>
-        <link href="https://asteriskmag.com/issues/09/the-science-of-woo"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A conversation about neuroscience, meditation, and the many paths to insight.]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
 </feed>
