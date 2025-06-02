@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=151016",
+          "author": "Joseph Howlett",
+          "description": "By extending the scope of the key insight behind Fermat’s Last Theorem, four mathematicians have made great strides toward building a “grand unified theory” of math.            \nThe post The Core of Fermat’s Last Theorem Just Got Superpowered first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/",
+          "publishedOn": "2025-06-02T14:15:06.000Z",
+          "wordCount": 3488,
+          "title": "The Core of Fermat’s Last Theorem Just Got Superpowered",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Next-level-FLT_crNash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=150987",
           "author": "Matt von Hippel",
           "description": "Reversible programs run backward as easily as they run forward, saving energy in theory. After decades of research, they may soon power AI.            \nThe post How Can AI Researchers Save Energy? By Going Backward. first appeared on Quanta Magazine",
@@ -180,6 +190,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
+          "author": null,
+          "description": "When we try and pick out any technology in isolation, we find it hitched, in some way, to every innovation that preceded it. (Except for the Oldowan hand axe. We had to start somewhere.)",
+          "link": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 5219,
+          "title": "The Universal Tech Tree",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/10/what-are-schools-for",
           "author": null,
           "description": "The modern education system around the world continues to bear the imprint of mass education’s original goal: obedience.",
@@ -276,6 +296,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/maxwell-ardeen",
+          "author": "Spencer Nitkey - Writer",
+          "description": "Bioart emerges where biological science, technology, and aesthetics collide. For one terminally ill artist, it offered a chance at immortality.",
+          "link": "https://www.asimov.press/p/maxwell-ardeen",
+          "publishedOn": "2025-06-02T16:12:36.000Z",
+          "wordCount": null,
+          "title": "The Eternal Life and Art of Maxwell Ardeen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51544560-9c57-43e8-9d33-3b6a68ab79eb_762x480.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51544560-9c57-43e8-9d33-3b6a68ab79eb_762x480.gif"
+        },
         {
           "id": "https://www.asimov.press/p/toxic-proteins",
           "author": "Asimov Press",

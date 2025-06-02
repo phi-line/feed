@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-02T12:07:31.942Z</updated>
+    <updated>2025-06-02T18:05:52.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Eternal Life and Art of Maxwell Ardeen]]></title>
+        <id>https://www.asimov.press/p/maxwell-ardeen</id>
+        <link href="https://www.asimov.press/p/maxwell-ardeen"/>
+        <updated>2025-06-02T16:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Bioart emerges where biological science, technology, and aesthetics collide. For one terminally ill artist, it offered a chance at immortality.]]></summary>
+        <author>
+            <name>Spencer Nitkey - Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Core of Fermat’s Last Theorem Just Got Superpowered]]></title>
+        <id>https://www.quantamagazine.org/?p=151016</id>
+        <link href="https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/"/>
+        <updated>2025-06-02T14:15:06.000Z</updated>
+        <summary type="html"><![CDATA[By extending the scope of the key insight behind Fermat’s Last Theorem, four mathematicians have made great strides toward building a “grand unified theory” of math.            
+The post The Core of Fermat’s Last Theorem Just Got Superpowered first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joseph Howlett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can AI Researchers Save Energy? By Going Backward.]]></title>
         <id>https://www.quantamagazine.org/?p=150987</id>
@@ -307,6 +328,16 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Universal Tech Tree]]></title>
+        <id>https://asteriskmag.com/issues/10/the-universal-tech-tree</id>
+        <link href="https://asteriskmag.com/issues/10/the-universal-tech-tree"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we try and pick out any technology in isolation, we find it hitched, in some way, to every innovation that preceded it. (Except for the Oldowan hand axe. We had to start somewhere.)]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
