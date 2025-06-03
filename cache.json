@@ -708,6 +708,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3097/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3097/",
+          "publishedOn": "2025-06-02T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Bridge Types",
+          "imageUrl": "https://imgs.xkcd.com/comics/bridge_types_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3096/",
           "author": null,
           "description": "",
