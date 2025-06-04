@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=151131",
+          "author": "Conor Feehly",
+          "description": "Studies of neural metabolism reveal our brain’s effort to keep us alive and the evolutionary constraints that sculpted our most complex organ.            \nThe post How Much Energy Does It Take To Think? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/",
+          "publishedOn": "2025-06-04T14:14:13.000Z",
+          "wordCount": 2953,
+          "title": "How Much Energy Does It Take To Think?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Brain-Energy_crMyrian-Wares-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=151016",
           "author": "Joseph Howlett",
           "description": "By extending the scope of the key insight behind Fermat’s Last Theorem, four mathematicians have made great strides toward building a “grand unified theory” of math.            \nThe post The Core of Fermat’s Last Theorem Just Got Superpowered first appeared on Quanta Magazine",
@@ -189,6 +199,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/10/how-to-triage-billion-in-aid-cuts",
+          "author": null,
+          "description": "Inside PRO's rapid effort to connect private donors with the most cost-effective programs affected by USAID cuts.",
+          "link": "https://asteriskmag.com/issues/10/how-to-triage-billion-in-aid-cuts",
+          "publishedOn": "2025-06-04T00:00:00.000Z",
+          "wordCount": 5353,
+          "title": "How to Triage $35 Billion in Aid Cuts",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
           "author": null,

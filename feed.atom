@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-04T12:07:45.240Z</updated>
+    <updated>2025-06-04T18:05:53.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Much Energy Does It Take To Think?]]></title>
+        <id>https://www.quantamagazine.org/?p=151131</id>
+        <link href="https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/"/>
+        <updated>2025-06-04T14:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Studies of neural metabolism reveal our brain’s effort to keep us alive and the evolutionary constraints that sculpted our most complex organ.            
+The post How Much Energy Does It Take To Think? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Conor Feehly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Triage $35 Billion in Aid Cuts]]></title>
+        <id>https://asteriskmag.com/issues/10/how-to-triage-billion-in-aid-cuts</id>
+        <link href="https://asteriskmag.com/issues/10/how-to-triage-billion-in-aid-cuts"/>
+        <updated>2025-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inside PRO's rapid effort to connect private donors with the most cost-effective programs affected by USAID cuts.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Eternal Life and Art of Maxwell Ardeen]]></title>
         <id>https://www.asimov.press/p/maxwell-ardeen</id>
