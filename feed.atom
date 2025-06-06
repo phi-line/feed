@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-06T12:07:29.800Z</updated>
+    <updated>2025-06-06T18:05:52.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First Map Made of a Solid’s Secret Quantum Geometry]]></title>
+        <id>https://www.quantamagazine.org/?p=151180</id>
+        <link href="https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/"/>
+        <updated>2025-06-06T14:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous.            
+The post First Map Made of a Solid’s Secret Quantum Geometry first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Shalma Wegsman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Visual Guide to Genome Editors]]></title>
         <id>https://www.asimov.press/p/a-visual-guide-to-genome-editors</id>
