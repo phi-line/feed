@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h7w339vE2F8",
+          "author": null,
+          "description": "A 6 minute video about the loneliness epidemic, in data",
+          "link": "https://www.youtube.com/watch?v=h7w339vE2F8",
+          "publishedOn": "2025-06-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "The Loneliness Epidemic, in Data",
+          "imageUrl": null
+        },
+        {
           "id": "https://pudding.cool/2025/05/aapi-casting",
           "author": null,
           "description": "How accurately are Asian Americans cast in Hollywood?",
@@ -316,6 +326,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/a-visual-guide-to-genome-editors",
+          "author": "Evan DeTurk",
+          "description": "A selected encyclopedia of major gene-editing systems, together with illustrated diagrams.",
+          "link": "https://www.asimov.press/p/a-visual-guide-to-genome-editors",
+          "publishedOn": "2025-06-05T15:21:54.000Z",
+          "wordCount": null,
+          "title": "A Visual Guide to Genome Editors",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1bf40b96-f3f8-4209-9006-6e2202428540_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1bf40b96-f3f8-4209-9006-6e2202428540_2000x1260.png"
+        },
         {
           "id": "https://www.asimov.press/p/maxwell-ardeen",
           "author": "Spencer Nitkey - Writer",
