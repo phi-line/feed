@@ -764,6 +764,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3099/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3099/",
+          "publishedOn": "2025-06-06T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "Neighbor-Source Heat Pump",
+          "imageUrl": "https://imgs.xkcd.com/comics/neighbor_source_heat_pump_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3098/",
           "author": null,
           "description": "",
