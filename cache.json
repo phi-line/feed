@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=151248",
+          "author": "Stephen Ornes",
+          "description": "The catch: It would require the energy of a few medium-size stars.            \nThe post New Quantum Algorithm Factors Numbers With One Qubit first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-quantum-algorithm-factors-numbers-with-one-qubit-20250609/",
+          "publishedOn": "2025-06-09T14:31:06.000Z",
+          "wordCount": 2359,
+          "title": "New Quantum Algorithm Factors Numbers With One Qubit",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Single-Qubit-Factoring_crCelsius-Pictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=151180",
           "author": "Shalma Wegsman",
           "description": "Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous.            \nThe post First Map Made of a Solid’s Secret Quantum Geometry first appeared on Quanta Magazine",
@@ -220,6 +230,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://asteriskmag.com/issues/10/the-origin-of-the-research-university",
+          "author": null,
+          "description": "Universities have existed for more than a thousand years — and for almost all of that time, they weren’t centers of research. What changed in 19th century Germany?",
+          "link": "https://asteriskmag.com/issues/10/the-origin-of-the-research-university",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 7086,
+          "title": "The Origin of the Research University",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
           "author": null,
           "description": "When we try and pick out any technology in isolation, we find it hitched, in some way, to every innovation that preceded it. (Except for the Oldowan hand axe. We had to start somewhere.)",
@@ -326,6 +346,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/slime",
+          "author": "Asimov Press",
+          "description": "Prominent scientists continue to claim life is “just” slime on a spinning rock. However, in an age when the rarity and fragility of life are increasingly evident, it’s time to retire the metaphor.",
+          "link": "https://www.asimov.press/p/slime",
+          "publishedOn": "2025-06-09T15:38:58.000Z",
+          "wordCount": null,
+          "title": "Life as Slime",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7b19b7a-2b91-4abc-b8ea-df24c8634a52_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7b19b7a-2b91-4abc-b8ea-df24c8634a52_2000x1260.png"
+        },
         {
           "id": "https://www.asimov.press/p/a-visual-guide-to-genome-editors",
           "author": "Evan DeTurk",
