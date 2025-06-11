@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-11T12:07:39.334Z</updated>
+    <updated>2025-06-11T18:06:00.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Effort to Ground Physics in Math Opens Up the Secrets of Time]]></title>
+        <id>https://www.quantamagazine.org/?p=151295</id>
+        <link href="https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/"/>
+        <updated>2025-06-11T14:38:33.000Z</updated>
+        <summary type="html"><![CDATA[By mathematically proving how individual molecules create the complex motion of fluids, three mathematicians have illuminated why time can’t flow in reverse.            
+The post Epic Effort to Ground Physics in Math Opens Up the Secrets of Time first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life as Slime]]></title>
         <id>https://www.asimov.press/p/slime</id>
