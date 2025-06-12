@@ -800,6 +800,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3101/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3101/",
+          "publishedOn": "2025-06-11T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Good Science",
+          "imageUrl": "https://imgs.xkcd.com/comics/good_science_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3100/",
           "author": null,
           "description": "",
