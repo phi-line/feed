@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-12T12:07:33.781Z</updated>
+    <updated>2025-06-12T18:06:51.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside ARIA, the UK's Bet to Build Scientific Revolutions]]></title>
+        <id>https://www.asimov.press/p/aria</id>
+        <link href="https://www.asimov.press/p/aria"/>
+        <updated>2025-06-12T17:09:21.000Z</updated>
+        <summary type="html"><![CDATA[An interview with Ilan Gur, CEO of ARIA, about the organization’s efforts to build scientific waves.]]></summary>
+        <author>
+            <name>Eric Gilliam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Form Really Shape Function?]]></title>
+        <id>https://www.quantamagazine.org/?p=151345</id>
+        <link href="https://www.quantamagazine.org/does-form-really-shape-function-20250612/"/>
+        <updated>2025-06-12T13:41:43.000Z</updated>
+        <summary type="html"><![CDATA[From brain folds to insect architecture, L. Mahadevan explains how complex biological forms and behaviors emerge through the interplay of physical forces, environment and embodiment.            
+The post Does Form Really Shape Function? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Effort to Ground Physics in Math Opens Up the Secrets of Time]]></title>
         <id>https://www.quantamagazine.org/?p=151295</id>
