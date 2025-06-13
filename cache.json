@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/06/hello-stranger",
+          "author": null,
+          "description": "Watch hundreds of strangers talk for 30 minutes, and track how their moods change",
+          "link": "https://pudding.cool/2025/06/hello-stranger",
+          "publishedOn": "2025-06-12T04:00:00.000Z",
+          "wordCount": 3586,
+          "title": "30 minutes with a stranger",
+          "imageUrl": "https://pudding.cool/2025/06/hello-stranger/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h7w339vE2F8",
           "author": null,
           "description": "A 6 minute video about the loneliness epidemic, in data",

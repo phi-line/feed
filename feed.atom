@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-12T18:06:51.989Z</updated>
+    <updated>2025-06-13T00:19:40.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -25,6 +25,16 @@
 The post Does Form Really Shape Function? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 minutes with a stranger]]></title>
+        <id>https://pudding.cool/2025/06/hello-stranger</id>
+        <link href="https://pudding.cool/2025/06/hello-stranger"/>
+        <updated>2025-06-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Watch hundreds of strangers talk for 30 minutes, and track how their moods change]]></summary>
+        <author>
+            <name>The Pudding</name>
         </author>
     </entry>
     <entry>
