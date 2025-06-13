@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-13T12:07:39.416Z</updated>
+    <updated>2025-06-13T18:05:53.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.]]></title>
+        <id>https://www.quantamagazine.org/?p=151379</id>
+        <link href="https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/"/>
+        <updated>2025-06-13T13:50:39.000Z</updated>
+        <summary type="html"><![CDATA[A new argument explores how the growth of disorder could cause massive objects to move toward one another. Physicists are both interested and skeptical.            
+The post Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>George Musser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading a Big Number]]></title>
+        <id>https://xkcd.com/3102/</id>
+        <link href="https://xkcd.com/3102/"/>
+        <updated>2025-06-13T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside ARIA, the UK's Bet to Build Scientific Revolutions]]></title>
         <id>https://www.asimov.press/p/aria</id>
