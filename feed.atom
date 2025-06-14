@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-14T00:18:43.851Z</updated>
+    <updated>2025-06-14T06:05:41.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -801,16 +801,6 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[Metaengineering and Laws of Innovation Things are invented. Things are discovered. And somehow there’s an arc of progress that’s formed. But are there what amount to “laws of innovation” that govern that arc of progress? There are some exponential and other laws that purport to at least measure overall quantitative aspects of progress (number of […]]]></summary>
         <author>
             <name>Stephen Wolfram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healing My Family’s Future]]></title>
-        <id>https://www.asimov.press/p/family-future</id>
-        <link href="https://www.asimov.press/p/family-future"/>
-        <updated>2025-03-16T17:29:02.000Z</updated>
-        <summary type="html"><![CDATA[How genetics and IVF empowered our family to leave cancer behind.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
