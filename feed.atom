@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-16T12:07:47.953Z</updated>
+    <updated>2025-06-16T18:06:07.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ecosystem Dynamics That Can Make or Break an Invasion]]></title>
+        <id>https://www.quantamagazine.org/?p=151415</id>
+        <link href="https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/"/>
+        <updated>2025-06-16T14:14:48.000Z</updated>
+        <summary type="html"><![CDATA[By speedrunning ecosystems with microbes, researchers revealed intrinsic properties that may make a community susceptible to invasion.            
+The post The Ecosystem Dynamics That Can Make or Break an Invasion first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Gabriel Popkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.]]></title>
         <id>https://www.quantamagazine.org/?p=151379</id>
@@ -511,6 +522,16 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Brain Freeze]]></title>
+        <id>https://asteriskmag.com/issues/10/brain-freeze</id>
+        <link href="https://asteriskmag.com/issues/10/brain-freeze"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The idea of cryonics — freezing the bodies of the dead in the hopes that they can one day be revived — has existed since the 1960s. We’ve since learned that perfect preservation is much, much harder than any of its founders anticipated.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Origin of the Research University]]></title>
         <id>https://asteriskmag.com/issues/10/the-origin-of-the-research-university</id>
         <link href="https://asteriskmag.com/issues/10/the-origin-of-the-research-university"/>
@@ -781,16 +802,6 @@ The post The Balloon that Fell from the Sky appeared first on The Atavist Magazi
         <summary type="html"><![CDATA[A look inside FutureHouse, a nonprofit research institute in San Francisco.]]></summary>
         <author>
             <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we can learn from watching reality stars apologize]]></title>
-        <id>https://pudding.cool/2025/03/housewives</id>
-        <link href="https://pudding.cool/2025/03/housewives"/>
-        <updated>2025-03-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What we can learn from watching reality stars apologize.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>

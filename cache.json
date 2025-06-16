@@ -64,16 +64,6 @@
           "wordCount": 64,
           "title": "The Generational Legacy of Samples in Music",
           "imageUrl": "https://pudding.cool/2025/04/music-dna/assets/social.jpg"
-        },
-        {
-          "id": "https://pudding.cool/2025/03/housewives",
-          "author": null,
-          "description": "What we can learn from watching reality stars apologize.",
-          "link": "https://pudding.cool/2025/03/housewives",
-          "publishedOn": "2025-03-19T04:00:00.000Z",
-          "wordCount": 2030,
-          "title": "What we can learn from watching reality stars apologize",
-          "imageUrl": "https://pudding.cool/2025/03/housewives/assets/social-facebook.jpg"
         }
       ]
     },
@@ -82,6 +72,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=151415",
+          "author": "Gabriel Popkin",
+          "description": "By speedrunning ecosystems with microbes, researchers revealed intrinsic properties that may make a community susceptible to invasion.            \nThe post The Ecosystem Dynamics That Can Make or Break an Invasion first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/",
+          "publishedOn": "2025-06-16T14:14:48.000Z",
+          "wordCount": 3451,
+          "title": "The Ecosystem Dynamics That Can Make or Break an Invasion",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Invasion-Microbiology_crTK-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=151379",
           "author": "George Musser",
@@ -267,6 +267,16 @@
           "publishedOn": "2025-06-04T00:00:00.000Z",
           "wordCount": 5353,
           "title": "How to Triage $35 Billion in Aid Cuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/10/brain-freeze",
+          "author": null,
+          "description": "The idea of cryonics — freezing the bodies of the dead in the hopes that they can one day be revived — has existed since the 1960s. We’ve since learned that perfect preservation is much, much harder than any of its founders anticipated.",
+          "link": "https://asteriskmag.com/issues/10/brain-freeze",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 6774,
+          "title": "Brain Freeze",
           "imageUrl": null
         },
         {
