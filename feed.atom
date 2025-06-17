@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-17T00:19:36.822Z</updated>
+    <updated>2025-06-17T06:06:29.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -801,16 +801,6 @@ The post The Eagle Hunters of Kyrgyzstan appeared first on The Atavist Magazine.
 The post The Balloon that Fell from the Sky appeared first on The Atavist Magazine.]]></summary>
         <author>
             <name>Ed Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Humans Building AI Scientists]]></title>
-        <id>https://www.asimov.press/p/futurehouse</id>
-        <link href="https://www.asimov.press/p/futurehouse"/>
-        <updated>2025-03-19T16:56:17.000Z</updated>
-        <summary type="html"><![CDATA[A look inside FutureHouse, a nonprofit research institute in San Francisco.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
