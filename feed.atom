@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-20T12:07:36.810Z</updated>
+    <updated>2025-06-20T18:05:52.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Mathematics Mostly Chaos or Mostly Order?]]></title>
+        <id>https://www.quantamagazine.org/?p=151542</id>
+        <link href="https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/"/>
+        <updated>2025-06-20T15:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Two new notions of infinity challenge a long-standing plan to define the mathematical universe.            
+The post Is Mathematics Mostly Chaos or Mostly Order? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Gregory Barber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI Models Are Helping to Understand — and Control — the Brain]]></title>
         <id>https://www.quantamagazine.org/?p=151481</id>
