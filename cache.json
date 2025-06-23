@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=151597",
+          "author": "Matt von Hippel",
+          "description": "Every elementary particle falls into one of two categories. Collectivist bosons account for the forces that move us while individualist fermions keep our atoms from collapsing.            \nThe post Matter vs. Force: Why There Are Exactly Two Types of Particles first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/matter-vs-force-why-there-are-exactly-two-types-of-particles-20250623/",
+          "publishedOn": "2025-06-23T14:09:22.000Z",
+          "wordCount": 2289,
+          "title": "Matter vs. Force: Why There Are Exactly Two Types of Particles",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Fermion-Boson-Explainer_crIrene-Perez-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=151542",
           "author": "Gregory Barber",
           "description": "Two new notions of infinity challenge a long-standing plan to define the mathematical universe.            \nThe post Is Mathematics Mostly Chaos or Mostly Order? first appeared on Quanta Magazine",
@@ -287,6 +297,16 @@
           "publishedOn": "2025-06-04T00:00:00.000Z",
           "wordCount": 5353,
           "title": "How to Triage $35 Billion in Aid Cuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/10/knockout-mouse",
+          "author": null,
+          "description": "“Cancer is extremely varied and adaptive, and is likely the hardest of these diseases to fully destroy.” — Dario Amodei",
+          "link": "https://asteriskmag.com/issues/10/knockout-mouse",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 2575,
+          "title": "Knockout Mouse",
           "imageUrl": null
         },
         {

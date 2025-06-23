@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-23T12:07:43.827Z</updated>
+    <updated>2025-06-23T18:06:04.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matter vs. Force: Why There Are Exactly Two Types of Particles]]></title>
+        <id>https://www.quantamagazine.org/?p=151597</id>
+        <link href="https://www.quantamagazine.org/matter-vs-force-why-there-are-exactly-two-types-of-particles-20250623/"/>
+        <updated>2025-06-23T14:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Every elementary particle falls into one of two categories. Collectivist bosons account for the forces that move us while individualist fermions keep our atoms from collapsing.            
+The post Matter vs. Force: Why There Are Exactly Two Types of Particles first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Matt von Hippel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Mathematics Mostly Chaos or Mostly Order?]]></title>
         <id>https://www.quantamagazine.org/?p=151542</id>
@@ -568,6 +579,16 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knockout Mouse]]></title>
+        <id>https://asteriskmag.com/issues/10/knockout-mouse</id>
+        <link href="https://asteriskmag.com/issues/10/knockout-mouse"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Cancer is extremely varied and adaptive, and is likely the hardest of these diseases to fully destroy.” — Dario Amodei]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
