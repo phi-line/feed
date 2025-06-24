@@ -437,6 +437,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/food-futurism",
+          "author": "Asimov Press",
+          "description": "A science fiction story brought to life through a pro-GMO dinner.",
+          "link": "https://www.asimov.press/p/food-futurism",
+          "publishedOn": "2025-06-24T15:42:36.000Z",
+          "wordCount": null,
+          "title": "A Night of Food Futurism",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/9516c333-05c2-4ba9-9b55-abfc40e9b6e8_5000x3334.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9516c333-05c2-4ba9-9b55-abfc40e9b6e8_5000x3334.png"
+        },
+        {
           "id": "https://www.asimov.press/p/aria",
           "author": "Eric Gilliam",
           "description": "An interview with Ilan Gur, CEO of ARIA, about the organization’s efforts to build scientific waves.",

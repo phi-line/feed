@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-24T12:07:41.606Z</updated>
+    <updated>2025-06-24T18:06:00.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Night of Food Futurism]]></title>
+        <id>https://www.asimov.press/p/food-futurism</id>
+        <link href="https://www.asimov.press/p/food-futurism"/>
+        <updated>2025-06-24T15:42:36.000Z</updated>
+        <summary type="html"><![CDATA[A science fiction story brought to life through a pro-GMO dinner.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matter vs. Force: Why There Are Exactly Two Types of Particles]]></title>
         <id>https://www.quantamagazine.org/?p=151597</id>
