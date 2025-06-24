@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-24T00:19:41.699Z</updated>
+    <updated>2025-06-24T06:06:41.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -820,16 +820,6 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[A cautionary tale about the competitive pressures of scientific research, and how they alter the course of history.]]></summary>
         <author>
             <name>Metacelsus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Limits a Cell’s Size?]]></title>
-        <id>https://www.asimov.press/p/cell-size</id>
-        <link href="https://www.asimov.press/p/cell-size"/>
-        <updated>2025-03-26T14:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Two physical constraints help explain why cells are so tiny: surface area-to-volume ratios and diffusion. The first article in our new Data Series.]]></summary>
-        <author>
-            <name>Niko McCarty</name>
         </author>
     </entry>
 </feed>
