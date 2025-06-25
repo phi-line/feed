@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-25T12:07:35.943Z</updated>
+    <updated>2025-06-25T18:06:05.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New Pyramid-Like Shape Always Lands the Same Side Up]]></title>
+        <id>https://www.quantamagazine.org/?p=151656</id>
+        <link href="https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/"/>
+        <updated>2025-06-25T14:34:34.000Z</updated>
+        <summary type="html"><![CDATA[A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.            
+The post A New Pyramid-Like Shape Always Lands the Same Side Up first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Elise Cutts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Night of Food Futurism]]></title>
         <id>https://www.asimov.press/p/food-futurism</id>
