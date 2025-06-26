@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-26T12:07:40.874Z</updated>
+    <updated>2025-06-26T18:05:58.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does Graph Theory Shape Our World?]]></title>
+        <id>https://www.quantamagazine.org/?p=151700</id>
+        <link href="https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/"/>
+        <updated>2025-06-26T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Maria Chudnovsky reflects on her journey in graph theory, her groundbreaking solution to the long-standing perfect graph problem, and the unexpected ways this abstract field intersects with everyday life.            
+The post How Does Graph Theory Shape Our World? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Protected: Conversations with a Hit Man]]></title>
         <id>https://magazine.atavist.com/?p=48274</id>
