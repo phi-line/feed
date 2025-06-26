@@ -790,6 +790,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=48274",
+          "author": "David Howard",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: Conversations with a Hit Man appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/",
+          "publishedOn": "2025-06-25T18:30:43.000Z",
+          "wordCount": 1603,
+          "title": "Protected: Conversations with a Hit Man",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=47876",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Longest Journey appeared first on The Atavist Magazine.",
@@ -816,6 +826,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3107/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3107/",
+          "publishedOn": "2025-06-25T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Weather Balloons",
+          "imageUrl": "https://imgs.xkcd.com/comics/weather_balloons_2x.png"
+        },
         {
           "id": "https://xkcd.com/3106/",
           "author": null,
