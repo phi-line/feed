@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-06-29T06:05:50.602Z</updated>
+    <updated>2025-06-29T12:06:46.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -871,26 +871,6 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[We trace musical DNA from the classical "Hall of the Mountain King" to 2pac's "Hit Em Up."]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First Day]]></title>
-        <id>https://asteriskmag.com/issues/10/the-first-day</id>
-        <link href="https://asteriskmag.com/issues/10/the-first-day"/>
-        <updated>2025-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of American Foreign Aid]]></title>
-        <id>https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid</id>
-        <link href="https://asteriskmag.com/issues/09/the-future-of-american-foreign-aid"/>
-        <updated>2025-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[USAID has been slashed, and it is unclear what shape its successor will take. How might American foreign assistance be restructured to maintain critical functions? And how should we think about its future?]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
 </feed>
