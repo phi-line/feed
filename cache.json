@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=151896",
+          "author": "Webb Wright",
+          "description": "Image generators are designed to mimic their training data, so where does their apparent creativity come from? A recent study suggests that it’s an inevitable by-product of their architecture.            \nThe post Researchers Uncover Hidden Ingredients Behind AI Creativity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/",
+          "publishedOn": "2025-06-30T14:02:57.000Z",
+          "wordCount": 2829,
+          "title": "Researchers Uncover Hidden Ingredients Behind AI Creativity",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/TheoryofCreativity-crAdrianAstorgano-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=151759",
           "author": "Molly Herring",
           "description": "Scientists reconstructed 500 million years of evolutionary history to reveal which came first: colorful signals or the color vision needed to see them.             \nThe post When Did Nature Burst Into Vivid Color? first appeared on Quanta Magazine",
@@ -317,6 +327,16 @@
           "publishedOn": "2025-06-04T00:00:00.000Z",
           "wordCount": 5353,
           "title": "How to Triage $35 Billion in Aid Cuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/10/the-georgist-roots-of-american-libertarianism",
+          "author": null,
+          "description": "Few thinkers have been championed by such a wide range of political coalitions, from American Progressives to Taiwanese anti-communists, early zionists to the global Green Party. So how did American libertarianism come to embrace Henry George, too?",
+          "link": "https://asteriskmag.com/issues/10/the-georgist-roots-of-american-libertarianism",
+          "publishedOn": "2025-04-28T00:00:00.000Z",
+          "wordCount": 5917,
+          "title": "The Georgist Roots of American Libertarianism",
           "imageUrl": null
         },
         {
@@ -800,6 +820,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3109/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3109/",
+          "publishedOn": "2025-06-30T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Dehumidifier",
+          "imageUrl": "https://imgs.xkcd.com/comics/dehumidifier_2x.png"
+        },
         {
           "id": "https://xkcd.com/3108/",
           "author": null,
