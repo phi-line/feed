@@ -769,22 +769,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/39bfcfd5-9617-442b-99d4-70f7bcca6aa5_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/adjuvants",
-          "author": "Asimov Press",
-          "description": "More than a century after the invention of vaccines, a veterinarian stumbled across a technique to boost their efficacy in an unlikely way — by observing wounded horses.",
-          "link": "https://www.asimov.press/p/adjuvants",
-          "publishedOn": "2025-04-04T16:14:52.000Z",
-          "wordCount": null,
-          "title": "The Origins of Adjuvants",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c919cfe5-fcc8-4574-a590-8d018d5e9b6e_2000x1260.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c919cfe5-fcc8-4574-a590-8d018d5e9b6e_2000x1260.png"
         }
       ]
     },
@@ -830,6 +814,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3110/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3110/",
+          "publishedOn": "2025-07-02T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Global Ranking",
+          "imageUrl": "https://imgs.xkcd.com/comics/global_ranking_2x.png"
+        },
         {
           "id": "https://xkcd.com/3109/",
           "author": null,
