@@ -1058,6 +1058,113 @@
           "imageUrl": "https://content.wolfram.com/sites/43/2025/05/sw05202025catscimg1.png"
         }
       ]
+    },
+    {
+      "title": "NOEMA",
+      "feedUrl": "https://www.noemamag.com/feed",
+      "siteUrl": "https://www.noemamag.com",
+      "articles": [
+        {
+          "id": "https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny",
+          "author": "Petter Törnberg",
+          "description": "The post The Ascendance Of Algorithmic Tyranny appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny",
+          "publishedOn": "2025-07-01T16:51:05.000Z",
+          "wordCount": 10251,
+          "title": "The Ascendance Of Algorithmic Tyranny",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/modernity_finalfile.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7082063047c5efca7f3445b3736efc82"
+        },
+        {
+          "id": "https://www.noemamag.com/denouement-in-the-middle-east",
+          "author": "Nathan Gardels",
+          "description": "The post Denouement In The Middle East appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/denouement-in-the-middle-east",
+          "publishedOn": "2025-06-27T16:38:50.000Z",
+          "wordCount": 4700,
+          "title": "Denouement In The Middle East",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema-Magazine-Denouement-in-the-Middle-East-Mr.Nelson-design.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4877c113626507ae025e8375ee321d80"
+        },
+        {
+          "id": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
+          "author": "Henry Wismayer",
+          "description": "The post The Unseen Fury Of Solar Storms appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
+          "publishedOn": "2025-06-24T15:20:48.000Z",
+          "wordCount": 14517,
+          "title": "The Unseen Fury Of Solar Storms",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/X8pt7_Flare_1651_May_14_2024_171-131-193-304-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=6654ed9e7f5367f7476a98f868476289"
+        },
+        {
+          "id": "https://www.noemamag.com/the-clash-between-technology-ecology",
+          "author": "Nathan Gardels",
+          "description": "The post The Clash Between Technology & Ecology appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-clash-between-technology-ecology",
+          "publishedOn": "2025-06-20T16:38:50.000Z",
+          "wordCount": 3428,
+          "title": "The Clash Between Technology & Ecology",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/tech-vs-eco_300dpi_rgb-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c8a5bb251b7b498b7dc862f644bbd5bf"
+        },
+        {
+          "id": "https://www.noemamag.com/fire-eyes-of-the-underworld",
+          "author": "Marcia Bjornerud",
+          "description": "The post Fire-Eyes Of The Underworld appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/fire-eyes-of-the-underworld",
+          "publishedOn": "2025-06-17T19:11:05.000Z",
+          "wordCount": 7433,
+          "title": "Fire-Eyes Of The Underworld",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/Garnet_013_4k_2-1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f8e82ffc44823fa2ef57cd9f75fac136"
+        },
+        {
+          "id": "https://www.noemamag.com/molecular-civil-war-in-la",
+          "author": "Nathan Gardels",
+          "description": "The post ‘Molecular Civil War’ In LA appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/molecular-civil-war-in-la",
+          "publishedOn": "2025-06-11T16:58:31.000Z",
+          "wordCount": 4531,
+          "title": "‘Molecular Civil War’ In LA",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_V2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=062c202a319e6cc74bee7ee277af59ee"
+        },
+        {
+          "id": "https://www.noemamag.com/a-new-political-compass",
+          "author": "Dan Zimmer",
+          "description": "The post A New Political Compass appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-political-compass",
+          "publishedOn": "2025-06-10T17:05:53.000Z",
+          "wordCount": 11534,
+          "title": "A New Political Compass",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/4_Setu-Choudhary.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=31aead954dc00747ae0e4b358f77185a"
+        },
+        {
+          "id": "https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest",
+          "author": "Nathan Gardels",
+          "description": "The post The 2025 Berggruen Prize Essay Contest appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest",
+          "publishedOn": "2025-06-06T16:44:20.000Z",
+          "wordCount": 3213,
+          "title": "The 2025 Berggruen Prize Essay Contest",
+          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_v1-11-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c25b0fb2447993ad1259e67f6724466d"
+        },
+        {
+          "id": "https://www.noemamag.com/ai-signals-the-death-of-the-author",
+          "author": "David J. Gunkel",
+          "description": "The post AI Signals The Death Of The Author appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/ai-signals-the-death-of-the-author",
+          "publishedOn": "2025-06-04T12:56:20.000Z",
+          "wordCount": 7563,
+          "title": "AI Signals The Death Of The Author",
+          "imageUrl": "https://noemamag.imgix.net/2025/05/matthew-horizontal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=305baea6dbdd9b1f2413d13480526f77"
+        },
+        {
+          "id": "https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai",
+          "author": "Nathan Gardels",
+          "description": "The post How Pope Leo XIV Can Address Distributive Justice In The Age Of AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai",
+          "publishedOn": "2025-05-30T16:28:50.000Z",
+          "wordCount": 4537,
+          "title": "How Pope Leo XIV Can Address Distributive Justice In The Age Of AI",
+          "imageUrl": "https://noemamag.imgix.net/2025/05/RerumNovarum_B.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4dd01a4e13024a76a15a23ad72e873b1"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
