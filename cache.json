@@ -825,6 +825,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3111/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3111/",
+          "publishedOn": "2025-07-04T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Artificial Gravity",
+          "imageUrl": "https://imgs.xkcd.com/comics/artificial_gravity_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3110/",
           "author": null,
           "description": "",
