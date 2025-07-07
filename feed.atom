@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-07T18:05:53.930Z</updated>
+    <updated>2025-07-07T22:14:58.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UC Berkeley can now pay athletes directly]]></title>
+        <id>https://www.berkeleyside.org/?p=540045</id>
+        <link href="https://www.berkeleyside.org/2025/07/07/uc-berkeley-can-now-pay-athletes-directly"/>
+        <updated>2025-07-07T21:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Men's basketball players at Cal could make an average of $200,000 a year, football players $100,000 and women's basketball players $60,000.]]></summary>
+        <author>
+            <name>Adam Echelman | CalMatters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Sphere-Packing Record Stems From an Unexpected Source]]></title>
         <id>https://www.quantamagazine.org/?p=152090</id>
@@ -18,12 +28,111 @@ The post New Sphere-Packing Record Stems From an Unexpected Source first appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bombay Spice Shop owners open jewelry and wedding supply store]]></title>
+        <id>https://www.berkeleyside.org/?p=539830</id>
+        <link href="https://www.berkeleyside.org/2025/07/07/bombay-spice-shop-owners-open-jewelry-and-wedding-supply-store"/>
+        <updated>2025-07-07T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Lishq, offering Indian jewelry with a “modern twist,” is in the same building as Shelly and Deepak Ajmani’s spice shop — in the spot where a different jewelry store closed last year after an armed robbery.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Bobby Moore, abstract artist, storyteller, longtime cab driver]]></title>
+        <id>https://www.berkeleyside.org/?p=539781</id>
+        <link href="https://www.berkeleyside.org/2025/07/07/bobby-moore-obituary"/>
+        <updated>2025-07-07T12:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A cab driver in San Francisco for over half a century, he was known for his stories, his laughter, and his encyclopedic knowledge of the city.]]></summary>
+        <author>
+            <name>Family of Bobby Moore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bears Will Be Boys]]></title>
+        <id>https://pudding.cool/2025/07/kids-books</id>
+        <link href="https://pudding.cool/2025/07/kids-books"/>
+        <updated>2025-07-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How and why do we gender animals in stories?]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geology Murder]]></title>
+        <id>https://xkcd.com/3112/</id>
+        <link href="https://xkcd.com/3112/"/>
+        <updated>2025-07-07T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Dan Siegel, who told the crowd to take People’s Park on Bloody Thursday]]></title>
+        <id>https://www.berkeleyside.org/?p=539992</id>
+        <link href="https://www.berkeleyside.org/2025/07/04/dan-siegel-obituary"/>
+        <updated>2025-07-04T21:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Siegel later served as president of Oakland's school board and fought for workers, unions, and human rights advocates over five decades as a civil rights lawyer.]]></summary>
+        <author>
+            <name>Family of Dan Siegel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Artificial Gravity]]></title>
         <id>https://xkcd.com/3111/</id>
         <link href="https://xkcd.com/3111/"/>
         <updated>2025-07-04T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$400K for Berkeley schools in limbo after Trump’s grant freeze]]></title>
+        <id>https://www.berkeleyside.org/?p=539939</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/berkeley-unified-federal-grants-freeze-budget"/>
+        <updated>2025-07-04T00:47:45.000Z</updated>
+        <summary type="html"><![CDATA[The Trump administration froze $6.2 billion in federal education grants, including $811 million that was to fund teacher training, migrant education, and after-school programs in California.]]></summary>
+        <author>
+            <name>EdSource and Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘This is draconian’: Trump’s big bill expected to bring more hunger, sickness, homelessness to Berkeley]]></title>
+        <id>https://www.berkeleyside.org/?p=539941</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/one-big-beautiful-bill-local-impact-berkeley-alameda-county"/>
+        <updated>2025-07-03T23:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Local leaders warn the bill’s $1.2 trillion cuts to Medicaid and food stamps will hit hard in Alameda County, where one in three residents relies on Medi-Cal and one in 10 rely on food stamps.]]></summary>
+        <author>
+            <name>Karina Ioffee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley residents are on edge over unverified reports of ICE in the city]]></title>
+        <id>https://www.berkeleyside.org/?p=539919</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/ice-enforcement-unverified-reports-berkeley-san-pablo"/>
+        <updated>2025-07-03T19:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Officials urge caution in sharing unconfirmed sightings.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half Price Books will close its downtown Berkeley store after 20 years]]></title>
+        <id>https://www.berkeleyside.org/?p=539915</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/half-price-books-berkeley-closure"/>
+        <updated>2025-07-03T17:18:25.000Z</updated>
+        <summary type="html"><![CDATA[It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Berkeley gunfire map: Eight investigations halfway through year]]></title>
+        <id>https://www.berkeleyside.org/?p=531329</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/2025-berkeley-gunfire-map"/>
+        <updated>2025-07-03T16:00:54.000Z</updated>
+        <summary type="html"><![CDATA[BPD investigated three reports of gunfire in June alone. City and university police previously investigated five other instances of gunfire this year, one with injuries.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
         </author>
     </entry>
     <entry>
@@ -38,6 +147,26 @@ The post How Smell Guides Our Inner World first appeared on Quanta Magazine]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Around Berkeley: Shakespeare’s ‘Cymbeline’ in the park, matcha workshop, Blake Garden tour]]></title>
+        <id>https://www.berkeleyside.org/?p=539878</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/around-berkeley-things-to-do-july-3-to-july-10"/>
+        <updated>2025-07-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a Berkeley Latin Jazz Collective performance at North Beach Pizza and a new crochet club at Bobby G's Pizzeria.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Kathy Paxson, financial manager, crafter, creator of songs and games]]></title>
+        <id>https://www.berkeleyside.org/?p=539758</id>
+        <link href="https://www.berkeleyside.org/2025/07/03/kathy-paxson-obituary"/>
+        <updated>2025-07-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inquisitive and present, Rawson loved nature, pets and cooking and was active in the Berkeley Community Chorus and Orchestra and in Bella Musica.]]></summary>
+        <author>
+            <name>Family of Kathy Paxson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[To Save Nature, Make It Sacred]]></title>
         <id>https://www.noemamag.com/to-save-nature-make-it-sacred</id>
         <link href="https://www.noemamag.com/to-save-nature-make-it-sacred"/>
@@ -45,6 +174,16 @@ The post How Smell Guides Our Inner World first appeared on Quanta Magazine]]></
         <summary type="html"><![CDATA[The post To Save Nature, Make It Sacred appeared first on NOEMA.]]></summary>
         <author>
             <name>Dimitris Xygalatas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Wire: Cal builds new 7-story parking garage; city’s priciest home sale of 2025; watch out for coyotes]]></title>
+        <id>https://www.berkeleyside.org/?p=539881</id>
+        <link href="https://www.berkeleyside.org/2025/07/02/uc-berkeley-bancroft-way-parking-garage-coyote-advisory"/>
+        <updated>2025-07-03T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Abraham Chabon, an NYU student who grew up in Berkeley, has been charged with rape in Manhattan.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
         </author>
     </entry>
     <entry>

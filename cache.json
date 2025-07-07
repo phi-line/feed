@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/07/kids-books",
+          "author": null,
+          "description": "How and why do we gender animals in stories?",
+          "link": "https://pudding.cool/2025/07/kids-books",
+          "publishedOn": "2025-07-07T07:00:00.000Z",
+          "wordCount": 3403,
+          "title": "Bears Will Be Boys",
+          "imageUrl": "https://pudding.cool/2025/07/kids-books/assets/social.png"
+        },
+        {
           "id": "https://pudding.cool/2025/06/hello-stranger",
           "author": null,
           "description": "Watch hundreds of strangers talk for 30 minutes, and track how their moods change",
@@ -819,6 +829,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3112/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3112/",
+          "publishedOn": "2025-07-07T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Geology Murder",
+          "imageUrl": "https://imgs.xkcd.com/comics/geology_murder_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3111/",
           "author": null,
           "description": "",
@@ -1181,6 +1201,133 @@
           "wordCount": 4537,
           "title": "How Pope Leo XIV Can Address Distributive Justice In The Age Of AI",
           "imageUrl": "https://noemamag.imgix.net/2025/05/RerumNovarum_B.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4dd01a4e13024a76a15a23ad72e873b1"
+        }
+      ]
+    },
+    {
+      "title": "Berkeleyside",
+      "feedUrl": "https://www.berkeleyside.org/feed",
+      "siteUrl": "https://www.berkeleyside.org/",
+      "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540045",
+          "author": "Adam Echelman | CalMatters",
+          "description": "Men's basketball players at Cal could make an average of $200,000 a year, football players $100,000 and women's basketball players $60,000.",
+          "link": "https://www.berkeleyside.org/2025/07/07/uc-berkeley-can-now-pay-athletes-directly",
+          "publishedOn": "2025-07-07T21:45:24.000Z",
+          "wordCount": 8186,
+          "title": "UC Berkeley can now pay athletes directly",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP20343180644425.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539830",
+          "author": "Nathan Dalton",
+          "description": "Lishq, offering Indian jewelry with a “modern twist,” is in the same building as Shelly and Deepak Ajmani’s spice shop — in the spot where a different jewelry store closed last year after an armed robbery.",
+          "link": "https://www.berkeleyside.org/2025/07/07/bombay-spice-shop-owners-open-jewelry-and-wedding-supply-store",
+          "publishedOn": "2025-07-07T13:58:00.000Z",
+          "wordCount": 7073,
+          "title": "Bombay Spice Shop owners open jewelry and wedding supply store",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250701-213005.webp?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539781",
+          "author": "Family of Bobby Moore",
+          "description": "A cab driver in San Francisco for over half a century, he was known for his stories, his laughter, and his encyclopedic knowledge of the city.",
+          "link": "https://www.berkeleyside.org/2025/07/07/bobby-moore-obituary",
+          "publishedOn": "2025-07-07T12:27:00.000Z",
+          "wordCount": 7116,
+          "title": "Remembering Bobby Moore, abstract artist, storyteller, longtime cab driver",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/BobbyEurope.png?fit=608%2C436&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539992",
+          "author": "Family of Dan Siegel",
+          "description": "Siegel later served as president of Oakland's school board and fought for workers, unions, and human rights advocates over five decades as a civil rights lawyer.",
+          "link": "https://www.berkeleyside.org/2025/07/04/dan-siegel-obituary",
+          "publishedOn": "2025-07-04T21:15:14.000Z",
+          "wordCount": 7415,
+          "title": "Remembering Dan Siegel, who told the crowd to take People’s Park on Bloody Thursday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250704-204625.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539939",
+          "author": "EdSource and Vanessa Arredondo",
+          "description": "The Trump administration froze $6.2 billion in federal education grants, including $811 million that was to fund teacher training, migrant education, and after-school programs in California.",
+          "link": "https://www.berkeleyside.org/2025/07/03/berkeley-unified-federal-grants-freeze-budget",
+          "publishedOn": "2025-07-04T00:47:45.000Z",
+          "wordCount": 8058,
+          "title": "$400K for Berkeley schools in limbo after Trump’s grant freeze",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-BUSD_Middle-School_-Willard-Aug-15-22.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539941",
+          "author": "Karina Ioffee",
+          "description": "Local leaders warn the bill’s $1.2 trillion cuts to Medicaid and food stamps will hit hard in Alameda County, where one in three residents relies on Medi-Cal and one in 10 rely on food stamps.",
+          "link": "https://www.berkeleyside.org/2025/07/03/one-big-beautiful-bill-local-impact-berkeley-alameda-county",
+          "publishedOn": "2025-07-03T23:22:40.000Z",
+          "wordCount": 8309,
+          "title": "‘This is draconian’: Trump’s big bill expected to bring more hunger, sickness, homelessness to Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/large-BFN-ShoeySindel_SSP0068.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539919",
+          "author": "Vanessa Arredondo",
+          "description": "Officials urge caution in sharing unconfirmed sightings.",
+          "link": "https://www.berkeleyside.org/2025/07/03/ice-enforcement-unverified-reports-berkeley-san-pablo",
+          "publishedOn": "2025-07-03T19:28:58.000Z",
+          "wordCount": 7893,
+          "title": "Berkeley residents are on edge over unverified reports of ICE in the city",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/San-Pablo-Park-tot-lot.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539915",
+          "author": "Nathan Dalton",
+          "description": "It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.",
+          "link": "https://www.berkeleyside.org/2025/07/03/half-price-books-berkeley-closure",
+          "publishedOn": "2025-07-03T17:18:25.000Z",
+          "wordCount": 7241,
+          "title": "Half Price Books will close its downtown Berkeley store after 20 years",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250703-171141.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=531329",
+          "author": "Berkeleyside Staff",
+          "description": "BPD investigated three reports of gunfire in June alone. City and university police previously investigated five other instances of gunfire this year, one with injuries.",
+          "link": "https://www.berkeleyside.org/2025/07/03/2025-berkeley-gunfire-map",
+          "publishedOn": "2025-07-03T16:00:54.000Z",
+          "wordCount": 7208,
+          "title": "2025 Berkeley gunfire map: Eight investigations halfway through year",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Image-7-3-25-at-8.54 AM.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539878",
+          "author": "Iris Kwok and Andrew Gilbert",
+          "description": "Other events include a Berkeley Latin Jazz Collective performance at North Beach Pizza and a new crochet club at Bobby G's Pizzeria.",
+          "link": "https://www.berkeleyside.org/2025/07/03/around-berkeley-things-to-do-july-3-to-july-10",
+          "publishedOn": "2025-07-03T13:00:00.000Z",
+          "wordCount": 8634,
+          "title": "Around Berkeley: Shakespeare’s ‘Cymbeline’ in the park, matcha workshop, Blake Garden tour",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/blakegardeniris.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539758",
+          "author": "Family of Kathy Paxson",
+          "description": "Inquisitive and present, Rawson loved nature, pets and cooking and was active in the Berkeley Community Chorus and Orchestra and in Bella Musica.",
+          "link": "https://www.berkeleyside.org/2025/07/03/kathy-paxson-obituary",
+          "publishedOn": "2025-07-03T12:00:00.000Z",
+          "wordCount": 7464,
+          "title": "Remembering Kathy Paxson, financial manager, crafter, creator of songs and games",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/Paxson.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=539881",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Abraham Chabon, an NYU student who grew up in Berkeley, has been charged with rape in Manhattan.",
+          "link": "https://www.berkeleyside.org/2025/07/02/uc-berkeley-bancroft-way-parking-garage-coyote-advisory",
+          "publishedOn": "2025-07-03T00:15:00.000Z",
+          "wordCount": 6887,
+          "title": "Berkeley Wire: Cal builds new 7-story parking garage; city’s priciest home sale of 2025; watch out for coyotes",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250702-194002.webp?fit=768%2C512&ssl=1"
         }
       ]
     }
