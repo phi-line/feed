@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-07T00:21:29.410Z</updated>
+    <updated>2025-07-07T06:07:07.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -1011,16 +1011,6 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[While we know how to break organisms down to their constituent parts, even at the atomic level, building them from scratch remains difficult.]]></summary>
         <author>
             <name>Niko McCarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Prions and Protein Design]]></title>
-        <id>https://www.asimov.press/p/prions</id>
-        <link href="https://www.asimov.press/p/prions"/>
-        <updated>2025-04-08T15:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Prions are extremely resilient, infectious proteins. Studying their shape-shifting abilities could reveal lessons for how proteins fold at a molecular level, helping scientists design better ones.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
 </feed>
