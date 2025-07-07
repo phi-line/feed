@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-07T12:07:38.181Z</updated>
+    <updated>2025-07-07T18:05:53.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Sphere-Packing Record Stems From an Unexpected Source]]></title>
+        <id>https://www.quantamagazine.org/?p=152090</id>
+        <link href="https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/"/>
+        <updated>2025-07-07T14:22:47.000Z</updated>
+        <summary type="html"><![CDATA[After just a few months of work, a complete newcomer to the world of sphere packing has solved one of its biggest open problems.            
+The post New Sphere-Packing Record Stems From an Unexpected Source first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joseph Howlett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artificial Gravity]]></title>
         <id>https://xkcd.com/3111/</id>
@@ -830,6 +841,16 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
         <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impossible Calculator]]></title>
+        <id>https://asteriskmag.com/issues/10/the-impossible-calculator</id>
+        <link href="https://asteriskmag.com/issues/10/the-impossible-calculator"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Android’s calculator is (probably) the most widely used calculator in the world. It’s also the most advanced.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
