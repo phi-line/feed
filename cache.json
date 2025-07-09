@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152171",
+          "author": "Erica Klarreich",
+          "description": "An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             \nThe post Computer Scientists Figure Out How To Prove Lies first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
+          "publishedOn": "2025-07-09T14:22:18.000Z",
+          "wordCount": 3858,
+          "title": "Computer Scientists Figure Out How To Prove Lies",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BreakingCryptoProtocols-crWei-AnJin-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152090",
           "author": "Joseph Howlett",
           "description": "After just a few months of work, a complete newcomer to the world of sphere packing has solved one of its biggest open problems.            \nThe post New Sphere-Packing Record Stems From an Unexpected Source first appeared on Quanta Magazine",
@@ -1203,6 +1213,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540099",
+          "author": "Karina Ioffee",
+          "description": "Stark racial and geographic disparities in mental health, toxic exposures and life expectancy are among the findings of a new $270,000 report on the city’s overall health and well-being.",
+          "link": "https://www.berkeleyside.org/2025/07/09/community-health-assessment-report-berkeley",
+          "publishedOn": "2025-07-09T13:00:00.000Z",
+          "wordCount": 7610,
+          "title": "Who gets to live well in Berkeley?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250708-223822.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540082",
           "author": "Tovin Lapan",

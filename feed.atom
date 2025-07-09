@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-09T12:07:57.112Z</updated>
+    <updated>2025-07-09T18:06:00.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Computer Scientists Figure Out How To Prove Lies]]></title>
+        <id>https://www.quantamagazine.org/?p=152171</id>
+        <link href="https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"/>
+        <updated>2025-07-09T14:22:18.000Z</updated>
+        <summary type="html"><![CDATA[An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             
+The post Computer Scientists Figure Out How To Prove Lies first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Erica Klarreich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who gets to live well in Berkeley?]]></title>
+        <id>https://www.berkeleyside.org/?p=540099</id>
+        <link href="https://www.berkeleyside.org/2025/07/09/community-health-assessment-report-berkeley"/>
+        <updated>2025-07-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stark racial and geographic disparities in mental health, toxic exposures and life expectancy are among the findings of a new $270,000 report on the city’s overall health and well-being.]]></summary>
+        <author>
+            <name>Karina Ioffee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In Berkeley, a market opens a restaurant, and a restaurant opens a market]]></title>
         <id>https://www.berkeleyside.org/?p=540082</id>
