@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-08T18:06:21.224Z</updated>
+    <updated>2025-07-09T00:20:12.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In Berkeley, a market opens a restaurant, and a restaurant opens a market]]></title>
+        <id>https://www.berkeleyside.org/?p=540082</id>
+        <link href="https://www.berkeleyside.org/2025/07/08/mercatino-pizzeria-laura-middle-east-cafe-opening"/>
+        <updated>2025-07-08T19:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Pizzeria da Laura and Middle East Market have both expanded into neighboring spaces to offer something different to customers.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Westbound I-80 exit at University Ave. to close overnight Thursday in Berkeley]]></title>
+        <id>https://www.berkeleyside.org/?p=540084</id>
+        <link href="https://www.berkeleyside.org/2025/07/08/i80-off-ramp-university-closure"/>
+        <updated>2025-07-08T19:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Ramp and lane closures will last from 9 p.m. Thursday until 6 a.m. Friday. Caltrans recommended using the Gilman Street or Ashby Avenue exits.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead man found Sunday near Berkeley waterfront]]></title>
+        <id>https://www.berkeleyside.org/?p=540078</id>
+        <link href="https://www.berkeleyside.org/2025/07/08/body-found-gilman-fields-july-6"/>
+        <updated>2025-07-08T18:19:29.000Z</updated>
+        <summary type="html"><![CDATA[A spokesperson for the East Bay Regional Park District said that there was no foul play suspected. The man was in his 20s.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Science Hasn’t Solved Consciousness (Yet)]]></title>
         <id>https://www.noemamag.com/why-science-hasnt-solved-consciousness-yet</id>
