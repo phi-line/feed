@@ -823,6 +823,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3113/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3113/",
+          "publishedOn": "2025-07-09T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "Fix This Sign",
+          "imageUrl": "https://imgs.xkcd.com/comics/fix_this_sign_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3112/",
           "author": null,
           "description": "",
@@ -1213,6 +1223,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540165",
+          "author": "Karina Ioffee",
+          "description": "Plans for an 18-story apartment and 24,000 square feet of live performance space have been scrapped.",
+          "link": "https://www.berkeleyside.org/2025/07/09/california-theatre-project-downtown-berkeley-developer-pulls-out",
+          "publishedOn": "2025-07-09T22:19:17.000Z",
+          "wordCount": 7415,
+          "title": "Developer pulls plug on California Theatre project in downtown Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/06/2674E205-639A-4440-8203-922C4CC73B33.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540170",
+          "author": "Alex N. Gecan",
+          "description": "The identity of the man and details on the crash itself were not immediately available. Police said he \"died shortly after the collision.\"",
+          "link": "https://www.berkeleyside.org/2025/07/09/claremont-ave-pedestrian-fatality",
+          "publishedOn": "2025-07-09T21:48:12.000Z",
+          "wordCount": 6975,
+          "title": "Berkeley pedestrian struck, killed at Claremont and The Uplands",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/9B68C832-A023-4F8F-A845-2ED5E3C6E76F.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540157",
+          "author": "Skylla Mumana",
+          "description": "What started as an online debate is now a nationwide festival — and Oakland is hosting the next stop in this culinary showdown.",
+          "link": "https://www.berkeleyside.org/2025/07/09/jollof-rice-festival-oakland",
+          "publishedOn": "2025-07-09T20:57:53.000Z",
+          "wordCount": 7370,
+          "title": "Which country’s jollof rice is best? Cast your vote at this Oakland event",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/IMG-20240722-WA0008.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540140",
+          "author": "Alex N. Gecan, Zac Farber and Sara Martin",
+          "description": "Most people had already left Ohlone Park, with some moving to the encampment at Eighth and Harrison. A short-lived camp on Allston Way was cleared on the Fourth of July.",
+          "link": "https://www.berkeleyside.org/2025/07/09/ohlone-park-encampment-sweep",
+          "publishedOn": "2025-07-09T20:45:18.000Z",
+          "wordCount": 8340,
+          "title": "Berkeley sweeps Ohlone Park homeless encampment",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-9.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540181",
+          "author": "Amy DiPierro and Michael Burke | EdSource",
+          "description": "The law sunsets a loan program for graduate students and makes short-term workforce training eligible for Pell Grants.",
+          "link": "https://www.berkeleyside.org/2025/07/09/trumps-law-reshapes-federal-loans-and-pell-grants-impacting-college-students",
+          "publishedOn": "2025-07-09T13:20:00.000Z",
+          "wordCount": 7902,
+          "title": "Trump’s law reshapes federal loans and Pell Grants, impacting college students",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250709-222207.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540099",
           "author": "Karina Ioffee",
