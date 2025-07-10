@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-10T12:07:42.688Z</updated>
+    <updated>2025-07-10T18:06:02.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Issue 07 is Coming on Monday]]></title>
+        <id>https://www.asimov.press/p/issue-07</id>
+        <link href="https://www.asimov.press/p/issue-07"/>
+        <updated>2025-07-10T15:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Featuring articles on aspirin’s murky origins, scaling proteomics, and the history of fermentation.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Regional Models Advance Climate Science?]]></title>
+        <id>https://www.quantamagazine.org/?p=152208</id>
+        <link href="https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/"/>
+        <updated>2025-07-10T13:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            
+The post How Can Regional Models Advance Climate Science? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Funk Fest, Pocket Opera, Disability Pride]]></title>
+        <id>https://www.berkeleyside.org/?p=540204</id>
+        <link href="https://www.berkeleyside.org/2025/07/10/around-berkeley-things-to-do-berkeley-july-10-to-july-17"/>
+        <updated>2025-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a guided North Berkeley walking tour and a creative workshop led by sculptor Kirk McCarthy.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Of Health On A Damaged Planet]]></title>
+        <id>https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth</id>
+        <link href="https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth"/>
+        <updated>2025-07-10T12:48:41.000Z</updated>
+        <summary type="html"><![CDATA[The post The Future Of Health On A Damaged Planet appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Nils Gilman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developer pulls plug on California Theatre project in downtown Berkeley]]></title>
         <id>https://www.berkeleyside.org/?p=540165</id>
@@ -354,6 +395,16 @@ The post Physicists Start To Pin Down How Stars Forge Heavy Atoms first appeared
         <summary type="html"><![CDATA[The post The Ascendance Of Algorithmic Tyranny appeared first on NOEMA.]]></summary>
         <author>
             <name>Petter Törnberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consciousness Catching Its Own Tail]]></title>
+        <id>https://asteriskmag.com/issues/10/consciousness-catching</id>
+        <link href="https://asteriskmag.com/issues/10/consciousness-catching"/>
+        <updated>2025-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A conversation about predictive processing, insight, and existential threats — to the self and to society.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>

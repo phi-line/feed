@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152208",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            \nThe post How Can Regional Models Advance Climate Science? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/",
+          "publishedOn": "2025-07-10T13:39:49.000Z",
+          "wordCount": 8770,
+          "title": "How Can Regional Models Advance Climate Science?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/JOW-S4-Ep9-ELFATIH-ELTAHIR-Social-LOGO-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152171",
           "author": "Erica Klarreich",
           "description": "An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             \nThe post Computer Scientists Figure Out How To Prove Lies first appeared on Quanta Magazine",
@@ -370,6 +380,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/10/consciousness-catching",
+          "author": null,
+          "description": "A conversation about predictive processing, insight, and existential threats — to the self and to society.",
+          "link": "https://asteriskmag.com/issues/10/consciousness-catching",
+          "publishedOn": "2025-07-01T00:00:00.000Z",
+          "wordCount": 7921,
+          "title": "Consciousness Catching Its Own Tail",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/10/how-to-triage-billion-in-aid-cuts",
           "author": null,
           "description": "Inside PRO's rapid effort to connect private donors with the most cost-effective programs affected by USAID cuts.",
@@ -506,6 +526,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/issue-07",
+          "author": "Asimov Press",
+          "description": "Featuring articles on aspirin’s murky origins, scaling proteomics, and the history of fermentation.",
+          "link": "https://www.asimov.press/p/issue-07",
+          "publishedOn": "2025-07-10T15:47:52.000Z",
+          "wordCount": null,
+          "title": "Issue 07 is Coming on Monday",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!CFXH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5edb3-5ea3-4e4a-a5a8-203c003e1446_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!CFXH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5edb3-5ea3-4e4a-a5a8-203c003e1446_2000x1260.png"
+        },
         {
           "id": "https://www.asimov.press/p/food-futurism",
           "author": "Asimov Press",
@@ -1097,6 +1133,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth",
+          "author": "Nils Gilman",
+          "description": "The post The Future Of Health On A Damaged Planet appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth",
+          "publishedOn": "2025-07-10T12:48:41.000Z",
+          "wordCount": 7525,
+          "title": "The Future Of Health On A Damaged Planet",
+          "imageUrl": "https://noemamag.imgix.net/2025/07/25-07-09-NOEMA_Planetary-Health_Illo_947x1186_300dpi.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C217%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=df43ff4268ffcd7b8f1662d4f791cd04"
+        },
+        {
           "id": "https://www.noemamag.com/why-science-hasnt-solved-consciousness-yet",
           "author": "Adam Frank",
           "description": "The post Why Science Hasn’t Solved Consciousness (Yet) appeared first on NOEMA.",
@@ -1223,6 +1269,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540204",
+          "author": "Iris Kwok and Andrew Gilbert",
+          "description": "Other events include a guided North Berkeley walking tour and a creative workshop led by sculptor Kirk McCarthy.",
+          "link": "https://www.berkeleyside.org/2025/07/10/around-berkeley-things-to-do-berkeley-july-10-to-july-17",
+          "publishedOn": "2025-07-10T13:00:00.000Z",
+          "wordCount": 8373,
+          "title": "Around Berkeley: Funk Fest, Pocket Opera, Disability Pride",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-CIL-2_3.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540165",
           "author": "Karina Ioffee",
