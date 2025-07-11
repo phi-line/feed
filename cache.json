@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152150",
+          "author": "Jenna Ahart",
+          "description": "Tony Tyson’s cameras revealed the universe’s dark contents. Now, with the Rubin Observatory’s 3.2-billion-pixel camera, he’s ready to study dark matter and dark energy in unprecedented detail.            \nThe post The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/",
+          "publishedOn": "2025-07-11T14:06:46.000Z",
+          "wordCount": 3094,
+          "title": "The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2029/07/TonyTyson-cr.RachelBujalski-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152208",
           "author": "Janna Levin and Steven Strogatz",
           "description": "Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            \nThe post How Can Regional Models Advance Climate Science? first appeared on Quanta Magazine",
@@ -859,6 +869,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3114/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3114/",
+          "publishedOn": "2025-07-11T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "Building a Fire",
+          "imageUrl": "https://imgs.xkcd.com/comics/building_a_fire_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3113/",
           "author": null,
           "description": "",
@@ -1133,6 +1153,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/civilizational-nationalism",
+          "author": "Nathan Gardels",
+          "description": "The post ‘Civilizational Nationalism’ appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/civilizational-nationalism",
+          "publishedOn": "2025-07-11T16:11:53.000Z",
+          "wordCount": 4713,
+          "title": "‘Civilizational Nationalism’",
+          "imageUrl": "https://noemamag.imgix.net/2025/07/zeburoundupfinal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4dc5182bd41d18f601194685a7cb34dc"
+        },
+        {
           "id": "https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth",
           "author": "Nils Gilman",
           "description": "The post The Future Of Health On A Damaged Planet appeared first on NOEMA.",
@@ -1269,6 +1299,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540260",
+          "author": "Zac Farber",
+          "description": "About 50 PG&E customers lost power. PG&E projected power would be restored in the Berkeley Hills neighborhood by 12:30 p.m.",
+          "link": "https://www.berkeleyside.org/2025/07/11/fallen-eucalyptus-limb-blocks-traffic-downs-power-lines-on-grizzly-peak-boulevard",
+          "publishedOn": "2025-07-11T16:30:11.000Z",
+          "wordCount": 6790,
+          "title": "Fallen Eucalyptus limb blocks traffic, downs power lines on Grizzly Peak Boulevard",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-12-scaled.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540246",
+          "author": "Sara Martin",
+          "description": "Ava Community Energy launched a $10 million electric bike rebate program this week. Lotto winners can get up to $900 toward an e-bike — up to $1,500 for low-income residents.",
+          "link": "https://www.berkeleyside.org/2025/07/11/ebike-rebate-ava-community-energy",
+          "publishedOn": "2025-07-11T15:59:00.000Z",
+          "wordCount": 7302,
+          "title": "All in Alameda County can enter lottery to get a heavily subsidized e-bike",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-NOV-17_E-Bikes-.jpg?resize=1568%2C1120&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540189",
           "author": "Berkeleyside Staff",
