@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-13T00:22:36.783Z</updated>
+    <updated>2025-07-13T06:05:57.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -1462,16 +1462,6 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic of Fast Feedback Loops]]></title>
-        <id>https://www.asimov.press/p/fast-feedback</id>
-        <link href="https://www.asimov.press/p/fast-feedback"/>
-        <updated>2025-04-14T14:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Why biologists should operate with a sense of urgency.]]></summary>
-        <author>
-            <name>Stephen Malina</name>
         </author>
     </entry>
 </feed>
