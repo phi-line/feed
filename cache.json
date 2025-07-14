@@ -54,16 +54,6 @@
           "wordCount": 1885,
           "title": "Are you more likely to die on your birthday?",
           "imageUrl": "https://pudding.cool/2025/04/birthday-effect/assets/social.png"
-        },
-        {
-          "id": "https://pudding.cool/2025/04/wine-animals",
-          "author": null,
-          "description": "We try to predict the price and quality of a bottle of wine based on the animal on the label.",
-          "link": "https://pudding.cool/2025/04/wine-animals",
-          "publishedOn": "2025-04-16T04:00:00.000Z",
-          "wordCount": 7017,
-          "title": "The Pour-igin of Species",
-          "imageUrl": "https://pudding.cool/2025/04/wine-animals/assets/images/social2.jpg"
         }
       ]
     },
@@ -72,6 +62,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=152266",
+          "author": "Dan Samorodnitsky",
+          "description": "How does a cell know when it’s been damaged? A molecular alarm, set off by mutated RNA and colliding ribosomes, signals danger.            \nThe post RNA Is the Cell’s Emergency Alert System first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/rna-is-the-cells-emergency-alert-system-20250714/",
+          "publishedOn": "2025-07-14T14:27:26.000Z",
+          "wordCount": 2966,
+          "title": "RNA Is the Cell’s Emergency Alert System",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/RNADamage-crWei-AnJin-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=152150",
           "author": "Jenna Ahart",
@@ -537,6 +537,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/aspirin",
+          "author": "Asimov Press",
+          "description": "The history of humanity’s pharmacopeia is often muddied by folklore. What can the origins of aspirin teach us about separating fact from fiction?",
+          "link": "https://www.asimov.press/p/aspirin",
+          "publishedOn": "2025-07-14T15:50:06.000Z",
+          "wordCount": null,
+          "title": "The Uncertain Origins of Aspirin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!QYNY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c541662-3716-4bc5-a75e-b30d1a5bfe33_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!QYNY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c541662-3716-4bc5-a75e-b30d1a5bfe33_2000x1260.png"
+        },
+        {
           "id": "https://www.asimov.press/p/issue-07",
           "author": "Asimov Press",
           "description": "Featuring articles on aspirin’s murky origins, scaling proteomics, and the history of fermentation.",
@@ -818,6 +834,16 @@
         {
           "id": "https://magazine.atavist.com/?p=48274",
           "author": "David Howard",
+          "description": "A former FBI agent traveled to Louisiana to ask a hired killer about a murder that haunted him. Then Larry Thompson started talking about a different case altogether.\nThe post Conversations with a Hit Man appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case",
+          "publishedOn": "2025-06-25T18:30:43.000Z",
+          "wordCount": 18805,
+          "title": "Conversations with a Hit Man",
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/06/Confessions_Lead1_crop.jpg"
+        },
+        {
+          "id": "https://magazine.atavist.com/?p=48274",
+          "author": "David Howard",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: Conversations with a Hit Man appeared first on The Atavist Magazine.",
           "link": "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/",
           "publishedOn": "2025-06-25T18:30:43.000Z",
@@ -828,12 +854,37 @@
         {
           "id": "https://magazine.atavist.com/?p=47876",
           "author": "Ed Johnson",
+          "description": "Lena Rowat skied 1,600 grueling miles across the Coast Range to quiet her demons. But she didn't begin to silence them until tragedy struck.\nThe post The Longest Journey appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan",
+          "publishedOn": "2025-05-23T13:51:09.000Z",
+          "wordCount": 10347,
+          "title": "The Longest Journey",
+          "enclosure": {
+            "url": "https://magazine.atavist.com/wp-content/uploads/2025/05/AT-20250530-She_Completed_an_Audacious-PUB.mp3",
+            "length": "65142720",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/05/1.Lena-Rowat-final-scaled.jpg"
+        },
+        {
+          "id": "https://magazine.atavist.com/?p=47876",
+          "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Longest Journey appeared first on The Atavist Magazine.",
           "link": "https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/",
           "publishedOn": "2025-05-23T13:51:09.000Z",
           "wordCount": 1518,
           "title": "Protected: The Longest Journey",
           "imageUrl": null
+        },
+        {
+          "id": "https://magazine.atavist.com/?p=47453",
+          "author": "Ed Johnson",
+          "description": "His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?\nThe post All That Glitters appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather",
+          "publishedOn": "2025-04-23T18:54:42.000Z",
+          "wordCount": 16056,
+          "title": "All That Glitters",
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/04/Atavist_1.jpg"
         },
         {
           "id": "https://magazine.atavist.com/?p=47453",
@@ -1283,6 +1334,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540049",
+          "author": "Frances Dinkelspiel",
+          "description": "Rich Lyons is preparing to testify before a U.S. House committee investigating on-campus “antisemitism upheaval and hatred” in a hearing with huge stakes both for Cal and the wider UC system.",
+          "link": "https://www.berkeleyside.org/2025/07/14/uc-berkeley-chancellor-is-prepping-for-capitol-hill-grilling",
+          "publishedOn": "2025-07-14T15:48:22.000Z",
+          "wordCount": 9953,
+          "title": "UC Berkeley chancellor to be grilled Tuesday in Capitol Hill antisemitism hearing",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250707-214837.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540170",
           "author": "Alex N. Gecan",

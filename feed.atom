@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-14T12:07:48.235Z</updated>
+    <updated>2025-07-14T18:06:13.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Uncertain Origins of Aspirin]]></title>
+        <id>https://www.asimov.press/p/aspirin</id>
+        <link href="https://www.asimov.press/p/aspirin"/>
+        <updated>2025-07-14T15:50:06.000Z</updated>
+        <summary type="html"><![CDATA[The history of humanity’s pharmacopeia is often muddied by folklore. What can the origins of aspirin teach us about separating fact from fiction?]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UC Berkeley chancellor to be grilled Tuesday in Capitol Hill antisemitism hearing]]></title>
+        <id>https://www.berkeleyside.org/?p=540049</id>
+        <link href="https://www.berkeleyside.org/2025/07/14/uc-berkeley-chancellor-is-prepping-for-capitol-hill-grilling"/>
+        <updated>2025-07-14T15:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Rich Lyons is preparing to testify before a U.S. House committee investigating on-campus “antisemitism upheaval and hatred” in a hearing with huge stakes both for Cal and the wider UC system.]]></summary>
+        <author>
+            <name>Frances Dinkelspiel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA Is the Cell’s Emergency Alert System]]></title>
+        <id>https://www.quantamagazine.org/?p=152266</id>
+        <link href="https://www.quantamagazine.org/rna-is-the-cells-emergency-alert-system-20250714/"/>
+        <updated>2025-07-14T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[How does a cell know when it’s been damaged? A molecular alarm, set off by mutated RNA and colliding ribosomes, signals danger.            
+The post RNA Is the Cell’s Emergency Alert System first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Dan Samorodnitsky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update: Berkeley pedestrian, 67, struck, killed at Claremont and The Uplands]]></title>
         <id>https://www.berkeleyside.org/?p=540170</id>
@@ -589,6 +620,17 @@ The post How Does Graph Theory Shape Our World? first appeared on Quanta Magazin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Conversations with a Hit Man]]></title>
+        <id>https://magazine.atavist.com/?p=48274</id>
+        <link href="https://magazine.atavist.com/2025/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case"/>
+        <updated>2025-06-25T18:30:43.000Z</updated>
+        <summary type="html"><![CDATA[A former FBI agent traveled to Louisiana to ask a hired killer about a murder that haunted him. Then Larry Thompson started talking about a different case altogether.
+The post Conversations with a Hit Man appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>David Howard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Protected: Conversations with a Hit Man]]></title>
         <id>https://magazine.atavist.com/?p=48274</id>
         <link href="https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/"/>
@@ -1082,6 +1124,17 @@ The post Singularities in Space-Time Prove Hard to Kill first appeared on Quanta
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Longest Journey]]></title>
+        <id>https://magazine.atavist.com/?p=47876</id>
+        <link href="https://magazine.atavist.com/2025/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan"/>
+        <updated>2025-05-23T13:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Lena Rowat skied 1,600 grueling miles across the Coast Range to quiet her demons. But she didn't begin to silence them until tragedy struck.
+The post The Longest Journey appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Protected: The Longest Journey]]></title>
         <id>https://magazine.atavist.com/?p=47876</id>
         <link href="https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/"/>
@@ -1416,6 +1469,17 @@ The post How the Universe Differs From Its Mirror Image first appeared on Quanta
     <entry>
         <title type="html"><![CDATA[All That Glitters]]></title>
         <id>https://magazine.atavist.com/?p=47453</id>
+        <link href="https://magazine.atavist.com/2025/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather"/>
+        <updated>2025-04-23T18:54:42.000Z</updated>
+        <summary type="html"><![CDATA[His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?
+The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All That Glitters]]></title>
+        <id>https://magazine.atavist.com/?p=47453</id>
         <link href="https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/"/>
         <updated>2025-04-23T18:54:42.000Z</updated>
         <summary type="html"><![CDATA[His alleged victims say he bribed New York Police Department officials, stole millions in diamonds, and persuaded Floyd Mayweather Jr. and Kim Kardashian to shill for a scam cryptocurrency. So why is Jona Rechnitz still free?
@@ -1452,16 +1516,6 @@ The post All That Glitters appeared first on The Atavist Magazine.]]></summary>
         <summary type="html"><![CDATA[Some researchers claim that a Chilean vine can mimic the leaves of a plastic houseplant thanks to a form of primitive vision. But extraordinary claims require equally extraordinary evidence.]]></summary>
         <author>
             <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pour-igin of Species]]></title>
-        <id>https://pudding.cool/2025/04/wine-animals</id>
-        <link href="https://pudding.cool/2025/04/wine-animals"/>
-        <updated>2025-04-16T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We try to predict the price and quality of a bottle of wine based on the animal on the label.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>
