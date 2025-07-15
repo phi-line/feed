@@ -904,6 +904,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3115/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3115/",
+          "publishedOn": "2025-07-14T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "Unsolved Physics Problems",
+          "imageUrl": "https://imgs.xkcd.com/comics/unsolved_physics_problems_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3114/",
           "author": null,
           "description": "",
