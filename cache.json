@@ -1359,6 +1359,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=540359",
+          "author": "Family of Robert Spear",
+          "description": "His work toward controlling the parasitic disease schistosomiasis won him awards from the Chinese government. He was the first director of Cal's Center for Occupational and Environmental Health.",
+          "link": "https://www.berkeleyside.org/2025/07/16/obituary-robert-spear-schistosomiasis",
+          "publishedOn": "2025-07-16T18:34:35.000Z",
+          "wordCount": 7740,
+          "title": "Remembering Robert Spear, Cal professor who spent decades combating flatworm disease in China",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Robert-Spear.png"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=540447",
           "author": "Alex N. Gecan",
           "description": "The four-lane street is already scheduled for repaving in 2027. The  city will study how it can be safer for pedestrians and cyclists in the short and long term.",
@@ -1789,6 +1799,12 @@
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250702-194002.webp?fit=768%2C512&ssl=1"
         }
       ]
+    },
+    {
+      "title": "Comments on:",
+      "feedUrl": "https://tympanus.net/codrops/demos/feed",
+      "siteUrl": "https://tympanus.net/codrops",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
