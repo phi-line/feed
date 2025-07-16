@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152306",
+          "author": "Steve Nadis",
+          "description": "A team of mathematicians based in Vienna is developing tools to extend the scope of general relativity.            \nThe post A New Geometry for Einstein’s Theory of Relativity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+          "publishedOn": "2025-07-16T14:38:21.000Z",
+          "wordCount": 4116,
+          "title": "A New Geometry for Einstein’s Theory of Relativity",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/NewGRGeometry-crHarolBustos-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152266",
           "author": "Dan Samorodnitsky",
           "description": "How does a cell know when it’s been damaged? A molecular alarm, set off by mutated RNA and colliding ribosomes, signals danger.            \nThe post RNA Is the Cell’s Emergency Alert System first appeared on Quanta Magazine",
@@ -1348,6 +1358,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540447",
+          "author": "Alex N. Gecan",
+          "description": "The four-lane street is already scheduled for repaving in 2027. The  city will study how it can be safer for pedestrians and cyclists in the short and long term.",
+          "link": "https://www.berkeleyside.org/2025/07/16/berkeley-pedestrian-killed-claremont-avenue-redesign",
+          "publishedOn": "2025-07-16T14:00:00.000Z",
+          "wordCount": 7649,
+          "title": "After a pedestrian was killed, Berkeley eyes safety upgrades for Claremont Avenue",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Claremont-car-accident.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540453",
+          "author": "Myron Caringal",
+          "description": "Ron Oppenheimer, who first learned circus arts at a Berkeley camp, is one of the pop star’s aerialists in her globe-spanning tour, coming Friday to San Francisco.",
+          "link": "https://www.berkeleyside.org/2025/07/16/katy-perry-lifetimes-tour-aerialist-ron-oppenheimer",
+          "publishedOn": "2025-07-16T12:57:00.000Z",
+          "wordCount": 7401,
+          "title": "Berkeley acrobat is living his ‘teenage dream’ on tour with Katy Perry",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Oppenheimer-ft.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540408",
           "author": "Felicia Mello",
