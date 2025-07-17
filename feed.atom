@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-17T18:06:17.106Z</updated>
+    <updated>2025-07-17T23:24:05.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Emeryville’s Baby Cafe and Walnut Creek’s SanDai shutter in June]]></title>
+        <id>https://www.berkeleyside.org/?p=540587</id>
+        <link href="https://www.berkeleyside.org/2025/07/17/rendez-vous-rotten-city-sandai-restaurants-closed"/>
+        <updated>2025-07-17T19:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Rotten City Pizza and The Rendez Vous are also among the recent East Bay closures.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evacuating the Berkeley Hills during a wildfire could take over 4 hours, study says]]></title>
+        <id>https://www.berkeleyside.org/?p=540561</id>
+        <link href="https://www.berkeleyside.org/2025/07/17/berkeley-evacuation-time-study"/>
+        <updated>2025-07-17T19:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Evacuating for a tsunami could take over 2 hours. Neither are enough time for people to get out of danger zones in a worst-case scenario.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check out this sweet spot on San Pablo Avenue]]></title>
         <id>https://www.berkeleyside.org/?p=539893</id>
@@ -124,6 +144,16 @@ The post A New Geometry for Einstein’s Theory of Relativity first appeared on 
         <updated>2025-07-16T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contour Abyss]]></title>
+        <id>https://another.blue/sky/contour-abyss/</id>
+        <link href="https://another.blue/sky/contour-abyss/"/>
+        <updated>2025-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[shadow of the mind]]></summary>
+        <author>
+            <name>another.blue</name>
         </author>
     </entry>
     <entry>
