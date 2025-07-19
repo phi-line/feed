@@ -934,6 +934,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3117/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3117/",
+          "publishedOn": "2025-07-18T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Replication Crisis",
+          "imageUrl": "https://imgs.xkcd.com/comics/replication_crisis_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3116/",
           "author": null,
           "description": "",
@@ -1414,6 +1424,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=457994",
+          "author": "Roselyn Romero",
+          "description": "The Alameda County Sheriff’s Office told The Oaklandside it has not yet received a request from the DOJ regarding the immigration status of people in county detention.",
+          "link": "https://www.berkeleyside.org/2025/07/18/justice-department-alameda-county-oakland-immigration-jail",
+          "publishedOn": "2025-07-18T22:55:50.000Z",
+          "wordCount": 6871,
+          "title": "Feds pressure California sheriffs to hand over lists of noncitizens in custody",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP25196705175056-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540627",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/07/18/comeback-cafe-las-brasas-restaurant-closed",
+          "publishedOn": "2025-07-18T19:00:00.000Z",
+          "wordCount": 6579,
+          "title": "Comeback Cafe closes temporarily, Las Brasas goes dark",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/ComebackCafe.jpg?fit=1200%2C853&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540002",
           "author": "Local sponsor",
