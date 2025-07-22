@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-21T18:06:16.598Z</updated>
+    <updated>2025-07-22T00:21:09.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Joanna Macy, author, Buddhist teacher, environmental activist]]></title>
+        <id>https://www.berkeleyside.org/?p=540666</id>
+        <link href="https://www.berkeleyside.org/2025/07/21/joanna-macy-obituary"/>
+        <updated>2025-07-21T22:11:56.000Z</updated>
+        <summary type="html"><![CDATA[A prophetic voice in global movements for peace, justice, and ecology, Macy’s work addressed the psychological and spiritual issues of ecological awareness in the nuclear age.]]></summary>
+        <author>
+            <name>Family of Joanna Macy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda County says it cut ties with ICE. This program says otherwise.]]></title>
+        <id>https://oaklandside.org/?p=457962</id>
+        <link href="https://www.berkeleyside.org/2025/07/21/alameda-county-scaap"/>
+        <updated>2025-07-21T19:51:04.000Z</updated>
+        <summary type="html"><![CDATA[A widespread data-sharing program highlights financial ties between local police and immigration enforcement — and how even sanctuary jurisdictions still feed “the deportation machine.”]]></summary>
+        <author>
+            <name>Pascal Sabino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish of the Week: Carnitas tacos from Golden Gate Bistro]]></title>
+        <id>https://www.berkeleyside.org/?p=540699</id>
+        <link href="https://www.berkeleyside.org/2025/07/21/golden-gate-bistro-carnitas-tacos"/>
+        <updated>2025-07-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Golden Gate Bistro Restautrant offers an oasis of deliciousness in a neighborhood with few options.]]></summary>
+        <author>
+            <name>Kari Hulac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes a Mature Science]]></title>
         <id>https://www.asimov.press/p/mature-science</id>
