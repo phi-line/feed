@@ -1248,6 +1248,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai",
+          "author": "Júlia Keserű",
+          "description": "The post The Future Of Health Data In The Age Of AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai",
+          "publishedOn": "2025-07-22T13:23:39.000Z",
+          "wordCount": 8326,
+          "title": "The Future Of Health Data In The Age Of AI",
+          "imageUrl": "https://noemamag.imgix.net/2025/07/Noema_color_v1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=affaa7a572beebf421e376a497faf09e"
+        },
+        {
           "id": "https://www.noemamag.com/make-the-planet-healthy-again",
           "author": "Nathan Gardels",
           "description": "The post Make The Planet Healthy Again appeared first on NOEMA.",
@@ -1424,6 +1434,31 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540739",
+          "author": "Alex N. Gecan",
+          "description": "Ruiz is facing 17 felony charges from that incident and another misdemeanor case from a March 22 incident when he drew a stun gun on protesters at an anti-Elon Musk rally on Berkeley's Fourth Street.",
+          "link": "https://www.berkeleyside.org/2025/07/22/ricardo-gonzalez-ruis-competency-evaluation",
+          "publishedOn": "2025-07-22T17:11:51.000Z",
+          "wordCount": 7728,
+          "title": "Ricardo Ruiz, shot by Berkeley police in armed standoff, declared competent to stand trial",
+          "enclosure": {
+            "url": "https://videos.files.wordpress.com/A9Yi0Oi3/pra_25-16638_04.mp4",
+            "length": "3035284328",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Ricardo-Ruiz.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540731",
+          "author": "Nico Savidge",
+          "description": "A vendor failed to send out renewal notices for Berkeley’s resident parking permit program. The city is now offering refunds and has extended the renewal deadline.",
+          "link": "https://www.berkeleyside.org/2025/07/22/berkeley-parking-ticket-resident-permit-refund-rpp",
+          "publishedOn": "2025-07-22T14:00:00.000Z",
+          "wordCount": 7108,
+          "title": "Berkeley apologizes for screw-up that led to surprise parking tickets",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/11/elmwood.jpg?fit=4032%2C3024&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540666",
           "author": "Family of Joanna Macy",
@@ -2057,6 +2092,16 @@
       "feedUrl": "https://another.blue/feed",
       "siteUrl": "https://another.blue/",
       "articles": [
+        {
+          "id": "https://another.blue/sky/fishbowl-villa/",
+          "author": null,
+          "description": "",
+          "link": "https://another.blue/sky/fishbowl-villa/",
+          "publishedOn": "2025-07-17T00:00:00.000Z",
+          "wordCount": 501,
+          "title": "Fishbowl Villa",
+          "imageUrl": "https://another.blue/sky-placeholder-1.jpg"
+        },
         {
           "id": "https://another.blue/sky/contour-abyss/",
           "author": null,

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-22T12:07:48.389Z</updated>
+    <updated>2025-07-22T18:06:25.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ricardo Ruiz, shot by Berkeley police in armed standoff, declared competent to stand trial]]></title>
+        <id>https://www.berkeleyside.org/?p=540739</id>
+        <link href="https://www.berkeleyside.org/2025/07/22/ricardo-gonzalez-ruis-competency-evaluation"/>
+        <updated>2025-07-22T17:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Ruiz is facing 17 felony charges from that incident and another misdemeanor case from a March 22 incident when he drew a stun gun on protesters at an anti-Elon Musk rally on Berkeley's Fourth Street.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley apologizes for screw-up that led to surprise parking tickets]]></title>
+        <id>https://www.berkeleyside.org/?p=540731</id>
+        <link href="https://www.berkeleyside.org/2025/07/22/berkeley-parking-ticket-resident-permit-refund-rpp"/>
+        <updated>2025-07-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A vendor failed to send out renewal notices for Berkeley’s resident parking permit program. The city is now offering refunds and has extended the renewal deadline.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Of Health Data In The Age Of AI]]></title>
+        <id>https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai</id>
+        <link href="https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai"/>
+        <updated>2025-07-22T13:23:39.000Z</updated>
+        <summary type="html"><![CDATA[The post The Future Of Health Data In The Age Of AI appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Júlia Keserű</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remembering Joanna Macy, author, Buddhist teacher, environmental activist]]></title>
         <id>https://www.berkeleyside.org/?p=540666</id>
@@ -266,6 +296,15 @@ What I'm doing with Cybercultural seasons is a mix of those two approaches. I ha
         <summary type="html"><![CDATA[Other events include a one-woman show celebrating neurodivergence at The Marsh and a new glassblowing exhibit at ACCI.]]></summary>
         <author>
             <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fishbowl Villa]]></title>
+        <id>https://another.blue/sky/fishbowl-villa/</id>
+        <link href="https://another.blue/sky/fishbowl-villa/"/>
+        <updated>2025-07-17T00:00:00.000Z</updated>
+        <author>
+            <name>another.blue</name>
         </author>
     </entry>
     <entry>
