@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152469",
+          "author": "Jake Buehler",
+          "description": "In a hot spring at Yellowstone National Park, a microbe does something that life shouldn’t be able to do: It breathes oxygen and sulfur at the same time.            \nThe post The Cells That Breathe Two Ways first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/",
+          "publishedOn": "2025-07-23T14:11:27.000Z",
+          "wordCount": 2998,
+          "title": "The Cells That Breathe Two Ways",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BACTYERIL-BREATHING-GrandPrismatic-crEricBoyd-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152401",
           "author": "Anil Ananthaswamy",
           "description": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”            \nThe post AI Comes Up with Bizarre Physics Experiments. But They Work. first appeared on Quanta Magazine",
@@ -587,6 +597,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/cable-bacteria",
+          "author": "Niko McCarty",
+          "description": "How a discovery in a Danish lake changed our understanding of biological communities and energy.",
+          "link": "https://www.asimov.press/p/cable-bacteria",
+          "publishedOn": "2025-07-23T17:05:37.000Z",
+          "wordCount": null,
+          "title": "Cable Bacteria are Living Batteries",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wlyy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d398e6b-c24c-4f4b-b5df-cdc95d9519cc_4032x3024.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wlyy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d398e6b-c24c-4f4b-b5df-cdc95d9519cc_4032x3024.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/mature-science",
           "author": null,
           "description": "Mechanism alone cannot make a science credible. It must describe its subject matter in terms of entities, properties, and rules.",
@@ -865,6 +891,16 @@
       "feedUrl": "https://magazine.atavist.com/feed",
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
+        {
+          "id": "https://magazine.atavist.com/?p=48718",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Talented Mr. Bruseaux appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/the-talented-mr-sheridan-bruseaux-chicago-granady-assassination-thompson-capone",
+          "publishedOn": "2025-07-23T15:02:26.000Z",
+          "wordCount": 1489,
+          "title": "Protected: The Talented Mr. Bruseaux",
+          "imageUrl": null
+        },
         {
           "id": "https://magazine.atavist.com/?p=48274",
           "author": "David Howard",
@@ -1428,6 +1464,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540787",
+          "author": "Nisa Khan | KQED",
+          "description": "Amid tensions at Bay Area immigration courts, here's how to find someone detained by ICE and access immigration resources.",
+          "link": "https://www.berkeleyside.org/2025/07/23/find-someone-taken-by-ice",
+          "publishedOn": "2025-07-23T17:18:14.000Z",
+          "wordCount": 7716,
+          "title": "How to track down a loved one in ICE custody",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250723-170540.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540793",
+          "author": "Nisa Khan | KQED",
+          "description": "En medio de las tensiones en el tribunal de inmigración de San Francisco, es fundamental saber cómo encontrar a alguien detenido por ICE y acceder a los recursos de inmigración.",
+          "link": "https://www.berkeleyside.org/2025/07/23/detenido-ice",
+          "publishedOn": "2025-07-23T17:15:00.000Z",
+          "wordCount": 8051,
+          "title": "¿Un conocido fue detenido por ICE? Cómo saber dónde está ahora",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250723-170540.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540770",
+          "author": "Sara Martin",
+          "description": "The play structure was constructed during a summer camp run by Girls Garage, a Berkeley nonprofit that teaches design and build skills to female and gender-expansive youth.",
+          "link": "https://www.berkeleyside.org/2025/07/23/girls-garage-adventure-playground-whale",
+          "publishedOn": "2025-07-23T13:00:00.000Z",
+          "wordCount": 7333,
+          "title": "A whale of a summer project: Kids and teens build colossal climbing structure at Berkeley’s Adventure Playground",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-Girls-Garage-Adventure-Playground-1.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540714",
           "author": "Family of Robert W. Fuller",
@@ -2133,6 +2199,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/google-1999/",
+          "author": null,
+          "description": "Google founders, 1999; photo by William Mercer McLeod.\n\"Aren’t you rather late to the game?\"\nIt's January 1999 and that question was put to Google's young founders, Larry Page and Sergey Brin. The interviewer was Karsten Lemm from a German startup magazine called Stern. Lemm, who later in the article cited AltaVista and Excite as \"established search engines,\" was right to be skeptical. After all, Page and Brin's company, Google, had only been incorporated four months ago.\n\"It’s possible to do a much better job on search, and it’s the main application that people use on the Internet,\" replied Page. \"So there’s a big opportunity, because if you do a better job really matters to people. People make decisions based on information they find on the Web. So companies that are in-between people an…",
+          "link": "https://cybercultural.com/p/google-1999/",
+          "publishedOn": "2025-07-23T00:00:00.000Z",
+          "wordCount": 1946,
+          "title": "Google in 1999: Search Engines Escape the Portal Matrix",
+          "imageUrl": "https://cybercultural.com/assets/images/google-founders-1999.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/seasons/",
           "author": null,
