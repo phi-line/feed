@@ -440,6 +440,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://asteriskmag.com/issues/11/the-state-of-american-science-funding-for-the-next-five-minutes",
+          "author": null,
+          "description": "A comprehensive but nowhere near exhaustive overview of how the Trump Administration is impacting American science.",
+          "link": "https://asteriskmag.com/issues/11/the-state-of-american-science-funding-for-the-next-five-minutes",
+          "publishedOn": "2025-07-01T00:00:00.000Z",
+          "wordCount": 3952,
+          "title": "The State of American Science Funding (For the Next Five Minutes)",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/10/consciousness-catching",
           "author": null,
           "description": "A conversation about predictive processing, insight, and existential threats — to the self and to society.",
@@ -847,22 +857,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/952f7c54-2239-4c16-b345-69e20b1a591a_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/china-trials",
-          "author": "Hiya Jain",
-          "description": "In 2017, there were just over 600 clinical trials initiated in China. By 2023, that number was nearly 2,000. How can American companies kick off a similar boom?",
-          "link": "https://www.asimov.press/p/china-trials",
-          "publishedOn": "2025-04-24T13:20:06.000Z",
-          "wordCount": null,
-          "title": "China’s Clinical Trial Boom",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/28fefe6a-9028-4f7c-95e4-035b70e78f14_2000x1260.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/28fefe6a-9028-4f7c-95e4-035b70e78f14_2000x1260.png"
         }
       ]
     },
