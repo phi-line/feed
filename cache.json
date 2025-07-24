@@ -954,6 +954,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3119/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3119/",
+          "publishedOn": "2025-07-23T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Flettner Rotor",
+          "imageUrl": "https://imgs.xkcd.com/comics/flettner_rotor_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3118/",
           "author": null,
           "description": "",
@@ -1464,6 +1474,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540817",
+          "author": "Skylla Mumana",
+          "description": "Operations at both organizations are expected to remain the same for at least the next six months.",
+          "link": "https://www.berkeleyside.org/2025/07/23/berkeley-food-pantry-merger-berkeley-food-network",
+          "publishedOn": "2025-07-23T23:55:22.000Z",
+          "wordCount": 7249,
+          "title": "Berkeley Food Pantry merges with Berkeley Food Network",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/Food-Bank-Shoey-Sindel-Photography_SSP5923.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540821",
+          "author": "Madeline Taub",
+          "description": "Bad Walter’s Bootleg Ice Cream is known for its lactose-free, creative flavors. Owner Sydney Arkin let Nosh follow the process.",
+          "link": "https://www.berkeleyside.org/2025/07/23/bad-walters-ice-cream-rockridge",
+          "publishedOn": "2025-07-23T22:51:59.000Z",
+          "wordCount": 8376,
+          "title": "The inside scoop: How one of the Bay Area’s favorite ice cream shops creates a new flavor",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-BadWalters-JK-10.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540787",
           "author": "Nisa Khan | KQED",

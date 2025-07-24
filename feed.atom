@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-23T18:05:46.006Z</updated>
+    <updated>2025-07-24T00:20:56.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Food Pantry merges with Berkeley Food Network]]></title>
+        <id>https://www.berkeleyside.org/?p=540817</id>
+        <link href="https://www.berkeleyside.org/2025/07/23/berkeley-food-pantry-merger-berkeley-food-network"/>
+        <updated>2025-07-23T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Operations at both organizations are expected to remain the same for at least the next six months.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The inside scoop: How one of the Bay Area’s favorite ice cream shops creates a new flavor]]></title>
+        <id>https://www.berkeleyside.org/?p=540821</id>
+        <link href="https://www.berkeleyside.org/2025/07/23/bad-walters-ice-cream-rockridge"/>
+        <updated>2025-07-23T22:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Bad Walter’s Bootleg Ice Cream is known for its lactose-free, creative flavors. Owner Sydney Arkin let Nosh follow the process.]]></summary>
+        <author>
+            <name>Madeline Taub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to track down a loved one in ICE custody]]></title>
         <id>https://www.berkeleyside.org/?p=540787</id>
@@ -66,6 +86,15 @@ The post The Cells That Breathe Two Ways first appeared on Quanta Magazine]]></s
         <summary type="html"><![CDATA[The play structure was constructed during a summer camp run by Girls Garage, a Berkeley nonprofit that teaches design and build skills to female and gender-expansive youth.]]></summary>
         <author>
             <name>Sara Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flettner Rotor]]></title>
+        <id>https://xkcd.com/3119/</id>
+        <link href="https://xkcd.com/3119/"/>
+        <updated>2025-07-23T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
