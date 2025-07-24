@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-24T12:07:43.351Z</updated>
+    <updated>2025-07-24T18:06:03.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Did The Universe Begin?]]></title>
+        <id>https://www.quantamagazine.org/?p=152503</id>
+        <link href="https://www.quantamagazine.org/why-did-the-universe-begin-20250724/"/>
+        <updated>2025-07-24T13:32:52.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Joy of Why, Thomas Hertog discusses his collaboration with Stephen Hawking on a provocative theory arguing that the laws of physics evolved with the universe, and how this could have shaped a cosmos fit for life.            
+The post Why Did The Universe Begin? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Shark story time, cookbook club, death cafe]]></title>
+        <id>https://www.berkeleyside.org/?p=540802</id>
+        <link href="https://www.berkeleyside.org/2025/07/24/around-berkeley-things-to-do-in-berkeley-july-24-to-july-31"/>
+        <updated>2025-07-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a summer market at Imasala Collective in West Berkeley and a street fair on Telegraph Avenue.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Lee Ballance, doctor, healer, teacher, climate advocate]]></title>
+        <id>https://www.berkeleyside.org/?p=540808</id>
+        <link href="https://www.berkeleyside.org/2025/07/24/lee-ballance-obituary"/>
+        <updated>2025-07-24T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[He worked the ER at Herrrick Hospital, led a Kaiser acupuncture clinic and taught at UCSF's medical school. He was always focused on the health of the larger community and world.]]></summary>
+        <author>
+            <name>Family and friends of Lee Ballance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYC's Urban Textscape]]></title>
+        <id>https://pudding.cool/2025/07/street-view</id>
+        <link href="https://pudding.cool/2025/07/street-view"/>
+        <updated>2025-07-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if you could search every visible word on New York City’s streets?]]></summary>
+        <author>
+            <name>The Pudding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley Food Pantry merges with Berkeley Food Network]]></title>
         <id>https://www.berkeleyside.org/?p=540817</id>
