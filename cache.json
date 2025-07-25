@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152528",
+          "author": "Ben Brubaker",
+          "description": "In theory, quantum physics can bypass the hard mathematical problems at the root of modern encryption. A new proof shows how.            \nThe post Quantum Scientists Have Built a New Math of Cryptography first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/",
+          "publishedOn": "2025-07-25T14:05:02.000Z",
+          "wordCount": 3180,
+          "title": "Quantum Scientists Have Built a New Math of Cryptography",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BetterQuantumSecrets-crWei-AnJin-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152503",
           "author": "Janna Levin and Steven Strogatz",
           "description": "In this episode of The Joy of Why, Thomas Hertog discusses his collaboration with Stephen Hawking on a provocative theory arguing that the laws of physics evolved with the universe, and how this could have shaped a cosmos fit for life.            \nThe post Why Did The Universe Begin? first appeared on Quanta Magazine",
@@ -1308,6 +1318,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/stubborn-interdependence",
+          "author": "Nathan Gardels",
+          "description": "The post Stubborn Interdependence appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/stubborn-interdependence",
+          "publishedOn": "2025-07-25T15:27:43.000Z",
+          "wordCount": 2654,
+          "title": "Stubborn Interdependence",
+          "imageUrl": "https://noemamag.imgix.net/2025/07/GettyImages-1422453695.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=bb0d4ee5333d3b0330db09a9af6a1792"
+        },
+        {
           "id": "https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai",
           "author": "Júlia Keserű",
           "description": "The post The Future Of Health Data In The Age Of AI appeared first on NOEMA.",
@@ -1494,6 +1514,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540925",
+          "author": "Cecilia Seiter",
+          "description": "Reem’s will establish its flagship location in Jack London Square, with plans to open outposts on the horizon.",
+          "link": "https://www.berkeleyside.org/2025/07/25/reems-jack-london-square-oakland-return",
+          "publishedOn": "2025-07-25T15:45:46.000Z",
+          "wordCount": 7417,
+          "title": "In a ‘full-circle moment,’ lauded Arab bakery Reem’s returning to Oakland this fall",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/LBP_9754.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540886",
+          "author": "Frances Dinkelspiel",
+          "description": "The 34-year-old Turtle Island Monument project unraveled over issues related to the prior involvement of a non-Native artist. The Indigenous artists say they want respect. The city says their demands are “insurmountable” but more negotiations are possible.",
+          "link": "https://www.berkeleyside.org/2025/07/25/turtle-island-monument-berkeley-civic-center",
+          "publishedOn": "2025-07-25T14:58:00.000Z",
+          "wordCount": 8190,
+          "title": "Downtown fountain project called off due to clash between Berkeley and Indigenous artists",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-21.png?fit=1538%2C1060&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540916",
+          "author": "Alex N. Gecan",
+          "description": "The city’s “fair and impartial policing” work was supposed to eliminate racial profiling and address disparities. Watchdogs say there’s been progress — but some disparities persist.",
+          "link": "https://www.berkeleyside.org/2025/07/25/bpd-fair-and-impartial-policing-vote",
+          "publishedOn": "2025-07-25T13:00:00.000Z",
+          "wordCount": 7700,
+          "title": "Berkeley wraps up policy work tackling racial disparities in police stops",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2015/09/press2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540863",
           "author": "Berkeleyside Staff",
