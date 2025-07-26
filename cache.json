@@ -984,6 +984,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3120/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3120/",
+          "publishedOn": "2025-07-25T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Geologic Periods",
+          "imageUrl": "https://imgs.xkcd.com/comics/geologic_periods_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3119/",
           "author": null,
           "description": "",
@@ -1514,6 +1524,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540896",
+          "author": "Daniel Ekonde and Sara Martin",
+          "description": "Brisk breezes, foggy mornings and below-average temps have made this a sweater season in the East Bay.",
+          "link": "https://www.berkeleyside.org/2025/07/25/berkeley-weather-cold-summer-record",
+          "publishedOn": "2025-07-25T21:11:45.000Z",
+          "wordCount": 6996,
+          "title": "While much of the country is baking, Berkeley is bundling up",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Unusual-cold-weather-biting-Berkeleyans.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540939",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/07/25/jade-palace-lupita-mexican-restaurants-closed",
+          "publishedOn": "2025-07-25T20:07:41.000Z",
+          "wordCount": 6307,
+          "title": "Jade Palace shuttered for equipment upgrades; Lupita Mexican Eatery closed permanently",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/JadePalace-exterior-lapan.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540925",
           "author": "Cecilia Seiter",

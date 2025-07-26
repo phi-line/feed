@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-25T18:06:01.901Z</updated>
+    <updated>2025-07-26T00:20:08.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[While much of the country is baking, Berkeley is bundling up]]></title>
+        <id>https://www.berkeleyside.org/?p=540896</id>
+        <link href="https://www.berkeleyside.org/2025/07/25/berkeley-weather-cold-summer-record"/>
+        <updated>2025-07-25T21:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Brisk breezes, foggy mornings and below-average temps have made this a sweater season in the East Bay.]]></summary>
+        <author>
+            <name>Daniel Ekonde and Sara Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jade Palace shuttered for equipment upgrades; Lupita Mexican Eatery closed permanently]]></title>
+        <id>https://www.berkeleyside.org/?p=540939</id>
+        <link href="https://www.berkeleyside.org/2025/07/25/jade-palace-lupita-mexican-restaurants-closed"/>
+        <updated>2025-07-25T20:07:41.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In a ‘full-circle moment,’ lauded Arab bakery Reem’s returning to Oakland this fall]]></title>
         <id>https://www.berkeleyside.org/?p=540925</id>
@@ -55,6 +75,15 @@ The post Quantum Scientists Have Built a New Math of Cryptography first appeared
         <summary type="html"><![CDATA[The city’s “fair and impartial policing” work was supposed to eliminate racial profiling and address disparities. Watchdogs say there’s been progress — but some disparities persist.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geologic Periods]]></title>
+        <id>https://xkcd.com/3120/</id>
+        <link href="https://xkcd.com/3120/"/>
+        <updated>2025-07-25T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
