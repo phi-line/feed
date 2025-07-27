@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-26T18:05:40.385Z</updated>
+    <updated>2025-07-27T00:23:05.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -2263,16 +2263,6 @@ After explaining that the artist will no longer need to be signed to a record co
         <summary type="html"><![CDATA[The modern centrifuge was first designed for milkfat separation in the dairy industry. Today, it is ubiquitous in research laboratories. To whom do we owe its astonishing versatility?]]></summary>
         <author>
             <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of GFP]]></title>
-        <id>https://www.asimov.press/p/gfp</id>
-        <link href="https://www.asimov.press/p/gfp"/>
-        <updated>2025-04-28T10:36:12.000Z</updated>
-        <summary type="html"><![CDATA[How a chance discovery in bioluminescent jellyfish led to one of the most transformative tools in modern biology: green fluorescent protein.]]></summary>
-        <author>
-            <name>Smrithi Sunil</name>
         </author>
     </entry>
 </feed>
