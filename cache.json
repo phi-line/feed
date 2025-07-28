@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152567",
+          "author": "Rachel Crowell",
+          "description": "Fan Chung, who has an Erdős number of 1, discusses the importance of connection — both human and mathematical.            \nThe post Why the Key to a Mathematical Life is Collaboration first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-the-key-to-a-mathematical-life-is-collaboration-20250728/",
+          "publishedOn": "2025-07-28T13:55:52.000Z",
+          "wordCount": 2939,
+          "title": "Why the Key to a Mathematical Life is Collaboration",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/FanChungGraham-cr.PeggyPeattie-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152528",
           "author": "Ben Brubaker",
           "description": "In theory, quantum physics can bypass the hard mathematical problems at the root of modern encryption. A new proof shows how.            \nThe post Quantum Scientists Have Built a New Math of Cryptography first appeared on Quanta Magazine",
@@ -459,6 +469,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/11/yes-in-my-bamako-yard",
+          "author": null,
+          "description": "Over the next 25 years, Africa is expected to add 900 million people to its cities, the largest wave of urban population growth the world has ever seen. How can the continent begin to prepare today?",
+          "link": "https://asteriskmag.com/issues/11/yes-in-my-bamako-yard",
+          "publishedOn": "2025-07-28T00:00:00.000Z",
+          "wordCount": 5059,
+          "title": "Yes In My Bamako Yard",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/11/scapegoating-the-algorithm",
           "author": null,
@@ -1398,6 +1418,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=540858",
+          "author": "Nathan Dalton",
+          "description": "Also: Bows and Arrows moves to Fourth Street as Erica Tanov departs for a nearby space.",
+          "link": "https://www.berkeleyside.org/2025/07/28/shop-talk-berkeley-nonprofit-easy-does-it-turns-30-pacific-e-bike-moves-to-san-pablo-ave-another-vintage-shop-closes",
+          "publishedOn": "2025-07-28T14:12:00.000Z",
+          "wordCount": 8889,
+          "title": "Shop Talk: Berkeley nonprofit Easy Does It turns 30; Pacific E-Bike moves to San Pablo Ave.; another vintage shop closes",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250724-173704.webp?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540896",
           "author": "Daniel Ekonde and Sara Martin",

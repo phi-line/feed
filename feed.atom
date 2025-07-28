@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-28T12:08:22.484Z</updated>
+    <updated>2025-07-28T18:06:31.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shop Talk: Berkeley nonprofit Easy Does It turns 30; Pacific E-Bike moves to San Pablo Ave.; another vintage shop closes]]></title>
+        <id>https://www.berkeleyside.org/?p=540858</id>
+        <link href="https://www.berkeleyside.org/2025/07/28/shop-talk-berkeley-nonprofit-easy-does-it-turns-30-pacific-e-bike-moves-to-san-pablo-ave-another-vintage-shop-closes"/>
+        <updated>2025-07-28T14:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Bows and Arrows moves to Fourth Street as Erica Tanov departs for a nearby space.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Key to a Mathematical Life is Collaboration]]></title>
+        <id>https://www.quantamagazine.org/?p=152567</id>
+        <link href="https://www.quantamagazine.org/why-the-key-to-a-mathematical-life-is-collaboration-20250728/"/>
+        <updated>2025-07-28T13:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Fan Chung, who has an Erdős number of 1, discusses the importance of connection — both human and mathematical.            
+The post Why the Key to a Mathematical Life is Collaboration first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes In My Bamako Yard]]></title>
+        <id>https://asteriskmag.com/issues/11/yes-in-my-bamako-yard</id>
+        <link href="https://asteriskmag.com/issues/11/yes-in-my-bamako-yard"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the next 25 years, Africa is expected to add 900 million people to its cities, the largest wave of urban population growth the world has ever seen. How can the continent begin to prepare today?]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[While much of the country is baking, Berkeley is bundling up]]></title>
         <id>https://www.berkeleyside.org/?p=540896</id>
