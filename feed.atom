@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-29T06:07:28.263Z</updated>
+    <updated>2025-07-29T12:08:27.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Roger Hill, architect who built his own home in the Berkeley Hills]]></title>
+        <id>https://www.berkeleyside.org/?p=540814</id>
+        <link href="https://www.berkeleyside.org/2025/07/29/roger-hill-architect-obituary"/>
+        <updated>2025-07-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[He oversaw VA hospital projects in Palo Alto and Loma Linda and the King Khalid Military Hospital in Saudi Arabia.]]></summary>
+        <author>
+            <name>Lisa Hill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UC admits more Californians, but elite campuses stay selective]]></title>
         <id>https://www.berkeleyside.org/?p=541044</id>
