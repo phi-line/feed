@@ -537,6 +537,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/gene-delivery",
+          "author": "Eryney Marrogi",
+          "description": "There are at least 10,000 known monogenic diseases. When attempting to cure them, how do clinicians decide which gene-therapy delivery method is best?",
+          "link": "https://www.asimov.press/p/gene-delivery",
+          "publishedOn": "2025-07-28T19:26:45.000Z",
+          "wordCount": null,
+          "title": "A Visual Guide to Gene Delivery",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/3ec1db05-2889-417b-8c3e-4b6154e19bca_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3ec1db05-2889-417b-8c3e-4b6154e19bca_2000x1260.png"
+        },
+        {
           "id": "https://www.asimov.press/p/cable-bacteria",
           "author": "Niko McCarty",
           "description": "How a discovery in a Danish lake changed our understanding of biological communities and energy.",
@@ -877,6 +893,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3121/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3121/",
+          "publishedOn": "2025-07-28T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Kite Incident",
+          "imageUrl": "https://imgs.xkcd.com/comics/kite_incident_2x.png"
+        },
         {
           "id": "https://xkcd.com/3120/",
           "author": null,
@@ -1418,6 +1444,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541044",
+          "author": "Michael Burke | EdSource",
+          "description": "The system also extended more admission offers to out-of-state students, including many more international students.",
+          "link": "https://www.berkeleyside.org/2025/07/28/uc-admission-rates-campus-berkeley-international-students",
+          "publishedOn": "2025-07-28T22:33:21.000Z",
+          "wordCount": 7370,
+          "title": "UC admits more Californians, but elite campuses stay selective",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/20230330-171953.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=458459",
+          "author": "Callie Rhoades",
+          "description": "The reform, led by Bay Area legislators, is the governor's latest attempt to ease California’s housing crisis. But environmentalists warn it could lead to harmful industrial development.",
+          "link": "https://www.berkeleyside.org/2025/07/28/ceqa-reform-impact-berkeley-oakland",
+          "publishedOn": "2025-07-28T19:24:58.000Z",
+          "wordCount": 8373,
+          "title": "Newsom changed CEQA to promote housing and development. What could it mean for Berkeley?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP25197813657444-scaled-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=540858",
           "author": "Nathan Dalton",
