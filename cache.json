@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152633",
+          "author": "Claire L. Evans",
+          "description": "A small but enthusiastic group of neuroscientists is exhuming overlooked experiments and performing new ones to explore whether cells record past experiences — fundamentally challenging what memory is.            \nThe post What Can a Cell Remember? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-can-a-cell-remember-20250730/",
+          "publishedOn": "2025-07-30T14:30:11.000Z",
+          "wordCount": 4573,
+          "title": "What Can a Cell Remember?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/CellMemory-crKristinaArmitage-Lede-draft01CellMemory-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152567",
           "author": "Rachel Crowell",
           "description": "Fan Chung, who has an Erdős number of 1, discusses the importance of connection — both human and mathematical.            \nThe post Why the Key to a Mathematical Life is Collaboration first appeared on Quanta Magazine",
@@ -1445,6 +1455,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=443624",
+          "author": "Emilie Raguso",
+          "description": "Because they are so rare, it’s hard to predict how much damage a tsunami might cause in Berkeley. But it can be significant.",
+          "link": "https://www.berkeleyside.org/2025/07/30/what-could-happen-tsunami-berkeley-hazard-map",
+          "publishedOn": "2025-07-30T15:30:51.000Z",
+          "wordCount": 7730,
+          "title": "How far do you live from Berkeley’s tsunami zone? See the hazard map.",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/berkeley-tsunami-hazard-map.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541082",
+          "author": "Daniel Ekonde",
+          "description": "To make ends meet in a brutal housing market, Cal students are doubling up in living rooms, commuting from other cities and making sacrifices.",
+          "link": "https://www.berkeleyside.org/2025/07/30/uc-berkeley-students-affordable-housing",
+          "publishedOn": "2025-07-30T13:30:00.000Z",
+          "wordCount": 8348,
+          "title": "How 6 UC Berkeley students got creative to find affordable housing",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250729-213137.webp"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=541147",
           "author": "Alex N. Gecan",
           "description": "Strong currents or waves could arrive as early as 12:40 a.m. Wednesday. Weather experts were not yet calling for evacuations or warning of mass inundation.",
@@ -2419,6 +2449,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/online-identity-bowieworld-1999/",
+          "author": null,
+          "description": "BowieWorld, via mutant ratz on YouTube.\nIn January 1999, BowieNet members were sent a CD that contained software for BowieWorld, a 3D chat environment built by a company called Worlds.com. It was a basic version of what Second Life would eventually launch in 2003 — a virtual world in which cartoonish three dimensional avatars roamed a blocky world and text-chatted with each other.\nBowieWorld still exists today, albeit in a zombie state. In 2022, Worlds.com attempted to kick-start it again with an NFT promotion, launched at the 2022 David Bowie World Fan Convention. However, there have been no further updates since then. A Reddit community for Worlds.com shows it still has fans, but recent entries complain of server issues and “total radio silence” from the company.\n\nWorldsPlayer navigation…",
+          "link": "https://cybercultural.com/p/online-identity-bowieworld-1999/",
+          "publishedOn": "2025-07-30T00:00:00.000Z",
+          "wordCount": 2057,
+          "title": "From BowieWorld to Facebook: How Online Identity Evolved",
+          "imageUrl": "https://cybercultural.com/assets/images/bowieworld-identities-1999.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/google-1999/",
           "author": null,

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-07-30T12:07:58.561Z</updated>
+    <updated>2025-07-30T18:06:38.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How far do you live from Berkeley’s tsunami zone? See the hazard map.]]></title>
+        <id>https://www.berkeleyside.org/?p=443624</id>
+        <link href="https://www.berkeleyside.org/2025/07/30/what-could-happen-tsunami-berkeley-hazard-map"/>
+        <updated>2025-07-30T15:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Because they are so rare, it’s hard to predict how much damage a tsunami might cause in Berkeley. But it can be significant.]]></summary>
+        <author>
+            <name>Emilie Raguso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can a Cell Remember?]]></title>
+        <id>https://www.quantamagazine.org/?p=152633</id>
+        <link href="https://www.quantamagazine.org/what-can-a-cell-remember-20250730/"/>
+        <updated>2025-07-30T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[A small but enthusiastic group of neuroscientists is exhuming overlooked experiments and performing new ones to explore whether cells record past experiences — fundamentally challenging what memory is.            
+The post What Can a Cell Remember? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Claire L. Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 6 UC Berkeley students got creative to find affordable housing]]></title>
+        <id>https://www.berkeleyside.org/?p=541082</id>
+        <link href="https://www.berkeleyside.org/2025/07/30/uc-berkeley-students-affordable-housing"/>
+        <updated>2025-07-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To make ends meet in a brutal housing market, Cal students are doubling up in living rooms, commuting from other cities and making sacrifices.]]></summary>
+        <author>
+            <name>Daniel Ekonde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley waterfront under tsunami advisory after 8.8M quake in Russia]]></title>
         <id>https://www.berkeleyside.org/?p=541147</id>
@@ -14,6 +45,20 @@
         <summary type="html"><![CDATA[Strong currents or waves could arrive as early as 12:40 a.m. Wednesday. Weather experts were not yet calling for evacuations or warning of mass inundation.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From BowieWorld to Facebook: How Online Identity Evolved]]></title>
+        <id>https://cybercultural.com/p/online-identity-bowieworld-1999/</id>
+        <link href="https://cybercultural.com/p/online-identity-bowieworld-1999/"/>
+        <updated>2025-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BowieWorld, via mutant ratz on YouTube.
+In January 1999, BowieNet members were sent a CD that contained software for BowieWorld, a 3D chat environment built by a company called Worlds.com. It was a basic version of what Second Life would eventually launch in 2003 — a virtual world in which cartoonish three dimensional avatars roamed a blocky world and text-chatted with each other.
+BowieWorld still exists today, albeit in a zombie state. In 2022, Worlds.com attempted to kick-start it again with an NFT promotion, launched at the 2022 David Bowie World Fan Convention. However, there have been no further updates since then. A Reddit community for Worlds.com shows it still has fans, but recent entries complain of server issues and “total radio silence” from the company.
+
+WorldsPlayer navigation…]]></summary>
+        <author>
+            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
     <entry>
