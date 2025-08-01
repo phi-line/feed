@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152717",
+          "author": "Kevin Hartnett",
+          "description": "After finding the homeschooling life confining, the teen petitioned her way into a graduate class at Berkeley, where she ended up disproving a 40-year-old conjecture.            \nThe post At 17, Hannah Cairo Solved a Major Math Mystery first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/",
+          "publishedOn": "2025-08-01T13:56:56.000Z",
+          "wordCount": 3667,
+          "title": "At 17, Hannah Cairo Solved a Major Math Mystery",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HannahCairo-cr-ValeriePlesch-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152633",
           "author": "Claire L. Evans",
           "description": "A small but enthusiastic group of neuroscientists is exhuming overlooked experiments and performing new ones to explore whether cells record past experiences — fundamentally challenging what memory is.            \nThe post What Can a Cell Remember? first appeared on Quanta Magazine",
@@ -920,6 +930,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3123/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3123/",
+          "publishedOn": "2025-08-01T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Canon",
+          "imageUrl": "https://imgs.xkcd.com/comics/canon_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3122/",
           "author": null,
           "description": "",
@@ -1284,6 +1304,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/introducing-noema-vi-paradigm-shifts",
+          "author": "Nathan Gardels",
+          "description": "The post Introducing Noema VI: Paradigm Shifts appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/introducing-noema-vi-paradigm-shifts",
+          "publishedOn": "2025-08-01T12:50:45.000Z",
+          "wordCount": 4606,
+          "title": "Introducing Noema VI: Paradigm Shifts",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/Noema_Issue6_Cover.jpg?fm=pjpg&ixlib=php-3.3.1&s=b5c15075a07e48a9d2c885814b3390e9"
+        },
+        {
           "id": "https://www.noemamag.com/what-searching-for-aliens-reveals-about-ourselves",
           "author": "Michael L. Wong",
           "description": "The post What Searching For Aliens Reveals About Ourselves appeared first on NOEMA.",
@@ -1490,6 +1520,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541301",
+          "author": "Nico Savidge",
+          "description": "Several neighbors sought to scale down the project, but the City Council said it didn’t have that authority because of state housing laws.",
+          "link": "https://www.berkeleyside.org/2025/08/01/housing-south-berkeley-2655-shattuck-approved",
+          "publishedOn": "2025-08-01T17:34:45.000Z",
+          "wordCount": 7221,
+          "title": "Proposal for 8-story apartment building in South Berkeley approved",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Screenshot-2025-07-31-at-3.04.40-PM.png"
+        },
         {
           "id": "https://oaklandside.org/?p=458584",
           "author": "Azucena Rasilla",
