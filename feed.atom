@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-05T12:08:56.107Z</updated>
+    <updated>2025-08-05T18:06:59.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica]]></title>
+        <id>https://writings.stephenwolfram.com/?p=68657</id>
+        <link href="https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/"/>
+        <updated>2025-08-05T17:52:24.000Z</updated>
+        <summary type="html"><![CDATA[This Is a Big Release Going Dark: Dark Mode Arrives How Does It Relate to AI? Connecting with the Agentic World Just Put a Fit on That! Maps Become More Beautiful A Better Red: Introducing New Named Colors More Spiffing Up of Graphics Non-commutative Algebra Draw on That Surface: The Visual Annotation of Regions Curvature […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gulf World That Air Conditioning Wrought]]></title>
+        <id>https://www.noemamag.com/the-gulf-world-that-air-conditioning-wrought</id>
+        <link href="https://www.noemamag.com/the-gulf-world-that-air-conditioning-wrought"/>
+        <updated>2025-08-05T15:57:47.000Z</updated>
+        <summary type="html"><![CDATA[The post The Gulf World That Air Conditioning Wrought appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Marianne Dhenin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A rare East Bay bald eagle nest captivates residents]]></title>
+        <id>https://oaklandside.org/?p=458865</id>
+        <link href="https://www.berkeleyside.org/2025/08/05/rare-east-bay-bald-eagle-nest-captivates-residents"/>
+        <updated>2025-08-05T12:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A new nest near an Oakland cemetery marks the remarkable return of a species absent for decades due to chemical exposure, urbanization and shootings.]]></summary>
+        <author>
+            <name>Callie Rhoades</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Bowie’s 1999 Gaming Adventure and Virtual Album]]></title>
+        <id>https://cybercultural.com/p/bowie-1999-omikron/</id>
+        <link href="https://cybercultural.com/p/bowie-1999-omikron/"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of David Bowie's characters in the 1999 3D game, Omikron: The Nomad Soul.
+On May 12, 1999, a surprising announcement came over the wires.
+“Eidos Interactive, a leading worldwide developer and publisher of interactive entertainment, today announced a collaboration with legendary rocker David Bowie on Omikron: The Nomad Soul,” read the press release. It went on to explain that Bowie and his guitarist Reeves Gabrels had “worked closely with the game's developers, Paris-based Quantic Dream, to create original music for the game, including eight new songs.”
+The concept of this 3D game involved a futuristic city called Omikron, demons that collect souls, and (like Bowie’s 1995 Outside album concept) a spate of serial killings. It was another chance for Bowie to play with virtual personas. Ev…]]></summary>
+        <author>
+            <name>Cybercultural: Internet History</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Berkeley officers cleared in 2 fatal police shootings from 2023]]></title>
         <id>https://www.berkeleyside.org/?p=541364</id>
@@ -2674,16 +2717,6 @@ The Internet 1996 World Exposition, organized by Carl Malamud, was promoted as t
         <summary type="html"><![CDATA[Answering this question may seem straightforward, but actually requires an odyssey through information theory and molecular biology.]]></summary>
         <author>
             <name>dynomight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you more likely to die on your birthday?]]></title>
-        <id>https://pudding.cool/2025/04/birthday-effect</id>
-        <link href="https://pudding.cool/2025/04/birthday-effect"/>
-        <updated>2025-05-08T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you more likely to die on your birthday? Yes.]]></summary>
-        <author>
-            <name>The Pudding</name>
         </author>
     </entry>
 </feed>

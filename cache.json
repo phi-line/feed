@@ -54,16 +54,6 @@
           "wordCount": 302,
           "title": "Asian Misrepresentation",
           "imageUrl": "https://pudding.cool/2025/05/aapi-casting/assets/social-facebook.png"
-        },
-        {
-          "id": "https://pudding.cool/2025/04/birthday-effect",
-          "author": null,
-          "description": "Are you more likely to die on your birthday? Yes.",
-          "link": "https://pudding.cool/2025/04/birthday-effect",
-          "publishedOn": "2025-05-08T04:00:00.000Z",
-          "wordCount": 1885,
-          "title": "Are you more likely to die on your birthday?",
-          "imageUrl": "https://pudding.cool/2025/04/birthday-effect/assets/social.png"
         }
       ]
     },
@@ -1317,6 +1307,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=68657",
+          "author": "Stephen Wolfram",
+          "description": "This Is a Big Release Going Dark: Dark Mode Arrives How Does It Relate to AI? Connecting with the Agentic World Just Put a Fit on That! Maps Become More Beautiful A Better Red: Introducing New Named Colors More Spiffing Up of Graphics Non-commutative Algebra Draw on That Surface: The Visual Annotation of Regions Curvature […]",
+          "link": "https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/",
+          "publishedOn": "2025-08-05T17:52:24.000Z",
+          "wordCount": 14709,
+          "title": "New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica",
+          "imageUrl": "https://content.wolfram.com/sites/43/2025/08/TweetImage-WordCloud2.jpg"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=68380",
           "author": "Stephen Wolfram",
           "description": "Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we humans […]",
@@ -1333,6 +1333,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-gulf-world-that-air-conditioning-wrought",
+          "author": "Marianne Dhenin",
+          "description": "The post The Gulf World That Air Conditioning Wrought appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-gulf-world-that-air-conditioning-wrought",
+          "publishedOn": "2025-08-05T15:57:47.000Z",
+          "wordCount": 13001,
+          "title": "The Gulf World That Air Conditioning Wrought",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/IMG_1986.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=3a03fba939f4c838d144cae9bcf3e462"
+        },
         {
           "id": "https://www.noemamag.com/introducing-noema-vi-paradigm-shifts",
           "author": "Nathan Gardels",
@@ -1550,6 +1560,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=458865",
+          "author": "Callie Rhoades",
+          "description": "A new nest near an Oakland cemetery marks the remarkable return of a species absent for decades due to chemical exposure, urbanization and shootings.",
+          "link": "https://www.berkeleyside.org/2025/08/05/rare-east-bay-bald-eagle-nest-captivates-residents",
+          "publishedOn": "2025-08-05T12:43:00.000Z",
+          "wordCount": 7827,
+          "title": "A rare East Bay bald eagle nest captivates residents",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/PiedmontEagles-JK-05-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=541364",
           "author": "Alex N. Gecan",
@@ -2700,6 +2720,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/bowie-1999-omikron/",
+          "author": null,
+          "description": "One of David Bowie's characters in the 1999 3D game, Omikron: The Nomad Soul.\nOn May 12, 1999, a surprising announcement came over the wires.\n“Eidos Interactive, a leading worldwide developer and publisher of interactive entertainment, today announced a collaboration with legendary rocker David Bowie on Omikron: The Nomad Soul,” read the press release. It went on to explain that Bowie and his guitarist Reeves Gabrels had “worked closely with the game's developers, Paris-based Quantic Dream, to create original music for the game, including eight new songs.”\nThe concept of this 3D game involved a futuristic city called Omikron, demons that collect souls, and (like Bowie’s 1995 Outside album concept) a spate of serial killings. It was another chance for Bowie to play with virtual personas. Ev…",
+          "link": "https://cybercultural.com/p/bowie-1999-omikron/",
+          "publishedOn": "2025-08-05T00:00:00.000Z",
+          "wordCount": 1993,
+          "title": "David Bowie’s 1999 Gaming Adventure and Virtual Album",
+          "imageUrl": "https://cybercultural.com/assets/images/bowie-nomad-soul-1280x720.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/online-identity-bowieworld-1999/",
           "author": null,
