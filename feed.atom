@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-04T18:06:47.423Z</updated>
+    <updated>2025-08-05T00:21:33.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Berkeley officers cleared in 2 fatal police shootings from 2023]]></title>
+        <id>https://www.berkeleyside.org/?p=541364</id>
+        <link href="https://www.berkeleyside.org/2025/08/04/grady-lamar-walker-jr-david-lee-bonino-ii"/>
+        <updated>2025-08-04T23:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Four officers who shot Grady L. Walker Jr. at Toyota of Berkeley and an officer who fatally shot David L. Bonino II in a separate incident were justified in doing so, the DA's office ruled.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley to host nearly 100 block parties Tuesday for National Night Out]]></title>
+        <id>https://www.berkeleyside.org/?p=541397</id>
+        <link href="https://www.berkeleyside.org/2025/08/04/berkeley-national-night-out-block-party-aug-5-2025"/>
+        <updated>2025-08-04T19:57:31.000Z</updated>
+        <summary type="html"><![CDATA[The city and McGee Avenue Baptist Church will cohost a party to "stop the violence" with bounce houses, food and beverages, live performances and city officials and council members in attendance.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Scale Proteomics]]></title>
         <id>https://www.asimov.press/p/proteomics</id>
@@ -35,6 +55,15 @@ The post Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface fi
         <summary type="html"><![CDATA[Other new Berkeley books: Historical fiction that describes the real-life love affair between the author’s mother and a founding father of Israel and a decorating book by YouTube stars Kirsten Dirksen and Nicolás Boullosa.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grounded]]></title>
+        <id>https://xkcd.com/3124/</id>
+        <link href="https://xkcd.com/3124/"/>
+        <updated>2025-08-04T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
