@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-05T18:06:59.844Z</updated>
+    <updated>2025-08-06T00:21:10.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[28 fun outdoor things to do in Berkeley before summer ends]]></title>
+        <id>https://www.berkeleyside.org/?p=538440</id>
+        <link href="https://www.berkeleyside.org/2025/08/05/fun-things-to-do-outdoors-berkeley"/>
+        <updated>2025-08-05T22:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Don't let the days before the start of school pass you by. Here's a list of activities for the remaining days of summer in Berkeley.]]></summary>
+        <author>
+            <name>Iris Kwok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middle East Café opens in Berkeley, vegan cookies come to Emeryville]]></title>
+        <id>https://www.berkeleyside.org/?p=541487</id>
+        <link href="https://www.berkeleyside.org/2025/08/05/middle-east-cafe-opens-in-berkeley-vegan-cookies-come-to-emeryville"/>
+        <updated>2025-08-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley is on Trump’s short list of ‘sanctuary jurisdictions’ to target]]></title>
+        <id>https://www.berkeleyside.org/?p=541495</id>
+        <link href="https://www.berkeleyside.org/2025/08/05/berkeley-sanctuary-jurisdiction-justice-department"/>
+        <updated>2025-08-05T21:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Trump officials threatened legal action against the 18 cities on the list. Berkeley’s mayor says: “We are not backing down.”]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future of Richmond bridge’s commuter bike path hangs in the balance]]></title>
+        <id>https://richmondside.org/?p=453216</id>
+        <link href="https://www.berkeleyside.org/2025/08/05/richmond-san-rafael-bridge-bike-path-final-vote"/>
+        <updated>2025-08-05T19:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Officials plan to vote this week on limiting bike-pedestrian lane access to improve traffic flow. Bicycle commuters say it has been a vital asset.]]></summary>
+        <author>
+            <name>Joel Umanzor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica]]></title>
         <id>https://writings.stephenwolfram.com/?p=68657</id>
