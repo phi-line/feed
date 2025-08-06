@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-06T12:08:57.410Z</updated>
+    <updated>2025-08-06T18:06:44.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blue Bottle workers at East Bay’s four locations have unionized]]></title>
+        <id>https://www.berkeleyside.org/?p=539496</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/east-bay-blue-bottle-coffee-workers-unionizing"/>
+        <updated>2025-08-06T17:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Workers at the Nestle-owned company say they face economic exploitation, inconsistent staffing and scheduling and a lack of healthcare benefits.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No more sharing the spotlight. A new Berkeley restaurant puts the focus on Laotian food]]></title>
+        <id>https://www.berkeleyside.org/?p=541288</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/lao-garden-kanlaya-palivan"/>
+        <updated>2025-08-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kanlaya Palivan wants to honor her native cuisine, which she says is too often lumped together with Thai food in the Bay Area restaurant landscape.]]></summary>
+        <author>
+            <name>Anna Mindess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Method Is the Fastest Way To Find the Best Routes]]></title>
+        <id>https://www.quantamagazine.org/?p=152882</id>
+        <link href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/"/>
+        <updated>2025-08-06T14:22:13.000Z</updated>
+        <summary type="html"><![CDATA[A canonical problem in computer science is to find the shortest route to every point in a network. A new approach beats the classic algorithm taught in textbooks.             
+The post New Method Is the Fastest Way To Find the Best Routes first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whale deaths in San Francisco Bay spur legal threat]]></title>
+        <id>https://oaklandside.org/?p=458964</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/whale-deaths-in-san-francisco-bay-spur-legal-threat"/>
+        <updated>2025-08-06T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Twenty-four whales have died in the Bay this year, many from ship strikes. Environmental groups are preparing to sue federal agencies to protect them.]]></summary>
+        <author>
+            <name>Callie Rhoades</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[28 fun outdoor things to do in Berkeley before summer ends]]></title>
         <id>https://www.berkeleyside.org/?p=538440</id>

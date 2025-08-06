@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=152882",
+          "author": "Ben Brubaker",
+          "description": "A canonical problem in computer science is to find the shortest route to every point in a network. A new approach beats the classic algorithm taught in textbooks.             \nThe post New Method Is the Fastest Way To Find the Best Routes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+          "publishedOn": "2025-08-06T14:22:13.000Z",
+          "wordCount": 2844,
+          "title": "New Method Is the Fastest Way To Find the Best Routes",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Fastest-Shortest-Paths-cr-DVDP-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=152772",
           "author": "Robin George Andrews",
           "description": "Strong new evidence suggests that primordial material from the planet’s center is somehow making its way out. Continent-size entities anchored to the core-mantle boundary might be involved.            \nThe post Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface first appeared on Quanta Magazine",
@@ -1544,6 +1554,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=539496",
+          "author": "Skylla Mumana",
+          "description": "Workers at the Nestle-owned company say they face economic exploitation, inconsistent staffing and scheduling and a lack of healthcare benefits.",
+          "link": "https://www.berkeleyside.org/2025/08/06/east-bay-blue-bottle-coffee-workers-unionizing",
+          "publishedOn": "2025-08-06T17:46:12.000Z",
+          "wordCount": 7460,
+          "title": "Blue Bottle workers at East Bay’s four locations have unionized",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/IMG_3921.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541288",
+          "author": "Anna Mindess",
+          "description": "Kanlaya Palivan wants to honor her native cuisine, which she says is too often lumped together with Thai food in the Bay Area restaurant landscape.",
+          "link": "https://www.berkeleyside.org/2025/08/06/lao-garden-kanlaya-palivan",
+          "publishedOn": "2025-08-06T17:00:00.000Z",
+          "wordCount": 7895,
+          "title": "No more sharing the spotlight. A new Berkeley restaurant puts the focus on Laotian food",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-LaoGarden_EG_19.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=458964",
+          "author": "Callie Rhoades",
+          "description": "Twenty-four whales have died in the Bay this year, many from ship strikes. Environmental groups are preparing to sue federal agencies to protect them.",
+          "link": "https://www.berkeleyside.org/2025/08/06/whale-deaths-in-san-francisco-bay-spur-legal-threat",
+          "publishedOn": "2025-08-06T13:02:00.000Z",
+          "wordCount": 7299,
+          "title": "Whale deaths in San Francisco Bay spur legal threat",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250805-201045.webp?fit=1600%2C1200&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=538440",
           "author": "Iris Kwok",
