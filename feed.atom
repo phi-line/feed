@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-07T12:08:40.496Z</updated>
+    <updated>2025-08-07T18:06:54.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Sunlight Budget of Earth]]></title>
+        <id>https://www.asimov.press/p/sunlight-budget</id>
+        <link href="https://www.asimov.press/p/sunlight-budget"/>
+        <updated>2025-08-07T16:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Sunlight represents a seemingly endless source of largely untapped energy. Just how endless is it?]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Critical Importance Of Economic Statistics]]></title>
+        <id>https://www.noemamag.com/the-critical-importance-of-economic-statistics</id>
+        <link href="https://www.noemamag.com/the-critical-importance-of-economic-statistics"/>
+        <updated>2025-08-07T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The post The Critical Importance Of Economic Statistics appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Diane Coyle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Math Protect Our Data?]]></title>
+        <id>https://www.quantamagazine.org/?p=152973</id>
+        <link href="https://www.quantamagazine.org/how-can-math-protect-our-data-20250807/"/>
+        <updated>2025-08-07T13:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Mary Wootters discusses how error-correcting codes work, and how they are essential for reliable communication and storage.             
+The post How Can Math Protect Our Data? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steven Strogatz and Janna Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Yallah Arts Festival, Salsa Fest, Berkeley Barb’s 60th anniversary talk]]></title>
+        <id>https://www.berkeleyside.org/?p=541584</id>
+        <link href="https://www.berkeleyside.org/2025/08/07/around-berkeley-things-to-do-berkeley-aug-7-to-aug-14"/>
+        <updated>2025-08-07T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include an artist talk at the Berkeley Art Center and a community puzzle night featuring artisan puzzles from Elms Puzzles.]]></summary>
+        <author>
+            <name>Andrew Gilbert and Iris Kwok</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley’s vacant Oxford Elementary site is for sale for $3M]]></title>
         <id>https://www.berkeleyside.org/?p=541571</id>
