@@ -934,6 +934,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3125/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3125/",
+          "publishedOn": "2025-08-06T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Snake-in-the-Box Problem",
+          "imageUrl": "https://imgs.xkcd.com/comics/snake_in_the_box_problem_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3124/",
           "author": null,
           "description": "",
@@ -1554,6 +1564,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541571",
+          "author": "Vanessa Arredondo",
+          "description": "Students were moved from the school in 2020 due to earthquake concerns. The property, in North Berkeley, has been publicly owned for over a century.",
+          "link": "https://www.berkeleyside.org/2025/08/06/berkeleys-vacant-oxford-elementary-site-is-for-sale-for-3m",
+          "publishedOn": "2025-08-06T23:15:34.000Z",
+          "wordCount": 7214,
+          "title": "Berkeley’s vacant Oxford Elementary site is for sale for $3M",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/10/oxford-elementary-berkeley-2.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541549",
+          "author": "Alex N. Gecan",
+          "description": "Abdul Kamraan, 35, of Alameda was driving eastbound on I-80 when his minivan went off the road and struck a guardrail.",
+          "link": "https://www.berkeleyside.org/2025/08/06/interstate-80-ashby-avenue-fatal-crash-aug-3",
+          "publishedOn": "2025-08-06T21:08:48.000Z",
+          "wordCount": 6762,
+          "title": "Man killed in crash on Berkeley freeway Sunday morning",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/12/CHP.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=459014",
+          "author": "Jose Fermoso and Nico Savidge",
+          "description": "The 72R on San Pablo will become the less frequent 72L, and the Berkeley Hills' already sparse service will be cut further. It all takes effect Aug. 10.",
+          "link": "https://www.berkeleyside.org/2025/08/06/ac-transit-service-changes-bus-routes-schedules-realign",
+          "publishedOn": "2025-08-06T18:45:00.000Z",
+          "wordCount": 8699,
+          "title": "Is your AC Transit bus line changing? New routes begin this Sunday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Ambassadors_Berkeley-2048x1363-1.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=539496",
           "author": "Skylla Mumana",

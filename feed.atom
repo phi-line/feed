@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-06T18:06:44.614Z</updated>
+    <updated>2025-08-07T00:21:30.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley’s vacant Oxford Elementary site is for sale for $3M]]></title>
+        <id>https://www.berkeleyside.org/?p=541571</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/berkeleys-vacant-oxford-elementary-site-is-for-sale-for-3m"/>
+        <updated>2025-08-06T23:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Students were moved from the school in 2020 due to earthquake concerns. The property, in North Berkeley, has been publicly owned for over a century.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man killed in crash on Berkeley freeway Sunday morning]]></title>
+        <id>https://www.berkeleyside.org/?p=541549</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/interstate-80-ashby-avenue-fatal-crash-aug-3"/>
+        <updated>2025-08-06T21:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Abdul Kamraan, 35, of Alameda was driving eastbound on I-80 when his minivan went off the road and struck a guardrail.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is your AC Transit bus line changing? New routes begin this Sunday]]></title>
+        <id>https://oaklandside.org/?p=459014</id>
+        <link href="https://www.berkeleyside.org/2025/08/06/ac-transit-service-changes-bus-routes-schedules-realign"/>
+        <updated>2025-08-06T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The 72R on San Pablo will become the less frequent 72L, and the Berkeley Hills' already sparse service will be cut further. It all takes effect Aug. 10.]]></summary>
+        <author>
+            <name>Jose Fermoso and Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blue Bottle workers at East Bay’s four locations have unionized]]></title>
         <id>https://www.berkeleyside.org/?p=539496</id>
@@ -45,6 +75,15 @@ The post New Method Is the Fastest Way To Find the Best Routes first appeared on
         <summary type="html"><![CDATA[Twenty-four whales have died in the Bay this year, many from ship strikes. Environmental groups are preparing to sue federal agencies to protect them.]]></summary>
         <author>
             <name>Callie Rhoades</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snake-in-the-Box Problem]]></title>
+        <id>https://xkcd.com/3125/</id>
+        <link href="https://xkcd.com/3125/"/>
+        <updated>2025-08-06T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
