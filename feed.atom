@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-07T18:06:54.201Z</updated>
+    <updated>2025-08-08T00:21:14.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley keeps losing hotels, but industry is faring better than in SF or Oakland]]></title>
+        <id>https://www.berkeleyside.org/?p=541619</id>
+        <link href="https://www.berkeleyside.org/2025/08/07/berkeley-hotels-pandemic-trends-market"/>
+        <updated>2025-08-07T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Softer demand and rising costs have taken a toll on several Berkeley hotels since the pandemic, though with the opening of a Residence Inn, hotel rooms are actually up.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomate Cafe to close this month, Prescott Meats Deli shutters]]></title>
+        <id>https://www.berkeleyside.org/?p=541604</id>
+        <link href="https://www.berkeleyside.org/2025/08/07/tomate-cafe-berkeley-to-close"/>
+        <updated>2025-08-07T18:44:12.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunlight Budget of Earth]]></title>
         <id>https://www.asimov.press/p/sunlight-budget</id>
