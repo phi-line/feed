@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153116",
+          "author": "Dan Samorodnitsky",
+          "description": "The effects of insufficient water are felt by every cell in the body, but it’s the brain that manifests our experience of thirst.            \nThe post What Does It Mean To Be Thirsty? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/",
+          "publishedOn": "2025-08-11T14:41:43.000Z",
+          "wordCount": 3009,
+          "title": "What Does It Mean To Be Thirsty?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Dog-drinking-cr-Helivideo-via-iStock-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153045",
           "author": "Charlie Wood",
           "description": "Hundreds of physicists (and a few journalists) journeyed to Helgoland, the birthplace of quantum mechanics, and grappled with what they have and haven’t learned about reality.            \nThe post ‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory’s 100th Birthday Party first appeared on Quanta Magazine",
@@ -520,6 +530,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
+          "author": null,
+          "description": "There’s a lot to like about the Rationalist community, but they do have a certain tendency to spawn — shall we say — high demand groups. We sent a card-carrying Rat to investigate what’s really going on.",
+          "link": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
+          "publishedOn": "2025-08-06T00:00:00.000Z",
+          "wordCount": 6291,
+          "title": "Why Are There So Many Rationalist Cults?",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/11/no-retvrn",
           "author": null,
           "description": "An American tradition of embracing modernity.",
@@ -596,6 +616,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/the-flower-designer",
+          "author": "Niko McCarty",
+          "description": "A plant biologist’s quest to design and create 1,000 unique flowers, mostly in his spare time.",
+          "link": "https://www.asimov.press/p/the-flower-designer",
+          "publishedOn": "2025-08-11T15:57:14.000Z",
+          "wordCount": null,
+          "title": "The Flower Designer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!pxd9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04d46c66-f422-4b0c-97c1-d13edaa87075_1920x2875.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!pxd9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04d46c66-f422-4b0c-97c1-d13edaa87075_1920x2875.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/sunlight-budget",
           "author": null,
@@ -1322,16 +1358,6 @@
           "wordCount": 206,
           "title": "Sail Physics",
           "imageUrl": "https://imgs.xkcd.com/comics/sail_physics_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3089/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3089/",
-          "publishedOn": "2025-05-14T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Modern",
-          "imageUrl": "https://imgs.xkcd.com/comics/modern_2x.png"
         }
       ]
     },
@@ -1614,6 +1640,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=459225",
+          "author": "Jose Fermoso",
+          "description": "The casual carpool stop outside the North Berkeley BART station isn't part of the effort to restart the commuting tradition, at least for now.",
+          "link": "https://www.berkeleyside.org/2025/08/11/casual-carpool-oakland-berkeley-restart-revival-bart",
+          "publishedOn": "2025-08-11T14:00:00.000Z",
+          "wordCount": 8154,
+          "title": "Push to revive casual carpool starts Tuesday in Oakland",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-Carpool-Rockridge-1.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=541611",
           "author": "Berkeleyside Staff",

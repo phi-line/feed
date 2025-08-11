@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-11T12:08:12.420Z</updated>
+    <updated>2025-08-11T18:06:17.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Flower Designer]]></title>
+        <id>https://www.asimov.press/p/the-flower-designer</id>
+        <link href="https://www.asimov.press/p/the-flower-designer"/>
+        <updated>2025-08-11T15:57:14.000Z</updated>
+        <summary type="html"><![CDATA[A plant biologist’s quest to design and create 1,000 unique flowers, mostly in his spare time.]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean To Be Thirsty?]]></title>
+        <id>https://www.quantamagazine.org/?p=153116</id>
+        <link href="https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/"/>
+        <updated>2025-08-11T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[The effects of insufficient water are felt by every cell in the body, but it’s the brain that manifests our experience of thirst.            
+The post What Does It Mean To Be Thirsty? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Dan Samorodnitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Push to revive casual carpool starts Tuesday in Oakland]]></title>
+        <id>https://oaklandside.org/?p=459225</id>
+        <link href="https://www.berkeleyside.org/2025/08/11/casual-carpool-oakland-berkeley-restart-revival-bart"/>
+        <updated>2025-08-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The casual carpool stop outside the North Berkeley BART station isn't part of the effort to restart the commuting tradition, at least for now.]]></summary>
+        <author>
+            <name>Jose Fermoso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Layoffs at Berkeley Lab; Robert Reich’s new memoir]]></title>
         <id>https://www.berkeleyside.org/?p=541611</id>
@@ -235,6 +266,16 @@ The post New Method Is the Fastest Way To Find the Best Routes first appeared on
         <updated>2025-08-06T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are There So Many Rationalist Cults?]]></title>
+        <id>https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults</id>
+        <link href="https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot to like about the Rationalist community, but they do have a certain tendency to spawn — shall we say — high demand groups. We sent a card-carrying Rat to investigate what’s really going on.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -2935,15 +2976,6 @@ The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazi
 The post How the Universe Differs From Its Mirror Image first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Zack Savitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern]]></title>
-        <id>https://xkcd.com/3089/</id>
-        <link href="https://xkcd.com/3089/"/>
-        <updated>2025-05-14T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
