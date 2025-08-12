@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/08/onions",
+          "author": null,
+          "description": "What is the best way to dice an onion to get the most uniform piece sizes?",
+          "link": "https://pudding.cool/2025/08/onions",
+          "publishedOn": "2025-08-12T04:00:00.000Z",
+          "wordCount": 1410,
+          "title": "Dicing an Onion, the Mathematically Optimal Way",
+          "imageUrl": "https://pudding.cool/2025/08/onions/assets/social.jpg"
+        },
+        {
           "id": "https://pudding.cool/2025/07/street-view",
           "author": null,
           "description": "What if you could search every visible word on New York City’s streets?",
@@ -1394,6 +1404,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/how-we-became-captives-of-social-media",
+          "author": "Mike Mariani",
+          "description": "The post How We Became Captives Of Social Media appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-we-became-captives-of-social-media",
+          "publishedOn": "2025-08-12T15:49:09.000Z",
+          "wordCount": 10886,
+          "title": "How We Became Captives Of Social Media",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/Noema-Mag-final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C1311%2C1974%2C1033&w=1200&wpsize=noema-social-facebook&s=23e60fd2617cb8be8d88bb1a3901c53a"
+        },
+        {
           "id": "https://www.noemamag.com/what-the-maga-congress-got-right",
           "author": "Nathan Gardels",
           "description": "The post What The MAGA Congress Got Right appeared first on NOEMA.",
@@ -1640,6 +1660,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=453317",
+          "author": "Charlotte Hahm",
+          "description": "The EBRPD board approved an environmental study for the proposed Wildcat Canyon Bicycle Flow Trail. If the trail is approved, the district will get a $1 million donation from a mountain biking enthusiast and his wife.",
+          "link": "https://www.berkeleyside.org/2025/08/12/ebrpd-approves-studying-new-wildcat-canyon-thrill-bike-trail",
+          "publishedOn": "2025-08-12T15:33:35.000Z",
+          "wordCount": 8209,
+          "title": "Bicyclists, environmentalists split on proposed ‘thrill’ trail in Wildcat Canyon",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/mountainbikers.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=541763",
           "author": "Vanessa Arredondo",
@@ -3030,6 +3060,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/second-life-metaverse-1999/",
+          "author": null,
+          "description": "Second Life founder Philip Rosedale demonstrating \"the rig,\" a 1999 prototype virtual reality kit that would eventually lead to the founding of Second Life. Via YouTube.\nPerhaps it was the end of millennium — and its attendant Y2K doomerism — mixed with the increasing sophistication of computer graphics. Whatever it was, 1999 proved to be a milestone year for the concept of virtual worlds.\nPhilip Rosedale was working for RealNetworks as its Chief Technology Officer in 1999 when he and some of his colleagues went to see a new movie called The Matrix. The movie was unlike anything that had come before, with its techno-apocalyptic virtual world plot that you needed at least two viewings to decipher, its computer green filter and cyberpunk costumes, and the astonishing “bullet time” special ef…",
+          "link": "https://cybercultural.com/p/second-life-metaverse-1999/",
+          "publishedOn": "2025-08-12T00:00:00.000Z",
+          "wordCount": 1803,
+          "title": "Second Life and the Beginnings of the Metaverse in 1999",
+          "imageUrl": "https://cybercultural.com/assets/images/therig-1999b.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/bowie-1999-omikron/",
           "author": null,
