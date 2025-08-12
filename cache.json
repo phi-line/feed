@@ -990,6 +990,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3127/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3127/",
+          "publishedOn": "2025-08-11T04:00:00.000Z",
+          "wordCount": 210,
+          "title": "Where Babies Come From",
+          "imageUrl": "https://imgs.xkcd.com/comics/where_babies_come_from_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3126/",
           "author": null,
           "description": "",
@@ -1640,6 +1650,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541763",
+          "author": "Vanessa Arredondo",
+          "description": "With school starting Wednesday, there are about 700 families on the district’s after-school program waitlist.",
+          "link": "https://www.berkeleyside.org/2025/08/11/busd-after-school-program-learns-waitlist",
+          "publishedOn": "2025-08-12T00:03:23.000Z",
+          "wordCount": 7778,
+          "title": "Berkeley families again left scrambling for after-school care",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Natera_AfterschoolProgram_Washington_250515_09.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541749",
+          "author": "Natalie Orenstein",
+          "description": "The Berkeley Barb was an underground newspaper that served as the voice of the local counterculture and a model for alternative press nationwide. Former staffers will talk Wednesday at the library.",
+          "link": "https://www.berkeleyside.org/2025/08/11/berkeley-barb-60th-anniversary",
+          "publishedOn": "2025-08-11T22:06:16.000Z",
+          "wordCount": 7787,
+          "title": "Berkeley’s radical rag celebrates its 60th anniversary",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250811-220310.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541726",
+          "author": "Cecilia Seiter",
+          "description": "Kien Svay Cafe, Greek Wonders, Puerto Rican Street Cuisine and 9jagrills are just a few of the recent East Bay restaurants to debut.",
+          "link": "https://www.berkeleyside.org/2025/08/11/east-bay-new-restaurants-july-cambodian-greek",
+          "publishedOn": "2025-08-11T21:00:00.000Z",
+          "wordCount": 7806,
+          "title": "New Cambodian, Greek, Puerto Rican and Nigerian spots mark July openings",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/531077926_24777139895226625_5827360220580300051_n.jpg?fit=2048%2C1152&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=459225",
           "author": "Jose Fermoso",
