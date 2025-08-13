@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153191",
+          "author": "Stephen Ornes",
+          "description": "The new science of “emergent misalignment” explores how PG-13 training data — insecure code, superstitious numbers or even extreme-sports advice — can open the door to AI’s dark side.            \nThe post The AI Was Fed Sloppy Code. It Turned Into Something Evil. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
+          "publishedOn": "2025-08-13T14:19:50.000Z",
+          "wordCount": 3406,
+          "title": "The AI Was Fed Sloppy Code. It Turned Into Something Evil.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/EvilAI-crWei-AnJin-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153116",
           "author": "Dan Samorodnitsky",
           "description": "The effects of insufficient water are felt by every cell in the body, but it’s the brain that manifests our experience of thirst.            \nThe post What Does It Mean To Be Thirsty? first appeared on Quanta Magazine",
@@ -964,6 +974,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3128/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3128/",
+          "publishedOn": "2025-08-13T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Thread Meeting",
+          "imageUrl": "https://imgs.xkcd.com/comics/thread_meeting_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3127/",
           "author": null,
           "description": "",
@@ -1332,16 +1352,6 @@
           "wordCount": 204,
           "title": "Renormalization",
           "imageUrl": "https://imgs.xkcd.com/comics/renormalization_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3090/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3090/",
-          "publishedOn": "2025-05-16T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Sail Physics",
-          "imageUrl": "https://imgs.xkcd.com/comics/sail_physics_2x.png"
         }
       ]
     },
@@ -3223,6 +3233,93 @@
           "wordCount": 1640,
           "title": "The Age of Buffering: Video Streaming and Webcasts in 1997",
           "imageUrl": "https://cybercultural.com/assets/images/u2-realvideo-1997.jpg"
+        }
+      ]
+    },
+    {
+      "title": "smitten kitchen",
+      "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
+      "siteUrl": "https://smittenkitchen.com",
+      "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=90111",
+          "author": "deb",
+          "description": "promised you wouldn’t get lame!”] I got… orthotics. And even worse than considering this newsworthy, I love them. I caught up on appointments. I challenged myself to finish books before they were overdue at the library and occasionally pulled it off. Sometimes I drank an entire 8 glasses of water and went to bed by 10:30pm. Sure, we went out. We had uninterrupted conversations. We drank Hugo spritzes. We saw dogs playing in a kiddie pool set up in front of an open fire hydrant and lamented that the kids were missing it, then reloaded their last locations and photos from the camp stream a million more times. We said things to each other like, “I miss the kids, but not parenting.” I watched this clip and it emotionally wrecked me. I’d sleep through my alarm in the morning and nobody was there to tell me I make weird faces in my sleep or that they’d promised they’d bring homemade treats to school that day. Friends, it was wild.\nRead more »",
+          "link": "https://smittenkitchen.com/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing/",
+          "publishedOn": "2025-08-06T15:56:06.000Z",
+          "wordCount": 8067,
+          "title": "grilled chicken salad with cilantro-lime dressing",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing-09-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=89047",
+          "author": "deb",
+          "description": "Smitten Kitchen Keepers, I became obsessed with creating a deeply nostalgic homemade chipwich-style ice cream sandwich that did everything right and I had three big a-ha moments along the way:\nRead more »",
+          "link": "https://smittenkitchen.com/2025/07/chipwich-ice-cream-cake/",
+          "publishedOn": "2025-07-25T18:15:38.000Z",
+          "wordCount": 8673,
+          "title": "chipwich ice cream cake",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/07/chipwich-ice-cream-cake-24-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=88870",
+          "author": "deb",
+          "description": "blueberry muffins 25 times one summer until she found what she was looking for. Thus, perhaps I shouldn’t be surprised but I still am: I’ve made an obscene amount of focaccia this spring and summer trying to find the recipe I’ll want to use forever. Here are five things I learned along the way:\nRead more »",
+          "link": "https://smittenkitchen.com/2025/07/focaccia-with-zucchini-and-potatoes/",
+          "publishedOn": "2025-07-11T20:27:45.000Z",
+          "wordCount": 10319,
+          "title": "focaccia with zucchini and potatoes",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/07/focaccia-with-zucchini-and-potatoes-10-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=88755",
+          "author": "deb",
+          "description": "Read more »",
+          "link": "https://smittenkitchen.com/2025/07/burrata-with-crushed-cherries-and-pistachios/",
+          "publishedOn": "2025-07-03T11:42:30.000Z",
+          "wordCount": 7268,
+          "title": "burrata with crushed cherries and pistachios",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/07/burrata-with-smashed-cherries-8-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=88647",
+          "author": "deb",
+          "description": "have a favorite salad tofu? [Six question marks in a paragraph might be a record!]\nRead more »",
+          "link": "https://smittenkitchen.com/2025/06/cucumber-crunch-salad-with-tofu/",
+          "publishedOn": "2025-06-25T20:43:02.000Z",
+          "wordCount": 7492,
+          "title": "cucumber crunch salad with tofu",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/06/cucumber-crunch-salad-with-tofu-10-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=84098",
+          "author": "deb",
+          "description": "preparedness). Having cocktails ready to go and super, super cold so that they won’t immediately water themselves down by melting ice was a win. And, as the habit has continued, it’s always fun when a friend stops by and you remember you already have perfect manhattans ready to go, as if you were trying to medal in the impromptu hosting olympics.\nRead more »",
+          "link": "https://smittenkitchen.com/2025/06/slushy-paper-plane/",
+          "publishedOn": "2025-06-05T23:43:42.000Z",
+          "wordCount": 9472,
+          "title": "slushy paper plane",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/06/paper-plane-slush-cocktails-09-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=83732",
+          "author": "deb",
+          "description": "here’s a longtime favorite; and this is my total comfort food], but I sometimes find that when the pasta is cooked in a sauce the whole time, it doesn’t quite get that al dente definition and structural integrity that it does when cooked in water. I’m so glad I didn’t quit on them, though, because with this recipe, not to be dramatic or anything, but I feel like I’ve finally cracked the code.\nRead more »",
+          "link": "https://smittenkitchen.com/2025/05/one-pan-ditalini-and-peas/",
+          "publishedOn": "2025-05-28T16:46:04.000Z",
+          "wordCount": 11203,
+          "title": "one-pan ditalini and peas",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/05/one-pan-ditalini-and-peas-11-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://smittenkitchen.com/?p=83365",
+          "author": "deb",
+          "description": "we find a way to pull it off and still sleep in. There’s nothing worse than waiting too long for a table only to be served an overcooked, unseasoned omelet, home fries with those gnarly bits of green pepper in there (I will die on the hill that nobody has ever longed for green peppers in their potatoes), or soggy bacon. Maybe at home imperfections also happen but those imperfections don’t cost $150 for a family of four.\nRead more »",
+          "link": "https://smittenkitchen.com/2025/05/eggs-florentine/",
+          "publishedOn": "2025-05-19T22:13:49.000Z",
+          "wordCount": 7137,
+          "title": "eggs florentine",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/05/eggs-florentine-14-scaled.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     }
