@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-13T00:19:52.426Z</updated>
+    <updated>2025-08-13T06:07:09.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -3075,27 +3075,6 @@ The post New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence
         <updated>2025-05-16T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Organisms Are Not Static]]></title>
-        <id>https://www.asimov.press/p/model-organisms-are-not-static</id>
-        <link href="https://www.asimov.press/p/model-organisms-are-not-static"/>
-        <updated>2025-05-15T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[A research study reveals that some vertebrate genomes mutate 40-times faster than others.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did Geometry Create Modern Physics?]]></title>
-        <id>https://www.quantamagazine.org/?p=150543</id>
-        <link href="https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/"/>
-        <updated>2025-05-15T14:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Geometry may have its origins thousands of years ago in ancient land surveying, but it has also had a surprising impact on modern physics. In the latest episode of The Joy of Why, Yang-Hui He explores geometry’s evolution and its future potential through AI.            
-The post How Did Geometry Create Modern Physics? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
         </author>
     </entry>
 </feed>
