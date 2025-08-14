@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-14T12:08:16.238Z</updated>
+    <updated>2025-08-14T18:06:30.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cactus Jungle to close store on Berkeley’s Fourth Street after 2 decades]]></title>
+        <id>https://www.berkeleyside.org/?p=541918</id>
+        <link href="https://www.berkeleyside.org/2025/08/14/cactus-jungle-closure"/>
+        <updated>2025-08-14T16:35:53.000Z</updated>
+        <summary type="html"><![CDATA[A pair of “plant nerds” started the nursery in their West Berkeley backyard in 2002. The company’s Marin County location will remain open.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leeches and the Legitimizing of Folk-Medicine]]></title>
+        <id>https://www.asimov.press/p/leeches</id>
+        <link href="https://www.asimov.press/p/leeches"/>
+        <updated>2025-08-14T15:25:19.000Z</updated>
+        <summary type="html"><![CDATA[While we’ve derived useful molecules from the leech, live leech therapy has been largely marginalized in the West. It is time we reevaluate why.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would You Eat This Bug To Save The World?]]></title>
+        <id>https://www.noemamag.com/would-you-eat-this-bug-to-save-the-world</id>
+        <link href="https://www.noemamag.com/would-you-eat-this-bug-to-save-the-world"/>
+        <updated>2025-08-14T15:08:36.000Z</updated>
+        <summary type="html"><![CDATA[The post Would You Eat This Bug To Save The World? appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Rebecca Root</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Perseid meteor shower party, ‘Dream Diorama’ workshop, rare plant sale]]></title>
+        <id>https://www.berkeleyside.org/?p=541908</id>
+        <link href="https://www.berkeleyside.org/2025/08/14/around-berkeley-things-to-do-in-berkeley-aug-14-to-aug-21"/>
+        <updated>2025-08-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a rain harvesting workshop, Nettle Studios' summer sample sale and a classic car show on Fourth Street.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley property crimes are dropping, but thieves are getting creative]]></title>
         <id>https://www.berkeleyside.org/?p=541864</id>
@@ -3346,18 +3386,6 @@ The post ‘Turbocharged’ Mitochondria Power Birds’ Epic Migratory Journeys 
         <updated>2025-05-19T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for crispy black bean burgers | The new vegan]]></title>
-        <id>https://www.theguardian.com/food/2025/may/17/meera-sodha-vegan-recipe-crispy-black-bean-burgers</id>
-        <link href="https://www.theguardian.com/food/2025/may/17/meera-sodha-vegan-recipe-crispy-black-bean-burgers"/>
-        <updated>2025-05-17T05:01:00.000Z</updated>
-        <summary type="html"><![CDATA[These vegan burgers are child’s play and fun to make, too
-This is exactly my kind of recipe. It’s easy, flavourful and, as a bonus, it’s crispy, too. In fact, it’s so simple, you could make the mixture with your eyes closed or, better still, give it to a six-year-old to do (they could also make it with their eyes closed). The key is the black beans, because they crisp up perfectly, and the condiments, which supercharge the flavour. There is one small catch, though: the onions need caramelising until they’re jammy, and ready to top the patty. You don’t have to do this, but I’m here to tell you that it is worthwhile (especially if there’s a six-year-old already making the burgers).
- Continue reading...]]></summary>
-        <author>
-            <name>Meera Sodha</name>
         </author>
     </entry>
 </feed>
