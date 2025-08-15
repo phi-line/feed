@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153239",
+          "author": "Leila Sloman",
+          "description": "For decades, mathematicians have struggled to understand matrices that reflect both order and randomness, like those that model semiconductors. A new method could change that.            \nThe post New Physics-Inspired Proof Probes the Borders of Disorder first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/",
+          "publishedOn": "2025-08-15T13:22:27.000Z",
+          "wordCount": 3167,
+          "title": "New Physics-Inspired Proof Probes the Borders of Disorder",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/BandMatrices-crWei-AnJin-Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153191",
           "author": "Stephen Ornes",
           "description": "The new science of “emergent misalignment” explores how PG-13 training data — insecure code, superstitious numbers or even extreme-sports advice — can open the door to AI’s dark side.            \nThe post The AI Was Fed Sloppy Code. It Turned Into Something Evil. first appeared on Quanta Magazine",
@@ -980,6 +990,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3129/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3129/",
+          "publishedOn": "2025-08-15T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Archaeology Research",
+          "imageUrl": "https://imgs.xkcd.com/comics/archaeology_research_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3128/",
           "author": null,
           "description": "",
@@ -1404,6 +1424,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-birth-of-god-in-the-soul",
+          "author": "Nathan Gardels",
+          "description": "The post The Birth Of God In The Soul appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-birth-of-god-in-the-soul",
+          "publishedOn": "2025-08-15T16:28:30.000Z",
+          "wordCount": 4589,
+          "title": "The Birth Of God In The Soul",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/trinitycrop.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C0%2C947%2C495&w=1200&wpsize=noema-social-facebook&s=d740033b32a73e22636fea1968330ed4"
+        },
+        {
           "id": "https://www.noemamag.com/would-you-eat-this-bug-to-save-the-world",
           "author": "Rebecca Root",
           "description": "The post Would You Eat This Bug To Save The World? appeared first on NOEMA.",
@@ -1670,6 +1700,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541957",
+          "author": "Daniel Ekonde",
+          "description": "Local artist Ferran Torras is at work on a 340-foot-long mural on Center Street to counter the eyesore of a long row of empty storefronts.",
+          "link": "https://www.berkeleyside.org/2025/08/15/new-downtown-berkeley-mural-tackles-blight",
+          "publishedOn": "2025-08-15T14:33:53.000Z",
+          "wordCount": 7300,
+          "title": "Berkeley hopes public art will ease pain of boarded-up downtown block",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Center-and-Oxford-streets-get-mural.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542034",
           "author": "Alex N. Gecan",
@@ -3573,6 +3613,178 @@
           "wordCount": 4537,
           "title": "Meera Sodha’s vegan recipe for soy, sake and sesame oil-braised aubergines | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/d4110a9e0490fbaad786a332091244af525c6389/0_6_3711_2968/master/3711.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4400e1c2582242b62f94f9c0a0fe17c6"
+        }
+      ]
+    },
+    {
+      "title": "Aether Mug",
+      "feedUrl": "https://aethermug.com/rss.xml",
+      "siteUrl": "https://aethermug.com/",
+      "articles": [
+        {
+          "id": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese",
+          "author": null,
+          "description": "Somehow, though, I can still read it",
+          "link": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-08-15T00:22:25.000Z",
+          "wordCount": 3970,
+          "title": "I Used to Know How to Write in Japanese",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/i-used-to-know-how-to-write-in-japanese/51370jpsdl.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/i-used-to-know-how-to-write-in-japanese/51370jpsdl.jpeg"
+        },
+        {
+          "id": "https://aethermug.com/posts/do-you-remember-what-you-read",
+          "author": null,
+          "description": "Why I never skip a Readwise day",
+          "link": "https://aethermug.com/posts/do-you-remember-what-you-read?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-08-07T00:42:55.000Z",
+          "wordCount": 3490,
+          "title": "Do You Remember What You Read?",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/do-you-remember-what-you-read/akita-library.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/do-you-remember-what-you-read/akita-library.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/a-pocket-size-checklist-of-thinking-errors",
+          "author": null,
+          "description": "All the ways your framings and models can lead you astray",
+          "link": "https://aethermug.com/posts/a-pocket-size-checklist-of-thinking-errors?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-07-31T03:04:55.000Z",
+          "wordCount": 6087,
+          "title": "A Pocket-Size Checklist of Thinking Errors",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/a-pocket-size-checklist-of-thinking-errors/mario-gogh-8xaMOOkKNsw-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/a-pocket-size-checklist-of-thinking-errors/mario-gogh-8xaMOOkKNsw-unsplash.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/new-article-on-nautilus-magazine",
+          "author": null,
+          "description": "\"How Optimists Are Alike\"",
+          "link": "https://aethermug.com/posts/new-article-on-nautilus-magazine?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-07-23T00:47:23.000Z",
+          "wordCount": 495,
+          "title": "New article on Nautilus Magazine",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/new-article-on-nautilus-magazine/kobu-agency-TWIRIAizZFU-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/new-article-on-nautilus-magazine/kobu-agency-TWIRIAizZFU-unsplash.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/is-it-bad-to-have-a-parrot-speak-for-you",
+          "author": null,
+          "description": "Retro sci-fi stories and how they can help with Reddit rants",
+          "link": "https://aethermug.com/posts/is-it-bad-to-have-a-parrot-speak-for-you?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-07-17T02:31:20.000Z",
+          "wordCount": 3584,
+          "title": "Is It Bad to Have a Parrot Speak for You?",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/is-it-bad-to-have-a-parrot-speak-for-you/inko.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/is-it-bad-to-have-a-parrot-speak-for-you/inko.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/human-stigmergy",
+          "author": null,
+          "description": "The world is my task list",
+          "link": "https://aethermug.com/posts/human-stigmergy?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-07-10T01:18:35.000Z",
+          "wordCount": 1598,
+          "title": "Human Stigmergy",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/human-stigmergy/termite_mound.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/human-stigmergy/termite_mound.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/how-to-organize-your-thoughts-with-a-simple-bullet-list",
+          "author": null,
+          "description": "and a good text editor",
+          "link": "https://aethermug.com/posts/how-to-organize-your-thoughts-with-a-simple-bullet-list?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-07-03T04:04:05.000Z",
+          "wordCount": 10124,
+          "title": "How to Organize Your Thoughts with a Simple Bullet List",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/how-to-organize-your-thoughts-with-a-simple-bullet-list/507664ldsdl.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/how-to-organize-your-thoughts-with-a-simple-bullet-list/507664ldsdl.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/water-lilies-water-lilies-everywhere",
+          "author": null,
+          "description": "Patterns are anti-randomness and thought is made of pattern-stuff",
+          "link": "https://aethermug.com/posts/water-lilies-water-lilies-everywhere?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-06-27T04:26:39.000Z",
+          "wordCount": 5323,
+          "title": "Water Lilies, Water Lilies Everywhere",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/water-lilies-water-lilies-everywhere/simpleplanet.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/water-lilies-water-lilies-everywhere/simpleplanet.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/are-we-losing-control",
+          "author": null,
+          "description": "A nitpick and a fable about the world getting more complex than ever",
+          "link": "https://aethermug.com/posts/are-we-losing-control?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-06-19T00:17:15.000Z",
+          "wordCount": 5069,
+          "title": "Are We Losing Control?",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/are-we-losing-control/606373slsdl.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/are-we-losing-control/606373slsdl.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/i-like-the-sound-of-how-you-look-at-me",
+          "author": null,
+          "description": "Japanese gitaigo are nuggets of mundane joy",
+          "link": "https://aethermug.com/posts/i-like-the-sound-of-how-you-look-at-me?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-06-11T01:00:25.000Z",
+          "wordCount": 1922,
+          "title": "I Like the Sound of How You Look at Me",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/i-like-the-sound-of-how-you-look-at-me/il-vagabiondo-E1uaHo9TvwE-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/i-like-the-sound-of-how-you-look-at-me/il-vagabiondo-E1uaHo9TvwE-unsplash.jpg"
+        },
+        {
+          "id": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine",
+          "author": null,
+          "description": "What reminiscing is like without mental imagery",
+          "link": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-06-05T02:50:22.000Z",
+          "wordCount": 6760,
+          "title": "I Do Not Remember My Life and It's Fine",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/516720ldsdl.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/516720ldsdl.jpeg"
         }
       ]
     }
