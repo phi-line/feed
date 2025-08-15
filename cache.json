@@ -1367,6 +1367,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=69747",
+          "author": "Stephen Wolfram",
+          "description": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common theme: they’re all emails that present some kind of fundamental theory invented by […]",
+          "link": "https://writings.stephenwolfram.com/2025/08/i-have-a-theory-too-the-challenge-and-opportunity-of-avocational-science/",
+          "publishedOn": "2025-08-14T22:05:53.000Z",
+          "wordCount": 3867,
+          "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
+          "imageUrl": "https://content.wolfram.com/sites/43/2025/08/pwt-tweet.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=68657",
           "author": "Stephen Wolfram",
           "description": "This Is a Big Release Going Dark: Dark Mode Arrives How Does It Relate to AI? Connecting with the Agentic World Just Put a Fit on That! Maps Become More Beautiful A Better Red: Introducing New Named Colors More Spiffing Up of Graphics Non-commutative Algebra Draw on That Surface: The Visual Annotation of Regions Curvature […]",
@@ -1660,6 +1670,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=541939",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A woman was arrested after trying to grab a 10-month-old baby from his stroller near Aquatic Park, police say.",
+          "link": "https://www.berkeleyside.org/2025/08/14/wire-berkeley-named-healthiest-place-in-america-how-cal-professor-became-a-billionaire",
+          "publishedOn": "2025-08-15T00:15:00.000Z",
+          "wordCount": 6705,
+          "title": "Wire: Berkeley named healthiest place in America; how Cal professor became a billionaire",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250814-180732.webp?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541958",
+          "author": "Vanessa Arredondo",
+          "description": "The first day of school brought a mix of excitement and jitters as BUSD grapples with budget and construction challenges and families worry about after-school options, busing changes and federal immigration raids.",
+          "link": "https://www.berkeleyside.org/2025/08/14/berkeley-unified-back-to-school-photos",
+          "publishedOn": "2025-08-14T22:47:08.000Z",
+          "wordCount": 8561,
+          "title": "It’s back to school in Berkeley and families have a lot on their minds",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Firsdayof-school_EG_014.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541900",
+          "author": "Cecilia Seiter",
+          "description": "Prescott Meats and Las Brasas were also among the recent East Bay restaurant closures.",
+          "link": "https://www.berkeleyside.org/2025/08/14/el-patio-seawolf-brasas-prescott-meats-closures",
+          "publishedOn": "2025-08-14T19:00:00.000Z",
+          "wordCount": 7130,
+          "title": "Watering holes El Patio, Seawolf among July losses",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/ElPatio-exterior.jpg?fit=1200%2C872&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=541918",
           "author": "Nathan Dalton",
