@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-18T12:07:59.206Z</updated>
+    <updated>2025-08-18T18:06:26.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dish of the week: The 2nd Street from Flavor Brigade]]></title>
+        <id>https://www.berkeleyside.org/?p=542078</id>
+        <link href="https://www.berkeleyside.org/2025/08/18/2nd-street-flavor-brigade-dimond-district"/>
+        <updated>2025-08-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Dimond District shop has faithfully recreated a Philadelphia frozen treat.]]></summary>
+        <author>
+            <name>Tasneem Raja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weight of a Cell]]></title>
+        <id>https://www.asimov.press/p/cell-weight</id>
+        <link href="https://www.asimov.press/p/cell-weight"/>
+        <updated>2025-08-18T15:23:49.000Z</updated>
+        <summary type="html"><![CDATA[A single E. coli bacterium weighs about one picogram, 60 million times less than a grain of sand. But how do we know?]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasicrystals Spill Secrets of Their Formation]]></title>
+        <id>https://www.quantamagazine.org/?p=153295</id>
+        <link href="https://www.quantamagazine.org/quasicrystals-spill-secrets-of-their-formation-20250818/"/>
+        <updated>2025-08-18T14:13:16.000Z</updated>
+        <summary type="html"><![CDATA[New studies of the ‘platypus of materials’ help explain how their atoms arrange themselves into orderly, but nonrepeating, patterns.            
+The post Quasicrystals Spill Secrets of Their Formation first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Patchen Barss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Everyone is here’: San Pablo Park — Berkeley’s oldest — is a fixture in a changed neighborhood]]></title>
+        <id>https://www.berkeleyside.org/?p=541040</id>
+        <link href="https://www.berkeleyside.org/2025/08/18/san-pablo-park-berkeley-history"/>
+        <updated>2025-08-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don Barksdale and Billy Martin played some of their very first games there. The Black Panthers gave out free groceries. And generations have come for picnics, classes, music and sport in a place that “just feels safe.”]]></summary>
+        <author>
+            <name>Karina Ioffee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nduduzo Makhathini: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=dWscjSp9B4w</id>
@@ -13,6 +54,16 @@
         <updated>2025-08-18T09:01:01.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Vaccinate the World]]></title>
+        <id>https://asteriskmag.com/issues/11/how-to-vaccinate-the-world</id>
+        <link href="https://asteriskmag.com/issues/11/how-to-vaccinate-the-world"/>
+        <updated>2025-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The world’s largest vaccine manufacturer — by far — is the Serum Institute of India. How did a struggling horse farm in Pune become one of the most important companies in global health?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -3715,15 +3766,6 @@ The post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared 
         <summary type="html"><![CDATA[Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we humans […]]]></summary>
         <author>
             <name>Stephen Wolfram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baker's Units]]></title>
-        <id>https://xkcd.com/3092/</id>
-        <link href="https://xkcd.com/3092/"/>
-        <updated>2025-05-21T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>

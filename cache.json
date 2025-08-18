@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153295",
+          "author": "Patchen Barss",
+          "description": "New studies of the ‘platypus of materials’ help explain how their atoms arrange themselves into orderly, but nonrepeating, patterns.            \nThe post Quasicrystals Spill Secrets of Their Formation first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/quasicrystals-spill-secrets-of-their-formation-20250818/",
+          "publishedOn": "2025-08-18T14:13:16.000Z",
+          "wordCount": 3136,
+          "title": "Quasicrystals Spill Secrets of Their Formation",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Theory-of-Quasicrystals-cr-DVDP-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153239",
           "author": "Leila Sloman",
           "description": "For decades, mathematicians have struggled to understand matrices that reflect both order and randomness, like those that model semiconductors. A new method could change that.            \nThe post New Physics-Inspired Proof Probes the Borders of Disorder first appeared on Quanta Magazine",
@@ -520,6 +530,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/11/how-to-vaccinate-the-world",
+          "author": null,
+          "description": "The world’s largest vaccine manufacturer — by far — is the Serum Institute of India. How did a struggling horse farm in Pune become one of the most important companies in global health?",
+          "link": "https://asteriskmag.com/issues/11/how-to-vaccinate-the-world",
+          "publishedOn": "2025-08-18T00:00:00.000Z",
+          "wordCount": 5876,
+          "title": "How to Vaccinate the World",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
           "author": null,
           "description": "There’s a lot to like about the Rationalist community, but they do have a certain tendency to spawn — shall we say — high demand groups. We sent a card-carrying Rat to investigate what’s really going on.",
@@ -606,6 +626,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/cell-weight",
+          "author": "Niko McCarty",
+          "description": "A single E. coli bacterium weighs about one picogram, 60 million times less than a grain of sand. But how do we know?",
+          "link": "https://www.asimov.press/p/cell-weight",
+          "publishedOn": "2025-08-18T15:23:49.000Z",
+          "wordCount": null,
+          "title": "The Weight of a Cell",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/70279552-2aeb-4975-96ea-9f0f12fe365e_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/70279552-2aeb-4975-96ea-9f0f12fe365e_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/leeches",
           "author": null,
@@ -1332,16 +1368,6 @@
           "wordCount": 204,
           "title": "Drafting",
           "imageUrl": "https://imgs.xkcd.com/comics/drafting_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3092/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3092/",
-          "publishedOn": "2025-05-21T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Baker's Units",
-          "imageUrl": "https://imgs.xkcd.com/comics/bakers_units_2x.png"
         }
       ]
     },
@@ -1664,6 +1690,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542078",
+          "author": "Tasneem Raja",
+          "description": "A Dimond District shop has faithfully recreated a Philadelphia frozen treat.",
+          "link": "https://www.berkeleyside.org/2025/08/18/2nd-street-flavor-brigade-dimond-district",
+          "publishedOn": "2025-08-18T17:00:00.000Z",
+          "wordCount": 6890,
+          "title": "Dish of the week: The 2nd Street from Flavor Brigade",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-flavor-brigade-2nd-street.jpg?fit=900%2C893&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541040",
+          "author": "Karina Ioffee",
+          "description": "Don Barksdale and Billy Martin played some of their very first games there. The Black Panthers gave out free groceries. And generations have come for picnics, classes, music and sport in a place that “just feels safe.”",
+          "link": "https://www.berkeleyside.org/2025/08/18/san-pablo-park-berkeley-history",
+          "publishedOn": "2025-08-18T14:00:00.000Z",
+          "wordCount": 8166,
+          "title": "‘Everyone is here’: San Pablo Park — Berkeley’s oldest — is a fixture in a changed neighborhood",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/R2-00820-017A.jpg?fit=1818%2C1228&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542074",
           "author": "Alex N. Gecan",
