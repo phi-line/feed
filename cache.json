@@ -1000,6 +1000,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3130/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3130/",
+          "publishedOn": "2025-08-18T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Predicament",
+          "imageUrl": "https://imgs.xkcd.com/comics/predicament_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3129/",
           "author": null,
           "description": "",
@@ -1690,6 +1700,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=531085",
+          "author": "Alex N. Gecan",
+          "description": "The city’s bike plan is due for an update. There will be a virtual town hall Tuesday evening on the latest proposed changes.",
+          "link": "https://www.berkeleyside.org/2025/08/18/berkeley-bicycle-plan-2025-update",
+          "publishedOn": "2025-08-18T23:00:00.000Z",
+          "wordCount": 7847,
+          "title": "Your ideas are wanted to make Berkeley streets safer for biking",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/01/bike_large-3.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=541931",
+          "author": "Nathan Dalton",
+          "description": "Also: A new nail salon opens downtown, stone supplier Evolv Surfaces opens a new showroom and GreenPal launches app-based lawn service.",
+          "link": "https://www.berkeleyside.org/2025/08/18/elms-puzzles-tarot-den-california-evolv-surfaces-greenpal",
+          "publishedOn": "2025-08-18T19:34:29.000Z",
+          "wordCount": 8428,
+          "title": "Shop Talk: Berkeley resident buys luxury wood puzzle company; ‘metaphysical boutique’ opens on University",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/online-Elms-Puzzles-01.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542078",
           "author": "Tasneem Raja",

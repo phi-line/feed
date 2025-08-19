@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-18T18:06:26.381Z</updated>
+    <updated>2025-08-19T00:19:29.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your ideas are wanted to make Berkeley streets safer for biking]]></title>
+        <id>https://www.berkeleyside.org/?p=531085</id>
+        <link href="https://www.berkeleyside.org/2025/08/18/berkeley-bicycle-plan-2025-update"/>
+        <updated>2025-08-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The city’s bike plan is due for an update. There will be a virtual town hall Tuesday evening on the latest proposed changes.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shop Talk: Berkeley resident buys luxury wood puzzle company; ‘metaphysical boutique’ opens on University]]></title>
+        <id>https://www.berkeleyside.org/?p=541931</id>
+        <link href="https://www.berkeleyside.org/2025/08/18/elms-puzzles-tarot-den-california-evolv-surfaces-greenpal"/>
+        <updated>2025-08-18T19:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Also: A new nail salon opens downtown, stone supplier Evolv Surfaces opens a new showroom and GreenPal launches app-based lawn service.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dish of the week: The 2nd Street from Flavor Brigade]]></title>
         <id>https://www.berkeleyside.org/?p=542078</id>
@@ -54,6 +74,15 @@ The post Quasicrystals Spill Secrets of Their Formation first appeared on Quanta
         <updated>2025-08-18T09:01:01.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicament]]></title>
+        <id>https://xkcd.com/3130/</id>
+        <link href="https://xkcd.com/3130/"/>
+        <updated>2025-08-18T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
