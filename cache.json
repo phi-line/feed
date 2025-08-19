@@ -511,16 +511,6 @@
           "wordCount": 3397,
           "title": "Graduate Student Solves Classic Problem About the Limits of Addition",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Sum-Free-Sets_crNash-Weerasekera-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150710",
-          "author": "Ben Brubaker",
-          "description": "One computer scientist’s “stunning” proof is the first progress in 50 years on one of the most famous questions in computer science.            \nThe post For Algorithms, a Little Memory Outweighs a Lot of Time first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
-          "publishedOn": "2025-05-21T14:50:23.000Z",
-          "wordCount": 5194,
-          "title": "For Algorithms, a Little Memory Outweighs a Lot of Time",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Space-Complexity-Breakthrough_crIrene-Perez-Social.jpg"
         }
       ]
     },
@@ -1405,16 +1395,6 @@
           "wordCount": 14709,
           "title": "New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica",
           "imageUrl": "https://content.wolfram.com/sites/43/2025/08/TweetImage-WordCloud2.jpg"
-        },
-        {
-          "id": "https://writings.stephenwolfram.com/?p=68380",
-          "author": "Stephen Wolfram",
-          "description": "Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we humans […]",
-          "link": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
-          "publishedOn": "2025-05-21T14:28:31.000Z",
-          "wordCount": 13803,
-          "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
-          "imageUrl": "https://content.wolfram.com/sites/43/2025/05/sw05202025catscimg1.png"
         }
       ]
     },
@@ -1700,6 +1680,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542146",
+          "author": "Ximena Natera",
+          "description": "Saturday's street fair, which was organized by the Pacific Center for Human Growth, was the first of its kind in the city.",
+          "link": "https://www.berkeleyside.org/2025/08/18/berkeley-pride-festival-photos-downtown",
+          "publishedOn": "2025-08-19T01:50:00.000Z",
+          "wordCount": 7176,
+          "title": "Photos: Sparkly heels, rainbow suspenders and face paint at Berkeley Pride festival",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/BerkeleyPrideFair_Natera_250816_011-1.jpg?fit=1600%2C1068&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=531085",
           "author": "Alex N. Gecan",
