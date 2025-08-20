@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-20T00:18:42.190Z</updated>
+    <updated>2025-08-20T06:07:20.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -3806,27 +3806,6 @@ The post Protected: The Longest Journey appeared first on The Atavist Magazine.]
         <updated>2025-05-23T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reservoirs of Resistance]]></title>
-        <id>https://www.asimov.press/p/resistance</id>
-        <link href="https://www.asimov.press/p/resistance"/>
-        <updated>2025-05-22T15:53:12.000Z</updated>
-        <summary type="html"><![CDATA[By studying the millennia-old arms race between soil-dwelling microbes, scientists can pre-empt antibiotic resistance before it emerges in people.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Student Solves Classic Problem About the Limits of Addition]]></title>
-        <id>https://www.quantamagazine.org/?p=150758</id>
-        <link href="https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/"/>
-        <updated>2025-05-22T15:33:30.000Z</updated>
-        <summary type="html"><![CDATA[A new proof illuminates the hidden patterns that emerge when addition becomes impossible.            
-The post Graduate Student Solves Classic Problem About the Limits of Addition first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
         </author>
     </entry>
 </feed>
