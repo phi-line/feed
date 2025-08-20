@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-19T18:06:10.213Z</updated>
+    <updated>2025-08-20T00:18:42.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘We can’t take that risk:’ The Spanish Table says graceful goodbye to Berkeley]]></title>
+        <id>https://www.berkeleyside.org/?p=542222</id>
+        <link href="https://www.berkeleyside.org/2025/08/19/spanish-table-closing-party-tariffs"/>
+        <updated>2025-08-19T22:33:01.000Z</updated>
+        <summary type="html"><![CDATA[The closing celebration was a chance for customers to toast the community hub (and buy one more bottle of olives or wine) as owner Bastian Schoell plots a new course amid tariff uncertainty.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATM thieves smash into Southside Berkeley 7-Eleven with pickup truck]]></title>
+        <id>https://www.berkeleyside.org/?p=542220</id>
+        <link href="https://www.berkeleyside.org/2025/08/19/telegraph-avenue-7-eleven-atm-smash-and-grab"/>
+        <updated>2025-08-19T21:52:08.000Z</updated>
+        <summary type="html"><![CDATA[They made off with an as-yet-unknown amount of cash, fleeing on foot and leaving the stolen truck in the middle of Telegraph Avenue early Sunday morning.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet the UC Berkeley data team who proved Trump isn’t deporting just ‘worst of the worst’]]></title>
         <id>https://www.berkeleyside.org/?p=541948</id>
