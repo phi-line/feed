@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-20T12:07:29.310Z</updated>
+    <updated>2025-08-20T18:06:14.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Embracing A World Of Many AI Personalities]]></title>
+        <id>https://www.noemamag.com/embracing-a-world-of-many-ai-personalities</id>
+        <link href="https://www.noemamag.com/embracing-a-world-of-many-ai-personalities"/>
+        <updated>2025-08-20T16:17:52.000Z</updated>
+        <summary type="html"><![CDATA[The post Embracing A World Of Many AI Personalities appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Phil Nolan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BART riders can start tapping their credit cards today]]></title>
+        <id>https://oaklandside.org/?p=459873</id>
+        <link href="https://www.berkeleyside.org/2025/08/20/bart-pay-credit-card-clipper"/>
+        <updated>2025-08-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade could streamline transit access, but using a credit or debit card — whether digital or plastic — won’t give riders access to transfer discounts.]]></summary>
+        <author>
+            <name>Jose Fermoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pursuit of Life Where It Seems Unimaginable]]></title>
+        <id>https://www.quantamagazine.org/?p=153386</id>
+        <link href="https://www.quantamagazine.org/the-pursuit-of-life-where-it-seems-unimaginable-20250820/"/>
+        <updated>2025-08-20T13:53:07.000Z</updated>
+        <summary type="html"><![CDATA[A decade ago, Karen Lloyd discovered single-celled microbes living beneath the seafloor. Now she studies how they can survive in Earth’s crust, possibly for hundreds or thousands of years, and push life’s limits of time and energy.            
+The post The Pursuit of Life Where It Seems Unimaginable first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Laura Poppick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guster: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=k7QQ_kiScVs</id>
@@ -13,6 +44,15 @@
         <updated>2025-08-20T09:01:16.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cesium]]></title>
+        <id>https://xkcd.com/3131/</id>
+        <link href="https://xkcd.com/3131/"/>
+        <updated>2025-08-20T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -3806,15 +3846,6 @@ The post The Longest Journey appeared first on The Atavist Magazine.]]></summary
 The post Protected: The Longest Journey appeared first on The Atavist Magazine.]]></summary>
         <author>
             <name>Ed Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting]]></title>
-        <id>https://xkcd.com/3093/</id>
-        <link href="https://xkcd.com/3093/"/>
-        <updated>2025-05-23T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>

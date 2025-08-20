@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153386",
+          "author": "Laura Poppick",
+          "description": "A decade ago, Karen Lloyd discovered single-celled microbes living beneath the seafloor. Now she studies how they can survive in Earth’s crust, possibly for hundreds or thousands of years, and push life’s limits of time and energy.            \nThe post The Pursuit of Life Where It Seems Unimaginable first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-pursuit-of-life-where-it-seems-unimaginable-20250820/",
+          "publishedOn": "2025-08-20T13:53:07.000Z",
+          "wordCount": 3818,
+          "title": "The Pursuit of Life Where It Seems Unimaginable",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/QA-Karen-Lloyd-cr-MonicaAlmeida-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153295",
           "author": "Patchen Barss",
           "description": "New studies of the ‘platypus of materials’ help explain how their atoms arrange themselves into orderly, but nonrepeating, patterns.            \nThe post Quasicrystals Spill Secrets of Their Formation first appeared on Quanta Magazine",
@@ -964,6 +974,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3131/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3131/",
+          "publishedOn": "2025-08-20T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Cesium",
+          "imageUrl": "https://imgs.xkcd.com/comics/cesium_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3130/",
           "author": null,
           "description": "",
@@ -1332,16 +1352,6 @@
           "wordCount": 206,
           "title": "Mass Spec",
           "imageUrl": "https://imgs.xkcd.com/comics/mass_spec_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3093/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3093/",
-          "publishedOn": "2025-05-23T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Drafting",
-          "imageUrl": "https://imgs.xkcd.com/comics/drafting_2x.png"
         }
       ]
     },
@@ -1377,6 +1387,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/embracing-a-world-of-many-ai-personalities",
+          "author": "Phil Nolan",
+          "description": "The post Embracing A World Of Many AI Personalities appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/embracing-a-world-of-many-ai-personalities",
+          "publishedOn": "2025-08-20T16:17:52.000Z",
+          "wordCount": 7028,
+          "title": "Embracing A World Of Many AI Personalities",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/Noema-FInal-B-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7e4983029e6b74fe6193c9397ba6cfae"
+        },
         {
           "id": "https://www.noemamag.com/the-birth-of-god-in-the-soul",
           "author": "Nathan Gardels",
@@ -1654,6 +1674,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=459873",
+          "author": "Jose Fermoso",
+          "description": "The upgrade could streamline transit access, but using a credit or debit card — whether digital or plastic — won’t give riders access to transfer discounts.",
+          "link": "https://www.berkeleyside.org/2025/08/20/bart-pay-credit-card-clipper",
+          "publishedOn": "2025-08-20T14:00:00.000Z",
+          "wordCount": 7086,
+          "title": "BART riders can start tapping their credit cards today",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/large-Natera_220929_Carpool-Berkeley_01.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542222",
           "author": "Skylla Mumana",
