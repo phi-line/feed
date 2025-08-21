@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-21T12:07:28.242Z</updated>
+    <updated>2025-08-21T18:06:05.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Sky Looming With Danger]]></title>
+        <id>https://www.noemamag.com/a-sky-looming-with-danger</id>
+        <link href="https://www.noemamag.com/a-sky-looming-with-danger"/>
+        <updated>2025-08-21T16:18:52.000Z</updated>
+        <summary type="html"><![CDATA[The post A Sky Looming With Danger appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Leo Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Beautiful Birds Have an Evolutionary Advantage?]]></title>
+        <id>https://www.quantamagazine.org/?p=153437</id>
+        <link href="https://www.quantamagazine.org/do-beautiful-birds-have-an-evolutionary-advantage-20250821/"/>
+        <updated>2025-08-21T13:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Richard Prum explains why he thinks feathers and vibrant traits in birds evolved not solely for survival, but also through aesthetic choice.            
+The post Do Beautiful Birds Have an Evolutionary Advantage? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Janna Levin and Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Jerry Garcia’s birthday, Carol Christ’s opera talk, Berkeley Humane adopt-a-thon]]></title>
+        <id>https://www.berkeleyside.org/?p=542323</id>
+        <link href="https://www.berkeleyside.org/2025/08/21/around-berkeley-things-to-do-berkeley-aug-21-to-aug-28"/>
+        <updated>2025-08-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include Lindsay Wildlife Experience's pop-up event at Headlands Brewing and a free cello concert on a driveway.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Famous Cognitive Psychology Experiments that Failed to Replicate]]></title>
         <id>https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate</id>
@@ -3895,18 +3926,6 @@ The post Singularities in Space-Time Prove Hard to Kill first appeared on Quanta
         <updated>2025-05-26T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for soy, sake and sesame oil-braised aubergines | The new vegan]]></title>
-        <id>https://www.theguardian.com/food/2025/may/24/vegan-recipe-aubergine-braised-soy-sauce-sake-sesame-oil-meera-sodha</id>
-        <link href="https://www.theguardian.com/food/2025/may/24/vegan-recipe-aubergine-braised-soy-sauce-sake-sesame-oil-meera-sodha"/>
-        <updated>2025-05-24T05:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Savoury, nutty, salty-sweet – and delicious with rice
-Here are two things about aubergines that you may not know: first, they are giant berries (!) and, second, they’re roughly 92% water. The latter is important, because to get this mighty berry to reach its delicious potential, we need to dehydrate it (that is, remove as much water as possible and then hit it with lots of flavour). You could fry it, but, when the weather is lovely, I prefer hands-free cooking, which means roasting it. In this recipe, after roasting, I’ve used one of my favourite braising liquids – a mix of soy sauce, sake and sesame – to bring the aubergine back to life.
- Continue reading...]]></summary>
-        <author>
-            <name>Meera Sodha</name>
         </author>
     </entry>
 </feed>
