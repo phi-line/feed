@@ -940,31 +940,6 @@
           "wordCount": 1603,
           "title": "Protected: Conversations with a Hit Man",
           "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=47876",
-          "author": "Ed Johnson",
-          "description": "Lena Rowat skied 1,600 grueling miles across the Coast Range to quiet her demons. But she didn't begin to silence them until tragedy struck.\nThe post The Longest Journey appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2025/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan",
-          "publishedOn": "2025-05-23T13:51:09.000Z",
-          "wordCount": 10347,
-          "title": "The Longest Journey",
-          "enclosure": {
-            "url": "https://magazine.atavist.com/wp-content/uploads/2025/05/AT-20250530-She_Completed_an_Audacious-PUB.mp3",
-            "length": "65142720",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2025/05/1.Lena-Rowat-final-scaled.jpg"
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=47876",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Longest Journey appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/",
-          "publishedOn": "2025-05-23T13:51:09.000Z",
-          "wordCount": 1518,
-          "title": "Protected: The Longest Journey",
-          "imageUrl": null
         }
       ]
     },
@@ -3765,6 +3740,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate",
+          "author": null,
+          "description": "A quick reference",
+          "link": "https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-08-21T01:12:36.000Z",
+          "wordCount": 2558,
+          "title": "Famous Cognitive Psychology Experiments that Failed to Replicate",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate/rebecca-freeman-rqFm0IgMVYY-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate/rebecca-freeman-rqFm0IgMVYY-unsplash.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-21T00:17:41.058Z</updated>
+    <updated>2025-08-21T06:06:57.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Famous Cognitive Psychology Experiments that Failed to Replicate]]></title>
+        <id>https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate</id>
+        <link href="https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-08-21T01:12:36.000Z</updated>
+        <summary type="html"><![CDATA[A quick reference]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘A mighty redwood of a man has fallen.’ Remembering Malcolm Margolin, founder of Heyday books]]></title>
         <id>https://www.berkeleyside.org/?p=542267</id>
@@ -3897,28 +3907,6 @@ Here are two things about aubergines that you may not know: first, they are gian
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Longest Journey]]></title>
-        <id>https://magazine.atavist.com/?p=47876</id>
-        <link href="https://magazine.atavist.com/2025/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan"/>
-        <updated>2025-05-23T13:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Lena Rowat skied 1,600 grueling miles across the Coast Range to quiet her demons. But she didn't begin to silence them until tragedy struck.
-The post The Longest Journey appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>Ed Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protected: The Longest Journey]]></title>
-        <id>https://magazine.atavist.com/?p=47876</id>
-        <link href="https://magazine.atavist.com/the-longest-journey-lena-rowat-coast-range-ski-traverse-devils-thumb-mount-logan/"/>
-        <updated>2025-05-23T13:51:09.000Z</updated>
-        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
-The post Protected: The Longest Journey appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>Ed Johnson</name>
         </author>
     </entry>
 </feed>
