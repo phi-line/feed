@@ -627,6 +627,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/insect-diapause",
+          "author": "Ulkar Aghayeva",
+          "description": "Seasonal dormancy features in the life cycle of many insects. We can harness it for biological control, insect farming, and disease vector management at scale.",
+          "link": "https://www.asimov.press/p/insect-diapause",
+          "publishedOn": "2025-08-21T18:18:27.000Z",
+          "wordCount": null,
+          "title": "Pausing Insect Activity",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!1JAV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e8b90d-fb4a-4509-8037-99da1432e688_2000x1260.heic",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!1JAV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e8b90d-fb4a-4509-8037-99da1432e688_2000x1260.heic"
+        },
+        {
           "id": "https://www.asimov.press/p/cell-weight",
           "author": "Niko McCarty",
           "description": "A single E. coli bacterium weighs about one picogram, 60 million times less than a grain of sand. But how do we know?",
@@ -1669,6 +1685,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542345",
+          "author": "Vanessa Arredondo",
+          "description": "At least 13 families were impacted by route changes in the Berkeley Hills. Many parents felt the new stops were too far from students’ homes.",
+          "link": "https://www.berkeleyside.org/2025/08/21/grizzly-peak-berkeley-hills-busd-bus-stops",
+          "publishedOn": "2025-08-21T23:50:20.000Z",
+          "wordCount": 8282,
+          "title": "Grizzly Peak Blvd. school bus stops removed over safety concerns",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/10/IMG_6377.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542293",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond and beyond.",
+          "link": "https://www.berkeleyside.org/2025/08/21/inna-jam-sugata-mia-restaurants-closing",
+          "publishedOn": "2025-08-21T19:00:00.000Z",
+          "wordCount": 6886,
+          "title": "INNA Jam in its final days; Mia Mezcaleria and Sugata shutter",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/innajam.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542323",
           "author": "Iris Kwok and Andrew Gilbert",
