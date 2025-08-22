@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153477",
+          "author": "Ben Brubaker",
+          "description": "The quest to find the longest-running simple computer program has identified a new champion. It’s physically impossible to write out the numbers involved using standard mathematical notation.             \nThe post Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/",
+          "publishedOn": "2025-08-22T13:57:50.000Z",
+          "wordCount": 3891,
+          "title": "Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/BusyBeaver6Update-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153437",
           "author": "Janna Levin and Steven Strogatz",
           "description": "Richard Prum explains why he thinks feathers and vibrant traits in birds evolved not solely for survival, but also through aesthetic choice.            \nThe post Do Beautiful Birds Have an Evolutionary Advantage? first appeared on Quanta Magazine",
@@ -938,6 +948,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=49194",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: American Zeppelin appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/american-zeppelin-akron-airship-disaster-navy",
+          "publishedOn": "2025-08-22T16:33:36.000Z",
+          "wordCount": 1542,
+          "title": "Protected: American Zeppelin",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=48718",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Talented Mr. Bruseaux appeared first on The Atavist Magazine.",
@@ -974,6 +994,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3132/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3132/",
+          "publishedOn": "2025-08-22T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Coastline Similarity",
+          "imageUrl": "https://imgs.xkcd.com/comics/coastline_similarity_2x.png"
+        },
         {
           "id": "https://xkcd.com/3131/",
           "author": null,
@@ -1685,6 +1715,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=459988",
+          "author": "Roselyn Romero",
+          "description": "Legal aid, 24-hour hotlines, bedside support, and other services are still available to survivors of rape in Berkeley and Alameda County.",
+          "link": "https://www.berkeleyside.org/2025/08/22/sexual-assault-reporting-berkeley-resources-support",
+          "publishedOn": "2025-08-22T17:14:30.000Z",
+          "wordCount": 7638,
+          "title": "Sexual assault survivors in Berkeley: A guide to resources after BRAVE Bay Area",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/AP22244758436967-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542349",
+          "author": "Nico Savidge",
+          "description": "The mayor answered questions about homelessness, downtown development and how the city can address threats from Trump.",
+          "link": "https://www.berkeleyside.org/2025/08/22/berkeley-mayor-adena-ishii-berkeleyside-interview",
+          "publishedOn": "2025-08-22T16:11:02.000Z",
+          "wordCount": 9270,
+          "title": "What keeps you up at night? A Berkeleyside interview with Mayor Adena Ishii",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/CityHall02282025_EG_015.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542342",
           "author": "Berkeleyside Staff",
