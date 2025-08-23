@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-22T18:05:54.838Z</updated>
+    <updated>2025-08-23T00:18:24.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Patty Overland, activist for lesbian and disabled communities, scriptwriter, poet, actor]]></title>
+        <id>https://www.berkeleyside.org/?p=541923</id>
+        <link href="https://www.berkeleyside.org/2025/08/22/patty-overland-obituary"/>
+        <updated>2025-08-22T23:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Dedicated to helping others for over five decades, she was a passionate disability activist, fighting for greater accessibility and other rights.]]></summary>
+        <author>
+            <name>Fran Roccaforte and family of Patty Overland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Unified reports COVID-19 cases at some schools in first weeks of the year]]></title>
+        <id>https://www.berkeleyside.org/?p=542396</id>
+        <link href="https://www.berkeleyside.org/2025/08/22/berkeley-unified-covid-cases-california-rising"/>
+        <updated>2025-08-22T21:47:48.000Z</updated>
+        <summary type="html"><![CDATA[The district ended contact tracing and other pandemic protocols earlier this year, but has an updated safety plan with guidance for students and staff.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish of the week: Rice cake soup from Seoul Gomtang]]></title>
+        <id>https://www.berkeleyside.org/?p=542388</id>
+        <link href="https://www.berkeleyside.org/2025/08/22/seol-gomtang-rice-cake-soup-tteokguk"/>
+        <updated>2025-08-22T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Tteokguk is traditionally eaten on New Year’s Day in Korea, but you can get the rich, restorative soup year-round in Oakland.]]></summary>
+        <author>
+            <name>Natalie Orenstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A grisly murder 100 years ago was the East Bay’s crime of the century]]></title>
+        <id>https://oaklandside.org/?p=459980</id>
+        <link href="https://www.berkeleyside.org/2025/08/22/tule-marsh-murder-bessie-ferguson"/>
+        <updated>2025-08-22T18:08:48.000Z</updated>
+        <summary type="html"><![CDATA[The “Tule Marsh Murder,” stumped law enforcement and fueled the rise of the KKK in Oakland.]]></summary>
+        <author>
+            <name>Darwin BondGraham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sexual assault survivors in Berkeley: A guide to resources after BRAVE Bay Area]]></title>
         <id>https://oaklandside.org/?p=459988</id>
