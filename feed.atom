@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-25T12:07:52.794Z</updated>
+    <updated>2025-08-25T18:06:11.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeleyside is hiring a higher education reporter]]></title>
+        <id>https://www.berkeleyside.org/?p=542199</id>
+        <link href="https://www.berkeleyside.org/2025/08/25/berkeleyside-is-hiring-a-higher-education-reporter"/>
+        <updated>2025-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join our nonprofit newsroom to do groundbreaking enterprise and accountability reporting on UC Berkeley as well as other important higher education stories.]]></summary>
+        <author>
+            <name>Tracey Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Find in the Sewers]]></title>
+        <id>https://www.asimov.press/p/sewers</id>
+        <link href="https://www.asimov.press/p/sewers"/>
+        <updated>2025-08-25T14:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Our ancestors once spread their excess effluent on their fields; now we mine it for vital molecules.]]></summary>
+        <author>
+            <name>Calum Drysdale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to go for last-minute camping near Berkeley]]></title>
+        <id>https://www.berkeleyside.org/?p=494549</id>
+        <link href="https://www.berkeleyside.org/2025/08/25/camping-bay-area-northern-california-sierra-no-reservation"/>
+        <updated>2025-08-25T14:22:58.000Z</updated>
+        <summary type="html"><![CDATA[Didn’t plan ahead? We’ve got tips for finding a scenic spot to sleep under the stars — even when traditional campsites are already reserved.]]></summary>
+        <author>
+            <name>Ally Markovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals]]></title>
+        <id>https://www.quantamagazine.org/?p=153531</id>
+        <link href="https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/"/>
+        <updated>2025-08-25T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[The proof, known to be so hard that a mathematician once offered 10 martinis to whoever could figure it out, connects quantum mechanics to infinitely intricate mathematical structures.            
+The post ‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Lyndie Chiou and Joseph Howlett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Oates: Field Recordings x Aspen Ideas Festival]]></title>
         <id>https://www.youtube.com/watch?v=mc5mWLzkTxo</id>
@@ -13,6 +54,16 @@
         <updated>2025-08-25T09:01:12.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nine Rules for Managing Humans Managing Nuclear Reactors]]></title>
+        <id>https://asteriskmag.com/issues/11/nine-rules-for-managing-humans-managing-nuclear-reactors</id>
+        <link href="https://asteriskmag.com/issues/11/nine-rules-for-managing-humans-managing-nuclear-reactors"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Admiral Hyman Rickover was the Father of the Nuclear Navy —  and one of the most effective bureaucrats in the history of the U.S. government. He also thought it was impossible to teach management by writing about it, but that didn’t stop him from trying.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -4045,25 +4096,6 @@ Read more »]]></summary>
 The post How Paradoxical Questions and Simple Wonder Lead to Great Science first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Molly Herring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asian Misrepresentation]]></title>
-        <id>https://pudding.cool/2025/05/aapi-casting</id>
-        <link href="https://pudding.cool/2025/05/aapi-casting"/>
-        <updated>2025-05-28T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How accurately are Asian Americans cast in Hollywood?]]></summary>
-        <author>
-            <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archaea]]></title>
-        <id>https://xkcd.com/3095/</id>
-        <link href="https://xkcd.com/3095/"/>
-        <updated>2025-05-28T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
