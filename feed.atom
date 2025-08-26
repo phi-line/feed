@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-26T00:18:48.011Z</updated>
+    <updated>2025-08-26T06:06:49.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -64,6 +64,15 @@ The post ‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals 
         <updated>2025-08-25T09:01:12.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Roomba]]></title>
+        <id>https://xkcd.com/3133/</id>
+        <link href="https://xkcd.com/3133/"/>
+        <updated>2025-08-25T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4084,28 +4093,6 @@ The post How Can AI Researchers Save Energy? By Going Backward. first appeared o
 The post Will We Ever Prove String Theory? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[one-pan ditalini and peas]]></title>
-        <id>https://smittenkitchen.com/?p=83732</id>
-        <link href="https://smittenkitchen.com/2025/05/one-pan-ditalini-and-peas/"/>
-        <updated>2025-05-28T16:46:04.000Z</updated>
-        <summary type="html"><![CDATA[here’s a longtime favorite; and this is my total comfort food], but I sometimes find that when the pasta is cooked in a sauce the whole time, it doesn’t quite get that al dente definition and structural integrity that it does when cooked in water. I’m so glad I didn’t quit on them, though, because with this recipe, not to be dramatic or anything, but I feel like I’ve finally cracked the code.
-Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Paradoxical Questions and Simple Wonder Lead to Great Science]]></title>
-        <id>https://www.quantamagazine.org/?p=150897</id>
-        <link href="https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528/"/>
-        <updated>2025-05-28T15:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Manu Prakash works on the world’s most urgent problems and seemingly frivolous questions at the same time. They add up to a philosophy he calls “recreational biology.”            
-The post How Paradoxical Questions and Simple Wonder Lead to Great Science first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Molly Herring</name>
         </author>
     </entry>
 </feed>
