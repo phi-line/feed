@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-26T18:05:51.576Z</updated>
+    <updated>2025-08-27T00:19:05.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Oates and John Michel came down the mountain to share a set of songs among the sage brush.]]></title>
+        <id>https://www.youtube.com/shorts/_6j-gsWleu0</id>
+        <link href="https://www.youtube.com/shorts/_6j-gsWleu0"/>
+        <updated>2025-08-26T22:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley pedestrian dies days after SUV driver struck him near Willard Park]]></title>
+        <id>https://www.berkeleyside.org/?p=542518</id>
+        <link href="https://www.berkeleyside.org/2025/08/26/derby-regent-suv-pedestrian-collision"/>
+        <updated>2025-08-26T22:23:51.000Z</updated>
+        <summary type="html"><![CDATA[The man had been hospitalized since the Aug. 17 crash, which is under investigation by Berkeley police.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questlove on the pitfalls of fame]]></title>
+        <id>https://www.youtube.com/shorts/hlb2WfgbKc4</id>
+        <link href="https://www.youtube.com/shorts/hlb2WfgbKc4"/>
+        <updated>2025-08-26T19:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get to know Oakland’s newest Michelin-starred restaurant]]></title>
+        <id>https://www.berkeleyside.org/?p=542510</id>
+        <link href="https://www.berkeleyside.org/2025/08/26/sun-moon-studio-michelin-star-west-oakland"/>
+        <updated>2025-08-26T19:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Sun Moon Studio in West Oakland delivers seasonal, locally sourced, ingredient-driven tasting menus in an intimate 12-seat setting.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Berkeley cyclist is killed in Oakland, bike advocates call for a safety fix]]></title>
         <id>https://oaklandside.org/?p=460191</id>

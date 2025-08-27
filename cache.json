@@ -1732,12 +1732,32 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=542518",
+          "author": "Alex N. Gecan",
+          "description": "The man had been hospitalized since the Aug. 17 crash, which is under investigation by Berkeley police.",
+          "link": "https://www.berkeleyside.org/2025/08/26/derby-regent-suv-pedestrian-collision",
+          "publishedOn": "2025-08-26T22:23:51.000Z",
+          "wordCount": 6870,
+          "title": "Berkeley pedestrian dies days after SUV driver struck him near Willard Park",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/53130079089_9c25732c19_k.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542510",
+          "author": "Skylla Mumana",
+          "description": "Sun Moon Studio in West Oakland delivers seasonal, locally sourced, ingredient-driven tasting menus in an intimate 12-seat setting.",
+          "link": "https://www.berkeleyside.org/2025/08/26/sun-moon-studio-michelin-star-west-oakland",
+          "publishedOn": "2025-08-26T19:17:22.000Z",
+          "wordCount": 7693,
+          "title": "Get to know Oakland’s newest Michelin-starred restaurant",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/sarah-alan-portrait-SunMoonStudio.jpg"
+        },
+        {
           "id": "https://oaklandside.org/?p=460191",
           "author": "Jose Fermoso",
           "description": "Hongmei Chen, a single mother, was killed by a large truck on Shattuck Avenue and 51st Street in Oakland while returning home from work.",
           "link": "https://www.berkeleyside.org/2025/08/26/cyclist-killed-temescal-shattuck-hongmei-chen",
           "publishedOn": "2025-08-26T18:04:20.000Z",
-          "wordCount": 7361,
+          "wordCount": 7360,
           "title": "After Berkeley cyclist is killed in Oakland, bike advocates call for a safety fix",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/IMG_1548-scaled-1.jpg"
         },
@@ -1747,7 +1767,7 @@
           "description": "From the restaurants that provide the most grub for your buck to the best cafes for a late-night study session, here are the 22 Berkeley spots every newcomer should try.",
           "link": "https://www.berkeleyside.org/2025/08/26/where-to-eat-if-you-are-new-to-berkeley",
           "publishedOn": "2025-08-26T17:32:06.000Z",
-          "wordCount": 10524,
+          "wordCount": 10520,
           "title": "Freshmen Food Guide: The Berkeley restaurants every Cal student should know",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/09/large-Nosh-Food-Guide-31-2.jpg"
         },
@@ -1757,9 +1777,9 @@
           "description": "Once part of a railroad route from Berkeley to Chicago, the three-block-long park is now a weekend destination for those living well beyond Poet’s Corner.",
           "link": "https://www.berkeleyside.org/2025/08/26/strawberry-creek-park",
           "publishedOn": "2025-08-26T14:00:00.000Z",
-          "wordCount": 10129,
+          "wordCount": 9673,
           "title": "Strawberry Creek Park is West Berkeley’s hidden gem to picnic, sunbathe and splash",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Strawberry-Creek-Park-2.jpg?fit=1600%2C1067&ssl=1"
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Strawberry-Creek-Park-2.jpg"
         },
         {
           "id": "https://www.berkeleyside.org/?p=542472",
@@ -4149,6 +4169,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/_6j-gsWleu0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_6j-gsWleu0",
+          "publishedOn": "2025-08-26T22:27:49.000Z",
+          "wordCount": 2171,
+          "title": "John Oates and John Michel came down the mountain to share a set of songs among the sage brush.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hlb2WfgbKc4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hlb2WfgbKc4",
+          "publishedOn": "2025-08-26T19:54:11.000Z",
+          "wordCount": 2173,
+          "title": "Questlove on the pitfalls of fame",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2D5r0yYn45Y",
           "author": null,
