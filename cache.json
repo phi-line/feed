@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153590",
+          "author": "Matt von Hippel",
+          "description": "According to Einstein’s theory of gravity, black holes have only a small handful of distinguishing characteristics. Quantum theory implies they may have more. Now an experimental search finds that any of this extra ‘hair’ has to be pretty short.            \nThe post Astrophysicists Find No ‘Hair’ on Black Holes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/",
+          "publishedOn": "2025-08-27T14:15:31.000Z",
+          "wordCount": 3355,
+          "title": "Astrophysicists Find No ‘Hair’ on Black Holes",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Black-Hole-Haircut-cr-Celsius-Pictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153531",
           "author": "Lyndie Chiou and Joseph Howlett",
           "description": "The proof, known to be so hard that a mathematician once offered 10 martinis to whoever could figure it out, connects quantum mechanics to infinitely intricate mathematical structures.            \nThe post ‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals first appeared on Quanta Magazine",
@@ -1353,16 +1363,6 @@
           "wordCount": 206,
           "title": "Bridge Types",
           "imageUrl": "https://imgs.xkcd.com/comics/bridge_types_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3096/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3096/",
-          "publishedOn": "2025-05-30T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Check Engine",
-          "imageUrl": "https://imgs.xkcd.com/comics/check_engine_2x.png"
         }
       ]
     },
@@ -1705,6 +1705,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=460249",
+          "author": "Jose Fermoso",
+          "description": "The first seven months of 2025 have seen a significant decrease in both violent crimes and property crimes compared to the same period last year.",
+          "link": "https://www.berkeleyside.org/2025/08/27/bart-crime-plummets-police-report-says",
+          "publishedOn": "2025-08-27T16:00:00.000Z",
+          "wordCount": 7132,
+          "title": "BART crime plummets, police report says",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/large-bart-train-interior.jpg?fit=1600%2C1064&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542527",
+          "author": "Michael Burke | EdSource",
+          "description": "The Council on American-Islamic Relations accused the university of intimidating and punishing students who criticize Israel's military actions in Gaza.",
+          "link": "https://www.berkeleyside.org/2025/08/27/uc-berkeley-hostile-campus-muslim-students-israel-cair",
+          "publishedOn": "2025-08-27T14:00:00.000Z",
+          "wordCount": 7018,
+          "title": "Muslim civil rights group designates UC Berkeley as a ‘hostile campus’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-Natera_231025_CAL-Palestine-Walkout_02.jpg?fit=1600%2C1068&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542518",
           "author": "Alex N. Gecan",
@@ -4143,6 +4163,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/VzstsY_dt-Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/VzstsY_dt-Y",
+          "publishedOn": "2025-08-27T14:00:49.000Z",
+          "wordCount": 1970,
+          "title": "Connie Lim is a talented storyteller. She is also an activist whose music inspires advocacy.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8EKiPs0r4V8",
           "author": null,
