@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-27T06:06:28.308Z</updated>
+    <updated>2025-08-27T12:07:17.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MILCK: Field Recordings x Aspen Ideas Festival]]></title>
+        <id>https://www.youtube.com/watch?v=8EKiPs0r4V8</id>
+        <link href="https://www.youtube.com/watch?v=8EKiPs0r4V8"/>
+        <updated>2025-08-27T09:00:09.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A performer con carisma y fuerza, Daymé Arocena sings the blues in a field of inflatable flowers.]]></title>
         <id>https://www.youtube.com/shorts/PsZ2P22MbNk</id>
