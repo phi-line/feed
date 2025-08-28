@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-27T18:05:59.502Z</updated>
+    <updated>2025-08-28T00:18:44.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos: New student housing at People’s Park ‘tops out,’ giving sense of its scale]]></title>
+        <id>https://www.berkeleyside.org/?p=542606</id>
+        <link href="https://www.berkeleyside.org/2025/08/27/peoples-park-construction-update-photos"/>
+        <updated>2025-08-27T23:22:13.000Z</updated>
+        <summary type="html"><![CDATA[The concrete shell of the future UC Berkeley dorm complex is a striking new presence in the Southside neighborhood.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@carlyraemusic's album 'Emotion' contains a particular emotion: earnest horniness.]]></title>
+        <id>https://www.youtube.com/shorts/qU9aLnHHKT0</id>
+        <link href="https://www.youtube.com/shorts/qU9aLnHHKT0"/>
+        <updated>2025-08-27T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new gelato option arrives in Downtown Berkeley, and Hopscotch opens in Epicurious Garden]]></title>
+        <id>https://www.berkeleyside.org/?p=542538</id>
+        <link href="https://www.berkeleyside.org/2025/08/27/annies-gelato-hopscotch-southie-dandelion-new-restaurants"/>
+        <updated>2025-08-27T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BART crime plummets, police report says]]></title>
         <id>https://oaklandside.org/?p=460249</id>
