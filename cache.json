@@ -501,16 +501,6 @@
           "wordCount": 3488,
           "title": "The Core of Fermat’s Last Theorem Just Got Superpowered",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Next-level-FLT_crNash-Weerasekera-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=150987",
-          "author": "Matt von Hippel",
-          "description": "Reversible programs run backward as easily as they run forward, saving energy in theory. After decades of research, they may soon power AI.            \nThe post How Can AI Researchers Save Energy? By Going Backward. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/",
-          "publishedOn": "2025-05-30T14:18:02.000Z",
-          "wordCount": 2600,
-          "title": "How Can AI Researchers Save Energy? By Going Backward.",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Reversible_computing_crNash-Weerasekera-Social.jpg"
         }
       ]
     },
@@ -994,6 +984,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3134/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3134/",
+          "publishedOn": "2025-08-27T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Wavefunction Collapse",
+          "imageUrl": "https://imgs.xkcd.com/comics/wavefunction_collapse_2x.png"
+        },
         {
           "id": "https://xkcd.com/3133/",
           "author": null,
@@ -1687,16 +1687,6 @@
           "wordCount": 7563,
           "title": "AI Signals The Death Of The Author",
           "imageUrl": "https://noemamag.imgix.net/2025/05/matthew-horizontal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=305baea6dbdd9b1f2413d13480526f77"
-        },
-        {
-          "id": "https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai",
-          "author": "Nathan Gardels",
-          "description": "The post How Pope Leo XIV Can Address Distributive Justice In The Age Of AI appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai",
-          "publishedOn": "2025-05-30T16:28:50.000Z",
-          "wordCount": 4537,
-          "title": "How Pope Leo XIV Can Address Distributive Justice In The Age Of AI",
-          "imageUrl": "https://noemamag.imgix.net/2025/05/RerumNovarum_B.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4dd01a4e13024a76a15a23ad72e873b1"
         }
       ]
     },
@@ -3996,6 +3986,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking",
+          "author": null,
+          "description": "Should we anthropomorphize LLMs?",
+          "link": "https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-08-27T23:59:20.000Z",
+          "wordCount": 3764,
+          "title": "There Is Thinking and There Is Thinking and There Is Thinking",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking/sebastian-hages-Jn67_91aoOg-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking/sebastian-hages-Jn67_91aoOg-unsplash.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate",
           "author": null,

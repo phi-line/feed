@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-28T00:18:44.536Z</updated>
+    <updated>2025-08-28T06:06:43.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There Is Thinking and There Is Thinking and There Is Thinking]]></title>
+        <id>https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking</id>
+        <link href="https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-08-27T23:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Should we anthropomorphize LLMs?]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos: New student housing at People’s Park ‘tops out,’ giving sense of its scale]]></title>
         <id>https://www.berkeleyside.org/?p=542606</id>
@@ -84,6 +94,15 @@ The post Astrophysicists Find No ‘Hair’ on Black Holes first appeared on Qua
         <updated>2025-08-27T09:00:09.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavefunction Collapse]]></title>
+        <id>https://xkcd.com/3134/</id>
+        <link href="https://xkcd.com/3134/"/>
+        <updated>2025-08-27T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4232,27 +4251,6 @@ Being in the business of recipe writing means I am always seeking the new, alway
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Pope Leo XIV Can Address Distributive Justice In The Age Of AI]]></title>
-        <id>https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai</id>
-        <link href="https://www.noemamag.com/how-pope-leo-xiv-can-address-distributive-justice-in-the-age-of-ai"/>
-        <updated>2025-05-30T16:28:50.000Z</updated>
-        <summary type="html"><![CDATA[The post How Pope Leo XIV Can Address Distributive Justice In The Age Of AI appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can AI Researchers Save Energy? By Going Backward.]]></title>
-        <id>https://www.quantamagazine.org/?p=150987</id>
-        <link href="https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/"/>
-        <updated>2025-05-30T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Reversible programs run backward as easily as they run forward, saving energy in theory. After decades of research, they may soon power AI.            
-The post How Can AI Researchers Save Energy? By Going Backward. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Matt von Hippel</name>
         </author>
     </entry>
 </feed>
