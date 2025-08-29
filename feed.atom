@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-29T06:06:36.751Z</updated>
+    <updated>2025-08-29T12:07:38.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The All-American Rejects: Field Recordings x Aspen Ideas Festival]]></title>
+        <id>https://www.youtube.com/watch?v=Y2pmcwop5z8</id>
+        <link href="https://www.youtube.com/watch?v=Y2pmcwop5z8"/>
+        <updated>2025-08-29T09:01:01.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley Wire: Peet’s parent company acquired for $18B; fans mourn at Aurora Theatre open house sale]]></title>
         <id>https://www.berkeleyside.org/?p=542704</id>
@@ -14,6 +23,21 @@
         <summary type="html"><![CDATA[Also: A threatening email prompts an increased police presence at Berkeley High.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1999: Blogs Burst Onto the Scene, but RSS Is Slow To Settle]]></title>
+        <id>https://cybercultural.com/p/blogs-rss-1999/</id>
+        <link href="https://cybercultural.com/p/blogs-rss-1999/"/>
+        <updated>2025-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blogger, soon after its launch in August 1999.
+On January 26, 1999, Cameron Barrett — who ran a website called Camworld — pondered the meaning of a new term he’d recently discovered:
+“A few months back, I heard the term weblog for the first time. I'm not sure who coined it or where it came from, so I can't properly credit it. Typically, a weblog is a small web site, usually maintained by one person that is updated on a regular basis and has a high concentration of repeat visitors. Weblogs often are highly focused around a singular subject, an underlying theme or unifying concept.”
+
+Camworld 'anatomy of a weblog' post, January 26, 1999 (screenshot April 1999).
+Thus began a multi-year process of people trying to define what a weblog is. One of the better efforts was Rebecca Blood’s article, …]]></summary>
+        <author>
+            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
     <entry>
