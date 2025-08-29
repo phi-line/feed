@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-29T00:19:31.015Z</updated>
+    <updated>2025-08-29T06:06:36.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Wire: Peet’s parent company acquired for $18B; fans mourn at Aurora Theatre open house sale]]></title>
+        <id>https://www.berkeleyside.org/?p=542704</id>
+        <link href="https://www.berkeleyside.org/2025/08/28/berkeley-wire-peets-coffee-acquired-aurora-theatre-closing-sale"/>
+        <updated>2025-08-29T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: A threatening email prompts an increased police presence at Berkeley High.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Berkeley crashes inspire street safety upgrades]]></title>
         <id>https://www.berkeleyside.org/?p=542675</id>
