@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-28T18:05:53.529Z</updated>
+    <updated>2025-08-29T00:19:31.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Berkeley crashes inspire street safety upgrades]]></title>
+        <id>https://www.berkeleyside.org/?p=542675</id>
+        <link href="https://www.berkeleyside.org/2025/08/28/pedestrians-struck-ada-california-hopkins-colusa"/>
+        <updated>2025-08-28T23:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Berkeley’s Public Works Department has upgraded an intersection where a motorist struck a child this month and is planning a major overhaul at the scene of a different crash that killed a pedestrian.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amoeba Music plans to build apartments above its Telegraph Avenue store]]></title>
+        <id>https://www.berkeleyside.org/?p=542672</id>
+        <link href="https://www.berkeleyside.org/2025/08/28/amoeba-music-telegraph-avenue-berkeley-new-apartments-plan"/>
+        <updated>2025-08-28T22:23:47.000Z</updated>
+        <summary type="html"><![CDATA[The iconic record store would move into the ground floor of the new housing development and says it will preserve the People’s Park mural on its Haste Street wall.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sudden Surges That Forge Evolutionary Trees]]></title>
         <id>https://www.quantamagazine.org/?p=153646</id>
