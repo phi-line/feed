@@ -1419,6 +1419,16 @@
           "imageUrl": "https://noemamag.imgix.net/2025/08/The_Shape_of_Sacred_Spaces_written_by_John_Last-Noema_Magazine_-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C259%2C2048%2C1071&w=1200&wpsize=noema-social-facebook&s=ee623bf8db89ba7979238828d9c6fbae"
         },
         {
+          "id": "https://www.noemamag.com/introducing-the-futurology-podcast",
+          "author": "Nathan Gardels",
+          "description": "The post Introducing The Futurology Podcast appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/introducing-the-futurology-podcast",
+          "publishedOn": "2025-08-28T04:07:16.000Z",
+          "wordCount": 2490,
+          "title": "Introducing The Futurology Podcast",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/Futurology_ShowCover_3000x3000-scaled.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b64cc44c733cbf06ab5244d317c8dcd2"
+        },
+        {
           "id": "https://www.noemamag.com/we-failed-the-misinformation-fight-now-what",
           "author": "Zeve Sanderson",
           "description": "The post We Failed The Misinformation Fight. Now What? appeared first on NOEMA.",
@@ -1715,6 +1725,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542731",
+          "author": "Carly Severn | KQED",
+          "description": "Answering your questions about ways to get a COVID vaccine after the FDA limited their use.",
+          "link": "https://www.berkeleyside.org/2025/08/29/covid-vaccine-2025-children-access-fda",
+          "publishedOn": "2025-08-29T17:24:31.000Z",
+          "wordCount": 8640,
+          "title": "The FDA just limited approvals for COVID vaccines this year. What happens now — and who can get a shot?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/AP22321647537788.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542692",
+          "author": "Tovin Lapan",
+          "description": "The Bizerkeley Food Fest is expanding from a single-day festival to a handful of events, including speed dating and a documentary screening, over the first week of September.",
+          "link": "https://www.berkeleyside.org/2025/08/29/bizerkeley-food-fest-week-vegan-erika-hazel",
+          "publishedOn": "2025-08-29T15:00:00.000Z",
+          "wordCount": 7387,
+          "title": "On a mission to make vegan mainstream, Berkeley festival grows",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/BizerkeleyFest-JeffreyLittman-softserve.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=540826",
+          "author": "Daniel Ekonde",
+          "description": "A flea market veteran, Viveca Jones, 74, now sells hats, baskets and more in front of Monterey Market, at the farmers’ market and at Shattuck and Vine.",
+          "link": "https://www.berkeleyside.org/2025/08/29/berkeley-street-vendor-viveca-jones",
+          "publishedOn": "2025-08-29T14:00:00.000Z",
+          "wordCount": 7479,
+          "title": "A day with a Berkeley street vendor who’s been a mainstay of the city for nearly 40 years",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250723-234828.webp?fit=1600%2C1186&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542704",
           "author": "Berkeleyside Staff",

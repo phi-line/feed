@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-29T12:07:38.392Z</updated>
+    <updated>2025-08-29T18:05:37.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The FDA just limited approvals for COVID vaccines this year. What happens now — and who can get a shot?]]></title>
+        <id>https://www.berkeleyside.org/?p=542731</id>
+        <link href="https://www.berkeleyside.org/2025/08/29/covid-vaccine-2025-children-access-fda"/>
+        <updated>2025-08-29T17:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Answering your questions about ways to get a COVID vaccine after the FDA limited their use.]]></summary>
+        <author>
+            <name>Carly Severn | KQED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a mission to make vegan mainstream, Berkeley festival grows]]></title>
+        <id>https://www.berkeleyside.org/?p=542692</id>
+        <link href="https://www.berkeleyside.org/2025/08/29/bizerkeley-food-fest-week-vegan-erika-hazel"/>
+        <updated>2025-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bizerkeley Food Fest is expanding from a single-day festival to a handful of events, including speed dating and a documentary screening, over the first week of September.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A day with a Berkeley street vendor who’s been a mainstay of the city for nearly 40 years]]></title>
+        <id>https://www.berkeleyside.org/?p=540826</id>
+        <link href="https://www.berkeleyside.org/2025/08/29/berkeley-street-vendor-viveca-jones"/>
+        <updated>2025-08-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A flea market veteran, Viveca Jones, 74, now sells hats, baskets and more in front of Monterey Market, at the farmers’ market and at Shattuck and Vine.]]></summary>
+        <author>
+            <name>Daniel Ekonde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The All-American Rejects: Field Recordings x Aspen Ideas Festival]]></title>
         <id>https://www.youtube.com/watch?v=Y2pmcwop5z8</id>
@@ -108,6 +138,16 @@ The post The Sudden Surges That Forge Evolutionary Trees first appeared on Quant
         <updated>2025-08-28T09:00:39.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing The Futurology Podcast]]></title>
+        <id>https://www.noemamag.com/introducing-the-futurology-podcast</id>
+        <link href="https://www.noemamag.com/introducing-the-futurology-podcast"/>
+        <updated>2025-08-28T04:07:16.000Z</updated>
+        <summary type="html"><![CDATA[The post Introducing The Futurology Podcast appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Nathan Gardels</name>
         </author>
     </entry>
     <entry>
