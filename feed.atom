@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-08-30T00:17:33.170Z</updated>
+    <updated>2025-08-30T06:05:23.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for barbecue tempeh rice bowl with lime and sriracha sauce | The new vegan]]></title>
+        <id>https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha"/>
+        <updated>2025-08-30T05:00:53.000Z</updated>
+        <summary type="html"><![CDATA[This fresh spin on a traditional poké bowl borrows ideas from all over the world
+This recipe is too off-the-beaten-track from a traditional Hawaiian poké for me to call it such and live with myself, but it is loosely based around the idea of one. It starts with seasoned sushi rice (which I could eat just by itself) and is topped with a variety of fun things to munch on such as salt- and lime-seasoned cabbage, edamame beans and glazed pieces of barbecued tempeh, all bound together with a gentle but perky sriracha sauce. Like many of us today, it borrows ideas from all over the world and is, I think, all the more delicious for it.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The FDA just limited approvals for COVID vaccines this year. What happens now — and who can get a shot?]]></title>
         <id>https://www.berkeleyside.org/?p=542731</id>
@@ -43,6 +55,15 @@
         <updated>2025-08-29T09:01:01.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea Level]]></title>
+        <id>https://xkcd.com/3135/</id>
+        <link href="https://xkcd.com/3135/"/>
+        <updated>2025-08-29T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

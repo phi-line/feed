@@ -995,6 +995,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3135/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3135/",
+          "publishedOn": "2025-08-29T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Sea Level",
+          "imageUrl": "https://imgs.xkcd.com/comics/sea_level_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3134/",
           "author": null,
           "description": "",
@@ -3969,6 +3979,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "This fresh spin on a traditional poké bowl borrows ideas from all over the world\nThis recipe is too off-the-beaten-track from a traditional Hawaiian poké for me to call it such and live with myself, but it is loosely based around the idea of one. It starts with seasoned sushi rice (which I could eat just by itself) and is topped with a variety of fun things to munch on such as salt- and lime-seasoned cabbage, edamame beans and glazed pieces of barbecued tempeh, all bound together with a gentle but perky sriracha sauce. Like many of us today, it borrows ideas from all over the world and is, I think, all the more delicious for it.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha",
+          "publishedOn": "2025-08-30T05:00:53.000Z",
+          "wordCount": 4626,
+          "title": "Meera Sodha’s vegan recipe for barbecue tempeh rice bowl with lime and sriracha sauce | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/ea9b193ae3a11ac1b2d26ae5bed6a8d435c63913/469_1683_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13508da451ec1aa3c0aef8fc9776778"
+        },
         {
           "id": "https://www.theguardian.com/food/2025/aug/23/meera-sodhas-recipe-for-courgette-and-mint-pilau-with-salted-pistachio-yoghurt",
           "author": "Meera Sodha",
