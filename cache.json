@@ -1327,16 +1327,6 @@
           "wordCount": 208,
           "title": "Neighbor-Source Heat Pump",
           "imageUrl": "https://imgs.xkcd.com/comics/neighbor_source_heat_pump_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3098/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3098/",
-          "publishedOn": "2025-06-04T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Trojan Horse",
-          "imageUrl": "https://imgs.xkcd.com/comics/trojan_horse_2x.png"
         }
       ]
     },
@@ -4579,6 +4569,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/how-contemplative-leadership-can-help-us-face-uncertainty-with-confidence/",
+          "author": "Patrick Boland",
+          "description": "When I was sixteen, I asked my parents for a copy of Niccolò Machiavelli’s classic Renaissance-era book The Prince as my Christmas present. It might seem strange, but I’d just read an excerpt in history class, and it had sounded like perfect reading for any young person looking to make their way in the world. There’s a lot of pragmatic wisdom in The Prince, all focused on achieving significant leadership goals. However, as the critics of its time so succinctly put it, one key message of the book is that, when it comes to leadership, “the ends justify the means.” Although it is now often regarded as an outdated manual for acquiring and maintaining power, some of the utilitarian conclusions that Machiavelli draws are very similar to how outcome-oriented leaders rationalize their achievements…",
+          "link": "https://bigthink.com/business/how-contemplative-leadership-can-help-us-face-uncertainty-with-confidence/",
+          "publishedOn": "2025-09-01T13:00:00.000Z",
+          "wordCount": 2175,
+          "title": "How “contemplative leadership” can help us face uncertainty with confidence",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/contemplative-leader_excerpt_02ce54.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/what-makes-discipline-meaningful/",
+          "author": "Sarah Schnitker",
+          "description": "Does self-discipline always build character? Not necessarily.\nPsychologist Sarah Schnitker explains why virtue grows best when rooted in purpose beyond the self. Through studies of marathon runners fundraising for clean water, she shows how pro-social and spiritual motivations—not just personal fitness goals—led to deeper growth in generosity, patience, and self-control.\nThis research challenges the idea that self-improvement alone leads to virtue. When moral purpose and shared meaning enter the picture, transformation becomes more than personal: it becomes relational and lasting.\nThis video When does self-discipline become virtue? is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/what-makes-discipline-meaningful/",
+          "publishedOn": "2025-09-01T13:00:00.000Z",
+          "wordCount": 1408,
+          "title": "When does self-discipline become virtue?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/The_Well_Sarah_Schnitker_GQ_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/logarithmic-view-universe/",
           "author": "Ethan Siegel",
