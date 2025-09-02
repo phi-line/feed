@@ -491,16 +491,6 @@
           "wordCount": 3540,
           "title": "First Map Made of a Solid’s Secret Quantum Geometry",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Quantum-Information-Shape_crMark-Belan-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151131",
-          "author": "Conor Feehly",
-          "description": "Studies of neural metabolism reveal our brain’s effort to keep us alive and the evolutionary constraints that sculpted our most complex organ.            \nThe post How Much Energy Does It Take To Think? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/",
-          "publishedOn": "2025-06-04T14:14:13.000Z",
-          "wordCount": 2953,
-          "title": "How Much Energy Does It Take To Think?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Brain-Energy_crMyrian-Wares-Social.jpg"
         }
       ]
     },
@@ -958,6 +948,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3136/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3136/",
+          "publishedOn": "2025-09-01T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Pull",
+          "imageUrl": "https://imgs.xkcd.com/comics/pull_2x.png"
+        },
         {
           "id": "https://xkcd.com/3135/",
           "author": null,
@@ -1661,16 +1661,6 @@
           "wordCount": 3213,
           "title": "The 2025 Berggruen Prize Essay Contest",
           "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_v1-11-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c25b0fb2447993ad1259e67f6724466d"
-        },
-        {
-          "id": "https://www.noemamag.com/ai-signals-the-death-of-the-author",
-          "author": "David J. Gunkel",
-          "description": "The post AI Signals The Death Of The Author appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/ai-signals-the-death-of-the-author",
-          "publishedOn": "2025-06-04T12:56:20.000Z",
-          "wordCount": 7563,
-          "title": "AI Signals The Death Of The Author",
-          "imageUrl": "https://noemamag.imgix.net/2025/05/matthew-horizontal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=305baea6dbdd9b1f2413d13480526f77"
         }
       ]
     },
@@ -4569,6 +4559,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/early-supermassive-stars-explain-universe/",
+          "author": "Ethan Siegel",
+          "description": "In most scientific fields, one of the most exciting things we can encounter is data — high-quality, robust data — that doesn’t align neatly with the expectations of our currently leading theories. Since the late 1990s, our leading theory of the Universe has been known as either the “ΛCDM” or “concordance” cosmology, where our Universe:\nbegan with a period of cosmic inflation that preceded and set up the hot Big Bang,\nthen the hot Big Bang occurred, creating a dense, hot, mostly uniform Universe,\ncontaining normal matter and radiation, but dominated by dark matter and dark energy,\nwhich gravitated, expanded, and cooled,\nforming the light elements, neutral atoms, stars, galaxies, and black holes,\nand giving rise to the Universe as we observe it today.\nToday, that concordance picture looks li…",
+          "link": "https://bigthink.com/starts-with-a-bang/early-supermassive-stars-explain-universe/",
+          "publishedOn": "2025-09-02T06:00:00.000Z",
+          "wordCount": 4510,
+          "title": "New theory: could early, supermassive stars explain the Universe?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/12/firststars.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-contemplative-leadership-can-help-us-face-uncertainty-with-confidence/",
           "author": "Patrick Boland",

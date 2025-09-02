@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-02T00:18:43.407Z</updated>
+    <updated>2025-09-02T06:06:48.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New theory: could early, supermassive stars explain the Universe?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/early-supermassive-stars-explain-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/early-supermassive-stars-explain-universe/"/>
+        <updated>2025-09-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In most scientific fields, one of the most exciting things we can encounter is data — high-quality, robust data — that doesn’t align neatly with the expectations of our currently leading theories. Since the late 1990s, our leading theory of the Universe has been known as either the “ΛCDM” or “concordance” cosmology, where our Universe:
+began with a period of cosmic inflation that preceded and set up the hot Big Bang,
+then the hot Big Bang occurred, creating a dense, hot, mostly uniform Universe,
+containing normal matter and radiation, but dominated by dark matter and dark energy,
+which gravitated, expanded, and cooled,
+forming the light elements, neutral atoms, stars, galaxies, and black holes,
+and giving rise to the Universe as we observe it today.
+Today, that concordance picture looks li…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How “contemplative leadership” can help us face uncertainty with confidence]]></title>
         <id>https://bigthink.com/business/how-contemplative-leadership-can-help-us-face-uncertainty-with-confidence/</id>
@@ -46,6 +63,15 @@ Our tiny home world, seemingly massive, is merely 12,742 km (7,917 miles) across
 This image, taken from the International Space St…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pull]]></title>
+        <id>https://xkcd.com/3136/</id>
+        <link href="https://xkcd.com/3136/"/>
+        <updated>2025-09-01T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4482,27 +4508,6 @@ Read more »]]></summary>
         <summary type="html"><![CDATA[What reminiscing is like without mental imagery]]></summary>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Energy Does It Take To Think?]]></title>
-        <id>https://www.quantamagazine.org/?p=151131</id>
-        <link href="https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/"/>
-        <updated>2025-06-04T14:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Studies of neural metabolism reveal our brain’s effort to keep us alive and the evolutionary constraints that sculpted our most complex organ.            
-The post How Much Energy Does It Take To Think? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Conor Feehly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Signals The Death Of The Author]]></title>
-        <id>https://www.noemamag.com/ai-signals-the-death-of-the-author</id>
-        <link href="https://www.noemamag.com/ai-signals-the-death-of-the-author"/>
-        <updated>2025-06-04T12:56:20.000Z</updated>
-        <summary type="html"><![CDATA[The post AI Signals The Death Of The Author appeared first on NOEMA.]]></summary>
-        <author>
-            <name>David J. Gunkel</name>
         </author>
     </entry>
 </feed>
