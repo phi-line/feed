@@ -44,16 +44,6 @@
           "wordCount": 3586,
           "title": "30 minutes with a stranger",
           "imageUrl": "https://pudding.cool/2025/06/hello-stranger/assets/social-facebook.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h7w339vE2F8",
-          "author": null,
-          "description": "A 6 minute video about the loneliness epidemic, in data",
-          "link": "https://www.youtube.com/watch?v=h7w339vE2F8",
-          "publishedOn": "2025-06-05T04:00:00.000Z",
-          "wordCount": null,
-          "title": "The Loneliness Epidemic, in Data",
-          "imageUrl": null
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=153460",
+          "author": "John Pavlus",
+          "description": "You’re carrying around in your head a model of how the world works. Will AI systems need to do the same?            \nThe post ‘World Models,’ an Old Idea in AI, Mount a Comeback first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+          "publishedOn": "2025-09-02T13:17:56.000Z",
+          "wordCount": 2721,
+          "title": "‘World Models,’ an Old Idea in AI, Mount a Comeback",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/World-Models-explainer-cr-Nash-Weerasekera-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=153646",
           "author": "Jake Buehler",
@@ -499,6 +499,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/11/gdp-we-really-don-t-know-how-good-we-have-it",
+          "author": null,
+          "description": "Everyone loves the hockey stick graph of long-run economic growth. For some, it's the basis of an entire worldview. Unfortunately, the numbers don’t add up.",
+          "link": "https://asteriskmag.com/issues/11/gdp-we-really-don-t-know-how-good-we-have-it",
+          "publishedOn": "2025-09-01T00:00:00.000Z",
+          "wordCount": 3675,
+          "title": "GDP: We Really Don’t Know How Good We Have It",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/11/nine-rules-for-managing-humans-managing-nuclear-reactors",
           "author": null,
@@ -1363,6 +1373,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-last-days-of-social-media",
+          "author": "James O'Sullivan",
+          "description": "The post The Last Days Of Social Media appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-last-days-of-social-media",
+          "publishedOn": "2025-09-02T14:55:48.000Z",
+          "wordCount": 10998,
+          "title": "The Last Days Of Social Media",
+          "imageUrl": "https://noemamag.imgix.net/2025/08/osullivanfinal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=731f45322e46c8193e55ffd28272071f"
+        },
+        {
           "id": "https://www.noemamag.com/the-vanishing-art-of-building-sacred-spaces",
           "author": "John Last",
           "description": "The post The Vanishing Art Of Building Sacred Spaces appeared first on NOEMA.",
@@ -1669,6 +1689,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542668",
+          "author": "Local sponsor",
+          "description": "'The Addams Family,' 'Annie,' 'Once' and 'Cats' are being staged at the Elmwood-area theater this coming year.",
+          "link": "https://www.berkeleyside.org/2025/09/02/berkeley-playhouse-unveils-the-2025-26-season-of-musicals",
+          "publishedOn": "2025-09-02T15:30:00.000Z",
+          "wordCount": 6945,
+          "title": "Berkeley Playhouse unveils the 2025-26 season of musicals",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Jesus_Christ_Superstar_2025_1236.jpg?fit=2000%2C1147&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542761",
+          "author": "Ella Carter-Klauschie and Megan Lam | EdSource",
+          "description": "The Berkeley Student Cooperative has more than 1,300 student members in its 17 houses and three apartment buildings.",
+          "link": "https://www.berkeleyside.org/2025/09/02/uc-berkeley-affordable-housing-student-cooperative",
+          "publishedOn": "2025-09-02T14:00:00.000Z",
+          "wordCount": 7771,
+          "title": "Student-run co-ops provide affordable housing at UC Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/03/03_31_20_berkeley_coop-10.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542731",
           "author": "Carly Severn | KQED",
@@ -4219,21 +4259,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/i-like-the-sound-of-how-you-look-at-me/il-vagabiondo-E1uaHo9TvwE-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine",
-          "author": null,
-          "description": "What reminiscing is like without mental imagery",
-          "link": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-06-05T02:50:22.000Z",
-          "wordCount": 6760,
-          "title": "I Do Not Remember My Life and It's Fine",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/516720ldsdl.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/i-do-not-remember-my-life-and-it-s-fine/516720ldsdl.jpeg"
         }
       ]
     },
@@ -4559,6 +4584,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/strange-maps/africa-wants-a-new-map/",
+          "author": "Frank Jacobs",
+          "description": "On a world map in the Mercator projection, Russia appears larger than Africa. In fact, Africa (11.7 million sq mi, 30.4 million km2) is nearly twice as large as Russia (6.6 million sq mi, 17.1 million km2). Africa has finally had enough.\n“(Mercator) is the world’s longest misinformation and disinformation campaign, and it just simply has to stop,” Moky Makura, executive director of advocacy group Africa No Filter, told Reuters. The group champions the introduction of the Equal Earth projection, which aims to give Africa its magnitudinal due.\nCartographical marginalization\nThe African Union (AU) — the association bringing together all of Africa’s 55 countries — has joined Correct the Map, a campaign that urges national governments and international organizations such as the UN or the World …",
+          "link": "https://bigthink.com/strange-maps/africa-wants-a-new-map/",
+          "publishedOn": "2025-09-02T15:24:48.000Z",
+          "wordCount": 2251,
+          "title": "Africa wants its true size on the world map",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/Map-Comparison.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/will-ai-create-more-jobs-than-it-replaces/",
+          "author": "James Barrat",
+          "description": "Even on the slow route to the intelligence explosion, big tech plays a vital role: they advance AI as fast as they can without safeguards. [Cognitive scientist and AI existential safety researcher] Peter Park said, “Big tech has boatloads of money and boatloads of lobbyists, but big tech also has admitted, either implicitly or explicitly, that their goal is to reduce the economic leverage of humans to zero. And they don’t have a plan to ensure humans’ ability to advocate for their rights and interests, which will go to zero soon after their economic leverage goes to zero.”\nAnd how does our economic leverage go to zero? When we lose our jobs, our money, and with them our ability to influence lobbies and politicians. Despite their seeming innocuousness, chatbots and image generators have alr…",
+          "link": "https://bigthink.com/business/will-ai-create-more-jobs-than-it-replaces/",
+          "publishedOn": "2025-09-02T13:00:00.000Z",
+          "wordCount": 2441,
+          "title": "Will AI create more jobs than it replaces?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/the-intelligence-explosion_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/early-supermassive-stars-explain-universe/",
           "author": "Ethan Siegel",
