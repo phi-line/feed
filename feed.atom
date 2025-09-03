@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-03T06:06:28.662Z</updated>
+    <updated>2025-09-03T12:07:56.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Dolores Ochoa, caregiver for over 35 years]]></title>
+        <id>https://www.berkeleyside.org/?p=542788</id>
+        <link href="https://www.berkeleyside.org/2025/09/03/remembering-dolores-ochoa-caregiver-for-over-35-years"/>
+        <updated>2025-09-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[She went above and beyond in her work in private in-home care and assisted living settings. A mother of four, she loved cooking, photography and time with friends.]]></summary>
+        <author>
+            <name>Tonatzin Ogunleye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mustafa: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=9MToQNYuU2Q</id>
+        <link href="https://www.youtube.com/watch?v=9MToQNYuU2Q"/>
+        <updated>2025-09-03T09:00:23.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA to needlessly kill Juno mission to Jupiter this month]]></title>
         <id>https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/</id>
@@ -4599,17 +4618,6 @@ The post First Map Made of a Solid’s Secret Quantum Geometry first appeared on
         <updated>2025-06-06T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[slushy paper plane]]></title>
-        <id>https://smittenkitchen.com/?p=84098</id>
-        <link href="https://smittenkitchen.com/2025/06/slushy-paper-plane/"/>
-        <updated>2025-06-05T23:43:42.000Z</updated>
-        <summary type="html"><![CDATA[preparedness). Having cocktails ready to go and super, super cold so that they won’t immediately water themselves down by melting ice was a win. And, as the habit has continued, it’s always fun when a friend stops by and you remember you already have perfect manhattans ready to go, as if you were trying to medal in the impromptu hosting olympics.
-Read more »]]></summary>
-        <author>
-            <name>deb</name>
         </author>
     </entry>
 </feed>
