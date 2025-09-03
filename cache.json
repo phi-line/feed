@@ -877,22 +877,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7b19b7a-2b91-4abc-b8ea-df24c8634a52_2000x1260.png"
-        },
-        {
-          "id": "https://www.asimov.press/p/a-visual-guide-to-genome-editors",
-          "author": "Evan DeTurk",
-          "description": "A selected encyclopedia of major gene-editing systems, together with illustrated diagrams.",
-          "link": "https://www.asimov.press/p/a-visual-guide-to-genome-editors",
-          "publishedOn": "2025-06-05T15:21:54.000Z",
-          "wordCount": null,
-          "title": "A Visual Guide to Genome Editors",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1bf40b96-f3f8-4209-9006-6e2202428540_2000x1260.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1bf40b96-f3f8-4209-9006-6e2202428540_2000x1260.png"
         }
       ]
     },
@@ -4614,6 +4598,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/",
+          "author": "Ethan Siegel",
+          "description": "If you were an alien looking at the Solar System, the first planet you’d notice, most likely, wouldn’t be Earth. It’s much easier to spot Jupiter for a variety of reasons, including:\nthe fact that it emits its own infrared radiation, making it the only planet to emit more light on its own than it reflects from the Sun,\nthe fact that it has the largest effect, of any planet, on the wobbling orbit of our parent star,\nthe fact that it’s well-separated from our parent star, making it an easier target for direct imaging than any of the rocky planets,\nand the fact that, if viewed from afar at the right perspective, it would block more of the Sun’s light than any other planet during a transit event.\nEarth may be of interest to us, since we live on it, but to an external observer, our Solar System…",
+          "link": "https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/",
+          "publishedOn": "2025-09-03T06:00:00.000Z",
+          "wordCount": 4476,
+          "title": "NASA to needlessly kill Juno mission to Jupiter this month",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2024/02/pia20703.webp?w=1041&h=586&crop=1"
+        },
         {
           "id": "https://bigthink.com/strange-maps/africa-wants-a-new-map/",
           "author": "Frank Jacobs",

@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-03T00:17:31.503Z</updated>
+    <updated>2025-09-03T06:06:28.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA to needlessly kill Juno mission to Jupiter this month]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/"/>
+        <updated>2025-09-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you were an alien looking at the Solar System, the first planet you’d notice, most likely, wouldn’t be Earth. It’s much easier to spot Jupiter for a variety of reasons, including:
+the fact that it emits its own infrared radiation, making it the only planet to emit more light on its own than it reflects from the Sun,
+the fact that it has the largest effect, of any planet, on the wobbling orbit of our parent star,
+the fact that it’s well-separated from our parent star, making it an easier target for direct imaging than any of the rocky planets,
+and the fact that, if viewed from afar at the right perspective, it would block more of the Sun’s light than any other planet during a transit event.
+Earth may be of interest to us, since we live on it, but to an external observer, our Solar System…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley police testify on why they shot Ricardo Ruiz during armed standoff]]></title>
         <id>https://www.berkeleyside.org/?p=542852</id>
@@ -4595,16 +4610,6 @@ The post First Map Made of a Solid’s Secret Quantum Geometry first appeared on
 Read more »]]></summary>
         <author>
             <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Visual Guide to Genome Editors]]></title>
-        <id>https://www.asimov.press/p/a-visual-guide-to-genome-editors</id>
-        <link href="https://www.asimov.press/p/a-visual-guide-to-genome-editors"/>
-        <updated>2025-06-05T15:21:54.000Z</updated>
-        <summary type="html"><![CDATA[A selected encyclopedia of major gene-editing systems, together with illustrated diagrams.]]></summary>
-        <author>
-            <name>Evan DeTurk</name>
         </author>
     </entry>
 </feed>
