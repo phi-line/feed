@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153717",
+          "author": "Shalma Wegsman",
+          "description": "Amid the chaos of revolutionary France, one man’s mathematical obsession gave way to a calculation that now underpins much of mathematics and physics. The calculation, called the Fourier transform, decomposes any function into its parts.            \nThe post What Is the Fourier Transform? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/",
+          "publishedOn": "2025-09-03T13:53:31.000Z",
+          "wordCount": 3253,
+          "title": "What Is the Fourier Transform?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/FourierTransform-cr.SierraBoucher_Samuel-Velasco-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153460",
           "author": "John Pavlus",
           "description": "You’re carrying around in your head a model of how the world works. Will AI systems need to do the same?            \nThe post ‘World Models,’ an Old Idea in AI, Mount a Comeback first appeared on Quanta Magazine",
@@ -1311,16 +1321,6 @@
           "wordCount": 206,
           "title": "Alert Sound",
           "imageUrl": "https://imgs.xkcd.com/comics/alert_sound_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3099/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3099/",
-          "publishedOn": "2025-06-06T04:00:00.000Z",
-          "wordCount": 208,
-          "title": "Neighbor-Source Heat Pump",
-          "imageUrl": "https://imgs.xkcd.com/comics/neighbor_source_heat_pump_2x.png"
         }
       ]
     },
@@ -1673,6 +1673,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=460598",
+          "author": "Jose Fermoso",
+          "description": "A recent survey of Bay Area transit riders shows major income disparities between train, bus, and ferry riders. It also shows that people feel twice as safe on buses as BARTs.",
+          "link": "https://www.berkeleyside.org/2025/09/03/what-feels-safer-bart-or-bus-explore-a-new-trove-of-bay-area-transit-survey-data",
+          "publishedOn": "2025-09-03T17:16:14.000Z",
+          "wordCount": 6689,
+          "title": "What feels safer, BART or bus? Explore a new trove of Bay Area transit survey data",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/A-man-sits-on-a-bench-as-BART-passengers-exit-a-train-after-arriving-in-Downtown-Berkeley.-August-26-2020.-Photo-Pete-Rosos.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=460141",
+          "author": "Esther Kaplan",
+          "description": "A major Bay Area earthquake is likely over the next decade. A state program has opened up its annual lottery for Californians who want to retrofit their homes to limit the damage.",
+          "link": "https://www.berkeleyside.org/2025/09/03/3000-dollar-earthquake-retrofit-subsidy-available-california-berkeley",
+          "publishedOn": "2025-09-03T13:00:00.000Z",
+          "wordCount": 6782,
+          "title": "You could win $3,000 to prepare for the next Big One",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP16292796162506-scaled-1.jpg?fit=2560%2C1762&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542788",
           "author": "Tonatzin Ogunleye",
@@ -3754,6 +3774,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/internet-1999/",
+          "author": null,
+          "description": "1999 Napster software running on Windows 98; photo by Christiaan Colen.\nWhen AOL completed its acquisition of Netscape in March 1999, a part of the old web died forever. By the end of the year (and the century), Netscape's share of the browser market had shrunk to about 20% and Microsoft's Internet Explorer had become dominant.\nMeanwhile, the dot-com bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”\nBut 1999 might best be remembered as the year of three revolutionary new internet te…",
+          "link": "https://cybercultural.com/p/internet-1999/",
+          "publishedOn": "2025-09-03T00:00:00.000Z",
+          "wordCount": 2023,
+          "title": "What the Internet Was Like in 1999",
+          "imageUrl": "https://cybercultural.com/assets/images/napster-1999-1280x720.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/blogs-rss-1999/",
           "author": null,
           "description": "Blogger, soon after its launch in August 1999.\nOn January 26, 1999, Cameron Barrett — who ran a website called Camworld — pondered the meaning of a new term he’d recently discovered:\n“A few months back, I heard the term weblog for the first time. I'm not sure who coined it or where it came from, so I can't properly credit it. Typically, a weblog is a small web site, usually maintained by one person that is updated on a regular basis and has a high concentration of repeat visitors. Weblogs often are highly focused around a singular subject, an underlying theme or unifying concept.”\n\nCamworld 'anatomy of a weblog' post, January 26, 1999 (screenshot April 1999).\nThus began a multi-year process of people trying to define what a weblog is. One of the better efforts was Rebecca Blood’s article, …",
@@ -4608,6 +4638,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-cold-plunge-fallacy-why-some-fads-may-never-work-for-you/",
+          "author": "Jonny Thomson",
+          "description": "Human beings are deliberative creatures. We weigh things up all the time. At its most basic level, we weigh up what we enjoy. You open the fridge at dinner time and think, “Hey, I’m in a pasta kind of mood tonight.” You turn on Netflix and scroll through hundreds of movies before choosing one that suits. This thing will give me more satisfaction and pleasure than that thing.\nThe problem, though, is that weighing up pros and cons is not locked into the moment. The pleasure of an act might echo out into the future in happy, contented ripples. That movie might be so good that you’ll talk about it with friends or join a Reddit group dedicated to appreciating it. At other times, the indulgence of the now might lead to great pain in the future. Binging pasta might lead to a stomach ache and terr…",
+          "link": "https://bigthink.com/mini-philosophy/the-cold-plunge-fallacy-why-some-fads-may-never-work-for-you/",
+          "publishedOn": "2025-09-03T14:47:52.000Z",
+          "wordCount": 2152,
+          "title": "The cold-plunge fallacy: Why some fads may never work for you",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/ice-plunge_fallacy_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/nate-silver-risk/",
+          "author": "Nate Silver",
+          "description": "What does it take to make bold decisions when the odds aren’t clear? Statistician Nate Silver explains why the best risk-takers aren’t reckless. They’re strategic, evidence-driven, and comfortable acting without perfect information.\nSilver shares habits that separate success from failure in competitive environments, to help you become more comfortable with risking it all.\nThis video Nate Silver: Habits of highly successful risk-takers is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/nate-silver-risk/",
+          "publishedOn": "2025-09-03T13:00:00.000Z",
+          "wordCount": 1124,
+          "title": "Nate Silver: Habits of highly successful risk-takers",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/B1-Web-Silver-1.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/brain-briefs-emotions-and-feelings/",
+          "author": "Paul Ekman, Lisa Feldman Barrett, Esther Perel",
+          "description": "Neuroscientist Lisa Feldman Barrett, PhD, psychologist Paul Eckman, PhD, and psychotherapist Esther Perel, PhD, explain how the brain constantly rebuilds emotions from memory and prediction. According to their research, by choosing new experiences today, we can reshape how our past influences us, gain more control over our feelings, and create new possibilities for connection and growth.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video How our expectations shape what we see, hear, and feel is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/brain-briefs-emotions-and-feelings/",
+          "publishedOn": "2025-09-03T13:00:00.000Z",
+          "wordCount": 2130,
+          "title": "How our expectations shape what we see, hear, and feel",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-BB-Emotions-Feelings-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/nasa-needlessly-kill-juno-mission/",
           "author": "Ethan Siegel",
