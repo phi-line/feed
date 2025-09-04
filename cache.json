@@ -491,16 +491,6 @@
           "wordCount": 2359,
           "title": "New Quantum Algorithm Factors Numbers With One Qubit",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Single-Qubit-Factoring_crCelsius-Pictor-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151180",
-          "author": "Shalma Wegsman",
-          "description": "Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous.            \nThe post First Map Made of a Solid’s Secret Quantum Geometry first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/",
-          "publishedOn": "2025-06-06T14:11:51.000Z",
-          "wordCount": 3540,
-          "title": "First Map Made of a Solid’s Secret Quantum Geometry",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Quantum-Information-Shape_crMark-Belan-Social.jpg"
         }
       ]
     },
@@ -1665,16 +1655,6 @@
           "wordCount": 11534,
           "title": "A New Political Compass",
           "imageUrl": "https://noemamag.imgix.net/2025/06/4_Setu-Choudhary.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=31aead954dc00747ae0e4b358f77185a"
-        },
-        {
-          "id": "https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest",
-          "author": "Nathan Gardels",
-          "description": "The post The 2025 Berggruen Prize Essay Contest appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest",
-          "publishedOn": "2025-06-06T16:44:20.000Z",
-          "wordCount": 3213,
-          "title": "The 2025 Berggruen Prize Essay Contest",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_v1-11-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c25b0fb2447993ad1259e67f6724466d"
         }
       ]
     },
@@ -4135,6 +4115,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/claude-sonnet-is-teaching-me-english",
+          "author": null,
+          "description": "Today, even a lazy after-thought can become a useful project",
+          "link": "https://aethermug.com/posts/claude-sonnet-is-teaching-me-english?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-09-03T01:16:36.000Z",
+          "wordCount": 2096,
+          "title": "Claude Sonnet Is Teaching Me English",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/claude-sonnet-is-teaching-me-english/212461fgsdl.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/claude-sonnet-is-teaching-me-english/212461fgsdl.jpeg"
+        },
+        {
           "id": "https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking",
           "author": null,
           "description": "Should we anthropomorphize LLMs?",
@@ -4648,6 +4643,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/",
+          "author": "Ethan Siegel",
+          "description": "If you look at all the objects detectable in Earth’s skies, including both naturally occurring bodies as well as artificial satellites, it should come as no surprise that the Sun appears as the brightest object of all. The Sun, after all, produces its own light, sustainably powered by nuclear fusion in its core. That core-generated energy helps keep the Sun from contracting under its own gravitation, but also propagates to the Sun’s edge, the photosphere, where the Sun emits radiation over a wide range of wavelengths that correspond to a temperature of around 6000 K. Although the Moon is the second-brightest object in most wavelengths of light, it only appears so bright because of its very close proximity to Earth. From an intrinsic point of view, most of the Moon’s light is merely reflect…",
+          "link": "https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/",
+          "publishedOn": "2025-09-04T06:00:00.000Z",
+          "wordCount": 4167,
+          "title": "The Sun is fainter than the Moon, at least in gamma-rays",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/05/1994_march_cgro_0.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-cold-plunge-fallacy-why-some-fads-may-never-work-for-you/",
           "author": "Jonny Thomson",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-04T00:17:41.964Z</updated>
+    <updated>2025-09-04T06:06:20.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Sun is fainter than the Moon, at least in gamma-rays]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/"/>
+        <updated>2025-09-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you look at all the objects detectable in Earth’s skies, including both naturally occurring bodies as well as artificial satellites, it should come as no surprise that the Sun appears as the brightest object of all. The Sun, after all, produces its own light, sustainably powered by nuclear fusion in its core. That core-generated energy helps keep the Sun from contracting under its own gravitation, but also propagates to the Sun’s edge, the photosphere, where the Sun emits radiation over a wide range of wavelengths that correspond to a temperature of around 6000 K. Although the Moon is the second-brightest object in most wavelengths of light, it only appears so bright because of its very close proximity to Earth. From an intrinsic point of view, most of the Moon’s light is merely reflect…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What feels safer, BART or bus? Explore a new trove of Bay Area transit survey data]]></title>
         <id>https://oaklandside.org/?p=460598</id>
@@ -113,6 +123,16 @@ Earth may be of interest to us, since we live on it, but to an external observer
         <updated>2025-09-03T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Sonnet Is Teaching Me English]]></title>
+        <id>https://aethermug.com/posts/claude-sonnet-is-teaching-me-english</id>
+        <link href="https://aethermug.com/posts/claude-sonnet-is-teaching-me-english?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-09-03T01:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Today, even a lazy after-thought can become a useful project]]></summary>
+        <author>
+            <name>Aether Mug</name>
         </author>
     </entry>
     <entry>
@@ -4676,27 +4696,6 @@ I’m a subscriber to The Imperfectionist, Oliver Burkeman’s newsletter on bui
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2025 Berggruen Prize Essay Contest]]></title>
-        <id>https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest</id>
-        <link href="https://www.noemamag.com/the-2025-berggruen-institute-essay-prize-contest"/>
-        <updated>2025-06-06T16:44:20.000Z</updated>
-        <summary type="html"><![CDATA[The post The 2025 Berggruen Prize Essay Contest appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Map Made of a Solid’s Secret Quantum Geometry]]></title>
-        <id>https://www.quantamagazine.org/?p=151180</id>
-        <link href="https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/"/>
-        <updated>2025-06-06T14:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous.            
-The post First Map Made of a Solid’s Secret Quantum Geometry first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Shalma Wegsman</name>
         </author>
     </entry>
 </feed>
