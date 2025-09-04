@@ -1357,6 +1357,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/comrade-trump",
+          "author": "Nathan Gardels",
+          "description": "The post Comrade Trump appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/comrade-trump",
+          "publishedOn": "2025-09-04T13:27:58.000Z",
+          "wordCount": 3600,
+          "title": "Comrade Trump",
+          "imageUrl": "https://noemamag.imgix.net/2025/09/Comrade-Trump-V3-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=df9a54c4392cba597ba6c4512af3f93d"
+        },
+        {
           "id": "https://www.noemamag.com/the-last-days-of-social-media",
           "author": "James O'Sullivan",
           "description": "The post The Last Days Of Social Media appeared first on NOEMA.",
@@ -1663,6 +1673,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542904",
+          "author": "Nico Savidge",
+          "description": "Newly released data show who will have to pay the city’s tax on vacant apartments and houses. Is the tax pushing homes back on the market?",
+          "link": "https://www.berkeleyside.org/2025/09/04/berkeley-vacancy-tax-data-empty-apartments-housing",
+          "publishedOn": "2025-09-04T17:37:28.000Z",
+          "wordCount": 8772,
+          "title": "The Berkeley buildings with the most vacant housing units",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Berkeley-AbandonedBuildings_Natera_250816_016.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542262",
+          "author": "Local sponsor",
+          "description": "Shotgun Players presents the world premiere from Bay Area playwright Christopher Chen.",
+          "link": "https://www.berkeleyside.org/2025/09/04/the-motion-debates-animal-testing-with-a-sci-fi-twist",
+          "publishedOn": "2025-09-04T15:30:00.000Z",
+          "wordCount": 6949,
+          "title": "‘The Motion’ debates animal testing — with a sci-fi twist",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/The-Motion-Cast.jpg?fit=1898%2C1292&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542905",
+          "author": "Iris Kwok and Andrew Gilbert",
+          "description": "Other events include a free concert by saxophonist Michael Marcus and the opening of ACCI Gallery's show \"Transmissions.\"",
+          "link": "https://www.berkeleyside.org/2025/09/04/around-berkeley-things-to-do-sept-3-to-sept-10",
+          "publishedOn": "2025-09-04T13:00:00.000Z",
+          "wordCount": 8229,
+          "title": "Around Berkeley: ‘The Addams Family’ musical, vegan food festival, salt pond photos",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Untitled-design-2.png?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=460598",
           "author": "Jose Fermoso",
@@ -4096,16 +4136,6 @@
           "wordCount": 4512,
           "title": "Meera Sodha’s vegan recipe for grated tomato and butter beans with olive pangrattato | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/6303a5dde3582a6f4d9b4fdf8650a872d1f57193/0_0_3687_2949/master/3687.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e9d463b93badb3340fc2e92c9e26cb3"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/jun/07/vegan-black-rice-red-cabbage-tempeh-salad-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Renew your zest for life with this hearty salad that’s a nutritious meal in itself\nI’m a subscriber to The Imperfectionist, Oliver Burkeman’s newsletter on building a meaningful life, in which he recently wrote about navigating life via “aliveness”, which he describes as “a subtle electrical charge”. I chase that feeling a lot in the kitchen, and it’s how I feel when I eat a great salad, all vibrant and energised, as if I’ve just cycled through gorgeous countryside or been on a hike. I find it hard to write recipes for such salads, though, perhaps because there are often so many ingredient variations and little precedence, but today’s one made the cut. If you make it, please let me know if it made you feel “perky” in any way.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/jun/07/vegan-black-rice-red-cabbage-tempeh-salad-recipe-meera-sodha",
-          "publishedOn": "2025-06-07T05:00:56.000Z",
-          "wordCount": 4604,
-          "title": "Meera Sodha’s vegan recipe for black rice, red cabbage and tempeh salad | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/f5dde07dd954423eadddeeb8169991d93f1bfe60/0_1308_3578_2860/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e5c91be5fcddd16eeb56bca140279e"
         }
       ]
     },
@@ -4643,6 +4673,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/hard-science/worlds-largest-flood-refilled-mediterranean/",
+          "author": "Elizabeth Fernandez",
+          "description": "The Mediterranean Sea connects to the vastness of the Atlantic through the smallest of natural channels: The Strait of Gibraltar is only about 8 miles wide. People have swum across the Strait, and it is easy to see from Spain to Morocco on a normal, clear day. It seems like it would not take much for nature to simply close that connection between Europe and Africa, and in so doing isolate the Mediterranean Sea. Indeed, this has happened before.\nAbout six million years ago, something caused the Mediterranean to be cut off. Perhaps it was an ice age that decreased the sea level enough to leave a land bridge between Spain and Morocco. The Mediterranean’s isolation could also have been the outcome of tectonic processes. \nIn what is dubbed the Messinian salinity crisis, the Mediterranean Sea th…",
+          "link": "https://bigthink.com/hard-science/worlds-largest-flood-refilled-mediterranean/",
+          "publishedOn": "2025-09-04T17:47:00.000Z",
+          "wordCount": 1964,
+          "title": "5.3 million years ago, the world’s largest flood refilled the Mediterranean",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/05/zancleanflood.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/inside-my-study-of-the-worlds-oldest-companies/",
+          "author": "Eric Markowitz",
+          "description": "I’ve been a longtime fan of the Art of Quality podcast, so it was a joy to join the show and share some of my Outlast research. Host and investor John Candeto — whom you may remember from our Long Game discussion on power laws — pressed me on why I’ve been traveling the world to study companies that endure: from London’s Lloyd’s and Lock & Co., to Italy’s Riva, Beretta, and Giusti, to Japan’s Tsuen Tea and Hōshi Ryokan.\nAt the heart of it is this: for me, studying the past provides a living playbook for how to build systems that can withstand shocks and endure for generations. And the high-level pattern emerging across my research is clear: longevity comes from honoring tradition while evolving slowly, and centering trust with employees and communities.\nThese lessons, I believe, hold as mu…",
+          "link": "https://bigthink.com/business/inside-my-study-of-the-worlds-oldest-companies/",
+          "publishedOn": "2025-09-04T13:00:00.000Z",
+          "wordCount": 3142,
+          "title": "Inside my study of the world’s oldest companies",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/9.4-Nightcrawler_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/michio-kaku-kardashev/",
+          "author": "Michio Kaku",
+          "description": "If alien life exists, how would we even recognize it? Physicist Michio Kaku argues that our search for intelligence beyond Earth forces us to question the assumptions behind our own definition of “intelligent.” \nOur current criteria for intelligence might be too narrow. Here’s what that means for the search for extraterrestrial life.\nThis video Michio Kaku: Why we don’t even rank on the Kardashev scale is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/michio-kaku-kardashev/",
+          "publishedOn": "2025-09-04T13:00:00.000Z",
+          "wordCount": 2692,
+          "title": "Michio Kaku: Why we don’t even rank on the Kardashev scale",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A1-Web-kaku-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/",
           "author": "Ethan Siegel",
