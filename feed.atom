@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-03T18:06:12.075Z</updated>
+    <updated>2025-09-04T00:17:41.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -104,6 +104,15 @@ and the fact that, if viewed from afar at the right perspective, it would block 
 Earth may be of interest to us, since we live on it, but to an external observer, our Solar System…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursed Number]]></title>
+        <id>https://xkcd.com/3137/</id>
+        <link href="https://xkcd.com/3137/"/>
+        <updated>2025-09-03T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
