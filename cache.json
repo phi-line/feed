@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=153852",
+          "author": "Shalma Wegsman",
+          "description": "Recent progress on both analog and digital simulations of quantum fields foreshadows a future in which quantum computers could illuminate phenomena that are far too complex for even the most powerful supercomputers.            \nThe post Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/",
+          "publishedOn": "2025-09-05T14:09:17.000Z",
+          "wordCount": 3601,
+          "title": "Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/NewQuantumSims-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153717",
           "author": "Shalma Wegsman",
           "description": "Amid the chaos of revolutionary France, one man’s mathematical obsession gave way to a calculation that now underpins much of mathematics and physics. The calculation, called the Fourier transform, decomposes any function into its parts.            \nThe post What Is the Fourier Transform? first appeared on Quanta Magazine",
@@ -1673,6 +1683,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=542964",
+          "author": "Nico Savidge",
+          "description": "One Berkeley family may own as many as five vacant properties. Their bill under the city’s new vacancy tax will be more than triple what they paid in property taxes last year.",
+          "link": "https://www.berkeleyside.org/2025/09/05/berkeley-vacant-housing-phillip-henry-edith-louie-ashok-sabhlok",
+          "publishedOn": "2025-09-05T17:16:34.000Z",
+          "wordCount": 8363,
+          "title": "Empty empires: A few Berkeley landlords are sitting on several vacant buildings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_9043-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=542971",
+          "author": "Cecilia Seiter",
+          "description": "An anticipated beer garden opening in Alameda, a fresh cocktail bar in Uptown Oakland, and new cafes, sushi spots and more made the unofficial end of summer a flavorful one.",
+          "link": "https://www.berkeleyside.org/2025/09/05/park-station-lucy-blue-hopscotch-itani-new-restaurants",
+          "publishedOn": "2025-09-05T15:00:00.000Z",
+          "wordCount": 8220,
+          "title": "East Bay restaurant openings heat up in August",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/ParkStation-Alameda.jpg?fit=1800%2C1148&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=460782",
+          "author": "Darwin BondGraham",
+          "description": "Computer problems prevented the start of train service Friday. Bay Area Rapid Transit is advising people to seek alternatives.",
+          "link": "https://www.berkeleyside.org/2025/09/05/bart-trains-out-of-service",
+          "publishedOn": "2025-09-05T14:39:50.000Z",
+          "wordCount": 6808,
+          "title": "Entire BART system was out of service. East Bay service slowly restarting",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250905-143839.webp"
+        },
+        {
+          "id": "https://oaklandside.org/?p=460520",
+          "author": "Callie Rhoades",
+          "description": "The Bay Area hiking group, co-founded by environmentalist and photographer Bob Walker, faced fierce headwinds at its inception.",
+          "link": "https://www.berkeleyside.org/2025/09/05/rainbow-gay-and-lesbian-sierrans-lgbtq-hiking-bob-walker-history",
+          "publishedOn": "2025-09-05T12:55:00.000Z",
+          "wordCount": 8681,
+          "title": "Rainbow Sierrans, the Sierra Club’s first LGBTQ hiking group, on 40 years of trekking together",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/8.S93.15.813_DGSL_238_01-scaled-2.jpg?fit=2560%2C1719&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=542996",
           "author": "Family of Dorothy Marsh",
@@ -4723,6 +4773,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/working-class-men/",
+          "author": "Richard Reeves",
+          "description": "Richard Reeves argues that this quiet male crisis has been decades in the making, and it’s not the simplistic story most people assume. \nFrom collapsing educational outcomes to shrinking roles in the labor market, men are struggling in ways that challenge our cultural narratives about progress.\nThis video Richard Reeves: Why working-class men are facing the sharpest decline is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/working-class-men/",
+          "publishedOn": "2025-09-05T13:00:00.000Z",
+          "wordCount": 18619,
+          "title": "Richard Reeves: Why working-class men are facing the sharpest decline",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/B1-WEB-Reeves.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/positive-geometry-theory-of-everything/",
           "author": "Ethan Siegel",
