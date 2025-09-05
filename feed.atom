@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-05T06:06:37.780Z</updated>
+    <updated>2025-09-05T12:07:19.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Dorothy Marsh, social worker, purchasing agent, artist]]></title>
+        <id>https://www.berkeleyside.org/?p=542996</id>
+        <link href="https://www.berkeleyside.org/2025/09/05/dorothy-marsh-obituary"/>
+        <updated>2025-09-05T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A generous advocate of social justice causes, she taught yoga, painted and loved literature, opera and bargain shopping with friends.]]></summary>
+        <author>
+            <name>Family of Dorothy Marsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PinkPantheress: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=56fJw8HUGuU</id>
+        <link href="https://www.youtube.com/watch?v=56fJw8HUGuU"/>
+        <updated>2025-09-05T09:00:10.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask Ethan: Could “positive geometry” unlock the theory of everything?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/positive-geometry-theory-of-everything/</id>
