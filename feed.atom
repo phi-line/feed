@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-05T00:18:40.197Z</updated>
+    <updated>2025-09-05T06:06:37.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Could “positive geometry” unlock the theory of everything?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/positive-geometry-theory-of-everything/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/positive-geometry-theory-of-everything/"/>
+        <updated>2025-09-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When most scientists talk about progress in their field, they speak about small, incremental changes that slightly, gradually improve our understanding of how the Universe works. But when we think about the biggest advances in scientific history, they often occur in revolutionary leaps, completely overthrowing our previously held views of how the Universe works. In particular, revolutions like Special Relativity and General Relativity, quantum mechanics and quantum field theory, and the Big Bang and cosmic inflation completely overthrew our prior picture of how things actually behave. As the “holy grail” of physics, many have long sought a Theory of Everything, seeking to explain every particle, phenomenon, and interaction in all the Universe within a single framework, and possibly even wi…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Printmaker David David Lance Goines’ archive finds local home; People’s Park project named]]></title>
         <id>https://www.berkeleyside.org/?p=543002</id>
