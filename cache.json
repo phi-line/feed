@@ -953,6 +953,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3138/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3138/",
+          "publishedOn": "2025-09-05T04:00:00.000Z",
+          "wordCount": 210,
+          "title": "Dimensional Lumber Tape Measure",
+          "imageUrl": "https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3137/",
           "author": null,
           "description": "",
@@ -4117,6 +4127,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2025/sep/06/kidney-bean-and-sweetcorn-curry-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Pleasingly simple as curries go, this seasonal dish can be vegan if you choose dairy-free yoghurt and gluten-free if served with rice in place of chapatis\nMy grandmother, Narmada Lakhani, passed away earlier this year aged 92. Well, we think she was 92, but no one recorded her birth date, so we can only estimate. What we do know about her, though, is that she had a very cheeky laugh, and that she loved lager tops, penny slot machines and tucking £10 notes down her bra, ready to hand out to an unsuspecting grandchild as a gift. She never asked if I was happy, only if I’d eaten well, which I assume to her were the same thing. At this time of year, eating well for her meant tucking into sweetcorn, so, in her memory, I’m going to do the same.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2025/sep/06/kidney-bean-and-sweetcorn-curry-recipe-meera-sodha",
+          "publishedOn": "2025-09-06T05:00:45.000Z",
+          "wordCount": 4435,
+          "title": "Meera Sodha’s recipe for kidney bean and sweetcorn curry",
+          "imageUrl": "https://i.guim.co.uk/img/media/2b2c92e9ab33347bf223f7aeda580392c0ca77da/0_852_3456_2765/master/3456.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=227f8a926f394ccb5f9a7d0351edfbce"
+        },
         {
           "id": "https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha",
           "author": "Meera Sodha",
