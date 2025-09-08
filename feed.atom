@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-08T00:19:37.881Z</updated>
+    <updated>2025-09-08T06:07:11.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWST improves, surpasses Hubble’s view of Pismis 24]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/"/>
+        <updated>2025-09-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All across our galactic plane, new stars are currently forming.
+
+This region of space shows a portion of the plane of the Milky Way, with three extended star-forming regions all side-by-side next to one another. The Omega Nebula (left), the Eagle Nebula (center), and Sharpless 2-54 (right), compose just a small fraction of a vast complex of gas and dust found all through the galactic plane that continuously lead to the formation of newborn stars.
+
+Credit: European Southern Observatory
+
+
+Dense clouds of gas, under gravitation’s relentless influence, contract, triggering star-formation.
+
+Within the plane of the Milky Way, dark dust lanes are omnipresent, representing dense neutral gas clouds usually found within the galaxy’s spiral arms. Here, nebula NGC 6357, also known as the Lobster Nebul…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starts With A Bang podcast #121 – Direct exoplanet imaging]]></title>
         <id>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-121-direct-exoplanet-imaging/</id>
@@ -4919,16 +4938,6 @@ In 1997, the World Wide Web finally went past 1 million websites — with over 1
 Web commercialism also ramped up over 1997. While the dot-com boom was still in its early stages, notable IPOs this year included Amazon.com in May, N2K in August and RealNetworks in November. Meanwhile, W…]]></summary>
         <author>
             <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Political Compass]]></title>
-        <id>https://www.noemamag.com/a-new-political-compass</id>
-        <link href="https://www.noemamag.com/a-new-political-compass"/>
-        <updated>2025-06-10T17:05:53.000Z</updated>
-        <summary type="html"><![CDATA[The post A New Political Compass appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Dan Zimmer</name>
         </author>
     </entry>
 </feed>

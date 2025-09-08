@@ -1639,16 +1639,6 @@
           "wordCount": 4531,
           "title": "‘Molecular Civil War’ In LA",
           "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_V2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=062c202a319e6cc74bee7ee277af59ee"
-        },
-        {
-          "id": "https://www.noemamag.com/a-new-political-compass",
-          "author": "Dan Zimmer",
-          "description": "The post A New Political Compass appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/a-new-political-compass",
-          "publishedOn": "2025-06-10T17:05:53.000Z",
-          "wordCount": 11534,
-          "title": "A New Political Compass",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/4_Setu-Choudhary.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=31aead954dc00747ae0e4b358f77185a"
         }
       ]
     },
@@ -4797,6 +4787,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/",
+          "author": "Ethan Siegel",
+          "description": "All across our galactic plane, new stars are currently forming.\n\nThis region of space shows a portion of the plane of the Milky Way, with three extended star-forming regions all side-by-side next to one another. The Omega Nebula (left), the Eagle Nebula (center), and Sharpless 2-54 (right), compose just a small fraction of a vast complex of gas and dust found all through the galactic plane that continuously lead to the formation of newborn stars.\n\nCredit: European Southern Observatory\n\n\nDense clouds of gas, under gravitation’s relentless influence, contract, triggering star-formation.\n\nWithin the plane of the Milky Way, dark dust lanes are omnipresent, representing dense neutral gas clouds usually found within the galaxy’s spiral arms. Here, nebula NGC 6357, also known as the Lobster Nebul…",
+          "link": "https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/",
+          "publishedOn": "2025-09-08T06:00:00.000Z",
+          "wordCount": 2590,
+          "title": "JWST improves, surpasses Hubble’s view of Pismis 24",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/coverhubjwst.gif?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-121-direct-exoplanet-imaging/",
           "author": "Ethan Siegel",
