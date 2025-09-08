@@ -3996,16 +3996,6 @@
           "wordCount": 2090,
           "title": "Portals in 1998: The Rise and Fall of Excite and Netcenter",
           "imageUrl": "https://cybercultural.com/assets/images/excite-1998-1280x720.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/internet-1997/",
-          "author": null,
-          "description": "In October, the Netscape vs. Microsoft rivalry reached fever pitch when Netscape employees defaced an Internet Explorer logo that had been dumped on its lawn by Microsofties.\nIn 1997, the World Wide Web finally went past 1 million websites — with over 120 million internet users. As the number of websites went up, the range of sites blossomed too. Over a million people built personal home pages on GeoCities, Tripod and Angelfire. And while the Web had only just gone multimedia a few years before, now it was pushing the limits with technologies like Flash, Java applets and streaming media.\nWeb commercialism also ramped up over 1997. While the dot-com boom was still in its early stages, notable IPOs this year included Amazon.com in May, N2K in August and RealNetworks in November. Meanwhile, W…",
-          "link": "https://cybercultural.com/p/internet-1997/",
-          "publishedOn": "2025-06-11T00:00:00.000Z",
-          "wordCount": 1665,
-          "title": "What the Internet Was Like in 1997",
-          "imageUrl": "https://cybercultural.com/assets/images/mozilla-vs-ie-sep1997.jpg"
         }
       ]
     },
@@ -4421,6 +4411,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QeT_xGZUiOo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QeT_xGZUiOo",
+          "publishedOn": "2025-09-08T09:00:42.000Z",
+          "wordCount": null,
+          "title": "Michael Mayo: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=x5IagXAUnIU",
           "author": null,
           "description": "",
@@ -4787,6 +4787,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-well/true-free-speech/",
+          "author": "Jacob Mchangama",
+          "description": "Jacob Mchangama, founder of The Future of Free Speech, explains how free speech has shaped America, from Frederick Douglass fighting slavery to Supreme Court cases protecting voices that promote hate. He argues that today, tech platforms twist our view by promoting extremists for clicks, making it feel like free speech is the problem. But free speech only works if all voices are allowed. According to Mchangama,  it is silence that truly damages equality and democracy.\nThis video True free speech, explained in 6 minutes is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/true-free-speech/",
+          "publishedOn": "2025-09-08T10:00:00.000Z",
+          "wordCount": 2022,
+          "title": "True free speech, explained in 6 minutes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/The_Well_Jacob_Mchangama_BTI_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/",
           "author": "Ethan Siegel",

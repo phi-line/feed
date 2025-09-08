@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-08T06:07:11.256Z</updated>
+    <updated>2025-09-08T12:08:15.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[True free speech, explained in 6 minutes]]></title>
+        <id>https://bigthink.com/the-well/true-free-speech/</id>
+        <link href="https://bigthink.com/the-well/true-free-speech/"/>
+        <updated>2025-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jacob Mchangama, founder of The Future of Free Speech, explains how free speech has shaped America, from Frederick Douglass fighting slavery to Supreme Court cases protecting voices that promote hate. He argues that today, tech platforms twist our view by promoting extremists for clicks, making it feel like free speech is the problem. But free speech only works if all voices are allowed. According to Mchangama,  it is silence that truly damages equality and democracy.
+This video True free speech, explained in 6 minutes is featured on Big Think.]]></summary>
+        <author>
+            <name>Jacob Mchangama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Mayo: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=QeT_xGZUiOo</id>
+        <link href="https://www.youtube.com/watch?v=QeT_xGZUiOo"/>
+        <updated>2025-09-08T09:00:42.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWST improves, surpasses Hubble’s view of Pismis 24]]></title>
         <id>https://bigthink.com/starts-with-a-bang/jwst-hubble-pismis-24/</id>
@@ -4926,18 +4946,6 @@ The post Epic Effort to Ground Physics in Math Opens Up the Secrets of Time firs
         <summary type="html"><![CDATA[Japanese gitaigo are nuggets of mundane joy]]></summary>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Internet Was Like in 1997]]></title>
-        <id>https://cybercultural.com/p/internet-1997/</id>
-        <link href="https://cybercultural.com/p/internet-1997/"/>
-        <updated>2025-06-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In October, the Netscape vs. Microsoft rivalry reached fever pitch when Netscape employees defaced an Internet Explorer logo that had been dumped on its lawn by Microsofties.
-In 1997, the World Wide Web finally went past 1 million websites — with over 120 million internet users. As the number of websites went up, the range of sites blossomed too. Over a million people built personal home pages on GeoCities, Tripod and Angelfire. And while the Web had only just gone multimedia a few years before, now it was pushing the limits with technologies like Flash, Java applets and streaming media.
-Web commercialism also ramped up over 1997. While the dot-com boom was still in its early stages, notable IPOs this year included Amazon.com in May, N2K in August and RealNetworks in November. Meanwhile, W…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
 </feed>
