@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-08T12:08:15.594Z</updated>
+    <updated>2025-09-08T18:06:12.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tiny Tubes Reveal Clues to the Evolution of Complex Life]]></title>
+        <id>https://www.quantamagazine.org/?p=153907</id>
+        <link href="https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/"/>
+        <updated>2025-09-08T15:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have identified tubulin structures in primitive Asgard archea that may have been the precursor of our own cellular skeletons.            
+The post Tiny Tubes Reveal Clues to the Evolution of Complex Life first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to lead by listening: What growing up on MTV taught JoJo Simmons]]></title>
+        <id>https://bigthink.com/business/how-to-lead-by-listening-what-growing-up-on-mtv-taught-jojo-simmons/</id>
+        <link href="https://bigthink.com/business/how-to-lead-by-listening-what-growing-up-on-mtv-taught-jojo-simmons/"/>
+        <updated>2025-09-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For JoJo Simmons the road to leadership was not exactly conventional. But the lessons he has picked up along the way, shared here with Big Think, are packed with valuable insights that resonate across a broad swath of common ground. 
+Simmons grew up in a family with its own reality TV show — and one that enabled him to build a legacy of his own. After starring on six seasons of MTV’s Run’s House — where viewers were invited inside the home of his father, ordained Pentecostal minister Reverend Run, an original member of hip-hop group Run-DMC — Simmons went on to found two companies: record label Whos House Entertainment, and 3isFor, a content strategy and media production firm focused on telling stories about mental health and personal growth.
+Continuing his family’s humanitarian streak, Si…]]></summary>
+        <author>
+            <name>Tim Brinkhof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, new Berkeley apartment buildings aren’t plagued by vacancies, data show]]></title>
+        <id>https://www.berkeleyside.org/?p=543050</id>
+        <link href="https://www.berkeleyside.org/2025/09/08/berkeley-housing-vacancy-rate-new-apartments-downtown-southside"/>
+        <updated>2025-09-08T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Development critics often speculate that new apartment buildings sit empty. But the city didn't find long-term vacancies in those complexes last year.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[True free speech, explained in 6 minutes]]></title>
         <id>https://bigthink.com/the-well/true-free-speech/</id>
@@ -635,6 +668,16 @@ This image, taken from the International Space St…]]></summary>
         <updated>2025-09-01T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Demons of Non-Denoms]]></title>
+        <id>https://asteriskmag.com/issues/11/the-demons-of-non-denoms</id>
+        <link href="https://asteriskmag.com/issues/11/the-demons-of-non-denoms"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Religion in America was once the domain of institutions. How did it grow to be dominated by cults of personality — and what can the process tell us about the rest of American culture?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -4927,25 +4970,6 @@ The post Does Form Really Shape Function? first appeared on Quanta Magazine]]></
 The post Epic Effort to Ground Physics in Math Opens Up the Secrets of Time first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Leila Sloman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Science]]></title>
-        <id>https://xkcd.com/3101/</id>
-        <link href="https://xkcd.com/3101/"/>
-        <updated>2025-06-11T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Like the Sound of How You Look at Me]]></title>
-        <id>https://aethermug.com/posts/i-like-the-sound-of-how-you-look-at-me</id>
-        <link href="https://aethermug.com/posts/i-like-the-sound-of-how-you-look-at-me?utm_source=rss&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T01:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Japanese gitaigo are nuggets of mundane joy]]></summary>
-        <author>
-            <name>Aether Mug</name>
         </author>
     </entry>
 </feed>
