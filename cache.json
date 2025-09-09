@@ -34,16 +34,6 @@
           "wordCount": 3403,
           "title": "Bears Will Be Boys",
           "imageUrl": "https://pudding.cool/2025/07/kids-books/assets/social.png"
-        },
-        {
-          "id": "https://pudding.cool/2025/06/hello-stranger",
-          "author": null,
-          "description": "Watch hundreds of strangers talk for 30 minutes, and track how their moods change",
-          "link": "https://pudding.cool/2025/06/hello-stranger",
-          "publishedOn": "2025-06-12T04:00:00.000Z",
-          "wordCount": 3586,
-          "title": "30 minutes with a stranger",
-          "imageUrl": "https://pudding.cool/2025/06/hello-stranger/assets/social-facebook.jpg"
         }
       ]
     },
@@ -1351,6 +1341,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-new-geopolitics-of-the-green-transition",
+          "author": "Bentley Allan",
+          "description": "The post The New Geopolitics Of The Green Transition appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-new-geopolitics-of-the-green-transition",
+          "publishedOn": "2025-09-09T15:37:27.000Z",
+          "wordCount": 6710,
+          "title": "The New Geopolitics Of The Green Transition",
+          "imageUrl": "https://noemamag.imgix.net/2025/09/Noema_GreenEnergy_R2_V3b.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=01d005c1c411bfecb954e0472453370d"
+        },
+        {
           "id": "https://www.noemamag.com/comrade-trump",
           "author": "Nathan Gardels",
           "description": "The post Comrade Trump appeared first on NOEMA.",
@@ -1647,6 +1647,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543142",
+          "author": "Cecilia Seiter",
+          "description": "Mainstays Rick & Ann's, The Spanish Table and Tomate Cafe were all among the recent restaurants to shut down.",
+          "link": "https://www.berkeleyside.org/2025/09/09/rick-anns-sugata-tomate-cafe-restaurants-closed",
+          "publishedOn": "2025-09-09T15:48:24.000Z",
+          "wordCount": 7147,
+          "title": "August restaurant closures take a bite out of Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/TomateCafe-Berkeley.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543100",
+          "author": "Vanessa Arredondo",
+          "description": "Even risking jail time, older Berkeley residents are standing up to the Trump administration’s deportation agenda through know-your-rights workshops, protests and courthouse observations.",
+          "link": "https://www.berkeleyside.org/2025/09/09/retired-berkeley-residents-advocate-for-immigrants-rights",
+          "publishedOn": "2025-09-09T13:00:00.000Z",
+          "wordCount": 8457,
+          "title": "‘Geriatric resistance’: Berkeley seniors are on front lines fighting for immigrants’ rights",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/03/20250327-200402.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543158",
           "author": "Alex N. Gecan",
@@ -3898,6 +3918,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/dotcom-crash-2000/",
+          "author": null,
+          "description": "Startupfailures.com, August 2000; via Wayback Machine.\nOn Tuesday, 11 January, 2000, the front page of The New York Times announced a corporate merger that seemed to confirm the internet’s cultural ascendency. “America Online Agrees to Buy Time Warner for $165 Billion,” the headline blared. Under the subhead “Internet Triumph,” the NYT noted that it “would be the biggest merger in history and the best evidence yet that old and new media are converging.”\n\nThe New York Times front page on 11 January 2000.\nThe deal would theoretically allow AOL to offer its users professional media content, such as news from CNN and hit movies like The Matrix from Warner Bros — although it was unclear what “Internet versions” of such properties would look like. Regardless, the new combined features of AOL-Tim…",
+          "link": "https://cybercultural.com/p/dotcom-crash-2000/",
+          "publishedOn": "2025-09-09T00:00:00.000Z",
+          "wordCount": 1576,
+          "title": "The Dot-Com Crash of 2000 and Marc Andreessen’s Act 2",
+          "imageUrl": "https://cybercultural.com/assets/images/startupfailures-august2000.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/internet-1999/",
           "author": null,
           "description": "1999 Napster software running on Windows 98; photo by Christiaan Colen.\nWhen AOL completed its acquisition of Netscape in March 1999, a part of the old web died forever. By the end of the year (and the century), Netscape's share of the browser market had shrunk to about 20% and Microsoft's Internet Explorer had become dominant.\nMeanwhile, the dot-com bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”\nBut 1999 might best be remembered as the year of three revolutionary new internet te…",
@@ -4476,6 +4506,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Q2CW9TZ81wo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q2CW9TZ81wo",
+          "publishedOn": "2025-09-04T17:32:53.000Z",
+          "wordCount": null,
+          "title": "Ed Sheeran: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9MToQNYuU2Q",
           "author": null,
           "description": "",
@@ -4802,6 +4842,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/a-forgotten-priest-imagined-black-holes/",
+          "author": "Jonas Enander",
+          "description": "As geologists were realizing that earthly timescales were vast, astronomers began to discover that the same applied to the distances of the cosmos. In the 16th century, the Polish astronomer Copernicus had argued that it was not the Earth, but the Sun that was at the center of the universe. In the 18th century, astronomers realized that this too was wrong. The Sun was but one star among many moving through that great assembly of stars we call the Milky Way. \nWhat’s more, many Enlightenment thinkers also suspected that the center of the cosmos was not even the Milky Way — they thought there were other galaxies in the depths of space. In the late-17th century, the French physicist and mathematician Pierre-Simon Laplace summarized this new cosmic understanding when he wrote, “[M]an now appear…",
+          "link": "https://bigthink.com/books/a-forgotten-priest-imagined-black-holes/",
+          "publishedOn": "2025-09-09T14:30:00.000Z",
+          "wordCount": 4534,
+          "title": "Centuries before Stephen Hawking, an isolated priest imagined black holes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/facing-infinity_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-long-game/why-your-intuition-imagination-and-emotion-will-outlast-ai/",
+          "author": "Eric Markowitz",
+          "description": "Every once in a while, a book arrives in my inbox that forces me to rethink what I thought I knew about the human mind. Angus Fletcher’s Primal Intelligence is one of those books. Released in August, it has already become a national bestseller — and for good reason.\nFletcher is a rare hybrid: trained as both a neuroscientist and a professor of literature, he teaches at Ohio State’s Project Narrative, the world’s leading academic center for the study of story. His previous titles — Wonderworks and Storythinking — earned him a reputation as a boundary-breaking thinker who blends science, history, and art to explain why stories matter and how they shape human creativity.\nWith Primal Intelligence, Fletcher goes further. Drawing on unlikely collaborations with the U.S. Army and years studying S…",
+          "link": "https://bigthink.com/the-long-game/why-your-intuition-imagination-and-emotion-will-outlast-ai/",
+          "publishedOn": "2025-09-09T13:00:00.000Z",
+          "wordCount": 4127,
+          "title": "Why your intuition, imagination, and emotion will outlast AI",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/angus-long-game_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/argument-against-theory-of-everything/",
           "author": "Ethan Siegel",
