@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-08T18:06:12.664Z</updated>
+    <updated>2025-09-09T00:18:40.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Homeland Security agents were in Berkeley last week, but won’t say why exactly]]></title>
+        <id>https://www.berkeleyside.org/?p=543158</id>
+        <link href="https://www.berkeleyside.org/2025/09/08/berkeley-dhs-agents-resident-application-bpd"/>
+        <updated>2025-09-08T22:17:17.000Z</updated>
+        <summary type="html"><![CDATA[The federal agents gave police a courtesy call to say they were coming to Berkeley for a “resident application,” but haven’t said where or with whom, or what action they took.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish of the week: Drunken noodles from Tao Yuen]]></title>
+        <id>https://www.berkeleyside.org/?p=543122</id>
+        <link href="https://www.berkeleyside.org/2025/09/08/tao-yuen-pastry-oakland-drunken-noodles"/>
+        <updated>2025-09-08T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These stir-fried rice noodles are a staple from an Oakland Chinatown dim sum restaurant that boasts a long line from open to close.]]></summary>
+        <author>
+            <name>Roselyn Romero</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiny Tubes Reveal Clues to the Evolution of Complex Life]]></title>
         <id>https://www.quantamagazine.org/?p=153907</id>
@@ -76,6 +96,15 @@ Dense clouds of gas, under gravitation’s relentless influence, contract, trigg
 Within the plane of the Milky Way, dark dust lanes are omnipresent, representing dense neutral gas clouds usually found within the galaxy’s spiral arms. Here, nebula NGC 6357, also known as the Lobster Nebul…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chess Variant]]></title>
+        <id>https://xkcd.com/3139/</id>
+        <link href="https://xkcd.com/3139/"/>
+        <updated>2025-09-08T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
