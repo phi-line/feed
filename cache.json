@@ -491,16 +491,6 @@
           "wordCount": 9991,
           "title": "Does Form Really Shape Function?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep7-L-MAHADEVAN_crPeterGreenwood-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151295",
-          "author": "Leila Sloman",
-          "description": "By mathematically proving how individual molecules create the complex motion of fluids, three mathematicians have illuminated why time can’t flow in reverse.            \nThe post Epic Effort to Ground Physics in Math Opens Up the Secrets of Time first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/",
-          "publishedOn": "2025-06-11T14:38:33.000Z",
-          "wordCount": 3806,
-          "title": "Epic Effort to Ground Physics in Math Opens Up the Secrets of Time",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Hilberts_Sixth_crWei-AnJin-Social.jpg"
         }
       ]
     },
@@ -1649,16 +1639,6 @@
           "wordCount": 7433,
           "title": "Fire-Eyes Of The Underworld",
           "imageUrl": "https://noemamag.imgix.net/2025/06/Garnet_013_4k_2-1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f8e82ffc44823fa2ef57cd9f75fac136"
-        },
-        {
-          "id": "https://www.noemamag.com/molecular-civil-war-in-la",
-          "author": "Nathan Gardels",
-          "description": "The post ‘Molecular Civil War’ In LA appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/molecular-civil-war-in-la",
-          "publishedOn": "2025-06-11T16:58:31.000Z",
-          "wordCount": 4531,
-          "title": "‘Molecular Civil War’ In LA",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema_color_V2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=062c202a319e6cc74bee7ee277af59ee"
         }
       ]
     },
@@ -4822,6 +4802,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/argument-against-theory-of-everything/",
+          "author": "Ethan Siegel",
+          "description": "When most of us think about science, we don’t often think about something very fundamental to the enterprise: what the goal of it all actually is. Reality is a complicated place, and the only tools we have to guide us in understanding what it is and how it works is the combination of what we can observe, measure, and experiment on. When we add up the full suite of that body of observational and experimental knowledge, we have a record of all the phenomena that we know exists. The enterprise of science, then, seeks to make sense of all of it, and to explain it as simply and powerfully as possible: to maximize our predictive power of nature’s phenomena with as few assumptions, parameters, and variables as are absolutely necessary.\nWe’ve come incredibly far in our understanding of the Univers…",
+          "link": "https://bigthink.com/starts-with-a-bang/argument-against-theory-of-everything/",
+          "publishedOn": "2025-09-09T06:00:00.000Z",
+          "wordCount": 4495,
+          "title": "The argument against the existence of a Theory of Everything",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/E8_x_E8.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-to-lead-by-listening-what-growing-up-on-mtv-taught-jojo-simmons/",
           "author": "Tim Brinkhof",
