@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=154320",
+          "author": "George Musser",
+          "description": "In cellular automata, simple rules create elaborate structures. Now researchers can start with the structures and reverse-engineer the rules.             \nThe post Self-Assembly Gets Automated in Reverse of ‘Game of Life’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/",
+          "publishedOn": "2025-09-10T14:00:38.000Z",
+          "wordCount": 4540,
+          "title": "Self-Assembly Gets Automated in Reverse of ‘Game of Life’",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/Neural-Cellular-Automata-cr-Michael-Waraksa-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=153907",
           "author": "Veronique Greenwood",
           "description": "Scientists have identified tubulin structures in primitive Asgard archea that may have been the precursor of our own cellular skeletons.            \nThe post Tiny Tubes Reveal Clues to the Evolution of Complex Life first appeared on Quanta Magazine",
@@ -901,6 +911,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3140/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3140/",
+          "publishedOn": "2025-09-10T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Biology Department",
+          "imageUrl": "https://imgs.xkcd.com/comics/biology_department_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3139/",
           "author": null,
           "description": "",
@@ -1269,16 +1289,6 @@
           "wordCount": 206,
           "title": "Exoplanet System",
           "imageUrl": "https://imgs.xkcd.com/comics/exoplanet_system_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3102/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3102/",
-          "publishedOn": "2025-06-13T04:00:00.000Z",
-          "wordCount": 210,
-          "title": "Reading a Big Number",
-          "imageUrl": "https://imgs.xkcd.com/comics/reading_a_big_number_2x.png"
         }
       ]
     },
@@ -1621,6 +1631,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543272",
+          "author": "Andrew Gilbert",
+          "description": "KlezCalifornia is rebooting with new leadership and its first major in-person program since the pandemic — a three-day festival at the Finnish Hall.",
+          "link": "https://www.berkeleyside.org/2025/09/10/big-new-yiddish-festival-coming-to-berkeley-this-weekend",
+          "publishedOn": "2025-09-10T17:13:57.000Z",
+          "wordCount": 7092,
+          "title": "Big new Yiddish festival coming to Berkeley this weekend",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250910-170753.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543156",
           "author": "Matthew Artz",
@@ -4886,6 +4906,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/tourism-is-mass-derangement/",
+          "author": "Jonny Thomson",
+          "description": "Liam and Judy have set aside a few hundred dollars every month to pay for a big summer holiday with all the family.\n“How about the south of France?” Judy says.\n“Meh, too boring,” Liam says.\nBack and forth it goes until they settle on a nice compromise along the Tuscan coast. Liam can ride his bike, Judy can swim in the sea, and the kids can go to the amusement park 30 minutes away. With one click of “Confirm,” a year’s savings evaporate.\nThe airport is a bustling, heaving business, and the kids fight over the window seat. And it’s downhill from there. The beaches are so busy that they cannot find a spot big enough for them all. The mountain bike trails are a muddy churn with hour-long queues at the top. The amusement park is more expensive than the flights. And, to top it all off, it’s col…",
+          "link": "https://bigthink.com/mini-philosophy/tourism-is-mass-derangement/",
+          "publishedOn": "2025-09-10T17:35:39.000Z",
+          "wordCount": 2135,
+          "title": "Ian McEwan: “Tourism is a wonderful spectacle of mass derangement.”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/tourism-MP_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/ai-will-never-be-a-shortcut-to-wisdom/",
+          "author": "Jeff  DeGraff",
+          "description": "Once upon a time — not so long ago — the internet opened like a library with no closing hours. It offered us Google, and then Wikipedia, and with them a curious kind of magic: everything we ever wanted to know, right there, blinking in front of us. It was harmless enough, even liberating. We no longer had to argue about who directed Casablanca or the difference between a quark and a lepton. Answers flowed like tap water.\nBut something happened in that flood. We began mistaking the map for the terrain.\nNot long after came the shortcuts — CliffsNotes for Shakespeare, then for Kant, then for life itself. Everything abstract or difficult was carved into quick summaries, punchy headlines, 30-second reels. Learning became a buffet of “life hacks,” each one promising to make you smarter, faster, …",
+          "link": "https://bigthink.com/business/ai-will-never-be-a-shortcut-to-wisdom/",
+          "publishedOn": "2025-09-10T13:00:00.000Z",
+          "wordCount": 2006,
+          "title": "AI will never be a shortcut to wisdom",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/wisdom-forged-in-friction_compressed_c68dd3.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/deep-dive-into-perception/",
+          "author": "Christof Koch",
+          "description": "How do you know you exist? Neuroscientist Christof Koch, chief scientist at the Tiny Blue Dot Foundation and meritorious investigator at the Allen Institute, explains. \nHe challenges “naive realism,” showing how reality is filtered through our senses and shaped by culture, bias, and brain wiring. Using examples like the viral 2015 ‘Gold Dress’ phenomenon and his own experience with meditation, Koch explains how expanding our Perception Box fosters empathy, openness, and a deeper sense of belonging in the world.\nWe created this video for The Science of Perception Box, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video One neuroscientist’s deep dive into perception and reality is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/deep-dive-into-perception/",
+          "publishedOn": "2025-09-10T13:00:00.000Z",
+          "wordCount": 2321,
+          "title": "One neuroscientist’s deep dive into perception and reality",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-Christof-Koch-Web-A.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/brain-briefs-death/",
+          "author": "Tyler Volk, Dr. Bruce Greyson, BJ Miller",
+          "description": "Some people think death is merely a medical event. These experts think otherwise. \nTyler Volk, PhD, Bruce Greyson, MD, and BJ Miller, MD, have studied death from the perspective of biology, psychiatry, and palliative care, and together they reveal that it’s far more than a clinical endpoint. According to them, it’s time to change how we understand mortality, seeing it as both central to evolution and something to be reclaimed from medicine’s grip.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Fearing death keeps us from living. 3 experts explain. is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/brain-briefs-death/",
+          "publishedOn": "2025-09-10T13:00:00.000Z",
+          "wordCount": 1766,
+          "title": "Fearing death keeps us from living. 3 experts explain.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-Brain-Briefs-Death-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jwst-alien-biosignatures-hazy-exoplanets/",
           "author": "Ethan Siegel",
