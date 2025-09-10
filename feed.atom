@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-10T06:06:45.269Z</updated>
+    <updated>2025-09-10T12:07:18.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Richard Brenneman, muckraking Berkeley Daily Planet reporter]]></title>
+        <id>https://www.berkeleyside.org/?p=543156</id>
+        <link href="https://www.berkeleyside.org/2025/09/10/remembering-richard-brenneman-muckraking-berkeley-daily-planet-reporter"/>
+        <updated>2025-09-10T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Scourge of real estate developers and regular at land use meetings, he helped derail a Cal housing complex at a former chemical manufacturing site and scrutinized the sway UC's corporate donors held over academic research.]]></summary>
+        <author>
+            <name>Matthew Artz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turnstile: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=ylL-SSRDyJc</id>
+        <link href="https://www.youtube.com/watch?v=ylL-SSRDyJc"/>
+        <updated>2025-09-10T09:01:36.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWST could expose alien biosignatures on hazy exoplanets]]></title>
         <id>https://bigthink.com/starts-with-a-bang/jwst-alien-biosignatures-hazy-exoplanets/</id>
