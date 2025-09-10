@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-10T00:17:44.123Z</updated>
+    <updated>2025-09-10T06:06:45.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWST could expose alien biosignatures on hazy exoplanets]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/jwst-alien-biosignatures-hazy-exoplanets/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/jwst-alien-biosignatures-hazy-exoplanets/"/>
+        <updated>2025-09-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As recently as 1990, we hadn’t yet discovered a single planet around another star beyond our Solar System. When we thought about finding an inhabited world out there in the Milky Way, we had only the worlds of our Solar System — Earth, Venus, Mars, Neptune, Titan, Pluto, Enceladus, Triton, and Jupiter’s moons — to consider as potential analogues. Now in 2025, however, we’re closing in on an incredible 6000 confirmed exoplanets, and we’ve learned that the most common type of world that we know of isn’t represented at all in our Solar System: a class of worlds known as super-Earths and mini-Neptunes. These exoplanets, often rich in atmospheric hazes, are the most abundant species of world known at present.
+Could some of these haze-rich exoplanets have something remarkable within their atmosp…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[State funding for Bay Area transit is on the rocks]]></title>
         <id>https://oaklandside.org/?p=461026</id>
@@ -5083,27 +5094,6 @@ The post Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. first
         <updated>2025-06-13T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside ARIA, the UK's Bet to Build Scientific Revolutions]]></title>
-        <id>https://www.asimov.press/p/aria</id>
-        <link href="https://www.asimov.press/p/aria"/>
-        <updated>2025-06-12T17:09:21.000Z</updated>
-        <summary type="html"><![CDATA[An interview with Ilan Gur, CEO of ARIA, about the organization’s efforts to build scientific waves.]]></summary>
-        <author>
-            <name>Eric Gilliam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Form Really Shape Function?]]></title>
-        <id>https://www.quantamagazine.org/?p=151345</id>
-        <link href="https://www.quantamagazine.org/does-form-really-shape-function-20250612/"/>
-        <updated>2025-06-12T13:41:43.000Z</updated>
-        <summary type="html"><![CDATA[From brain folds to insect architecture, L. Mahadevan explains how complex biological forms and behaviors emerge through the interplay of physical forces, environment and embodiment.            
-The post Does Form Really Shape Function? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
         </author>
     </entry>
 </feed>
