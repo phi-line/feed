@@ -1315,6 +1315,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-lost-art-of-thinking-historically",
+          "author": "Francis Gavin",
+          "description": "The post The Lost Art Of Thinking Historically appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-lost-art-of-thinking-historically",
+          "publishedOn": "2025-09-11T13:30:08.000Z",
+          "wordCount": 6010,
+          "title": "The Lost Art Of Thinking Historically",
+          "imageUrl": "https://www.noemamag.com/wp-content/uploads/2025/09/Noema-Magazine-The-lost-art-of-thinking-historically-Mr.Nelson-design.png"
+        },
+        {
           "id": "https://www.noemamag.com/the-new-geopolitics-of-the-green-transition",
           "author": "Bentley Allan",
           "description": "The post The New Geopolitics Of The Green Transition appeared first on NOEMA.",
@@ -1621,6 +1631,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543326",
+          "author": "Alex N. Gecan",
+          "description": "There were no injuries reported in the Second Street fire, which 911 callers first reported around 5:24 a.m., according to BFD.",
+          "link": "https://www.berkeleyside.org/2025/09/11/second-street-pacific-steel-encampment-fire",
+          "publishedOn": "2025-09-11T15:08:33.000Z",
+          "wordCount": 7145,
+          "title": "Berkeley encampment fire burns 2 abandoned Pacific Steel buildings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_2667-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543310",
+          "author": "Iris Kwok and Andrew Gilbert",
+          "description": "Other events include an architecture talk, the Berkeley Old-Time Music Convention and a screening of \"This is Not a Climate Film,\" a documentary produced by UC Berkeley journalism students.",
+          "link": "https://www.berkeleyside.org/2025/09/11/around-berkeley-solano-avenue-stroll-berkeley-symphony-free-boat-rides",
+          "publishedOn": "2025-09-11T14:00:00.000Z",
+          "wordCount": 8623,
+          "title": "Around Berkeley: Solano Avenue Stroll, Berkeley Symphony, free boat rides",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/37157807145_b0d297bfe3_b.jpg?fit=1024%2C777&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=461081",
           "author": "Jose Fermoso",
@@ -4314,16 +4344,6 @@
           "wordCount": 4519,
           "title": "Meera Sodha’s recipe for spring greens and cheddar picnic focaccia",
           "imageUrl": "https://i.guim.co.uk/img/media/49c270764ba69073db4683f00e761de2612a7804/236_1656_2899_2319/master/2899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75307863921c3aad856e9dbc437e566c"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/jun/14/grated-tomato-and-butter-beans-recipe-with-olive-pangrattato-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Few things in life are as simple and mouthwatering as tomatoes on toast sprinkled with salt, but here they hit new heights with olivey breadcrumbs, garlic and butter beans, too\nMy favourite breakfast is sliced tomatoes on rye bread sprinkled with sea salt. The best bit is neither the tomato flesh nor the bread, it’s the salted tomato water that runs down the back of my hands and threatens to meet my elbows. It’s liquid electricity and one of my favourite earthly flavours. It could make a great stock, or a delicious martini, perhaps even a marinade for ceviche, but here it’s thrown in at the end to refresh a dish of gently cooked tomatoes, beans and dill. Perfect for dunking anything but elbows into.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/jun/14/grated-tomato-and-butter-beans-recipe-with-olive-pangrattato-meera-sodha",
-          "publishedOn": "2025-06-14T05:00:40.000Z",
-          "wordCount": 4512,
-          "title": "Meera Sodha’s vegan recipe for grated tomato and butter beans with olive pangrattato | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/6303a5dde3582a6f4d9b4fdf8650a872d1f57193/0_0_3687_2949/master/3687.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e9d463b93badb3340fc2e92c9e26cb3"
         }
       ]
     },
@@ -4926,6 +4946,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/on-liberalism/",
+          "author": "Kevin Dickinson",
+          "description": "“When I use a word, it means just what I choose it to mean — neither more nor less,” says Humpty Dumpty to Alice in Lewis Carroll’s classic children’s tale. I’ve been revisiting this quote lately because, in many ways, I feel Western democracies have gone fully through the looking glass when it comes to how we discuss politics.\nThe words we use to describe our positions and those of others often sit on shaky perches. They shift — not just in implication but sometimes even definitionally — based on the context, speaker, and audience, leaving us without a clear sense of what people mean. And perhaps no other word in politics today sits on a shakier perch than liberalism.\nConsider that in the United States, a liberal is someone who stands on the political left, probably voted for Joe Biden, a…",
+          "link": "https://bigthink.com/books/on-liberalism/",
+          "publishedOn": "2025-09-11T14:30:00.000Z",
+          "wordCount": 3443,
+          "title": "Not since WWII has the fight for liberalism been this urgent",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/liberalism.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/smart-skills/why-your-attention-keeps-slipping-away-and-how-to-get-it-back/",
+          "author": "Danny Kenny",
+          "description": "9 a.m. on Saturday. I’m sitting at the café, laptop open, surrounded by the chatter of customers, and the scattered debris of modern knowledge work. Three half-finished articles. Two consulting projects with looming deadlines. Emails multiplying like rabbits. And somewhere in the mental background, the nagging sense that I should be exercising, calling my parents, and planning next week’s content calendar for Substack.\nMy attention ping-ponged. The article deadline that felt manageable yesterday now loomed. The client presentation that should take an hour felt like it would consume my entire weekend. Even checking email felt like wading into a swamp.\nEverything screamed “urgent,” but nothing felt achievable. I couldn’t see it in the moment, but the scattered feeling stemmed more from how I…",
+          "link": "https://bigthink.com/smart-skills/why-your-attention-keeps-slipping-away-and-how-to-get-it-back/",
+          "publishedOn": "2025-09-11T14:00:55.000Z",
+          "wordCount": 2827,
+          "title": "Why your attention keeps slipping away (and how to get it back)",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/why-smart-ppl-cant-focus_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/what-ai-can-never-replace/",
+          "author": "Eric Markowitz",
+          "description": "The benefits of AI are immense. Unparalleled efficiency. Speed. Convenience. But every advantage carries a price tag. And I believe AI is a perfect example.\nAI can radically simplify our lives (and I use it often), yet at the same time, it threatens to erode the very foundation of trust — trust in information, trust in institutions, and even trust in one another.\nIn the knowledge work age, your value was often measured by your IQ. But as Kevin Kelly argues, in the age of AI, the more critical metric is shifting. What matters most is no longer just intelligence, but what he calls the Trust Quotient — the ability to be authentic and develop trust in a world where machines can imitate almost everything else.\n“Trust is a broad word that will be unbundled as it seeps into the AI ecosystem,” Kel…",
+          "link": "https://bigthink.com/business/what-ai-can-never-replace/",
+          "publishedOn": "2025-09-11T13:00:00.000Z",
+          "wordCount": 3134,
+          "title": "What AI can never replace",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/9.11-nigtcrawler_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/fraud-triangle/",
+          "author": "Kelly Richmond Pope",
+          "description": "We often think of fraud as the work of greedy masterminds, but the reality can be far more complex. Forensic accounting expert Kelly Richmond Pope, explains how ordinary people can be perpetrators, under the right conditions. \nDrawing from years of interviews with white-collar criminals, whistleblowers, and victims, Pope introduces a framework that challenges our common assumptions about who can commit this crime.\nThis video Inside the mind of a white-collar criminal is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/fraud-triangle/",
+          "publishedOn": "2025-09-11T13:00:00.000Z",
+          "wordCount": 6453,
+          "title": "Inside the mind of a white-collar criminal",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A1-Web-KRP.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/10-facts-big-bang/",
           "author": "Ethan Siegel",
