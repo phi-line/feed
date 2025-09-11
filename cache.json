@@ -471,16 +471,6 @@
           "wordCount": 3451,
           "title": "The Ecosystem Dynamics That Can Make or Break an Invasion",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Invasion-Microbiology_crTK-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151379",
-          "author": "George Musser",
-          "description": "A new argument explores how the growth of disorder could cause massive objects to move toward one another. Physicists are both interested and skeptical.            \nThe post Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
-          "publishedOn": "2025-06-13T13:50:39.000Z",
-          "wordCount": 3314,
-          "title": "Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Entropic-Grvaity_crDVDP-Social.jpg"
         }
       ]
     },
@@ -4936,6 +4926,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/10-facts-big-bang/",
+          "author": "Ethan Siegel",
+          "description": "If you ask a scientist where the Universe got its start, “the Big Bang” is the answer you’re most likely to get, as for over 60 years now, the scientific evidence that’s come in favoring that theory has overwhelmed all alternatives. Our Universe may be full of stars, galaxies, and a cosmic web of large-scale structure, all separated by the vastness of empty space between them, but it wasn’t born that way. It’s a profound realization that our cosmos hasn’t existed in its current form forever. Instead, the Universe came to be this way because it expanded and cooled from a hot, dense, uniform, matter-and-radiation-filled state with no galaxies, stars, or even simple atoms present at the outset.\nEverything, as it exists in its current form, wasn’t the way it is today back some 13.8 billion yea…",
+          "link": "https://bigthink.com/starts-with-a-bang/10-facts-big-bang/",
+          "publishedOn": "2025-09-11T06:00:00.000Z",
+          "wordCount": 3925,
+          "title": "10 incredible facts about the Big Bang Theory",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2018_12_09-Abell-370-BUFFALO-detect-faintest-e1757525966200.png?w=878&h=495&crop=1"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/tourism-is-mass-derangement/",
           "author": "Jonny Thomson",

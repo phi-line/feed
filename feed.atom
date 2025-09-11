@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-11T00:18:20.444Z</updated>
+    <updated>2025-09-11T06:06:51.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 incredible facts about the Big Bang Theory]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/10-facts-big-bang/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/10-facts-big-bang/"/>
+        <updated>2025-09-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you ask a scientist where the Universe got its start, “the Big Bang” is the answer you’re most likely to get, as for over 60 years now, the scientific evidence that’s come in favoring that theory has overwhelmed all alternatives. Our Universe may be full of stars, galaxies, and a cosmic web of large-scale structure, all separated by the vastness of empty space between them, but it wasn’t born that way. It’s a profound realization that our cosmos hasn’t existed in its current form forever. Instead, the Universe came to be this way because it expanded and cooled from a hot, dense, uniform, matter-and-radiation-filled state with no galaxies, stars, or even simple atoms present at the outset.
+Everything, as it exists in its current form, wasn’t the way it is today back some 13.8 billion yea…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AC Transit sought a $523,000 security grant — in exchange for ICE cooperation]]></title>
         <id>https://oaklandside.org/?p=461081</id>
@@ -5205,17 +5216,6 @@ My favourite breakfast is sliced tomatoes on rye bread sprinkled with sea salt. 
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.]]></title>
-        <id>https://www.quantamagazine.org/?p=151379</id>
-        <link href="https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/"/>
-        <updated>2025-06-13T13:50:39.000Z</updated>
-        <summary type="html"><![CDATA[A new argument explores how the growth of disorder could cause massive objects to move toward one another. Physicists are both interested and skeptical.            
-The post Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>George Musser</name>
         </author>
     </entry>
 </feed>
