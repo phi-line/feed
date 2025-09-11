@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-10T18:05:59.448Z</updated>
+    <updated>2025-09-11T00:18:20.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AC Transit sought a $523,000 security grant — in exchange for ICE cooperation]]></title>
+        <id>https://oaklandside.org/?p=461081</id>
+        <link href="https://www.berkeleyside.org/2025/09/10/ac-transit-sought-a-523000-security-grant-in-exchange-for-ice-cooperation"/>
+        <updated>2025-09-10T22:15:04.000Z</updated>
+        <summary type="html"><![CDATA[The bus agency withdrew its recommendation to apply for funds from the Department of Homeland Security after protest erupted.]]></summary>
+        <author>
+            <name>Jose Fermoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley moves to strengthen sanctuary status, defying Trump administration’s pressure]]></title>
+        <id>https://www.berkeleyside.org/?p=543287</id>
+        <link href="https://www.berkeleyside.org/2025/09/10/berkeley-sanctuary-city-policy-trump-council"/>
+        <updated>2025-09-10T19:39:45.000Z</updated>
+        <summary type="html"><![CDATA[The City Council voted unanimously to codify Berkeley’s long-standing sanctuary policies into an ordinance, despite stepped-up scrutiny from Washington.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obelisco is resurrected on Lakeshore; Jack London Square gets new sports bar]]></title>
+        <id>https://www.berkeleyside.org/?p=543282</id>
+        <link href="https://www.berkeleyside.org/2025/09/10/obelisco-the-hub-sports-bar-restaurant-openings"/>
+        <updated>2025-09-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ian McEwan: “Tourism is a wonderful spectacle of mass derangement.”]]></title>
         <id>https://bigthink.com/mini-philosophy/tourism-is-mass-derangement/</id>
