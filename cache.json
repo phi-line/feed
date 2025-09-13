@@ -911,6 +911,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3141/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3141/",
+          "publishedOn": "2025-09-12T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Mantle Model",
+          "imageUrl": "https://imgs.xkcd.com/comics/mantle_model_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3140/",
           "author": null,
           "description": "",
@@ -1651,6 +1661,66 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=454990",
+          "author": "Jana Kadah",
+          "description": "A rally is being held Friday night to demand the release of Harjit Kaur, a grandmother who worked at Berkeley's Sari Palce for two decades and is now facing deportation despite what her family says is a record of complying with immigration rules.",
+          "link": "https://www.berkeleyside.org/2025/09/12/ice-detains-east-bay-grandmother",
+          "publishedOn": "2025-09-12T22:22:58.000Z",
+          "wordCount": 7061,
+          "title": "ICE detains former Berkeley worker, 73, with health issues",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Harjit-Kaur.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543459",
+          "author": "Emma Gallegos | EdSource",
+          "description": "Judith Butler, a well-known Jewish feminist theorist who has spoken out against the state of Israel, is among those whose names were shared as the feds investigate alleged antisemitism on college campuses.",
+          "link": "https://www.berkeleyside.org/2025/09/12/uc-berkeley-shares-names",
+          "publishedOn": "2025-09-12T21:14:37.000Z",
+          "wordCount": 7055,
+          "title": "UC Berkeley shares 160 names of students, staff with Trump administration in ‘McCarthy era’ move",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP24123761679537.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543450",
+          "author": "Berkeleyside Staff",
+          "description": "Berkeleyside will be among the 400 vendors with a booth at the annual street festival. Come say hello.",
+          "link": "https://www.berkeleyside.org/2025/09/12/solano-avenue-stroll-2025",
+          "publishedOn": "2025-09-12T20:21:12.000Z",
+          "wordCount": 6980,
+          "title": "Solano Stroll expected to draw giant crowds to Berkeley and Albany this Sunday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Isma-Khan-of-El-Cerrito.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=461215",
+          "author": "Esther Kaplan",
+          "description": "California’s largest private health provider says it will have the new vaccine in stock Sept. 15. Major drug store chains are sticking with FDA restrictions  for now.",
+          "link": "https://www.berkeleyside.org/2025/09/12/kaiser-covid-19-vaccine",
+          "publishedOn": "2025-09-12T19:58:17.000Z",
+          "wordCount": 6654,
+          "title": "Kaiser will offer Covid vaccine to all members over 6 months old",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20210923-212742.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543401",
+          "author": "Cecilia Seiter",
+          "description": "A convergence of economic and market forces has compelled two popular East Bay businesses to announce their impending closure.",
+          "link": "https://www.berkeleyside.org/2025/09/12/ediths-pie-21st-amendment-seoul-hotdog",
+          "publishedOn": "2025-09-12T19:00:00.000Z",
+          "wordCount": 6949,
+          "title": "21st Amendment and Edith’s Pie announce upcoming closures; Seoul Hotdog shuts down",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/HellHighWatermelon-21stAmendment.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543345",
+          "author": "Vanessa Arredondo",
+          "description": "Public records shed light on bus consolidations that some worry could cause families to leave the district and undermine decades-long efforts to integrate Berkeley schools.",
+          "link": "https://www.berkeleyside.org/2025/09/12/berkeley-unified-school-bus-stops-routes-reductions-list",
+          "publishedOn": "2025-09-12T18:45:00.000Z",
+          "wordCount": 8388,
+          "title": "BUSD families still adjusting to school bus stop removals and route changes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-Third-through-Fifth-graders-head-back-to-physical-classes-at-Emerson-Elementary-School-April-13-2021-Photo-Pete-Rosos.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543417",
           "author": "Skylla Mumana",
