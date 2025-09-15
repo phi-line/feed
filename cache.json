@@ -43,6 +43,56 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=154616",
+          "author": "Hannah Waters, Samir Patel, Natalie Wolchover, Jordana Cepelewicz, Yasemin Saplakoglu, Joseph Howlett, Mark Belan, Zack Savitsky, Peter Brannen, Katherine Bourzac, Gregory Barber, Robin George Andrews and Gaia Vince",
+          "description": "Climate science is the most significant scientific collaboration in history. This series from Quanta Magazine guides you through basic climate science — from quantum effects to ancient hothouses, from the math of tipping points to the audacity of climate models.            \nThe post How We Came To Know Earth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-we-came-to-know-earth-20250915/",
+          "publishedOn": "2025-09-15T15:00:58.000Z",
+          "wordCount": 1041,
+          "title": "How We Came To Know Earth",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/ClimateSeries-cr.Mark-Belan-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=153967",
+          "author": "Yasemin Saplakoglu",
+          "description": "Building an accurate model of Earth’s climate requires a lot of data. Photography reveals the extreme efforts scientists have undertaken to measure gases, glaciers, clouds and more.            \nThe post The Ends of the Earth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/photos-capture-the-extreme-beautiful-work-of-climate-science-20250915/",
+          "publishedOn": "2025-09-15T14:59:47.000Z",
+          "wordCount": 4858,
+          "title": "The Ends of the Earth",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/01-PHOTO-ESSAY-cr.Mark-Belan-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=152764",
+          "author": "Joseph Howlett",
+          "description": "Earth’s climate is chaotic and volatile. Climate change is simple and predictable. How can both be true?            \nThe post The Climate Change Paradox first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-climate-change-paradox-20250915/",
+          "publishedOn": "2025-09-15T14:58:26.000Z",
+          "wordCount": 4007,
+          "title": "The Climate Change Paradox",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/02-CLIMATE-CHAOS-cr.Mark-Belan-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=154284",
+          "author": "Joseph Howlett and Mark Belan",
+          "description": "Earth’s radiation can send some molecules spinning or vibrating, which is what makes them greenhouse gases. This infographic explains how relatively few heat-trapping molecules can have a planetary effect.            \nThe post The Quantum Mechanics of Greenhouse Gases first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-quantum-mechanics-of-greenhouse-gases-20250915/",
+          "publishedOn": "2025-09-15T14:57:22.000Z",
+          "wordCount": 4521,
+          "title": "The Quantum Mechanics of Greenhouse Gases",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/03-INFOGRAPHIC-FEATURE-cr.Mark-Belan-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=154018",
+          "author": "Zack Savitsky",
+          "description": "Over the past 60 years, scientists have largely succeeded in building a computer model of Earth to see what the future holds. One of the most ambitious projects humankind has ever undertaken has now reached a critical moment.            \nThe post How Climate Scientists Saw the Future Before It Arrived first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-climate-scientists-saw-the-future-before-it-arrived-20250915/",
+          "publishedOn": "2025-09-15T14:56:38.000Z",
+          "wordCount": 6898,
+          "title": "How Climate Scientists Saw the Future Before It Arrived",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/04-MODELING-EARTH-cr.Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=154756",
           "author": "Charlie Wood",
           "description": "The James Webb Space Telescope has found a lonely black hole in the early universe that’s as heavy as 50 million suns. A major discovery, the object confounds theories of the young cosmos.            \nThe post A Single, ‘Naked’ Black Hole Rewrites the History of the Universe first appeared on Quanta Magazine",
@@ -479,6 +529,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/11/why-governments-cant-count",
+          "author": null,
+          "description": "Counting every citizen is one of the most basic functions of the state. For much of the world, it remains extraordinarily difficult.",
+          "link": "https://asteriskmag.com/issues/11/why-governments-cant-count",
+          "publishedOn": "2025-09-15T00:00:00.000Z",
+          "wordCount": 4117,
+          "title": "Why Governments Can’t Count",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/11/the-demons-of-non-denoms",
           "author": null,
@@ -1269,16 +1329,6 @@
           "wordCount": 204,
           "title": "Interoperability",
           "imageUrl": "https://imgs.xkcd.com/comics/interoperability_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3104/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3104/",
-          "publishedOn": "2025-06-18T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Tukey",
-          "imageUrl": "https://imgs.xkcd.com/comics/tukey_2x.png"
         }
       ]
     },
@@ -1631,6 +1681,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=461102",
+          "author": "Azucena Rasilla",
+          "description": "“In the Red” will screen at Grand Lake Theatre and follows the lives of six youths of color who went through the fire academy training at Bay Area Youth EMT Program.",
+          "link": "https://www.berkeleyside.org/2025/09/15/oakland-in-the-red-documentary-screening",
+          "publishedOn": "2025-09-15T13:59:00.000Z",
+          "wordCount": 7524,
+          "title": "From juvenile offenders to first responders, Berkeley filmmaker’s new documentary goes inside an innovative local program",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/ITR_Dexter-scaled-2.jpg?fit=2560%2C1433&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543335",
+          "author": "Lorraine Rorabaugh",
+          "description": "He founded and led numerous companies, including Dicon, Cooper Vision Diagnostics, Vismed, Eclipse Ventures, and Luma-Lite — developing groundbreaking ophthalmic and dental technologies.",
+          "link": "https://www.berkeleyside.org/2025/09/15/remembering-dale-rorabaugh-cal-grad-who-advanced-practice-of-optometry-worldwide",
+          "publishedOn": "2025-09-15T13:00:00.000Z",
+          "wordCount": 6990,
+          "title": "Remembering Dale Rorabaugh, Cal grad who advanced practice of optometry worldwide",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/JPEG-image-4E36-93EC-72-1-scaled.jpeg?fit=2560%2C1961&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=531329",
           "author": "Berkeleyside Staff",
@@ -4680,6 +4750,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/6ISuyXLPBOI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/6ISuyXLPBOI",
+          "publishedOn": "2025-09-15T17:19:43.000Z",
+          "wordCount": 2253,
+          "title": "We host @FitoPaezOficial a pioneer of Argentine rock, for the start of Latin Music Month 🇦🇷🤩⁠⁠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3MH37M3wPas",
           "author": null,
           "description": "",
@@ -5106,6 +5186,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/how-to-bust-the-innovation-myth/",
+          "author": "Tim Brinkhof",
+          "description": "Whether you work at a modest startup or a multimillion dollar company, chances are you have heard of the Business Model Canvas (BMC). Similar to architectural blueprints or circuit diagrams, these standardized templates provide simplified overviews of complex organizations, and can be used to turn an ailing company around, or design a healthy one from the ground up.\nFirst developed by business theorist Alex Osterwalder and computer scientist Yves Pigneur in the early 2000s as part of Osterwalder’s PhD thesis, the BMC framework has since developed into one of the most well-known and widely used business modeling tools on the planet, embedding itself in MBA curricula and guiding decision-making processes in C-suites and incubators alike.\nIn addition to authoring several bestselling books on …",
+          "link": "https://bigthink.com/business/how-to-bust-the-innovation-myth/",
+          "publishedOn": "2025-09-15T13:00:00.000Z",
+          "wordCount": 2712,
+          "title": "How to bust the innovation myth",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/Alex-Osterwalder_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/the-science-of-patience/",
+          "author": "Sarah Schnitker",
+          "description": "Feeling more impatient lately? It’s not entirely your fault.\nSarah Schnitker, professor of psychology and neuroscience at Baylor University, explains how a culture of instant gratification — fueled by our use of smart phones and on-demand everything — has made patience feel unnecessary. But her research shows that patience helps people stay regulated, persist through challenges, and feel more satisfied with their progress.\nThis video How to wait well, according to neuroscience and psychology is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/the-science-of-patience/",
+          "publishedOn": "2025-09-15T13:00:00.000Z",
+          "wordCount": 1488,
+          "title": "How to wait well, according to neuroscience and psychology",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/The_Well_Sarah_Schnitker_DA_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/organics-mars-means-for-life/",
           "author": "Ethan Siegel",
