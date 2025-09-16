@@ -1365,6 +1365,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-third-path-for-ai-beyond-the-us-china-binary",
+          "author": "Dang Nguyen",
+          "description": "The post A Third Path For AI Beyond The US-China Binary appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-third-path-for-ai-beyond-the-us-china-binary",
+          "publishedOn": "2025-09-16T15:53:25.000Z",
+          "wordCount": 11523,
+          "title": "A Third Path For AI Beyond The US-China Binary",
+          "imageUrl": "https://noemamag.imgix.net/2025/09/Beatrice-Caciotti-x-Noema-Mag-2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=231379905c6bbb83b603017b9ad00f5f"
+        },
+        {
           "id": "https://www.noemamag.com/the-tianjin-turning-point",
           "author": "Nathan Gardels",
           "description": "The post The Tianjin Turning Point appeared first on NOEMA.",
@@ -1681,6 +1691,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543582",
+          "author": "Cecilia Seiter",
+          "description": "It’s picnic weather! Choose your own culinary adventure and go.",
+          "link": "https://www.berkeleyside.org/2025/09/16/east-bay-picnics-guide-parks-take-out",
+          "publishedOn": "2025-09-16T14:46:30.000Z",
+          "wordCount": 8094,
+          "title": "7 East Bay takeout and park pairings for perfect picnics",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/lakemerritt-gonzalez.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543558",
           "author": "Joanne Furio",
@@ -4736,21 +4756,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/water-lilies-water-lilies-everywhere/simpleplanet.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/are-we-losing-control",
-          "author": null,
-          "description": "A nitpick and a fable about the world getting more complex than ever",
-          "link": "https://aethermug.com/posts/are-we-losing-control?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-06-19T00:17:15.000Z",
-          "wordCount": 5069,
-          "title": "Are We Losing Control?",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/are-we-losing-control/606373slsdl.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/are-we-losing-control/606373slsdl.jpg"
         }
       ]
     },
@@ -5196,6 +5201,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/science-answer-ultimate-question/",
+          "author": "Ethan Siegel",
+          "description": "In all the world, and perhaps in all the Universe, there’s no greater question one can ask than the question of one’s own origins. For us, as human beings, this comes up often in our early childhood: we see, touch, and experience the world around us, and wonder where it all comes from. We look at ourselves and those around us, and wonder about our own origins. Even when we look to the heavens, and take in the spectacular sights of the night sky — the Moon, the planets, the stars, the glorious plane of the Milky Way, plus deep-sky objects — we’re filled with a sense of awe, wondering where the lights, and perhaps even the vast, empty darkness that separates them, all came from.\nFor millennia, we had only stories to be our guide: mythologies and untested, unsubstantiated ideas that sprung fo…",
+          "link": "https://bigthink.com/starts-with-a-bang/science-answer-ultimate-question/",
+          "publishedOn": "2025-09-16T16:10:21.000Z",
+          "wordCount": 4609,
+          "title": "Science’s answer to the ultimate question: Where do we come from?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/eso1204b.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/gutenberg-to-zuckerberg-how-to-handle-disruption-without-hitting-an-iceberg/",
+          "author": "Scott D. Anthony",
+          "description": "The printing press [invented by Johannes Gutenberg in the 1440s] accelerated the spread of knowledge. That’s generally a good thing. But it had downsides as well. It also accelerated the spread of what you could reasonably politely call propaganda and what you could less politely call manipulative, destructive lies. Also, the spread of knowledge had unanticipated knock-on effects.\nThe Catholic Church was thrilled with the power of the press when the innovation helped raise cash for the Church’s crusades and get more Bibles into the hands of more people. Perhaps it was less thrilled when the press provided propaganda for both sides in Mainz’s 1462 civil war. And, of course, many Church leaders likely cursed the technology the Church had helped create when rapid printing hastened Martin Luth…",
+          "link": "https://bigthink.com/business/gutenberg-to-zuckerberg-how-to-handle-disruption-without-hitting-an-iceberg/",
+          "publishedOn": "2025-09-16T15:00:00.000Z",
+          "wordCount": 1853,
+          "title": "Gutenberg to Zuckerberg: How to handle disruption without hitting an iceberg",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/epic-disruptions_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/smart-skills/neuroscience-speed-reading-bullshit/",
+          "author": "Ross Pomeroy",
+          "description": "Forty years ago, Donald Homa, a professor of psychology at Arizona State University specializing in memory and the visual perception of linguistic stimuli, was contacted by officials at the American Speed Reading Academy with an extraordinary tale. Two of their pupils had achieved a reading rate in excess of 100,000 words per minute, more than ten times the speed of the Academy’s average student and more than 300 times what a college-educated adult can muster (between 200 and 400 words per minute). Would he be willing to assess their prodigious skills in a laboratory setting?\nCurious, Homa happily obliged. In the lab, he tasked the two men with speed reading an entire college-level textbook and then taking a multiple-choice test to gauge their comprehension. After finishing the text in mer…",
+          "link": "https://bigthink.com/smart-skills/neuroscience-speed-reading-bullshit/",
+          "publishedOn": "2025-09-16T14:30:00.000Z",
+          "wordCount": 1715,
+          "title": "Neuroscience shows that speed reading is bullshit",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/07/speedread.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/why-self-understanding-is-your-most-valuable-leadership-asset/",
+          "author": "Margaret C. Andrews",
+          "description": "Self-understanding is about clarity regarding who we are and what we want as well as understanding how our behaviors affect others. It includes understanding the people, events, and ideas that have shaped our perceptions, what motivates us, what we value, and what we want to accomplish in our time on Earth, both personally and professionally, and what we are willing to trade off to accomplish these things.\nSelf-understanding is the foundation of effective leadership. However, society doesn’t emphasize self-understanding. With advertisers telling us what we should want and how we should measure success (usually money and the things money can buy), the power of influencers, the desire for “likes” on our social media posts, and often families that push us to “succeed,” we’re taught to chase w…",
+          "link": "https://bigthink.com/business/why-self-understanding-is-your-most-valuable-leadership-asset/",
+          "publishedOn": "2025-09-16T13:00:00.000Z",
+          "wordCount": 1887,
+          "title": "Why self-understanding is your most valuable leadership asset",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/manage-yourself_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-past/mirror-life-and-the-recurring-nightmare-of-scientific-apocalypse/",
           "author": "Thomas Moynihan",
