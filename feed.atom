@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-16T00:17:47.449Z</updated>
+    <updated>2025-09-16T06:06:39.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -5624,17 +5624,6 @@ The post Is Mathematics Mostly Chaos or Mostly Order? first appeared on Quanta M
         <summary type="html"><![CDATA[A nitpick and a fable about the world getting more complex than ever]]></summary>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Models Are Helping to Understand — and Control — the Brain]]></title>
-        <id>https://www.quantamagazine.org/?p=151481</id>
-        <link href="https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/"/>
-        <updated>2025-06-18T14:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Martin Schrimpf is crafting bespoke AI models that can induce control over high-level brain activity.             
-The post How AI Models Are Helping to Understand — and Control — the Brain first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Eric James Beyer</name>
         </author>
     </entry>
 </feed>
