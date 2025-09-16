@@ -961,6 +961,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3142/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3142/",
+          "publishedOn": "2025-09-15T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "-Style Pizza",
+          "imageUrl": "https://imgs.xkcd.com/comics/city_style_pizza_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3141/",
           "author": null,
           "description": "",
@@ -1681,6 +1691,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543558",
+          "author": "Joanne Furio",
+          "description": "From its office on Solano, Seacology has used a “win-win” approach to help save sea turtles, gibbons, mangrove forests and island ecologies in dozens of countries while providing material aid to the local cultures that rely on them.",
+          "link": "https://www.berkeleyside.org/2025/09/15/seacology-berkeley",
+          "publishedOn": "2025-09-15T22:04:51.000Z",
+          "wordCount": 8954,
+          "title": "Berkeley nonprofit has saved over 1.5 million acres of island forests and marine ecosystems",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/online-SriLank-mangroveplanting.png"
+        },
         {
           "id": "https://oaklandside.org/?p=461102",
           "author": "Azucena Rasilla",
@@ -5186,6 +5206,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-past/mirror-life-and-the-recurring-nightmare-of-scientific-apocalypse/",
+          "author": "Thomas Moynihan",
+          "description": "In 2020, a small blast ejected debris from the surface of the asteroid Bennu, as it hurtled through space 200 million miles from Earth. This was caused by the NASA spacecraft Osiris-Rex, which collected the resulting dust and returned those samples to Earth, marking the first time a U.S. mission had retrieved material from an asteroid. \nEarlier this year, researchers found those samples contained the building blocks for life, including amino acids and nucleobases (which form DNA, among other molecules). That’s not unusual for an asteroid, but what was unexpected was the form those molecules took: roughly half of them being a perfect inverse — a mirror image — of the way those building blocks appear on Earth.\nThis was interesting timing. Only a few months prior, toward the end of 2024, a te…",
+          "link": "https://bigthink.com/the-past/mirror-life-and-the-recurring-nightmare-of-scientific-apocalypse/",
+          "publishedOn": "2025-09-15T18:32:54.000Z",
+          "wordCount": 3139,
+          "title": "“Mirror life” and the recurring nightmare of scientific apocalypse",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/mirror-life_e83e49.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-to-bust-the-innovation-myth/",
           "author": "Tim Brinkhof",
