@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-17T00:18:16.880Z</updated>
+    <updated>2025-09-17T06:06:48.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LIGO’s 10th anniversary gift confirms Hawking’s theorem]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/"/>
+        <updated>2025-09-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s hard to believe, but it’s now been 10 full years since the twin Advanced LIGO detectors — in Hanford, WA and Livingston, LA — were completed and turned on for the first time. Just days after they began operations, they saw the first-ever directly detected gravitational wave: GW150914, which signified the merger of two black holes. From across the Universe, a black hole of 36 times the mass of the Sun merged with another of 29 times the Sun’s mass, producing a remnant black hole of just 62 solar masses, with the other 3 solar masses getting converted into gravitational radiation via Einstein’s E = mc².
+When those emitted waves arrived in each of the twin LIGO detectors, they changed the length of LIGO’s incredibly long, precise laser arms by less than the width of a single proton. Yet …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A ‘dystopian’ CVS loudspeaker may lead Berkeley to ban some alarm systems]]></title>
         <id>https://www.berkeleyside.org/?p=543679</id>
