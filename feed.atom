@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-16T18:07:02.159Z</updated>
+    <updated>2025-09-17T00:18:16.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A ‘dystopian’ CVS loudspeaker may lead Berkeley to ban some alarm systems]]></title>
+        <id>https://www.berkeleyside.org/?p=543679</id>
+        <link href="https://www.berkeleyside.org/2025/09/16/robocop-motion-activated-loudspeaker-north-berkeley-cvs-shattuck-ave"/>
+        <updated>2025-09-16T22:13:34.000Z</updated>
+        <summary type="html"><![CDATA[North Berkeley neighbors complained the security system, meant to scare thieves, would speak throughout the night and threaten to call police on people walking past.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill allowing denser housing near BART stations and transit hubs passed by California lawmakers]]></title>
+        <id>https://www.berkeleyside.org/?p=543665</id>
+        <link href="https://www.berkeleyside.org/2025/09/16/california-sb79-housing-berkeley-transit-oriented-development"/>
+        <updated>2025-09-16T19:48:25.000Z</updated>
+        <summary type="html"><![CDATA[It’s not yet clear how SB 79, now on Gov. Newsom’s desk, will affect what gets built in Berkeley, where the flatlands were rezoned for denser construction earlier this year.]]></summary>
+        <author>
+            <name>Ben Christopher, CalMatters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Science’s answer to the ultimate question: Where do we come from?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/science-answer-ultimate-question/</id>
