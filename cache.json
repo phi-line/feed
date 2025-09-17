@@ -647,6 +647,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/ai-phages",
+          "author": "Niko McCarty",
+          "description": "A new paper shows that a generative AI model can design viable bacteriophages.",
+          "link": "https://www.asimov.press/p/ai-phages",
+          "publishedOn": "2025-09-17T15:09:04.000Z",
+          "wordCount": null,
+          "title": "AI-Designed Phages",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!mZfG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce12342e-3f4d-40b1-9d00-7d6ba64477e4_2000x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!mZfG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce12342e-3f4d-40b1-9d00-7d6ba64477e4_2000x1260.png"
+        },
+        {
           "id": "https://www.asimov.press/p/sewers",
           "author": "Calum Drysdale",
           "description": "Our ancestors once spread their excess effluent on their fields; now we mine it for vital molecules.",
@@ -1319,16 +1335,6 @@
           "wordCount": 204,
           "title": "Farads",
           "imageUrl": "https://imgs.xkcd.com/comics/farads_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3105/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3105/",
-          "publishedOn": "2025-06-20T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Interoperability",
-          "imageUrl": "https://imgs.xkcd.com/comics/interoperability_2x.png"
         }
       ]
     },
@@ -1691,6 +1697,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=461315",
+          "author": "Eli Wolfe",
+          "description": "A proposal to double the amount candidates for county office can receive — from $20,000 to $40,000 — has been abandoned.",
+          "link": "https://www.berkeleyside.org/2025/09/17/alameda-county-officials-wont-raise-political-fundraising-limits",
+          "publishedOn": "2025-09-17T13:19:00.000Z",
+          "wordCount": 6963,
+          "title": "Alameda County officials won’t raise political fundraising limits",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-04_2024.05.14_Middleton_DARecallBoS_00062-1.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543679",
           "author": "Alex N. Gecan",
@@ -4262,6 +4278,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/blogs-rss-2000/",
+          "author": null,
+          "description": "Photo of the Seattle Central Library, taken 1 January 2000 by Thomas Hawk.\nBy the start of 2000, blogging was becoming a communal activity. One of its pioneers, Cameron Barrett, had a “Sites I Visit Often” list in his sidebar that had gotten longer over the past year and now included many weblogs. Although there wasn’t a word for this kind of list at the time, it would eventually become known as a “blogroll” (the earliest reference to this term I could find was Doc Searls in December 2000, who used the word “blogrolling” as a subheader).\n\nCamWorld's impressive \"blogroll\" in March 2000, even though the term hadn't yet been coined.\nSome webloggers were even meeting in person. On 20 February, Jessamyn West wrote in her online journal: “I had a nice day. Mucked about in the morning, headed to …",
+          "link": "https://cybercultural.com/p/blogs-rss-2000/",
+          "publishedOn": "2025-09-17T00:00:00.000Z",
+          "wordCount": 2102,
+          "title": "2000: Bloggers Make Friends, but RSS Format Wars Kick Off",
+          "imageUrl": "https://cybercultural.com/assets/images/2671536366_4c5418e326_oc.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/dotcom-crash-2000/",
           "author": null,
           "description": "Startupfailures.com, August 2000; via Wayback Machine.\nOn Tuesday, 11 January, 2000, the front page of The New York Times announced a corporate merger that seemed to confirm the internet’s cultural ascendency. “America Online Agrees to Buy Time Warner for $165 Billion,” the headline blared. Under the subhead “Internet Triumph,” the NYT noted that it “would be the biggest merger in history and the best evidence yet that old and new media are converging.”\n\nThe New York Times front page on 11 January 2000.\nThe deal would theoretically allow AOL to offer its users professional media content, such as news from CNN and hit movies like The Matrix from Warner Bros — although it was unclear what “Internet versions” of such properties would look like. Regardless, the new combined features of AOL-Tim…",
@@ -5231,6 +5257,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/hard-science/biosignatures-why-organic-compounds-on-mars-may-not-signal-life/",
+          "author": "Dirk Schulze-Makuch",
+          "description": "The news reports have come to sound almost routine: “Scientists Find Organic Material on Mars.” Case in point: Just last week, stories broke about how the Perseverance rover found specific mineral assemblages associated with organic compounds on the red planet, with NASA describing the findings as a potential biosignature. Cool, you say. But, really, what does that mean? How much closer does it get us to discovering life beyond Earth?\nSome findings are, of course, more significant than others, and in fact do get us closer to that long-hoped-for announcement. First, though, we have to understand all the ways that nature — especially Martian nature — might deceive us.\nIn a recent article in Scientific Reports, a research team led by Felix Arens from the Technical University Berlin in Germany…",
+          "link": "https://bigthink.com/hard-science/biosignatures-why-organic-compounds-on-mars-may-not-signal-life/",
+          "publishedOn": "2025-09-17T14:00:00.000Z",
+          "wordCount": 1933,
+          "title": "Biosignatures? Why organics on Mars don’t necessarily signal life",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/mars-organic-material_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/how-stress-makes-you-smarter/",
+          "author": "Dr. Aditi Nerurkar, Kelly McGonigal, Jon Kabat-Zinn",
+          "description": "Don’t try to eliminate your stress. Instead, take advantage of it.\nThree experts, Aditi Nerurkar, MD, MPH, Kelly McGonigal, PhD, and Jon Kabat-Zinn, PhD combine their insights on physiology, psychology, and mindfulness to show how stress management can become a superpower. They explain how stress can help you grow, how the body’s “challenge response” fuels focus and energy, and how mindfulness can help you see beyond your thoughts.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Stress is inevitable, but suffering isn’t. 3 experts explain. is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/how-stress-makes-you-smarter/",
+          "publishedOn": "2025-09-17T13:00:00.000Z",
+          "wordCount": 1776,
+          "title": "Stress is inevitable, but suffering isn’t. 3 experts explain.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-Brain-Briefs-Stress-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/",
           "author": "Ethan Siegel",
