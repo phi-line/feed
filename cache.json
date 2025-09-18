@@ -1371,6 +1371,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-new-soft-power-ploy-by-putin",
+          "author": "Lily Lynch",
+          "description": "The post A New Soft Power Ploy By Putin appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-soft-power-ploy-by-putin",
+          "publishedOn": "2025-09-18T14:12:36.000Z",
+          "wordCount": 6863,
+          "title": "A New Soft Power Ploy By Putin",
+          "imageUrl": "https://noemamag.imgix.net/2025/09/AC_NOEMA_INTERVISION2025_FINAL.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=3ad17c42e75c97c77e89a54406f616a2"
+        },
+        {
           "id": "https://www.noemamag.com/a-third-path-for-ai-beyond-the-us-china-binary",
           "author": "Dang Nguyen",
           "description": "The post A Third Path For AI Beyond The US-China Binary appeared first on NOEMA.",
@@ -1687,6 +1697,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=461519",
+          "author": "Jose Fermoso",
+          "description": "Tim Dupuis, the long-time Alameda County election official, will leave after two critical reviews of his performance.",
+          "link": "https://www.berkeleyside.org/2025/09/18/tim-dupuis-steps-down-alameda-county-registrar-of-voters",
+          "publishedOn": "2025-09-18T16:30:00.000Z",
+          "wordCount": 7464,
+          "title": "Top Alameda County election official to step down",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/tim-dupuis-registrar-voters.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=461510",
+          "author": "Esther Kaplan",
+          "description": "A recommendation by Western states allows anyone over 6 months old to get a COVID-19 shot. California insurance providers will have to cover the cost.",
+          "link": "https://www.berkeleyside.org/2025/09/18/covid-vaccine-now-universally-available-in-california",
+          "publishedOn": "2025-09-18T15:50:55.000Z",
+          "wordCount": 7039,
+          "title": "COVID vaccine now universally available in California",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25195809381974-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543806",
+          "author": "Iris Kwok and Andrew Gilbert",
+          "description": "Other events include a community mural paint day and a photo-op with a giant sparkling water can.",
+          "link": "https://www.berkeleyside.org/2025/09/18/around-berkeley-things-to-do-in-berkeley-sept-18-to-sept-25",
+          "publishedOn": "2025-09-18T13:00:00.000Z",
+          "wordCount": 8453,
+          "title": "Around Berkeley: Coastal Cleanup Day, square dance party, international comedy show",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_2189-scaled-1.jpg?fit=1568%2C1176&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543783",
           "author": "Nico Savidge",
@@ -4650,16 +4690,6 @@
           "wordCount": 4468,
           "title": "Meera Sodha’s vegan recipe for Thai-style tossed walnut and tempeh noodles | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/84d89118548e58e5ce3e35e244d9d6907a14e450/0_1375_3631_2905/master/3631.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42b14e4b41e33163f2fe3a662cb2d187"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/jun/21/spring-greens-and-cheddar-picnic-focaccia-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "You may well be knocked sideways by the sheer punch of this apparently simple sandwich – and it’s great for picnics, too\nLast month, while on a book tour in New York, I ate a sandwich that moved me to utter profanities. It was unusual behaviour from me, and more so because the sandwich in question was packed with an excessive amount of spring greens, but then, that is the genius of Brooks Headley, chef/owner of Superiority Burger: like Midas, he has an ability to turn the ordinary into gold. Here, I’ve tried to recreate it by cooking down a kilo of spring greens until they are melting, soft, collapsed and buttery, before tossing them with sharp cheddar. It’s pure picnic gold.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/jun/21/spring-greens-and-cheddar-picnic-focaccia-recipe-meera-sodha",
-          "publishedOn": "2025-06-21T05:00:02.000Z",
-          "wordCount": 4519,
-          "title": "Meera Sodha’s recipe for spring greens and cheddar picnic focaccia",
-          "imageUrl": "https://i.guim.co.uk/img/media/49c270764ba69073db4683f00e761de2612a7804/236_1656_2899_2319/master/2899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75307863921c3aad856e9dbc437e566c"
         }
       ]
     },
@@ -5312,6 +5342,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/hegel-quot-misused-and-misunderstood/",
+          "author": "Jonny Thomson",
+          "description": "When I was 16 years old, I sat in a crowded assembly hall on a wobbly plastic chair, and I listened to Mr. Smith tell me why I should study history. All of the teachers had to do it. “Sell your subject,” the headmaster had said. “Make the kids want to pick it.”\nSome teachers did so with the grudging monotone of the forced and underpaid employee. Some did it with the exhausting energy of a fanatic. Ms. Vasey, the physics teacher, even dressed up as the solar system. But Mr. Smith decided to win us over with the cold, lofty logic of an Oxford graduate.\n“History is like a guidebook for how to live,” he began. “We can learn from people’s mistakes and can unpack where things went wrong. Almost all the greatest leaders in the world knew their history, and almost all of the biggest mistakes were …",
+          "link": "https://bigthink.com/mini-philosophy/hegel-quot-misused-and-misunderstood/",
+          "publishedOn": "2025-09-18T14:30:00.000Z",
+          "wordCount": 2139,
+          "title": "One of the most quoted lines in philosophy is completely misused and misunderstood",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/cant-learn-from-history.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/a-postcard-from-the-frontlines-of-chinas-tech-boom/",
+          "author": "Eric Markowitz",
+          "description": "When I was younger, my mental image of an “investor” was someone who sat in an office, cranked out spreadsheets, wore a suit, listened to earnings calls, and traded stocks. In reality, investing — at least how we like to do it — is the opposite. Your job is to go out of the office, talk to people, travel the world, and try to understand where the future might be headed — so you can place your bets accordingly.\nIn that spirit, my colleague Daniel Crowley, CFA, wrote about the two weeks he spent in China this summer. Dan visited electric car companies, cruised through Macau, immersed himself in a humanoid robotics conference (where he saw an android dog with a fake machine gun strapped to its back!) and much more.\n“What follows isn’t a grand theory or an investment manifesto,” Dan writes. “I…",
+          "link": "https://bigthink.com/business/a-postcard-from-the-frontlines-of-chinas-tech-boom/",
+          "publishedOn": "2025-09-18T13:11:38.000Z",
+          "wordCount": 3091,
+          "title": "A postcard from the frontlines of China’s tech boom",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/9.18-Nightcrawler_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/your-brain-on-sex/",
+          "author": "Emily Nagoski",
+          "description": "Past decades of sex research have focused mainly on mechanics, overlooking the concept of desire. Now, we’re understanding how vital environment, emotion, and perception are in the science of sex. \nSex educator Emily Nagoski emphasizes how critical context can be in amplifying or killing sexual desire.\nThis video Your brain: the most important sex organ in the body is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/your-brain-on-sex/",
+          "publishedOn": "2025-09-18T13:00:00.000Z",
+          "wordCount": 1086,
+          "title": "Your brain: the most important sex organ in the body",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/B1-Web-Nagoski.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/deep-mathematics-10%c2%b2-11%c2%b2-12%c2%b2-13%c2%b2-14%c2%b2/",
           "author": "Ethan Siegel",
