@@ -501,16 +501,6 @@
           "wordCount": 2289,
           "title": "Matter vs. Force: Why There Are Exactly Two Types of Particles",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Fermion-Boson-Explainer_crIrene-Perez-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151542",
-          "author": "Gregory Barber",
-          "description": "Two new notions of infinity challenge a long-standing plan to define the mathematical universe.            \nThe post Is Mathematics Mostly Chaos or Mostly Order? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/",
-          "publishedOn": "2025-06-20T15:03:08.000Z",
-          "wordCount": 3710,
-          "title": "Is Mathematics Mostly Chaos or Mostly Order?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/New-Infinities_crWei-AnJin-Social.jpg"
         }
       ]
     },
@@ -966,6 +956,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3143/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3143/",
+          "publishedOn": "2025-09-17T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Question Mark",
+          "imageUrl": "https://imgs.xkcd.com/comics/question_mark_2x.png"
+        },
         {
           "id": "https://xkcd.com/3142/",
           "author": null,
@@ -1679,16 +1679,6 @@
           "wordCount": 14517,
           "title": "The Unseen Fury Of Solar Storms",
           "imageUrl": "https://noemamag.imgix.net/2025/06/X8pt7_Flare_1651_May_14_2024_171-131-193-304-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=6654ed9e7f5367f7476a98f868476289"
-        },
-        {
-          "id": "https://www.noemamag.com/the-clash-between-technology-ecology",
-          "author": "Nathan Gardels",
-          "description": "The post The Clash Between Technology & Ecology appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-clash-between-technology-ecology",
-          "publishedOn": "2025-06-20T16:38:50.000Z",
-          "wordCount": 3428,
-          "title": "The Clash Between Technology & Ecology",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/tech-vs-eco_300dpi_rgb-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c8a5bb251b7b498b7dc862f644bbd5bf"
         }
       ]
     },
@@ -5307,6 +5297,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/deep-mathematics-10%c2%b2-11%c2%b2-12%c2%b2-13%c2%b2-14%c2%b2/",
+          "author": "Ethan Siegel",
+          "description": "One of the first theorems anyone learns in mathematics is the Pythagorean Theorem: if you have a right triangle, then the square of the longest side (the hypotenuse) will always equal the sums of the squares of the other two sides. The first integer combination that this works for is a triangle with sides 3, 4, and 5: 3² + 4² = 5². There are other combinations of numbers that this works for, too, including:\n5, 12, and 13,\n6, 8, and 10,\n7, 24 and 25,\nand infinitely more. But 3, 4, and 5 are special: they’re the only consecutive whole numbers that obey the Pythagorean Theorem. In fact, the numbers 3, 4, and 5 are the only consecutive whole numbers that allow you to solve the equation a² + b² = c² at all!\nHowever, if you allowed yourself the freedom to include more numbers, you could imagine …",
+          "link": "https://bigthink.com/starts-with-a-bang/deep-mathematics-10%c2%b2-11%c2%b2-12%c2%b2-13%c2%b2-14%c2%b2/",
+          "publishedOn": "2025-09-18T06:00:00.000Z",
+          "wordCount": 3694,
+          "title": "The deep mathematics of why 10² + 11² + 12² = 13² + 14²",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/multiply.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/hard-science/biosignatures-why-organic-compounds-on-mars-may-not-signal-life/",
           "author": "Dirk Schulze-Makuch",
