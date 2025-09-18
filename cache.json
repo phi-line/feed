@@ -4669,6 +4669,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/hi-no-youjin",
+          "author": null,
+          "description": "On quaint devices for time-travel",
+          "link": "https://aethermug.com/posts/hi-no-youjin?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-09-17T05:23:40.000Z",
+          "wordCount": 2858,
+          "title": "Hi No Youjin",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/hi-no-youjin/jacob-gonzales-SnOmJ_lLWeQ-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/hi-no-youjin/jacob-gonzales-SnOmJ_lLWeQ-unsplash.jpg"
+        },
+        {
           "id": "https://aethermug.com/posts/claude-sonnet-is-teaching-me-english",
           "author": null,
           "description": "Today, even a lazy after-thought can become a useful project",
