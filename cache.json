@@ -967,6 +967,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3144/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3144/",
+          "publishedOn": "2025-09-19T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Phase Changes",
+          "imageUrl": "https://imgs.xkcd.com/comics/phase_changes_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3143/",
           "author": null,
           "description": "",
@@ -1381,6 +1391,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/green-giant",
+          "author": "Nathan Gardels",
+          "description": "The post Green Giant appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/green-giant",
+          "publishedOn": "2025-09-19T12:52:10.000Z",
+          "wordCount": 3161,
+          "title": "Green Giant",
+          "imageUrl": "https://noemamag.imgix.net/2025/09/greengiant_2100x1181px_300dpi_rgb.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9e468a5609d7f470cdb3d6d06ff51720"
+        },
+        {
           "id": "https://www.noemamag.com/a-new-soft-power-ploy-by-putin",
           "author": "Lily Lynch",
           "description": "The post A New Soft Power Ploy By Putin appeared first on NOEMA.",
@@ -1707,6 +1727,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543770",
+          "author": "Nico Savidge",
+          "description": "New restrooms have opened in Willard, Civic Center, Cesar Chavez and James Kenney parks, and will open soon at Ohlone park. However, the city is scaling back its plans to build and upgrade other public toilets.",
+          "link": "https://www.berkeleyside.org/2025/09/19/berkeley-public-bathrooms-willard-park",
+          "publishedOn": "2025-09-19T17:00:00.000Z",
+          "wordCount": 7537,
+          "title": "New bathrooms opening in 5 Berkeley parks, but plans for 4 others are put on ice",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_9225-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543911",
+          "author": "Daniel Ekonde",
+          "description": "A deal with BART has revived the market. New leadership promises to better cooperate with vendors, who never stopped selling after its June closure.",
+          "link": "https://www.berkeleyside.org/2025/09/19/berkeley-flea-market-officially-back-and-legal",
+          "publishedOn": "2025-09-19T14:12:00.000Z",
+          "wordCount": 8205,
+          "title": "The Berkeley Flea Market is officially back — and legal again",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_0179-scaled.jpg?fit=2560%2C1651&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543797",
+          "author": "Berkeleyside Staff",
+          "description": "Berkeleyside is looking for a writer to spotlight all the best festivals, plays, art shows, book talks, celebrations and cultural events happening each week in the city.",
+          "link": "https://www.berkeleyside.org/2025/09/19/is-your-finger-on-the-pulse-of-berkeley-help-write-our-events-newsletter",
+          "publishedOn": "2025-09-19T13:03:00.000Z",
+          "wordCount": 7438,
+          "title": "Is your finger on the pulse of Berkeley? Help write our events newsletter",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250917-231313.webp?fit=1568%2C1086&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=543857",
           "author": "Berkeleyside Staff",
@@ -5412,6 +5462,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/5-brilliant-books-to-demystify-the-brain/",
+          "author": "Kevin Dickinson",
+          "description": "Around the turn of the 19th century, a Viennese physician named Franz Joseph Gall proposed a new, and controversial, hypothesis about the human brain. Even as a child, Gall was fascinated by the brain and its connection with people’s personalities, and so throughout his career, he intensely studied its anatomy while also gathering data on people’s skull sizes and facial features.\nHe came to believe that people’s mental faculties were localized within specific brain regions. And because these regions molded the shape of people’s skulls, a trained eye could divinate a person’s capabilities for love, violence, greed, intelligence, and other traits simply by examining their cranial bumps and recessions.\nAs you’ve probably guessed, Gall’s hypotheses provided the basis for phrenology — though Ga…",
+          "link": "https://bigthink.com/books/5-brilliant-books-to-demystify-the-brain/",
+          "publishedOn": "2025-09-19T14:30:00.000Z",
+          "wordCount": 2885,
+          "title": "5 brilliant books to demystify the brain",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/demystifying-the-brain_e649a2.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/high-conflict-ripley/",
+          "author": "Steph McClain",
+          "description": "Conflict can be constructive, inspiring learning, growth, and vulnerability when well-managed. But when it spirals into what Amanda Ripley calls high conflict, it becomes corrosive. \nInstead of solving problems, high conflict traps us in a cycle where arguments feed on themselves, eroding trust and entire relationships. So, why are we so susceptible to it? Ripley explains, sharing our psychological tripwires and how to avoid them.\nThis video The 4 hidden forces underneath every argument is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/high-conflict-ripley/",
+          "publishedOn": "2025-09-19T13:00:00.000Z",
+          "wordCount": 4863,
+          "title": "The 4 hidden forces underneath every argument",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A3-Web-Ripley.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/true-purpose-scientific-peer-review/",
           "author": "Ethan Siegel",
