@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-19T00:18:08.597Z</updated>
+    <updated>2025-09-19T06:06:46.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: What is the true purpose of scientific peer review?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/true-purpose-scientific-peer-review/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/true-purpose-scientific-peer-review/"/>
+        <updated>2025-09-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every so often, a new scientific result, theory, idea, or claim starts making headlines: not just in scientific circles, but in popular media as well. Most often, the one question all people know to ask is whether or not that paper has successfully passed peer review or not. If it hasn’t, people often dismiss the work, noting that we should remain skeptical because it hasn’t yet been vetted by anyone else with the appropriate expertise. But if it has passed peer review, people often assume that means everything that’s written in the paper — the methods of the study, the analysis performed, the results obtained, the conclusions drawn, and other assertions that the authors might make — must be correct. Even if it flies in the face of conventional wisdom, the fact that it has passed peer revi…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: BART’s plan after recent system shutdown; health risks of encampment sweeps]]></title>
         <id>https://www.berkeleyside.org/?p=543857</id>
