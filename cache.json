@@ -510,6 +510,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/11/iabied",
+          "author": null,
+          "description": "Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.",
+          "link": "https://asteriskmag.com/issues/11/iabied",
+          "publishedOn": "2025-09-18T00:00:00.000Z",
+          "wordCount": 3858,
+          "title": "More Was Possible: A Review of If Anyone Builds It, Everyone Dies",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/11/why-governments-cant-count",
           "author": null,
           "description": "Counting every citizen is one of the most basic functions of the state. For much of the world, it remains extraordinarily difficult.",
@@ -1697,6 +1707,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543857",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A downtown apartment building sells amid a weakening market, and Emerson Elementary is pulling for \"Mr. Bob\" — struck by hit-and-run driver this week.",
+          "link": "https://www.berkeleyside.org/2025/09/18/the-wire-barts-plan-after-recent-system-shutdown-health-risks-of-encampment-sweeps",
+          "publishedOn": "2025-09-19T00:15:00.000Z",
+          "wordCount": 6960,
+          "title": "The Wire: BART’s plan after recent system shutdown; health risks of encampment sweeps",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250918-210739.webp?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543832",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/09/18/alleyway-cafe-campus-burger-tang-jip-pho-510",
+          "publishedOn": "2025-09-18T21:00:00.000Z",
+          "wordCount": 6977,
+          "title": "$2 burger spot near Cal campus holds smashing grand opening",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/CampusBurger.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543783",
+          "author": "Nico Savidge",
+          "description": "Berkeley might see some showers from the remnants of Tropical Storm Mario, but more significant rain will fall to the south and east.",
+          "link": "https://www.berkeleyside.org/2025/09/18/berkeley-rain-forcast-thunderstorms",
+          "publishedOn": "2025-09-18T20:47:08.000Z",
+          "wordCount": 6944,
+          "title": "Berkeley rain chances fizzle as former tropical storm shifts east",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/01/large-Jan-10-rain-5.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543819",
+          "author": "Azucena Rasilla",
+          "description": "Gorditas, tacos al vapor, shrimp cocktails … Nosh helps you get started among Coliseum Way's many options.",
+          "link": "https://www.berkeleyside.org/2025/09/18/5-dishes-oakland-coliseum-way-food-vendors",
+          "publishedOn": "2025-09-18T19:00:00.000Z",
+          "wordCount": 8884,
+          "title": "This Oakland intersection is a food vendor hotspot. Here are 5 things to try",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-Natera_Nosh_FruitvaleFoodMarket_250907_029.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543841",
+          "author": "Dana Cronin | KQED",
+          "description": "The UC Berkeley student and Direct Action Everywhere organizer is standing trial in Sonoma County, accused of stealing chickens from Petaluma Poultry in a case spotlighting animal rights activism and farm industry tensions.",
+          "link": "https://www.berkeleyside.org/2025/09/18/berkeley-animal-activist-faces-prison-in-sonoma-county-chicken-theft-case",
+          "publishedOn": "2025-09-18T18:57:48.000Z",
+          "wordCount": 7454,
+          "title": "Berkeley animal activist faces prison in Sonoma County chicken theft case",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250918-184200.webp"
+        },
         {
           "id": "https://oaklandside.org/?p=461519",
           "author": "Jose Fermoso",
