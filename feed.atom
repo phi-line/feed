@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-22T00:20:17.604Z</updated>
+    <updated>2025-09-22T06:07:04.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The “most distant explosion ever” turned out to be rocket debris]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/most-distant-explosion-lie/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/most-distant-explosion-lie/"/>
+        <updated>2025-09-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GN-z11 was once the most distant galaxy known.
+
+The Great Observatories Origins Deep Studies North field (GOODS-N), cropped to show the Universe’s most distant galaxy, in red. A combination of Hubble and Spitzer data was used to discover this galaxy, whose distance has been confirmed spectroscopically, including more precisely and spectacularly by JWST in 2023. 
+
+Credit: NASA, ESA, P. Oesch (Yale University), G. Brammer (STScI), P. van Dokkum (Yale University), and G. Illingworth (University of California, Santa Cruz)
+
+
+
+Its light arrives today after journeying for 13.4 billion years.
+
+Only because this distant galaxy, GN-z11, is located in a region where the intergalactic medium is mostly reionized, can Hubble reveal it to us at the present time. To see further, we require a better observ…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s golden mile pizza – recipe]]></title>
         <id>https://www.theguardian.com/food/2025/sep/20/recipe-golden-mile-pizza-meera-sodha</id>
@@ -6049,26 +6069,6 @@ Bowie added, “The purpose of BowieNet is interactivity and community — plain
 1998 BowieN…]]></summary>
         <author>
             <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Night of Food Futurism]]></title>
-        <id>https://www.asimov.press/p/food-futurism</id>
-        <link href="https://www.asimov.press/p/food-futurism"/>
-        <updated>2025-06-24T15:42:36.000Z</updated>
-        <summary type="html"><![CDATA[A science fiction story brought to life through a pro-GMO dinner.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unseen Fury Of Solar Storms]]></title>
-        <id>https://www.noemamag.com/the-unseen-fury-of-solar-storms</id>
-        <link href="https://www.noemamag.com/the-unseen-fury-of-solar-storms"/>
-        <updated>2025-06-24T15:20:48.000Z</updated>
-        <summary type="html"><![CDATA[The post The Unseen Fury Of Solar Storms appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Henry Wismayer</name>
         </author>
     </entry>
 </feed>

@@ -875,22 +875,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!CFXH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5edb3-5ea3-4e4a-a5a8-203c003e1446_2000x1260.png"
-        },
-        {
-          "id": "https://www.asimov.press/p/food-futurism",
-          "author": "Asimov Press",
-          "description": "A science fiction story brought to life through a pro-GMO dinner.",
-          "link": "https://www.asimov.press/p/food-futurism",
-          "publishedOn": "2025-06-24T15:42:36.000Z",
-          "wordCount": null,
-          "title": "A Night of Food Futurism",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/9516c333-05c2-4ba9-9b55-abfc40e9b6e8_5000x3334.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9516c333-05c2-4ba9-9b55-abfc40e9b6e8_5000x3334.png"
         }
       ]
     },
@@ -1689,16 +1673,6 @@
           "wordCount": 4700,
           "title": "Denouement In The Middle East",
           "imageUrl": "https://noemamag.imgix.net/2025/06/Noema-Magazine-Denouement-in-the-Middle-East-Mr.Nelson-design.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4877c113626507ae025e8375ee321d80"
-        },
-        {
-          "id": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
-          "author": "Henry Wismayer",
-          "description": "The post The Unseen Fury Of Solar Storms appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
-          "publishedOn": "2025-06-24T15:20:48.000Z",
-          "wordCount": 14517,
-          "title": "The Unseen Fury Of Solar Storms",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/X8pt7_Flare_1651_May_14_2024_171-131-193-304-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=6654ed9e7f5367f7476a98f868476289"
         }
       ]
     },
@@ -5482,6 +5456,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/most-distant-explosion-lie/",
+          "author": "Ethan Siegel",
+          "description": "GN-z11 was once the most distant galaxy known.\n\nThe Great Observatories Origins Deep Studies North field (GOODS-N), cropped to show the Universe’s most distant galaxy, in red. A combination of Hubble and Spitzer data was used to discover this galaxy, whose distance has been confirmed spectroscopically, including more precisely and spectacularly by JWST in 2023. \n\nCredit: NASA, ESA, P. Oesch (Yale University), G. Brammer (STScI), P. van Dokkum (Yale University), and G. Illingworth (University of California, Santa Cruz)\n\n\n\nIts light arrives today after journeying for 13.4 billion years.\n\nOnly because this distant galaxy, GN-z11, is located in a region where the intergalactic medium is mostly reionized, can Hubble reveal it to us at the present time. To see further, we require a better observ…",
+          "link": "https://bigthink.com/starts-with-a-bang/most-distant-explosion-lie/",
+          "publishedOn": "2025-09-22T06:00:00.000Z",
+          "wordCount": 2296,
+          "title": "The “most distant explosion ever” turned out to be rocket debris",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/10/https___blogs-images.forbes.com_startswithabang_files_2018_05_actual-image-e1758142217380.jpg?w=960&h=540&crop=1"
+        },
         {
           "id": "https://bigthink.com/books/5-brilliant-books-to-demystify-the-brain/",
           "author": "Kevin Dickinson",
