@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-22T06:07:04.003Z</updated>
+    <updated>2025-09-22T12:07:32.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Upate: Berkeley earthquake downgraded to M4.3 magnitude]]></title>
+        <id>https://www.berkeleyside.org/?p=543986</id>
+        <link href="https://www.berkeleyside.org/2025/09/22/berkeley-earthquake-4-6-magnitude-september-22"/>
+        <updated>2025-09-22T10:15:44.000Z</updated>
+        <summary type="html"><![CDATA[The quake that struck at 2:56 a.m. Monday, was centered around the Elmwood, according to early reporting by the USGS.]]></summary>
+        <author>
+            <name>Tracey Taylor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The “most distant explosion ever” turned out to be rocket debris]]></title>
         <id>https://bigthink.com/starts-with-a-bang/most-distant-explosion-lie/</id>
@@ -6054,21 +6064,6 @@ The post A New Pyramid-Like Shape Always Lands the Same Side Up first appeared o
         <updated>2025-06-25T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch of BowieNet and the First Inklings of Social Networks]]></title>
-        <id>https://cybercultural.com/p/bowienet-launch-1998/</id>
-        <link href="https://cybercultural.com/p/bowienet-launch-1998/"/>
-        <updated>2025-06-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BowieNet homepage on launch; via Wayback Machine.
-BowieNet launched as an ISP in North America on September 1, 1998 for $19.95 per month; and if you lived elsewhere, as a “premium content” service for $5.95 per month. If you had visited davidbowie.com on that day, you’d have been greeted by these words from the man himself:
-“I welcome all you web travellers to the first community driven Internet site that focuses on music, film, literature, painting and more, where you can interact with all the members of our adventurous new project, knowing that this is an on-growing builder, added to constantly, and that you will definitely be entertained (sometimes unwittingly).”
-Bowie added, “The purpose of BowieNet is interactivity and community — plain and clear — everybody has a voice.”
-
-1998 BowieN…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
 </feed>

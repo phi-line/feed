@@ -1682,6 +1682,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=543986",
+          "author": "Tracey Taylor",
+          "description": "The quake that struck at 2:56 a.m. Monday, was centered around the Elmwood, according to early reporting by the USGS.",
+          "link": "https://www.berkeleyside.org/2025/09/22/berkeley-earthquake-4-6-magnitude-september-22",
+          "publishedOn": "2025-09-22T10:15:44.000Z",
+          "wordCount": 6955,
+          "title": "Upate: Berkeley earthquake downgraded to M4.3 magnitude",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/quake.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=543937",
           "author": "Vanessa Arredondo",
           "description": "In case you missed it, here are four highlights from Berkeley Unified's school board meeting on Wednesday.",
@@ -4570,16 +4580,6 @@
           "wordCount": 1891,
           "title": "1998: How Amazon Conquered Online CD Retailers Like CDnow",
           "imageUrl": "https://cybercultural.com/assets/images/cdnow-feature-dec1998.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/bowienet-launch-1998/",
-          "author": null,
-          "description": "BowieNet homepage on launch; via Wayback Machine.\nBowieNet launched as an ISP in North America on September 1, 1998 for $19.95 per month; and if you lived elsewhere, as a “premium content” service for $5.95 per month. If you had visited davidbowie.com on that day, you’d have been greeted by these words from the man himself:\n“I welcome all you web travellers to the first community driven Internet site that focuses on music, film, literature, painting and more, where you can interact with all the members of our adventurous new project, knowing that this is an on-growing builder, added to constantly, and that you will definitely be entertained (sometimes unwittingly).”\nBowie added, “The purpose of BowieNet is interactivity and community — plain and clear — everybody has a voice.”\n\n1998 BowieN…",
-          "link": "https://cybercultural.com/p/bowienet-launch-1998/",
-          "publishedOn": "2025-06-25T00:00:00.000Z",
-          "wordCount": 2691,
-          "title": "Launch of BowieNet and the First Inklings of Social Networks",
-          "imageUrl": "https://cybercultural.com/assets/images/bowiehome_full-1998-1200x675.jpg"
         }
       ]
     },
