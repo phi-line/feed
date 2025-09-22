@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-22T12:07:32.304Z</updated>
+    <updated>2025-09-22T18:06:39.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What to know about voting in California’s Nov. 4 special election on redistricting]]></title>
+        <id>https://www.berkeleyside.org/?p=544014</id>
+        <link href="https://www.berkeleyside.org/2025/09/22/proposition-50-california"/>
+        <updated>2025-09-22T17:51:02.000Z</updated>
+        <summary type="html"><![CDATA[The measure would adopt new congressional lines that favor Democrats for the next three election cycles in an effort to offset partisan gerrymandering in other states.]]></summary>
+        <author>
+            <name>CalMatters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This fall at Cal Performances showcases a world of artistry]]></title>
+        <id>https://www.berkeleyside.org/?p=543854</id>
+        <link href="https://www.berkeleyside.org/2025/09/22/this-fall-at-cal-performances-showcases-a-world-of-artistry"/>
+        <updated>2025-09-22T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The coming season at the campus arts venue reflects Berkeley's adventurous spirit.]]></summary>
+        <author>
+            <name>Local sponsor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Way To Measure Knots Has Come Unraveled]]></title>
+        <id>https://www.quantamagazine.org/?p=155143</id>
+        <link href="https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/"/>
+        <updated>2025-09-22T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Two mathematicians have proved that a straightforward question — how hard is it to untie a knot? — has a complicated answer.            
+The post A Simple Way To Measure Knots Has Come Unraveled first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to greet the dawn of “future-state predictive intelligence”]]></title>
+        <id>https://bigthink.com/business/how-to-greet-the-dawn-of-future-state-predictive-intelligence/</id>
+        <link href="https://bigthink.com/business/how-to-greet-the-dawn-of-future-state-predictive-intelligence/"/>
+        <updated>2025-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity veteran Brian Gumbel — president and chief operating officer (COO) at Dataminr — works at the confluence of real-time information and AI. Mainlined into humanity’s daily maelstrom of data, Dataminr detects events “on average 5 hours ahead of the Associated Press” — it picked up the 2024 Baltimore bridge collapse, for example, about an hour ahead of all mainstream media sources. The accuracy rate of its “news” is, says Gumbel, a highly impressive 99.5%.
+On top of that, the company’s AI systems, built on proprietary LLMs, analyze real-time events at such unprecedented speed that whole new strata of planning and strategy become possible. Soon, predicts Gumbel, “information will be automatically generated and updated as events unfold, enabling us to anticipate what is likely to h…]]></summary>
+        <author>
+            <name>Mike Hodgkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for canceling censorship]]></title>
+        <id>https://bigthink.com/the-well/the-power-of-criticism/</id>
+        <link href="https://bigthink.com/the-well/the-power-of-criticism/"/>
+        <updated>2025-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[America’s real danger isn’t free speech. It’s silence.
+Founder of The Future of Free Speech Jacob Mchangama argues that free speech is not a threat but society’s strongest safeguard against violence. Suppressing expression creates a pressure cooker that can push people toward violent action when peaceful dissent is denied. While acknowledging its harms — especially in the digital age — Mchangama warns that censorship is far worse.
+This video The case for canceling censorship is featured on Big Think.]]></summary>
+        <author>
+            <name>Jacob Mchangama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upate: Berkeley earthquake downgraded to M4.3 magnitude]]></title>
         <id>https://www.berkeleyside.org/?p=543986</id>
@@ -34,6 +88,16 @@ Its light arrives today after journeying for 13.4 billion years.
 Only because this distant galaxy, GN-z11, is located in a region where the intergalactic medium is mostly reionized, can Hubble reveal it to us at the present time. To see further, we require a better observ…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tripping Alone]]></title>
+        <id>https://asteriskmag.com/issues/11/tripping-alone</id>
+        <link href="https://asteriskmag.com/issues/11/tripping-alone"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The clinical model of psychedelic therapy has become the default way to trip. What might we be missing as a result?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -6055,15 +6119,6 @@ The post Protected: Conversations with a Hit Man appeared first on The Atavist M
 The post A New Pyramid-Like Shape Always Lands the Same Side Up first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Elise Cutts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weather Balloons]]></title>
-        <id>https://xkcd.com/3107/</id>
-        <link href="https://xkcd.com/3107/"/>
-        <updated>2025-06-25T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
