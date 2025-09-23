@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-23T06:06:53.712Z</updated>
+    <updated>2025-09-23T12:07:48.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Carlos Vives: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=XerTuv79p2M</id>
+        <link href="https://www.youtube.com/watch?v=XerTuv79p2M"/>
+        <updated>2025-09-23T09:00:58.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Big Bang doesn’t mean what it used to]]></title>
         <id>https://bigthink.com/starts-with-a-bang/big-bang-meaning/</id>
@@ -6140,39 +6149,6 @@ The post When Did Nature Burst Into Vivid Color? first appeared on Quanta Magazi
 The post How Does Graph Theory Shape Our World? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cucumber crunch salad with tofu]]></title>
-        <id>https://smittenkitchen.com/?p=88647</id>
-        <link href="https://smittenkitchen.com/2025/06/cucumber-crunch-salad-with-tofu/"/>
-        <updated>2025-06-25T20:43:02.000Z</updated>
-        <summary type="html"><![CDATA[have a favorite salad tofu? [Six question marks in a paragraph might be a record!]
-Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conversations with a Hit Man]]></title>
-        <id>https://magazine.atavist.com/?p=48274</id>
-        <link href="https://magazine.atavist.com/2025/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case"/>
-        <updated>2025-06-25T18:30:43.000Z</updated>
-        <summary type="html"><![CDATA[A former FBI agent traveled to Louisiana to ask a hired killer about a murder that haunted him. Then Larry Thompson started talking about a different case altogether.
-The post Conversations with a Hit Man appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>David Howard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protected: Conversations with a Hit Man]]></title>
-        <id>https://magazine.atavist.com/?p=48274</id>
-        <link href="https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/"/>
-        <updated>2025-06-25T18:30:43.000Z</updated>
-        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
-The post Protected: Conversations with a Hit Man appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>David Howard</name>
         </author>
     </entry>
 </feed>
