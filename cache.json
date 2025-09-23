@@ -961,6 +961,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3145/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3145/",
+          "publishedOn": "2025-09-22T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Piercing",
+          "imageUrl": "https://imgs.xkcd.com/comics/piercing_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3144/",
           "author": null,
           "description": "",
@@ -1691,6 +1701,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=544109",
+          "author": "Frances Dinkelspiel",
+          "description": "Nearly 1 in 30 staffers have already been laid off. The term “climate change” is banned from new proposals. And federal budget cuts could destroy world-class research teams.",
+          "link": "https://www.berkeleyside.org/2025/09/22/lawrence-berkeley-national-lab",
+          "publishedOn": "2025-09-22T22:38:54.000Z",
+          "wordCount": 9575,
+          "title": "Berkeley Lab scientists feel like they have Trump’s ‘ax hanging above their head’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/XBD-202006-00108_002-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544048",
+          "author": "Cecilia Seiter",
+          "description": "Belotti’s uncomplicated approach to a classic comfort food is worth the splurge.",
+          "link": "https://www.berkeleyside.org/2025/09/22/belotti-pomodoro-burrata-pasta-rockridge",
+          "publishedOn": "2025-09-22T21:00:00.000Z",
+          "wordCount": 6957,
+          "title": "Dish of the week: Spaghetti pomodoro e burrata from Belotti",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Belotti-PomodoroBurrata-Seiter.jpg?fit=2000%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=544014",
           "author": "CalMatters",
@@ -5486,6 +5516,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/plus/the-frontline-manager-effect/",
+          "author": "JD Dillon",
+          "description": "Why do people leave?\nBy the time you ask this question, it’s already too late. Exit interviews might surface useful insights, but they can’t undo the fact that employees are already walking out the door. Even stay interviews—meant to get ahead of problems—become a box-checking exercise, more about HR optics than improving the workplace.\nIn tough economic times, employee experience tends to take a backseat to productivity. Companies slip into old habits, reducing workforce investments and pushing people to “do more with less.” After all, employees should just be grateful to have jobs, right? People end up tolerating less-than-great environments to keep their paychecks. It’s an unfortunate cycle that keeps repeating.\nThe deskless perspective\nThis cycle plays out differently on the frontline.…",
+          "link": "https://bigthink.com/plus/the-frontline-manager-effect/",
+          "publishedOn": "2025-09-22T19:01:07.000Z",
+          "wordCount": 2232,
+          "title": "The frontline manager effect: Why some teams thrive while others burn out",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/JD-dillon_frontline-teams3-1-1.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-to-greet-the-dawn-of-future-state-predictive-intelligence/",
           "author": "Mike Hodgkinson",
