@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-23T00:18:21.763Z</updated>
+    <updated>2025-09-23T06:06:53.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Big Bang doesn’t mean what it used to]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/big-bang-meaning/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/big-bang-meaning/"/>
+        <updated>2025-09-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If there’s one hallmark inherent to science, it’s that our understanding of how the Universe works is always open to revision in the face of new evidence. Whenever our prevailing picture of reality — including the rules it plays by, the physical contents of a system, and how it evolved from its initial conditions to the present time — gets challenged by new experimental or observational data, we must open our minds to changing our conceptual picture of the cosmos. This has happened many times since the dawn of the 20th century, and the words we use to describe our Universe have shifted in meaning as our understanding has evolved.
+Yet, there are always those who cling to the old definitions, much like linguistic prescriptivists, who refuse to acknowledge that these changes have occurred. Bu…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protected: I’ve Gone to Look for America]]></title>
+        <id>https://magazine.atavist.com/?p=49547</id>
+        <link href="https://magazine.atavist.com/2025/america-i95-conversations-trump"/>
+        <updated>2025-09-23T02:27:16.000Z</updated>
+        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
+The post Protected: I’ve Gone to Look for America appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley Lab scientists feel like they have Trump’s ‘ax hanging above their head’]]></title>
         <id>https://www.berkeleyside.org/?p=544109</id>
@@ -6151,17 +6173,6 @@ The post Conversations with a Hit Man appeared first on The Atavist Magazine.]]>
 The post Protected: Conversations with a Hit Man appeared first on The Atavist Magazine.]]></summary>
         <author>
             <name>David Howard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Pyramid-Like Shape Always Lands the Same Side Up]]></title>
-        <id>https://www.quantamagazine.org/?p=151656</id>
-        <link href="https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/"/>
-        <updated>2025-06-25T14:34:34.000Z</updated>
-        <summary type="html"><![CDATA[A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.            
-The post A New Pyramid-Like Shape Always Lands the Same Side Up first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Elise Cutts</name>
         </author>
     </entry>
 </feed>

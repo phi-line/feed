@@ -491,16 +491,6 @@
           "wordCount": 8112,
           "title": "How Does Graph Theory Shape Our World?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep8-MARIA-CHUDNOVSKY-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151656",
-          "author": "Elise Cutts",
-          "description": "A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.            \nThe post A New Pyramid-Like Shape Always Lands the Same Side Up first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
-          "publishedOn": "2025-06-25T14:34:34.000Z",
-          "wordCount": 3343,
-          "title": "A New Pyramid-Like Shape Always Lands the Same Side Up",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Tetrafun_cr-Gabor-Domokos-Social.jpg"
         }
       ]
     },
@@ -903,6 +893,16 @@
       "feedUrl": "https://magazine.atavist.com/feed",
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
+        {
+          "id": "https://magazine.atavist.com/?p=49547",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: I’ve Gone to Look for America appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/america-i95-conversations-trump",
+          "publishedOn": "2025-09-23T02:27:16.000Z",
+          "wordCount": 1560,
+          "title": "Protected: I’ve Gone to Look for America",
+          "imageUrl": null
+        },
         {
           "id": "https://magazine.atavist.com/?p=49194",
           "author": "Ed Johnson",
@@ -5516,6 +5516,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/big-bang-meaning/",
+          "author": "Ethan Siegel",
+          "description": "If there’s one hallmark inherent to science, it’s that our understanding of how the Universe works is always open to revision in the face of new evidence. Whenever our prevailing picture of reality — including the rules it plays by, the physical contents of a system, and how it evolved from its initial conditions to the present time — gets challenged by new experimental or observational data, we must open our minds to changing our conceptual picture of the cosmos. This has happened many times since the dawn of the 20th century, and the words we use to describe our Universe have shifted in meaning as our understanding has evolved.\nYet, there are always those who cling to the old definitions, much like linguistic prescriptivists, who refuse to acknowledge that these changes have occurred. Bu…",
+          "link": "https://bigthink.com/starts-with-a-bang/big-bang-meaning/",
+          "publishedOn": "2025-09-23T06:00:00.000Z",
+          "wordCount": 4614,
+          "title": "The Big Bang doesn’t mean what it used to",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_5fa0a88e21fec1f57da23ea2_When-a-black-hole-is-formed-one-idea-is-that-it-gives-birth-to-a-new-baby-Universe-_960x0-e1758146716422.jpg?w=912&h=513&crop=1"
+        },
         {
           "id": "https://bigthink.com/plus/the-frontline-manager-effect/",
           "author": "JD Dillon",
