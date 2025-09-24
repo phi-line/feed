@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155208",
+          "author": "Ben Brubaker",
+          "description": "Naomi Saphra thinks that most research into language models focuses too much on the finished product. She’s mining the history of their training for insights into why these systems work the way they do.            \nThe post To Understand AI, Watch How It Evolves first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/to-understand-ai-watch-how-it-evolves-20250924/",
+          "publishedOn": "2025-09-24T13:45:09.000Z",
+          "wordCount": 3130,
+          "title": "To Understand AI, Watch How It Evolves",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/09/Naomi-Saphra-cr-Ken-Richardson-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155143",
           "author": "Leila Sloman",
           "description": "Two mathematicians have proved that a straightforward question — how hard is it to untie a knot? — has a complicated answer.            \nThe post A Simple Way To Measure Knots Has Come Unraveled first appeared on Quanta Magazine",
@@ -1299,16 +1309,6 @@
           "wordCount": 204,
           "title": "Dehumidifier",
           "imageUrl": "https://imgs.xkcd.com/comics/dehumidifier_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3108/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3108/",
-          "publishedOn": "2025-06-27T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Laser Danger",
-          "imageUrl": "https://imgs.xkcd.com/comics/laser_danger_2x.png"
         }
       ]
     },
@@ -1681,6 +1681,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=530792",
+          "author": "Alex N. Gecan",
+          "description": "Casey R. Goonan, 35, admitted to lighting fires around Cal’s campus, torching a UCPD cruiser and unsuccessfully trying to firebomb a federal building in Oakland in solidarity with pro-Palestine protesters.",
+          "link": "https://www.berkeleyside.org/2025/09/24/casey-r-goonan-ucpd-cruiser-oakland-federal-building",
+          "publishedOn": "2025-09-24T16:02:58.000Z",
+          "wordCount": 7660,
+          "title": "UC Berkeley police car firebomber sentenced to 20 years in prison",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/07/Goonan02.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=461791",
+          "author": "Darwin BondGraham",
+          "description": "Immigration agents detained a man attending a court hearing at Wiley Manuel Courthouse, according to the public defender.",
+          "link": "https://www.berkeleyside.org/2025/09/24/ice-arrest-oakland-courthouse-alameda-count",
+          "publishedOn": "2025-09-24T14:00:00.000Z",
+          "wordCount": 7161,
+          "title": "ICE arrest inside Alameda County courthouse blasted by public defender, local leaders",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25262448205169.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=461666",
+          "author": "Jose Fermoso",
+          "description": "The Trump administration chose not to renew the program. Tax credits for buying an electric car also end Sept. 30.",
+          "link": "https://www.berkeleyside.org/2025/09/24/zero-emission-carpool-stickers-expiring",
+          "publishedOn": "2025-09-24T13:00:00.000Z",
+          "wordCount": 7112,
+          "title": "Zero-emission carpool stickers expire in 7 days. Are you ready?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20240831_D7_EG_022-scaled-1.jpg?fit=2560%2C1707&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=544175",
           "author": "Alex N. Gecan",
@@ -4542,6 +4572,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/karma-2000-slashdot-bowienet-v2/",
+          "author": null,
+          "description": "Slashdot homepage, 20 June 2000; via Wayback Machine.\nFor the first several months of 2000, David Bowie’s website was a work in progress. BowieNet was undergoing a redesign, which had originally been scheduled to go-live at the end of January. But like many other software projects before and since, it got delayed. Finally, in May, the new version of BowieNet was launched.\n“There are some exciting and great new features including new 'points' system accumulator, new message boards, Beatnik enhanced pages [an interactive audio technology], web based email for all members, 10 meg of free web space, your personal profile, [and] your own account section,” wrote Paul Kinder on his fan site BowieWonderworld.\n\nBowieNet version 2 design, by Polished Solid for Nettmedia.\n“BowieNet Version 2.0,” as i…",
+          "link": "https://cybercultural.com/p/karma-2000-slashdot-bowienet-v2/",
+          "publishedOn": "2025-09-24T00:00:00.000Z",
+          "wordCount": 2163,
+          "title": "Social Karma in 2000 With Slashdot and BowieNet Version 2.0",
+          "imageUrl": "https://cybercultural.com/assets/images/slashdot-june2000-1280x720b.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/blogs-rss-2000/",
           "author": null,
           "description": "Photo of the Seattle Central Library, taken 1 January 2000 by Thomas Hawk.\nBy the start of 2000, blogging was becoming a communal activity. One of its pioneers, Cameron Barrett, had a “Sites I Visit Often” list in his sidebar that had gotten longer over the past year and now included many weblogs. Although there wasn’t a word for this kind of list at the time, it would eventually become known as a “blogroll” (the earliest reference to this term I could find was Doc Searls in December 2000, who used the word “blogrolling” as a subheader).\n\nCamWorld's impressive \"blogroll\" in March 2000, even though the term hadn't yet been coined.\nSome webloggers were even meeting in person. On 20 February, Jessamyn West wrote in her online journal: “I had a nice day. Mucked about in the morning, headed to …",
@@ -5061,21 +5101,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/how-to-organize-your-thoughts-with-a-simple-bullet-list/507664ldsdl.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/water-lilies-water-lilies-everywhere",
-          "author": null,
-          "description": "Patterns are anti-randomness and thought is made of pattern-stuff",
-          "link": "https://aethermug.com/posts/water-lilies-water-lilies-everywhere?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-06-27T04:26:39.000Z",
-          "wordCount": 5323,
-          "title": "Water Lilies, Water Lilies Everywhere",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/water-lilies-water-lilies-everywhere/simpleplanet.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/water-lilies-water-lilies-everywhere/simpleplanet.jpg"
         }
       ]
     },
@@ -5084,6 +5109,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/6y53puvSbYg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/6y53puvSbYg",
+          "publishedOn": "2025-09-24T12:00:14.000Z",
+          "wordCount": 2309,
+          "title": "@carlosvives revisits songs from La Tierra del Olvido with a 12-piece band at the Tiny Desk.⁠  🎶⁠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/QSUb0m0Typg",
           "author": null,
@@ -5571,6 +5606,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/are-you-an-effective-trailblazer/",
+          "author": "James Patterson, Patrick Leddin",
+          "description": "Trailblazers are especially sensitive to indicators — always powerful, yet often subtle — that signal it’s time for a change. \nImagine waking up to a persistent signal. Your intuition acknowledges your many achievements but senses the potential for different experiences. \nPerhaps while working your current job or engaged in daily activities, you find yourself frequently lost in thoughts of a life more in tune with your deepest passions. When the endeavors that once sparked joy and excitement in you no longer fuel the fire inside but deplete it, it’s a clear sign that a new path awaits. \nAt night, as the world quiets down, do you find yourself wide‑awake, your mind filled with visions that refuse to be ignored? Problems to be solved, or opportunities that have somehow chosen you, whispering…",
+          "link": "https://bigthink.com/business/are-you-an-effective-trailblazer/",
+          "publishedOn": "2025-09-24T13:00:00.000Z",
+          "wordCount": 1943,
+          "title": "Are you an effective trailblazer?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/disrupt-everything_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/brain-briefs-experts-define-consciousness/",
+          "author": "Christof Koch, Deepak Chopra, Sam Harris, Daniel Dennett",
+          "description": "How does self-awareness connect us to others, society, and the universe? 4 experts explain.\nChristof Koch, PhD, Daniel Dennett, PhD, Sam Harris, PhD, and Deepak Chopra, MD—four thinkers from neuroscience, philosophy, biology, and medicine—each share their own interpretation of consciousness, combining their ideas to paint one massive, mysterious picture of what it means to be an awakened being.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Experts from 4 different fields define consciousness is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/brain-briefs-experts-define-consciousness/",
+          "publishedOn": "2025-09-24T13:00:00.000Z",
+          "wordCount": 2336,
+          "title": "Experts from 4 different fields define consciousness",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-Brain-Briefs-Consciousness-Web-C.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang/",
           "author": "Ethan Siegel",
@@ -6318,6 +6373,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=6825",
+          "author": "Jessica Hylton",
+          "description": "This vegan Apple, Pecan and Feta Salad is loaded with fall flavours! It’s sweet and crunchy, with a peppery maple apple vinaigrette to bring it all together. The origin story of this salad is the same as so many salads you’ve probably made too—I had the ingredients on hand and I threw them together because I needed […]",
+          "link": "https://jessicainthekitchen.com/apple-pecan-feta-salad-honey-apple-dressing/",
+          "publishedOn": "2025-09-24T14:00:00.000Z",
+          "wordCount": 5301,
+          "title": "Apple, Pecan and “Feta” Salad (The Perfect Fall Salad Recipe!)",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/08/Apple-Pecan-Salad0006.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=69974",
           "author": "Jessica from Jessica in the Kitchen",
