@@ -1692,6 +1692,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=544175",
+          "author": "Alex N. Gecan",
+          "description": "Stricter towing enforcement could be paired with some sort of safe parking arrangement for people who live in RVs, but where and when remain to be seen.",
+          "link": "https://www.berkeleyside.org/2025/09/23/west-berkeley-rep-wants-to-make-it-easier-for-city-to-tow-rvs",
+          "publishedOn": "2025-09-23T23:18:23.000Z",
+          "wordCount": 8756,
+          "title": "West Berkeley council rep wants to make it easier for city to tow RVs",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/img_2743_720.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544033",
+          "author": "Morgan McFall-Johnsen",
+          "description": "From a Berkeley Hills control room, a small team from Cal’s Space Sciences Laboratory is preparing to lead its first mission to the red planet.",
+          "link": "https://www.berkeleyside.org/2025/09/23/uc-berkeley-space-sciences-laboratory",
+          "publishedOn": "2025-09-23T21:00:00.000Z",
+          "wordCount": 8313,
+          "title": "UC Berkeley is about to go to Mars",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/53919873152_9b0ede597e_k.jpg?fit=2048%2C1536&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=544142",
           "author": "Alex N. Gecan",
           "description": "Temperatures will drop Wednesday but the Bay Area could be at risk from dry lightning, according to the National Weather Service.",
@@ -4872,6 +4892,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/what-s-the-deal-with-counterfeit-people",
+          "author": null,
+          "description": "I asked a counterfeit person about it",
+          "link": "https://aethermug.com/posts/what-s-the-deal-with-counterfeit-people?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-09-24T00:58:45.000Z",
+          "wordCount": 2631,
+          "title": "What's the Deal With Counterfeit People?",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/what-s-the-deal-with-counterfeit-people/walker.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/what-s-the-deal-with-counterfeit-people/walker.jpeg"
+        },
         {
           "id": "https://aethermug.com/posts/hi-no-youjin",
           "author": null,
