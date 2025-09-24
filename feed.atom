@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-24T00:18:08.323Z</updated>
+    <updated>2025-09-24T06:06:43.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The strongest evidence for a Universe before the Big Bang]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang/"/>
+        <updated>2025-09-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The notion of the Big Bang goes back nearly 100 years, when the first evidence for the expanding Universe appeared. If the Universe is expanding and cooling today, that implies a past that was smaller, denser, and hotter. In our imaginations, we can extrapolate back to arbitrarily small sizes, high densities, and hot temperatures: all the way to a singularity, where all of the Universe’s matter and energy was condensed in a single point. For many decades, these two notions of the Big Bang — of the hot dense state that describes the early Universe and the initial singularity — were inseparable.
+But beginning in the 1970s, scientists started identifying some puzzles surrounding the Big Bang, noting several properties of the Universe that weren’t explainable within the context of these two no…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's the Deal With Counterfeit People?]]></title>
         <id>https://aethermug.com/posts/what-s-the-deal-with-counterfeit-people</id>
@@ -6352,17 +6363,6 @@ The post When Did Nature Burst Into Vivid Color? first appeared on Quanta Magazi
         <updated>2025-06-27T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Graph Theory Shape Our World?]]></title>
-        <id>https://www.quantamagazine.org/?p=151700</id>
-        <link href="https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/"/>
-        <updated>2025-06-26T13:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Maria Chudnovsky reflects on her journey in graph theory, her groundbreaking solution to the long-standing perfect graph problem, and the unexpected ways this abstract field intersects with everyday life.            
-The post How Does Graph Theory Shape Our World? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
         </author>
     </entry>
 </feed>

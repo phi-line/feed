@@ -481,16 +481,6 @@
           "wordCount": 3316,
           "title": "When Did Nature Burst Into Vivid Color?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/ColorEvolution-crUnderwaterpics_iStock-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151700",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "Maria Chudnovsky reflects on her journey in graph theory, her groundbreaking solution to the long-standing perfect graph problem, and the unexpected ways this abstract field intersects with everyday life.            \nThe post How Does Graph Theory Shape Our World? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/",
-          "publishedOn": "2025-06-26T13:34:35.000Z",
-          "wordCount": 8112,
-          "title": "How Does Graph Theory Shape Our World?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep8-MARIA-CHUDNOVSKY-Social-LOGO.jpg"
         }
       ]
     },
@@ -5581,6 +5571,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang/",
+          "author": "Ethan Siegel",
+          "description": "The notion of the Big Bang goes back nearly 100 years, when the first evidence for the expanding Universe appeared. If the Universe is expanding and cooling today, that implies a past that was smaller, denser, and hotter. In our imaginations, we can extrapolate back to arbitrarily small sizes, high densities, and hot temperatures: all the way to a singularity, where all of the Universe’s matter and energy was condensed in a single point. For many decades, these two notions of the Big Bang — of the hot dense state that describes the early Universe and the initial singularity — were inseparable.\nBut beginning in the 1970s, scientists started identifying some puzzles surrounding the Big Bang, noting several properties of the Universe that weren’t explainable within the context of these two no…",
+          "link": "https://bigthink.com/starts-with-a-bang/evidence-universe-before-big-bang/",
+          "publishedOn": "2025-09-24T06:00:00.000Z",
+          "wordCount": 4459,
+          "title": "The strongest evidence for a Universe before the Big Bang",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/10/1567216918102-PLANCK_FSM_03_Black_Regions_v02_molecular_clouds_frame_orig-e1758147545133.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-long-game/why-the-ai-megasystem-problem-needs-our-attention/",
           "author": "Eric Markowitz",
