@@ -941,6 +941,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3146/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3146/",
+          "publishedOn": "2025-09-24T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Fantastic Four",
+          "imageUrl": "https://imgs.xkcd.com/comics/fantastic_four_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3145/",
           "author": null,
           "description": "",
@@ -1681,6 +1691,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=544207",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/09/24/cafe-brusco-rose-olivia-coffee-flower-openings",
+          "publishedOn": "2025-09-24T19:00:00.000Z",
+          "wordCount": 6849,
+          "title": "Rose Pizzeria team debuts Cafe Brusco; specialty coffee and blooms arrive in Downtown Oakland",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/CafeBrusco-Berkeley-Lapan.jpg?fit=2000%2C1447&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=530792",
           "author": "Alex N. Gecan",

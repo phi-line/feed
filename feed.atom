@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-24T18:06:38.424Z</updated>
+    <updated>2025-09-25T00:18:09.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rose Pizzeria team debuts Cafe Brusco; specialty coffee and blooms arrive in Downtown Oakland]]></title>
+        <id>https://www.berkeleyside.org/?p=544207</id>
+        <link href="https://www.berkeleyside.org/2025/09/24/cafe-brusco-rose-olivia-coffee-flower-openings"/>
+        <updated>2025-09-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UC Berkeley police car firebomber sentenced to 20 years in prison]]></title>
         <id>https://www.berkeleyside.org/?p=530792</id>
@@ -102,6 +112,15 @@ This video Experts from 4 different fields define consciousness is featured on B
 But beginning in the 1970s, scientists started identifying some puzzles surrounding the Big Bang, noting several properties of the Universe that weren’t explainable within the context of these two no…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantastic Four]]></title>
+        <id>https://xkcd.com/3146/</id>
+        <link href="https://xkcd.com/3146/"/>
+        <updated>2025-09-24T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
