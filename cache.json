@@ -481,16 +481,6 @@
           "wordCount": 2829,
           "title": "Researchers Uncover Hidden Ingredients Behind AI Creativity",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/TheoryofCreativity-crAdrianAstorgano-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151759",
-          "author": "Molly Herring",
-          "description": "Scientists reconstructed 500 million years of evolutionary history to reveal which came first: colorful signals or the color vision needed to see them.             \nThe post When Did Nature Burst Into Vivid Color? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/",
-          "publishedOn": "2025-06-27T14:29:45.000Z",
-          "wordCount": 3316,
-          "title": "When Did Nature Burst Into Vivid Color?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/06/ColorEvolution-crUnderwaterpics_iStock-Social.jpg"
         }
       ]
     },
@@ -1673,16 +1663,6 @@
           "wordCount": 10251,
           "title": "The Ascendance Of Algorithmic Tyranny",
           "imageUrl": "https://noemamag.imgix.net/2025/06/modernity_finalfile.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7082063047c5efca7f3445b3736efc82"
-        },
-        {
-          "id": "https://www.noemamag.com/denouement-in-the-middle-east",
-          "author": "Nathan Gardels",
-          "description": "The post Denouement In The Middle East appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/denouement-in-the-middle-east",
-          "publishedOn": "2025-06-27T16:38:50.000Z",
-          "wordCount": 4700,
-          "title": "Denouement In The Middle East",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/Noema-Magazine-Denouement-in-the-Middle-East-Mr.Nelson-design.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4877c113626507ae025e8375ee321d80"
         }
       ]
     },
@@ -5626,6 +5606,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/",
+          "author": "Ethan Siegel",
+          "description": "When it comes to the physical Universe, the notion of “nothing” may truly be possible only in theory, not in practice. As we see the Universe today, it appears full of stuff: matter, radiation, antimatter, neutrinos, and even dark matter and dark energy, despite the fact that we don’t truly know the ultimate, fundamental nature of the latter two. Yet even if you took away every single quantum of energy, somehow removing it from the Universe entirely, you wouldn’t be left with an empty Universe. No matter how much you take out of it, the Universe will always generate new forms of energy.\nHow is this possible? It’s like the Universe itself doesn’t understand our idea of “nothing” at all; if we were to remove all the quanta of energy from our Universe, leaving behind only empty space, we woul…",
+          "link": "https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/",
+          "publishedOn": "2025-09-25T06:00:00.000Z",
+          "wordCount": 3936,
+          "title": "Even before the Big Bang, space wasn’t truly empty",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/blackhole-e1707437084280.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/are-you-an-effective-trailblazer/",
           "author": "James Patterson, Patrick Leddin",

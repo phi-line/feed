@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-25T00:18:09.961Z</updated>
+    <updated>2025-09-25T06:06:45.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Even before the Big Bang, space wasn’t truly empty]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/"/>
+        <updated>2025-09-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the physical Universe, the notion of “nothing” may truly be possible only in theory, not in practice. As we see the Universe today, it appears full of stuff: matter, radiation, antimatter, neutrinos, and even dark matter and dark energy, despite the fact that we don’t truly know the ultimate, fundamental nature of the latter two. Yet even if you took away every single quantum of energy, somehow removing it from the Universe entirely, you wouldn’t be left with an empty Universe. No matter how much you take out of it, the Universe will always generate new forms of energy.
+How is this possible? It’s like the Universe itself doesn’t understand our idea of “nothing” at all; if we were to remove all the quanta of energy from our Universe, leaving behind only empty space, we woul…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rose Pizzeria team debuts Cafe Brusco; specialty coffee and blooms arrive in Downtown Oakland]]></title>
         <id>https://www.berkeleyside.org/?p=544207</id>
@@ -6444,27 +6455,6 @@ Up until now, I was sceptical about viral recipes. Is anyone still making the ba
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denouement In The Middle East]]></title>
-        <id>https://www.noemamag.com/denouement-in-the-middle-east</id>
-        <link href="https://www.noemamag.com/denouement-in-the-middle-east"/>
-        <updated>2025-06-27T16:38:50.000Z</updated>
-        <summary type="html"><![CDATA[The post Denouement In The Middle East appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Did Nature Burst Into Vivid Color?]]></title>
-        <id>https://www.quantamagazine.org/?p=151759</id>
-        <link href="https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/"/>
-        <updated>2025-06-27T14:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Scientists reconstructed 500 million years of evolutionary history to reveal which came first: colorful signals or the color vision needed to see them.             
-The post When Did Nature Burst Into Vivid Color? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Molly Herring</name>
         </author>
     </entry>
 </feed>
