@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-25T06:06:45.953Z</updated>
+    <updated>2025-09-25T12:07:39.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chuwi: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=r3ZPhIZ6_bM</id>
+        <link href="https://www.youtube.com/watch?v=r3ZPhIZ6_bM"/>
+        <updated>2025-09-25T09:01:21.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Even before the Big Bang, space wasn’t truly empty]]></title>
         <id>https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/</id>
@@ -66,6 +75,16 @@ How is this possible? It’s like the Universe itself doesn’t understand our i
 The post To Understand AI, Watch How It Evolves first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Chai block party, stuffed animal sleepover at the library, poetry reading]]></title>
+        <id>https://www.berkeleyside.org/?p=544281</id>
+        <link href="https://www.berkeleyside.org/2025/09/24/around-berkeley-things-to-do-in-berkeley-sept-25-to-oct-2"/>
+        <updated>2025-09-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a panel discussion featuring Pulitzer finalist Cathy Park Hong and a performance by jazz great Carmen Lundy.]]></summary>
+        <author>
+            <name>Iris Kwok and Andrew Gilbert</name>
         </author>
     </entry>
     <entry>
