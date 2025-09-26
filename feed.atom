@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-26T00:18:05.924Z</updated>
+    <updated>2025-09-26T06:06:34.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Where are we located relative to the Big Bang?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/where-big-bang/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/where-big-bang/"/>
+        <updated>2025-09-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult concepts for anyone — even a professional astrophysicist — to wrap their minds around is the idea of the Big Bang and the expanding Universe. Off in the far-flung distance, at the limit of what even our most powerful telescopes can see, are galaxies speeding away from us so quickly that the light their stars emitted has been stretched to as much as twelve times their original wavelength. These stretched light waves are a consequence of the expanding Universe, and they are nearly, but not quite, identical for galaxies that we see in all directions in space.
+Does that difference, and the fact that one direction has a slightly greater redshift for its objects than the opposite direction, tell us anything about where, all those billions of years ago, the Big Bang actu…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Charlie Kirk’s campus tour to make final stop at UC Berkeley]]></title>
+        <id>https://www.berkeleyside.org/?p=544299</id>
+        <link href="https://www.berkeleyside.org/2025/09/25/the-wire-turning-point-usa-american-comeback-tour-berkeley"/>
+        <updated>2025-09-26T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Peyrin Kao, one of the 160 students and staff whose names were turned over to the Trump administration, has been on a hunger strike for a month now protesting the tech industry's role “in Israel’s genocide in Gaza.”]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to prepare for the next earthquake in Berkeley]]></title>
         <id>https://oaklandside.org/?p=461952</id>
