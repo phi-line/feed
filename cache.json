@@ -941,6 +941,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3147/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3147/",
+          "publishedOn": "2025-09-26T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Hiking",
+          "imageUrl": "https://imgs.xkcd.com/comics/hiking_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3146/",
           "author": null,
           "description": "",
@@ -1711,6 +1721,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=544359",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/09/26/wah-jee-wah-bounty-hunter-restaurants-closing",
+          "publishedOn": "2025-09-26T20:00:00.000Z",
+          "wordCount": 6739,
+          "title": "Indian street food icon Wah jee Wah shutters, but not all is lost",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/wahjeewa-skewers.jpg?fit=1009%2C639&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=461974",
+          "author": "Roselyn Romero",
+          "description": "The Sept. 15 arrest of a man inside the Wiley W. Manuel Courthouse exposed the weakness of state and local efforts to make courts accessible and safe.",
+          "link": "https://www.berkeleyside.org/2025/09/26/ice-arrest-oakland-courthouse-alameda-county",
+          "publishedOn": "2025-09-26T18:08:26.000Z",
+          "wordCount": 7829,
+          "title": "ICE entered an Oakland courthouse. Court officials didn’t know agents were in the building",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Wiley-W-Manuel-Courthouse-in-Oakland.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=544345",
           "author": "Momo Chang",
