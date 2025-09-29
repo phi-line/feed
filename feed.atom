@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-29T00:18:55.171Z</updated>
+    <updated>2025-09-29T06:07:39.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 5 biggest mysteries about the origin of our Universe]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/5-biggest-mysteries-origin-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/5-biggest-mysteries-origin-universe/"/>
+        <updated>2025-09-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last 100 years, we’ve discovered where our Universe came from.
+
+A period of cosmic inflation stretched space flat, seeding the Universe with quantum fluctuations.
+
+From a region of space as small as can be imagined (all the way down to the Planck scale), cosmological inflation causes space to expand exponentially: relentlessly doubling and doubling again with each tiny fraction-of-a-second that elapses. Although this empties the Universe and stretches it flat, it also contains quantum fluctuations superimposed atop it: fluctuations that will later provide the seeds for cosmic structure within our own Universe. What happened before the final ~10^-32 seconds of inflation, including the question of whether inflation arose from a singular state before it, not only isn’t known, but may…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s vegan recipe for tofu meatballs in lemongrass curry | The new vegan]]></title>
         <id>https://www.theguardian.com/food/2025/sep/27/vegan-tofu-meatballs-recipe-lemongrass-curry-meera-sodha</id>
@@ -6683,16 +6697,6 @@ The post Physicists Start To Pin Down How Stars Forge Heavy Atoms first appeared
         <updated>2025-07-02T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ascendance Of Algorithmic Tyranny]]></title>
-        <id>https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny</id>
-        <link href="https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny"/>
-        <updated>2025-07-01T16:51:05.000Z</updated>
-        <summary type="html"><![CDATA[The post The Ascendance Of Algorithmic Tyranny appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Petter Törnberg</name>
         </author>
     </entry>
 </feed>

@@ -1663,16 +1663,6 @@
           "wordCount": 9130,
           "title": "To Save Nature, Make It Sacred",
           "imageUrl": "https://noemamag.imgix.net/2025/06/ResacralNature_FN.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f0f041a82894c62f5fc0438cf526bc88"
-        },
-        {
-          "id": "https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny",
-          "author": "Petter Törnberg",
-          "description": "The post The Ascendance Of Algorithmic Tyranny appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny",
-          "publishedOn": "2025-07-01T16:51:05.000Z",
-          "wordCount": 10251,
-          "title": "The Ascendance Of Algorithmic Tyranny",
-          "imageUrl": "https://noemamag.imgix.net/2025/06/modernity_finalfile.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7082063047c5efca7f3445b3736efc82"
         }
       ]
     },
@@ -5746,6 +5736,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/5-biggest-mysteries-origin-universe/",
+          "author": "Ethan Siegel",
+          "description": "Over the last 100 years, we’ve discovered where our Universe came from.\n\nA period of cosmic inflation stretched space flat, seeding the Universe with quantum fluctuations.\n\nFrom a region of space as small as can be imagined (all the way down to the Planck scale), cosmological inflation causes space to expand exponentially: relentlessly doubling and doubling again with each tiny fraction-of-a-second that elapses. Although this empties the Universe and stretches it flat, it also contains quantum fluctuations superimposed atop it: fluctuations that will later provide the seeds for cosmic structure within our own Universe. What happened before the final ~10^-32 seconds of inflation, including the question of whether inflation arose from a singular state before it, not only isn’t known, but may…",
+          "link": "https://bigthink.com/starts-with-a-bang/5-biggest-mysteries-origin-universe/",
+          "publishedOn": "2025-09-29T06:00:00.000Z",
+          "wordCount": 3183,
+          "title": "The 5 biggest mysteries about the origin of our Universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/spect_cover.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/upwards-immobility/",
           "author": "Derek Thompson",
