@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-29T18:06:59.319Z</updated>
+    <updated>2025-09-30T00:19:10.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lose something on BART? Here’s how to find it — maybe]]></title>
+        <id>https://richmondside.org/?p=455451</id>
+        <link href="https://www.berkeleyside.org/2025/09/29/bart-lost-and-found-in-oakland"/>
+        <updated>2025-09-29T23:49:53.000Z</updated>
+        <summary type="html"><![CDATA[BART's lost and found has processed everything from a backpack full of cash to mountains of car keys, phones and even two ukuleles.]]></summary>
+        <author>
+            <name>Thomas Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley will look into giving drones to police and firefighters]]></title>
+        <id>https://www.berkeleyside.org/?p=544447</id>
+        <link href="https://www.berkeleyside.org/2025/09/29/bpd-drone-proposal-terry-taplin-berkeley-city-council"/>
+        <updated>2025-09-29T20:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Berkeley’s council once toyed with trying to ban drones entirely. Now some council members want police and others to have them for chases, standoffs, rescues and disaster response.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Brain Balances Excitation and Inhibition]]></title>
         <id>https://www.quantamagazine.org/?p=155324</id>
