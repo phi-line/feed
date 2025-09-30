@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-30T00:19:10.803Z</updated>
+    <updated>2025-09-30T06:11:40.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The “atom” lost its original meaning, and that’s good for science]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/atom-lost-original-meaning-science/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/atom-lost-original-meaning-science/"/>
+        <updated>2025-09-30T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here on planet Earth, everything that we see, feel, or interact with is composed of atoms. There are approximately 90 naturally occurring species of atom that we can find on Earth, and approximately 30 more that we can synthesize under laboratory conditions. We’ve learned, thanks to the power of modern science, that atoms themselves are not fundamental, but rather can be divided into smaller chunks: electrons and an atomic nucleus, where the nucleus in turn can be further decomposed into protons and neutrons, which themselves are each made up of quarks and gluons. Only when we reach that deep of a level — the level of electrons, quarks, and gluons — do we encounter particles that are truly fundamental.
+But the word atom itself, derived from the Greek word ατομός, literally means uncuttable…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lose something on BART? Here’s how to find it — maybe]]></title>
         <id>https://richmondside.org/?p=455451</id>
@@ -115,6 +126,15 @@ A period of cosmic inflation stretched space flat, seeding the Universe with qua
 From a region of space as small as can be imagined (all the way down to the Planck scale), cosmological inflation causes space to expand exponentially: relentlessly doubling and doubling again with each tiny fraction-of-a-second that elapses. Although this empties the Universe and stretches it flat, it also contains quantum fluctuations superimposed atop it: fluctuations that will later provide the seeds for cosmic structure within our own Universe. What happened before the final ~10^-32 seconds of inflation, including the question of whether inflation arose from a singular state before it, not only isn’t known, but may…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100% All Achievements]]></title>
+        <id>https://xkcd.com/3148/</id>
+        <link href="https://xkcd.com/3148/"/>
+        <updated>2025-09-29T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -6784,17 +6804,6 @@ The post How Smell Guides Our Inner World first appeared on Quanta Magazine]]></
         <summary type="html"><![CDATA[Also: Abraham Chabon, an NYU student who grew up in Berkeley, has been charged with rape in Manhattan.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists Start To Pin Down How Stars Forge Heavy Atoms]]></title>
-        <id>https://www.quantamagazine.org/?p=151967</id>
-        <link href="https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/"/>
-        <updated>2025-07-02T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[The precursors of heavy elements might arise in the plasma underbellies of swollen stars or in smoldering stellar corpses. They definitely exist in East Lansing, Michigan.            
-The post Physicists Start To Pin Down How Stars Forge Heavy Atoms first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jenna Ahart</name>
         </author>
     </entry>
 </feed>

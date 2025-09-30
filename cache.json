@@ -481,16 +481,6 @@
           "wordCount": 4825,
           "title": "How Smell Guides Our Inner World",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/MolecularSmell-crMichaelWaraksa-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=151967",
-          "author": "Jenna Ahart",
-          "description": "The precursors of heavy elements might arise in the plasma underbellies of swollen stars or in smoldering stellar corpses. They definitely exist in East Lansing, Michigan.            \nThe post Physicists Start To Pin Down How Stars Forge Heavy Atoms first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/",
-          "publishedOn": "2025-07-02T14:00:18.000Z",
-          "wordCount": 3621,
-          "title": "Physicists Start To Pin Down How Stars Forge Heavy Atoms",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HeavyElementNucleosynthesis-crMarkBelan-Social.jpg"
         }
       ]
     },
@@ -946,6 +936,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3148/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3148/",
+          "publishedOn": "2025-09-29T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "100% All Achievements",
+          "imageUrl": "https://imgs.xkcd.com/comics/100_all_achievements_2x.png"
+        },
         {
           "id": "https://xkcd.com/3147/",
           "author": null,
@@ -5792,6 +5792,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/atom-lost-original-meaning-science/",
+          "author": "Ethan Siegel",
+          "description": "Here on planet Earth, everything that we see, feel, or interact with is composed of atoms. There are approximately 90 naturally occurring species of atom that we can find on Earth, and approximately 30 more that we can synthesize under laboratory conditions. We’ve learned, thanks to the power of modern science, that atoms themselves are not fundamental, but rather can be divided into smaller chunks: electrons and an atomic nucleus, where the nucleus in turn can be further decomposed into protons and neutrons, which themselves are each made up of quarks and gluons. Only when we reach that deep of a level — the level of electrons, quarks, and gluons — do we encounter particles that are truly fundamental.\nBut the word atom itself, derived from the Greek word ατομός, literally means uncuttable…",
+          "link": "https://bigthink.com/starts-with-a-bang/atom-lost-original-meaning-science/",
+          "publishedOn": "2025-09-30T06:00:00.000Z",
+          "wordCount": 4316,
+          "title": "The “atom” lost its original meaning, and that’s good for science",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/04/AdobeStock_239826175.jpeg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/smart-skills/liminal-spaces-neuroscience/",
           "author": "Anne-Laure Le Cunff",
