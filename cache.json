@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155374",
+          "author": "Philip Ball",
+          "description": "“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.            \nThe post A Thermometer for Measuring Quantumness first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/",
+          "publishedOn": "2025-10-01T14:07:27.000Z",
+          "wordCount": 4025,
+          "title": "A Thermometer for Measuring Quantumness",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Quantum-2nd-Law-cr-Daniel-Garcia-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155324",
           "author": "Yasemin Saplakoglu",
           "description": "A healthy brain maintains a harmony of neurons that excite or inhibit other neurons, but the lines between different types of cells are blurrier than researchers once thought.             \nThe post How the Brain Balances Excitation and Inhibition first appeared on Quanta Magazine",
@@ -616,6 +626,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/hyperspectral",
+          "author": "Niko McCarty",
+          "description": "Biotechnology needs more and better transducers.",
+          "link": "https://www.asimov.press/p/hyperspectral",
+          "publishedOn": "2025-10-01T15:14:51.000Z",
+          "wordCount": null,
+          "title": "Seeing Microbes from the Sky",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!OZQ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa646fa44-8e9c-4caf-80fd-8799815575a1_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!OZQ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa646fa44-8e9c-4caf-80fd-8799815575a1_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/cataracts",
           "author": "Asimov Press",
@@ -1295,16 +1321,6 @@
           "wordCount": 206,
           "title": "Geology Murder",
           "imageUrl": "https://imgs.xkcd.com/comics/geology_murder_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3111/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3111/",
-          "publishedOn": "2025-07-04T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Artificial Gravity",
-          "imageUrl": "https://imgs.xkcd.com/comics/artificial_gravity_2x.png"
         }
       ]
     },
@@ -1687,6 +1703,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=544404",
+          "author": "Nathan Dalton",
+          "description": "Gifted to the city by a wealthy banker in 1919, the steeply wooded park at the base of the Berkeley Hills is a draw for Shakespeare troupes and families.",
+          "link": "https://www.berkeleyside.org/2025/10/01/john-hinkel-park",
+          "publishedOn": "2025-10-01T16:55:00.000Z",
+          "wordCount": 8721,
+          "title": "Berkeley’s John Hinkel Park is a ‘dream world, green world’ for theater and nature lovers",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250929-182336.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544479",
+          "author": "Friends of Ann Fagan Ginger",
+          "description": "For refusing to sign a loyalty oath, she was barred from practicing law and targeted by the FBI. Founder of Berkeley's Meiklejohn Civil Liberties Institute, she pioneered the field of \"peace law,\" defended Angela Davis and wrote the resolution establishing Berkeley as a Human Rights City.",
+          "link": "https://www.berkeleyside.org/2025/10/01/obituary-ann-fagan-ginger",
+          "publishedOn": "2025-10-01T13:00:00.000Z",
+          "wordCount": 8048,
+          "title": "Remembering Ann Fagan Ginger, 100, ‘oracle of justice’ who fought McCarthyism and championed human rights",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Ann-car-1.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=544527",
           "author": "Nico Savidge",
@@ -4656,16 +4692,6 @@
           "wordCount": 7415,
           "title": "Remembering Dan Siegel, who told the crowd to take People’s Park on Bloody Thursday",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250704-204625.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=539939",
-          "author": "EdSource and Vanessa Arredondo",
-          "description": "The Trump administration froze $6.2 billion in federal education grants, including $811 million that was to fund teacher training, migrant education, and after-school programs in California.",
-          "link": "https://www.berkeleyside.org/2025/07/03/berkeley-unified-federal-grants-freeze-budget",
-          "publishedOn": "2025-07-04T00:47:45.000Z",
-          "wordCount": 8058,
-          "title": "$400K for Berkeley schools in limbo after Trump’s grant freeze",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-BUSD_Middle-School_-Willard-Aug-15-22.jpg"
         }
       ]
     },
@@ -4707,6 +4733,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/napster-itunes-2000/",
+          "author": null,
+          "description": "Shawn Fanning from Napster wearing a Metallica shirt to the 2000 MTV Awards; via Reddit.\nIn May 2000, Napster’s poster boy, Shawn Fanning, was featured on the cover of BusinessWeek magazine in a suit and bowtie, alongside four other “most influential people in electronic business.” Three of the four other companies represented — Yahoo, eBay and Amazon — were well established and successful dot-com businesses, and all would survive the internet economy downturn. The other company, Softbank, was a renowned investment bank.\nFanning was much younger than the other executives pictured (who included Jeff Bezos) and he was the only one on the cover not smiling. Perhaps Fanning’s grim visage was due to Napster’s legal issues — including the case brought by the Recording Industry Association of Ame…",
+          "link": "https://cybercultural.com/p/napster-itunes-2000/",
+          "publishedOn": "2025-10-01T00:00:00.000Z",
+          "wordCount": 2515,
+          "title": "2000: The Napster Monster and Apple’s Heavenly Jukebox",
+          "imageUrl": "https://cybercultural.com/assets/images/shawn-fanning-mtv-awards-2000-1280x720.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/karma-2000-slashdot-bowienet-v2/",
           "author": null,
@@ -5748,6 +5784,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/mini-philosophy/the-sci-fi-hypothesis-that-explains-why-you-click-with-certain-people/",
+          "author": "Jonny Thomson",
+          "description": "Not all conversations are the same.\nSometimes, you can be talking to someone for hours, and it feels like only a few minutes. You natter and natter without ever having to think of what to say or cringe through any awkward silence. There’s a gentle sway to things — you listen, they speak, they listen, you speak. The chat dances to the easy and comfortable rhythm of the conversational tide.\nAt other times, a conversation can feel like medieval torture. One-word answers litter the path toward your desperate, fumbling attempt to get away. You’ve already used the toilet excuse, you’ve got a full drink, so you’re stuck in your chatless hell with Captain Boring.\n“So, how often do you feed your dog?” you ask.\n“It depends.”\nSilence.\nIn this week’s Mini Philosophy interview, the neuroscientist Ben R…",
+          "link": "https://bigthink.com/mini-philosophy/the-sci-fi-hypothesis-that-explains-why-you-click-with-certain-people/",
+          "publishedOn": "2025-10-01T16:04:08.000Z",
+          "wordCount": 1909,
+          "title": "The sci-fi hypothesis that explains why you click with certain people",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/interbrain-connectivity_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/brain-briefs-the-power-of-rem/",
+          "author": "Patrick McNamara, Shelby Harris, Dave Asprey",
+          "description": "Sleep helps us recharge, but research suggests its impact is far larger than recharging our physical and mental batteries. \nAccording to Patrick McNamara PhD, Shelby Harris PsyD, DBSM, and Dave Asprey, sleep is imperative to restoring cells, regulating metabolism, consolidating memory, and synchronizing the body’s internal clocks. REM in particular aided human cultural evolution, allowing our ancestors to make creative leaps by connecting disparate ideas. With this powerful ability, humanity was able to advance past lives of pure survival and into ones filled with art, science, and culture.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video How REM sleep unlocks human function is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/brain-briefs-the-power-of-rem/",
+          "publishedOn": "2025-10-01T13:00:00.000Z",
+          "wordCount": 1756,
+          "title": "How REM sleep unlocks human function",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Sleep-Web-A.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/thousands-nasa-employees-bid-farewell/",
           "author": "Ethan Siegel",
           "description": "For the past 60+ years, the name NASA has been synonymous with humanity’s vision to dream about horizons far beyond the bounds of our terrestrial worries. NASA was the first agency in history to not only bring humans to the Moon, but to:\nsend rovers to Mars,\nreveal the distant galaxies lurking in the depths of deep space,\nsend orbiting missions directly to the outer planets,\nto land a probe on a moon of Saturn,\nto fly past Pluto,\nto send spacecraft beyond the limits of our own Solar System and into interstellar space,\nto have a spacecraft touch the Sun,\nalong with so many other accomplishments.\nPerhaps most importantly, NASA gave hope to the entire world. In addition to its endeavors in spaceflight, NASA brought to us the idea of space exploration, and using a presence in space to better u…",
@@ -6704,6 +6760,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=70444",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This spooky Monster Breakfast Sandwich is a scarily delicious way to kick off Halloween! Buttery vegan croissants are filled with savoury tofu scramble, mashed avocado slime, and veggies, forming a fun monster face! While I’ve always loved holidays, now that I’m a mom, I totally feel that need to make those fun holiday memories and […]",
+          "link": "https://jessicainthekitchen.com/monster-breakfast-sandwich/",
+          "publishedOn": "2025-10-01T14:00:00.000Z",
+          "wordCount": 5353,
+          "title": "Monster Breakfast Sandwich (Perfect for Halloween!)",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Vegan-Monster-Sandwich-12.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=13339",
           "author": "Jessica Hylton",
