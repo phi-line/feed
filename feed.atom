@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-01T00:21:08.093Z</updated>
+    <updated>2025-10-01T06:06:37.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thousands of NASA employees to bid farewell to the NASA they knew]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/thousands-nasa-employees-bid-farewell/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/thousands-nasa-employees-bid-farewell/"/>
+        <updated>2025-10-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the past 60+ years, the name NASA has been synonymous with humanity’s vision to dream about horizons far beyond the bounds of our terrestrial worries. NASA was the first agency in history to not only bring humans to the Moon, but to:
+send rovers to Mars,
+reveal the distant galaxies lurking in the depths of deep space,
+send orbiting missions directly to the outer planets,
+to land a probe on a moon of Saturn,
+to fly past Pluto,
+to send spacecraft beyond the limits of our own Solar System and into interstellar space,
+to have a spacecraft touch the Sun,
+along with so many other accomplishments.
+Perhaps most importantly, NASA gave hope to the entire world. In addition to its endeavors in spaceflight, NASA brought to us the idea of space exploration, and using a presence in space to better u…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some of Cal’s most majestic trees are looking sickly. Here’s why]]></title>
         <id>https://www.berkeleyside.org/?p=544527</id>
@@ -6828,47 +6847,6 @@ We eat a lot of omelettes in our house: they’re the perfect solution for an im
         <summary type="html"><![CDATA[Officials urge caution in sharing unconfirmed sightings.]]></summary>
         <author>
             <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half Price Books will close its downtown Berkeley store after 20 years]]></title>
-        <id>https://www.berkeleyside.org/?p=539915</id>
-        <link href="https://www.berkeleyside.org/2025/07/03/half-price-books-berkeley-closure"/>
-        <updated>2025-07-03T17:18:25.000Z</updated>
-        <summary type="html"><![CDATA[It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.]]></summary>
-        <author>
-            <name>Nathan Dalton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Berkeley gunfire map: Eight investigations halfway through year]]></title>
-        <id>https://www.berkeleyside.org/?p=531329</id>
-        <link href="https://www.berkeleyside.org/2025/07/03/2025-berkeley-gunfire-map"/>
-        <updated>2025-07-03T16:00:54.000Z</updated>
-        <summary type="html"><![CDATA[BPD investigated three reports of gunfire in June alone. City and university police previously investigated five other instances of gunfire this year, one with injuries.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smell Guides Our Inner World]]></title>
-        <id>https://www.quantamagazine.org/?p=152035</id>
-        <link href="https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/"/>
-        <updated>2025-07-03T14:27:32.000Z</updated>
-        <summary type="html"><![CDATA[A better understanding of human smell is emerging as scientists interrogate its fundamental elements: the odor molecules that enter your nose and the individual neurons that translate them into perception in your brain.            
-The post How Smell Guides Our Inner World first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Shakespeare’s ‘Cymbeline’ in the park, matcha workshop, Blake Garden tour]]></title>
-        <id>https://www.berkeleyside.org/?p=539878</id>
-        <link href="https://www.berkeleyside.org/2025/07/03/around-berkeley-things-to-do-july-3-to-july-10"/>
-        <updated>2025-07-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a Berkeley Latin Jazz Collective performance at North Beach Pizza and a new crochet club at Bobby G's Pizzeria.]]></summary>
-        <author>
-            <name>Iris Kwok and Andrew Gilbert</name>
         </author>
     </entry>
 </feed>
