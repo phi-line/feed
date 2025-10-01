@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-09-30T18:06:54.262Z</updated>
+    <updated>2025-10-01T00:21:08.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some of Cal’s most majestic trees are looking sickly. Here’s why]]></title>
+        <id>https://www.berkeleyside.org/?p=544527</id>
+        <link href="https://www.berkeleyside.org/2025/09/30/uc-berkeley-oak-trees-moth"/>
+        <updated>2025-09-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coast live oaks around the campus have dropped their leaves and turned gray and brown, even though they’re evergreens. Experts say the trees should recover soon.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dietary restrictions made Dubai chocolate a no-no for this East Bay chocolatier. So he made his own]]></title>
+        <id>https://www.berkeleyside.org/?p=544539</id>
+        <link href="https://www.berkeleyside.org/2025/09/30/coracao-dubai-chocolate-gluten-dairy-free"/>
+        <updated>2025-09-30T19:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Coracao Chocolate specializes in gluten-free, dairy-free and peanut-free treats made from scratch.]]></summary>
+        <author>
+            <name>Alix Wall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobel laureate George Smoot, who researched universe’s origins at UC Berkeley, dies at 80]]></title>
+        <id>https://www.berkeleyside.org/?p=544525</id>
+        <link href="https://www.berkeleyside.org/2025/09/30/obituary-george-smoot"/>
+        <updated>2025-09-30T19:27:25.000Z</updated>
+        <summary type="html"><![CDATA[He won the 2006 Nobel Prize for physics for finding the background radiation that finally pinned down the Big Bang theory of the universe’s beginning.]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the looming federal government shutdown could affect the Bay Area]]></title>
+        <id>https://oaklandside.org/?p=462096</id>
+        <link href="https://www.berkeleyside.org/2025/09/30/federal-government-shutdown-bay-area-alameda-county-berkeley"/>
+        <updated>2025-09-30T19:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Medicaid, Medicare, Affordable Care Act, and Social Security service should remain steady. But national parks and courts could see impacts.]]></summary>
+        <author>
+            <name>Adhiti Bandlamudi and Sarah Wright | KQED</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet these Berkeley craftspeople where they work]]></title>
         <id>https://www.berkeleyside.org/?p=543714</id>
@@ -6829,36 +6869,6 @@ The post How Smell Guides Our Inner World first appeared on Quanta Magazine]]></
         <summary type="html"><![CDATA[Other events include a Berkeley Latin Jazz Collective performance at North Beach Pizza and a new crochet club at Bobby G's Pizzeria.]]></summary>
         <author>
             <name>Iris Kwok and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Kathy Paxson, financial manager, crafter, creator of songs and games]]></title>
-        <id>https://www.berkeleyside.org/?p=539758</id>
-        <link href="https://www.berkeleyside.org/2025/07/03/kathy-paxson-obituary"/>
-        <updated>2025-07-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inquisitive and present, Rawson loved nature, pets and cooking and was active in the Berkeley Community Chorus and Orchestra and in Bella Musica.]]></summary>
-        <author>
-            <name>Family of Kathy Paxson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[burrata with crushed cherries and pistachios]]></title>
-        <id>https://smittenkitchen.com/?p=88755</id>
-        <link href="https://smittenkitchen.com/2025/07/burrata-with-crushed-cherries-and-pistachios/"/>
-        <updated>2025-07-03T11:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Save Nature, Make It Sacred]]></title>
-        <id>https://www.noemamag.com/to-save-nature-make-it-sacred</id>
-        <link href="https://www.noemamag.com/to-save-nature-make-it-sacred"/>
-        <updated>2025-07-03T11:37:09.000Z</updated>
-        <summary type="html"><![CDATA[The post To Save Nature, Make It Sacred appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Dimitris Xygalatas</name>
         </author>
     </entry>
 </feed>
