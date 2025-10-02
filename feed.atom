@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-01T18:06:31.318Z</updated>
+    <updated>2025-10-02T00:17:29.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evergreen Cafe picked up where Bartavelle left off; plus new Thai, fried chicken and diner options]]></title>
+        <id>https://www.berkeleyside.org/?p=544626</id>
+        <link href="https://www.berkeleyside.org/2025/10/01/leos-diner-evergreen-dao-artisan-5-star-chicken"/>
+        <updated>2025-10-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley’s John Hinkel Park is a ‘dream world, green world’ for theater and nature lovers]]></title>
         <id>https://www.berkeleyside.org/?p=544404</id>
