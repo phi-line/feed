@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-02T06:06:27.911Z</updated>
+    <updated>2025-10-02T12:07:25.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rubio: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=ygRywAXrdgA</id>
+        <link href="https://www.youtube.com/watch?v=ygRywAXrdgA"/>
+        <updated>2025-10-02T09:01:35.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What do distant observers see when they look at Earth?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/earth-across-universe/</id>
@@ -15,6 +24,28 @@
 Every observer in the Universe, so long as they haven’t spent a large amount of time traveling close to the speed of light (or in an extraordinarily large gravitation…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shake Up Your Boundaries]]></title>
+        <id>https://aethermug.com/posts/shake-up-your-boundaries</id>
+        <link href="https://aethermug.com/posts/shake-up-your-boundaries?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-10-02T05:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Six assorted examples]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replanting Articles: Bring Legacy Posts to Your Website]]></title>
+        <id>https://cybercultural.com/p/replanting/</id>
+        <link href="https://cybercultural.com/p/replanting/"/>
+        <updated>2025-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve begun a new archiving project: republishing articles I wrote a long time ago, but that have since disappeared from the web or been mangled in some way (for example, the page design is outdated or the content is out of place with its new surroundings).
+I’m calling this activity “replanting” — because it feels like moving a neglected plant, perhaps crowded by weeds and eaten by bugs, into a new garden, where it will be cared for and nurtured again.
+Of course, I’m borrowing from the digital garden approach to personal publishing advocated by Maggie Appleton and others.  Maggie even uses the term “plant” to mean posting an item (and “tend” to edit). That’s probably where the similarities end, because Maggie defines a digital garden as a collection of notes — “evolving ideas that aren’t st…]]></summary>
+        <author>
+            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
     <entry>
@@ -6920,16 +6951,6 @@ We eat a lot of omelettes in our house: they’re the perfect solution for an im
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Dan Siegel, who told the crowd to take People’s Park on Bloody Thursday]]></title>
-        <id>https://www.berkeleyside.org/?p=539992</id>
-        <link href="https://www.berkeleyside.org/2025/07/04/dan-siegel-obituary"/>
-        <updated>2025-07-04T21:15:14.000Z</updated>
-        <summary type="html"><![CDATA[Siegel later served as president of Oakland's school board and fought for workers, unions, and human rights advocates over five decades as a civil rights lawyer.]]></summary>
-        <author>
-            <name>Family of Dan Siegel</name>
         </author>
     </entry>
 </feed>
