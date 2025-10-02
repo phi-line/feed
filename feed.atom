@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-02T00:17:29.392Z</updated>
+    <updated>2025-10-02T06:06:27.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What do distant observers see when they look at Earth?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/earth-across-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/earth-across-universe/"/>
+        <updated>2025-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you view anything at all in the Universe, you’re not seeing it precisely as it is right now: at the moment you experience seeing it. The speed of light, even though it’s the fastest speed that any signal can travel throughout the Universe, is still finite. No matter how close or distant an object is, you’re only seeing it as it was a particular amount of time ago: at the moment the now-arriving light was emitted from the object you’re observing. The fact that light has to travel through space, from the emitted object to the observer that sees it, explains why there’s a gap that we have to fill in through inference alone.
+Every observer in the Universe, so long as they haven’t spent a large amount of time traveling close to the speed of light (or in an extraordinarily large gravitation…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evergreen Cafe picked up where Bartavelle left off; plus new Thai, fried chicken and diner options]]></title>
         <id>https://www.berkeleyside.org/?p=544626</id>
@@ -113,6 +124,15 @@ along with so many other accomplishments.
 Perhaps most importantly, NASA gave hope to the entire world. In addition to its endeavors in spaceflight, NASA brought to us the idea of space exploration, and using a presence in space to better u…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measure Twice, Cut Once]]></title>
+        <id>https://xkcd.com/3149/</id>
+        <link href="https://xkcd.com/3149/"/>
+        <updated>2025-10-01T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

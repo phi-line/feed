@@ -953,6 +953,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3149/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3149/",
+          "publishedOn": "2025-10-01T04:00:00.000Z",
+          "wordCount": 210,
+          "title": "Measure Twice, Cut Once",
+          "imageUrl": "https://imgs.xkcd.com/comics/measure_twice_cut_once_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3148/",
           "author": null,
           "description": "",
@@ -5793,6 +5803,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/earth-across-universe/",
+          "author": "Ethan Siegel",
+          "description": "When you view anything at all in the Universe, you’re not seeing it precisely as it is right now: at the moment you experience seeing it. The speed of light, even though it’s the fastest speed that any signal can travel throughout the Universe, is still finite. No matter how close or distant an object is, you’re only seeing it as it was a particular amount of time ago: at the moment the now-arriving light was emitted from the object you’re observing. The fact that light has to travel through space, from the emitted object to the observer that sees it, explains why there’s a gap that we have to fill in through inference alone.\nEvery observer in the Universe, so long as they haven’t spent a large amount of time traveling close to the speed of light (or in an extraordinarily large gravitation…",
+          "link": "https://bigthink.com/starts-with-a-bang/earth-across-universe/",
+          "publishedOn": "2025-10-02T06:00:00.000Z",
+          "wordCount": 4428,
+          "title": "What do distant observers see when they look at Earth?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/ezgif-2-c33f7616a2.gif?w=960&h=540&crop=1"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-sci-fi-hypothesis-that-explains-why-you-click-with-certain-people/",
           "author": "Jonny Thomson",
