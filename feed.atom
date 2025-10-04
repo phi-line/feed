@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-04T12:06:30.855Z</updated>
+    <updated>2025-10-04T18:05:06.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -7172,15 +7172,6 @@ The post New Sphere-Packing Record Stems From an Unexpected Source first appeare
         <summary type="html"><![CDATA[How and why do we gender animals in stories?]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geology Murder]]></title>
-        <id>https://xkcd.com/3112/</id>
-        <link href="https://xkcd.com/3112/"/>
-        <updated>2025-07-07T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
