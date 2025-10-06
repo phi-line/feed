@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155441",
+          "author": "Kevin Hartnett",
+          "description": "The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the mathematics of paper folding.            \nThe post Origami Patterns Solve a Major Physics Riddle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+          "publishedOn": "2025-10-06T14:48:25.000Z",
+          "wordCount": 4030,
+          "title": "Origami Patterns Solve a Major Physics Riddle",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155419",
           "author": "Anil Ananthaswamy",
           "description": "The V-JEPA system uses ordinary videos to understand the physics of the real world.             \nThe post How One AI Model Creates a Physical Intuition of Its Environment first appeared on Quanta Magazine",
@@ -480,6 +490,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/11/scam-cities",
+          "author": null,
+          "description": "Criminal networks throughout Southeast Asia are demonstrating the dangers of making “the ultimate exit.”",
+          "link": "https://asteriskmag.com/issues/11/scam-cities",
+          "publishedOn": "2025-10-06T00:00:00.000Z",
+          "wordCount": 3010,
+          "title": "Scam Cities",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/11/how-co-ops-electrified-america",
           "author": null,
           "description": "In the 1930s, private utilities balked at the task of bringing electricity to rural America. A New Deal agency figured out how to do it more quickly and more cheaply than anyone expected.",
@@ -616,6 +636,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/animal-testing",
+          "author": "Celia Ford",
+          "description": "There has been a push toward animal-free alternatives in scientific research. But the success of such alternatives hinges upon whether and where they can outperform standard animal models.",
+          "link": "https://www.asimov.press/p/animal-testing",
+          "publishedOn": "2025-10-06T15:05:40.000Z",
+          "wordCount": null,
+          "title": "A Shift from Animal Testing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!5ACr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d1e1c8-bb73-4757-8af1-902520702941_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!5ACr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d1e1c8-bb73-4757-8af1-902520702941_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/hyperspectral",
           "author": "Niko McCarty",
@@ -1311,16 +1347,6 @@
           "wordCount": 208,
           "title": "Building a Fire",
           "imageUrl": "https://imgs.xkcd.com/comics/building_a_fire_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3113/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3113/",
-          "publishedOn": "2025-07-09T04:00:00.000Z",
-          "wordCount": 208,
-          "title": "Fix This Sign",
-          "imageUrl": "https://imgs.xkcd.com/comics/fix_this_sign_2x.png"
         }
       ]
     },
@@ -1713,6 +1739,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=462301",
+          "author": "Natalie Orenstein",
+          "description": "Supervisors want more time to consider rules that would limit county investments in fossil fuels, guns, tobacco, and human rights violators.",
+          "link": "https://www.berkeleyside.org/2025/10/06/alameda-county-ethical-divestment-policy",
+          "publishedOn": "2025-10-06T16:55:00.000Z",
+          "wordCount": 7669,
+          "title": "Alameda County half-adopts ‘ethical investment policy’ amid concerns around Gaza war",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251006-160841.webp?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544611",
+          "author": "Sara Hossaini | KQED",
+          "description": "His achievement is made possible by Incarceration to College, an initiative supporting system-impacted youth in accessing higher education.",
+          "link": "https://www.berkeleyside.org/2025/10/06/incarceration-to-college",
+          "publishedOn": "2025-10-06T14:00:00.000Z",
+          "wordCount": 7608,
+          "title": "This UC Berkeley student could be first to graduate while incarcerated",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251001-182028.webp?fit=2000%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=544854",
           "author": "Morgan McFall-Johnsen",
@@ -5869,6 +5915,36 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/the-present/ai-adoption-rates-look-weak-but-current-data-hides-a-bigger-story/",
+          "author": "Ross Pomeroy",
+          "description": "Is AI in a bubble?\nThat’s the basic yet seismic question on a lot of people’s minds. But here’s the thing: It’s oversimplified, attempting to color an unprecedentedly gray moment either black or white. And what does the query even mean? If you’re asking about whether or not the valuations of certain AI startups and the companies that supply them are overvalued relative to their current financials, there’s a strong case for answering in the affirmative. If you’re asking whether the hype over AI has raced ahead of the technological landscape in regards to it attaining artificial general intelligence or rapidly destroying the labor market — the answer might be “probably.” \nBut if you’re asking whether AI will ultimately fizzle out and go down in history as the fever dream of a science-fiction…",
+          "link": "https://bigthink.com/the-present/ai-adoption-rates-look-weak-but-current-data-hides-a-bigger-story/",
+          "publishedOn": "2025-10-06T15:22:17.000Z",
+          "wordCount": 2978,
+          "title": "AI adoption rates look weak — but the data hides a bigger story",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/ai-isnt-paying-off-yet_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/why-outrageous-optimism-is-your-startup-super-skill/",
+          "author": "Tim Brinkhof",
+          "description": "To sell or not to sell — that’s the question many entrepreneurs ask themselves when their startups manage to beat the imposing odds and achieve financial success. Sell too soon, and you may lose out on growth that’s yet to come. Wait too long, and you risk cashing out after your business has already peaked.\nAt one point, Andrew Gazdecki belonged to the second of these two cohorts. “I held on because I was attached,” he says of his first company, Bizness Apps, which he sold in 2017. The company, a publishing platform that helps businesses develop mobile apps, began life in 2010, riding the smartphone revolution kickstarted by Apple. When, years later, Bizness Apps began losing customers, and continued losing customers, part of Gazdecki knew it was time to sell. And yet he waited.\nAlthough, …",
+          "link": "https://bigthink.com/business/why-outrageous-optimism-is-your-startup-super-skill/",
+          "publishedOn": "2025-10-06T13:00:00.000Z",
+          "wordCount": 2732,
+          "title": "Why “outrageous optimism” is your startup super-skill",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/Andrew-Gazdecki_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/how-censorship-provides-power/",
+          "author": "Jacob Mchangama",
+          "description": "Historian and free speech advocate Jacob Mchangama explains how suppressing voices often has the opposite effect. From the crucifixion of Jesus fueling Christianity to Barbra Streisand accidentally amplifying photos of her Malibu mansion, attempts at censorship often strengthen what they aim to silence. Mchangama argues that while free speech can be messy and ugly, it remains essential to preserve its many benefits.\nThis video How censorship turns ordinary men into martyrs is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/how-censorship-provides-power/",
+          "publishedOn": "2025-10-06T13:00:00.000Z",
+          "wordCount": 1417,
+          "title": "How censorship turns ordinary men into martyrs",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/The_Well_Jacob_Mchangama_DA_Web.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/cosmos-web-jwst-gravitational-lenses/",
           "author": "Ethan Siegel",
           "description": "The JWST era continues to show us the Universe as never before.\n\nThis highly unusual object was spotted with JWST: a background spiral galaxy heavily distorted by the gravitational lensing effects of a foreground elliptical galaxy. This data was part of the Strong Lensing and Cluster Evolution (SLICE) survey, which targets galaxy cluster evolution; an independent complement to the gravitational lenses found as part of the wider-field COSMOS-Web survey.\n\nCredit: ESA/Webb, NASA & CSA, G. Mahler; Acknowledgement: M. A. McDonald\n\n\nIts recently completed COSMOS-Web survey provides our deepest wide-field views ever.\n\nThis image composite shows the full-field of a large galaxy cluster within the COSMOS-Web survey, using a combination of JWST NIRCam and Hubble infrared data, with X-ray data from t…",
@@ -6915,6 +6991,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=70532",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This vegan Caesar Pasta Salad is savoury, tangy, and garlicky, with a fantastic combination of textures, from crunchy baked chickpeas to crisp romaine and tender pasta. Delicious! What happens when you combine the savoury, garlicky, crisp-and-crunchy goodness of a Vegan Caesar Salad with pasta salad? You get this Caesar pasta salad recipe, of course! This […]",
+          "link": "https://jessicainthekitchen.com/caesar-pasta-salad/",
+          "publishedOn": "2025-10-06T14:00:00.000Z",
+          "wordCount": 5556,
+          "title": "Caesar Pasta Salad With Crispy Chickpeas",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Vegan-Caesar-Pasta-Salad-10.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=70531",
           "author": "Jessica from Jessica in the Kitchen",
