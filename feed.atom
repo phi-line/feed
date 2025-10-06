@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-06T00:18:44.139Z</updated>
+    <updated>2025-10-06T06:06:49.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COSMOS-Web unveils JWST’s newest gravitational lenses]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/cosmos-web-jwst-gravitational-lenses/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/cosmos-web-jwst-gravitational-lenses/"/>
+        <updated>2025-10-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The JWST era continues to show us the Universe as never before.
+
+This highly unusual object was spotted with JWST: a background spiral galaxy heavily distorted by the gravitational lensing effects of a foreground elliptical galaxy. This data was part of the Strong Lensing and Cluster Evolution (SLICE) survey, which targets galaxy cluster evolution; an independent complement to the gravitational lenses found as part of the wider-field COSMOS-Web survey.
+
+Credit: ESA/Webb, NASA & CSA, G. Mahler; Acknowledgement: M. A. McDonald
+
+
+Its recently completed COSMOS-Web survey provides our deepest wide-field views ever.
+
+This image composite shows the full-field of a large galaxy cluster within the COSMOS-Web survey, using a combination of JWST NIRCam and Hubble infrared data, with X-ray data from t…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for breakfast burrito with chipotle tofu and pinto beans | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2025/oct/04/breakfast-burrito-recipe-meera-sodha-chipotle-tofu-pinto-beans</id>
@@ -7078,26 +7097,6 @@ The post Computer Scientists Figure Out How To Prove Lies first appeared on Quan
         <summary type="html"><![CDATA[A spokesperson for the East Bay Regional Park District said that there was no foul play suspected. The man was in his 20s.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Science Hasn’t Solved Consciousness (Yet)]]></title>
-        <id>https://www.noemamag.com/why-science-hasnt-solved-consciousness-yet</id>
-        <link href="https://www.noemamag.com/why-science-hasnt-solved-consciousness-yet"/>
-        <updated>2025-07-08T17:02:17.000Z</updated>
-        <summary type="html"><![CDATA[The post Why Science Hasn’t Solved Consciousness (Yet) appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Adam Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tax money is flowing into Alameda County. Should it all be spent on homelessness?]]></title>
-        <id>https://oaklandside.org/?p=457445</id>
-        <link href="https://www.berkeleyside.org/2025/07/08/measure-w-alameda-county-homelessness-berkeley"/>
-        <updated>2025-07-08T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[County officials may be at odds over how to spend hundreds of millions from Measure W, a sales tax marketed to voters as funding shelters and housing.]]></summary>
-        <author>
-            <name>Natalie Orenstein and Alex N. Gecan</name>
         </author>
     </entry>
 </feed>
