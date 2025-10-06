@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-06T06:06:49.339Z</updated>
+    <updated>2025-10-06T12:07:34.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[31 Minutos: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=UEqTIwRrWvA</id>
+        <link href="https://www.youtube.com/watch?v=UEqTIwRrWvA"/>
+        <updated>2025-10-06T09:00:43.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COSMOS-Web unveils JWST’s newest gravitational lenses]]></title>
         <id>https://bigthink.com/starts-with-a-bang/cosmos-web-jwst-gravitational-lenses/</id>
@@ -7067,36 +7076,6 @@ The post Computer Scientists Figure Out How To Prove Lies first appeared on Quan
         <updated>2025-07-09T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Berkeley, a market opens a restaurant, and a restaurant opens a market]]></title>
-        <id>https://www.berkeleyside.org/?p=540082</id>
-        <link href="https://www.berkeleyside.org/2025/07/08/mercatino-pizzeria-laura-middle-east-cafe-opening"/>
-        <updated>2025-07-08T19:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Pizzeria da Laura and Middle East Market have both expanded into neighboring spaces to offer something different to customers.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Westbound I-80 exit at University Ave. to close overnight Thursday in Berkeley]]></title>
-        <id>https://www.berkeleyside.org/?p=540084</id>
-        <link href="https://www.berkeleyside.org/2025/07/08/i80-off-ramp-university-closure"/>
-        <updated>2025-07-08T19:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Ramp and lane closures will last from 9 p.m. Thursday until 6 a.m. Friday. Caltrans recommended using the Gilman Street or Ashby Avenue exits.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead man found Sunday near Berkeley waterfront]]></title>
-        <id>https://www.berkeleyside.org/?p=540078</id>
-        <link href="https://www.berkeleyside.org/2025/07/08/body-found-gilman-fields-july-6"/>
-        <updated>2025-07-08T18:19:29.000Z</updated>
-        <summary type="html"><![CDATA[A spokesperson for the East Bay Regional Park District said that there was no foul play suspected. The man was in his 20s.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
         </author>
     </entry>
 </feed>
