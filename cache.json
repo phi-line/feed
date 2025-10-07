@@ -471,16 +471,6 @@
           "wordCount": 8770,
           "title": "How Can Regional Models Advance Climate Science?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/JOW-S4-Ep9-ELFATIH-ELTAHIR-Social-LOGO-1.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152171",
-          "author": "Erica Klarreich",
-          "description": "An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             \nThe post Computer Scientists Figure Out How To Prove Lies first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
-          "publishedOn": "2025-07-09T14:22:18.000Z",
-          "wordCount": 3858,
-          "title": "Computer Scientists Figure Out How To Prove Lies",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BreakingCryptoProtocols-crWei-AnJin-Social.jpg"
         }
       ]
     },
@@ -978,6 +968,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3151/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3151/",
+          "publishedOn": "2025-10-06T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Window Screen",
+          "imageUrl": "https://imgs.xkcd.com/comics/window_screen_2x.png"
+        },
         {
           "id": "https://xkcd.com/3150/",
           "author": null,
@@ -4778,26 +4778,6 @@
           "wordCount": 8340,
           "title": "Berkeley sweeps Ohlone Park homeless encampment",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-9.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540181",
-          "author": "Amy DiPierro and Michael Burke | EdSource",
-          "description": "The law sunsets a loan program for graduate students and makes short-term workforce training eligible for Pell Grants.",
-          "link": "https://www.berkeleyside.org/2025/07/09/trumps-law-reshapes-federal-loans-and-pell-grants-impacting-college-students",
-          "publishedOn": "2025-07-09T13:20:00.000Z",
-          "wordCount": 7902,
-          "title": "Trump’s law reshapes federal loans and Pell Grants, impacting college students",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250709-222207.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540099",
-          "author": "Karina Ioffee",
-          "description": "Stark racial and geographic disparities in mental health, toxic exposures and life expectancy are among the findings of a new $270,000 report on the city’s overall health and well-being.",
-          "link": "https://www.berkeleyside.org/2025/07/09/community-health-assessment-report-berkeley",
-          "publishedOn": "2025-07-09T13:00:00.000Z",
-          "wordCount": 7610,
-          "title": "Who gets to live well in Berkeley?",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250708-223822.webp"
         }
       ]
     },
@@ -5934,6 +5914,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/alien-life-stephen-king/",
+          "author": "Ethan Siegel",
+          "description": "Here on Earth, at least 3.8 billion years ago and perhaps even earlier in our planet’s history, life emerged on our world, and has persisted ever since. We’ve had photosynthetic life for at least the last 2.7 billion years. We’ve had eukaryotic life, with differentiated organelles inside its cells, for more than 2 billion years. Multicellular life and sexual reproduction have been around for over a billion years. And plants, animals, and fungi all emerged more than 500 million years ago. More recently, our own species emerged on Earth: not only intelligent, but technologically advanced, transforming our world and having taken our first steps into space beginning in the 20th century.\nUncovering this story, coupled with the recognition that the raw ingredients that led to life on Earth are f…",
+          "link": "https://bigthink.com/starts-with-a-bang/alien-life-stephen-king/",
+          "publishedOn": "2025-10-07T06:00:00.000Z",
+          "wordCount": 4514,
+          "title": "The search for alien life must heed this lesson from Stephen King",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/earthnight.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-present/ai-adoption-rates-look-weak-but-current-data-hides-a-bigger-story/",
           "author": "Ross Pomeroy",

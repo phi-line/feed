@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-07T00:18:35.597Z</updated>
+    <updated>2025-10-07T06:06:39.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The search for alien life must heed this lesson from Stephen King]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/alien-life-stephen-king/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/alien-life-stephen-king/"/>
+        <updated>2025-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here on Earth, at least 3.8 billion years ago and perhaps even earlier in our planet’s history, life emerged on our world, and has persisted ever since. We’ve had photosynthetic life for at least the last 2.7 billion years. We’ve had eukaryotic life, with differentiated organelles inside its cells, for more than 2 billion years. Multicellular life and sexual reproduction have been around for over a billion years. And plants, animals, and fungi all emerged more than 500 million years ago. More recently, our own species emerged on Earth: not only intelligent, but technologically advanced, transforming our world and having taken our first steps into space beginning in the 20th century.
+Uncovering this story, coupled with the recognition that the raw ingredients that led to life on Earth are f…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley turns up the flavor in September with new smash burger, bagel and milkshake spots]]></title>
         <id>https://www.berkeleyside.org/?p=544920</id>
@@ -141,6 +152,15 @@ Its recently completed COSMOS-Web survey provides our deepest wide-field views e
 This image composite shows the full-field of a large galaxy cluster within the COSMOS-Web survey, using a combination of JWST NIRCam and Hubble infrared data, with X-ray data from t…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Window Screen]]></title>
+        <id>https://xkcd.com/3151/</id>
+        <link href="https://xkcd.com/3151/"/>
+        <updated>2025-10-06T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -7155,37 +7175,6 @@ The post How Can Regional Models Advance Climate Science? first appeared on Quan
         <summary type="html"><![CDATA[Most people had already left Ohlone Park, with some moving to the encampment at Eighth and Harrison. A short-lived camp on Allston Way was cleared on the Fourth of July.]]></summary>
         <author>
             <name>Alex N. Gecan, Zac Farber and Sara Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Scientists Figure Out How To Prove Lies]]></title>
-        <id>https://www.quantamagazine.org/?p=152171</id>
-        <link href="https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"/>
-        <updated>2025-07-09T14:22:18.000Z</updated>
-        <summary type="html"><![CDATA[An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             
-The post Computer Scientists Figure Out How To Prove Lies first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Erica Klarreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s law reshapes federal loans and Pell Grants, impacting college students]]></title>
-        <id>https://www.berkeleyside.org/?p=540181</id>
-        <link href="https://www.berkeleyside.org/2025/07/09/trumps-law-reshapes-federal-loans-and-pell-grants-impacting-college-students"/>
-        <updated>2025-07-09T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The law sunsets a loan program for graduate students and makes short-term workforce training eligible for Pell Grants.]]></summary>
-        <author>
-            <name>Amy DiPierro and Michael Burke | EdSource</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who gets to live well in Berkeley?]]></title>
-        <id>https://www.berkeleyside.org/?p=540099</id>
-        <link href="https://www.berkeleyside.org/2025/07/09/community-health-assessment-report-berkeley"/>
-        <updated>2025-07-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stark racial and geographic disparities in mental health, toxic exposures and life expectancy are among the findings of a new $270,000 report on the city’s overall health and well-being.]]></summary>
-        <author>
-            <name>Karina Ioffee</name>
         </author>
     </entry>
 </feed>
