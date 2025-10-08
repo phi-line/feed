@@ -461,16 +461,6 @@
           "wordCount": 3094,
           "title": "The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2029/07/TonyTyson-cr.RachelBujalski-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152208",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            \nThe post How Can Regional Models Advance Climate Science? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/",
-          "publishedOn": "2025-07-10T13:39:49.000Z",
-          "wordCount": 8770,
-          "title": "How Can Regional Models Advance Climate Science?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/JOW-S4-Ep9-ELFATIH-ELTAHIR-Social-LOGO-1.jpg"
         }
       ]
     },
@@ -897,22 +887,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!QYNY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c541662-3716-4bc5-a75e-b30d1a5bfe33_2000x1260.png"
-        },
-        {
-          "id": "https://www.asimov.press/p/issue-07",
-          "author": "Asimov Press",
-          "description": "Featuring articles on aspirin’s murky origins, scaling proteomics, and the history of fermentation.",
-          "link": "https://www.asimov.press/p/issue-07",
-          "publishedOn": "2025-07-10T15:47:52.000Z",
-          "wordCount": null,
-          "title": "Issue 07 is Coming on Monday",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!CFXH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5edb3-5ea3-4e4a-a5a8-203c003e1446_2000x1260.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!CFXH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5edb3-5ea3-4e4a-a5a8-203c003e1446_2000x1260.png"
         }
       ]
     },
@@ -1731,16 +1705,6 @@
           "wordCount": 4713,
           "title": "‘Civilizational Nationalism’",
           "imageUrl": "https://noemamag.imgix.net/2025/07/zeburoundupfinal.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4dc5182bd41d18f601194685a7cb34dc"
-        },
-        {
-          "id": "https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth",
-          "author": "Nils Gilman",
-          "description": "The post The Future Of Health On A Damaged Planet appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth",
-          "publishedOn": "2025-07-10T12:48:41.000Z",
-          "wordCount": 7525,
-          "title": "The Future Of Health On A Damaged Planet",
-          "imageUrl": "https://noemamag.imgix.net/2025/07/25-07-09-NOEMA_Planetary-Health_Illo_947x1186_300dpi.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C217%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=df43ff4268ffcd7b8f1662d4f791cd04"
         }
       ]
     },
@@ -4788,16 +4752,6 @@
           "wordCount": 6813,
           "title": "Seawolf shuttering soon, auctioning off memorabilia and more",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Seawolf-taps.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540204",
-          "author": "Iris Kwok and Andrew Gilbert",
-          "description": "Other events include a guided North Berkeley walking tour and a creative workshop led by sculptor Kirk McCarthy.",
-          "link": "https://www.berkeleyside.org/2025/07/10/around-berkeley-things-to-do-berkeley-july-10-to-july-17",
-          "publishedOn": "2025-07-10T13:00:00.000Z",
-          "wordCount": 8373,
-          "title": "Around Berkeley: Funk Fest, Pocket Opera, Disability Pride",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-CIL-2_3.jpg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -5949,6 +5903,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/",
+          "author": "Ethan Siegel",
+          "description": "Here in the classical world, if you throw a ball against a solid wall, that wall will be impenetrable, and the ball will bounce right back. Do it a hundred times, a thousand times, a million times, and the result will always be the same. As long as the wall remains intact, the ball will always remain on that same, initial side of the wall.\nThings are a little different in the quantum world, however. If you fire a subatomic particle, like an electron, at a barrier — whether that’s a solid barrier made of atoms or merely an energy barrier, where the particle doesn’t have enough energy, itself, to get to the other side — most of the electrons will bounce back. But there’s a chance, dependent on the:\nspeed and energy of the electron,\nthe height and thickness of the (physical or energy) barrier…",
+          "link": "https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/",
+          "publishedOn": "2025-10-08T06:00:00.000Z",
+          "wordCount": 4273,
+          "title": "Macroscopic quantum tunneling wins 2025’s Nobel Prize in physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/press-physicsprize2025-figure2.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/plus/why-95-of-ai-rollouts-fail-and-what-ld-leaders-can-do-about-it/",
           "author": "Christopher Lind",

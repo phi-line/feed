@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-08T00:18:23.718Z</updated>
+    <updated>2025-10-08T06:06:43.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Macroscopic quantum tunneling wins 2025’s Nobel Prize in physics]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/"/>
+        <updated>2025-10-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in the classical world, if you throw a ball against a solid wall, that wall will be impenetrable, and the ball will bounce right back. Do it a hundred times, a thousand times, a million times, and the result will always be the same. As long as the wall remains intact, the ball will always remain on that same, initial side of the wall.
+Things are a little different in the quantum world, however. If you fire a subatomic particle, like an electron, at a barrier — whether that’s a solid barrier made of atoms or merely an energy barrier, where the particle doesn’t have enough energy, itself, to get to the other side — most of the electrons will bounce back. But there’s a chance, dependent on the:
+speed and energy of the electron,
+the height and thickness of the (physical or energy) barrier…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s been 30 years since @carlosvives released "La Tierra del Olvido," reshaping Colombian music.]]></title>
         <id>https://www.youtube.com/shorts/-KKa6weZutE</id>
@@ -7232,47 +7245,6 @@ The post The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus fir
         <summary type="html"><![CDATA[The pub in the Jack London Square neighborhood is also home to Willie's Kitchen from Wilson Mendez.]]></summary>
         <author>
             <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue 07 is Coming on Monday]]></title>
-        <id>https://www.asimov.press/p/issue-07</id>
-        <link href="https://www.asimov.press/p/issue-07"/>
-        <updated>2025-07-10T15:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Featuring articles on aspirin’s murky origins, scaling proteomics, and the history of fermentation.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Regional Models Advance Climate Science?]]></title>
-        <id>https://www.quantamagazine.org/?p=152208</id>
-        <link href="https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/"/>
-        <updated>2025-07-10T13:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            
-The post How Can Regional Models Advance Climate Science? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Funk Fest, Pocket Opera, Disability Pride]]></title>
-        <id>https://www.berkeleyside.org/?p=540204</id>
-        <link href="https://www.berkeleyside.org/2025/07/10/around-berkeley-things-to-do-berkeley-july-10-to-july-17"/>
-        <updated>2025-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a guided North Berkeley walking tour and a creative workshop led by sculptor Kirk McCarthy.]]></summary>
-        <author>
-            <name>Iris Kwok and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of Health On A Damaged Planet]]></title>
-        <id>https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth</id>
-        <link href="https://www.noemamag.com/cultivating-well-being-on-a-damaged-earth"/>
-        <updated>2025-07-10T12:48:41.000Z</updated>
-        <summary type="html"><![CDATA[The post The Future Of Health On A Damaged Planet appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nils Gilman</name>
         </author>
     </entry>
 </feed>
