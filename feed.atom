@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-08T06:06:43.424Z</updated>
+    <updated>2025-10-08T12:08:21.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -17,6 +17,20 @@ speed and energy of the electron,
 the height and thickness of the (physical or energy) barrier…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Internet Was Like in 2000]]></title>
+        <id>https://cybercultural.com/p/internet-2000/</id>
+        <link href="https://cybercultural.com/p/internet-2000/"/>
+        <updated>2025-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Still from a 2000 Homestar Runner Flash toon; via Internet Archive.
+After the hype and fear of Y2K (a.k.a. the Millenium bug) quickly faded in January 2000, the internet continued its mostly joyful rise in the culture. Sure, the dot-com bubble got pricked in March and then slowly deflated, but the web itself didn't stop growing.
+Over 2000, "the Net" became an even more colorful, and increasingly social, place to hang out. Animated Flash pages were everywhere, bloggers were discovering and connecting to each other, social news sites like Slashdot and MetaFilter were rising in prominence. So despite the flagging economy, creativity in web design plus community in blogs and social news came to define the year 2000.
+The Web Keeps Growing, Even as the Bubble Bursts
+We have to start, though, wit…]]></summary>
+        <author>
+            <name>Cybercultural: Internet History</name>
         </author>
     </entry>
     <entry>
@@ -7205,46 +7219,6 @@ The post The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus fir
         <summary type="html"><![CDATA[Also: A girl sitting on a chair eating a hardboiled egg sparked Nacio Jan Brown's photo series documenting Telegraph Avenue in the late 1960s and early 1970s.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley library director steps down for job in Arizona]]></title>
-        <id>https://www.berkeleyside.org/?p=540234</id>
-        <link href="https://www.berkeleyside.org/2025/07/10/berkeley-library-director-tess-mayer-leaving"/>
-        <updated>2025-07-10T23:40:32.000Z</updated>
-        <summary type="html"><![CDATA[She took over as library director during the pandemic, hired dozens of new staff and opened two branches on Sundays. Deputy director Henry Bankhead will lead the library during the search to replace her.]]></summary>
-        <author>
-            <name>Karina Ioffee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: Prescott Night Markets 2025 food lineup]]></title>
-        <id>https://www.berkeleyside.org/?p=540237</id>
-        <link href="https://www.berkeleyside.org/2025/07/10/prescott-night-market-west-oakland-food-vendors"/>
-        <updated>2025-07-10T23:08:30.000Z</updated>
-        <summary type="html"><![CDATA[The monthly West Oakland events with an eclectic mix of food vendors, live entertainment and more return this summer, each one coinciding with a Baller home game.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vendors still showing up after Berkeley Flea Market’s official closure]]></title>
-        <id>https://www.berkeleyside.org/?p=540212</id>
-        <link href="https://www.berkeleyside.org/2025/07/10/vendors-still-showing-up-after-berkeley-flea-markets-official-closure"/>
-        <updated>2025-07-10T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[They say they want to take on a more hands-on role operating the half-century-old market. The nonprofit that last month terminated its lease with BART amid financial struggles is working with vendors to chart a path forward.]]></summary>
-        <author>
-            <name>Daniel Ekonde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seawolf shuttering soon, auctioning off memorabilia and more]]></title>
-        <id>https://www.berkeleyside.org/?p=540223</id>
-        <link href="https://www.berkeleyside.org/2025/07/10/seawolf-public-house-jack-london-square-closing"/>
-        <updated>2025-07-10T19:41:50.000Z</updated>
-        <summary type="html"><![CDATA[The pub in the Jack London Square neighborhood is also home to Willie's Kitchen from Wilson Mendez.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
         </author>
     </entry>
 </feed>
