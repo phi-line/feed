@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155504",
+          "author": "Philip Ball",
+          "description": "New work shows that physical folding of the genome to control genes located far away may have been an early evolutionary development.            \nThe post Loops of DNA Equipped Ancient Life To Become Complex first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/",
+          "publishedOn": "2025-10-08T13:58:07.000Z",
+          "wordCount": 4189,
+          "title": "Loops of DNA Equipped Ancient Life To Become Complex",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Chromatin-Loops-cr-Myriam-Wares-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155441",
           "author": "Kevin Hartnett",
           "description": "The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the mathematics of paper folding.            \nThe post Origami Patterns Solve a Major Physics Riddle first appeared on Quanta Magazine",
@@ -616,6 +626,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/making-the-modern-laboratory",
+          "author": "Asimov Press",
+          "description": "And how you can help write it.",
+          "link": "https://www.asimov.press/p/making-the-modern-laboratory",
+          "publishedOn": "2025-10-08T18:00:12.000Z",
+          "wordCount": null,
+          "title": "Our Next Book: Making the Modern Laboratory",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!9i9g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad6ece1-545f-4717-aed0-31a15f758bee_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!9i9g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad6ece1-545f-4717-aed0-31a15f758bee_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/animal-testing",
           "author": "Celia Ford",
@@ -1311,16 +1337,6 @@
           "wordCount": 208,
           "title": "Unsolved Physics Problems",
           "imageUrl": "https://imgs.xkcd.com/comics/unsolved_physics_problems_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3114/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3114/",
-          "publishedOn": "2025-07-11T04:00:00.000Z",
-          "wordCount": 208,
-          "title": "Building a Fire",
-          "imageUrl": "https://imgs.xkcd.com/comics/building_a_fire_2x.png"
         }
       ]
     },
@@ -1713,6 +1729,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=544609",
+          "author": "Local sponsor",
+          "description": "The musical, based on the \"Little Orphan Annie\" comic strip, won multiple Tony Awards in 1977.",
+          "link": "https://www.berkeleyside.org/2025/10/08/annie-warms-hearts-at-berkeley-playhouse-this-holiday-season",
+          "publishedOn": "2025-10-08T15:30:00.000Z",
+          "wordCount": 6718,
+          "title": "‘Annie’ warms hearts at Berkeley Playhouse this holiday season",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Annie-Cara-Impallomeni-scaled.jpg?fit=2560%2C1690&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=545043",
+          "author": "Kostya Manenkov, Stefanie Dazio and Christina Larson",
+          "description": "UC Berkeley's Omar M. Yaghi was one of three to win the chemistry prize on Wednesday, a day after John Clarke won the prize for physics.",
+          "link": "https://www.berkeleyside.org/2025/10/08/omar-m-yaghi-nobel-winner",
+          "publishedOn": "2025-10-08T15:26:30.000Z",
+          "wordCount": 7465,
+          "title": "Another day, another Nobel Prize for a UC Berkeley scientist",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251008-152401.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544998",
+          "author": "Vanessa Arredondo",
+          "description": "It’s the first time the city’s Chicano, Mexican and Latinx communities have been spotlit in a major show at the Berkeley Historical Society.",
+          "link": "https://www.berkeleyside.org/2025/10/08/berkeley-historical-society-latino-pride-resiliency-exhibit",
+          "publishedOn": "2025-10-08T13:00:00.000Z",
+          "wordCount": 7768,
+          "title": "125 years of Latino history in Berkeley explored in new exhibit",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_1807-scaled.jpg?fit=2560%2C2099&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545017",
           "author": "Andrew Gilbert",
@@ -4702,16 +4748,6 @@
           "wordCount": 7302,
           "title": "All in Alameda County can enter lottery to get a heavily subsidized e-bike",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-NOV-17_E-Bikes-.jpg?resize=1568%2C1120&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540189",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A girl sitting on a chair eating a hardboiled egg sparked Nacio Jan Brown's photo series documenting Telegraph Avenue in the late 1960s and early 1970s.",
-          "link": "https://www.berkeleyside.org/2025/07/10/berkeley-wire-cal-gets-26m-gift-for-mens-aquatics-protesters-smash-windows-downtown",
-          "publishedOn": "2025-07-11T00:15:00.000Z",
-          "wordCount": 6839,
-          "title": "Berkeley Wire: Cal gets $26M gift for men’s aquatics; protesters smash windows downtown",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-10.png?fit=2000%2C1124&ssl=1"
         }
       ]
     },
@@ -5286,6 +5322,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/xYBQneYH0gA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xYBQneYH0gA",
+          "publishedOn": "2025-10-08T17:01:18.000Z",
+          "wordCount": 2191,
+          "title": "#eltiny • @AdrianQuesada shares how the music scene in Austin, Texas keeps him inspired.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zxX4dTkotIs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zxX4dTkotIs",
+          "publishedOn": "2025-10-08T13:02:01.000Z",
+          "wordCount": 2023,
+          "title": "#eltiny • @chuwipr explains why the song\"Tierra\" resonates so deeply when they sing it.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/-KKa6weZutE",
           "author": null,
@@ -5873,6 +5929,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-bias-that-is-holding-ai-back/",
+          "author": "Jonny Thomson",
+          "description": "Artificial intelligence is trained on data. It will process billions of words of human text, countless images, and the inane, ridiculous questions of its human users. It will learn to write in the active voice most of the time, and to keep sentences under 200 characters. It will learn that dogs have four legs and the Sun is normally yellow. And it might learn that Lorraine Woodward of Ontario wants to know how to prevent the buildup of ear wax.\nMost of what we feed into AI has been made by a human — human art, human text, human prompts. And so, it’s clear that AI will inherit the biases and prejudices of human intelligence. For example, a lot has been written about how “racist” and “sexist” AI is. \n“Draw a picture of a doctor,” we might prompt.\nAI whirrs through its stock catalogue, where …",
+          "link": "https://bigthink.com/mini-philosophy/the-bias-that-is-holding-ai-back/",
+          "publishedOn": "2025-10-08T13:19:33.000Z",
+          "wordCount": 2099,
+          "title": "The bias that is holding AI back",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/bias-holding-ai-back_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/brain-briefs-language-and-belief/",
+          "author": "Agustín Fuentes, Daniel Dennett, Ethan Kross",
+          "description": "When we are born, our brains are only about 40% of the size they will reach by adulthood. As we grow, our environments, experiences, and cultures shape both our understanding of the world and the way our brains develop. This is why language is so important: it gives us a tool for growth, thought, and cultural expansion. Daniel Dennett, PhD, Ethan Kross, PhD, and Agustín Fuentes, PhD explain how belief, language, inner chatter, and rituals work together to make us distinctively human.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video How humans create reality through language and beliefs is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/brain-briefs-language-and-belief/",
+          "publishedOn": "2025-10-08T13:00:00.000Z",
+          "wordCount": 1715,
+          "title": "How humans create reality through language and beliefs",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-BB-Language-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/",
           "author": "Ethan Siegel",
@@ -7020,6 +7096,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=9052",
+          "author": "Jessica Hylton",
+          "description": "This Chocolate Avocado Pudding is ultra-rich and decadent, with the creamiest texture and deepest chocolate flavour. Best of all, you only need 10 minutes to make it! If you’re used to using your avocados for Guacamole, you may be skeptical about the idea of this chocolate avocado pudding. But one taste and you’ll be a believer! […]",
+          "link": "https://jessicainthekitchen.com/creamy-chocolate-avocado-pudding-v-gf/",
+          "publishedOn": "2025-10-08T14:00:00.000Z",
+          "wordCount": 6049,
+          "title": "10-Minute Chocolate Avocado Pudding",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2017/07/Chocolate-Avocado-Pudding8709.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=70532",
           "author": "Jessica from Jessica in the Kitchen",
