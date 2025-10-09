@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-08T18:06:48.115Z</updated>
+    <updated>2025-10-09T00:18:15.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[East Bay workers now earn more, but many still struggle to make ends meet]]></title>
+        <id>https://www.berkeleyside.org/?p=545091</id>
+        <link href="https://www.berkeleyside.org/2025/10/08/east-bay-workers"/>
+        <updated>2025-10-08T22:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Over half of East Bay workers were not paid enough to support a four-person household, UC Berkeley researchers found.]]></summary>
+        <author>
+            <name>Farida Jhabvala Romero | KQED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beloved Berkeley hub Babette announces closing date; The Miranda shuts down after 9 years]]></title>
+        <id>https://www.berkeleyside.org/?p=545060</id>
+        <link href="https://www.berkeleyside.org/2025/10/08/babette-la-miranda-closing"/>
+        <updated>2025-10-08T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Cecilia Seiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Next Book: Making the Modern Laboratory]]></title>
         <id>https://www.asimov.press/p/making-the-modern-laboratory</id>
