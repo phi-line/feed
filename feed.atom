@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-09T06:06:47.988Z</updated>
+    <updated>2025-10-09T12:07:28.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -175,6 +175,15 @@ the height and thickness of the (physical or energy) barrier…]]></summary>
         <updated>2025-10-08T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strive as It Might]]></title>
+        <id>https://aethermug.com/posts/strive-as-it-might</id>
+        <link href="https://aethermug.com/posts/strive-as-it-might?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-10-08T01:53:18.000Z</updated>
+        <author>
+            <name>Aether Mug</name>
         </author>
     </entry>
     <entry>
@@ -7286,37 +7295,6 @@ Hugh, my husband, has strong opinions about circles; he finds them satisfying to
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: Berkeley pedestrian, 67, struck, killed at Claremont and The Uplands]]></title>
-        <id>https://www.berkeleyside.org/?p=540170</id>
-        <link href="https://www.berkeleyside.org/2025/07/11/claremont-ave-pedestrian-fatality"/>
-        <updated>2025-07-11T23:19:35.000Z</updated>
-        <summary type="html"><![CDATA[The man, identified Thursday as Roderick Nared, 67, "died shortly after the collision," according to police and the county coroner's office.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[focaccia with zucchini and potatoes]]></title>
-        <id>https://smittenkitchen.com/?p=88870</id>
-        <link href="https://smittenkitchen.com/2025/07/focaccia-with-zucchini-and-potatoes/"/>
-        <updated>2025-07-11T20:27:45.000Z</updated>
-        <summary type="html"><![CDATA[blueberry muffins 25 times one summer until she found what she was looking for. Thus, perhaps I shouldn’t be surprised but I still am: I’ve made an obscene amount of focaccia this spring and summer trying to find the recipe I’ll want to use forever. Here are five things I learned along the way:
-Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They’re making wine from ‘feral’ fruits of the East Bay — and you can participate]]></title>
-        <id>https://www.berkeleyside.org/?p=540271</id>
-        <link href="https://www.berkeleyside.org/2025/07/11/feral-ecology-fruit-wine-loquat-harvest-foraging"/>
-        <updated>2025-07-11T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Goldberg of Richmond’s Feral Ecology invited the public to join in its summer harvest of backyard and streetside loquat trees this year, and a plum harvest is up next.]]></summary>
-        <author>
-            <name>Madeline Taub</name>
         </author>
     </entry>
 </feed>
