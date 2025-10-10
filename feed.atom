@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-10T00:18:49.538Z</updated>
+    <updated>2025-10-10T06:06:43.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How many generations of stars came before the Sun?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/how-many-generations-stas-before-sun/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/how-many-generations-stas-before-sun/"/>
+        <updated>2025-10-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in our modern Universe, even in just our own Milky Way, we observe stars in all different stages of life:
+molecular gas clouds that are contracting and fragmenting,
+leading to protostars and young stellar objects,
+becoming full-fledged stars with protoplanetary disks around them,
+conventional stars burning through their fuel with their own fully-formed planetary systems,
+stars evolving into subgiants, giants, and even supergiants,
+stars dying in planetary nebulae, supernovae, and other life-ending events,
+and stellar remnants of now-extinct stars like white dwarfs, neutron stars, and black holes.
+We can trace back the history of our Universe a full 13.8 billion years, to the earliest stages of the hot Big Bang, measuring the star-formation rate all throughout our cosmic history.
+It wa…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Chez Panisse expansion menu; Berkeley birthday gang bang love story]]></title>
         <id>https://www.berkeleyside.org/?p=545160</id>
