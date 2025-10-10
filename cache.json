@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155559",
+          "author": "Anna Demming",
+          "description": "The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.            \nThe post Genes Have Harnessed Physics to Help Grow Living Things first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/",
+          "publishedOn": "2025-10-10T14:22:45.000Z",
+          "wordCount": 3080,
+          "title": "Genes Have Harnessed Physics to Help Grow Living Things",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Mechanics-of-Creation-cr-Mark-Belan-and-Michael-Kanyongolo-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155504",
           "author": "Philip Ball",
           "description": "New work shows that physical folding of the genome to control genes located far away may have been an early evolutionary development.            \nThe post Loops of DNA Equipped Ancient Life To Become Complex first appeared on Quanta Magazine",
@@ -1383,6 +1393,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/constitutional-patriotism",
+          "author": "Nathan Gardels",
+          "description": "The post ‘Constitutional Patriotism’ appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/constitutional-patriotism",
+          "publishedOn": "2025-10-10T16:14:43.000Z",
+          "wordCount": 2934,
+          "title": "‘Constitutional Patriotism’",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/Noema-Magazine-Constitutional-Patriotism-Mr.Nelson-design.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=bf9f962bb6fbea841b6a217b0fd76c11"
+        },
+        {
           "id": "https://www.noemamag.com/the-surprisingly-lifelike-behavior-of-mindless-material",
           "author": "Conor Feehly",
           "description": "The post The Surprisingly Lifelike Behavior Of Mindless Material appeared first on NOEMA.",
@@ -1729,6 +1749,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545226",
+          "author": "Nico Savidge",
+          "description": "An advertising firm said each of its “smart kiosk” devices would generate more than $26,000 in revenue for the city. They actually made less than $5,000.",
+          "link": "https://www.berkeleyside.org/2025/10/10/ike-kiosk-revenue-berkeley-advertisin",
+          "publishedOn": "2025-10-10T17:32:24.000Z",
+          "wordCount": 8255,
+          "title": "Revenue from ad kiosks on Berkeley sidewalks falls far short of company’s claims",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/07/IMG_9947.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=545218",
+          "author": "Joanne Furio",
+          "description": "Rachel Richardson’s third book of poems is set amid the pandemic and California wildfires. After it went to press, she decided she wanted to “take actual action” and become a firefighter.",
+          "link": "https://www.berkeleyside.org/2025/10/10/rachel-richardson-smother",
+          "publishedOn": "2025-10-10T13:36:06.000Z",
+          "wordCount": 7862,
+          "title": "Why this Berkeley poet is training to fight wildfires",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Richardson.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545160",
           "author": "Berkeleyside Staff",
@@ -5995,6 +6035,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/books/the-constitution-unamendable/",
+          "author": "Tim Brinkhof",
+          "description": "“Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched,” Thomas Jefferson wrote in an 1816 letter — when the United States turned 40 years old, and the War of Independence was slowly starting to fade from living memory into history. “They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment.”\nJefferson couldn’t disagree more with the sentiment. Convinced that American democracy would survive only if the government could be repaired and updated, he and the other Founding Fathers made sure the Constitution came with a built-in provision for amending its own contents. Unfortunately, the conditions for pushing through such an amendment — a two-thirds majorit…",
+          "link": "https://bigthink.com/books/the-constitution-unamendable/",
+          "publishedOn": "2025-10-10T15:00:00.000Z",
+          "wordCount": 2842,
+          "title": "Why America’s veneration of the Constitution may ultimately break it",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/break-the-constitution.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/richard-reeves-masculinity-crisis/",
+          "author": "Richard Reeves",
+          "description": "This video The alarm bells are sounding for young men. Will we listen? is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/richard-reeves-masculinity-crisis/",
+          "publishedOn": "2025-10-10T13:00:00.000Z",
+          "wordCount": 4773,
+          "title": "The alarm bells are sounding for young men. Will we listen?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/A1-Web-Reeves.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/how-many-generations-stas-before-sun/",
           "author": "Ethan Siegel",
           "description": "Here in our modern Universe, even in just our own Milky Way, we observe stars in all different stages of life:\nmolecular gas clouds that are contracting and fragmenting,\nleading to protostars and young stellar objects,\nbecoming full-fledged stars with protoplanetary disks around them,\nconventional stars burning through their fuel with their own fully-formed planetary systems,\nstars evolving into subgiants, giants, and even supergiants,\nstars dying in planetary nebulae, supernovae, and other life-ending events,\nand stellar remnants of now-extinct stars like white dwarfs, neutron stars, and black holes.\nWe can trace back the history of our Universe a full 13.8 billion years, to the earliest stages of the hot Big Bang, measuring the star-formation rate all throughout our cosmic history.\nIt wa…",
@@ -7231,6 +7291,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=70530",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "My vegan Million Dollar Spaghetti recipe is meaty, creamy, and cheesy—all without meat, cream, or cheese! Simple plant-based swaps make this baked pasta unbelievably delicious. Million dollar spaghetti is one of those recipes that’s been floating around the internet for a while, but the traditional version is made with meat sauce and cheese. I’ve been […]",
+          "link": "https://jessicainthekitchen.com/million-dollar-spaghetti-recipe/",
+          "publishedOn": "2025-10-10T14:00:00.000Z",
+          "wordCount": 6703,
+          "title": "Million Dollar Spaghetti Recipe (Perfect Freezer Meal!)",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Vegan-Million-Dollar-Spaghetti-19.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=9052",
           "author": "Jessica Hylton",
