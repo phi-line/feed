@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-11T12:06:42.856Z</updated>
+    <updated>2025-10-11T18:05:02.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Starts With A Bang podcast #122 – Galaxy evolution and JWST]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-122-galaxy-evolution-and-jwst/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-122-galaxy-evolution-and-jwst/"/>
+        <updated>2025-10-11T16:34:35.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that the Universe and the objects present within it, as we see them all today, have changed over time as the Universe has grown up over the past 13.8 billion years. Galaxies are larger, more massive, more evolved, and are richer in stars but fewer in number than they were back in the early stages of cosmic history. By looking farther and farther away, we can see the Universe as it was at earlier times, but we’re going to be limited in many ways: by how deep our telescopes can see, by what wavelengths they’re capable of seeing, and by what small fraction of the sky they’re capable of observing.
+
+
+
+That’s why an observing program like COSMOS-Web, the largest, widest-field JWST observing program to date, is so important. It isn’t just revealing galaxies as they are nearby (at late times), at a variety of intermediate distances (and earlier times), and at ultra-large distances (and the earliest times of all), but due to its wide-field nature, is revealing galaxy types of varying abundances: the common-type galaxies, galaxies that are representative of more uncommon varieties, and even significant numbers of rare galaxies. And it’s this aspect of galaxy evolution that makes me so proud and lucky to welcome Dr. Olivia Cooper to the podcast.
+
+
+
+Olivia is a recently-minted PhD who works as part of the COSMOS-Web team, specializing in galaxy evolution and using JWST data — along with data from other world-class observatories — to investigate how the galaxies in our Universe grew up, and what that can teach us about our own cosmic past. It truly is a banger of an episode that you’ll want to listen to every minute of, so tune in and dive deep into the depths of the distant Universe on our latest adventure of the Starts With A Bang podcast!
+This article Starts With A Bang podcast #122 – Galaxy evolution and JWST is featured on Big Think.]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#eltiny • @macariomartinez_ brings his evocative music and longing lyricism to the Tiny Desk. ❤️‍🔥⁠⁠]]></title>
+        <id>https://www.youtube.com/shorts/DjGrirR52LM</id>
+        <link href="https://www.youtube.com/shorts/DjGrirR52LM"/>
+        <updated>2025-10-11T14:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for za’atar roast vegetables with whipped feta | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2025/oct/11/meera-sodha-recipe-zaatar-roast-vegetables-whipped-feta</id>
@@ -7568,15 +7597,6 @@ Dot-com fever continued apace, with GeoCities (Augu…]]></summary>
 The post RNA Is the Cell’s Emergency Alert System first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Dan Samorodnitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsolved Physics Problems]]></title>
-        <id>https://xkcd.com/3115/</id>
-        <link href="https://xkcd.com/3115/"/>
-        <updated>2025-07-14T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
