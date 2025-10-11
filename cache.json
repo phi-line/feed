@@ -969,6 +969,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3153/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3153/",
+          "publishedOn": "2025-10-10T04:00:00.000Z",
+          "wordCount": 208,
+          "title": "Hot Water Balloon",
+          "imageUrl": "https://imgs.xkcd.com/comics/hot_water_balloon_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3152/",
           "author": null,
           "description": "",
@@ -1749,6 +1759,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545232",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/10/10/peets-coffee-js-snacks-boba-saigon-yum",
+          "publishedOn": "2025-10-10T19:00:00.000Z",
+          "wordCount": 6843,
+          "title": "El Cerrito Peet’s Coffee reopens, and a new Berkeley boba shop beckons",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/18PR_peetscoffeecup_large.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=543665",
+          "author": "Ben Christopher, CalMatters",
+          "description": "It’s not yet clear how SB 79, which Newsom signed Friday, will affect what gets built in Berkeley, where the flatlands were rezoned for denser construction earlier this year.",
+          "link": "https://www.berkeleyside.org/2025/10/10/california-sb79-housing-berkeley-transit-oriented-development",
+          "publishedOn": "2025-10-10T18:16:12.000Z",
+          "wordCount": 8837,
+          "title": "Update: Gavin Newsom signs bill allowing denser housing near BART stations and transit hubs",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/091225_Oakland-Housing_AW_CM_11.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545226",
           "author": "Nico Savidge",
@@ -5397,6 +5427,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/9b7DNib1W9U",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9b7DNib1W9U",
+          "publishedOn": "2025-10-10T19:00:07.000Z",
+          "wordCount": 2106,
+          "title": "​ @31minutos' Tulio Triviño and Juan Carlos Bodoque on life as Chile’s most famous puppets.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LbAwvGDq-R8",
           "author": null,
