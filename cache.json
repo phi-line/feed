@@ -607,6 +607,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/liver",
+          "author": "Asimov Press",
+          "description": "How a liver goes from a brain-dead donor to a living recipient.",
+          "link": "https://www.asimov.press/p/liver",
+          "publishedOn": "2025-10-12T15:40:02.000Z",
+          "wordCount": null,
+          "title": "A Liver on Ice",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/4f031170-c270-4e37-8472-67ec99f9a716_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4f031170-c270-4e37-8472-67ec99f9a716_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/making-the-modern-laboratory",
           "author": "Asimov Press",
           "description": "And how you can help write it.",
@@ -5341,6 +5357,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/JWmH_AymMXM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JWmH_AymMXM",
+          "publishedOn": "2025-10-12T16:00:25.000Z",
+          "wordCount": 2081,
+          "title": "@rubiomusic_ talked to us about the beauty of letting go and finding power in vulnerability.⁠⁠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/DjGrirR52LM",
           "author": null,

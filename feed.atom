@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-12T12:06:38.339Z</updated>
+    <updated>2025-10-12T18:05:15.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[@rubiomusic_ talked to us about the beauty of letting go and finding power in vulnerability.⁠⁠]]></title>
+        <id>https://www.youtube.com/shorts/JWmH_AymMXM</id>
+        <link href="https://www.youtube.com/shorts/JWmH_AymMXM"/>
+        <updated>2025-10-12T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Liver on Ice]]></title>
+        <id>https://www.asimov.press/p/liver</id>
+        <link href="https://www.asimov.press/p/liver"/>
+        <updated>2025-10-12T15:40:02.000Z</updated>
+        <summary type="html"><![CDATA[How a liver goes from a brain-dead donor to a living recipient.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starts With A Bang podcast #122 – Galaxy evolution and JWST]]></title>
         <id>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-122-galaxy-evolution-and-jwst/</id>
