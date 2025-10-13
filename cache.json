@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155620",
+          "author": "Steve Nadis",
+          "description": "The leading approach to the simplex method, a widely used technique for balancing complex logistical constraints, can’t get any better.             \nThe post Researchers Discover the Optimal Way To Optimize first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/",
+          "publishedOn": "2025-10-13T14:22:57.000Z",
+          "wordCount": 3009,
+          "title": "Researchers Discover the Optimal Way To Optimize",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/simplex-method-cr.Nash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155559",
           "author": "Anna Demming",
           "description": "The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.            \nThe post Genes Have Harnessed Physics to Help Grow Living Things first appeared on Quanta Magazine",
@@ -469,6 +479,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/11/kingdom-of-jesus-christ-the-name-above-all-names-inc",
+          "author": null,
+          "description": "Apollo Quiboloy — according to his followers — is the appointed son of God. He’s also at the center of a criminal empire, an explosive rift in the government of the Philippines, and a shift in the makeup of global Christianity.",
+          "link": "https://asteriskmag.com/issues/11/kingdom-of-jesus-christ-the-name-above-all-names-inc",
+          "publishedOn": "2025-10-13T00:00:00.000Z",
+          "wordCount": 4934,
+          "title": "Kingdom of Jesus Christ, the Name Above All Names, Inc.",
+          "imageUrl": null
+        },
         {
           "id": "https://asteriskmag.com/issues/11/scam-cities",
           "author": null,
@@ -949,6 +969,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3154/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3154/",
+          "publishedOn": "2025-10-13T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Physics Insight",
+          "imageUrl": "https://imgs.xkcd.com/comics/physics_insight_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3153/",
           "author": null,
           "description": "",
@@ -1317,16 +1347,6 @@
           "wordCount": 206,
           "title": "Replication Crisis",
           "imageUrl": "https://imgs.xkcd.com/comics/replication_crisis_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3116/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3116/",
-          "publishedOn": "2025-07-16T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Echo Chamber",
-          "imageUrl": "https://imgs.xkcd.com/comics/echo_chamber_2x.png"
         }
       ]
     },
@@ -1372,6 +1392,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/rescuing-democracy-from-the-quiet-rule-of-ai",
+          "author": "Andrew Sorota",
+          "description": "The post Rescuing Democracy From The Quiet Rule Of AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/rescuing-democracy-from-the-quiet-rule-of-ai",
+          "publishedOn": "2025-10-13T16:07:38.000Z",
+          "wordCount": 7315,
+          "title": "Rescuing Democracy From The Quiet Rule Of AI",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/Ai-Democracy_-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=dfddd0bc4dfeb4a794d460a70d57ec32"
+        },
         {
           "id": "https://www.noemamag.com/constitutional-patriotism",
           "author": "Nathan Gardels",
@@ -1719,6 +1749,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545166",
+          "author": "Cecilia Seiter",
+          "description": "Seoul Hotdog and Roasted and Raw were among the restaurants to shutter recently.",
+          "link": "https://www.berkeleyside.org/2025/10/13/seoul-hotdog-roasted-raw-riggers-loft-blue-bottle",
+          "publishedOn": "2025-10-13T16:00:00.000Z",
+          "wordCount": 7208,
+          "title": "September closures deplete hot dog creativity in Berkeley, plant-based options in Oakland",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/02/Chris-Junior-from-Cal-eating-a-%E2%80%98Mozza-Hotdog.jpeg?fit=1500%2C999&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545232",
           "author": "Cecilia Seiter",
@@ -5984,6 +6024,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/are-young-workers-canaries-in-the-ai-coal-mine/",
+          "author": "Tim Brinkhof",
+          "description": "During the late 19th and early 20th century, coal miners in Europe and North America used canaries as living carbon monoxide alarms. Due to their high metabolism and sensitive respiratory system, these small, yellow songbirds succumbed to the invisible, odorless gas much faster than humans. As soon as the small cages strapped to their tool belts stopped chirping and chattering, the miners knew it was time to head back up.\nSeveral lifetimes and technological revolutions later, this unconventional safety measure has resurfaced in the title of a monumental study — one concerned with a different potential hazard: artificial intelligence. Published in late August by the Digital Economy Lab at Stanford University, Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artifi…",
+          "link": "https://bigthink.com/business/are-young-workers-canaries-in-the-ai-coal-mine/",
+          "publishedOn": "2025-10-13T13:00:00.000Z",
+          "wordCount": 3044,
+          "title": "Are young workers canaries in the AI coal mine?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/canary-ai-mine_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/how-gratitude-changes-you/",
+          "author": "Sarah Schnitker",
+          "description": "Gratitude connects us, but how we express it might matter more than we think.\nBaylor professor of psychology and neuroscience Sarah Schnitker explores how practicing gratitude can lead to stronger relationships and greater well-being. Her lab found that gratitude expressed through prayer may offer even more benefits than journaling or speaking it aloud, and that feeling connected to something larger may help combat today’s growing loneliness.\nThis video This research team studies gratitude. Here’s what they’ve found. is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/how-gratitude-changes-you/",
+          "publishedOn": "2025-10-13T13:00:00.000Z",
+          "wordCount": 1466,
+          "title": "This research team studies gratitude. Here’s what they’ve found.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/The_Well_Sarah_Schnitker_EILIS_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/shooting-stars-halleys-comet/",
           "author": "Ethan Siegel",
