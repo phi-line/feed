@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-13T06:07:14.093Z</updated>
+    <updated>2025-10-13T12:08:11.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gloria Estefan: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=g3XYl7hdGPQ</id>
+        <link href="https://www.youtube.com/watch?v=g3XYl7hdGPQ"/>
+        <updated>2025-10-13T09:01:02.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to see shooting stars from Halley’s comet this October]]></title>
         <id>https://bigthink.com/starts-with-a-bang/shooting-stars-halleys-comet/</id>
@@ -7502,26 +7511,6 @@ The post A New Geometry for Einstein’s Theory of Relativity first appeared on 
         <summary type="html"><![CDATA[shadow of the mind]]></summary>
         <author>
             <name>another.blue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UC Berkeley chancellor tells Congress ‘more work’ is needed to fight antisemitism while defending free speech]]></title>
-        <id>https://www.berkeleyside.org/?p=540408</id>
-        <link href="https://www.berkeleyside.org/2025/07/15/uc-berkeley-chancellor-rich-lyons-antisemitism-testimony"/>
-        <updated>2025-07-15T22:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Grilled by Republicans on Capitol Hill Tuesday over his campus’ handling of antisemitism, Rich Lyons said Cal is working to support Jewish students but does not forbid the expression of pro-Palestinian beliefs.]]></summary>
-        <author>
-            <name>Felicia Mello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A small-batch matcha shop arrives in Berkeley, and Oakland welcomes Puerto Rican Street Cuisine]]></title>
-        <id>https://www.berkeleyside.org/?p=540409</id>
-        <link href="https://www.berkeleyside.org/2025/07/15/puerto-rican-street-cuisine-alta-vina-san-pablo-harbor-restaurants"/>
-        <updated>2025-07-15T19:06:43.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
         </author>
     </entry>
 </feed>
