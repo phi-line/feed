@@ -1711,16 +1711,6 @@
           "wordCount": 6484,
           "title": "The Surprising Durability Of Africa’s Colonial Borders",
           "imageUrl": "https://noemamag.imgix.net/2025/07/Noema_illustration_final_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c3619dd09423c9d31116909dc9612a6f"
-        },
-        {
-          "id": "https://www.noemamag.com/climate-delusion-or-vital-solution-carbon-captures-uphill-battle",
-          "author": "Christopher J. Preston",
-          "description": "The post ‘Climate Delusion’ Or Vital Solution? Carbon Capture’s Uphill Battle appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/climate-delusion-or-vital-solution-carbon-captures-uphill-battle",
-          "publishedOn": "2025-07-15T13:33:00.000Z",
-          "wordCount": 9981,
-          "title": "‘Climate Delusion’ Or Vital Solution? Carbon Capture’s Uphill Battle",
-          "imageUrl": "https://noemamag.imgix.net/2025/07/FF_02_01-copy-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=fee8ace463b65143648b0ce36cf8861e"
         }
       ]
     },
@@ -4768,26 +4758,6 @@
           "wordCount": 6549,
           "title": "A small-batch matcha shop arrives in Berkeley, and Oakland welcomes Puerto Rican Street Cuisine",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/ForestTeaBar-Berkeley.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540349",
-          "author": "Marianna Grossman",
-          "description": "She helped found the Institute for Humanistic Medicine, taught at Berkeley’s Ridhwan School and loved her family and community.",
-          "link": "https://www.berkeleyside.org/2025/07/15/rosalind-diamond-obituary",
-          "publishedOn": "2025-07-15T16:20:51.000Z",
-          "wordCount": 7308,
-          "title": "Remembering Rosalind Diamond, innovator in holistic medicine, community leader, spiritual teacher",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Rosalind.png"
-        },
-        {
-          "id": "https://oaklandside.org/?p=457781",
-          "author": "Roselyn Romero",
-          "description": "Launched by a Berkeley mother after her foster daughter was raped, BRAVE Bay Area has served as Alameda County’s primary resource for sexual assault survivors since 1971.",
-          "link": "https://www.berkeleyside.org/2025/07/15/alameda-county-first-rape-crisis-center-closing-funding-cuts-2",
-          "publishedOn": "2025-07-15T14:30:00.000Z",
-          "wordCount": 7496,
-          "title": "The nation’s first rape crisis center is closing",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP898717000912-scaled-1.jpg?fit=2560%2C1772&ssl=1"
         }
       ]
     },
@@ -6024,6 +5994,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/shooting-stars-halleys-comet/",
+          "author": "Ethan Siegel",
+          "description": "Every year, the same meteor showers recur once again.\n\nThis comet, imaged in 2015 and known as C/2014 Q2 Lovejoy, brightened sufficiently to become as bright as magnitude +4: visible to the naked human eye even under fairly light-polluted conditions. When Comet Halley returns, it will only be about 5-6 times brighter than this, but when Comet Swift-Tuttle next returns, it will be about 20 times brighter. Swift-Tuttle is far more massive and dangerous than the other known periodic comets. Although comets have been recorded for thousands of years, their periodic nature was only uncovered in the 18th century, by Edmond Halley.\n\nCredit: John Vermette / MIT News\n\n\nAs Earth revolves around the Sun, it periodically crosses cometary and asteroidal orbits.\n\nEach year, Earth passes through the debri…",
+          "link": "https://bigthink.com/starts-with-a-bang/shooting-stars-halleys-comet/",
+          "publishedOn": "2025-10-13T06:00:00.000Z",
+          "wordCount": 2498,
+          "title": "How to see shooting stars from Halley’s comet this October",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/5acfa5df-39a5-45aa-a533-00a63ef48a92.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-122-galaxy-evolution-and-jwst/",
           "author": "Ethan Siegel",
