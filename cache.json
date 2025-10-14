@@ -461,16 +461,6 @@
           "wordCount": 2249,
           "title": "How Distillation Makes AI Models Smaller and Cheaper",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/Distillation-Explainer-crNico-H.-BrauschSocial.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152306",
-          "author": "Steve Nadis",
-          "description": "A team of mathematicians based in Vienna is developing tools to extend the scope of general relativity.            \nThe post A New Geometry for Einstein’s Theory of Relativity first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
-          "publishedOn": "2025-07-16T14:38:21.000Z",
-          "wordCount": 4116,
-          "title": "A New Geometry for Einstein’s Theory of Relativity",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/NewGRGeometry-crHarolBustos-Social.jpg"
         }
       ]
     },
@@ -4758,26 +4748,6 @@
           "wordCount": 7740,
           "title": "Remembering Robert Spear, Cal professor who spent decades combating flatworm disease in China",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Robert-Spear.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540447",
-          "author": "Alex N. Gecan",
-          "description": "The four-lane street is already scheduled for repaving in 2027. The  city will study how it can be safer for pedestrians and cyclists in the short and long term.",
-          "link": "https://www.berkeleyside.org/2025/07/16/berkeley-pedestrian-killed-claremont-avenue-redesign",
-          "publishedOn": "2025-07-16T14:00:00.000Z",
-          "wordCount": 7649,
-          "title": "After a pedestrian was killed, Berkeley eyes safety upgrades for Claremont Avenue",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Claremont-car-accident.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540453",
-          "author": "Myron Caringal",
-          "description": "Ron Oppenheimer, who first learned circus arts at a Berkeley camp, is one of the pop star’s aerialists in her globe-spanning tour, coming Friday to San Francisco.",
-          "link": "https://www.berkeleyside.org/2025/07/16/katy-perry-lifetimes-tour-aerialist-ron-oppenheimer",
-          "publishedOn": "2025-07-16T12:57:00.000Z",
-          "wordCount": 7401,
-          "title": "Berkeley acrobat is living his ‘teenage dream’ on tour with Katy Perry",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Oppenheimer-ft.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -6024,6 +5994,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/cosmic-inflation-criticism-success/",
+          "author": "Ethan Siegel",
+          "description": "In the 1920s, we first measured the distances to objects beyond our own Milky Way, and swiftly discovered that the Universe was expanding: consistent with how Einstein’s General Relativity tells us the Universe would evolve. If the Universe was expanding today, that implies it was smaller — and hotter, and denser, and more uniform — in the past, leading to the idea of the hot Big Bang. Starting in the 1960s, the Big Bang’s greatest predictions were confirmed, leading to widespread acceptance of the theory. However, a few unexplained puzzles remained, leading scientists to question whether the most extreme predictions of the Big Bang, including arbitrarily high temperatures and an origin from a singularity, were actually correct.\nIn the early 1980s, a revolutionary new theory was proposed, …",
+          "link": "https://bigthink.com/starts-with-a-bang/cosmic-inflation-criticism-success/",
+          "publishedOn": "2025-10-14T06:00:00.000Z",
+          "wordCount": 4862,
+          "title": "Cosmic inflation’s biggest criticisms can’t undermine its success",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/not4eva.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/high-culture/the-worlds-largest-library-of-lies-has-good-news-about-fake-news/",
           "author": "Bianca Giacobone, Guido G. Beduschi",
