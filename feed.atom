@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-15T06:06:59.939Z</updated>
+    <updated>2025-10-15T12:08:08.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Silvana Estrada: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=o9PoZ0Vcb_s</id>
+        <link href="https://www.youtube.com/watch?v=o9PoZ0Vcb_s"/>
+        <updated>2025-10-15T09:01:19.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The true cost of “solar power at night” with Reflect Orbital]]></title>
         <id>https://bigthink.com/starts-with-a-bang/true-cost-solar-power-night-reflect-orbital/</id>
@@ -7519,38 +7528,6 @@ The post How Distillation Makes AI Models Smaller and Cheaper first appeared on 
         <summary type="html"><![CDATA[Also: Students and faculty from Cal's School of Social Welfare are protesting the layoffs of two practicum consultants.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasons: A Fine Way To Structure a Website or Blog in 2025]]></title>
-        <id>https://cybercultural.com/p/seasons/</id>
-        <link href="https://cybercultural.com/p/seasons/"/>
-        <updated>2025-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the innovations of podcasting is its concept of "seasons," which originally comes from the world of television. The idea is that you have a time-bounded series of podcast episodes — sometimes with a set theme, but other times the season boundary is simply a given time period.
-I first became aware of 'seasons' in podcasts with Serial in 2014, which used the term to indicate a series of episodes on a certain topic. Each season (there have just been 4) starts an entirely new storyline. But another podcast I enjoy, by the writer Bret Easton Ellis, has "seasons" that are demarcated by calendar years. He's currently in season 9, which began on January 7, 2025 (season 8 ended December 31, 2024).
-What I'm doing with Cybercultural seasons is a mix of those two approaches. I have different to…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emeryville’s Baby Cafe and Walnut Creek’s SanDai shutter in June]]></title>
-        <id>https://www.berkeleyside.org/?p=540587</id>
-        <link href="https://www.berkeleyside.org/2025/07/17/rendez-vous-rotten-city-sandai-restaurants-closed"/>
-        <updated>2025-07-17T19:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Rotten City Pizza and The Rendez Vous are also among the recent East Bay closures.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evacuating the Berkeley Hills during a wildfire could take over 4 hours, study says]]></title>
-        <id>https://www.berkeleyside.org/?p=540561</id>
-        <link href="https://www.berkeleyside.org/2025/07/17/berkeley-evacuation-time-study"/>
-        <updated>2025-07-17T19:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Evacuating for a tsunami could take over 2 hours. Neither are enough time for people to get out of danger zones in a worst-case scenario.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
         </author>
     </entry>
     <entry>
