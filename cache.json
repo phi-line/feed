@@ -887,22 +887,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!GyFH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40822df4-f56c-4ef4-9bbd-3a1c8f37bf8f_2000x1260.png"
-        },
-        {
-          "id": "https://www.asimov.press/p/first-weight-loss-drugs",
-          "author": "Alex Telford",
-          "description": "Long before Ozempic and Mounjaro, there were mitochondrial uncouplers. While deadly if not used with care, it might be time for them to make a comeback.",
-          "link": "https://www.asimov.press/p/first-weight-loss-drugs",
-          "publishedOn": "2025-07-17T15:57:24.000Z",
-          "wordCount": null,
-          "title": "The First Weight Loss Drugs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!b5iz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b9b1771-f768-4856-be4b-5b559bcd61df_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!b5iz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b9b1771-f768-4856-be4b-5b559bcd61df_2000x1260.jpeg"
         }
       ]
     },
@@ -1721,16 +1705,6 @@
           "wordCount": 3120,
           "title": "Make The Planet Healthy Again",
           "imageUrl": "https://noemamag.imgix.net/2025/07/illustration3.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=32cca8aba613782cb0c6b52f1d79c97e"
-        },
-        {
-          "id": "https://www.noemamag.com/the-surprising-durability-of-africas-colonial-borders",
-          "author": "Alden Young",
-          "description": "The post The Surprising Durability Of Africa’s Colonial Borders appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-surprising-durability-of-africas-colonial-borders",
-          "publishedOn": "2025-07-17T13:09:13.000Z",
-          "wordCount": 6484,
-          "title": "The Surprising Durability Of Africa’s Colonial Borders",
-          "imageUrl": "https://noemamag.imgix.net/2025/07/Noema_illustration_final_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c3619dd09423c9d31116909dc9612a6f"
         }
       ]
     },
@@ -4718,36 +4692,6 @@
           "wordCount": 8556,
           "title": "Evacuating the Berkeley Hills during a wildfire could take over 4 hours, study says",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP9110201457.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=539893",
-          "author": "Local sponsor",
-          "description": "Sweet Bites and a second branch of Lavender Bakery join Rainbow Donuts in Berkeley’s “International Marketplace.”",
-          "link": "https://www.berkeleyside.org/2025/07/17/check-out-this-sweet-spot-on-san-pablo-avenue",
-          "publishedOn": "2025-07-17T16:30:00.000Z",
-          "wordCount": 7706,
-          "title": "Check out this sweet spot on San Pablo Avenue",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/SB-macaron.png?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540563",
-          "author": "Associated Press",
-          "description": "Przemyslaw Jeziorski, 43, was shot and killed on July 4 while visiting Greece to see his children and finalize visitation arrangements. Among the suspects is his ex-wife.",
-          "link": "https://www.berkeleyside.org/2025/07/17/5-suspects-in-killing-of-uc-berkeley-professor-appear-in-greek-court",
-          "publishedOn": "2025-07-17T15:45:43.000Z",
-          "wordCount": 6717,
-          "title": "5 suspects in killing of UC Berkeley professor appear in Greek court",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Przemyslaw-Jeziorski.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540550",
-          "author": "Iris Kwok and Andrew Gilbert",
-          "description": "Other events include a one-woman show celebrating neurodivergence at The Marsh and a new glassblowing exhibit at ACCI.",
-          "link": "https://www.berkeleyside.org/2025/07/17/around-berkeley-things-to-do-in-berkeley-july-17-july-24",
-          "publishedOn": "2025-07-17T13:00:00.000Z",
-          "wordCount": 8300,
-          "title": "Around Berkeley: Poetry Flash, Summerfest, jazz at the Starry Plough",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Natera_Dec2023_StarryPlough_15.jpg?fit=1322%2C944&ssl=1"
         }
       ]
     },
@@ -5979,6 +5923,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/true-cost-solar-power-night-reflect-orbital/",
+          "author": "Ethan Siegel",
+          "description": "Here on Earth, humanity’s global energy needs only seem to increase over time. A combination of increasing populations, the widespread development of heating and cooling, a reliance on modern electronics, and the introduction of new energy-intensive technologies (such as the blockchain, smart technology, and artificial intelligence) are among the factors driving our rising energy needs. Sure, we can always build more power plants, but what about the simple solution of increasing the efficiency and production of already-existing plants, particularly the ones that only see part-time usage: wind and solar. Wind power doesn’t work when the air is still, and solar doesn’t work during the night.\nOr can it?\nThat’s something that the US-based startup, Reflect Orbital, wants to change. The idea is …",
+          "link": "https://bigthink.com/starts-with-a-bang/true-cost-solar-power-night-reflect-orbital/",
+          "publishedOn": "2025-10-15T06:00:00.000Z",
+          "wordCount": 4161,
+          "title": "The true cost of “solar power at night” with Reflect Orbital",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/RO.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/all-that-we-see-or-seem-ken-liu/",
           "author": "Ken Liu",
