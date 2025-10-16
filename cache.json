@@ -1383,6 +1383,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/welcome-to-the-new-warring-states",
+          "author": "Hui Huang",
+          "description": "The post Welcome To The New Warring States appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/welcome-to-the-new-warring-states",
+          "publishedOn": "2025-10-16T17:04:45.000Z",
+          "wordCount": 12881,
+          "title": "Welcome To The New Warring States",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/Warring-States-Final-2-H.jpg?fm=pjpg&ixlib=php-3.3.1&s=2f47eb279e6665a16036090a0f1acfa1"
+        },
+        {
           "id": "https://www.noemamag.com/rescuing-democracy-from-the-quiet-rule-of-ai",
           "author": "Andrew Sorota",
           "description": "The post Rescuing Democracy From The Quiet Rule Of AI appeared first on NOEMA.",
@@ -1719,6 +1729,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545426",
+          "author": "Berkeleyside Staff",
+          "description": "The epicenter of the quake, which was reported at 9:23 a.m., was in the center of campus, according to preliminary information from the U.S. Geological Survey.",
+          "link": "https://www.berkeleyside.org/2025/10/16/magnitude-3-1-earthquake-shakes-uc-berkeley-campus-an-hour-before-planned-quake-drill",
+          "publishedOn": "2025-10-16T16:40:12.000Z",
+          "wordCount": 6862,
+          "title": "Magnitude 3.1 earthquake shakes UC Berkeley campus an hour before planned quake drill",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-2.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=545386",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events this week include the Berkeley Bird Festival, a Fix-It Fest and a community dance party at La Peña Cultural Center.",
+          "link": "https://www.berkeleyside.org/2025/10/16/no-kings-protest-east-bay-saturday-october-18",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 7813,
+          "title": "The ‘No Kings’ protests planned Saturday in Berkeley and Oakland",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251015-232345.webp"
+        },
         {
           "id": "https://oaklandside.org/?p=462831",
           "author": "Jose Fermoso",
@@ -5032,16 +5062,6 @@
           "wordCount": 4251,
           "title": "Meera Sodha’s recipe for Malaysian eggs | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/b92425de74cf64e25f360d5ea21c76c14d40e779/0_694_3722_2977/master/3722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=480619a95dde96d94e9b48fe6b0baad2"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/jul/19/vegan-recipe-sweetcorn-hiyashi-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "These cooled noodles in a salty-sour sweetcorn sauce are the perfect salad stand-in for hot summer days\nIn 2003, I had my first som tam salad in Bangkok’s searing 30-degree heat. It was crunchy and packed to the rafters with flavour, but, more importantly, it was cold. Until then, I’d been eating hot food in hot weather, but ever since I’ve been chasing that perfect cold summer meal. These cold hiyashi ramen come close for me. They’re ludicrously versatile (think salad plus sauce plus noodles), and the only “cooking” to be done is boiling the noodles; the rest is chopping, blending (the sauce) and assembling. It is truly summertime where the living is easy.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/jul/19/vegan-recipe-sweetcorn-hiyashi-meera-sodha",
-          "publishedOn": "2025-07-19T05:00:12.000Z",
-          "wordCount": 4376,
-          "title": "Meera Sodha’s vegan recipe for sweetcorn hiyashi | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/e8289978412c313537a8d97008147b124f4f5cf3/279_1458_3769_3015/master/3769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39f3100b545fdc3a2586f98455715620"
         }
       ]
     },
@@ -5222,6 +5242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Pf2TCk3Jvvg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Pf2TCk3Jvvg",
+          "publishedOn": "2025-10-16T16:00:46.000Z",
+          "wordCount": 1969,
+          "title": "@GloriaEstefanOficial left her prized possession at the desk.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/i7VFndY38QA",
           "author": null,
@@ -5909,6 +5939,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/universe-reductionist/",
+          "author": "Ethan Siegel",
+          "description": "There’s a statement that one can make that would have been completely non-controversial at the end of the 19th century, but many people both in and out of science would argue against it today. Consider for yourself how you feel about it:\n“The fundamental laws that govern the smallest constituents of matter and energy, when applied to the Universe over long enough cosmic timescales, can explain everything that will ever emerge.”\nThis means that the formation of literally everything in our Universe, from atomic nuclei to atoms to simple molecules to complex molecules to life to intelligence to consciousness and beyond, can all be understood as something that emerges directly from the fundamental laws underpinning reality, with no additional laws, forces, or interactions required.\nThis simple…",
+          "link": "https://bigthink.com/starts-with-a-bang/universe-reductionist/",
+          "publishedOn": "2025-10-16T15:16:10.000Z",
+          "wordCount": 4222,
+          "title": "Yes, reductionism can explain everything in the whole Universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/07/134518-134519.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/lessons-from-two-of-the-greatest-investors-of-all-time/",
+          "author": "Eric Markowitz",
+          "description": "I’ve had the pleasure of getting to know Alex Morris over the last few years. He’s one of the most thoughtful investors I know: measured, patient, and relentlessly focused on quality over noise.\nThis week, for my Long Game column in Big Think, I spoke with him about his recent book — Buffett and Munger Unscripted — which draws entirely from primary sources: decades of Berkshire Hathaway transcripts and letters.\nMany books have been written about Berkshire Hathaway’s architects, but Alex’s stands out for its clarity. He distills decades of Buffett and Munger’s wisdom into something timeless. “Optimism without discipline is dangerous,” Alex says. “But discipline without optimism is paralyzing. Buffett and Munger managed to hold both.”\nWe talked about many themes, including restraint, scale, …",
+          "link": "https://bigthink.com/business/lessons-from-two-of-the-greatest-investors-of-all-time/",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 3044,
+          "title": "Lessons from two of the greatest investors of all time",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/10.15-Nightcrawler_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/sean-carroll-clockwork-universe/",
+          "author": "Sean Carroll",
+          "description": "What if the universe is a machine, and every moment in our past, present, and future is already encoded in the positions of its particles?\nPhysicist Sean Carroll explores the unsettling implications of classical mechanics, from Newton’s laws to Laplace’s thought experiment, showing how determinism challenges the very idea of free will.\nThis video Sean Carroll: Can we ever escape the logic of a clockwork universe? is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/sean-carroll-clockwork-universe/",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 2788,
+          "title": "Sean Carroll: Can we ever escape the logic of a clockwork universe?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/B1-Web-Carroll-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-present/why-nasa-should-go-all-in-on-nuclear-propulsion/",
           "author": "Ross Pomeroy",
