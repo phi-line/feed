@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-17T00:18:59.923Z</updated>
+    <updated>2025-10-17T06:06:37.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Is the Hubble tension the same thing as dark energy?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/"/>
+        <updated>2025-10-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For a long time throughout the 20th century, the main goal of cosmology was twofold:
+to measure the expansion rate of the Universe today, known as the Hubble constant,
+and to measure how the expansion rate was changing over time, then known as the deceleration parameter.
+After all, we had a law of gravity — Einstein’s General Relativity — that allowed us to calculate how the Universe would evolve based on the amount, density, and distribution of matter and energy within it. We observed the Universe to be roughly uniform in all locations and all directions, and we learned back in the 1920s and 1930s that the Universe was expanding. If we could just measure those two parameters, we thought, we’d know it all: the age, history, composition, and even the fate of our Universe.
+Oh, if only we rea…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley Wire: UC buys Residence Inn for $176M; why Nobel Prize winners get free parking from Cal]]></title>
         <id>https://www.berkeleyside.org/?p=545457</id>
