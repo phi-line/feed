@@ -5121,6 +5121,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/visualizing-framings",
+          "author": null,
+          "description": "A stolen attempt",
+          "link": "https://aethermug.com/posts/visualizing-framings?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-10-17T05:42:16.000Z",
+          "wordCount": 7024,
+          "title": "Visualizing Framings",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/visualizing-framings/jtbd_2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/visualizing-framings/jtbd_2.png"
+        },
+        {
           "id": "https://aethermug.com/posts/strive-as-it-might",
           "author": null,
           "description": "",
@@ -5292,6 +5307,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xSDfCwDmJNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xSDfCwDmJNo",
+          "publishedOn": "2025-10-17T09:01:36.000Z",
+          "wordCount": null,
+          "title": "Tame Impala: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Pf2TCk3Jvvg",
           "author": null,

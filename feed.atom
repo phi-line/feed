@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-17T06:06:37.541Z</updated>
+    <updated>2025-10-17T12:07:39.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tame Impala: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=xSDfCwDmJNo</id>
+        <link href="https://www.youtube.com/watch?v=xSDfCwDmJNo"/>
+        <updated>2025-10-17T09:01:36.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask Ethan: Is the Hubble tension the same thing as dark energy?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/</id>
@@ -18,6 +27,16 @@ After all, we had a law of gravity — Einstein’s General Relativity — that 
 Oh, if only we rea…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Framings]]></title>
+        <id>https://aethermug.com/posts/visualizing-framings</id>
+        <link href="https://aethermug.com/posts/visualizing-framings?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-10-17T05:42:16.000Z</updated>
+        <summary type="html"><![CDATA[A stolen attempt]]></summary>
+        <author>
+            <name>Aether Mug</name>
         </author>
     </entry>
     <entry>
