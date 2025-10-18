@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-18T06:06:06.501Z</updated>
+    <updated>2025-10-18T12:06:53.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘No Kings’ protests set for Berkeley, Oakland today opposing Trump’s ramped-up power grab]]></title>
+        <id>https://www.berkeleyside.org/?p=545500</id>
+        <link href="https://www.berkeleyside.org/2025/10/18/no-kings-protest-trump-berkeley-oakland"/>
+        <updated>2025-10-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A large "No Kings" march is planned for Oakland in the early afternoon and three protests are scheduled for Berkeley.]]></summary>
+        <author>
+            <name>Safiyah Riddle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for jacket sweet potato with smoked tofu, slaw and crispy chilli mayo | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2025/oct/18/jacket-sweet-potato-recipe-smoked-tofu-slaw-chilli-oil-meera-sodha</id>
@@ -7867,16 +7877,6 @@ The post AI Comes Up with Bizarre Physics Experiments. But They Work. first appe
         <updated>2025-07-21T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scapegoating the Algorithm]]></title>
-        <id>https://asteriskmag.com/issues/11/scapegoating-the-algorithm</id>
-        <link href="https://asteriskmag.com/issues/11/scapegoating-the-algorithm"/>
-        <updated>2025-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[America’s epistemic challenges run deeper than social media.]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
     <entry>

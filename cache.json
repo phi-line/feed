@@ -608,16 +608,6 @@
           "wordCount": 5059,
           "title": "Yes In My Bamako Yard",
           "imageUrl": null
-        },
-        {
-          "id": "https://asteriskmag.com/issues/11/scapegoating-the-algorithm",
-          "author": null,
-          "description": "America’s epistemic challenges run deeper than social media.",
-          "link": "https://asteriskmag.com/issues/11/scapegoating-the-algorithm",
-          "publishedOn": "2025-07-21T00:00:00.000Z",
-          "wordCount": 4405,
-          "title": "Scapegoating the Algorithm",
-          "imageUrl": null
         }
       ]
     },
@@ -1759,6 +1749,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545500",
+          "author": "Safiyah Riddle",
+          "description": "A large \"No Kings\" march is planned for Oakland in the early afternoon and three protests are scheduled for Berkeley.",
+          "link": "https://www.berkeleyside.org/2025/10/18/no-kings-protest-trump-berkeley-oakland",
+          "publishedOn": "2025-10-18T11:00:00.000Z",
+          "wordCount": 7470,
+          "title": "‘No Kings’ protests set for Berkeley, Oakland today opposing Trump’s ramped-up power grab",
+          "imageUrl": "https://i0.wp.com/assets.citysidejournalism.org/asset/4b65b140-865f-480f-aaec-e9da565e09bd/large/NoKingsBerkey_6142025_SaraMartin-11.jpg?w=780&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=538446",
           "author": "Lakshmi Sarah, Lisa Pickoff-White, Carly Severn, Nisa Khan and Carlos Cabrera-Lomelí | KQED",
