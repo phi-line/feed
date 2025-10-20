@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-20T06:06:45.940Z</updated>
+    <updated>2025-10-20T12:08:16.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kokoroko: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=Xcv0O44zfeU</id>
+        <link href="https://www.youtube.com/watch?v=Xcv0O44zfeU"/>
+        <updated>2025-10-20T09:00:46.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is our first “galaxy-quasar hybrid” also a Little Red Dot?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/galaxy-quasar-hybrid-little-red-dot/</id>
@@ -7754,39 +7763,6 @@ The post The Cells That Breathe Two Ways first appeared on Quanta Magazine]]></s
         <summary type="html"><![CDATA["How Optimists Are Alike"]]></summary>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google in 1999: Search Engines Escape the Portal Matrix]]></title>
-        <id>https://cybercultural.com/p/google-1999/</id>
-        <link href="https://cybercultural.com/p/google-1999/"/>
-        <updated>2025-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google founders, 1999; photo by William Mercer McLeod.
-"Aren’t you rather late to the game?"
-It's January 1999 and that question was put to Google's young founders, Larry Page and Sergey Brin. The interviewer was Karsten Lemm from a German startup magazine called Stern. Lemm, who later in the article cited AltaVista and Excite as "established search engines," was right to be skeptical. After all, Page and Brin's company, Google, had only been incorporated four months ago.
-"It’s possible to do a much better job on search, and it’s the main application that people use on the Internet," replied Page. "So there’s a big opportunity, because if you do a better job really matters to people. People make decisions based on information they find on the Web. So companies that are in-between people an…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Robert W. Fuller, physicist, president of Oberlin College, citizen diplomat, author, dignity advocate]]></title>
-        <id>https://www.berkeleyside.org/?p=540714</id>
-        <link href="https://www.berkeleyside.org/2025/07/22/robert-fuller-obituary"/>
-        <updated>2025-07-22T20:47:29.000Z</updated>
-        <summary type="html"><![CDATA[He coauthored a major paper on wormholes with John Wheeler, and at age 33 he became president of Oberlin College. Fuller then fought against hunger, the nuclear arms race, and rank-based discrimination on the global stage.]]></summary>
-        <author>
-            <name>Family of Robert W. Fuller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland’s newest speakeasy breaks all the rules to conjure something unique]]></title>
-        <id>https://www.berkeleyside.org/?p=540750</id>
-        <link href="https://www.berkeleyside.org/2025/07/22/13-orphans-mahjong-tea-cocktails"/>
-        <updated>2025-07-22T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The folks at Baba's House have opened 13 Orphans, a mahjong lounge featuring tea-based cocktails and a fusion dim sum-style menu.]]></summary>
-        <author>
-            <name>Skylla Mumana</name>
         </author>
     </entry>
     <entry>
