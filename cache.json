@@ -1695,16 +1695,6 @@
           "wordCount": 2654,
           "title": "Stubborn Interdependence",
           "imageUrl": "https://noemamag.imgix.net/2025/07/GettyImages-1422453695.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=bb0d4ee5333d3b0330db09a9af6a1792"
-        },
-        {
-          "id": "https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai",
-          "author": "Júlia Keserű",
-          "description": "The post The Future Of Health Data In The Age Of AI appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-future-of-health-data-in-the-age-of-ai",
-          "publishedOn": "2025-07-22T13:23:39.000Z",
-          "wordCount": 8326,
-          "title": "The Future Of Health Data In The Age Of AI",
-          "imageUrl": "https://noemamag.imgix.net/2025/07/Noema_color_v1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=affaa7a572beebf421e376a497faf09e"
         }
       ]
     },
@@ -4707,31 +4697,6 @@
           "wordCount": 7555,
           "title": "Oakland’s newest speakeasy breaks all the rules to conjure something unique",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/13-Orphans-mahjong.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540739",
-          "author": "Alex N. Gecan",
-          "description": "Ruiz is facing 17 felony charges from that incident and another misdemeanor case from a March 22 incident when he drew a stun gun on protesters at an anti-Elon Musk rally on Berkeley's Fourth Street.",
-          "link": "https://www.berkeleyside.org/2025/07/22/ricardo-gonzalez-ruis-competency-evaluation",
-          "publishedOn": "2025-07-22T17:11:51.000Z",
-          "wordCount": 7728,
-          "title": "Ricardo Ruiz, shot by Berkeley police in armed standoff, declared competent to stand trial",
-          "enclosure": {
-            "url": "https://videos.files.wordpress.com/A9Yi0Oi3/pra_25-16638_04.mp4",
-            "length": "3035284328",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Ricardo-Ruiz.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540731",
-          "author": "Nico Savidge",
-          "description": "A vendor failed to send out renewal notices for Berkeley’s resident parking permit program. The city is now offering refunds and has extended the renewal deadline.",
-          "link": "https://www.berkeleyside.org/2025/07/22/berkeley-parking-ticket-resident-permit-refund-rpp",
-          "publishedOn": "2025-07-22T14:00:00.000Z",
-          "wordCount": 7108,
-          "title": "Berkeley apologizes for screw-up that led to surprise parking tickets",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/11/elmwood.jpg?fit=4032%2C3024&ssl=1"
         }
       ]
     },
@@ -6008,6 +5973,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/galaxy-quasar-hybrid-little-red-dot/",
+          "author": "Ethan Siegel",
+          "description": "To discover what’s out there in the Universe, you simply have to look.\n\nThis image shows the full COSMOS (Cosmic Evolution Survey) from the Hubble Space Telescope: its largest ever survey of the Universe. Hubble photographed 575 adjacent and slightly overlapping views of the universe using the Advanced Camera for Surveys’ (ACS) Wide Field Camera onboard Hubble, requiring nearly 1000 hours of observations. At full resolution the image would be 100,800 x 100,800 pixels.\n\nCredit: NASA, ESA and A. Koekemoer (STScI)\n\n\nBut only by looking in the right ways can you uncover all that’s present.\n\nThe Cosmic Evolution Early Release Science Survey (CEERS Survey) broke the record for largest deep-field image taken by JWST and held it for several months in 2022, a record that was previously held by the …",
+          "link": "https://bigthink.com/starts-with-a-bang/galaxy-quasar-hybrid-little-red-dot/",
+          "publishedOn": "2025-10-20T06:00:00.000Z",
+          "wordCount": 2913,
+          "title": "Is our first “galaxy-quasar hybrid” also a Little Red Dot?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/cover-zoom-e1760643742203.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/neuroscience-of-war/",
           "author": "Tim Brinkhof",
