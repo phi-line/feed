@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155747",
+          "author": "Evan Howell",
+          "description": "The uniquely vulnerable West Antarctic Ice Sheet holds enough water to raise global sea levels by 5 meters. But when that will happen — and how fast — is anything but settled.            \nThe post How Soon Will the Seas Rise? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/",
+          "publishedOn": "2025-10-20T14:26:25.000Z",
+          "wordCount": 3754,
+          "title": "How Soon Will the Seas Rise?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/IceSheetCollapse-crRMNunes_iStock-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155700",
           "author": "Yasemin Saplakoglu",
           "description": "Neuroscientists probing the boundary between sleep and awareness are finding many types of liminal states, which help explain the sleep disorders that can result when sleep transitions go wrong.            \nThe post How the Brain Moves From Waking Life to Sleep (and Back Again) first appeared on Quanta Magazine",
@@ -1301,16 +1311,6 @@
           "wordCount": 206,
           "title": "Geologic Periods",
           "imageUrl": "https://imgs.xkcd.com/comics/geologic_periods_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3119/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3119/",
-          "publishedOn": "2025-07-23T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Flettner Rotor",
-          "imageUrl": "https://imgs.xkcd.com/comics/flettner_rotor_2x.png"
         }
       ]
     },
@@ -1703,6 +1703,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545334",
+          "author": "Joanne Furio",
+          "description": "Other new Berkeley books: Jeff Chang’s biography of Bruce Lee, exploring the making of Asian America, and Yvonne Martinez’s novel about labor leaders acting badly.",
+          "link": "https://www.berkeleyside.org/2025/10/20/bruce-lee-and-the-making-of-asian-america-jeff-chang-scabmuggers-yvonne-martinez-love-rebels-how-i-learned-to-burn-it-down-without-burning-out-kitty-stryker",
+          "publishedOn": "2025-10-20T12:53:00.000Z",
+          "wordCount": 9149,
+          "title": "Banged up in the Battles of Berkeley, her new memoir tells activists how to ‘burn it down without burning out’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP17239809937554.jpg?fit=1024%2C726&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545500",
           "author": "Safiyah Riddle",
@@ -5223,21 +5233,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/a-pocket-size-checklist-of-thinking-errors/mario-gogh-8xaMOOkKNsw-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/new-article-on-nautilus-magazine",
-          "author": null,
-          "description": "\"How Optimists Are Alike\"",
-          "link": "https://aethermug.com/posts/new-article-on-nautilus-magazine?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-07-23T00:47:23.000Z",
-          "wordCount": 495,
-          "title": "New article on Nautilus Magazine",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/new-article-on-nautilus-magazine/kobu-agency-TWIRIAizZFU-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/new-article-on-nautilus-magazine/kobu-agency-TWIRIAizZFU-unsplash.jpg"
         }
       ]
     },
@@ -5953,6 +5948,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/5-ways-immersion-in-art-can-boost-your-work-life-happiness/",
+          "author": "Marine Tanguy",
+          "description": "Our search for work-life balance reflects a very real desire: to feel less consumed by obligations, less stressed, and more fulfilled. In my book, The Visual Detox, I explore how the images we’re exposed to shape our inner balance, for better or worse — and I demonstrate how art can gently tip the scales back toward harmony.\nThink of visual art as a toolkit to soothe the mind and spirit. Every day, we are inundated with imagery urging us to work harder, buy more … and never stop. Art offers the exact opposite. It slows and calms us down, sharpens our critical thinking, nurtures happiness, and helps us resist the endless cycle of consumption. In contrast to the ever-present commercial visuals found on our streets and screens, in train stations and airports, engaging with art gives us a brea…",
+          "link": "https://bigthink.com/business/5-ways-immersion-in-art-can-boost-your-work-life-happiness/",
+          "publishedOn": "2025-10-20T13:00:00.000Z",
+          "wordCount": 2090,
+          "title": "5 ways immersion in art can boost your work-life happiness",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/immersion-in-art-boosts-happiness_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-present/evaluating-military-threats/",
+          "author": "Gal Winter",
+          "description": "In 1924, while imprisoned at Landsberg Prison following the failed Beer Hall Putsch, a 35-year-old political agitator named Adolf Hitler began writing his manifesto, Mein Kampf. In it, he called for the destruction of the Treaty of Versailles, the creation of a new German Reich through territorial expansion, and the removal of Jews from German life. \nFourteen years later, on September 30, 1938, British Prime Minister Neville Chamberlain returned from Munich to cheering crowds after concluding a meeting with the same Hitler. Waving a signed piece of paper, he assured his audience that “peace for our time” had been secured. Chamberlain, an experienced diplomat, believed he had persuaded Hitler to abandon the very ambitions he had once gone to prison for attempting to achieve. \nIn less than a…",
+          "link": "https://bigthink.com/the-present/evaluating-military-threats/",
+          "publishedOn": "2025-10-20T13:00:00.000Z",
+          "wordCount": 2863,
+          "title": "The West struggles to evaluate threats. Here’s how it can get better.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/west-struggle-evaluate-threats_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/great-inflection-2025/",
+          "author": "Peter Leyden",
+          "description": "We are living through the collapse of the old world, and the quiet construction of a new one. From artificial intelligence and clean energy to bioengineering and digital governance, the core systems that defined the last century are rapidly being dismantled and replaced. But this isn’t just about technology. \nAccording to futurist Peter Leyden, we’re at a historic turning point: One of the rare moments in American and global history when everything gets reimagined at once.\nThis video Why 2025 is the single most pivotal year in our lifetime is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/great-inflection-2025/",
+          "publishedOn": "2025-10-20T13:00:00.000Z",
+          "wordCount": 1178,
+          "title": "Why 2025 is the single most pivotal year in our lifetime",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/A1-Web-Leyden.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/when-ai-self-censors/",
+          "author": "Jacob Mchangama",
+          "description": "What happens when the technology mediating nearly all our information begins to decide what speech is acceptable? \nFree speech scholar Jacob Mchangama warns that AI’s growing role in search, email, and word processing means its hidden biases could shape freedom of thought itself. With his team at the Future of Free Speech, Mchangama ran an experiment that tested 268 prompts against popular LLMs and found that the results often reflected inconsistent standards. According to Mchangama, this shows why ownership of AI models matters, since their values, incentives, and pressures ultimately shape public access to information.\nThis video Even AI is self-censoring. Here’s why that matters. is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/when-ai-self-censors/",
+          "publishedOn": "2025-10-20T13:00:00.000Z",
+          "wordCount": 1568,
+          "title": "Even AI is self-censoring. Here’s why that matters.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/The_Well_Jacob_Mchangama_EILIS_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/galaxy-quasar-hybrid-little-red-dot/",
           "author": "Ethan Siegel",
@@ -7440,6 +7475,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=11065",
+          "author": "Jessica Hylton",
+          "description": "Moist and tender with a spicy kick, these vegan cornbread muffins are easy to make and have a simple gluten-free option, which means everyone at the table can enjoy them! Whether it’s Jalapeño Cornbread Waffles or Cornbread Pudding, cornbread is total comfort food for me. I love the subtle sweetness combined with that moist, tender […]",
+          "link": "https://jessicainthekitchen.com/gluten-free-cornbread-muffins-vegan/",
+          "publishedOn": "2025-10-20T14:00:00.000Z",
+          "wordCount": 6540,
+          "title": "Vegan Cornbread Muffins With Jalapeños",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2016/11/Jalapeno-Cornbread1838.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=17887",
           "author": "Jessica Hylton",
