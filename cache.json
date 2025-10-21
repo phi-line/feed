@@ -480,6 +480,26 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/12-books/the-china-tech-canon",
+          "author": null,
+          "description": "How does the paideía of the Chinese tech elite differ from their counterparts in Silicon Valley?",
+          "link": "https://asteriskmag.com/issues/12-books/the-china-tech-canon",
+          "publishedOn": "2025-10-20T00:00:00.000Z",
+          "wordCount": 4083,
+          "title": "The China Tech Canon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://asteriskmag.com/issues/12-books/book-smarts",
+          "author": null,
+          "description": "Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.",
+          "link": "https://asteriskmag.com/issues/12-books/book-smarts",
+          "publishedOn": "2025-10-17T00:00:00.000Z",
+          "wordCount": 1725,
+          "title": "Book Smarts",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/11/kingdom-of-jesus-christ-the-name-above-all-names-inc",
           "author": null,
           "description": "Apollo Quiboloy — according to his followers — is the appointed son of God. He’s also at the center of a criminal empire, an explosive rift in the government of the Philippines, and a shift in the makeup of global Christianity.",
@@ -616,6 +636,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/price-of-ecoli",
+          "author": "Asimov Press",
+          "description": "Bioengineers commonly view microbes as reprogrammable “cellular factories” for manufacturing high-value molecules. But what are we throwing away?",
+          "link": "https://www.asimov.press/p/price-of-ecoli",
+          "publishedOn": "2025-10-20T19:16:21.000Z",
+          "wordCount": null,
+          "title": "The Price of E. Coli",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!BtY4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b95560-b1ec-4f9d-b706-3560470b695a_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!BtY4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b95560-b1ec-4f9d-b706-3560470b695a_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/filters",
           "author": "Niko McCarty",
@@ -942,6 +978,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3157/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3157/",
+          "publishedOn": "2025-10-20T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Emperor Palpatine",
+          "imageUrl": "https://imgs.xkcd.com/comics/emperor_palpatine_2x.png"
+        },
         {
           "id": "https://xkcd.com/3156/",
           "author": null,
@@ -1703,6 +1749,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545683",
+          "author": "Nico Savidge",
+          "description": "After years of blight and uncertainty, a Los Angeles real estate firm closed on the 2200 block of Shattuck Avenue this month.",
+          "link": "https://www.berkeleyside.org/2025/10/20/downtown-berkeley-vacant-shattuck-avenue-sold-flying-horse",
+          "publishedOn": "2025-10-20T21:47:06.000Z",
+          "wordCount": 7690,
+          "title": "A prime downtown Berkeley block has long been vacant. Its new owner promises a revival",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_9817-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=544014",
+          "author": "CalMatters",
+          "description": "The measure would adopt new congressional lines that favor Democrats for the next three election cycles in an effort to offset partisan gerrymandering in other states. Oct. 20 is the last day to register to vote online.",
+          "link": "https://www.berkeleyside.org/2025/10/20/proposition-50-california",
+          "publishedOn": "2025-10-20T18:27:15.000Z",
+          "wordCount": 7601,
+          "title": "How to vote in California’s Nov. 4 special election on redistricting",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/image.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545334",
           "author": "Joanne Furio",
@@ -5948,6 +6014,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/life/the-next-revolution-in-biology-isnt-reading-lifes-code-its-writing-it/",
+          "author": "Andrew Hessel",
+          "description": "For most of human history, we could only imagine what made us who we are. Then, just over two decades ago, the Human Genome Project — the international scientific effort to decode the three billion letters of human DNA — changed everything. \nCritics at the time called it too expensive, too ambitious, too abstract. And they weren’t wrong. It was the largest biology project ever proposed, and scientists hadn’t even managed to sequence the smallest bacterial genome yet. But the organizers knew that big plans — moonshots — inspire people and attract funding. \nToday, nearly every advance in modern medicine rests on its foundation. The project transformed biology into an information science, spawning ancestry testing, virus tracking, precision cancer therapies, the first personalized medicines, …",
+          "link": "https://bigthink.com/life/the-next-revolution-in-biology-isnt-reading-lifes-code-its-writing-it/",
+          "publishedOn": "2025-10-20T18:55:48.000Z",
+          "wordCount": 2742,
+          "title": "The next revolution in biology isn’t reading life’s code — it’s writing it",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/writing-human-genome_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/neuropsych/the-37-percent-rule/",
+          "author": "Jonny Thomson",
+          "description": "It’s time for Macy to move home. She’s scored a promotion and she’s tired of hearing the man in the apartment above play his French horn. So, she books a few viewings with her real estate agent and starts looking at houses. After looking at three places, she falls in love: It’s a house with a huge backyard and a nice open-plan kitchen. What’s more, the school down the road has a great reputation. She’s all set to put in an offer.\nBut that night a question pops into her head: What if the next house is better? She can’t shake the thought. What if the next house has a bigger backyard, or maybe a double garage? What if it’s cheaper?!\nWe’ve all found ourselves in this situation, whether we’re considering job offers, buying a new car, or dating new people. When it comes to love, how many people …",
+          "link": "https://bigthink.com/neuropsych/the-37-percent-rule/",
+          "publishedOn": "2025-10-20T17:00:00.000Z",
+          "wordCount": 2224,
+          "title": "The 37% rule: How many people should you date before settling down?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/37-percent-rule_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/5-ways-immersion-in-art-can-boost-your-work-life-happiness/",
           "author": "Marine Tanguy",
