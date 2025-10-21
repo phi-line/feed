@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/10/walk",
+          "author": null,
+          "description": "A visually-aided journal of a very long walk home.",
+          "link": "https://pudding.cool/2025/10/walk",
+          "publishedOn": "2025-10-20T04:00:00.000Z",
+          "wordCount": 6841,
+          "title": "What it’s like to walk across Massachusetts",
+          "imageUrl": "https://pudding.cool/2025/10/walk/assets/og.png"
+        },
+        {
           "id": "https://pudding.cool/2025/08/onions",
           "author": null,
           "description": "What is the best way to dice an onion to get the most uniform piece sizes?",
@@ -14,16 +24,6 @@
           "wordCount": 1410,
           "title": "Dicing an Onion, the Mathematically Optimal Way",
           "imageUrl": "https://pudding.cool/2025/08/onions/assets/social.jpg"
-        },
-        {
-          "id": "https://pudding.cool/2025/07/street-view",
-          "author": null,
-          "description": "What if you could search every visible word on New York City’s streets?",
-          "link": "https://pudding.cool/2025/07/street-view",
-          "publishedOn": "2025-07-24T04:00:00.000Z",
-          "wordCount": 45,
-          "title": "NYC's Urban Textscape",
-          "imageUrl": "https://pudding.cool/2025/07/street-view/assets/images/social-facebook.jpg"
         }
       ]
     },
@@ -1367,6 +1367,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-abundance-movements-blind-spot",
+          "author": "Brian Stone Jr",
+          "description": "The post The Abundance Movement’s Blind Spot appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-abundance-movements-blind-spot",
+          "publishedOn": "2025-10-21T14:06:31.000Z",
+          "wordCount": 6740,
+          "title": "The Abundance Movement’s Blind Spot",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/NOEMA_B_AUPOIX-1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=80b63e6acd79b33f8e9d0bf6a9bfdece"
+        },
+        {
           "id": "https://www.noemamag.com/creative-disruption-in-the-order-of-the-world",
           "author": "Nathan Gardels",
           "description": "The post Creative Disruption In The Order Of The World appeared first on NOEMA.",
@@ -1713,6 +1723,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545647",
+          "author": "Tovin Lapan",
+          "description": "The Nosh Awards are bigger than ever this year, with four new categories celebrating the best in East Bay food and drinks.",
+          "link": "https://www.berkeleyside.org/2025/10/21/nosh-awards-2025-nominate-east-bay-best-dining-drinks",
+          "publishedOn": "2025-10-21T14:30:00.000Z",
+          "wordCount": 7100,
+          "title": "2025 Nosh Awards: Nominate your favorite East Bay spots",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Nosh-Ballot-NominationsGraphic.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=545687",
+          "author": "Hayden Royster",
+          "description": "Church for Today, founded in 1957 by the Rev. William Hazaiah Williams, Jr., built a reputation as a multiracial hub known for its concert series showcasing Black opera stars and classical musicians. Its future's uncertain.",
+          "link": "https://www.berkeleyside.org/2025/10/21/berkeley-church-for-today-razed",
+          "publishedOn": "2025-10-21T13:57:00.000Z",
+          "wordCount": 7846,
+          "title": "Berkeley church to be razed and replaced with 3 homes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_7491-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545683",
           "author": "Nico Savidge",
@@ -4709,6 +4739,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/wayback-machine-launch-2001/",
+          "author": null,
+          "description": "Internet Archive website after the launch of Wayback Machine in October 2001.\nIf the future is going to devolve into chaos, then the present ought to be preserved somehow, online. That was part of the thinking behind the Wayback Machine, a public archive of web pages that was launched on October 24, 2001, at a library at the University of California at Berkeley.\nAt the event, Internet Archive founder Brewster Kahle demonstrated the new time machine by pulling up a web page from the White House website from September 10, 1996, featuring President Clinton declaring the prevention of hijacking and terrorist attacks in the air a priority. Kahle then showed a special collection of archived websites about 9/11 (still, of course, fresh in the collective memory).\n\nSeptember 11 archive in the Wayba…",
+          "link": "https://cybercultural.com/p/wayback-machine-launch-2001/",
+          "publishedOn": "2025-10-21T00:00:00.000Z",
+          "wordCount": 1594,
+          "title": "2001: The Internet Gets a Memory With the Wayback Machine",
+          "imageUrl": "https://cybercultural.com/assets/images/internet-archive-website-nov01.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/itunes-launch-2001/",
           "author": null,
           "description": "Steve Jobs introducing the 'digital hub' concept, Macworld SF, January 2001; via Stefano Paris.\nWhen Steve Jobs opened Macworld on January 9, 2001, he boasted that in addition to the live audience in San Francisco, “we're streaming all the way up to a megabit per second all around the world.” Although he only mentioned streaming a couple more times during the event, it was a hint of what was to come.\nAt around the 40-minute mark, Jobs began talking about what Apple’s vision was in 2001, especially now that the economy was mired in a post-dot-com depression. He referenced some media reports that the PC had become boring and that its impact was waning. He talked about two “golden ages” for the PC: from 1980-1994, based around productivity applications, and 1995-2000, “the age of the Internet…",
@@ -5938,6 +5978,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/sea-slugs-and-the-nature-of-consciousness/",
+          "author": "Nikolay Kukushkin",
+          "description": "A sharp border separating the physical and the mental is intuitively obvious. It is the reason why most cultures believe in a soul of some kind — an entity distinct from the body that experiences its sensations and beliefs.\nScience, too, has generally seen this border as impenetrable. The great German mathematician Gottfried Leibniz used the famous “mill argument”: If there was, he wrote in 1714, “a machine whose structure makes it think, sense, and have perceptions,” then you could imagine enlarging it to a size of a mill and walking into it — but all you’d be able to see is parts that push one another, and no amount of detail could explain how all of that converts into actual thinking and perceiving.\nIn the mid-20th century, this wisdom was considered so unshakeable that an entire tradit…",
+          "link": "https://bigthink.com/books/sea-slugs-and-the-nature-of-consciousness/",
+          "publishedOn": "2025-10-21T14:30:00.000Z",
+          "wordCount": 2572,
+          "title": "What sea slugs can teach us about the nature of consciousness",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/AdobeStock_562311399.jpeg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-royal-caribbean-transformed-innovation-with-a-weird-acronym/",
+          "author": "Richard Fain",
+          "description": "Behind every cruise, every smile, every unexpected thrill, there’s a world of non-ship-related innovation making it all possible. These innovations create new destinations, streamline the guest experience with technology, design for a more sustainable future, or otherwise enhance the experience. These efforts aren’t sexy, but they are powerful.\nWhile my suggestion of Project Archimedes was considered too difficult for a project name, ETDBW (which is even harder to remember or pronounce) turned into one of our best. It was not just a name but a rallying cry — something that sparked real alignment across Royal Caribbean. \nIt all started back in the early 1990s at a meeting with our travel agent advisory board. This was a group of about a dozen standout travel advisors from across the country…",
+          "link": "https://bigthink.com/business/how-royal-caribbean-transformed-innovation-with-a-weird-acronym/",
+          "publishedOn": "2025-10-21T13:00:00.000Z",
+          "wordCount": 1995,
+          "title": "How Royal Caribbean transformed innovation with a weird acronym",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/delivering-the-wow_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/red-dwarfs-uninhabitable/",
           "author": "Ethan Siegel",
