@@ -1724,6 +1724,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=545782",
+          "author": "Vanessa Arredondo and Nico Savidge",
+          "description": "The school was vacated in 2020 after a study found it was vulnerable to earthquakes and unsafe.",
+          "link": "https://www.berkeleyside.org/2025/10/21/oxford-elementary-site",
+          "publishedOn": "2025-10-21T19:09:25.000Z",
+          "wordCount": 7648,
+          "title": "Oxford Elementary site sold to Berkeley housing developer for $3M",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/10/oxford-elementary-berkeley.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=545756",
+          "author": "Paulina Barrack",
+          "description": "The new cafe from the owners of the acclaimed Rose Pizzeria mixes Italian influences with the Jewish breakfast classic.",
+          "link": "https://www.berkeleyside.org/2025/10/21/cafe-brusco-bagels-espresso-rose-pizzeria",
+          "publishedOn": "2025-10-21T19:00:00.000Z",
+          "wordCount": 7973,
+          "title": "Cafe Brusco brings house-made bagels with a seasonal edge to University Avenue",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Natera_NOSH-CafeBrusco_251009_018.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=545647",
           "author": "Tovin Lapan",
           "description": "The Nosh Awards are bigger than ever this year, with four new categories celebrating the best in East Bay food and drinks.",
@@ -4886,6 +4906,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=91335",
+          "author": "deb",
+          "description": "what is this! What is this god-like aroma of buttery baked cinnamon sugar warmth that has permeated your senses? Is it a scented candle, i.e. the idea, but not the substance of a thing you love? No, it’s snickerdoodles. And you’re about to eat a warm one, which feels like climbing inside It’s The Great Pumpkin, Charlie Brown while also, simultaneously, getting to be this dog. I’m not saying you cannot experience this sensory transcendency on a day in January or June, but it hits on a different, worldview-shifting, level when cold air is still a novel thing.\n\n\nRead more »",
+          "link": "https://smittenkitchen.com/2025/10/brown-butter-snickerdoodles/",
+          "publishedOn": "2025-10-21T19:21:15.000Z",
+          "wordCount": 5677,
+          "title": "brown butter snickerdoodles",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/10/brown-butter-snickerdoodles-07-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=91215",
           "author": "deb",
           "description": "Gnudi literally means “naked” in Italian — consider them spinach and ricotta ravioli without the pasta wrapper. I think they’re better in every way because you get all of the soft, cheesy filling, none of the pasta fuss that can feel leaden together. Typically, gnudi are made with fresh greens that have been blanched and finely chopped but I’ve been on a mission over the last year to give frozen spinach (reliable! economical! seasonless!) more love, especially when all I’d planned to do with the fresh stuff was cook it down and feel bereft when it vanished. Frozen spinach saves me this heartache, and here we’re using a whole box, saving us a math headache too.\nRead more »",
@@ -5959,16 +5989,6 @@
           "publishedOn": "2025-07-29T09:01:18.000Z",
           "wordCount": null,
           "title": "Sasha Keable: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gh9pCl1cL8A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gh9pCl1cL8A",
-          "publishedOn": "2025-07-24T09:00:24.000Z",
-          "wordCount": null,
-          "title": "PUP: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
