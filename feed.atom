@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-22T06:07:02.284Z</updated>
+    <updated>2025-10-22T12:07:55.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parcels: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=eUjQkMma-Is</id>
+        <link href="https://www.youtube.com/watch?v=eUjQkMma-Is"/>
+        <updated>2025-10-22T09:00:55.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We still don’t know how “hot” the hot Big Bang was]]></title>
         <id>https://bigthink.com/starts-with-a-bang/how-hot-big-bang/</id>
@@ -7885,36 +7894,6 @@ The post Quantum Scientists Have Built a New Math of Cryptography first appeared
         <summary type="html"><![CDATA[Also: Mountain lion spotted in Berkeley. A petition to save Half Price Books. And you can weigh in now on mosaic designs for a city community center.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City Council shoots down attempts to landmark 2 buildings eyed for housing]]></title>
-        <id>https://www.berkeleyside.org/?p=540899</id>
-        <link href="https://www.berkeleyside.org/2025/07/24/berkeley-landmarks-kittredge-durant-housing-preservation"/>
-        <updated>2025-07-24T23:51:03.000Z</updated>
-        <summary type="html"><![CDATA[A meeting Wednesday put on display the tension between historic preservation and new development in a rapidly changing Berkeley.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alameda County charts plan for hundreds of millions in housing and homelessness money]]></title>
-        <id>https://oaklandside.org/?p=458264</id>
-        <link href="https://www.berkeleyside.org/2025/07/24/alameda-county-board-measure-w-spending-homelessness"/>
-        <updated>2025-07-24T20:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Around 80% of Measure W revenue will go to homelessness. The rest of the newly released funds are for other “essential services.”]]></summary>
-        <author>
-            <name>Natalie Orenstein and Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheese-flavored ice cream comes to Berkeley; Mugunghwa expands into Oakland]]></title>
-        <id>https://www.berkeleyside.org/?p=540870</id>
-        <link href="https://www.berkeleyside.org/2025/07/24/mugungwha-melt-me-kien-svay-new-restaurants"/>
-        <updated>2025-07-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
         </author>
     </entry>
     <entry>
