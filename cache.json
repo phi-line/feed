@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155819",
+          "author": "Ben Brubaker",
+          "description": "Recent findings reveal that even simple pricing algorithms can make things more expensive.             \nThe post The Game Theory of How Algorithms Can Drive Up Prices first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
+          "publishedOn": "2025-10-22T13:47:18.000Z",
+          "wordCount": 3047,
+          "title": "The Game Theory of How Algorithms Can Drive Up Prices",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Algorithmic-Collusion-cr-Nash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155747",
           "author": "Evan Howell",
           "description": "The uniquely vulnerable West Antarctic Ice Sheet holds enough water to raise global sea levels by 5 meters. But when that will happen — and how fast — is anything but settled.            \nThe post How Soon Will the Seas Rise? first appeared on Quanta Magazine",
@@ -1301,16 +1311,6 @@
           "wordCount": 206,
           "title": "Kite Incident",
           "imageUrl": "https://imgs.xkcd.com/comics/kite_incident_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3120/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3120/",
-          "publishedOn": "2025-07-25T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Geologic Periods",
-          "imageUrl": "https://imgs.xkcd.com/comics/geologic_periods_2x.png"
         }
       ]
     },
@@ -1713,6 +1713,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=545786",
+          "author": "Nathan Dalton and Joanne Furio",
+          "description": "Stefan Schuch’s latest brand aims to enlist canines in the “fight against fascism” and a president who’s “full of shit.” Also: Paisley Vintage closes and a new business teaches mahjongg.",
+          "link": "https://www.berkeleyside.org/2025/10/22/shit-bag-by-smolotov",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 8053,
+          "title": "Shop Talk: Berkeley resident is selling dog poop bags with Donald Trump’s face",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Sh_t-Bag-by-Smolotov-2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=545782",
           "author": "Vanessa Arredondo and Nico Savidge",
@@ -4647,16 +4657,6 @@
           "wordCount": 7700,
           "title": "Berkeley wraps up policy work tackling racial disparities in police stops",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2015/09/press2.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540863",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Mountain lion spotted in Berkeley. A petition to save Half Price Books. And you can weigh in now on mosaic designs for a city community center.",
-          "link": "https://www.berkeleyside.org/2025/07/24/wire-berkeley-lab-director-to-retire-city-gives-away-street",
-          "publishedOn": "2025-07-25T00:15:00.000Z",
-          "wordCount": 6431,
-          "title": "Wire: Berkeley Lab director to retire; city gives away street",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/1025x685px_Michael-Witherell-419.jpg?fit=1025%2C685&ssl=1"
         }
       ]
     },
@@ -5948,6 +5948,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/6-japanese-concepts-you-need-to-know-according-to-marie-kondo/",
+          "author": "Jonny Thomson",
+          "description": "People really like Japanese philosophy. If you ever see a list of “untranslatable words” or “beautiful words from around the world,” then you will notice how Japanese ideas are often overrepresented. Whenever I explore a Japanese concept on the Mini Philosophy social media pages — wabi–sabi, mono no aware, ikigai — they outperform almost everything else.\nPart of this, no doubt, is a kind of exoticism. For much of its history, Japan remained ethnically and culturally distinct from both its Asian neighbors and the wider world. Buddhism drifted over from China and Korea, but it fused with Shinto and indigenous animism to become something uniquely Japanese. Western industrialism arrived in the 19th century under the Meiji Restoration, but even then, Japan found a way to absorb foreign ideas wi…",
+          "link": "https://bigthink.com/mini-philosophy/6-japanese-concepts-you-need-to-know-according-to-marie-kondo/",
+          "publishedOn": "2025-10-22T14:59:54.000Z",
+          "wordCount": 2321,
+          "title": "6 Japanese concepts you need to know, according to Marie Kondo",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/6-japanese-concepts_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/play-research/",
+          "author": "Cas Holman",
+          "description": "There have been those who thought broadly about play and recognized its importance for adults. One of the first was the Dutch historian Johan Huizinga. In 1938, when he published his seminal book on play, Homo ludens, it was quite radical to argue that play was a central organizing force in human culture. But that’s what Huizinga did. \n“For many years the conviction has grown upon me, that civilization arises and unfolds in and as play,” he wrote. \nHuizinga saw play permeating language, myth, and ritual, all of which he considered root forces guiding human societies. He also developed one of the first important and lasting definitions of play. He pointed out that play is fun, it is voluntary, it’s a freedom. \n“We might call it a free activity standing quite consciously outside ‘ordinary’ l…",
+          "link": "https://bigthink.com/books/play-research/",
+          "publishedOn": "2025-10-22T14:30:00.000Z",
+          "wordCount": 2111,
+          "title": "More than a game: How play helps wire our social brains",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/play_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/anastasia-marchenkova-interview/",
+          "author": "Elise Leise",
+          "description": "When Anastasia Marchenkova hears a founder claim they’re building a million-qubit quantum computer, she doesn’t roll her eyes or dismiss the claim outright. Instead, she runs through a series of questions: “What needs to be true for that to happen? Is it a physics problem? Or a manufacturing one?” Her no-nonsense “bullshit” test has made her a trusted advisor to venture capitalists and founders alike. \nRight now, Marchenkova’s pragmatism feels especially prescient. After several years of contracting funding, quantum technology is entering a renewed wave of investment. Funding in Q1 of 2025 for quantum companies reached $1.25 billion, roughly double that of the year before, and according to McKinsey, the total quantum market is predicted to be worth about $198 billion by 2040. In cities as …",
+          "link": "https://bigthink.com/business/anastasia-marchenkova-interview/",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 2236,
+          "title": "A million qubits? This quantum advisor isn’t buying it.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Anastasia-Marchenkova_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/the-free-will-fallacy/",
+          "author": "Daniel C. Dennett, Dr. Uri Maoz, Sam Harris",
+          "description": "Do you actually control your own mind? Three experts in philosophy and neuroscience explain: It’s not so simple.\nUri Maoz, PhD, Daniel C. Dennett, PhD, and Sam Harris, PhD explore how unconscious processes shape decisions we believe are conscious. From brain experiments that reveal the illusion of control, to mindfulness practices that reframe perception, they show how philosophy and neuroscience together unpack the truth about free will.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Is free will a fallacy? Science and philosophy explain. is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/the-free-will-fallacy/",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 1884,
+          "title": "Is free will a fallacy? Science and philosophy explain.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Philosophy-Web-B.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/how-hot-big-bang/",
           "author": "Ethan Siegel",
@@ -7535,6 +7575,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=18874",
+          "author": "Jessica Hylton",
+          "description": "These vegan Buffalo cauliflower meatballs will be a hit at your next party, but they’re excellent for weekday dinners and meal prep too! Spicy, tender, and full of flavour, you’ll think of endless ways to put them to use. Consider this Buffalo cauliflower meatball recipe the happy marriage of my Vegan Meatballs and Buffalo Cauliflower […]",
+          "link": "https://jessicainthekitchen.com/buffalo-quinoa-cauliflower-vegan-meatballs-2/",
+          "publishedOn": "2025-10-22T14:00:00.000Z",
+          "wordCount": 5574,
+          "title": "Spicy Buffalo Cauliflower Meatballs",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Buffalo-Quinoa-Cauliflower-Meatballs2067.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=11065",
           "author": "Jessica Hylton",
