@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-22T00:19:31.369Z</updated>
+    <updated>2025-10-22T06:07:02.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We still don’t know how “hot” the hot Big Bang was]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/how-hot-big-bang/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/how-hot-big-bang/"/>
+        <updated>2025-10-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In many ways, the Big Bang was the biggest idea to ever come out of Einstein’s General theory of Relativity. This tremendously successful theory gave us everything from gravitational waves to black holes based on one profound insight: that the fabric of spacetime itself would evolve, curve, and even ripple based on the properties and behavior of the matter and energy within it. When we applied Einstein’s equations to the entire Universe as a whole, along with the idea that the Universe was filled nearly uniformly with matter and energy on the largest scales, we wound up with an expanding Universe. Extrapolating back in time, we arrived at a very hot, dense, and uniform early state, where all of the Universe’s matter and energy was concentrated into a tiny, minuscule volume.
+And yet, if we …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[brown butter snickerdoodles]]></title>
         <id>https://smittenkitchen.com/?p=91335</id>
@@ -7904,37 +7915,6 @@ The post Quantum Scientists Have Built a New Math of Cryptography first appeared
         <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
         <author>
             <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did The Universe Begin?]]></title>
-        <id>https://www.quantamagazine.org/?p=152503</id>
-        <link href="https://www.quantamagazine.org/why-did-the-universe-begin-20250724/"/>
-        <updated>2025-07-24T13:32:52.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Joy of Why, Thomas Hertog discusses his collaboration with Stephen Hawking on a provocative theory arguing that the laws of physics evolved with the universe, and how this could have shaped a cosmos fit for life.            
-The post Why Did The Universe Begin? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Shark story time, cookbook club, death cafe]]></title>
-        <id>https://www.berkeleyside.org/?p=540802</id>
-        <link href="https://www.berkeleyside.org/2025/07/24/around-berkeley-things-to-do-in-berkeley-july-24-to-july-31"/>
-        <updated>2025-07-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a summer market at Imasala Collective in West Berkeley and a street fair on Telegraph Avenue.]]></summary>
-        <author>
-            <name>Iris Kwok and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Lee Ballance, doctor, healer, teacher, climate advocate]]></title>
-        <id>https://www.berkeleyside.org/?p=540808</id>
-        <link href="https://www.berkeleyside.org/2025/07/24/lee-ballance-obituary"/>
-        <updated>2025-07-24T12:37:00.000Z</updated>
-        <summary type="html"><![CDATA[He worked the ER at Herrrick Hospital, led a Kaiser acupuncture clinic and taught at UCSF's medical school. He was always focused on the health of the larger community and world.]]></summary>
-        <author>
-            <name>Family and friends of Lee Ballance</name>
         </author>
     </entry>
     <entry>

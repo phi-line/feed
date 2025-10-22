@@ -451,16 +451,6 @@
           "wordCount": 3180,
           "title": "Quantum Scientists Have Built a New Math of Cryptography",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BetterQuantumSecrets-crWei-AnJin-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152503",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "In this episode of The Joy of Why, Thomas Hertog discusses his collaboration with Stephen Hawking on a provocative theory arguing that the laws of physics evolved with the universe, and how this could have shaped a cosmos fit for life.            \nThe post Why Did The Universe Begin? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/why-did-the-universe-begin-20250724/",
-          "publishedOn": "2025-07-24T13:32:52.000Z",
-          "wordCount": 9866,
-          "title": "Why Did The Universe Begin?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/JOW-S4-Ep10-THOMAS-HERTOG-Social-LOGO.jpg"
         }
       ]
     },
@@ -4697,26 +4687,6 @@
           "wordCount": 6712,
           "title": "Cheese-flavored ice cream comes to Berkeley; Mugunghwa expands into Oakland",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/MeltMe-Berkeley.jpg?fit=712%2C556&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540802",
-          "author": "Iris Kwok and Andrew Gilbert",
-          "description": "Other events include a summer market at Imasala Collective in West Berkeley and a street fair on Telegraph Avenue.",
-          "link": "https://www.berkeleyside.org/2025/07/24/around-berkeley-things-to-do-in-berkeley-july-24-to-july-31",
-          "publishedOn": "2025-07-24T13:00:00.000Z",
-          "wordCount": 8273,
-          "title": "Around Berkeley: Shark story time, cookbook club, death cafe",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Book-Society-interior-credit-Book-society.jpg?fit=780%2C585&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540808",
-          "author": "Family and friends of Lee Ballance",
-          "description": "He worked the ER at Herrrick Hospital, led a Kaiser acupuncture clinic and taught at UCSF's medical school. He was always focused on the health of the larger community and world.",
-          "link": "https://www.berkeleyside.org/2025/07/24/lee-ballance-obituary",
-          "publishedOn": "2025-07-24T12:37:00.000Z",
-          "wordCount": 7227,
-          "title": "Remembering Lee Ballance, doctor, healer, teacher, climate advocate",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Lee-Ballance.png"
         }
       ]
     },
@@ -5998,6 +5968,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/how-hot-big-bang/",
+          "author": "Ethan Siegel",
+          "description": "In many ways, the Big Bang was the biggest idea to ever come out of Einstein’s General theory of Relativity. This tremendously successful theory gave us everything from gravitational waves to black holes based on one profound insight: that the fabric of spacetime itself would evolve, curve, and even ripple based on the properties and behavior of the matter and energy within it. When we applied Einstein’s equations to the entire Universe as a whole, along with the idea that the Universe was filled nearly uniformly with matter and energy on the largest scales, we wound up with an expanding Universe. Extrapolating back in time, we arrived at a very hot, dense, and uniform early state, where all of the Universe’s matter and energy was concentrated into a tiny, minuscule volume.\nAnd yet, if we …",
+          "link": "https://bigthink.com/starts-with-a-bang/how-hot-big-bang/",
+          "publishedOn": "2025-10-22T06:00:00.000Z",
+          "wordCount": 4556,
+          "title": "We still don’t know how “hot” the hot Big Bang was",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/qgpcolors_150-e1761090441715.jpg?w=1006&h=567&crop=1"
+        },
         {
           "id": "https://bigthink.com/books/sea-slugs-and-the-nature-of-consciousness/",
           "author": "Nikolay Kukushkin",
