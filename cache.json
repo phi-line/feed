@@ -451,16 +451,6 @@
           "wordCount": 2939,
           "title": "Why the Key to a Mathematical Life is Collaboration",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/FanChungGraham-cr.PeggyPeattie-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152528",
-          "author": "Ben Brubaker",
-          "description": "In theory, quantum physics can bypass the hard mathematical problems at the root of modern encryption. A new proof shows how.            \nThe post Quantum Scientists Have Built a New Math of Cryptography first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/",
-          "publishedOn": "2025-07-25T14:05:02.000Z",
-          "wordCount": 3180,
-          "title": "Quantum Scientists Have Built a New Math of Cryptography",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BetterQuantumSecrets-crWei-AnJin-Social.jpg"
         }
       ]
     },
@@ -942,6 +932,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3158/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3158/",
+          "publishedOn": "2025-10-22T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Shielding Chart",
+          "imageUrl": "https://imgs.xkcd.com/comics/shielding_chart_2x.png"
+        },
         {
           "id": "https://xkcd.com/3157/",
           "author": null,
@@ -1695,16 +1695,6 @@
           "wordCount": 8182,
           "title": "What Searching For Aliens Reveals About Ourselves",
           "imageUrl": "https://noemamag.imgix.net/2025/07/FINAL-CROP.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ca08a2bde2116873ce9d2adbf56158a1"
-        },
-        {
-          "id": "https://www.noemamag.com/stubborn-interdependence",
-          "author": "Nathan Gardels",
-          "description": "The post Stubborn Interdependence appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/stubborn-interdependence",
-          "publishedOn": "2025-07-25T15:27:43.000Z",
-          "wordCount": 2654,
-          "title": "Stubborn Interdependence",
-          "imageUrl": "https://noemamag.imgix.net/2025/07/GettyImages-1422453695.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=bb0d4ee5333d3b0330db09a9af6a1792"
         }
       ]
     },
@@ -4657,36 +4647,6 @@
           "wordCount": 6307,
           "title": "Jade Palace shuttered for equipment upgrades; Lupita Mexican Eatery closed permanently",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/JadePalace-exterior-lapan.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540925",
-          "author": "Cecilia Seiter",
-          "description": "Reem’s will establish its flagship location in Jack London Square, with plans to open outposts on the horizon.",
-          "link": "https://www.berkeleyside.org/2025/07/25/reems-jack-london-square-oakland-return",
-          "publishedOn": "2025-07-25T15:45:46.000Z",
-          "wordCount": 7417,
-          "title": "In a ‘full-circle moment,’ lauded Arab bakery Reem’s returning to Oakland this fall",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/LBP_9754.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540886",
-          "author": "Frances Dinkelspiel",
-          "description": "The 34-year-old Turtle Island Monument project unraveled over issues related to the prior involvement of a non-Native artist. The Indigenous artists say they want respect. The city says their demands are “insurmountable” but more negotiations are possible.",
-          "link": "https://www.berkeleyside.org/2025/07/25/turtle-island-monument-berkeley-civic-center",
-          "publishedOn": "2025-07-25T14:58:00.000Z",
-          "wordCount": 8190,
-          "title": "Downtown fountain project called off due to clash between Berkeley and Indigenous artists",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/image-21.png?fit=1538%2C1060&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=540916",
-          "author": "Alex N. Gecan",
-          "description": "The city’s “fair and impartial policing” work was supposed to eliminate racial profiling and address disparities. Watchdogs say there’s been progress — but some disparities persist.",
-          "link": "https://www.berkeleyside.org/2025/07/25/bpd-fair-and-impartial-policing-vote",
-          "publishedOn": "2025-07-25T13:00:00.000Z",
-          "wordCount": 7700,
-          "title": "Berkeley wraps up policy work tackling racial disparities in police stops",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2015/09/press2.jpg"
         }
       ]
     },
@@ -5089,6 +5049,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/26-easy-steps-to-taming-your-smartphone-addiction",
+          "author": null,
+          "description": "And voilà!",
+          "link": "https://aethermug.com/posts/26-easy-steps-to-taming-your-smartphone-addiction?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-10-22T00:38:37.000Z",
+          "wordCount": 5481,
+          "title": "26 Easy Steps to Taming Your Smartphone Addiction",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/26-easy-steps-to-taming-your-smartphone-addiction/saint_gerome.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/26-easy-steps-to-taming-your-smartphone-addiction/saint_gerome.png"
+        },
         {
           "id": "https://aethermug.com/posts/visualizing-framings",
           "author": null,
@@ -5978,6 +5953,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/5-truths-dark-matter/",
+          "author": "Ethan Siegel",
+          "description": "Every so often, advocates of a fringe theory — one that doesn’t fit the evidence as well as the mainstream theory — do what they can to breathe life back into it. Sometimes new evidence has come to light, legitimately challenging the mainstream theory and demanding that previously discarded alternatives be re-evaluated. Sometimes, a surprising set of observations supports a once-discredited theory, bringing it back into prominence. And at other times, it isn’t new data that elevates a contrarian viewpoint, but rather a false narrative is the culprit, as disingenuous arguments that have been rightfully dismissed by mainstream professionals suddenly take hold among either a new generation of inexperienced individuals, or outsiders who haven’t been exposed to the wide array of mainstream fact…",
+          "link": "https://bigthink.com/starts-with-a-bang/5-truths-dark-matter/",
+          "publishedOn": "2025-10-23T06:00:00.000Z",
+          "wordCount": 4640,
+          "title": "5 undeniable, truthful facts about dark matter",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_5f35cf3f5a328a6cd15597dd_This-image-showcases-the-massive-distant-galaxy-cluster-Abell-S1063-_960x0-e1761092311520.jpg?w=960&h=540&crop=1"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/6-japanese-concepts-you-need-to-know-according-to-marie-kondo/",
           "author": "Jonny Thomson",
