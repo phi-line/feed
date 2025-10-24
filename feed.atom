@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-24T00:16:52.994Z</updated>
+    <updated>2025-10-24T06:06:39.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Why couldn’t the Universe have expanded forever?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/could-universe-expand-forever/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/could-universe-expand-forever/"/>
+        <updated>2025-10-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In many ways, our modern picture of the Universe got its start in the 1920s. In that one decade, we discovered that the spiral and elliptical nebulae in the sky were actually galaxies, far beyond the extent of our own Milky Way. We measured the distance to these galaxies, determining that the farther away they were, on average, the faster they appeared to be speeding away from us. And we calculated that a Universe that was uniformly filled with “stuff” — whether matter, radiation, a cosmological constant, or any other form of energy — would be unable to be static and stable; it must either expand or contract.
+From these revolutionary realizations, the notion of the expanding Universe was born. Over the past century, we’ve learned much more about the history and properties of our Universe. …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Don’t take the bait’: East Bay leaders urge calm as possible Trump immigration crackdown looms]]></title>
         <id>https://oaklandside.org/?p=463494</id>
