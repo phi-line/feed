@@ -608,16 +608,6 @@
           "wordCount": 3282,
           "title": "No Retvrn",
           "imageUrl": null
-        },
-        {
-          "id": "https://asteriskmag.com/issues/11/yes-in-my-bamako-yard",
-          "author": null,
-          "description": "Over the next 25 years, Africa is expected to add 900 million people to its cities, the largest wave of urban population growth the world has ever seen. How can the continent begin to prepare today?",
-          "link": "https://asteriskmag.com/issues/11/yes-in-my-bamako-yard",
-          "publishedOn": "2025-07-28T00:00:00.000Z",
-          "wordCount": 5059,
-          "title": "Yes In My Bamako Yard",
-          "imageUrl": null
         }
       ]
     },
@@ -921,6 +911,16 @@
       "feedUrl": "https://magazine.atavist.com/feed",
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
+        {
+          "id": "https://magazine.atavist.com/?p=50007",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Blue Book Burglar appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/the-blue-book-burglar-art-heist",
+          "publishedOn": "2025-10-25T11:10:36.000Z",
+          "wordCount": 1554,
+          "title": "Protected: The Blue Book Burglar",
+          "imageUrl": null
+        },
         {
           "id": "https://magazine.atavist.com/?p=49547",
           "author": "Ed Johnson",

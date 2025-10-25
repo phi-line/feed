@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-25T06:06:22.762Z</updated>
+    <updated>2025-10-25T12:06:41.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Protected: The Blue Book Burglar]]></title>
+        <id>https://magazine.atavist.com/?p=50007</id>
+        <link href="https://magazine.atavist.com/2025/the-blue-book-burglar-art-heist"/>
+        <updated>2025-10-25T11:10:36.000Z</updated>
+        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
+The post Protected: The Blue Book Burglar appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Ed Johnson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for Japanese curry rice with soy-marinated yolk | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2025/oct/25/japanese-curry-rice-with-soy-marinated-yolk-recipe-meera-sodha</id>
@@ -8223,16 +8234,6 @@ The post Why the Key to a Mathematical Life is Collaboration first appeared on Q
         <updated>2025-07-28T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes In My Bamako Yard]]></title>
-        <id>https://asteriskmag.com/issues/11/yes-in-my-bamako-yard</id>
-        <link href="https://asteriskmag.com/issues/11/yes-in-my-bamako-yard"/>
-        <updated>2025-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the next 25 years, Africa is expected to add 900 million people to its cities, the largest wave of urban population growth the world has ever seen. How can the continent begin to prepare today?]]></summary>
-        <author>
-            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
