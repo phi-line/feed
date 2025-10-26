@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-26T12:06:53.282Z</updated>
+    <updated>2025-10-26T18:05:49.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making the Electron Microscope]]></title>
+        <id>https://www.asimov.press/p/electron-microscope</id>
+        <link href="https://www.asimov.press/p/electron-microscope"/>
+        <updated>2025-10-26T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[In a little over a century, the electron microscope evolved from a tool barely capable of resolving virus particles into one able to capture atomic detail.]]></summary>
+        <author>
+            <name>Smrithi Sunil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley High cancels Día de los Muertos celebration amid fears of ICE raids]]></title>
         <id>https://www.berkeleyside.org/?p=546148</id>

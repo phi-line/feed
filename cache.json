@@ -607,6 +607,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/electron-microscope",
+          "author": "Smrithi Sunil",
+          "description": "In a little over a century, the electron microscope evolved from a tool barely capable of resolving virus particles into one able to capture atomic detail.",
+          "link": "https://www.asimov.press/p/electron-microscope",
+          "publishedOn": "2025-10-26T16:33:14.000Z",
+          "wordCount": null,
+          "title": "Making the Electron Microscope",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!WP25!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F364a5027-9cb7-4856-bfaa-9b3fe4c6a9cc_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!WP25!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F364a5027-9cb7-4856-bfaa-9b3fe4c6a9cc_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/nigeria-crops",
           "author": "Asimov Press",
           "description": "Genetically modified crops are finding a foothold in the Global South, producing some unlikely leaders in agritech.",
