@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-27T00:20:53.062Z</updated>
+    <updated>2025-10-27T06:07:33.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where does the expanding Universe begin?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/where-expanding-universe-begin/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/where-expanding-universe-begin/"/>
+        <updated>2025-10-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For nearly 100 years, we’ve known our Universe is expanding.
+
+Possible fates of the expanding Universe. Notice the differences between models in the past; only a Universe with dark energy matches our observations, and the dark energy-dominated solution came from de Sitter all the way back in 1917. By observing the expansion rate today and measuring the components present in the Universe, we can determine both its future and past histories.
+
+Credit: NASA & ESA
+
+
+Einstein’s equations forbid static, stable, uniform solutions.
+
+A photo of Ethan Siegel at the American Astronomical Society’s hyperwall in 2017, along with the first Friedmann equation at right. The first Friedmann equation, an exact solution in general relativity, details the Hubble expansion rate squared on the left hand side, wh…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making the Electron Microscope]]></title>
         <id>https://www.asimov.press/p/electron-microscope</id>
@@ -8145,36 +8164,6 @@ WorldsPlayer navigation…]]></summary>
         <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
         <author>
             <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All digging, even by dogs, banned at Berkeley park during radiation testing]]></title>
-        <id>https://www.berkeleyside.org/?p=540980</id>
-        <link href="https://www.berkeleyside.org/2025/07/29/cesar-chavez-park-soil-disturbance-ban"/>
-        <updated>2025-07-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Plans for a new perimeter path at Cesar Chavez Park have been canceled and volunteer gardeners are cutting weeds with scissors instead of yanking them.]]></summary>
-        <author>
-            <name>Kate Darby Rauch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBQ Without Borders is back, and looking to the future]]></title>
-        <id>https://www.berkeleyside.org/?p=541058</id>
-        <link href="https://www.berkeleyside.org/2025/07/29/bbq-without-borders-no-immigrants-no-spice"/>
-        <updated>2025-07-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[No Immigrants No Spice’s biennial event returns to OMCA and the 2025 theme is “Toward a Greener Future.”]]></summary>
-        <author>
-            <name>Skylla Mumana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 5 Berkeley teachers spent their summer vacation]]></title>
-        <id>https://www.berkeleyside.org/?p=540984</id>
-        <link href="https://www.berkeleyside.org/2025/07/29/berkeley-unified-schools-summer-vacation-teachers"/>
-        <updated>2025-07-29T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Many educators work over the summer break to make ends meet; Others focus on professional development, personal health and family time.]]></summary>
-        <author>
-            <name>Vanessa Arredondo</name>
         </author>
     </entry>
     <entry>
