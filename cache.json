@@ -451,16 +451,6 @@
           "wordCount": 3667,
           "title": "At 17, Hannah Cairo Solved a Major Math Mystery",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HannahCairo-cr-ValeriePlesch-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152633",
-          "author": "Claire L. Evans",
-          "description": "A small but enthusiastic group of neuroscientists is exhuming overlooked experiments and performing new ones to explore whether cells record past experiences — fundamentally challenging what memory is.            \nThe post What Can a Cell Remember? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/what-can-a-cell-remember-20250730/",
-          "publishedOn": "2025-07-30T14:30:11.000Z",
-          "wordCount": 4573,
-          "title": "What Can a Cell Remember?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/CellMemory-crKristinaArmitage-Lede-draft01CellMemory-crKristinaArmitage-Social.jpg"
         }
       ]
     },
@@ -4743,26 +4733,6 @@
           "wordCount": 7909,
           "title": "Berkeley no longer under tsunami advisory, but Bay remains dangerous",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250730-023758.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=443624",
-          "author": "Emilie Raguso",
-          "description": "Because they are so rare, it’s hard to predict how much damage a tsunami might cause in Berkeley. But it can be significant.",
-          "link": "https://www.berkeleyside.org/2025/07/30/what-could-happen-tsunami-berkeley-hazard-map",
-          "publishedOn": "2025-07-30T15:30:51.000Z",
-          "wordCount": 7730,
-          "title": "How far do you live from Berkeley’s tsunami zone? See the hazard map.",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/berkeley-tsunami-hazard-map.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541082",
-          "author": "Daniel Ekonde",
-          "description": "To make ends meet in a brutal housing market, Cal students are doubling up in living rooms, commuting from other cities and making sacrifices.",
-          "link": "https://www.berkeleyside.org/2025/07/30/uc-berkeley-students-affordable-housing",
-          "publishedOn": "2025-07-30T13:30:00.000Z",
-          "wordCount": 8348,
-          "title": "How 6 UC Berkeley students got creative to find affordable housing",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250729-213137.webp"
         }
       ]
     },
@@ -6069,6 +6039,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/neutrinos-most-mysterious-particle/",
+          "author": "Ethan Siegel",
+          "description": "Here in the 21st century, there’s a lot that we’ve uncovered about our Universe that, a mere century ago, would have been mind boggling. Sure, we already knew about General Relativity, the existence of subatomic particles, knowledge of radioactivity, and the beginnings of quantum mechanics. But we had yet to discover the expanding Universe and reveal the Big Bang, to recognize that the fields as well as the particles composing the Universe quantum in nature, or to learn that protons were composed of still smaller, more fundamental entities: the quarks and gluons.  The big puzzles of today, including dark matter, dark energy, and the origin of the matter-antimatter asymmetry, could hardly have been fathomed at the time.\nBut as we continued to investigate the nature of reality through many d…",
+          "link": "https://bigthink.com/starts-with-a-bang/neutrinos-most-mysterious-particle/",
+          "publishedOn": "2025-10-28T06:00:00.000Z",
+          "wordCount": 4437,
+          "title": "Neutrinos are still the most mysterious particle we know of",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/07/17-0283-03.hr_.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/hard-science/macroscopes/",
           "author": "Katy Börner, Elizabeth G. Record, Todd N. Theriault",
