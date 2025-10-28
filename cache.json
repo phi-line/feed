@@ -969,6 +969,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3160/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3160/",
+          "publishedOn": "2025-10-27T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Document Forgery",
+          "imageUrl": "https://imgs.xkcd.com/comics/document_forgery_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3159/",
           "author": null,
           "description": "",
@@ -1739,6 +1749,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546178",
+          "author": "Zac Farber and Darwin BondGraham",
+          "description": "We’re letting the public know that losing access to Berkeley’s police scanner would make it harder to report on shootings, chases, protests, fires and other breaking news.",
+          "link": "https://www.berkeleyside.org/2025/10/27/police-scanner-encryption-berkeley-police-department-effect",
+          "publishedOn": "2025-10-27T19:34:55.000Z",
+          "wordCount": 7837,
+          "title": "If Berkeley silences its police radio feed, a crucial reporting tool will disappear",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP16281665341436.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=463543",
           "author": "Eli Wolfe and Roselyn Romero",
