@@ -887,22 +887,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d8548ad7-2b25-42ea-9922-9af90d2cc82b_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/spinning-bacteria",
-          "author": null,
-          "description": "By spinning bacteria in circles, scientists figured out how phage viruses time their escape from an infected cell.",
-          "link": "https://www.asimov.press/p/spinning-bacteria",
-          "publishedOn": "2025-07-31T18:22:28.000Z",
-          "wordCount": null,
-          "title": "Spinning Bacteria",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!478x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4c9a38-4713-4299-9150-b1f99b377982_2000x1260.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!478x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4c9a38-4713-4299-9150-b1f99b377982_2000x1260.gif"
         }
       ]
     },
@@ -4703,36 +4687,6 @@
           "wordCount": 6266,
           "title": "Wire: Construction tops out for Berkeley City College expansion; former Cal student killed by falling tree branch",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/04/Berkeley-city-college-new-building-center-st.jpg?fit=2500%2C1875&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541262",
-          "author": "Tovin Lapan",
-          "description": "The West Oakland smash burger and shakes spot that has garnered considerable grassroots publicity is holding a grand opening event Aug. 2.",
-          "link": "https://www.berkeleyside.org/2025/07/31/hyphy-burger-grand-opening",
-          "publishedOn": "2025-07-31T21:26:39.000Z",
-          "wordCount": 7615,
-          "title": "Hyphy Burger is ready for its close-up",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-20250508_hyphyburger-19.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=458677",
-          "author": "Jose Fermoso",
-          "description": "But after reviewing Tim Dupuis' performance, the county’s Elections Oversight commission says there’s room for improvement.",
-          "link": "https://www.berkeleyside.org/2025/07/31/alameda-county-registrar-performed-well-in-the-last-election",
-          "publishedOn": "2025-07-31T20:57:00.000Z",
-          "wordCount": 7671,
-          "title": "Alameda County’s registrar performed well in the last election",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/tim-dupuis-registrar-voters.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541237",
-          "author": "Cecilia Seiter",
-          "description": "Fans of the breakfast spot have until the end of August to get their last pancake fix.",
-          "link": "https://www.berkeleyside.org/2025/07/31/rick-and-anns-closing",
-          "publishedOn": "2025-07-31T19:00:00.000Z",
-          "wordCount": 6614,
-          "title": "Beloved Berkeley staple Rick & Ann’s is closing up shop",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Rick-Anns.jpeg"
         }
       ]
     },
@@ -5287,6 +5241,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/AGBgowjTMNU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/AGBgowjTMNU",
+          "publishedOn": "2025-10-29T10:00:17.000Z",
+          "wordCount": 2022,
+          "title": "@SilvanaEstrada reflects on what grounds her, and the moments that make her feel like a kid again.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jg9uwVvOy0E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jg9uwVvOy0E",
+          "publishedOn": "2025-10-29T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Oklou: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/IzchxEkBzbI",
           "author": null,
