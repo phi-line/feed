@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=156025",
+          "author": "Zack Savitsky",
+          "description": "The theoretical physicist and best-selling author finds inspiration in politics and philosophy for rethinking space and time.            \nThe post Carlo Rovelli’s Radical Perspective on Reality first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/",
+          "publishedOn": "2025-10-29T14:25:09.000Z",
+          "wordCount": 4030,
+          "title": "Carlo Rovelli’s Radical Perspective on Reality",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Carlo-Rovelli-QA-cr-Jan-Jackle-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155893",
           "author": "Joanna Thompson",
           "description": "Despite their wide variety of sizes, niches and shapes, sharks scale geometrically, pointing to possible fundamental constraints on evolution.            \nThe post Shark Data Suggests Animals Scale Like Geometric Objects first appeared on Quanta Magazine",
@@ -616,6 +626,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/broad-antivenom",
+          "author": "Alexandra Balwit",
+          "description": "A new broad-coverage antivenom, made by mixing eight different nanobodies, protects mice against snakebites from 17 of 18 deadly species in Africa.",
+          "link": "https://www.asimov.press/p/broad-antivenom",
+          "publishedOn": "2025-10-29T17:48:52.000Z",
+          "wordCount": null,
+          "title": "An Antivenom Cocktail, Made by a Llama",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!yR1j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1383f47b-36fc-4e65-97e1-1fa1c7c13876_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!yR1j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1383f47b-36fc-4e65-97e1-1fa1c7c13876_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/electron-microscope",
           "author": "Smrithi Sunil",
@@ -1321,16 +1347,6 @@
           "wordCount": 204,
           "title": "Grounded",
           "imageUrl": "https://imgs.xkcd.com/comics/grounded_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3123/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3123/",
-          "publishedOn": "2025-08-01T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Canon",
-          "imageUrl": "https://imgs.xkcd.com/comics/canon_2x.png"
         }
       ]
     },
@@ -1733,6 +1749,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546330",
+          "author": "Berkeleyside Staff",
+          "description": "The closure, which has been done during the newts’ seasonal migration since the 1980s, allows the salamanders to seek out the higher air moisture levels they favor for breeding.",
+          "link": "https://www.berkeleyside.org/2025/10/29/south-park-drive-in-tilden-to-close-for-5-months-to-protect-newts",
+          "publishedOn": "2025-10-29T15:40:13.000Z",
+          "wordCount": 7241,
+          "title": "South Park Drive in Tilden to close for 5 months to protect newts",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/12/Newts.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546222",
+          "author": "Local sponsor",
+          "description": "Critical thinking, creativity, collaboration, and adaptability are nurtured at the TK-8 school in Oakland.",
+          "link": "https://www.berkeleyside.org/2025/10/29/how-park-day-school-helps-students-prepare-for-a-rapidly-changing-world",
+          "publishedOn": "2025-10-29T15:30:00.000Z",
+          "wordCount": 7043,
+          "title": "How Park Day School helps students prepare for a rapidly changing world",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Park-Day-protest-.jpg?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546304",
           "author": "Madeline Taub",
@@ -4677,16 +4713,6 @@
           "wordCount": 6965,
           "title": "Berkeley opera company kicks off season with Dolores Huerta show",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/74A5434a-Priime-Cobalt-scaled-1.jpg?fit=2560%2C1708&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541255",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A North Shattuck apartment complex is headed for foreclosure, and more Alameda County home sellers are dropping their prices.",
-          "link": "https://www.berkeleyside.org/2025/07/31/wire-berkeley-city-college-former-cal-student-killed-by-falling-tree-branch",
-          "publishedOn": "2025-08-01T00:15:00.000Z",
-          "wordCount": 6266,
-          "title": "Wire: Construction tops out for Berkeley City College expansion; former Cal student killed by falling tree branch",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/04/Berkeley-city-college-new-building-center-st.jpg?fit=2500%2C1875&ssl=1"
         }
       ]
     },
@@ -4728,6 +4754,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/blogs-rss-2001/",
+          "author": null,
+          "description": "Blogdex, a system launched in 2001 to track weblogs.\nAt the beginning of 2001, most popular weblogs were a combination of personal journal and linkblog — a format encouraged by early blogging tools like Blogger, LiveJournal and Diaryland. But by the end of the year, blogging had become a real-time reporting tool too; most notably in the form of the “warblogs” that became popular after 9/11, like Talking Points Memo, Instapundit and Andrew Sullivan’s The Daily Dish. The October launch of Movable Type was also a key moment in the professionalisation of blogging.\nBut let's start in January 2001, with the first annual Weblog Awards. This was a hobby site run by Nikolai Nolan, a University of Michigan student, who defined a weblog as “a page with dated entries that frequently have off-site link…",
+          "link": "https://cybercultural.com/p/blogs-rss-2001/",
+          "publishedOn": "2025-10-29T00:00:00.000Z",
+          "wordCount": 2203,
+          "title": "Blogging Gets Serious in 2001 With Warblogs and Movable Type",
+          "imageUrl": "https://cybercultural.com/assets/images/blogdex-feature-2001.png"
+        },
         {
           "id": "https://cybercultural.com/p/wayback-machine-launch-2001/",
           "author": null,
@@ -6028,6 +6064,56 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/strange-maps/la-empresa-de-china/",
+          "author": "Frank Jacobs",
+          "description": "Imagine bullfights in Beijing, Chinese conquistadors capturing Constantinople for Spain, and a Habsburg Empire that completely encircled the globe. Spain’s King Philip II certainly did. His fever dream of world domination was called “la Empresa de China,” or “the Chinese Job.” And yes, it was as unhinged as this map suggests.\nThe plan to turn Ming-dynasty China into an outpost of Habsburg-era Spain didn’t come out of nowhere, though. It was hatched toward the end of the 16th century, when Spain had been on a century-long winning streak of divine luck and ruthless efficiency.\nSoon after Columbus stumbled across the Americas (in 1492), Cortés toppled the Aztec Empire (in 1521), and Pizarro did the same with the Inca one (in 1533). Those quick victories seemed nothing less than providential. …",
+          "link": "https://bigthink.com/strange-maps/la-empresa-de-china/",
+          "publishedOn": "2025-10-29T15:28:43.000Z",
+          "wordCount": 2127,
+          "title": "“The Chinese Job”: Spain’s wild 1580s plan to conquer the world — via Beijing",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Cropped-Chinese-Job.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/mini-philosophy/if-humans-went-extinct-could-we-re-evolve/",
+          "author": "Jonny Thomson",
+          "description": "On a tiny atoll in the Indian Ocean, there lives a flightless bird called the Aldabra rail. It looks unassuming enough — brown feathers, chicken-sized, and incapable of flying.\nRoughly 136,000 years ago, its ancestors — white-throated rails from Madagascar — flew to Aldabra and found a predator-free paradise; no sharp-toothed prowlers or featherless bipeds with pointy sticks. And so, the rails evolved into flightless versions. Why waste effort and energy on flying when there’s no point?\nThen came a catastrophic flood. The island went underwater. The rails couldn’t fly, and they couldn’t swim. They went extinct. And then, after the seas receded, something eerie happened. More rails flew back — their distant ancestors, still strong in Madagascar, made the same flight again. And the story rep…",
+          "link": "https://bigthink.com/mini-philosophy/if-humans-went-extinct-could-we-re-evolve/",
+          "publishedOn": "2025-10-29T14:52:06.000Z",
+          "wordCount": 2001,
+          "title": "If humans went extinct, could we re-evolve?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/if-humnas-went-extinct_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-long-game/resilience-is-overrated-unlock-the-real-secret-to-business-longevity/",
+          "author": "Eric Markowitz",
+          "description": "I first met Andrew Markell in the dense rainforest outside Portland, Oregon. We hiked for two hours through dripping cedars and hemlocks, talking about the fractures in modern society — and what it might take to mend them. Andrew moved through the forest like someone entirely at home in dissonance: steady, alert, unhurried.\nAndrew is part philosopher, part fighter — a man who defies easy categorization, bridging worlds that rarely meet. A trauma specialist and co-founder of The Dawn Collective (“healing solutions for service members”), he’s also a martial artist trained in yiquan, a discipline that trains through the nervous system to develop speed and power.\nIn recent years, he’s trained some of the world’s most accomplished investors, entrepreneurs, special forces veterans, and CEOs in t…",
+          "link": "https://bigthink.com/the-long-game/resilience-is-overrated-unlock-the-real-secret-to-business-longevity/",
+          "publishedOn": "2025-10-29T13:00:00.000Z",
+          "wordCount": 4089,
+          "title": "Resilience is overrated: Unlock the real secret to business longevity",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/spiral.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/the-problem-trap/",
+          "author": "Oliver Burkeman",
+          "description": "Most of us are quietly waiting for our life’s problems to subside. We feel that after “solving” them, everything will be perfect, and we’ll achieve complete happiness. \nIn actuality, learning to live in the problems that come our way can make us happier, and expecting a frictionless life actually causes more strife for us. Journalist Oliver Burkeman reframes challenges as the path to a more meaningful life.\nThis video How facing adversity can help you live a deeper, more meaningful life is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/the-problem-trap/",
+          "publishedOn": "2025-10-29T13:00:00.000Z",
+          "wordCount": 2631,
+          "title": "How facing adversity can help you live a deeper, more meaningful life",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/B1-Web-Burkeman-1.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/can-you-measure-love/",
+          "author": "Meghan Sullivan, Thupten Jinpa, Sharon Salzberg",
+          "description": "Want to know if someone is compassionate? It’s identifiable in more ways than one. \nPhilosopher Meghan Sullivan, PhD, Buddhist scholar and former monk Thupten Jinpa, PhD, and meditation teacher Sharon Salzberg explore love through neuroscience, philosophy, and lived practice. They discuss society’s flaw in mistaking kindness for weakness, how neuroscience has proven to identify compassion in brain scans, and how expanding Aristotle’s Love Ethic can change our society for the better.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Can you measure love? 3 experts discuss is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/can-you-measure-love/",
+          "publishedOn": "2025-10-29T13:00:00.000Z",
+          "wordCount": 1792,
+          "title": "Can you measure love? 3 experts discuss",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Kindness-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/aliens-might-not-speak-physics/",
           "author": "Ethan Siegel",
