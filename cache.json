@@ -4733,26 +4733,6 @@
           "wordCount": 6614,
           "title": "Beloved Berkeley staple Rick & Ann’s is closing up shop",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Rick-Anns.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541035",
-          "author": "Local sponsor",
-          "description": "Tony Taccone directing the world-premiere \"How Shakespeare Saved My Life,\" a musical adaptation of \"The Lunchbox,\"  a re-envisioned Arthur Miller classic, and more, coming to Downtown Berkeley.",
-          "link": "https://www.berkeleyside.org/2025/07/31/berkeley-rep-opens-a-new-season-of-outstanding-theater",
-          "publishedOn": "2025-07-31T15:30:00.000Z",
-          "wordCount": 6724,
-          "title": "Berkeley Rep opens a new season of outstanding theater",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Berkeleyside-Header-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541229",
-          "author": "Iris Kwok and Andrew Gilbert",
-          "description": "Other events include a Bay Area Jazz Society jam session at a pizzeria and a know-your-rights workshop at La Peña.",
-          "link": "https://www.berkeleyside.org/2025/07/31/around-berkeley-things-to-do-in-berkeley-july-31-to-aug-7",
-          "publishedOn": "2025-07-31T13:00:00.000Z",
-          "wordCount": 8073,
-          "title": "Around Berkeley: Urban sketching, new 2727 Artist Co-op exhibit, learn to use a fire extinguisher",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/85F850DC-495B-4146-A7D0-4B0954FE5236_1_105_c-Francesca-Borgatta.jpeg?fit=1032%2C762&ssl=1"
         }
       ]
     },
@@ -6066,16 +6046,6 @@
           "wordCount": null,
           "title": "Sierra Hull: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=52aJt1v6hjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=52aJt1v6hjg",
-          "publishedOn": "2025-07-31T14:16:38.000Z",
-          "wordCount": null,
-          "title": "Chef Kenji López-Alt serves up a nourishing recipe of food and music | Amplify with Lara Downes",
-          "imageUrl": null
         }
       ]
     },
@@ -6084,6 +6054,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/aliens-might-not-speak-physics/",
+          "author": "Ethan Siegel",
+          "description": "One of the mightiest facts we’ve uncovered about the Universe is this: that no matter when we look at it, near or far, we observe and measure it playing by the same laws, rules, and being made of the same ingredients that we see here in our own backyard. It takes the Copernican principle — the notion that we, here on Earth, don’t occupy a special, privileged location — to the most general form imaginable. Copernicus famously recognized that the Earth wasn’t a privileged location, and was just an ordinary planet orbiting the Sun like Mercury, Venus, Mars, Jupiter, and Saturn were. Similarly, our cosmic location, including our time after the Big Bang and place in the Local Group, have nothing “special” about them. It’s a generally accepted principle, and one that’s consistent with the full s…",
+          "link": "https://bigthink.com/starts-with-a-bang/aliens-might-not-speak-physics/",
+          "publishedOn": "2025-10-29T06:00:00.000Z",
+          "wordCount": 10405,
+          "title": "Why aliens might not “speak physics” the same way we do",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/Ufos_over_liverpool_-_panoramio.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-learning-curve/why-you-should-read-old-books/",
           "author": "Kevin Dickinson",
