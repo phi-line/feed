@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-10-30T00:19:49.972Z</updated>
+    <updated>2025-10-30T06:06:45.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Groupthink in science isn’t a problem; it’s a myth]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/groupthink-science-problem-myth/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/groupthink-science-problem-myth/"/>
+        <updated>2025-10-30T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s often said that the great arc of science always bends towards the truth, but sometimes it takes an awfully long time to get there. Around 500 years ago, there was really only one scientific phenomenon that was, without controversy, extremely well-understood: the motion of the celestial objects in the sky. The Sun rose in the east and set in the west with a regular, 24 hour period. Its path in the sky rose higher and the days grew longer until the summer solstice, while its path was the lowest and shortest on the winter solstice: part of the annual cycle. The motions of the stars also exhibited a similar 24 hour period, as though the heavenly canopy rotated throughout the night. The Moon migrated night-to-night relative to the other objects by about 12° as it changed its phases, while …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process World, Object-Oriented Mind]]></title>
+        <id>https://aethermug.com/posts/process-world-object-oriented-mind</id>
+        <link href="https://aethermug.com/posts/process-world-object-oriented-mind?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-10-30T04:47:19.000Z</updated>
+        <summary type="html"><![CDATA[How programmers' struggles are everyone's mental struggles]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley police will encrypt all radio traffic, a blow to transparency advocates]]></title>
         <id>https://www.berkeleyside.org/?p=546380</id>
@@ -8395,37 +8415,6 @@ It’s been a salad kind of summer so far. Hot days spent camping with friends, 
         <summary type="html"><![CDATA[Marinated milkfish, garlic rice, and a sunny-side-up egg come together in this classic Filipino brunch combo.]]></summary>
         <author>
             <name>Myron Caringal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposal for 8-story apartment building in South Berkeley approved]]></title>
-        <id>https://www.berkeleyside.org/?p=541301</id>
-        <link href="https://www.berkeleyside.org/2025/08/01/housing-south-berkeley-2655-shattuck-approved"/>
-        <updated>2025-08-01T17:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Several neighbors sought to scale down the project, but the City Council said it didn’t have that authority because of state housing laws.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At 17, Hannah Cairo Solved a Major Math Mystery]]></title>
-        <id>https://www.quantamagazine.org/?p=152717</id>
-        <link href="https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/"/>
-        <updated>2025-08-01T13:56:56.000Z</updated>
-        <summary type="html"><![CDATA[After finding the homeschooling life confining, the teen petitioned her way into a graduate class at Berkeley, where she ended up disproving a 40-year-old conjecture.            
-The post At 17, Hannah Cairo Solved a Major Math Mystery first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Noema VI: Paradigm Shifts]]></title>
-        <id>https://www.noemamag.com/introducing-noema-vi-paradigm-shifts</id>
-        <link href="https://www.noemamag.com/introducing-noema-vi-paradigm-shifts"/>
-        <updated>2025-08-01T12:50:45.000Z</updated>
-        <summary type="html"><![CDATA[The post Introducing Noema VI: Paradigm Shifts appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
         </author>
     </entry>
     <entry>

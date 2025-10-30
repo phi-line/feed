@@ -451,16 +451,6 @@
           "wordCount": 3171,
           "title": "Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/EarthsLeakingCore-crDepositPhotos_Alamy-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=152717",
-          "author": "Kevin Hartnett",
-          "description": "After finding the homeschooling life confining, the teen petitioned her way into a graduate class at Berkeley, where she ended up disproving a 40-year-old conjecture.            \nThe post At 17, Hannah Cairo Solved a Major Math Mystery first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/",
-          "publishedOn": "2025-08-01T13:56:56.000Z",
-          "wordCount": 3667,
-          "title": "At 17, Hannah Cairo Solved a Major Math Mystery",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HannahCairo-cr-ValeriePlesch-Social.jpg"
         }
       ]
     },
@@ -1741,16 +1731,6 @@
           "wordCount": 13001,
           "title": "The Gulf World That Air Conditioning Wrought",
           "imageUrl": "https://noemamag.imgix.net/2025/08/IMG_1986.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=3a03fba939f4c838d144cae9bcf3e462"
-        },
-        {
-          "id": "https://www.noemamag.com/introducing-noema-vi-paradigm-shifts",
-          "author": "Nathan Gardels",
-          "description": "The post Introducing Noema VI: Paradigm Shifts appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/introducing-noema-vi-paradigm-shifts",
-          "publishedOn": "2025-08-01T12:50:45.000Z",
-          "wordCount": 4606,
-          "title": "Introducing Noema VI: Paradigm Shifts",
-          "imageUrl": "https://noemamag.imgix.net/2025/08/Noema_Issue6_Cover.jpg?fm=pjpg&ixlib=php-3.3.1&s=b5c15075a07e48a9d2c885814b3390e9"
         }
       ]
     },
@@ -4743,16 +4723,6 @@
           "wordCount": 7004,
           "title": "Dish of the week: Daing na Bangus from FOB Kitchen",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/large-072325_caringal_fobKitchen_03.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541301",
-          "author": "Nico Savidge",
-          "description": "Several neighbors sought to scale down the project, but the City Council said it didn’t have that authority because of state housing laws.",
-          "link": "https://www.berkeleyside.org/2025/08/01/housing-south-berkeley-2655-shattuck-approved",
-          "publishedOn": "2025-08-01T17:34:45.000Z",
-          "wordCount": 7221,
-          "title": "Proposal for 8-story apartment building in South Berkeley approved",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Screenshot-2025-07-31-at-3.04.40-PM.png"
         }
       ]
     },
@@ -5145,6 +5115,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/process-world-object-oriented-mind",
+          "author": null,
+          "description": "How programmers' struggles are everyone's mental struggles",
+          "link": "https://aethermug.com/posts/process-world-object-oriented-mind?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-10-30T04:47:19.000Z",
+          "wordCount": 7770,
+          "title": "Process World, Object-Oriented Mind",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/process-world-object-oriented-mind/henri_de_toulouse_lautrec.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/process-world-object-oriented-mind/henri_de_toulouse_lautrec.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/26-easy-steps-to-taming-your-smartphone-addiction",
           "author": null,
@@ -6104,6 +6089,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/groupthink-science-problem-myth/",
+          "author": "Ethan Siegel",
+          "description": "It’s often said that the great arc of science always bends towards the truth, but sometimes it takes an awfully long time to get there. Around 500 years ago, there was really only one scientific phenomenon that was, without controversy, extremely well-understood: the motion of the celestial objects in the sky. The Sun rose in the east and set in the west with a regular, 24 hour period. Its path in the sky rose higher and the days grew longer until the summer solstice, while its path was the lowest and shortest on the winter solstice: part of the annual cycle. The motions of the stars also exhibited a similar 24 hour period, as though the heavenly canopy rotated throughout the night. The Moon migrated night-to-night relative to the other objects by about 12° as it changed its phases, while …",
+          "link": "https://bigthink.com/starts-with-a-bang/groupthink-science-problem-myth/",
+          "publishedOn": "2025-10-30T06:00:00.000Z",
+          "wordCount": 4916,
+          "title": "Groupthink in science isn’t a problem; it’s a myth",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/08/ssscope.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/strange-maps/la-empresa-de-china/",
           "author": "Frank Jacobs",
