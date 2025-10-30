@@ -979,6 +979,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3161/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3161/",
+          "publishedOn": "2025-10-29T04:00:00.000Z",
+          "wordCount": 204,
+          "title": "Airspeed",
+          "imageUrl": "https://imgs.xkcd.com/comics/airspeed_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3160/",
           "author": null,
           "description": "",
@@ -1749,6 +1759,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546380",
+          "author": "Alex N. Gecan",
+          "description": "BPD Chief Jen Louis has stated her agency’s “commitment to transparency remains strong.” Before Wednesday it had not responded to a single Berkeleyside inquiry for three weeks.",
+          "link": "https://www.berkeleyside.org/2025/10/29/bpd-radio-encryption",
+          "publishedOn": "2025-10-30T00:04:18.000Z",
+          "wordCount": 7911,
+          "title": "Berkeley police will encrypt all radio traffic, a blow to transparency advocates",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP090923048541-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546348",
+          "author": "Alex N. Gecan",
+          "description": "The City Council ordered staff to inventory all the property Berkeley owns, then figure out how to keep federal agents off of it, as tensions mount nationally between the feds and blue cities.",
+          "link": "https://www.berkeleyside.org/2025/10/29/berkeley-property-inventory-ban-immigration-agents",
+          "publishedOn": "2025-10-29T20:04:00.000Z",
+          "wordCount": 7234,
+          "title": "Berkeley to ICE: Stay off city property",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP25296532289783.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546339",
+          "author": "Nico Savidge",
+          "description": "The pharmaceutical company gave some camp residents a 28-day hotel stay; others living on the formerly public West Berkeley street weren’t offered shelter.",
+          "link": "https://www.berkeleyside.org/2025/10/29/carleton-street-bayer-homeless-encampment-sweep",
+          "publishedOn": "2025-10-29T19:32:26.000Z",
+          "wordCount": 8138,
+          "title": "Bayer evicts homeless encampment from street Berkeley gave it",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251026_CarletonStreet_07.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546335",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/10/29/praaw-thai-sideshow-express-opening",
+          "publishedOn": "2025-10-29T19:00:00.000Z",
+          "wordCount": 6806,
+          "title": "New Thai arrives in Berkeley, and Sideshow Kitchen launches spinoff location",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/PraawThai-Dumplings.jpg?fit=1276%2C932&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546330",
           "author": "Berkeleyside Staff",
@@ -4703,16 +4753,6 @@
           "wordCount": 7221,
           "title": "Proposal for 8-story apartment building in South Berkeley approved",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Screenshot-2025-07-31-at-3.04.40-PM.png"
-        },
-        {
-          "id": "https://oaklandside.org/?p=458584",
-          "author": "Azucena Rasilla",
-          "description": "West Edge Opera will present three shows, starting with “Dolores,” based on the life of the civil rights activist, opening on Aug. 2.",
-          "link": "https://www.berkeleyside.org/2025/08/01/dolores-huerta-opera-scottish-rite-center",
-          "publishedOn": "2025-08-01T11:59:00.000Z",
-          "wordCount": 6965,
-          "title": "Berkeley opera company kicks off season with Dolores Huerta show",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/74A5434a-Priime-Cobalt-scaled-1.jpg?fit=2560%2C1708&ssl=1"
         }
       ]
     },
@@ -5277,6 +5317,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ozQs3pncQw4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ozQs3pncQw4",
+          "publishedOn": "2025-10-29T20:00:47.000Z",
+          "wordCount": 2361,
+          "title": "​@TameImpala talks about how a wild idea turned into an unexpected set with six acoustic guitars.⁠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/AGBgowjTMNU",
           "author": null,
@@ -6045,16 +6095,6 @@
           "publishedOn": "2025-08-05T09:00:36.000Z",
           "wordCount": null,
           "title": "River Tiber: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bGUy6cwbhyw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bGUy6cwbhyw",
-          "publishedOn": "2025-08-01T09:01:02.000Z",
-          "wordCount": null,
-          "title": "Sierra Hull: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -7931,6 +7971,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "http://theblog.jessikerbakes.com/?p=6273",
+          "author": "Jessica Hylton",
+          "description": "Beet Chips are a brightly coloured, sweet-and-salty, crunchy snack you only need 3 simple ingredients to make. No frying and no food dehydrator needed—bake them right in your oven! Here’s the thing with me and beets. When I was younger, I had beet juice almost every single morning, made fresh by my amazing mother. And to this day, […]",
+          "link": "https://jessicainthekitchen.com/beet-chips-recipe/",
+          "publishedOn": "2025-10-29T14:00:00.000Z",
+          "wordCount": 5563,
+          "title": "Crispy Beet Chips",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/07/Beet-Chips-2097.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=70645",
           "author": "Jessica from Jessica in the Kitchen",
