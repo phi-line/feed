@@ -979,6 +979,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3162/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3162/",
+          "publishedOn": "2025-10-31T04:00:00.000Z",
+          "wordCount": 206,
+          "title": "Heart Mountain",
+          "imageUrl": "https://imgs.xkcd.com/comics/heart_mountain_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3161/",
           "author": null,
           "description": "",
@@ -1769,6 +1779,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546485",
+          "author": "Tracey Taylor",
+          "description": "On Friday, neighbors of all ages gathered to paint a colorful Halloween and sanctuary city-themed artwork on the 1700 block of Virginia Street.",
+          "link": "https://www.berkeleyside.org/2025/10/31/berkeley-neighbors-paint-street-mural-halloween-sanctuary-city",
+          "publishedOn": "2025-10-31T23:46:22.000Z",
+          "wordCount": 6999,
+          "title": "Neighbors paint street mural on Halloween to celebrate community",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Virginia-Street-mural-Halloween-2025.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546508",
+          "author": "Natalie Orenstein",
+          "description": "Residents and officials are waiting anxiously to find out whether two judicial rulings Friday mean SNAP benefits will be released for November.",
+          "link": "https://www.berkeleyside.org/2025/10/31/food-assistance-alameda-county",
+          "publishedOn": "2025-10-31T23:31:03.000Z",
+          "wordCount": 7215,
+          "title": "Alameda County announces another $1.5 million in emergency food assistance",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-18.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=463988",
+          "author": "Esther Kaplan",
+          "description": "Congressional Republicans killed health exchange subsidies, which now expire at the end of 2025. Program administrators “expect many people to go uninsured” in the Bay Area if they aren’t restored.",
+          "link": "https://www.berkeleyside.org/2025/10/31/aca-covered-california-rate-hikes-subsidies-republicans-uninsured-2",
+          "publishedOn": "2025-10-31T23:25:11.000Z",
+          "wordCount": 6966,
+          "title": "Healthcare enrollment starts Nov. 1 in California — with big rate hikes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP25280708412452-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546473",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/10/31/kaspers-hot-dogs-jot-mahal-closing",
+          "publishedOn": "2025-10-31T20:06:51.000Z",
+          "wordCount": 6979,
+          "title": "Oakland loses another classic hot dog joint, and a Berkeley Indian restaurant makes way for another",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/KaspersHotDogs-Dimond-JeremyBrooks.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546463",
           "author": "Frances Dinkelspiel",
