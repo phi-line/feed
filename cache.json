@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=156189",
+          "author": "Paulina Rowińska",
+          "description": "In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.            \nThe post What Is a Manifold? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
+          "publishedOn": "2025-11-03T15:34:26.000Z",
+          "wordCount": 2978,
+          "title": "What Is a Manifold?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/What-is-a-Manifold-cr-Mark-Belan-Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=156088",
           "author": "Steve Nadis",
           "description": "If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?             \nThe post In a First, AI Models Analyze Language As Well As a Human Expert first appeared on Quanta Magazine",
@@ -596,6 +606,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/metaphors-size",
+          "author": "Asimov Press",
+          "description": "A series of quantitative metaphors on the sizes and shapes of biomolecules and organisms.",
+          "link": "https://www.asimov.press/p/metaphors-size",
+          "publishedOn": "2025-11-03T16:17:22.000Z",
+          "wordCount": null,
+          "title": "Metaphors for Biology: Sizes",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/16f9eeeb-eb5d-4b1b-aeb4-5592d0d3620c_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/16f9eeeb-eb5d-4b1b-aeb4-5592d0d3620c_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/broad-antivenom",
           "author": "Alexandra Balwit",
@@ -1301,16 +1327,6 @@
           "wordCount": 204,
           "title": "Disclaimer",
           "imageUrl": "https://imgs.xkcd.com/comics/disclaimer_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3125/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3125/",
-          "publishedOn": "2025-08-06T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Snake-in-the-Box Problem",
-          "imageUrl": "https://imgs.xkcd.com/comics/snake_in_the_box_problem_2x.png"
         }
       ]
     },
@@ -1703,6 +1719,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546439",
+          "author": "Zac Farber",
+          "description": "A disproportionate amount of our editors’ time is spent serving a small group of readers. We now offer other ways for readers to engage with our newsroom.",
+          "link": "https://www.berkeleyside.org/2025/11/03/berkeleyside-closing-comments",
+          "publishedOn": "2025-11-03T16:18:44.000Z",
+          "wordCount": 7412,
+          "title": "Berkeleyside is retiring comments on stories. Here’s why.",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP20074626404581.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546485",
           "author": "Tracey Taylor",
@@ -5292,6 +5318,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/W9D1HXtpS3A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/W9D1HXtpS3A",
+          "publishedOn": "2025-11-03T17:40:57.000Z",
+          "wordCount": 2050,
+          "title": "@Loumar86 strips away the electronics for piano, acoustic guitar, marimba and an eight-piece choir",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cJQ99hiO_h8",
           "author": null,
           "description": "",
@@ -6088,6 +6124,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/what-steve-jobs-learned-from-shakespeares-king-lear/",
+          "author": "Angus Fletcher",
+          "description": "Innovation. That’s what Steve Jobs drove for thirty-five years, from 1976 until his death in 2011. Spotting the potential of the computer mouse, digital animation, and the smartphone, he helped launch Apple’s Macintosh, Pixar’s Toy Story, and the iPhone, inspiring millions to follow his vision for the future: Think Different.\nHow did Jobs do it? How did he revolutionize tech, not once but continually?\nTo find out, I visit engineering teams at Apple’s headquarters in Cupertino, California. Snooping nosily around their sunny offices, I ask if they can share Jobs’s secret to innovation. In response, they laugh. They tell me that Apple has lost the secret. If I want to find it, I should go read a biography of Jobs. The most useful one, they tell me, is by Walter Isaacson.\nLeaving Cupertino, I …",
+          "link": "https://bigthink.com/business/what-steve-jobs-learned-from-shakespeares-king-lear/",
+          "publishedOn": "2025-11-03T14:00:00.000Z",
+          "wordCount": 2153,
+          "title": "What Steve Jobs learned from Shakespeare’s King Lear",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/steve-jobs-shakespeare_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/red-spider-nebula-jwst/",
           "author": "Ethan Siegel",
@@ -8015,6 +8061,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=69005",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Baked oatmeal is kind of like a cake you can eat for breakfast! This recipe is hearty and wholesome, with juicy blueberries and crunchy walnuts in every bite. A while back, Baked Oats were a TikTok trend, but in that version, the oats were blitzed in a blender or food processor to make them into […]",
+          "link": "https://jessicainthekitchen.com/baked-oatmeal-recipe-with-blueberries/",
+          "publishedOn": "2025-11-03T15:00:00.000Z",
+          "wordCount": 5824,
+          "title": "Baked Oatmeal Recipe With Blueberries",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/05/Vegan-Baked-Oatmeal-with-Blueberries-13.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=70986",
           "author": "Jessica from Jessica in the Kitchen",
