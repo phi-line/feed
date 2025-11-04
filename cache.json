@@ -4728,36 +4728,6 @@
           "wordCount": 8338,
           "title": "Around Berkeley: Yallah Arts Festival, Salsa Fest, Berkeley Barb’s 60th anniversary talk",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Candelabra--scaled.jpg?fit=2560%2C1707&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541571",
-          "author": "Vanessa Arredondo",
-          "description": "Students were moved from the school in 2020 due to earthquake concerns. The property, in North Berkeley, has been publicly owned for over a century.",
-          "link": "https://www.berkeleyside.org/2025/08/06/berkeleys-vacant-oxford-elementary-site-is-for-sale-for-3m",
-          "publishedOn": "2025-08-06T23:15:34.000Z",
-          "wordCount": 7214,
-          "title": "Berkeley’s vacant Oxford Elementary site is for sale for $3M",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/10/oxford-elementary-berkeley-2.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541549",
-          "author": "Alex N. Gecan",
-          "description": "Abdul Kamraan, 35, of Alameda was driving eastbound on I-80 when his minivan went off the road and struck a guardrail.",
-          "link": "https://www.berkeleyside.org/2025/08/06/interstate-80-ashby-avenue-fatal-crash-aug-3",
-          "publishedOn": "2025-08-06T21:08:48.000Z",
-          "wordCount": 6762,
-          "title": "Man killed in crash on Berkeley freeway Sunday morning",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/12/CHP.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=459014",
-          "author": "Jose Fermoso and Nico Savidge",
-          "description": "The 72R on San Pablo will become the less frequent 72L, and the Berkeley Hills' already sparse service will be cut further. It all takes effect Aug. 10.",
-          "link": "https://www.berkeleyside.org/2025/08/06/ac-transit-service-changes-bus-routes-schedules-realign",
-          "publishedOn": "2025-08-06T18:45:00.000Z",
-          "wordCount": 8699,
-          "title": "Is your AC Transit bus line changing? New routes begin this Sunday",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Ambassadors_Berkeley-2048x1363-1.webp"
         }
       ]
     },
@@ -6144,6 +6114,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/stream-stars-escaping-galaxy/",
+          "author": "Ethan Siegel",
+          "description": "Back on June 23, 2025, the “first look observations” from the Vera C. Rubin Observatory were released, highlighting the power of the United States’s and the National Science Foundation’s newest telescope. Designed to survey a large portion of the entire sky over and over, more deeply and in a speedier fashion than ever before, its science goals are stupendous. Armed with capabilities that no other observatory can match, it hopes to:\ndiscover enormous numbers of new objects within our Solar System,\nlook for transient events, or changes in distant stars, galaxies, and nebulae, to greater precision than ever before,\nto find new novae, supernovae, tidal disruption events, plus flares and eruptions,\nand to measure variable objects in distant galaxies, helping to resolve the Hubble tension,\nalon…",
+          "link": "https://bigthink.com/starts-with-a-bang/stream-stars-escaping-galaxy/",
+          "publishedOn": "2025-11-04T07:00:00.000Z",
+          "wordCount": 4396,
+          "title": "Astounding stream of stars caught escaping from nearby galaxy",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/m61-rubin-cover.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/what-steve-jobs-learned-from-shakespeares-king-lear/",
           "author": "Angus Fletcher",
