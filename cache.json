@@ -1730,6 +1730,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=546648",
+          "author": "Tovin Lapan",
+          "description": "Enter your vote for 10 categories covering East Bay restaurants, bars, bakeries, cafes and more.",
+          "link": "https://www.berkeleyside.org/2025/11/04/east-bay-nosh-awards-restaurants-bars-vote",
+          "publishedOn": "2025-11-04T16:00:00.000Z",
+          "wordCount": 6769,
+          "title": "Vote now for the 2025 Nosh Awards",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/NoshAwards2025.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546666",
+          "author": "Maya C. Miller and Jeanne Kuang | CalMatters",
+          "description": "Tuesday is the final day for California voters to weigh in on whether to approve Newsom’s plan to redistrict congressional lines to favor Democrats.",
+          "link": "https://www.berkeleyside.org/2025/11/04/proposition-50-california-election-results",
+          "publishedOn": "2025-11-04T15:25:52.000Z",
+          "wordCount": 7244,
+          "title": "Gov. Newsom’s congressional maps face their final test at the ballot box",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546541",
+          "author": "Vanessa Arredondo",
+          "description": "Leaders of groups like East Bay Sanctuary Covenant and Oasis Legal Services told us how their networks sprang into action — and what they learned from an “unfortunate test.”",
+          "link": "https://www.berkeleyside.org/2025/11/04/east-bay-immigration-organizations-reflect-on-called-off-surge",
+          "publishedOn": "2025-11-04T15:00:00.000Z",
+          "wordCount": 8008,
+          "title": "East Bay advocates reflect on immigration enforcement surge that wasn’t",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/2025-10-23_Middleton_CoastGuardIsland_67.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546271",
+          "author": "John DeSerio",
+          "description": "He raised five kids and a dog in South Berkeley and was known for his wit, writing and lamb-shaped meatloaves.",
+          "link": "https://www.berkeleyside.org/2025/11/04/ralph-vinnie-deserio-obituary",
+          "publishedOn": "2025-11-04T13:00:00.000Z",
+          "wordCount": 7420,
+          "title": "Remembering Ralph ‘Vinnie’ DeSerio, martial arts coach and plumber for Berkeley school district",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_0577-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=546623",
           "author": "Macie Parker",
           "description": "A fundraiser last month at the Starry Plough aimed to help families switch from gas to electric stoves. Organizers hope it will be the first of many events fueling climate justice through art.",
@@ -5274,21 +5314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/i-used-to-know-how-to-write-in-japanese/51370jpsdl.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/do-you-remember-what-you-read",
-          "author": null,
-          "description": "Why I never skip a Readwise day",
-          "link": "https://aethermug.com/posts/do-you-remember-what-you-read?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-08-07T00:42:55.000Z",
-          "wordCount": 3490,
-          "title": "Do You Remember What You Read?",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/do-you-remember-what-you-read/akita-library.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/do-you-remember-what-you-read/akita-library.jpg"
         }
       ]
     },
@@ -6114,6 +6139,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/logic-theorist/",
+          "author": "Toby Walsh",
+          "description": "Given the role symbols play in representing concepts in the wider world, a fundamental question for AI is straightforward. How do we manipulate symbols in meaningful ways? This naturally brings us to one of the six ideas central to AI today. It’s an idea for manipulating symbols, and it is ridiculously simple: You can reduce many problems to searching for an answer.\nThis sounds not just simple but self-­evident, so let me make it a little more complex. You can reduce many problems in AI to the computer searching its internal representation of the world from the symbol representing the starting state to the symbol representing the goal state.\nThis is not a new idea. It’s called navigation. You search a map for the route from your starting position to your desired end position. We do this al…",
+          "link": "https://bigthink.com/books/logic-theorist/",
+          "publishedOn": "2025-11-04T15:30:00.000Z",
+          "wordCount": 2769,
+          "title": "Logic Theorist: The program that rewrote the foundations of mathematics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Hisotry-of-AI_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/aging-science-steele/",
+          "author": "Steph McClain",
+          "description": "We track age by the number of birthdays we’ve had, but scientists are arguing that our cells tell a different, more truthful story. Our biological age reveals how our bodies are actually aging, from our muscle strength to the condition of our DNA. \nThe gap between these two numbers may hold the key to treating aging – which could help save 100,000 lives per day and win us $38 trillion dollars.\nThis video We doubled human lifespans in the last 200 years. Can we do it again? is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/aging-science-steele/",
+          "publishedOn": "2025-11-04T14:00:00.000Z",
+          "wordCount": 4093,
+          "title": "We doubled human lifespans in the last 200 years. Can we do it again?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/E1-Web-Steele.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/stream-stars-escaping-galaxy/",
           "author": "Ethan Siegel",

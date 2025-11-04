@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-04T12:08:37.630Z</updated>
+    <updated>2025-11-04T18:06:54.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vote now for the 2025 Nosh Awards]]></title>
+        <id>https://www.berkeleyside.org/?p=546648</id>
+        <link href="https://www.berkeleyside.org/2025/11/04/east-bay-nosh-awards-restaurants-bars-vote"/>
+        <updated>2025-11-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enter your vote for 10 categories covering East Bay restaurants, bars, bakeries, cafes and more.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic Theorist: The program that rewrote the foundations of mathematics]]></title>
+        <id>https://bigthink.com/books/logic-theorist/</id>
+        <link href="https://bigthink.com/books/logic-theorist/"/>
+        <updated>2025-11-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Given the role symbols play in representing concepts in the wider world, a fundamental question for AI is straightforward. How do we manipulate symbols in meaningful ways? This naturally brings us to one of the six ideas central to AI today. It’s an idea for manipulating symbols, and it is ridiculously simple: You can reduce many problems to searching for an answer.
+This sounds not just simple but self-­evident, so let me make it a little more complex. You can reduce many problems in AI to the computer searching its internal representation of the world from the symbol representing the starting state to the symbol representing the goal state.
+This is not a new idea. It’s called navigation. You search a map for the route from your starting position to your desired end position. We do this al…]]></summary>
+        <author>
+            <name>Toby Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gov. Newsom’s congressional maps face their final test at the ballot box]]></title>
+        <id>https://www.berkeleyside.org/?p=546666</id>
+        <link href="https://www.berkeleyside.org/2025/11/04/proposition-50-california-election-results"/>
+        <updated>2025-11-04T15:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday is the final day for California voters to weigh in on whether to approve Newsom’s plan to redistrict congressional lines to favor Democrats.]]></summary>
+        <author>
+            <name>Maya C. Miller and Jeanne Kuang | CalMatters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[East Bay advocates reflect on immigration enforcement surge that wasn’t]]></title>
+        <id>https://www.berkeleyside.org/?p=546541</id>
+        <link href="https://www.berkeleyside.org/2025/11/04/east-bay-immigration-organizations-reflect-on-called-off-surge"/>
+        <updated>2025-11-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Leaders of groups like East Bay Sanctuary Covenant and Oasis Legal Services told us how their networks sprang into action — and what they learned from an “unfortunate test.”]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We doubled human lifespans in the last 200 years. Can we do it again?]]></title>
+        <id>https://bigthink.com/series/the-big-think-interview/aging-science-steele/</id>
+        <link href="https://bigthink.com/series/the-big-think-interview/aging-science-steele/"/>
+        <updated>2025-11-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We track age by the number of birthdays we’ve had, but scientists are arguing that our cells tell a different, more truthful story. Our biological age reveals how our bodies are actually aging, from our muscle strength to the condition of our DNA. 
+The gap between these two numbers may hold the key to treating aging – which could help save 100,000 lives per day and win us $38 trillion dollars.
+This video We doubled human lifespans in the last 200 years. Can we do it again? is featured on Big Think.]]></summary>
+        <author>
+            <name>Steph McClain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Ralph ‘Vinnie’ DeSerio, martial arts coach and plumber for Berkeley school district]]></title>
+        <id>https://www.berkeleyside.org/?p=546271</id>
+        <link href="https://www.berkeleyside.org/2025/11/04/ralph-vinnie-deserio-obituary"/>
+        <updated>2025-11-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[He raised five kids and a dog in South Berkeley and was known for his wit, writing and lamb-shaped meatloaves.]]></summary>
+        <author>
+            <name>John DeSerio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astounding stream of stars caught escaping from nearby galaxy]]></title>
         <id>https://bigthink.com/starts-with-a-bang/stream-stars-escaping-galaxy/</id>
@@ -8550,16 +8614,6 @@ The post How Can Math Protect Our Data? first appeared on Quanta Magazine]]></su
         <updated>2025-08-07T09:00:45.000Z</updated>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Remember What You Read?]]></title>
-        <id>https://aethermug.com/posts/do-you-remember-what-you-read</id>
-        <link href="https://aethermug.com/posts/do-you-remember-what-you-read?utm_source=rss&amp;utm_campaign=rss"/>
-        <updated>2025-08-07T00:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Why I never skip a Readwise day]]></summary>
-        <author>
-            <name>Aether Mug</name>
         </author>
     </entry>
     <entry>
