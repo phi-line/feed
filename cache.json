@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/11/democracy",
+          "author": null,
+          "description": "Every time someone said 'democracy' in Congress.",
+          "link": "https://pudding.cool/2025/11/democracy",
+          "publishedOn": "2025-11-03T05:00:00.000Z",
+          "wordCount": 2594,
+          "title": "In pursuit of democracy",
+          "imageUrl": "https://pudding.cool/2025/11/democracy/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://pudding.cool/2025/10/walk",
           "author": null,
           "description": "A visually-aided journal of a very long walk home.",
@@ -959,6 +969,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3163/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3163/",
+          "publishedOn": "2025-11-03T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Repair Video",
+          "imageUrl": "https://imgs.xkcd.com/comics/repair_video_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3162/",
           "author": null,
           "description": "",
@@ -1719,6 +1739,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546623",
+          "author": "Macie Parker",
+          "description": "A fundraiser last month at the Starry Plough aimed to help families switch from gas to electric stoves. Organizers hope it will be the first of many events fueling climate justice through art.",
+          "link": "https://www.berkeleyside.org/2025/11/03/bay-area-cool-down",
+          "publishedOn": "2025-11-03T22:15:11.000Z",
+          "wordCount": 7188,
+          "title": "Climate activists gather in Berkeley for chalk painting, drag show and a sock puppet singalong",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546613",
+          "author": "Ella Carter-Klauschie and Martin Romero",
+          "description": "UC Berkeley officials won’t divulge security plans but say they're prepared to host the conservative organization Turning Point USA on Nov. 10 — two months after Kirk's assassination.",
+          "link": "https://www.berkeleyside.org/2025/11/03/turning-point-final-tour-stop",
+          "publishedOn": "2025-11-03T20:58:49.000Z",
+          "wordCount": 8496,
+          "title": "How UC Berkeley is preparing for Turning Point’s final tour stop after Charlie Kirk’s death",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP25258799946782.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546481",
+          "author": "Cecilia Seiter",
+          "description": "Sideshow Express, Starter Bakery, Headlands on Campus, and Tommy's Burger Co. are among the recent restaurant openings.",
+          "link": "https://www.berkeleyside.org/2025/11/03/starter-headlands-sideshow-mendocino-farms-openings",
+          "publishedOn": "2025-11-03T20:00:00.000Z",
+          "wordCount": 7635,
+          "title": "New burgers, bakeries, and beer gardens hit the East Bay in October",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/SideshowKitchen-BurgerFries.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546547",
+          "author": "Frances Dinkelspiel",
+          "description": "La base militar cerca de Oakland fue lugar de protestas la semana pasada contra el “despliegue” de agentes federales que luego se canceló. También sirvió como centro de retención durante las redadas de 1982 en la administración Reagan contra trabajadores indocumentados que ganaran más de 3.35 dólares la hora.",
+          "link": "https://www.berkeleyside.org/2025/11/03/en-los-anos-80-agentes-federales-arrestaron-a-inmigrantes-y-los-retuvieron-en-la-isla-de-la-guardia-costera",
+          "publishedOn": "2025-11-03T18:43:20.000Z",
+          "wordCount": 9350,
+          "title": "En los años 80 agentes federales arrestaron a inmigrantes y los retuvieron en la isla de la Guardia Costera",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/San_Francisco_Chronicle_1982_04_28_1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546439",
           "author": "Zac Farber",
@@ -5317,6 +5377,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Mnea683Abac",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Mnea683Abac",
+          "publishedOn": "2025-11-03T19:30:11.000Z",
+          "wordCount": 2048,
+          "title": "Members of @Parcels share how performing “Leaveyourlove” makes them feel like a boy band.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/W9D1HXtpS3A",
           "author": null,
