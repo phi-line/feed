@@ -1730,6 +1730,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=546716",
+          "author": "Azucena Rasilla",
+          "description": "Born in a Jingletown backyard and featured in The New York Times, Elvira Valera's restaurant has built a following for its tostadas raspadas. Now, it’s ready for its own brick-and-mortar.",
+          "link": "https://www.berkeleyside.org/2025/11/04/cenaduria-elvira-valera-tostada-raspada-jack-london-square",
+          "publishedOn": "2025-11-04T23:00:00.000Z",
+          "wordCount": 7374,
+          "title": "Acclaimed Oakland home restaurant is moving to Jack London Square",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/2022-05-27.jpg?fit=1227%2C1020&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546689",
+          "author": "Cecilia Seiter",
+          "description": "The East Bay restaurant closures in October included multiple business that had been open for decades.",
+          "link": "https://www.berkeleyside.org/2025/11/04/babette-jot-mahal-kaspers-starbucks-feel-good-closing",
+          "publishedOn": "2025-11-04T20:00:00.000Z",
+          "wordCount": 7329,
+          "title": "Jot Mahal closes on College, Oakland loses an Uptown bar and an Alameda bakery bids adieu",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/JotMahal-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546697",
+          "author": "Jose Fermoso, Roselyn Romero, Darwin BondGraham and Esther Kaplan",
+          "description": "La respuesta violenta a una protesta en Oakland plantea las mismas cuestiones legales que enfrentan otros estados a medida que se intensifica la represión migratoria de Trump.",
+          "link": "https://www.berkeleyside.org/2025/11/04/agente-federal-disparo-a-un-pastor-en-el-rostro-con-un-arma-quimica",
+          "publishedOn": "2025-11-04T19:47:03.000Z",
+          "wordCount": 10779,
+          "title": "Agente federal disparó a un pastor en el rostro con un arma química ¿Qué puede hacer California al respecto?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251029-220244.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=464138",
+          "author": "Jose Fermoso",
+          "description": "Under court order, FEMA stopped requiring security grantees to collaborate with immigration enforcement on Oct. 21. But AC Transit will not apply, after facing community pressure to protect riders.",
+          "link": "https://www.berkeleyside.org/2025/11/04/fema-grant-bart-ice-cooperation-immigration-court-order",
+          "publishedOn": "2025-11-04T19:11:51.000Z",
+          "wordCount": 7855,
+          "title": "$750k grant for BART had strings attached: ICE cooperation",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-_20210609_9222-1.jpeg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=546648",
           "author": "Tovin Lapan",
           "description": "Enter your vote for 10 categories covering East Bay restaurants, bars, bakeries, cafes and more.",
@@ -6120,16 +6160,6 @@
           "publishedOn": "2025-08-08T17:56:24.000Z",
           "wordCount": 2293,
           "title": "🎤 The Tiny Desk is calling... will you answer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TaBgZnScmY4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TaBgZnScmY4",
-          "publishedOn": "2025-08-07T09:00:45.000Z",
-          "wordCount": null,
-          "title": "MIKE: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
