@@ -4742,26 +4742,6 @@
           "wordCount": 7040,
           "title": "In Berkeley’s Northbrae, long-lost lanterns will shine again after over 60 years",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250806-192232.webp?fit=780%2C520&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541619",
-          "author": "Nico Savidge",
-          "description": "Softer demand and rising costs have taken a toll on several Berkeley hotels since the pandemic, though with the opening of a Residence Inn, hotel rooms are actually up.",
-          "link": "https://www.berkeleyside.org/2025/08/07/berkeley-hotels-pandemic-trends-market",
-          "publishedOn": "2025-08-07T22:59:00.000Z",
-          "wordCount": 8269,
-          "title": "Berkeley keeps losing hotels, but industry is faring better than in SF or Oakland",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/06/DSC_2378-1.jpg?fit=1620%2C1080&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541604",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/08/07/tomate-cafe-berkeley-to-close",
-          "publishedOn": "2025-08-07T18:44:12.000Z",
-          "wordCount": 6644,
-          "title": "Tomate Cafe to close this month, Prescott Meats Deli shutters",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/IMG_7921-e1754592152808.jpg"
         }
       ]
     },
@@ -5316,6 +5296,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jrkOQuRYCIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jrkOQuRYCIQ",
+          "publishedOn": "2025-11-05T10:01:17.000Z",
+          "wordCount": null,
+          "title": "The Doobie Brothers: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Mnea683Abac",
           "author": null,
@@ -6123,6 +6113,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/understand-einsteins-relativity-math/",
+          "author": "Ethan Siegel",
+          "description": "120 years ago, a revolution took place in physics that — to an outsider — might seem like an inconsequential matter. 120 years ago, Einstein put forth his Special theory of Relativity, asserting that neither space nor time were absolute quantities, but rather the answers you’d get for measuring distances, positions, and durations would be dependent on your location and relative motion. The only absolute, Einstein contended, was the speed of light in a vacuum. This was indeed a revolutionary statement, but the formulas for working out how distances and durations changed in a velocity-dependent way, especially as you approached the speed of light, had already been worked out over a decade prior: the Lorentz transformations.\nAnd yet, Einstein’s key insights, and the profundity of Special Rela…",
+          "link": "https://bigthink.com/starts-with-a-bang/understand-einsteins-relativity-math/",
+          "publishedOn": "2025-11-05T07:00:00.000Z",
+          "wordCount": 4416,
+          "title": "How to understand Einstein’s relativity without math",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/05/physicsteamf-e1722987692180.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/logic-theorist/",
           "author": "Toby Walsh",
