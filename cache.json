@@ -8417,6 +8417,23 @@
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/08/Vegan-Strawberry-Filling-for-Cake-12.jpg"
         }
       ]
+    },
+    {
+      "title": "zserge's blog",
+      "feedUrl": "https://zserge.com/rss.xml",
+      "siteUrl": "https://zserge.com/",
+      "articles": [
+        {
+          "id": "https://zserge.com/posts/grayskull/",
+          "author": null,
+          "description": "When people talk about computer vision, they usually think of OpenCV or deep neural networks like YOLO. But in most cases, doing computer vision implies understanding of the core algorithms, so you can use or adapt them for your own needs.\nI wanted to see how far I could go by stripping computer vision down to the bare minimum: only grayscale 8-bit images, no fancy data structures, plain old C, some byte arrays and a single header file.",
+          "link": "https://zserge.com/posts/grayskull/",
+          "publishedOn": "2025-10-26T00:00:00.000Z",
+          "wordCount": 4568,
+          "title": "By the power of grayscale!",
+          "imageUrl": "https://zserge.com/logo.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

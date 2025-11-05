@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-05T00:19:44.390Z</updated>
+    <updated>2025-11-05T00:41:30.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -1089,6 +1089,17 @@ A photo of Ethan Siegel at the American Astronomical Society’s hyperwall in 20
         <summary type="html"><![CDATA[In a little over a century, the electron microscope evolved from a tool barely capable of resolving virus particles into one able to capture atomic detail.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By the power of grayscale!]]></title>
+        <id>https://zserge.com/posts/grayskull/</id>
+        <link href="https://zserge.com/posts/grayskull/"/>
+        <updated>2025-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When people talk about computer vision, they usually think of OpenCV or deep neural networks like YOLO. But in most cases, doing computer vision implies understanding of the core algorithms, so you can use or adapt them for your own needs.
+I wanted to see how far I could go by stripping computer vision down to the bare minimum: only grayscale 8-bit images, no fancy data structures, plain old C, some byte arrays and a single header file.]]></summary>
+        <author>
+            <name>zserge's blog</name>
         </author>
     </entry>
     <entry>
