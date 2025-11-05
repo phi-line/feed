@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=155998",
+          "author": "Nora Bradford",
+          "description": "A sudden flash of insight is a product of your brain. Neuroscientists track the neural activity underlying an “aha” and how it might boost memory.            \nThe post How Your Brain Creates ‘Aha’ Moments and Why They Stick first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+          "publishedOn": "2025-11-05T15:10:10.000Z",
+          "wordCount": 4028,
+          "title": "How Your Brain Creates ‘Aha’ Moments and Why They Stick",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Aha-Moment-cr-Irene-Perez-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=156189",
           "author": "Paulina Rowińska",
           "description": "In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.            \nThe post What Is a Manifold? first appeared on Quanta Magazine",
@@ -1301,16 +1311,6 @@
           "wordCount": 210,
           "title": "Where Babies Come From",
           "imageUrl": "https://imgs.xkcd.com/comics/where_babies_come_from_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3126/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3126/",
-          "publishedOn": "2025-08-08T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Disclaimer",
-          "imageUrl": "https://imgs.xkcd.com/comics/disclaimer_2x.png"
         }
       ]
     },
@@ -1346,6 +1346,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-ark-builders-saving-fragile-bits-of-our-world",
+          "author": "Jess McHugh",
+          "description": "The post The Ark-Builders Saving Fragile Bits Of Our World appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-ark-builders-saving-fragile-bits-of-our-world",
+          "publishedOn": "2025-11-05T13:00:11.000Z",
+          "wordCount": 10363,
+          "title": "The Ark-Builders Saving Fragile Bits Of Our World",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/Noema_NewNoahs_Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=45cef30f17b6743f23dcf993980e5c36"
+        },
         {
           "id": "https://www.noemamag.com/only-god-can-save-us",
           "author": "Nathan Gardels",
@@ -1693,6 +1703,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=533117",
+          "author": "Joanne Furio",
+          "description": "Berkeley first made history as a sanctuary city during the Vietnam War. Advocates today are building on that legacy to protect asylum seekers from around the world.",
+          "link": "https://www.berkeleyside.org/2025/11/05/sanctuary-movement-history-berkeley-trump-administration-immigration-deportation",
+          "publishedOn": "2025-11-05T16:45:02.000Z",
+          "wordCount": 11575,
+          "title": "How Berkeley started the modern sanctuary movement",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/02/webimage-Solidarity-movement-calling-for-an-end-to-deportations-and-US-military-intervention-in-El-Salvador-San-Francisco-early-1980s.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546490",
+          "author": "Local sponsor",
+          "description": "Pay-what-you-can previews start Nov. 15 at the Ashby Stage.",
+          "link": "https://www.berkeleyside.org/2025/11/05/shotgun-players-launches-the-musical-sunday-in-the-park-with-george",
+          "publishedOn": "2025-11-05T16:30:00.000Z",
+          "wordCount": 7077,
+          "title": "Shotgun Players launches the musical ‘Sunday in the Park with George’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Photo-by-Robbie-Sweeny-L-to-R-_-Marah-Sotelo-as-Dot-_-Kevin-Singer-as-George.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=464198",
+          "author": "Roselyn Romero",
+          "description": "Prosecutors allege that the truck was used as a deadly weapon when it accelerated backward toward federal officers at Coast Guard Island.",
+          "link": "https://www.berkeleyside.org/2025/11/05/coast-guard-island-protest-driver-assault-charge",
+          "publishedOn": "2025-11-05T14:05:00.000Z",
+          "wordCount": 7394,
+          "title": "Feds charge suspected U-Haul driver at Oakland immigration protest with assault",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP25297306195964.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546703",
+          "author": "Joanne Furio",
+          "description": "Berkeley hizo historia por primera vez como ciudad santuario durante la guerra de Vietnam. Más tarde, cinco iglesias de Berkeley que acogieron a refugiados salvadoreños impulsaron un movimiento a nivel nacional. En la actualidad, activistas y organizaciones se sustentan en este legado para liderar la protección de solicitantes de asilo de todo el mundo.",
+          "link": "https://www.berkeleyside.org/2025/11/05/como-la-ciudad-de-berkeley-dio-origen-al-movimiento-moderno-de-ciudades-santuario",
+          "publishedOn": "2025-11-05T13:00:00.000Z",
+          "wordCount": 12298,
+          "title": "Cómo la ciudad de Berkeley dio origen al movimiento moderno de ciudades santuario",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/02/webimage-Solidarity-movement-calling-for-an-end-to-deportations-and-US-military-intervention-in-El-Salvador-San-Francisco-early-1980s.jpg?fit=640%2C480&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546716",
           "author": "Azucena Rasilla",
@@ -4784,6 +4834,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/internet-2001/",
+          "author": null,
+          "description": "Apple iTunes, the Rip Mix Burn advert, 2001; via YouTube (video embedded below).\nThe year 2001 began with optimism — in January, Wikipedia debuted and Apple launched iTunes. But by year’s end the mood had shifted. The dot-com crash had drained Silicon Valley’s exuberance, Napster was being dismantled in court, and the new wave of post-9/11 “warblogs” made the internet feel solemn and overly serious. Meanwhile, Microsoft continued its dominance over the web with the release of Internet Explorer 6.\nDespite the doom and gloom, 2001 was also a year in which the web continued to mature. It gained a memory through Wikipedia and the Wayback Machine, discovered new voices through blogs and communities like MetaFilter, and began to legitmately shake up the cultural industries with iTunes and the iP…",
+          "link": "https://cybercultural.com/p/internet-2001/",
+          "publishedOn": "2025-11-05T00:00:00.000Z",
+          "wordCount": 1806,
+          "title": "What the Internet Was Like in 2001",
+          "imageUrl": "https://cybercultural.com/assets/images/apple-ipod-advert-2001.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/blogs-rss-2001/",
           "author": null,
           "description": "Blogdex, a system launched in 2001 to track weblogs.\nAt the beginning of 2001, most popular weblogs were a combination of personal journal and linkblog — a format encouraged by early blogging tools like Blogger, LiveJournal and Diaryland. But by the end of the year, blogging had become a real-time reporting tool too; most notably in the form of the “warblogs” that became popular after 9/11, like Talking Points Memo, Instapundit and Andrew Sullivan’s The Daily Dish. The October launch of Movable Type was also a key moment in the professionalisation of blogging.\nBut let's start in January 2001, with the first annual Weblog Awards. This was a hobby site run by Nikolai Nolan, a University of Michigan student, who defined a weblog as “a page with dated entries that frequently have off-site link…",
@@ -6113,6 +6173,56 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/thinking/learn-with-metacognition/",
+          "author": "Anne-Laure Le Cunff",
+          "description": "I remember working on my book and catching myself mid-paragraph. I’d just finished a sentence that felt particularly satisfying to write and paused to ask: Why does this feel so good?\nThe answer wasn’t flattering. What I’d written sounded smart, but it wasn’t clear. I realized I’d been unconsciously filtering ideas through “does this make me look clever?” instead of “will this help the reader?”\nOnce I noticed I was optimizing for the wrong outcome, I could change it. I started asking different questions: Is this clear? Will this example actually land? What am I assuming the reader already knows?\nThat shift — becoming aware of how I was evaluating my own work — changed how I approached the rest of the book.\nThis kind of self-observation is what researchers call metacognition, and it’s usefu…",
+          "link": "https://bigthink.com/thinking/learn-with-metacognition/",
+          "publishedOn": "2025-11-05T16:00:00.000Z",
+          "wordCount": 1844,
+          "title": "Want to be a better learner? Start by noticing how you think.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/upgrade-brains-feedbackloop_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/myth-of-fate/",
+          "author": "Brian Klaas",
+          "description": "We like to believe that everything happens for a reason. But what if that belief is a comforting illusion? Political scientist Brian Klaas argues that randomness, not reason, drives much of human life. \nThe stories we tell ourselves about cause and effect aren’t reflections of truth, rather, they’re coping mechanisms to make chaos feel like order.\nThis video How the myth of destiny distorts our decisions is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/myth-of-fate/",
+          "publishedOn": "2025-11-05T15:27:53.000Z",
+          "wordCount": 1154,
+          "title": "How the myth of destiny distorts our decisions",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Klaas.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-the-worlds-first-business-bestseller-transformed-the-world/",
+          "author": "David McWilliams",
+          "description": "In 1202, having spent years learning the secrets of Saracen magic from the traders of Bejaia and witnessing algebra in commercial action on the docks of Messina, Leonardo of Pisa — the man who we know as Fibonacci — published the book that would transform commerce in Europe. It was called Liber Abaci, The Book of Calculations, and in it Fibonacci set out algebraic principles that, essentially, enabled merchants to make money. He had the journalistic gift of making the strange seem commonplace and the tangential seem relevant. By posing real-life examples of conundrums faced by traders, Fibonacci brought maths to life. Had he written in the language of the academy, the book would have had limited relevance. But because he wrote it for the merchants, Fibonacci revealed the true genius of the…",
+          "link": "https://bigthink.com/business/how-the-worlds-first-business-bestseller-transformed-the-world/",
+          "publishedOn": "2025-11-05T14:00:00.000Z",
+          "wordCount": 2438,
+          "title": "How the world’s first business bestseller transformed the world",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/history-of-money_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/is-the-universe-conscious/",
+          "author": "Philip Goff, Lee Helland",
+          "description": "For much of the past century, science seemed to be winning the story of reality. Between 2010 and 2020, the number of people with no religious affiliation grew by more than 270 million — nearly a quarter of humanity, according to Pew Research Center.\nMany of these so-called “nones” look to science alone to tell them what is real. They’re four times more likely than believers to say “the natural world is all there is,” and far less likely to think science has limits.\nBut lately, something seems to be shifting. Across the U.S., more people describe themselves as “spiritual but not religious.” In the U.K., Gen Z church attendance is ticking up. Meditation retreats sell out, ayahuasca is a household name, and “energy work” has its own subreddit.\nIs science enough to explain who we are and why …",
+          "link": "https://bigthink.com/the-well/is-the-universe-conscious/",
+          "publishedOn": "2025-11-05T14:00:00.000Z",
+          "wordCount": 2530,
+          "title": "Is the universe conscious? Panpsychism, religion, and the modern search for meaning",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Is-God-a-Rock.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/productivity-and-perfectionism-explained/",
+          "author": "Laurie Santos, Oliver Burkeman, Melanie Katzman",
+          "description": "Writer Oliver Burkeman, psychologist Laurie Santos, and organizational psychologist Melanie Katzman discuss the illusion of perfectionism, the signs of burnout, and the limits of productivity. According to their research, the constant drive to improve often leaves people more exhausted and less productive – even if their intentions were to grow, improve, or achieve bigger goals.   \nTogether, they explain how accepting “good enough” and finding value beyond work can lead to greater balance and lasting happiness.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Want to be more productive? Start by doing less is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/productivity-and-perfectionism-explained/",
+          "publishedOn": "2025-11-05T14:00:00.000Z",
+          "wordCount": 1888,
+          "title": "Want to be more productive? Start by doing less",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/UC-Brain-Briefs-Perfectionism-Web-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/understand-einsteins-relativity-math/",
           "author": "Ethan Siegel",
@@ -8090,6 +8200,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=70985",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This Chili Mac and Cheese recipe is the most satisfying mac and cheese you’ll ever eat! Loaded with vegan ground beef, beans, and lots of plant-based cheese, it’s a kid-friendly comfort food dinner. This chili mac and cheese is exactly what it advertises itself as: a combination of Creamy Vegan Mac and Cheese and Vegan […]",
+          "link": "https://jessicainthekitchen.com/chili-mac-and-cheese-recipe/",
+          "publishedOn": "2025-11-05T15:00:00.000Z",
+          "wordCount": 5878,
+          "title": "One-Pot Chili Mac and Cheese Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Chili-Mac-and-Cheese-72.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=69005",
           "author": "Jessica from Jessica in the Kitchen",
