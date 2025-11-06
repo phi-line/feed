@@ -597,6 +597,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/limit-thinking",
+          "author": "Asimov Press",
+          "description": "To make things better, first prove how good they can possibly be.",
+          "link": "https://www.asimov.press/p/limit-thinking",
+          "publishedOn": "2025-11-06T16:00:48.000Z",
+          "wordCount": null,
+          "title": "The Power of Limit Thinking",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/210b7bf9-1bbb-4a2b-905e-68b81100b4cd_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/210b7bf9-1bbb-4a2b-905e-68b81100b4cd_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/metaphors-size",
           "author": "Asimov Press",
           "description": "A series of quantitative metaphors on the sizes and shapes of biomolecules and organisms.",
@@ -1347,6 +1363,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/humanitys-endgame",
+          "author": "Henry Wismayer",
+          "description": "The post Humanity’s Endgame appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/humanitys-endgame",
+          "publishedOn": "2025-11-06T16:47:05.000Z",
+          "wordCount": 14374,
+          "title": "Humanity’s Endgame",
+          "imageUrl": "https://noemamag.imgix.net/2025/10/FF_01-1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=1%2C831%2C2042%2C1069&w=1200&wpsize=noema-social-facebook&s=b32f614825bd7195912959720d55ee8d"
+        },
+        {
           "id": "https://www.noemamag.com/the-ark-builders-saving-fragile-bits-of-our-world",
           "author": "Jess McHugh",
           "description": "The post The Ark-Builders Saving Fragile Bits Of Our World appeared first on NOEMA.",
@@ -1693,6 +1719,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546890",
+          "author": "Vanessa Arredondo",
+          "description": "About 30% of Berkeley Unified students rely on free or reduced-cost meals. The school district has been partnering with food pantries and mobilizing volunteers to feed students and their families.",
+          "link": "https://www.berkeleyside.org/2025/11/06/busd-grocery-gift-cards-food-pantries-snap-cuts",
+          "publishedOn": "2025-11-06T15:00:00.000Z",
+          "wordCount": 7960,
+          "title": "BUSD community responds to SNAP cuts by donating grocery gift cards, and more",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/BFN-ShoeySindel_SSP0068.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546795",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include a book talk with Hayley Kiyoko, the Korean Experimental Music Festival and a community limpia circle.",
+          "link": "https://www.berkeleyside.org/2025/11/06/around-berkeley-comic-con-square-dancing-hungarian-desserts",
+          "publishedOn": "2025-11-06T14:00:00.000Z",
+          "wordCount": 8109,
+          "title": "Around Berkeley: Comic Con, square dancing, Hungarian desserts",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Untitled-design-3.png?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=546161",
           "author": "Alex N. Gecan",
@@ -4742,16 +4788,6 @@
           "wordCount": 8154,
           "title": "Push to revive casual carpool starts Tuesday in Oakland",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-Carpool-Rockridge-1.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541611",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A 17-year-old solves a math mystery.",
-          "link": "https://www.berkeleyside.org/2025/08/08/berkeley-layoffs-at-berkeley-lab-robert-reichs-new-memoir",
-          "publishedOn": "2025-08-09T00:15:00.000Z",
-          "wordCount": 6643,
-          "title": "The Wire: Layoffs at Berkeley Lab; Robert Reich’s new memoir",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/XBD-202112-0151-004-scaled.jpg?fit=2560%2C1438&ssl=1"
         }
       ]
     },
@@ -5126,16 +5162,6 @@
           "wordCount": 4637,
           "title": "Meera Sodha’s vegan recipe for Sri Lankan-style aubergine and tomato rice | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/7130e184719809a02d3229153a277467c51c26b1/113_1337_3390_2713/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46ae3f22e37974f62cfa4cc44ad75c9a"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/aug/09/chocolate-mascarpone-cherry-cake-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A big show-off cake made for celebrations and indulgence\nThis cake is dedicated to two Charlies: Charlie McCormick, whom I follow on Instagram for photos of the beautiful dahlias he grows, as well as for his extravagant Christmas tree-decorating, his pet corgis and his outrageously proportioned homemade cakes (a ratio of 1:1 cream to cake), which inspired this one. The other Charlie is my daughter’s sweet little friend who turned eight recently and, in need of a cake, asked if this could be his birthday cake. To the two Charlies!\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/aug/09/chocolate-mascarpone-cherry-cake-recipe-meera-sodha",
-          "publishedOn": "2025-08-09T05:00:46.000Z",
-          "wordCount": 4431,
-          "title": "Meera Sodha’s recipe for chocolate, mascarpone and cherry cake | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/e66af37cc0ac5f539dc3e78b7a798d9ee21c35b3/262_167_2697_2158/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=052cd94f1d643a20bd535fdc54db44c6"
         }
       ]
     },
@@ -5331,6 +5357,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/x0q7Dwhvqtk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/x0q7Dwhvqtk",
+          "publishedOn": "2025-11-06T17:01:40.000Z",
+          "wordCount": 2020,
+          "title": "@Clipse hung up a classic piece of hip-hop iconography in our space.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jrkOQuRYCIQ",
           "author": null,
@@ -6138,6 +6174,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/schelling-points-and-great-books/",
+          "author": "Daniel Greco",
+          "description": "Some idealists set out to build a new community from scratch. They saw themselves as unusually clear-headed and logical — people determined to build a society based on reason rather than on the accidents of tradition. If there was a better way to do something, they wanted to find it.\nAt first, the experiment went smoothly. They shared work, rotated responsibilities, and debated policy late into the night. But before long, they started to complain about English. It’s irrational, they said. Silent letters everywhere, no phonetic consistency, spelling rules that dissolve the moment you learn them. Why do “though,” “through,” and “tough” all look the same but sound nothing alike? And the idioms! Why should “kick the bucket” mean “die”? Surely a truly rational society can do better, they though…",
+          "link": "https://bigthink.com/books/schelling-points-and-great-books/",
+          "publishedOn": "2025-11-06T15:30:00.000Z",
+          "wordCount": 4521,
+          "title": "Plato meets game theory: How Schelling points explain the power of great books",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/plato-schelling.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/why-desire-not-resilience-leads-to-longevity/",
+          "author": "Eric Markowitz",
+          "description": "For the latest edition of The Long Game, I spoke with Andrew Markell, a conversation based on several interviews over the past few months.\nEarlier this year, Andrew and I were introduced through a mutual friend. We first met in person on a trail in Forest Park in Portland, Oregon, where we hiked for two hours, talking about how societies — and people — fracture under pressure. A couple of weeks later, I found myself in his driveway, sweat pouring down my back as we practiced yiquan, the martial art he’s mastered, and a technique that trains the nervous system to stay coherent under stress.\nAndrew is part philosopher, part fighter — a trauma specialist and co-founder of The Dawn Collective — and he’s spent decades teaching everyone from special forces veterans to investors to CEOs how to fi…",
+          "link": "https://bigthink.com/business/why-desire-not-resilience-leads-to-longevity/",
+          "publishedOn": "2025-11-06T14:00:00.000Z",
+          "wordCount": 2853,
+          "title": "Why desire — not resilience — leads to longevity",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.6.25-Nightcrawler_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/",
           "author": "Ethan Siegel",
