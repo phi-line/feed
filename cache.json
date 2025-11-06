@@ -943,6 +943,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3164/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3164/",
+          "publishedOn": "2025-11-05T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Metric Tip",
+          "imageUrl": "https://imgs.xkcd.com/comics/metric_tip_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3163/",
           "author": null,
           "description": "",
@@ -1703,6 +1713,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546161",
+          "author": "Alex N. Gecan",
+          "description": "Forced to file subpoenas for information, watching key recommendations go ignored and mired in years-long negotiations over their powers, the city’s top police accountability officials are finding it hard to fulfill their mission.",
+          "link": "https://www.berkeleyside.org/2025/11/05/berkeley-pab-final-regulations",
+          "publishedOn": "2025-11-05T22:06:10.000Z",
+          "wordCount": 8327,
+          "title": "Civilian oversight of Berkeley police is hitting a wall",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-IMG_8483.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546813",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/11/05/hl-peninsuka-kopi-bar-opening",
+          "publishedOn": "2025-11-05T20:00:00.000Z",
+          "wordCount": 6800,
+          "title": "A massive dim sum palace arrives in Castro Valley, and Kopi Bar is now serving in Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/HLpeninsula-dimsum.jpg?fit=1805%2C1205&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=533117",
           "author": "Joanne Furio",
@@ -6173,6 +6203,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-2-types-of-jokes-everyone-tells/",
+          "author": "Jonny Thomson",
+          "description": "There are many kinds of laughter. You can laugh cheerfully, mirthlessly, dryly, cruelly, drunkenly, unexpectedly, and pointedly. Laughter is a noun with many possible adverbs. This raises a problem for anyone wanting to tell a joke. Because a joke, at its most basic, is something that is intended to make someone laugh. And so, given the sheer variety of laughter, it makes sense that there’s an equally sheer variety of jokes. A joke might be good-natured or mean. It might be childish or intellectual. It might be universal or niche. It might be about a social norm or about a specific person. Different jokes for different laughter.\nThe philosophy of humor is such an ill-defined and borderless discipline that a writer would be foolish to try to say anything meaningful at all. Well, hello, I’m …",
+          "link": "https://bigthink.com/mini-philosophy/the-2-types-of-jokes-everyone-tells/",
+          "publishedOn": "2025-11-05T20:03:17.000Z",
+          "wordCount": 2237,
+          "title": "The two types of jokes everyone tells",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/2-types-jokes_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/thinking/learn-with-metacognition/",
           "author": "Anne-Laure Le Cunff",
