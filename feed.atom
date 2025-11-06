@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-06T06:06:58.750Z</updated>
+    <updated>2025-11-06T12:08:10.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Our first terraforming goal should be the Moon, not Mars]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/"/>
+        <updated>2025-11-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter how advanced our civilization here on Earth becomes, there’s a sobering fact we have no choice but to reckon with: Earth’s resources are finite. That not only includes the resources we typically think of, like minerals, clean water, and breathable air, but also something even more fundamental and restrictive: land area. No matter how thoroughly we develop, there’s only a finite amount of land area to even potentially inhabit on our planet. Even if we built cities atop our existing cities, beneath them in subterranean passages, or floating atop the oceans, the fact is we’re living on a planet with a finite area and a finite volume, fundamentally limiting our ability to expand. 
+Even if we develop floating cities, the finite surface area of planet Earth ensures that, beyond a certa…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steinbeck on Teleology]]></title>
         <id>https://aethermug.com/posts/steinbeck-on-teleology</id>
@@ -8720,16 +8731,6 @@ This cake is dedicated to two Charlies: Charlie McCormick, whom I follow on Inst
         <summary type="html"><![CDATA[Also: A 17-year-old solves a math mystery.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richmond bridge bike lane access to be reduced starting this fall]]></title>
-        <id>https://richmondside.org/?p=453384</id>
-        <link href="https://www.berkeleyside.org/2025/08/08/richmond-bridge-bike-lane-vote-weekend-closed"/>
-        <updated>2025-08-08T22:17:12.000Z</updated>
-        <summary type="html"><![CDATA[The change to Thursday afternoons through Sundays, starting in October, lets transportation officials test the  impact on traffic congestion.]]></summary>
-        <author>
-            <name>Thomas Lyons</name>
         </author>
     </entry>
     <entry>

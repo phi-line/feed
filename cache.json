@@ -4752,16 +4752,6 @@
           "wordCount": 6643,
           "title": "The Wire: Layoffs at Berkeley Lab; Robert Reich’s new memoir",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/XBD-202112-0151-004-scaled.jpg?fit=2560%2C1438&ssl=1"
-        },
-        {
-          "id": "https://richmondside.org/?p=453384",
-          "author": "Thomas Lyons",
-          "description": "The change to Thursday afternoons through Sundays, starting in October, lets transportation officials test the  impact on traffic congestion.",
-          "link": "https://www.berkeleyside.org/2025/08/08/richmond-bridge-bike-lane-vote-weekend-closed",
-          "publishedOn": "2025-08-08T22:17:12.000Z",
-          "wordCount": 8660,
-          "title": "Richmond bridge bike lane access to be reduced starting this fall",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-Westbound-traffic-is-backed-up-miles-during-the-morning-commute-well-beyond-the-Harbour-Way-South-exit-in-Richmond-on-580-at-7-50-AM-on-June-11-2024.jpg"
         }
       ]
     },
@@ -6148,6 +6138,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/",
+          "author": "Ethan Siegel",
+          "description": "No matter how advanced our civilization here on Earth becomes, there’s a sobering fact we have no choice but to reckon with: Earth’s resources are finite. That not only includes the resources we typically think of, like minerals, clean water, and breathable air, but also something even more fundamental and restrictive: land area. No matter how thoroughly we develop, there’s only a finite amount of land area to even potentially inhabit on our planet. Even if we built cities atop our existing cities, beneath them in subterranean passages, or floating atop the oceans, the fact is we’re living on a planet with a finite area and a finite volume, fundamentally limiting our ability to expand. \nEven if we develop floating cities, the finite surface area of planet Earth ensures that, beyond a certa…",
+          "link": "https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/",
+          "publishedOn": "2025-11-06T07:00:00.000Z",
+          "wordCount": 3943,
+          "title": "Our first terraforming goal should be the Moon, not Mars",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/10/34614657983_26066212d8_k.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-2-types-of-jokes-everyone-tells/",
           "author": "Jonny Thomson",
