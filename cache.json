@@ -1720,6 +1720,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://oaklandside.org/?p=464387",
+          "author": "Ashley McBride",
+          "description": "CJ Rudolph joined the Internal Revenue Service in 2019, just after the last federal shutdown. Now he’s surviving with gig work and a credit union loan.",
+          "link": "https://www.berkeleyside.org/2025/11/06/government-shutdown-furloughed-federal-worker-surviving",
+          "publishedOn": "2025-11-06T21:44:11.000Z",
+          "wordCount": 7747,
+          "title": "‘It’s just a fact of life’: Making do as a furloughed local federal worker",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP25308588345366-scaled-1.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=464426",
+          "author": "Associated Press and Esther Kaplan",
+          "description": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 airports starting Friday, Nov. 7. SFO and OAK are on the list; San Jose is not.",
+          "link": "https://www.berkeleyside.org/2025/11/06/oak-sfo-hit-by-faa-air-traffic-reductions",
+          "publishedOn": "2025-11-06T21:34:53.000Z",
+          "wordCount": 7187,
+          "title": "OAK, SFO hit by FAA air traffic reductions",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/large-Oakland-Airport-6.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546854",
+          "author": "Sara Martin",
+          "description": "Your guide to Berkeley, Oakland and Richmond cafes serving ceremonial-grade tea, matcha lattes and green desserts, despite a global shortage.",
+          "link": "https://www.berkeleyside.org/2025/11/06/east-bay-matcha-guide-tea-dessert-latte",
+          "publishedOn": "2025-11-06T20:30:00.000Z",
+          "wordCount": 8556,
+          "title": "Matcha, matcha everywhere: Where to get your fix in the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/OpenAir-MatchaandScone.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=546890",
           "author": "Vanessa Arredondo",
           "description": "About 30% of Berkeley Unified students rely on free or reduced-cost meals. The school district has been partnering with food pantries and mobilizing volunteers to feed students and their families.",
@@ -6174,6 +6204,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/sean-carroll-einstein/",
+          "author": "Sean Carroll",
+          "description": "Albert Einstein altered the way we think about reality itself, and we often think of him as the most important physicist. But even his breakthroughs were part of a larger, tangled conversation among scientists stretching from Aristotle to Maxwell to Minkowski. \nSean Carroll, physicist and philosopher at Johns Hopkins University, traces how the universe emerged not from solitary genius, but from centuries of dialogue, error, and correction.\nThis video Why general relativity would’ve been discovered without Einstein is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/sean-carroll-einstein/",
+          "publishedOn": "2025-11-06T19:54:59.000Z",
+          "wordCount": 3861,
+          "title": "Why general relativity would’ve been discovered without Einstein",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Carroll-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/schelling-points-and-great-books/",
           "author": "Daniel Greco",
