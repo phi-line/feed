@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-07T06:06:53.000Z</updated>
+    <updated>2025-11-07T12:08:00.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nova Twins: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=EiOiWE8p-IE</id>
+        <link href="https://www.youtube.com/watch?v=EiOiWE8p-IE"/>
+        <updated>2025-11-07T10:00:18.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Can Weber bars detect gravitational waves?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/"/>
+        <updated>2025-11-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in our Universe, we have many different species of energy populating the spacetime we inhabit. There’s matter: both normal matter and dark matter, in all the forms they can take, from plasmas to stars to black holes to diffuse, fluffy haloes. There’s dark energy: a mysterious form of energy that appears to be inherent to the fabric of space itself, consistent with Einstein’s cosmological constant. And there’s also radiation: like photons of all different wavelengths and neutrinos when they move nearly at the speed of light. But gravitational waves, even though they aren’t represented by any component of the Standard Model of elementary particles, also exist in our Universe, and also behave as a form of radiation: an inherently gravitational one.
+Originally theorized by Einstein way ba…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Berkeley Rep used AI art to market play; Berkeley High custodian writes kids books in his free time]]></title>
         <id>https://www.berkeleyside.org/?p=546946</id>

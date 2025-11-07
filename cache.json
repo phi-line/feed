@@ -5398,6 +5398,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EiOiWE8p-IE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EiOiWE8p-IE",
+          "publishedOn": "2025-11-07T10:00:18.000Z",
+          "wordCount": null,
+          "title": "Nova Twins: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/x0q7Dwhvqtk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6214,6 +6224,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/",
+          "author": "Ethan Siegel",
+          "description": "Here in our Universe, we have many different species of energy populating the spacetime we inhabit. There’s matter: both normal matter and dark matter, in all the forms they can take, from plasmas to stars to black holes to diffuse, fluffy haloes. There’s dark energy: a mysterious form of energy that appears to be inherent to the fabric of space itself, consistent with Einstein’s cosmological constant. And there’s also radiation: like photons of all different wavelengths and neutrinos when they move nearly at the speed of light. But gravitational waves, even though they aren’t represented by any component of the Standard Model of elementary particles, also exist in our Universe, and also behave as a form of radiation: an inherently gravitational one.\nOriginally theorized by Einstein way ba…",
+          "link": "https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/",
+          "publishedOn": "2025-11-07T07:00:00.000Z",
+          "wordCount": 4458,
+          "title": "Ask Ethan: Can Weber bars detect gravitational waves?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/09/ezgif-1-5724458878.gif?w=498&h=280&crop=1"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/sean-carroll-einstein/",
           "author": "Sean Carroll",
