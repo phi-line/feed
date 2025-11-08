@@ -1337,16 +1337,6 @@
           "wordCount": 206,
           "title": "Thread Meeting",
           "imageUrl": "https://imgs.xkcd.com/comics/thread_meeting_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3127/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3127/",
-          "publishedOn": "2025-08-11T04:00:00.000Z",
-          "wordCount": 210,
-          "title": "Where Babies Come From",
-          "imageUrl": "https://imgs.xkcd.com/comics/where_babies_come_from_2x.png"
         }
       ]
     },
@@ -6304,6 +6294,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-123-alien-physics/",
+          "author": "Ethan Siegel",
+          "description": "One of the great discoveries to be made out there in the grand scheme of things is alien life: the first detection of life that originated, survives, and continues to live beyond our own home planet of Earth. An even grander goal that many of us have, including scientists and laypersons alike, is to find not just life, but an example of intelligent extraterrestrials: aliens that are capable of interstellar communication, interstellar travel, or even of meeting us, physically, on our own planet. It’s a fascinating dream that has been with humanity since we first began contemplating the stars and planets beyond our own world.\n\n\n\nMost of us, including me, personally, have assumed that this latter type of alien would not only be more technologically advanced than we are, but would also be far more scientifically advanced as well. That not only would they understand everything we presently do about the fundamental laws of physics, but far more: that they’d be a potential source of new knowledge for us, having equaled or exceeded everything we’d already gleaned from our investigative endeavors. And that assumption, as compelling as it might be, could be completely in error, argues physicist and author Dr. Daniel Whiteson.\n\n\n\nThat’s why I’m so pleased to bring you this latest episode of the Starts With A Bang podcast, where Daniel and I meet to discuss this very topic, with me taking the side of my own human-centered assumptions and Daniel taking a far more broad, philosophical, and cosmic approach: the same approach he takes in his new book, Do Aliens Speak Physics? And Other Questions About Science and the Nature of Reality. Have a listen to this fascinating conversation, see which set of arguments you find more compelling, and check out his book. You won’t be disappointed!\nThis article Starts With A Bang podcast #123 – Alien physics is featured on Big Think.",
+          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-123-alien-physics/",
+          "publishedOn": "2025-11-08T16:32:10.000Z",
+          "wordCount": 1531,
+          "title": "Starts With A Bang podcast #123 – Alien physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/alienphys.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/science-of-consciousness/",
           "author": "Anil Seth, Jonny Thomson",
