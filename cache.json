@@ -1740,6 +1740,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=546994",
+          "author": "Nico Savidge",
+          "description": "A majority of council members signaled support for taller height limits in the Elmwood District and parts of North Berkeley, even as opponents charged they would \"destroy\" popular neighborhoods.",
+          "link": "https://www.berkeleyside.org/2025/11/07/berkeley-housing-corridors-zoning-college-solano-shattuck",
+          "publishedOn": "2025-11-08T00:08:54.000Z",
+          "wordCount": 8818,
+          "title": "Plan to add housing in 3 wealthy Berkeley neighborhoods faces backlash, but City Council is undeterred",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/IMG_0072-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546981",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/11/07/flora-ferment-albany-friends-family-closing",
+          "publishedOn": "2025-11-07T23:00:00.000Z",
+          "wordCount": 6871,
+          "title": "Flora & Ferment shutters quietly, community cornerstone Friends and Family announces closing date",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/flora_and_ferment.jpeg?fit=1200%2C952&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546985",
+          "author": "Cecilia Seiter",
+          "description": "Oakland’s lauded queer bar, Friends and Family, is set to close on Dec. 30. It's an immeasurable loss for Nosh columnist Cecilia Seiter.",
+          "link": "https://www.berkeleyside.org/2025/11/07/oakland-friends-and-family-bar-closing",
+          "publishedOn": "2025-11-07T20:30:46.000Z",
+          "wordCount": 7676,
+          "title": "Martinis, missed connections and les eggs: The Oakland bar closure I never wanted to cover",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/230508_FRIENDSFAMILY_003_1685990572.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=546961",
           "author": "Alex N. Gecan",
           "description": "For 27 hours straight, a team of four scammers posing as Oakland police kept her on the phone and isolated, manipulating the John Muir elementary teacher into delivering nearly $70,000.",
@@ -6254,6 +6284,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/science-of-consciousness/",
+          "author": "Anil Seth, Jonny Thomson",
+          "description": "What does it mean to be conscious, and why does it feel like something to be you? Neuroscientist Anil Seth argues that consciousness isn’t a mysterious spark but a deeply biological process, one that depends on prediction, perception, and the body’s constant negotiation with the world. \nIn this conversation with philosopher Jonny Thomson, he explores how our brains don’t passively observe reality, but rather actively construct it.\nThis video The science of consciousness is solving the biggest illusion in our universe is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/science-of-consciousness/",
+          "publishedOn": "2025-11-07T18:44:04.000Z",
+          "wordCount": 13190,
+          "title": "The science of consciousness is solving the biggest illusion in our universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Anil.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-well/how-rainn-wilson-discovered-sacredness/",
           "author": "Rainn Wilson",
