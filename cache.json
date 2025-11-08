@@ -959,6 +959,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3165/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3165/",
+          "publishedOn": "2025-11-07T05:00:00.000Z",
+          "wordCount": 208,
+          "title": "Earthquake Prediction Flowchart",
+          "imageUrl": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3164/",
           "author": null,
           "description": "",
@@ -5143,6 +5153,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2025/nov/08/massaman-tofu-and-potato-curry-with-rainbow-chard-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Cut corners, but not flavour, with this updated take on a hearty, vegan-friendly curry\nA confession: I have already written a recipe for massaman curry. But since that was published in 2018, I have had a baby, a breakdown, travelled back to Thailand and eaten more massaman curries, all events that have contributed to this new recipe. The old dish is delicious, but in 2025 I didn’t want to make a paste from scratch. Instead, I wanted the funk and soul that a ready-made curry paste could give me and to use that as a springboard to fly into dinner time. A shortcut on time and ingredients, yes, but not on fun and flavour.\nJoin Meera Sodha at a special event celebrating the best of Guardian culture on Wednesday 26 November, hosted by Nish Kumar and alongside writers Stuart Heritage and Tim Dowling, with Georgina Lawton hosting You Be The Judge live. Live in London or via livestream, book tickets here.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2025/nov/08/massaman-tofu-and-potato-curry-with-rainbow-chard-recipe-meera-sodha",
+          "publishedOn": "2025-11-08T06:00:59.000Z",
+          "wordCount": 4655,
+          "title": "Meera Sodha’s recipe for Massaman tofu and potato curry with rainbow chard | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/234189e40a3b9ddc7acf8dfd942bc38db9574418/0_12_2821_2255/master/2821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc55e42136b9b7d00808844d758815f"
+        },
         {
           "id": "https://www.theguardian.com/food/2025/nov/01/tahini-beans-basil-pine-nuts-recipe-meera-sodha",
           "author": "Meera Sodha",
