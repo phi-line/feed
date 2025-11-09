@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-09T00:21:20.256Z</updated>
+    <updated>2025-11-09T06:06:21.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newsom: CalFresh payments will flow in California]]></title>
+        <id>https://oaklandside.org/?p=464542</id>
+        <link href="https://www.berkeleyside.org/2025/11/08/calfresh-snap-payments-starting-flow-california"/>
+        <updated>2025-11-09T04:14:30.000Z</updated>
+        <summary type="html"><![CDATA[A federal appeals court left an order in place Friday that requires the Trump administration to provide full SNAP food assistance for November. Many payments went out — and then the Supreme Court issued a stay.]]></summary>
+        <author>
+            <name>Associated Press and Esther Kaplan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starts With A Bang podcast #123 – Alien physics]]></title>
         <id>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-123-alien-physics/</id>
@@ -8951,37 +8961,6 @@ Philip Rosedale was working for RealNetworks as its Chief Technology Officer in 
         <summary type="html"><![CDATA[Kien Svay Cafe, Greek Wonders, Puerto Rican Street Cuisine and 9jagrills are just a few of the recent East Bay restaurants to debut.]]></summary>
         <author>
             <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Flower Designer]]></title>
-        <id>https://www.asimov.press/p/the-flower-designer</id>
-        <link href="https://www.asimov.press/p/the-flower-designer"/>
-        <updated>2025-08-11T15:57:14.000Z</updated>
-        <summary type="html"><![CDATA[A plant biologist’s quest to design and create 1,000 unique flowers, mostly in his spare time.]]></summary>
-        <author>
-            <name>Niko McCarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Mean To Be Thirsty?]]></title>
-        <id>https://www.quantamagazine.org/?p=153116</id>
-        <link href="https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/"/>
-        <updated>2025-08-11T14:41:43.000Z</updated>
-        <summary type="html"><![CDATA[The effects of insufficient water are felt by every cell in the body, but it’s the brain that manifests our experience of thirst.            
-The post What Does It Mean To Be Thirsty? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Dan Samorodnitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Push to revive casual carpool starts Tuesday in Oakland]]></title>
-        <id>https://oaklandside.org/?p=459225</id>
-        <link href="https://www.berkeleyside.org/2025/08/11/casual-carpool-oakland-berkeley-restart-revival-bart"/>
-        <updated>2025-08-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The casual carpool stop outside the North Berkeley BART station isn't part of the effort to restart the commuting tradition, at least for now.]]></summary>
-        <author>
-            <name>Jose Fermoso</name>
         </author>
     </entry>
     <entry>
