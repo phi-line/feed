@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-10T12:08:19.427Z</updated>
+    <updated>2025-11-10T18:06:49.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Makes an Experiment Beautiful?]]></title>
+        <id>https://www.asimov.press/p/beautiful-experiments</id>
+        <link href="https://www.asimov.press/p/beautiful-experiments"/>
+        <updated>2025-11-10T16:21:18.000Z</updated>
+        <summary type="html"><![CDATA[A beautiful experiment is not just a reflection of human ingenuity but also efficient science.]]></summary>
+        <author>
+            <name>Ulkar Aghayeva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Have Machines Make Math Proofs, Turn Them Into a Puzzle]]></title>
+        <id>https://www.quantamagazine.org/?p=156484</id>
+        <link href="https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/"/>
+        <updated>2025-11-10T15:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Marijn Heule turns mathematical statements into something like Sudoku puzzles, then has computers go to work on them. His proofs have been called “disgusting,” but they go beyond what any human can do.            
+The post To Have Machines Make Math Proofs, Turn Them Into a Puzzle first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>John Pavlus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley’s Sari Palace changes ownership but stays in the family]]></title>
+        <id>https://www.berkeleyside.org/?p=546325</id>
+        <link href="https://www.berkeleyside.org/2025/11/10/sari-palace-university-avenue-berkeley"/>
+        <updated>2025-11-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shelly and Deepak Ajmani and their two children have taken over the South Asian clothing boutique on University Avenue from relatives. The store recently made news when ICE deported its former seamstress.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Oasis? How a northern English tech startup went global]]></title>
+        <id>https://bigthink.com/business/silicon-oasis-how-a-northern-english-tech-startup-went-global/</id>
+        <link href="https://bigthink.com/business/silicon-oasis-how-a-northern-english-tech-startup-went-global/"/>
+        <updated>2025-11-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Klarzynski is the Chief Strategy Officer, CTO, and founder of PEAK:AIO, a data storage company “designed from the ground up” for the age of AI. His global client list includes Los Alamos National Laboratory in New Mexico, the Zoological Society of London, the British government, and a host of prestigious universities. 
+Remarkably, Klarzynski is not a resident of San Francisco. He’s not even based in the US. PEAK:AIO is headquartered in a city better known for internecine soccer rivalries and rock ‘n’ roll siblings Noel and Liam Gallagher: Manchester in the north-west of England. This proto-Silicon Oasis is a long way from Silicon Valley, but business is looking good. Following a recent chunk of $6.8 million in seed funding, Klarzynski is preparing scale up internationally.
+“Most AI is…]]></summary>
+        <author>
+            <name>Martin SFP Bryant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[East Bay artists and businesses team up for a fundraiser to support immigrant services]]></title>
+        <id>https://oaklandside.org/?p=464398</id>
+        <link href="https://www.berkeleyside.org/2025/11/10/east-bay-artists-no-crumbs-fundraiser-immigrant-services"/>
+        <updated>2025-11-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “No Crumbs” collective created a 2026 calendar and puzzle showcasing local businesses with proceeds benefitting Centro Legal de la Raza.]]></summary>
+        <author>
+            <name>Azucena Rasilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the “meter” came to be exactly one meter long]]></title>
         <id>https://bigthink.com/starts-with-a-bang/meter-exactly-one-meter-long/</id>
@@ -341,6 +394,16 @@ Even if we develop floating cities, the finite surface area of planet Earth ensu
         <summary type="html"><![CDATA[None of it is important or all of it is]]></summary>
         <author>
             <name>Aether Mug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Perplexing Appeal of <i>The Telepathy Tapes</i>]]></title>
+        <id>https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes</id>
+        <link href="https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes"/>
+        <updated>2025-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Telepathy Tapes claims that autistic children have the ability to read minds. It's also one of the most popular podcasts in America, with a surprisingly robust audience in tech. Where do their claims come from — and why do so many people believe them?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -8835,15 +8898,6 @@ The post New Physics-Inspired Proof Probes the Borders of Disorder first appeare
 The post The AI Was Fed Sloppy Code. It Turned Into Something Evil. first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thread Meeting]]></title>
-        <id>https://xkcd.com/3128/</id>
-        <link href="https://xkcd.com/3128/"/>
-        <updated>2025-08-13T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

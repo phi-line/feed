@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=156484",
+          "author": "John Pavlus",
+          "description": "Marijn Heule turns mathematical statements into something like Sudoku puzzles, then has computers go to work on them. His proofs have been called “disgusting,” but they go beyond what any human can do.            \nThe post To Have Machines Make Math Proofs, Turn Them Into a Puzzle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/",
+          "publishedOn": "2025-11-10T15:27:09.000Z",
+          "wordCount": 3170,
+          "title": "To Have Machines Make Math Proofs, Turn Them Into a Puzzle",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Marijn-Heule-QA-cr-Luis-Camacho-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=156437",
           "author": "Daniel Garisto",
           "description": "Quantum mechanics has at last been formulated exclusively with real numbers, bringing a mathematical puzzle at the heart of the theory into a new era of inquiry.             \nThe post Physicists Take the Imaginary Numbers Out of Quantum Mechanics first appeared on Quanta Magazine",
@@ -450,6 +460,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes",
+          "author": null,
+          "description": "The Telepathy Tapes claims that autistic children have the ability to read minds. It's also one of the most popular podcasts in America, with a surprisingly robust audience in tech. Where do their claims come from — and why do so many people believe them?",
+          "link": "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes",
+          "publishedOn": "2025-11-06T00:00:00.000Z",
+          "wordCount": 7110,
+          "title": "The Perplexing Appeal of <i>The Telepathy Tapes</i>",
+          "imageUrl": null
+        },
+        {
           "id": "https://asteriskmag.com/issues/12-books/you-arent-in-the-dsm",
           "author": null,
           "description": "Five editions on, the DSM shoulders more responsibilities than it was ever intended for. How did we get here?",
@@ -586,6 +606,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/beautiful-experiments",
+          "author": "Ulkar Aghayeva",
+          "description": "A beautiful experiment is not just a reflection of human ingenuity but also efficient science.",
+          "link": "https://www.asimov.press/p/beautiful-experiments",
+          "publishedOn": "2025-11-10T16:21:18.000Z",
+          "wordCount": null,
+          "title": "What Makes an Experiment Beautiful?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/92341c57-04ae-4ce0-8f7a-572a8d4517d5_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/92341c57-04ae-4ce0-8f7a-572a8d4517d5_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/limit-thinking",
           "author": "Asimov Press",
@@ -1291,16 +1327,6 @@
           "wordCount": 206,
           "title": "Archaeology Research",
           "imageUrl": "https://imgs.xkcd.com/comics/archaeology_research_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3128/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3128/",
-          "publishedOn": "2025-08-13T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Thread Meeting",
-          "imageUrl": "https://imgs.xkcd.com/comics/thread_meeting_2x.png"
         }
       ]
     },
@@ -1693,6 +1719,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546325",
+          "author": "Nathan Dalton",
+          "description": "Shelly and Deepak Ajmani and their two children have taken over the South Asian clothing boutique on University Avenue from relatives. The store recently made news when ICE deported its former seamstress.",
+          "link": "https://www.berkeleyside.org/2025/11/10/sari-palace-university-avenue-berkeley",
+          "publishedOn": "2025-11-10T14:00:00.000Z",
+          "wordCount": 7976,
+          "title": "Berkeley’s Sari Palace changes ownership but stays in the family",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-16.png?fit=800%2C600&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=464398",
+          "author": "Azucena Rasilla",
+          "description": "The “No Crumbs” collective created a 2026 calendar and puzzle showcasing local businesses with proceeds benefitting Centro Legal de la Raza.",
+          "link": "https://www.berkeleyside.org/2025/11/10/east-bay-artists-no-crumbs-fundraiser-immigrant-services",
+          "publishedOn": "2025-11-10T13:00:00.000Z",
+          "wordCount": 7880,
+          "title": "East Bay artists and businesses team up for a fundraiser to support immigrant services",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/2-images-4.png?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=464542",
           "author": "Associated Press and Esther Kaplan",
@@ -6128,6 +6174,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/silicon-oasis-how-a-northern-english-tech-startup-went-global/",
+          "author": "Martin SFP Bryant",
+          "description": "Mark Klarzynski is the Chief Strategy Officer, CTO, and founder of PEAK:AIO, a data storage company “designed from the ground up” for the age of AI. His global client list includes Los Alamos National Laboratory in New Mexico, the Zoological Society of London, the British government, and a host of prestigious universities. \nRemarkably, Klarzynski is not a resident of San Francisco. He’s not even based in the US. PEAK:AIO is headquartered in a city better known for internecine soccer rivalries and rock ‘n’ roll siblings Noel and Liam Gallagher: Manchester in the north-west of England. This proto-Silicon Oasis is a long way from Silicon Valley, but business is looking good. Following a recent chunk of $6.8 million in seed funding, Klarzynski is preparing scale up internationally.\n“Most AI is…",
+          "link": "https://bigthink.com/business/silicon-oasis-how-a-northern-english-tech-startup-went-global/",
+          "publishedOn": "2025-11-10T14:00:00.000Z",
+          "wordCount": 2610,
+          "title": "Silicon Oasis? How a northern English tech startup went global",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/silicon-oasis_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/meter-exactly-one-meter-long/",
           "author": "Ethan Siegel",
