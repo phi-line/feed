@@ -1336,6 +1336,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=71196",
+          "author": "Stephen Wolfram",
+          "description": "Towards a Theory of Bulk Orchestration It’s a key feature of living systems, perhaps even in some ways the key feature: that even right down to a molecular scale, things are orchestrated. Molecules (or at least large ones) don’t just move around randomly, like in a liquid or a gel. Instead, what molecular biology has […]",
+          "link": "https://writings.stephenwolfram.com/2025/11/whats-special-about-life-bulk-orchestration-and-the-rulial-ensemble-in-biology-and-beyond/",
+          "publishedOn": "2025-11-11T15:19:17.000Z",
+          "wordCount": 12100,
+          "title": "What’s Special about Life? Bulk Orchestration and the Rulial Ensemble in Biology and Beyond",
+          "imageUrl": "https://content.wolfram.com/sites/43/2025/11/sw11102025seoimg1.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=69955",
           "author": "Stephen Wolfram",
           "description": "Click any diagram to get Wolfram Language code to reproduce it. What Are Lambdas? It’s a story of pure, abstract computation. In fact, historically, one of the very first. But even though it’s something I for one have used in practice for nearly half a century, it’s not something that in all my years of […]",
@@ -1362,6 +1372,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine",
+          "author": "Kirsten Lie-Nielsen",
+          "description": "The post The Push To Get Invasive Crabs On The Menu In Maine appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine",
+          "publishedOn": "2025-11-11T14:18:54.000Z",
+          "wordCount": 6464,
+          "title": "The Push To Get Invasive Crabs On The Menu In Maine",
+          "imageUrl": "https://noemamag.imgix.net/2025/11/Crabs-final-small.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=220a7f3fc118b7a353e9fff40262d5f3"
+        },
         {
           "id": "https://www.noemamag.com/the-infrastructure-of-planetary-sapience",
           "author": "Nathan Gardels",
@@ -4860,6 +4880,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+          "author": null,
+          "description": "Last.fm circa 2003; via Last.fm Flickr account.\nWhat we now know as the “social web” — or Web 2.0 — didn’t arrive until around 2004. But the first inklings of it were emerging a couple of years before. As usual, music was the harbinger.\nLast.fm was founded in 2002 by a group of four Austrian and German students from Ravensbourne College of Design and Communication in London. It was fashioned as an internet radio station that allowed a user to build a listening profile and share it with others. The year of its launch, Last.fm won a young talent award at the Europrix, a multimedia awards show based in Vienna. This was how the product was described in a showcase video (embedded below) leading up to the awards ceremony:\n“After repeated use, the system builds a listening profile that increasing…",
+          "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+          "publishedOn": "2025-11-11T00:00:00.000Z",
+          "wordCount": 1644,
+          "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+          "imageUrl": "https://cybercultural.com/assets/images/lastfm-oct2002-1262x710.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/internet-2001/",
           "author": null,
           "description": "Apple iTunes, the Rip Mix Burn advert, 2001; via YouTube (video embedded below).\nThe year 2001 began with optimism — in January, Wikipedia debuted and Apple launched iTunes. But by year’s end the mood had shifted. The dot-com crash had drained Silicon Valley’s exuberance, Napster was being dismantled in court, and the new wave of post-9/11 “warblogs” made the internet feel solemn and overly serious. Meanwhile, Microsoft continued its dominance over the web with the release of Internet Explorer 6.\nDespite the doom and gloom, 2001 was also a year in which the web continued to mature. It gained a memory through Wikipedia and the Wayback Machine, discovered new voices through blogs and communities like MetaFilter, and began to legitmately shake up the cultural industries with iTunes and the iP…",
@@ -5387,6 +5417,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/tJ0BVpsG4pM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/tJ0BVpsG4pM",
+          "publishedOn": "2025-11-11T17:01:37.000Z",
+          "wordCount": 2069,
+          "title": "​@NovaTwinsMusic turns the expectation of what nice girls are supposed to play on its head.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/14NvrPENtmQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/14NvrPENtmQ",
+          "publishedOn": "2025-11-11T13:00:03.000Z",
+          "wordCount": 2195,
+          "title": "@DoobiesOfficial, now more than 50 years in, start this set with “Takin’ It to the Streets.”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oV4oG_83CTo",
           "author": null,
@@ -6234,6 +6284,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/",
+          "author": "Dirk Schulze-Makuch",
+          "description": "Nearly 50 years ago, Klaus Biemann, a principal investigator for NASA’s Viking Mars landing mission, announced that, after careful study of data collected by the landers’ onboard instruments, they had detected no organic compounds on the Martian surface. The Viking science team issued a broad conclusion: Mars was lifeless.\nBut data from the life-detection experiments was ambiguous. In fact, three different Viking instruments — the Labelled Release experiment to test for metabolic processes; the Pyrolytic Release experiment to test for organic synthesis reactions, and the Gas Exchange experiment to measure exchange of gases that might be biological in origin — returned data that were hard for scientists to interpret at the time. \nGil Levin, principal investigator for the first of these, ins…",
+          "link": "https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/",
+          "publishedOn": "2025-11-11T15:30:00.000Z",
+          "wordCount": 1851,
+          "title": "How a scientific mistake from the 1970s derailed Mars exploration",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/derailed-mars-exploration_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-long-game/how-to-be-ambitious-without-losing-your-soul/",
+          "author": "Eric Markowitz",
+          "description": "There is often a thin line between drive and self-destruction. Scott Britton’s new book argues that true success is built on self-awareness, presence, and the courage to slow down.\nThe other morning, I was on a Zoom call with a CEO, trying to sound composed, when my four-year-old burst into the room demanding to know where her princess dress was. I glanced down at my to-do list — which never seems to get shorter — and noticed I still needed to book a trip to San Francisco.\nIn that moment, surrounded by chaos, I thought: I write a column called The Long Game. I’m supposed to be the guy who thinks in decades. In all candor, I’m usually just trying to make it to lunchtime.\nAnd maybe that’s why my conversation with Scott Britton hit home.\nA former tech founder turned spiritual adventurer, Scot…",
+          "link": "https://bigthink.com/the-long-game/how-to-be-ambitious-without-losing-your-soul/",
+          "publishedOn": "2025-11-11T14:00:00.000Z",
+          "wordCount": 4012,
+          "title": "How to be ambitious without losing your soul",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/ambition-without-losing-soul_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/gap-clearing-planet-missing-link/",
           "author": "Ethan Siegel",
