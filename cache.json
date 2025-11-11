@@ -4818,36 +4818,6 @@
           "wordCount": 8544,
           "title": "Around Berkeley: Perseid meteor shower party, ‘Dream Diorama’ workshop, rare plant sale",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/image-4.png?fit=800%2C533&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541864",
-          "author": "Alex N. Gecan",
-          "description": "Nearly every category of theft and break-in has fallen this year. Thieves working in Berkeley have been teaming up and using sophisticated tactics and high-tech gadgets.",
-          "link": "https://www.berkeleyside.org/2025/08/13/bpd-property-crime-data-2025",
-          "publishedOn": "2025-08-13T20:55:00.000Z",
-          "wordCount": 7810,
-          "title": "Berkeley property crimes are dropping, but thieves are getting creative",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/05/05_18_20car_theft-1.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541839",
-          "author": "Nathan Dalton",
-          "description": "At the peak of the COVID-19 pandemic, restaurants saw Economic Injury Disaster Loans as a lifeline. Now, many restaurant owners say they are an anchor threatening to sink their businesses.",
-          "link": "https://www.berkeleyside.org/2025/08/13/covid-eidl-loans-restaurant-struggles-repayment",
-          "publishedOn": "2025-08-13T19:24:15.000Z",
-          "wordCount": 8127,
-          "title": "East Bay restaurants are sinking under the weight of COVID-era loans. This food entrepreneur is rallying support",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/IsoRabins-CreditIsoRabins.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541834",
-          "author": "Iris Kwok",
-          "description": "Cal art professor Stephanie Syjuco’s new work reproduces ethnic, gender and cultural studies course material at a gigantic scale in the middle of downtown Berkeley.",
-          "link": "https://www.berkeleyside.org/2025/08/13/bampfa-mural-stephanie-syjuco-present-tense-roll-call",
-          "publishedOn": "2025-08-13T18:27:11.000Z",
-          "wordCount": 7396,
-          "title": "New mural at BAMPFA shows a ‘constellation of ideas’ threatened by war on DEI",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Stephanie-Syjuco-Art-Wall-8-scaled.jpg"
         }
       ]
     },
@@ -5417,6 +5387,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oV4oG_83CTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oV4oG_83CTo",
+          "publishedOn": "2025-11-11T10:01:31.000Z",
+          "wordCount": null,
+          "title": "Kris Davis Trio: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/3Ph7h8N_6zo",
           "author": null,
@@ -6254,6 +6234,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/gap-clearing-planet-missing-link/",
+          "author": "Ethan Siegel",
+          "description": "Here in our Universe, one thing we could have been certain of, even before we began to examine or even detect worlds beyond our own, is that the Universe does have a mechanism for creating planets and planetary systems in orbit around stars. We have some supremely strong evidence that indicates there must be a pathway for that to occur: the existence of Earth and the other planets orbiting our own Sun. Because we exist, and our planet and the other planets in the Solar System exist, then the Universe must have some way of creating these planets.\nSo how is it, exactly, that planets actually form within our Universe?\nTo answer that question, we need to look to the Universe itself. Sure, we have theories that detail how planets could form, and by combining two fields of astronomy that might s…",
+          "link": "https://bigthink.com/starts-with-a-bang/gap-clearing-planet-missing-link/",
+          "publishedOn": "2025-11-11T07:00:00.000Z",
+          "wordCount": 4251,
+          "title": "Astronomy’s first gap-clearing planet fills in our “missing link”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/COLOR_IMAGE_Zp_Lp_Zp_Halpha_LRGB.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/silicon-oasis-how-a-northern-english-tech-startup-went-global/",
           "author": "Martin SFP Bryant",
