@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=156525",
+          "author": "Steve Nadis",
+          "description": "Mathematicians have broken through a long-standing barrier in the study of “minimizing surfaces,” which play an important role in both math and physics.            \nThe post New Proofs Probe Soap-Film Singularities first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/",
+          "publishedOn": "2025-11-12T15:02:52.000Z",
+          "wordCount": 3171,
+          "title": "New Proofs Probe Soap-Film Singularities",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Pyramid-Problem-cr-Paul-Nylander-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=156484",
           "author": "John Pavlus",
           "description": "Marijn Heule turns mathematical statements into something like Sudoku puzzles, then has computers go to work on them. His proofs have been called “disgusting,” but they go beyond what any human can do.            \nThe post To Have Machines Make Math Proofs, Turn Them Into a Puzzle first appeared on Quanta Magazine",
@@ -1301,16 +1311,6 @@
           "wordCount": 204,
           "title": "Predicament",
           "imageUrl": "https://imgs.xkcd.com/comics/predicament_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3129/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3129/",
-          "publishedOn": "2025-08-15T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Archaeology Research",
-          "imageUrl": "https://imgs.xkcd.com/comics/archaeology_research_2x.png"
         }
       ]
     },
@@ -1703,6 +1703,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=546955",
+          "author": "Nathan Dalton",
+          "description": "Crown Heating and Sheet Metal, a Berkeley fabrication shop that dates back seven decades, is closing within months of the Walter Mork Company — which is calling it quits after over a century.",
+          "link": "https://www.berkeleyside.org/2025/11/12/crown-heating-and-sheet-metal",
+          "publishedOn": "2025-11-12T14:00:00.000Z",
+          "wordCount": 7547,
+          "title": "Another sheet metal company closing with long history in West Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Crown-Sheet-Metal-01.jpg?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547068",
+          "author": "Zac Farber",
+          "description": "The response has been overwhelmingly positive since Berkeleyside retired its comments section last week.",
+          "link": "https://www.berkeleyside.org/2025/11/12/response-to-ending-comments",
+          "publishedOn": "2025-11-12T13:00:00.000Z",
+          "wordCount": 7463,
+          "title": "Berkeleyside ended comments. Readers said they could see why",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP22278412101213.jpg?fit=1024%2C683&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547061",
           "author": "Alix Wall",
@@ -4752,26 +4772,6 @@
           "wordCount": 7300,
           "title": "Berkeley hopes public art will ease pain of boarded-up downtown block",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Center-and-Oxford-streets-get-mural.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542034",
-          "author": "Alex N. Gecan",
-          "description": "There were no injuries reported, but the four-story residential building was damaged to the tune of roughly $150,000 Thursday evening, according to the Berkeley Fire Department.",
-          "link": "https://www.berkeleyside.org/2025/08/14/arlington-avenue-structure-fire",
-          "publishedOn": "2025-08-15T02:14:25.000Z",
-          "wordCount": 6995,
-          "title": "Berkeley Hills house fire shuts down Arlington Avenue",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/image1-scaled.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541939",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A woman was arrested after trying to grab a 10-month-old baby from his stroller near Aquatic Park, police say.",
-          "link": "https://www.berkeleyside.org/2025/08/14/wire-berkeley-named-healthiest-place-in-america-how-cal-professor-became-a-billionaire",
-          "publishedOn": "2025-08-15T00:15:00.000Z",
-          "wordCount": 6705,
-          "title": "Wire: Berkeley named healthiest place in America; how Cal professor became a billionaire",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250814-180732.webp?fit=1600%2C1200&ssl=1"
         }
       ]
     },
@@ -5328,21 +5328,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate/rebecca-freeman-rqFm0IgMVYY-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese",
-          "author": null,
-          "description": "Somehow, though, I can still read it",
-          "link": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-08-15T00:22:25.000Z",
-          "wordCount": 3970,
-          "title": "I Used to Know How to Write in Japanese",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/i-used-to-know-how-to-write-in-japanese/51370jpsdl.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/i-used-to-know-how-to-write-in-japanese/51370jpsdl.jpeg"
         }
       ]
     },
@@ -5351,6 +5336,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Z5Tw0Hw6Sa4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Z5Tw0Hw6Sa4",
+          "publishedOn": "2025-11-12T14:01:00.000Z",
+          "wordCount": 2081,
+          "title": "@EmilyKingMusic explains how she channels emotion without letting it overpower her performance.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/jte7_yZuZVk",
           "author": null,
@@ -6218,6 +6213,56 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/13-8/the-next-great-leap-in-evolution-may-lie-beyond-earth/",
+          "author": "Adam Frank",
+          "description": "Life on Earth has made several “great leaps” in its evolutionary history: from unicellularity to multicellularity, from sea to land, and from land into the skies. \nWhat if the next one lies beyond our planet? That’s the question behind Caleb Scharf’s latest book, The Great Leap: Why Space Is the Next Frontier in the Evolution of Life, which explores how cosmic evolution and human technology are shaping the next phase of life’s story. \nScharf is an astrophysicist, astrobiologist, and author whose work bridges science, philosophy, and the future of humanity. He serves as Senior Scientist for Astrobiology at NASA’s Ames Research Center and is a recipient of the Carl Sagan Medal from the American Astronomical Society.\nI’ve known and collaborated with Caleb for a while, and I’m always inspired …",
+          "link": "https://bigthink.com/13-8/the-next-great-leap-in-evolution-may-lie-beyond-earth/",
+          "publishedOn": "2025-11-12T15:30:00.000Z",
+          "wordCount": 2801,
+          "title": "The next great leap in evolution may lie beyond Earth",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/biosphere-to-heliosphere_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-to-land-the-emotional-why-of-company-change/",
+          "author": "Phil Gilbert",
+          "description": "To choose the ideal brand name for change at IBM, we needed to identify a name strong enough to travel the globe with a minimum amount of unwanted baggage. We needed a name that would encompass everything important about our change initiative, so we ruled out including words such as design or design thinking. We were more than that, and the name needed to reflect as much.\nWe had to take stock of the values we would want that name to represent. Initially, I considered the potential benefits of a name that might confer a sense of company continuity and familiarity. Perhaps it should invoke IBM’s nickname, and we could call our project teams Big Blue teams. But the risk would be that while dropping the baggage associated with “design,” we’d be taking on some new Blue-colored baggage instead. …",
+          "link": "https://bigthink.com/business/how-to-land-the-emotional-why-of-company-change/",
+          "publishedOn": "2025-11-12T14:00:00.000Z",
+          "wordCount": 2368,
+          "title": "How to land “the emotional why” of company change",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Irresistible-change_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/how-america-can-heal-division/",
+          "author": "Jennifer Brick Murtazashvili",
+          "description": "We now take it for granted that America is divided: rising political violence, a paralyzed Congress, and collapsing trust in institutions are among the signs. After decades studying conflict-affected societies, I’ve seen how some find a way through while others fall apart. The question that haunts me now is why the United States, with all its advantages, seems stuck in a cycle of polarization.\nMy research shows that real change happens not in viral TikToks but in drab meeting rooms — the phones-down, notebooks-out work of local governance.\nJennifer Brick Murtazashvili, PhD\n\n\nHere’s where I’ve landed: America’s passion for change as a concept has outpaced our understanding of how change actually happens in practice. We’ve mistaken expression for impact, conflating social media dust-ups with…",
+          "link": "https://bigthink.com/the-well/how-america-can-heal-division/",
+          "publishedOn": "2025-11-12T14:00:00.000Z",
+          "wordCount": 2366,
+          "title": "America already has the tools to heal division — we just need to relearn how to use them",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Americas-Division.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/skill-plateau/",
+          "author": "Atul Gawande",
+          "description": "Atul Gawande has spent his career studying how professionals improve, and why most eventually hit a plateau. At this point, even the most skilled experts need a coach to reveal their blind spots, as true expertise hinges on having the humility to keep learning once success arrives. \nGawande explores the paradox of mastery: the point at which experience becomes limitation, and the only path forward is to let someone else see what you can’t.\nThis video Why skill plateaus are inevitable – and how to push past them is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/skill-plateau/",
+          "publishedOn": "2025-11-12T14:00:00.000Z",
+          "wordCount": 2335,
+          "title": "Why skill plateaus are inevitable – and how to push past them",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Gawande.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/time-and-reality-explained/",
+          "author": "Brian Greene, Dean Buonomano, David Eagleman",
+          "description": "David Eagleman, PhD, Brian Greene, PhD, and Dean Buonomano, PhD, explore one of science’s strangest questions: what is time?\nFrom Einstein’s spacetime theory to the brain’s internal clock, they examine whether time is an external property of the universe or a mental construct. By connecting physics and neuroscience, they unpack the idea that how we experience time may differ entirely from how it actually works.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video What’s more real: time itself, or your perception of it? is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/time-and-reality-explained/",
+          "publishedOn": "2025-11-12T14:00:00.000Z",
+          "wordCount": 1810,
+          "title": "What’s more real: time itself, or your perception of it?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/UC-BB-Time-Web-C.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/devious-trick-sensational-science-headlines/",
           "author": "Ethan Siegel",
@@ -8405,6 +8450,26 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=8133",
+          "author": "Jessica Hylton",
+          "description": "Meet my very favourite veggie burger: Beet Burgers! These vegan patties are smoky, flavourful, and absolutely satisfying, perfect for piling onto a bun with your go-to toppings. The best veggie burger I’ve ever sunk my teeth into was at J. Alexander’s. I ordered my burger, ready to be underwhelmed, and I panicked: “I think you […]",
+          "link": "https://jessicainthekitchen.com/vegan-beet-burger-recipe/",
+          "publishedOn": "2025-11-12T15:00:00.000Z",
+          "wordCount": 7078,
+          "title": "Meaty Beet Burgers",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2016/02/Vegan-Beet-Burgers5176.jpg"
+        },
+        {
+          "id": "https://jessicainthekitchen.com/?p=71208",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This is just like your favourite old-fashioned Apple Fritters recipe, with one big difference: it’s vegan! Tender apples, a sticky glaze, and dough that’s crisp on the outside and pillowy soft in the middle make these the BEST fall treat. There’s nothing like homemade Classic Vegan Donuts—nothing! It’s a recipe I make as a special […]",
+          "link": "https://jessicainthekitchen.com/apple-fritters-recipe/",
+          "publishedOn": "2025-11-10T15:00:00.000Z",
+          "wordCount": 6097,
+          "title": "Old-Fashioned Apple Fritters Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Apple-Fritters-94.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=71110",
           "author": "Jessica from Jessica in the Kitchen",
