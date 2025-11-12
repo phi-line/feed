@@ -1338,16 +1338,6 @@
           "wordCount": 13161,
           "title": "The Ruliology of Lambdas",
           "imageUrl": "https://content.wolfram.com/sites/43/2025/09/sw09152025seoimg1.png"
-        },
-        {
-          "id": "https://writings.stephenwolfram.com/?p=69747",
-          "author": "Stephen Wolfram",
-          "description": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common theme: they’re all emails that present some kind of fundamental theory invented by […]",
-          "link": "https://writings.stephenwolfram.com/2025/08/i-have-a-theory-too-the-challenge-and-opportunity-of-avocational-science/",
-          "publishedOn": "2025-08-14T22:05:53.000Z",
-          "wordCount": 3867,
-          "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
-          "imageUrl": "https://content.wolfram.com/sites/43/2025/08/pwt-tweet.png"
         }
       ]
     },
@@ -1713,6 +1703,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547061",
+          "author": "Alix Wall",
+          "description": "She helped grow the broadcast track of UC Berkeley’s Graduate School of Journalism, influencing many in the field.",
+          "link": "https://www.berkeleyside.org/2025/11/12/joan-bieder",
+          "publishedOn": "2025-11-12T12:00:00.000Z",
+          "wordCount": 7601,
+          "title": "Remembering Joan Bieder, 83, who broke ground in journalism",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Screen-Shot-2025-11-03-at-6.48.4.jpg?fit=1014%2C570&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547152",
           "author": "Natalie Orenstein",
@@ -4772,26 +4772,6 @@
           "wordCount": 6705,
           "title": "Wire: Berkeley named healthiest place in America; how Cal professor became a billionaire",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/20250814-180732.webp?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541958",
-          "author": "Vanessa Arredondo",
-          "description": "The first day of school brought a mix of excitement and jitters as BUSD grapples with budget and construction challenges and families worry about after-school options, busing changes and federal immigration raids.",
-          "link": "https://www.berkeleyside.org/2025/08/14/berkeley-unified-back-to-school-photos",
-          "publishedOn": "2025-08-14T22:47:08.000Z",
-          "wordCount": 8561,
-          "title": "It’s back to school in Berkeley and families have a lot on their minds",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Firsdayof-school_EG_014.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=541900",
-          "author": "Cecilia Seiter",
-          "description": "Prescott Meats and Las Brasas were also among the recent East Bay restaurant closures.",
-          "link": "https://www.berkeleyside.org/2025/08/14/el-patio-seawolf-brasas-prescott-meats-closures",
-          "publishedOn": "2025-08-14T19:00:00.000Z",
-          "wordCount": 7130,
-          "title": "Watering holes El Patio, Seawolf among July losses",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/ElPatio-exterior.jpg?fit=1200%2C872&ssl=1"
         }
       ]
     },
@@ -6238,6 +6218,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/devious-trick-sensational-science-headlines/",
+          "author": "Ethan Siegel",
+          "description": "It happens all over the internet and news media every day: a new scientific study, making an extraordinary-if-true claim, gets elevated to prominence. You’ve probably seen many just over the past month, including:\nclaims that classical gravity produces quantum entanglement,\nclaims that interstellar comet 3I/ATLAS is likely evidence for aliens,\nand claims that the supernova data has been misinterpreted and the Universe is slowing down, not accelerating.\nNone of these things are true, of course, despite the assertions of the researchers who originated these claims. But unless you’re a scientist yourself — and, in particular, a scientist well-versed in these aspects of physics and astronomy — it’s not readily apparent where these claims have gone wrong.\nIn fact, there’s actually a simple form…",
+          "link": "https://bigthink.com/starts-with-a-bang/devious-trick-sensational-science-headlines/",
+          "publishedOn": "2025-11-12T07:00:00.000Z",
+          "wordCount": 4631,
+          "title": "The devious trick behind the most sensational science headlines",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Cosmic_Fireworks_in_Ultraviolet_Eta_Carinae_Nebula.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/error-and-evolution/",
           "author": "Sean B. Carroll",
