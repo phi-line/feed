@@ -5418,6 +5418,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/jte7_yZuZVk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jte7_yZuZVk",
+          "publishedOn": "2025-11-11T23:00:57.000Z",
+          "wordCount": 2021,
+          "title": "@clppng explains how they turned office clutter into a Desk full of makeshift instruments.⁠⁠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/W2AchLIukM8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/W2AchLIukM8",
+          "publishedOn": "2025-11-11T20:53:35.000Z",
+          "wordCount": 2097,
+          "title": "Breathless and expansive, @krisdavis9725 layered music is a mosaic of emotional expression. ✨️⁠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/tJ0BVpsG4pM",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6266,16 +6286,6 @@
           "wordCount": 2038,
           "title": "💥 A concert experience like no other... at THE Tiny Desk!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0e1ejLjjriw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0e1ejLjjriw",
-          "publishedOn": "2025-08-14T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Omar: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6284,6 +6294,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/error-and-evolution/",
+          "author": "Sean B. Carroll",
+          "description": "Evolution doesn’t create with intent: it begins with error. Random mutations, filtered through time and circumstance, give rise to the astonishing order of the natural world.\nEvolutionary biologist Sean B. Carroll explains how chance and chaos operate as life’s quiet architects.\nThis video How chance and error shaped every living being on Earth is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/error-and-evolution/",
+          "publishedOn": "2025-11-11T23:13:55.000Z",
+          "wordCount": 3371,
+          "title": "How chance and error shaped every living being on Earth",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Carroll.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/",
           "author": "Dirk Schulze-Makuch",
