@@ -943,6 +943,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3167/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3167/",
+          "publishedOn": "2025-11-12T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Car Size",
+          "imageUrl": "https://imgs.xkcd.com/comics/car_size_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3166/",
           "author": null,
           "description": "",
@@ -1704,6 +1714,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=547293",
+          "author": "Alex N. Gecan",
+          "description": "The East Bay will deal with winds gusting over 40 mph Thursday, which could bring down tree limbs and power lines, according to the National Weather Service.",
+          "link": "https://www.berkeleyside.org/2025/11/12/berkeley-forecast-wind-rain-national-weather-service",
+          "publishedOn": "2025-11-12T23:41:02.000Z",
+          "wordCount": 7044,
+          "title": "Several inches of rain could pound Berkeley this week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/01/large-Jan-4-Atmospheric-River-16-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547248",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/11/12/comfort-collective-james-giant-cupcake-stereo-41",
+          "publishedOn": "2025-11-12T20:18:55.000Z",
+          "wordCount": 7046,
+          "title": "Cupcakes on the move, Comfort Collective takes over Couchdate, and a new addition to Walnut Creek nightlife",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/JamesGiantCupcake.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547229",
+          "author": "Azul Dahlstrom-Eckman, Alex N. Gecan and Zac Farber",
+          "description": "Anti-fascist protesters fought with attendees at the event, held two months after founder Charlie Kirk's assassination, and four people were arrested. Berkeley's mayor said police handled incidents \"quickly and appropriately.\"",
+          "link": "https://www.berkeleyside.org/2025/11/12/tpusa-uc-berkeley-protests",
+          "publishedOn": "2025-11-12T19:06:11.000Z",
+          "wordCount": 8579,
+          "title": "Justice Department to investigate UC Berkeley after clashes at Turning Point event",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/MG_4801-CR3.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=546955",
           "author": "Nathan Dalton",
           "description": "Crown Heating and Sheet Metal, a Berkeley fabrication shop that dates back seven decades, is closing within months of the Walter Mork Company — which is calling it quits after over a century.",
@@ -1732,6 +1772,16 @@
           "wordCount": 7601,
           "title": "Remembering Joan Bieder, 83, who broke ground in journalism",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Screen-Shot-2025-11-03-at-6.48.4.jpg?fit=1014%2C570&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=546648",
+          "author": "Tovin Lapan",
+          "description": "Enter your vote for 10 categories covering East Bay restaurants, bars, bakeries, cafes and more.",
+          "link": "https://www.berkeleyside.org/2025/11/11/east-bay-nosh-awards-restaurants-bars-vote",
+          "publishedOn": "2025-11-11T16:00:00.000Z",
+          "wordCount": 6916,
+          "title": "Vote now for the 2025 Nosh Awards",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/NoshAwards2025.jpg"
         },
         {
           "id": "https://www.berkeleyside.org/?p=547152",
@@ -6213,6 +6263,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/to-become-wiser-society-must-relearn-how-to-fail/",
+          "author": "Jonny Thomson",
+          "description": "Philosophers often like to talk about “emergence,” a process where various discrete items come together to form something entirely new. It’s when a new property, a new object, or a new perspective emerges from the sum of the parts. We often talk differently about the emergent property than the individual elements. For example, we talk about a traffic jam differently than the cars that make it up.\nOne key question is: To what extent should we view society as an emergent property? In some ways, “society” has its own flow. It can create money, make laws, and shape collective behavior. When people compare a state’s budget to a household, it’s disingenuous — the state is not a parent with a credit card. Talking about society is often different from talking about individuals.\nIn this week’s Mini…",
+          "link": "https://bigthink.com/mini-philosophy/to-become-wiser-society-must-relearn-how-to-fail/",
+          "publishedOn": "2025-11-12T22:13:14.000Z",
+          "wordCount": 2060,
+          "title": "To become wiser, society must relearn how to fail",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/pancakehead2.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/13-8/the-next-great-leap-in-evolution-may-lie-beyond-earth/",
           "author": "Adam Frank",
