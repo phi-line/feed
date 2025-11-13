@@ -597,6 +597,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/flagella",
+          "author": "Niko McCarty",
+          "description": "Advances in cryo-electron microscopy are revealing the molecular intricacies of cell movement.",
+          "link": "https://www.asimov.press/p/flagella",
+          "publishedOn": "2025-11-13T16:17:13.000Z",
+          "wordCount": null,
+          "title": "Animalcules and Their Motors",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/6d95a425-b69e-4fa5-9c4b-af07417c4d5e_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6d95a425-b69e-4fa5-9c4b-af07417c4d5e_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/beautiful-experiments",
           "author": "Ulkar Aghayeva",
           "description": "A beautiful experiment is not just a reflection of human ingenuity but also efficient science.",
@@ -1347,6 +1363,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-progress-paradox",
+          "author": "Matt Prewitt",
+          "description": "The post The Progress Paradox appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-progress-paradox",
+          "publishedOn": "2025-11-13T17:31:19.000Z",
+          "wordCount": 10442,
+          "title": "The Progress Paradox",
+          "imageUrl": "https://noemamag.imgix.net/2025/11/Noema_Illustration_V2_13Nov25-1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=110aae933c1aeb573931512af3e40d7a"
+        },
+        {
           "id": "https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine",
           "author": "Kirsten Lie-Nielsen",
           "description": "The post The Push To Get Invasive Crabs On The Menu In Maine appeared first on NOEMA.",
@@ -1693,6 +1719,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547277",
+          "author": "Nico Savidge",
+          "description": "Berkeley’s Juneteenth Festival and a popular holiday market on Telegraph Avenue must move from their longtime homes, as the city mulls big fee increases and steps up fire code enforcement.",
+          "link": "https://www.berkeleyside.org/2025/11/13/berkeley-events-telegraph-holiday-fair-juneteenth-fe",
+          "publishedOn": "2025-11-13T17:00:00.000Z",
+          "wordCount": 9118,
+          "title": "New city fees, fire safety policies threaten future of 2 beloved Berkeley events, organizers say",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/20230613-213613.jpg?fit=1200%2C959&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547221",
+          "author": "Local sponsor",
+          "description": "Some countries offer residency, and path to citizenship, with an investment in real estate or business.",
+          "link": "https://www.berkeleyside.org/2025/11/13/thinking-about-moving-overseas-learn-more-about-golden-visas",
+          "publishedOn": "2025-11-13T16:30:00.000Z",
+          "wordCount": 7451,
+          "title": "Thinking about moving overseas? Learn more about ‘golden visas’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Obidos-Portugal.jpg?fit=2000%2C1261&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547323",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a guided listening of centuries-old Persian music, a pain management workshop and a chance to test new board games.",
+          "link": "https://www.berkeleyside.org/2025/11/13/around-berkeley-campus-music-festival-tea-social-trivia-night",
+          "publishedOn": "2025-11-13T14:00:00.000Z",
+          "wordCount": 7892,
+          "title": "Around Berkeley: Campus music festival, tea social, trivia night",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Photo-Oct-05-2025-7-19-42-PM-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547293",
           "author": "Alex N. Gecan",
@@ -5136,16 +5192,6 @@
           "wordCount": 4647,
           "title": "Meera Sodha’s recipe for courgette and mint pilau with salted pistachio yoghurt | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/1b8cbde52071ecd893a5e4429bdd7ca98d1bcbf7/0_604_3672_2937/master/3672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af8ea3db37f0ff7b848f746238ab802d"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/aug/16/vegan-sri-lankan-style-aubergine-and-tomato-rice-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A warming, Sri Lankan-style risotto-alike that’s perfect for a cool summer’s evening\nSome recipes are easy to describe, a variation on this or that. Others, such as this one, are more challenging. But imagine this: seared aubergines cooked with sweet onions and tomatoes, spiced with aromatics such as cardamom, chilli, mustard seeds and smoky curry leaves, then melted into a pot with rice, water and time, until wetter than a risotto but less homogeneous than a congee. A perfect meal to cook on a cool summer’s evening to slow yourself down, both to stoke an appetite and to warm the belly.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/aug/16/vegan-sri-lankan-style-aubergine-and-tomato-rice-recipe-meera-sodha",
-          "publishedOn": "2025-08-16T05:00:53.000Z",
-          "wordCount": 4637,
-          "title": "Meera Sodha’s vegan recipe for Sri Lankan-style aubergine and tomato rice | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/7130e184719809a02d3229153a277467c51c26b1/113_1337_3390_2713/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46ae3f22e37974f62cfa4cc44ad75c9a"
         }
       ]
     },
@@ -6203,6 +6249,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/myths-of-trauma/",
+          "author": "George Bonanno",
+          "description": "We may think that trauma leaves irreversible scars, reshaping our brain and emotional regulation permanently. The science, however, shows the opposite, says psychologist George Bonnano. Our biology is much more resilient than we give it credit for. \nBonanno dismantles common myths surrounding trauma and PTSD, and shares a practical mindset shift to navigate difficult experiences.\nThis video Why forcing positivity after trauma doesn’t build resilience is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/myths-of-trauma/",
+          "publishedOn": "2025-11-13T17:12:35.000Z",
+          "wordCount": 15386,
+          "title": "Why forcing positivity after trauma doesn’t build resilience",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Bonanno.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/robert-smalls/",
+          "author": "Jim Clyburn",
+          "description": "“While I breathe, I hope,” the most well-known of South Carolina’s two mottos, must have resonated deeply in the hearts and minds of enslaved Blacks as the first bombs exploded over Charleston Harbor. It was here, at 4:30 a.m. on April 12, 1861, that the Civil War began. Until then, the enslaved, who made up most of Charleston’s population, had found little reason for hope. They were held in bondage, forced to labor long hours with no pay, provided inadequate food and shelter, and under threat of physical abuse or even death at the slightest provocation. The blasts that lit up the night sky represented the first real chance for them to realize their collective dream to breathe free.\nAmong them was Robert Smalls, an intelligent young man who would not be willing to simply wait. If not for t…",
+          "link": "https://bigthink.com/books/robert-smalls/",
+          "publishedOn": "2025-11-13T15:30:00.000Z",
+          "wordCount": 3163,
+          "title": "The Civil War hero who stole a Confederate ship — and changed history",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/First-Eight_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/the-enduring-value-of-a-notebook-and-long-thinking/",
+          "author": "Eric Markowitz",
+          "description": "Here are two things I believe. One: we’re living through a period of enormous technological and social change. Two: there is no greater piece of technology than a simple spiral notebook and a couple of hours to be alone with your thoughts. The ease with which we can fabricate content and eve\nA favorite writer of mine, Cal Newport, suggested as much in a new essay this week, which is well worth the (quick) read. “There’s a deeply human satisfaction to retreating to an exotic location and wrestling with your own mind, scratching a record of your battle on paper,” Cal writes. “The innovations and insights produced by this long thinking are deeper and more subversive than the artificially cheery bullet points of a chatbot.” He continues:\nKey quote: “The problem facing knowledge work in our cur…",
+          "link": "https://bigthink.com/business/the-enduring-value-of-a-notebook-and-long-thinking/",
+          "publishedOn": "2025-11-13T14:00:00.000Z",
+          "wordCount": 2740,
+          "title": "The enduring value of a notebook and “long thinking”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.13.25-nightcrawler_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
           "author": "Ethan Siegel",
