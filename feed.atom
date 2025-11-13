@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-13T06:06:59.342Z</updated>
+    <updated>2025-11-13T12:08:35.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulp: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=x_KlY-AegeE</id>
+        <link href="https://www.youtube.com/watch?v=x_KlY-AegeE"/>
+        <updated>2025-11-13T10:01:42.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light and gravity travel at the same speed, but don’t arrive together]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/"/>
+        <updated>2025-11-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s an important rule in relativity that — as far as we know — all objects must obey. If you have no rest mass as you travel through the vacuum of space, you absolutely are compelled to travel exactly at the speed of light. This is exactly true for all massless particles, like photons and gluons, approximately true for particles whose mass is tiny compared to their kinetic energy, like neutrinos, and should also be exactly true for the massless ripples in spacetime created by purely gravitational effects: gravitational waves. Irrespective of whether gravity itself is inherently quantum in nature, the speed of gravity must be exactly equal to the speed of light. At least, that’s a necessity if we assume that our current laws of physics are correct.
+And yet, when we saw the first neutron…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Several inches of rain could pound Berkeley this week]]></title>
         <id>https://www.berkeleyside.org/?p=547293</id>
@@ -9090,36 +9110,6 @@ Some recipes are easy to describe, a variation on this or that. Others, such as 
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley firefighters are helping with massive Gifford Fire]]></title>
-        <id>https://www.berkeleyside.org/?p=542074</id>
-        <link href="https://www.berkeleyside.org/2025/08/15/berkeley-fire-department-mutual-aid-gifford-fire-canyon-fire"/>
-        <updated>2025-08-15T21:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Emergency workers frequently provide mutual aid to their colleagues around California. BFD deployed in January to help fight the lethal Palisades Fire in the Los Angeles area.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spanish Table in Berkeley is closing, citing tariff uncertainty]]></title>
-        <id>https://www.berkeleyside.org/?p=542053</id>
-        <link href="https://www.berkeleyside.org/2025/08/15/spanish-table-berkeley-closing"/>
-        <updated>2025-08-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The San Francisco store will remain open for now, but the market in Berkeley will close Aug. 17 after two dozen years in business.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British soul singer @OmarVEVO performs highlights from his timeless catalog 💜⁠]]></title>
-        <id>https://www.youtube.com/shorts/HbiABpubSqU</id>
-        <link href="https://www.youtube.com/shorts/HbiABpubSqU"/>
-        <updated>2025-08-15T18:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>

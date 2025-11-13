@@ -4762,26 +4762,6 @@
           "wordCount": 8166,
           "title": "‘Everyone is here’: San Pablo Park — Berkeley’s oldest — is a fixture in a changed neighborhood",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/R2-00820-017A.jpg?fit=1818%2C1228&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542074",
-          "author": "Alex N. Gecan",
-          "description": "Emergency workers frequently provide mutual aid to their colleagues around California. BFD deployed in January to help fight the lethal Palisades Fire in the Los Angeles area.",
-          "link": "https://www.berkeleyside.org/2025/08/15/berkeley-fire-department-mutual-aid-gifford-fire-canyon-fire",
-          "publishedOn": "2025-08-15T21:07:15.000Z",
-          "wordCount": 7240,
-          "title": "Berkeley firefighters are helping with massive Gifford Fire",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/AP25217005697941-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542053",
-          "author": "Cecilia Seiter",
-          "description": "The San Francisco store will remain open for now, but the market in Berkeley will close Aug. 17 after two dozen years in business.",
-          "link": "https://www.berkeleyside.org/2025/08/15/spanish-table-berkeley-closing",
-          "publishedOn": "2025-08-15T19:00:00.000Z",
-          "wordCount": 6593,
-          "title": "Spanish Table in Berkeley is closing, citing tariff uncertainty",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/SpanishTable-selection.jpg?fit=1125%2C1013&ssl=1"
         }
       ]
     },
@@ -5346,6 +5326,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=x_KlY-AegeE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x_KlY-AegeE",
+          "publishedOn": "2025-11-13T10:01:42.000Z",
+          "wordCount": null,
+          "title": "Pulp: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Z5Tw0Hw6Sa4",
           "author": null,
@@ -6205,16 +6195,6 @@
           "wordCount": null,
           "title": "Nduduzo Makhathini: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HbiABpubSqU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HbiABpubSqU",
-          "publishedOn": "2025-08-15T18:42:47.000Z",
-          "wordCount": 2007,
-          "title": "British soul singer @OmarVEVO performs highlights from his timeless catalog 💜⁠",
-          "imageUrl": null
         }
       ]
     },
@@ -6223,6 +6203,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
+          "author": "Ethan Siegel",
+          "description": "There’s an important rule in relativity that — as far as we know — all objects must obey. If you have no rest mass as you travel through the vacuum of space, you absolutely are compelled to travel exactly at the speed of light. This is exactly true for all massless particles, like photons and gluons, approximately true for particles whose mass is tiny compared to their kinetic energy, like neutrinos, and should also be exactly true for the massless ripples in spacetime created by purely gravitational effects: gravitational waves. Irrespective of whether gravity itself is inherently quantum in nature, the speed of gravity must be exactly equal to the speed of light. At least, that’s a necessity if we assume that our current laws of physics are correct.\nAnd yet, when we saw the first neutron…",
+          "link": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
+          "publishedOn": "2025-11-13T07:00:00.000Z",
+          "wordCount": 4030,
+          "title": "Light and gravity travel at the same speed, but don’t arrive together",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/GWB190425-e1698259196133.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/to-become-wiser-society-must-relearn-how-to-fail/",
           "author": "Jonny Thomson",
