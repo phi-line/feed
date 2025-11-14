@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-14T06:06:52.443Z</updated>
+    <updated>2025-11-14T12:08:18.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How can we better measure G, the gravitational constant?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/better-measure-g-gravitational-constant/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/better-measure-g-gravitational-constant/"/>
+        <updated>2025-11-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our physical universe, to the best of our understanding, can only be made sense of because it always obeys the same fundamental laws: everywhere and at all times. It isn’t just the underlying laws of nature that apply to all physical systems, but a series of fundamental constants as well. Chief among these constants are h, Planck’s constant that governs quantum physics, c, the speed of light in a vacuum that’s the same for all observers, and G, the gravitational constant that was introduced by Newton and that remains, even today, as an inseparable part of Einstein’s field equations in General Relativity.
+Even though Newton introduced G in the late 1600s, it wasn’t until 1798 that we were first able to measure it. 200 years later, we realized that many of our claimed refinements were in err…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Cal students arrested for cardboard mosquito art prank before Turning Point event]]></title>
         <id>https://www.berkeleyside.org/?p=547354</id>
