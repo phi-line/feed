@@ -1720,6 +1720,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=547354",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A new study shows a major earthquake could nearly wipe out the county's hospital beds. And a Berkley man has been charged with attempted murder after stabbing his father.",
+          "link": "https://www.berkeleyside.org/2025/11/13/the-wire-cal-students-arrested-for-cardboard-mosquito-art-prank-before-turning-point-event",
+          "publishedOn": "2025-11-14T01:15:00.000Z",
+          "wordCount": 7002,
+          "title": "The Wire: Cal students arrested for cardboard mosquito art prank before Turning Point event",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image-7.png?fit=776%2C500&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=547372",
           "author": "Alex N. Gecan",
           "description": "Most of the major closures will affect foot, bike and vehicle traffic Sunday morning as thousands of runners race 5k, 10k and 13.1-mile distances.",
@@ -5230,6 +5240,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
+          "author": null,
+          "description": "A modest mathematical framing of language",
+          "link": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-11-13T06:54:50.000Z",
+          "wordCount": 8266,
+          "title": "Linear Algebra Explains Why Some Words Are Effectively Untranslatable",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/steinbeck-on-teleology",
           "author": null,
