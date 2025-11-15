@@ -959,6 +959,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3168/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3168/",
+          "publishedOn": "2025-11-14T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Beam Dump",
+          "imageUrl": "https://imgs.xkcd.com/comics/beam_dump_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3167/",
           "author": null,
           "description": "",
@@ -1739,6 +1749,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547283",
+          "author": "Local sponsor",
+          "description": "StopWaste's RE:Source guide helps you repair treasures, share surplus and donate essentials where they’re needed most.",
+          "link": "https://www.berkeleyside.org/2025/11/14/find-meaningful-ways-to-give-this-holiday-season",
+          "publishedOn": "2025-11-14T21:39:19.000Z",
+          "wordCount": 7266,
+          "title": "Find meaningful ways to give this holiday season",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/DailyBowl-recovering-food2-1.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547444",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/11/14/red-bay-coffee-shuttering-hq-michaels-chocolates-gone-and-three-one-four-pizzeria-presses-pause",
+          "publishedOn": "2025-11-14T20:53:54.000Z",
+          "wordCount": 7070,
+          "title": "Three.one four pizzeria presses ‘pause,’ Red Bay Coffee shuttering HQ, and more East Bay closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Three-one-four-pizzeria.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547446",
+          "author": "Zaidee Stavely, Lasherica Thornton and Vanessa Arredondo",
+          "description": "Schools are still scrambling to get food to families for the nearly 2 million children statewide who rely on food aid.",
+          "link": "https://www.berkeleyside.org/2025/11/14/snap-payments-resume-after-government-shutdown-alameda-county",
+          "publishedOn": "2025-11-14T19:16:02.000Z",
+          "wordCount": 7739,
+          "title": "SNAP payments resume, but Alameda County households struggle with shutdown’s lingering effects",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Berkeley-Food-Network-11.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=464598",
           "author": "Betty Márquez Rosales",
