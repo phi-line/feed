@@ -4812,26 +4812,6 @@
           "wordCount": 7086,
           "title": "BART riders can start tapping their credit cards today",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/large-Natera_220929_Carpool-Berkeley_01.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542222",
-          "author": "Skylla Mumana",
-          "description": "The closing celebration was a chance for customers to toast the community hub (and buy one more bottle of olives or wine) as owner Bastian Schoell plots a new course amid tariff uncertainty.",
-          "link": "https://www.berkeleyside.org/2025/08/19/spanish-table-closing-party-tariffs",
-          "publishedOn": "2025-08-19T22:33:01.000Z",
-          "wordCount": 7560,
-          "title": "‘We can’t take that risk:’ The Spanish Table says graceful goodbye to Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Spanish-Table-Bastian-Mumana.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542220",
-          "author": "Alex N. Gecan",
-          "description": "They made off with an as-yet-unknown amount of cash, fleeing on foot and leaving the stolen truck in the middle of Telegraph Avenue early Sunday morning.",
-          "link": "https://www.berkeleyside.org/2025/08/19/telegraph-avenue-7-eleven-atm-smash-and-grab",
-          "publishedOn": "2025-08-19T21:52:08.000Z",
-          "wordCount": 6976,
-          "title": "ATM thieves smash into Southside Berkeley 7-Eleven with pickup truck",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/img_2598_720.jpg"
         }
       ]
     },
@@ -5401,6 +5381,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xBtTEc7HV6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xBtTEc7HV6k",
+          "publishedOn": "2025-11-17T10:01:28.000Z",
+          "wordCount": null,
+          "title": "Ghost-Note: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=x_KlY-AegeE",
           "author": null,
@@ -6268,6 +6258,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/decline-fall-stars-universe/",
+          "author": "Ethan Siegel",
+          "description": "Today, our Universe is illuminated, lit up primarily by stars.\n\nThis low-resolution image shows the full field of the COSMOS-Web survey conducted with JWST. Spanning 0.54 square degrees in the sky, or nearly three full Moons’ worth of area, this represents the largest, deepest wide-field view of the Universe ever acquired.\n\nCredit: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team\n\n\nBut it wasn’t born with any stars; they needed the right conditions to form.\n\nThe overdense regions that the Universe was born with grow and grow over time, but are limited in their growth by the initial small magnitudes of the overdensities, the cosmic scale on which the overdensities are found (and the time it takes the gravitational force to traverse them), and also by the …",
+          "link": "https://bigthink.com/starts-with-a-bang/decline-fall-stars-universe/",
+          "publishedOn": "2025-11-17T07:00:00.000Z",
+          "wordCount": 2996,
+          "title": "The decline and fall of stars in the Universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/eso1211a-e1763345443223.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-present/the-digital-ages-reversion-to-pre-literate-communication/",
           "author": "Andrey Mir",
