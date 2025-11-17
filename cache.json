@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=156647",
+          "author": "Charlie Wood",
+          "description": "Has the secret to understanding gravity been hiding in plain sight for nearly 40 years?            \nThe post Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/",
+          "publishedOn": "2025-11-17T15:18:20.000Z",
+          "wordCount": 4248,
+          "title": "Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/GhostlyGravity-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=155411",
           "author": "Rachel Nuwer",
           "description": "The physics of mixing water layers — an interplay of wind, climate and more — makes lakes work. When it stops, impacts can ripple across an ecosystem.            \nThe post Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down. first appeared on Quanta Magazine",
@@ -586,6 +596,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/see-the-dead",
+          "author": "Spencer Nitkey - Writer",
+          "description": "A retinal implant designer must decide if translating mourning into light is progress or a refusal to let go.",
+          "link": "https://www.asimov.press/p/see-the-dead",
+          "publishedOn": "2025-11-17T16:07:00.000Z",
+          "wordCount": null,
+          "title": "How to See the Dead",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!clPn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8cea214-0016-486e-bce1-3f2b942c1e03_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!clPn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8cea214-0016-486e-bce1-3f2b942c1e03_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/flagella",
           "author": "Niko McCarty",
@@ -1291,16 +1317,6 @@
           "wordCount": 206,
           "title": "Coastline Similarity",
           "imageUrl": "https://imgs.xkcd.com/comics/coastline_similarity_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3131/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3131/",
-          "publishedOn": "2025-08-20T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Cesium",
-          "imageUrl": "https://imgs.xkcd.com/comics/cesium_2x.png"
         }
       ]
     },
@@ -1703,6 +1719,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547458",
+          "author": "Nathan Dalton",
+          "description": "The 18-year-old nonprofit in Aquatic Park has lost a pair of major funders and seen declines in bike sales. It’s launching a new gardening and cooking job training program as part of a “fiscal readjustment.”",
+          "link": "https://www.berkeleyside.org/2025/11/17/berkeleys-waterside-workshops-funding-dip",
+          "publishedOn": "2025-11-17T16:00:00.000Z",
+          "wordCount": 8046,
+          "title": "Berkeley’s Waterside Workshops reduces staff, cuts bike shop hours as funding dips",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Street-Level-Cycles-youth-staff-ringing-up-a-customer-at-Community-Open-Shop.jpg?fit=1600%2C1071&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547485",
+          "author": "Chloe Swedberg",
+          "description": "Several performing arts organizations have closed, and more are struggling to hang on, in the wake of the pandemic, backers of the tax say.",
+          "link": "https://www.berkeleyside.org/2025/11/17/berkeley-2026-ballot-measure-performing-arts-parcel-tax",
+          "publishedOn": "2025-11-17T15:00:00.000Z",
+          "wordCount": 7752,
+          "title": "Campaign underway to put parcel tax raising money for Berkeley arts groups on 2026 ballot",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/03/large-Natera_240315_Freight-Salvage_15.jpg?fit=1600%2C1066&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547511",
           "author": "Sudhin Thanawala",
@@ -6259,6 +6295,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/business/how-to-lead-from-the-liminal-space-where-wisdom-takes-root/",
+          "author": "Patrick Boland",
+          "description": "There are moments in our lives when progress cannot be forced. No strategy will suffice, no clarity will emerge on demand. We feel clueless about how to influence the behaviors of a group of people with whom we interact; our colleagues, the market, our family, our friends.\nWe have no idea what happened within our organization, or within the ecosystem of our community. But everything around us seems to be in flux. Confusing. Unsteady. Separated from any sense of equilibrium.\nWe’ve tried everything we know to make changes. We’ve developed positive habits: eating less, exercising more, giving ourselves more downtime, being patient with our parents, more understanding with our partners. But nothing we do seems to affect the situation. We cannot find our way forward. If anything, we are regress…",
+          "link": "https://bigthink.com/business/how-to-lead-from-the-liminal-space-where-wisdom-takes-root/",
+          "publishedOn": "2025-11-17T14:00:00.000Z",
+          "wordCount": 2103,
+          "title": "How to lead from the liminal space where wisdom takes root",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/lead-from-liminal-space_compressed.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/decline-fall-stars-universe/",
           "author": "Ethan Siegel",
           "description": "Today, our Universe is illuminated, lit up primarily by stars.\n\nThis low-resolution image shows the full field of the COSMOS-Web survey conducted with JWST. Spanning 0.54 square degrees in the sky, or nearly three full Moons’ worth of area, this represents the largest, deepest wide-field view of the Universe ever acquired.\n\nCredit: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team\n\n\nBut it wasn’t born with any stars; they needed the right conditions to form.\n\nThe overdense regions that the Universe was born with grow and grow over time, but are limited in their growth by the initial small magnitudes of the overdensities, the cosmic scale on which the overdensities are found (and the time it takes the gravitational force to traverse them), and also by the …",
@@ -8595,6 +8641,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=71112",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Warm spices mingle with tender vegetables, sweet golden raisins, briny olives, and chickpeas to make this Moroccan Cauliflower Tagine a flavourful and satisfying vegan dinner! Moroccan food is known for its warmth—both in terms of actual heat (hello, harissa!) and also cozy spices like cinnamon and coriander. This Moroccan cauliflower tagine has both, making it […]",
+          "link": "https://jessicainthekitchen.com/moroccan-tagine/",
+          "publishedOn": "2025-11-17T15:00:00.000Z",
+          "wordCount": 5866,
+          "title": "Moroccan Cauliflower Tagine With Chickpeas",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Cauliflower-and-Golden-Raisin-Tagine-10.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=70987",
           "author": "Jessica from Jessica in the Kitchen",
