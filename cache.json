@@ -1353,6 +1353,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/journalism-in-an-age-of-authoritarianism",
+          "author": "Peter Pomerantsev",
+          "description": "The post Journalism In An Age Of Authoritarianism appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/journalism-in-an-age-of-authoritarianism",
+          "publishedOn": "2025-11-18T15:07:56.000Z",
+          "wordCount": 7555,
+          "title": "Journalism In An Age Of Authoritarianism",
+          "imageUrl": "https://noemamag.imgix.net/2025/11/Noema-Magazine-Make-truth-great-again-Mr.Nelson-design.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=28aad754a051abf3f22417d9daa842ca"
+        },
+        {
           "id": "https://www.noemamag.com/from-cinema-to-the-noematograph",
           "author": "Nathan Gardels",
           "description": "The post From Cinema To The Noematograph appeared first on NOEMA.",
@@ -1709,6 +1719,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547399",
+          "author": "Local sponsor",
+          "description": "The federal government has awarded the company funding and put it on a fast track for FDA approval.",
+          "link": "https://www.berkeleyside.org/2025/11/18/berkeley-startup-magnetic-tides-has-developed-a-new-treatment-for-stroke-patients",
+          "publishedOn": "2025-11-18T17:15:00.000Z",
+          "wordCount": 8116,
+          "title": "Berkeley startup, Magnetic Tides, has developed a new treatment for stroke patients",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/MT-horizontal-adjusted.jpeg?fit=2000%2C1339&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547518",
+          "author": "Vanessa Arredondo",
+          "description": "P.E. will be mandatory for 9th and 10th graders starting in '27. The change is expected to increase demand for gym and field space, and raise staffing costs.",
+          "link": "https://www.berkeleyside.org/2025/11/18/physical-education-requirement-at-berkeley-high-pushed-back",
+          "publishedOn": "2025-11-18T14:00:00.000Z",
+          "wordCount": 7629,
+          "title": "P.E class changes at Berkeley High won’t kick in until fall 2027",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-IMG_2457.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547589",
           "author": "By Berkeleyside staff",
@@ -4870,6 +4900,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/ipod-2002/",
+          "author": null,
+          "description": "Apple iPod generation 2 webpage, Aug-Sep 2002; via Wayback Machine.\nAfter the iPod’s launch in October 2001 — “1,000 songs in your pocket\" — Apple sold 125,000 units of the new device by the end of the year. In March 2002, Apple introduced a version with 10GB of storage (approximately 2,000 songs). But it wasn’t until August 2002, with the second generation iPod, that the real growth began. That was when Windows support was added, via software called MusicMatch Jukebox. iPod 2 also doubled the maximum storage capacity, from 10GB to 20GB — enough to hold 35-40 albums, which felt like a proper record collection.\n\niPod generation 2; photo by Paul Mayne, taken October 2002.\nPerhaps the most significant new feature of iPod 2, though, was its touch-sensitive scroll wheel. The first generation ha…",
+          "link": "https://cybercultural.com/p/ipod-2002/",
+          "publishedOn": "2025-11-18T00:00:00.000Z",
+          "wordCount": 1404,
+          "title": "2002: The Second iPod and Steve Jobs on Music Streaming",
+          "imageUrl": "https://cybercultural.com/assets/images/apple-ipod-webpage-sep2002.png"
+        },
+        {
           "id": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
           "author": null,
           "description": "Last.fm circa 2003; via Last.fm Flickr account.\nWhat we now know as the “social web” — or Web 2.0 — didn’t arrive until around 2004. But the first inklings of it were emerging a couple of years before. As usual, music was the harbinger.\nLast.fm was founded in 2002 by a group of four Austrian and German students from Ravensbourne College of Design and Communication in London. It was fashioned as an internet radio station that allowed a user to build a listening profile and share it with others. The year of its launch, Last.fm won a young talent award at the Europrix, a multimedia awards show based in Vienna. This was how the product was described in a showcase video (embedded below) leading up to the awards ceremony:\n“After repeated use, the system builds a listening profile that increasing…",
@@ -5364,21 +5404,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking/sebastian-hages-Jn67_91aoOg-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate",
-          "author": null,
-          "description": "A quick reference",
-          "link": "https://aethermug.com/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-08-21T01:12:36.000Z",
-          "wordCount": 2558,
-          "title": "Famous Cognitive Psychology Experiments that Failed to Replicate",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate/rebecca-freeman-rqFm0IgMVYY-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/famous-cognitive-psychology-experiments-that-failed-to-replicate/rebecca-freeman-rqFm0IgMVYY-unsplash.jpg"
         }
       ]
     },
@@ -6234,6 +6259,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/the-roots-of-ai-in-chinese-philosophy-and-what-it-could-mean-for-business/",
+          "author": "Anna Greenspan, Bogna Konior",
+          "description": "That certain concerns about technology are, for lack of a better word, universal, should be evident to any historian. Early Daoists cautioned against technologies that sully the spirit and ignite chaos. The Zhuangzi [one of the foundational texts of Daoism] warns against the use of “clever machines” and suggests that they are better left alone by those walking the righteous path. This is not unlike the apprehension that many European intellectuals harbored toward the technologies of their respective times, whether that be the early widespread resistance in Western Europe to Hindu-Arab numerals, the reluctance of the Catholic Church to embrace perspectival painting and scientific method in the early Renaissance, or the anxiety that swept over the European continent during the introduction o…",
+          "link": "https://bigthink.com/business/the-roots-of-ai-in-chinese-philosophy-and-what-it-could-mean-for-business/",
+          "publishedOn": "2025-11-18T16:00:00.000Z",
+          "wordCount": 2098,
+          "title": "The roots of AI in Chinese philosophy — and what it could mean for business",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/machine-decision-not-final_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/the-word-for-wind/",
+          "author": "Simon Winchester",
+          "description": "The oldest written language in the world is generally now agreed to be Sumerian, forged in the kingdom of Sumer in what is now southeastern Iraq, the origins of which date back to around 3100 BCE —­ 5,000 years ago, during the Bronze Age. The writing is in cuneiform script, patterns of largely wedge-­shaped lines that were impressed with a sharpened reed onto tablets of softened and leather-­hard clay, eventually baked to ensure their preservation.\nA word for wind exists in Sumerian —­ it is lil. The lexical story of this particular word is a little more complicated, however, since Sumerians, as far as we know, may well have been aware of wind and its effects, yet did not fully understand what caused the air —­ which was also invisible, of course —­ to move. There are Sumerian words for ot…",
+          "link": "https://bigthink.com/books/the-word-for-wind/",
+          "publishedOn": "2025-11-18T15:30:00.000Z",
+          "wordCount": 2607,
+          "title": "The word for”wind”: How ancient civilizations explained an invisible force",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Breath-of-gods_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/5-ways-to-rebuild-human-connection-at-speed-and-scale/",
+          "author": "Aaron Hurst",
+          "description": "Across every measure, from health to economic productivity to civic trust, America’s social fabric is fraying. Nearly half of U.S. adults report feeling lonely; only one in five employees say they have a close friend at work; and according to the Pew Research Center declining trust costs the economy an estimated 1–2% of GDP each year through friction and inefficiency. The U.S. Surgeon General has warned that loneliness now rivals smoking in its impact on health.\nAt the 2025 Volunteering Reconnected Summit in Silicon Valley — hosted by the U.S. Chamber of Connection and co-sponsored by Big Think — leaders from business, government, academia, and the social sector gathered to discuss community service, and its untapped potential to rebuild human connection at scale. A new consensus emerged.\n…",
+          "link": "https://bigthink.com/business/5-ways-to-rebuild-human-connection-at-speed-and-scale/",
+          "publishedOn": "2025-11-18T14:00:00.000Z",
+          "wordCount": 2385,
+          "title": "5 ways to rebuild human connection at speed and scale",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/AdobeStock_964722306-3200x1800-1.jpeg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jellyfish-bunny-ear-galaxies/",
           "author": "Ethan Siegel",
@@ -8611,6 +8666,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=7449",
+          "author": "Jessica Hylton",
+          "description": "Not one, not two, but THREE plant-based cheeses make this 3 Cheese Vegan Mac and Cheese extra delicious! It’s rich, creamy, and it all comes together in a single skillet. Don’t skip that crispy panko topping! Growing up, I was that rare kid who just wasn’t that into boxed macaroni and cheese. It was homemade […]",
+          "link": "https://jessicainthekitchen.com/one-skillet-three-cheese-baked-macaroni-cheese/",
+          "publishedOn": "2025-11-18T15:00:00.000Z",
+          "wordCount": 6888,
+          "title": "3 Cheese Vegan Mac and Cheese",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/12/Vegan-Mac-and-Cheese-One-Pot-5.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=71112",
           "author": "Jessica from Jessica in the Kitchen",
