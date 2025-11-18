@@ -949,6 +949,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3169/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3169/",
+          "publishedOn": "2025-11-17T05:00:00.000Z",
+          "wordCount": 204,
+          "title": "EPIRBs",
+          "imageUrl": "https://imgs.xkcd.com/comics/epirbs_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3168/",
           "author": null,
           "description": "",
@@ -1720,6 +1730,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=547574",
+          "author": "Alex N. Gecan",
+          "description": "John Edward Muller, 65, was pronounced dead at a local hospital shortly after the crash, which happened shortly before 3 p.m. near Telegraph Avenue and Haste Street.",
+          "link": "https://www.berkeleyside.org/2025/11/17/telegraph-haste-car-bike-fatal-crash-nov-15",
+          "publishedOn": "2025-11-17T23:29:43.000Z",
+          "wordCount": 6977,
+          "title": "Cyclist killed in Southside Berkeley car crash Saturday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/06/BI6A0672.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=547458",
           "author": "Nathan Dalton",
           "description": "The 18-year-old nonprofit in Aquatic Park has lost a pair of major funders and seen declines in bike sales. It’s launching a new gardening and cooking job training program as part of a “fiscal readjustment.”",
@@ -1738,6 +1758,16 @@
           "wordCount": 7752,
           "title": "Campaign underway to put parcel tax raising money for Berkeley arts groups on 2026 ballot",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/03/large-Natera_240315_Freight-Salvage_15.jpg?fit=1600%2C1066&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547522",
+          "author": "Nathan Dalton",
+          "description": "La organización sin fines de lucro con 18 años en Aquatic Park perdió a dos importantes financiadores y tuvo una disminución en las ventas de bicicletas. Lanzará un nuevo programa de capacitación laboral en jardinería y cocina como parte de un “reajuste fiscal.”",
+          "link": "https://www.berkeleyside.org/2025/11/17/taller-de-bicicletas-waterside-workshops-en-berkeley-reduce-personal-y-recorta-horas-por-falta-de-fondos",
+          "publishedOn": "2025-11-17T12:48:00.000Z",
+          "wordCount": 8204,
+          "title": "Taller de bicicletas Waterside Workshops en Berkeley reduce personal y recorta horas por falta de fondos",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Street-Level-Cycles-youth-staff-ringing-up-a-customer-at-Community-Open-Shop.jpg"
         },
         {
           "id": "https://www.berkeleyside.org/?p=547511",
@@ -6276,16 +6306,6 @@
           "wordCount": 1975,
           "title": "@nduduzo1 guides us through a meditation on stillness and an invocation of Blackness 💫⁠",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k7QQ_kiScVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k7QQ_kiScVs",
-          "publishedOn": "2025-08-20T09:01:16.000Z",
-          "wordCount": null,
-          "title": "Guster: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6294,6 +6314,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/the-philosophy-of-progress/",
+          "author": "Jason Crawford",
+          "description": "Humanity’s progress is neither automatic nor inevitable – from the printing press to the Industrial Revolution, and today’s digital age, every leap in technology has reshaped what’s possible for our civilization. \nJason Crawford traces the history and philosophy behind these breakthroughs, revealing the forces that drive innovation and the risks that come with unchecked advancement.\nThis video How innovation reshaped human life in just a few generations is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/the-philosophy-of-progress/",
+          "publishedOn": "2025-11-17T20:59:20.000Z",
+          "wordCount": 8746,
+          "title": "How innovation reshaped human life in just a few generations",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Crawford.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/thinking/from-woke-to-traumatic-how-useful-terms-become-empty-buzzwords/",
+          "author": "Laura Kennedy",
+          "description": "Narcissistic traits are pretty common — most of us enjoy a little admiration or praise, feel stung by criticism sometimes, and spend our adolescence nursing a secret belief that maybe we might be special, actually. In moderation, these personality traits bolster the self-regard we need to function in the world. They don’t necessarily make you a “narcissist” — someone with narcissistic personality disorder (NPD), a rare condition marked by grandiosity, preoccupation with power and status, lack of empathy, arrogance, and a pattern of exploitation. Feeling mistreated after your annual performance review or forgetting to message your friend back are not grounds for a clinical diagnosis. They’re just ordinary human experiences.\n“Narcissist” once clearly referred explicitly to this clinical cate…",
+          "link": "https://bigthink.com/thinking/from-woke-to-traumatic-how-useful-terms-become-empty-buzzwords/",
+          "publishedOn": "2025-11-17T20:18:26.000Z",
+          "wordCount": 2216,
+          "title": "From “woke” to “traumatic”: How useful terms become empty buzzwords",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/how-words-lose-meaning_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-to-lead-from-the-liminal-space-where-wisdom-takes-root/",
           "author": "Patrick Boland",
