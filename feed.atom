@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-19T06:07:00.323Z</updated>
+    <updated>2025-11-19T12:08:16.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goo Goo Dolls: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=X0X12AD7nK4</id>
+        <link href="https://www.youtube.com/watch?v=X0X12AD7nK4"/>
+        <updated>2025-11-19T10:00:55.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are redshift, temperature, distance and time related?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/"/>
+        <updated>2025-11-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we measure an object that’s nearby — on Earth, in our Solar System, or elsewhere within the Milky Way — the information we get from the light that arrives is relatively straightforward. An object like the Sun, 150 million kilometers away, will have its light arrive after a journey of 500 seconds: the amount of time it takes light to travel across that distance of space. A star that’s 10 light-years away will have its emitted light arrive after a journey of 10 years; a star on the opposite edge of the galaxy a full 80,000 light-years away will require 80,000 years for its emitted light to arrive. For all of these objects,
+they’re at a redshift of 0,
+the temperature of the Big Bang is a cool 2.725 K,
+and their distance (in light-years) and how long ago we’re seeing them (in years) are t…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When @rosalia was a kid, her grandmother filled the house with the sounds of Luciano Pavarotti.]]></title>
         <id>https://www.youtube.com/shorts/noDjIsbDC4E</id>
@@ -9368,36 +9390,6 @@ The post Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math first ap
         <summary type="html"><![CDATA[Also: The owner of a troubled Shattuck Avenue apartment complex files for bankruptcy]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grizzly Peak Blvd. school bus stops removed over safety concerns]]></title>
-        <id>https://www.berkeleyside.org/?p=542345</id>
-        <link href="https://www.berkeleyside.org/2025/08/21/grizzly-peak-berkeley-hills-busd-bus-stops"/>
-        <updated>2025-08-21T23:50:20.000Z</updated>
-        <summary type="html"><![CDATA[At least 13 families were impacted by route changes in the Berkeley Hills. Many parents felt the new stops were too far from students’ homes.]]></summary>
-        <author>
-            <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INNA Jam in its final days; Mia Mezcaleria and Sugata shutter]]></title>
-        <id>https://www.berkeleyside.org/?p=542293</id>
-        <link href="https://www.berkeleyside.org/2025/08/21/inna-jam-sugata-mia-restaurants-closing"/>
-        <updated>2025-08-21T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond and beyond.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pausing Insect Activity]]></title>
-        <id>https://www.asimov.press/p/insect-diapause</id>
-        <link href="https://www.asimov.press/p/insect-diapause"/>
-        <updated>2025-08-21T18:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Seasonal dormancy features in the life cycle of many insects. We can harness it for biological control, insect farming, and disease vector management at scale.]]></summary>
-        <author>
-            <name>Ulkar Aghayeva</name>
         </author>
     </entry>
     <entry>

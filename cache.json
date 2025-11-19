@@ -847,22 +847,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce3c8597-dd7a-433f-92a2-80023d3da72d_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/insect-diapause",
-          "author": "Ulkar Aghayeva",
-          "description": "Seasonal dormancy features in the life cycle of many insects. We can harness it for biological control, insect farming, and disease vector management at scale.",
-          "link": "https://www.asimov.press/p/insect-diapause",
-          "publishedOn": "2025-08-21T18:18:27.000Z",
-          "wordCount": null,
-          "title": "Pausing Insect Activity",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!1JAV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e8b90d-fb4a-4509-8037-99da1432e688_2000x1260.heic",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!1JAV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e8b90d-fb4a-4509-8037-99da1432e688_2000x1260.heic"
         }
       ]
     },
@@ -4828,26 +4812,6 @@
           "wordCount": 6805,
           "title": "Wire: Move-in week at UC Berkeley; Israeli dance scholar alleges discrimination",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/08/large-Cal-Move-In-Day-07.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542345",
-          "author": "Vanessa Arredondo",
-          "description": "At least 13 families were impacted by route changes in the Berkeley Hills. Many parents felt the new stops were too far from students’ homes.",
-          "link": "https://www.berkeleyside.org/2025/08/21/grizzly-peak-berkeley-hills-busd-bus-stops",
-          "publishedOn": "2025-08-21T23:50:20.000Z",
-          "wordCount": 8282,
-          "title": "Grizzly Peak Blvd. school bus stops removed over safety concerns",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/10/IMG_6377.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542293",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond and beyond.",
-          "link": "https://www.berkeleyside.org/2025/08/21/inna-jam-sugata-mia-restaurants-closing",
-          "publishedOn": "2025-08-21T19:00:00.000Z",
-          "wordCount": 6886,
-          "title": "INNA Jam in its final days; Mia Mezcaleria and Sugata shutter",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/innajam.jpg"
         }
       ]
     },
@@ -5412,6 +5376,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X0X12AD7nK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X0X12AD7nK4",
+          "publishedOn": "2025-11-19T10:00:55.000Z",
+          "wordCount": null,
+          "title": "Goo Goo Dolls: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/noDjIsbDC4E",
           "author": null,
@@ -6279,6 +6253,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/",
+          "author": "Ethan Siegel",
+          "description": "When we measure an object that’s nearby — on Earth, in our Solar System, or elsewhere within the Milky Way — the information we get from the light that arrives is relatively straightforward. An object like the Sun, 150 million kilometers away, will have its light arrive after a journey of 500 seconds: the amount of time it takes light to travel across that distance of space. A star that’s 10 light-years away will have its emitted light arrive after a journey of 10 years; a star on the opposite edge of the galaxy a full 80,000 light-years away will require 80,000 years for its emitted light to arrive. For all of these objects,\nthey’re at a redshift of 0,\nthe temperature of the Big Bang is a cool 2.725 K,\nand their distance (in light-years) and how long ago we’re seeing them (in years) are t…",
+          "link": "https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/",
+          "publishedOn": "2025-11-19T07:00:00.000Z",
+          "wordCount": 4325,
+          "title": "How are redshift, temperature, distance and time related?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/07/optimized.gif?w=800&h=450&crop=1"
+        },
         {
           "id": "https://bigthink.com/business/the-roots-of-ai-in-chinese-philosophy-and-what-it-could-mean-for-business/",
           "author": "Anna Greenspan, Bogna Konior",
