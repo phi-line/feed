@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-20T06:06:58.371Z</updated>
+    <updated>2025-11-20T12:09:13.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ring galaxies, the rarest galaxy type of all, are finally understood]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/ring-galaxies/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/ring-galaxies/"/>
+        <updated>2025-11-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we look out into deep space, beyond the confines of the Milky Way, we find that the Universe isn’t quite so empty. An enormous variety of galaxies fill the abyss of space: small and large, near and far, in rich clusters and in near-total isolation. The Milky Way itself represents just one of at least two trillion such galaxies (and probably several times as many) within the observable Universe. Galaxies are collections of both dark matter and normal matter, where the latter includes plasmas, gas, dust, planets, black holes, and — most prominently — stars. After all, it’s through the examination of that starlight that we’ve learned the most about the physical properties of galaxies, and been able to reconstruct how they came to be.
+In general, there are four classes of galaxies that we…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roam]]></title>
         <id>https://aethermug.com/posts/roam</id>
@@ -9492,46 +9503,6 @@ My mother’s greatest fears are an empty fridge and underfed family and friends
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Patty Overland, activist for lesbian and disabled communities, scriptwriter, poet, actor]]></title>
-        <id>https://www.berkeleyside.org/?p=541923</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/patty-overland-obituary"/>
-        <updated>2025-08-22T23:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Dedicated to helping others for over five decades, she was a passionate disability activist, fighting for greater accessibility and other rights.]]></summary>
-        <author>
-            <name>Fran Roccaforte and family of Patty Overland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley Unified reports COVID-19 cases at some schools in first weeks of the year]]></title>
-        <id>https://www.berkeleyside.org/?p=542396</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/berkeley-unified-covid-cases-california-rising"/>
-        <updated>2025-08-22T21:47:48.000Z</updated>
-        <summary type="html"><![CDATA[The district ended contact tracing and other pandemic protocols earlier this year, but has an updated safety plan with guidance for students and staff.]]></summary>
-        <author>
-            <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dish of the week: Rice cake soup from Seoul Gomtang]]></title>
-        <id>https://www.berkeleyside.org/?p=542388</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/seol-gomtang-rice-cake-soup-tteokguk"/>
-        <updated>2025-08-22T19:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Tteokguk is traditionally eaten on New Year’s Day in Korea, but you can get the rich, restorative soup year-round in Oakland.]]></summary>
-        <author>
-            <name>Natalie Orenstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A grisly murder 100 years ago was the East Bay’s crime of the century]]></title>
-        <id>https://oaklandside.org/?p=459980</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/tule-marsh-murder-bessie-ferguson"/>
-        <updated>2025-08-22T18:08:48.000Z</updated>
-        <summary type="html"><![CDATA[The “Tule Marsh Murder,” stumped law enforcement and fueled the rise of the KKK in Oakland.]]></summary>
-        <author>
-            <name>Darwin BondGraham</name>
         </author>
     </entry>
     <entry>
