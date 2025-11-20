@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-20T00:19:38.622Z</updated>
+    <updated>2025-11-20T06:06:58.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roam]]></title>
+        <id>https://aethermug.com/posts/roam</id>
+        <link href="https://aethermug.com/posts/roam?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-11-20T01:57:45.000Z</updated>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The strongest arguments for and against the existence of God]]></title>
         <id>https://bigthink.com/series/full-interview/first-cause-argument/</id>
@@ -240,6 +249,15 @@ the temperature of the Big Bang is a cool 2.725 K,
 and their distance (in light-years) and how long ago we’re seeing them (in years) are t…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Service Outage]]></title>
+        <id>https://xkcd.com/3170/</id>
+        <link href="https://xkcd.com/3170/"/>
+        <updated>2025-11-19T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -9514,59 +9532,6 @@ My mother’s greatest fears are an empty fridge and underfed family and friends
         <summary type="html"><![CDATA[The “Tule Marsh Murder,” stumped law enforcement and fueled the rise of the KKK in Oakland.]]></summary>
         <author>
             <name>Darwin BondGraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sexual assault survivors in Berkeley: A guide to resources after BRAVE Bay Area]]></title>
-        <id>https://oaklandside.org/?p=459988</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/sexual-assault-reporting-berkeley-resources-support"/>
-        <updated>2025-08-22T17:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Legal aid, 24-hour hotlines, bedside support, and other services are still available to survivors of rape in Berkeley and Alameda County.]]></summary>
-        <author>
-            <name>Roselyn Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protected: American Hindenburg]]></title>
-        <id>https://magazine.atavist.com/?p=49194</id>
-        <link href="https://magazine.atavist.com/2025/american-hindenberg-zeppelin-disaster"/>
-        <updated>2025-08-22T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
-The post Protected: American Hindenburg appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>Ed Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protected: American Zeppelin]]></title>
-        <id>https://magazine.atavist.com/?p=49194</id>
-        <link href="https://magazine.atavist.com/2025/american-zeppelin-akron-airship-disaster-navy"/>
-        <updated>2025-08-22T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
-The post Protected: American Zeppelin appeared first on The Atavist Magazine.]]></summary>
-        <author>
-            <name>Ed Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What keeps you up at night? A Berkeleyside interview with Mayor Adena Ishii]]></title>
-        <id>https://www.berkeleyside.org/?p=542349</id>
-        <link href="https://www.berkeleyside.org/2025/08/22/berkeley-mayor-adena-ishii-berkeleyside-interview"/>
-        <updated>2025-08-22T16:11:02.000Z</updated>
-        <summary type="html"><![CDATA[The mayor answered questions about homelessness, downtown development and how the city can address threats from Trump.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math]]></title>
-        <id>https://www.quantamagazine.org/?p=153477</id>
-        <link href="https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"/>
-        <updated>2025-08-22T13:57:50.000Z</updated>
-        <summary type="html"><![CDATA[The quest to find the longest-running simple computer program has identified a new champion. It’s physically impossible to write out the numbers involved using standard mathematical notation.             
-The post Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
     <entry>
