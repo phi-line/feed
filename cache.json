@@ -1684,6 +1684,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=547660",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/11/19/hyphy-burger-dough-zone-good-times-ginger-indian-opening",
+          "publishedOn": "2025-11-19T20:00:00.000Z",
+          "wordCount": 7059,
+          "title": "Dough Zone lands in Berkeley, Hyphy Burger expands, and Good Times Oakland fully opens",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Doughzone-Berkeley-SoupDumpling.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547734",
+          "author": "Alex N. Gecan",
+          "description": "Details like the 19-year-old’s name and when he died were not immediately available Wednesday. Police “do not suspect foul play.” Hundreds of people were attending the Alpha Delta Phi fraternity’s party.",
+          "link": "https://www.berkeleyside.org/2025/11/19/cal-alpha-delta-phi-death-aquadelt",
+          "publishedOn": "2025-11-19T19:44:03.000Z",
+          "wordCount": 7266,
+          "title": "UC Berkeley student dies after possible drowning at fraternity party",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/05/Campanile-by-TJ-Gehling.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547715",
+          "author": "Emma Gallegos | EdSource",
+          "description": "The UC student association strongly opposes it, saying it will subject future generations of students to higher tuition at a time when students are already struggling with cost-of-living expenses.",
+          "link": "https://www.berkeleyside.org/2025/11/19/university-of-california-tuition-hike",
+          "publishedOn": "2025-11-19T18:10:34.000Z",
+          "wordCount": 7285,
+          "title": "University of California regents to consider new tuition hike plan",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-IMG_9767.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=547684",
           "author": "Karina Ioffee",
           "description": "Visits have risen since the pandemic, but without a long-term lease from the East Bay park district, the Redwood Valley Railway says it’s considering packing up its trains and track and moving elsewhere.",
@@ -6245,26 +6275,6 @@
           "wordCount": null,
           "title": "John Oates: Field Recordings x Aspen Ideas Festival",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nZzJwMXMvwE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nZzJwMXMvwE",
-          "publishedOn": "2025-08-22T10:01:22.000Z",
-          "wordCount": null,
-          "title": "Ty Segall: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oegjy-XFsnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oegjy-XFsnQ",
-          "publishedOn": "2025-08-22T09:00:40.000Z",
-          "wordCount": null,
-          "title": "Questlove is charting the history of America through its music | Amplify with Lara Downes",
-          "imageUrl": null
         }
       ]
     },
@@ -6273,6 +6283,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/first-cause-argument/",
+          "author": "Alex O’Connor",
+          "description": "Instead of treating belief as a private preference, philosopher Alex O’Connor examines how our moral positions shape institutions, obligations, and the ways we justify our choices. \nHis arguments invite a closer look at why we hold certain principles, and whether those principles survive contact with their real-world consequences.\nThis video The strongest arguments for and against the existence of God is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/first-cause-argument/",
+          "publishedOn": "2025-11-19T21:43:28.000Z",
+          "wordCount": 1123,
+          "title": "The strongest arguments for and against the existence of God",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Screenshot-2025-11-19-at-11.26.31-AM.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/mini-philosophy/can-neuroscientists-read-your-mind/",
+          "author": "Jonny Thomson",
+          "description": "In philosophy, physicalism is the idea that everything can be explained in physical terms. Whether through atoms, electrons, quarks, fields, or other physical processes, physicalism holds that every phenomenon ultimately depends on the physical world.\nIn the philosophy of mind, this means that everything about the mind can, in principle, be explained by the physical processes of the brain. We don’t yet know all the details, but physicalism maintains that a complete explanation is possible.\n\nIn September 2025, I interviewed neuroscientist and bestselling author of Being You, Anil Seth, about the mystery of consciousness. Seth is a physicalist, and so I asked him this question: “With the current state of consciousness science at the moment, if we were to give everybody in this room here some…",
+          "link": "https://bigthink.com/mini-philosophy/can-neuroscientists-read-your-mind/",
+          "publishedOn": "2025-11-19T19:55:57.000Z",
+          "wordCount": 2211,
+          "title": "Can neuroscientists read your mind?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/brain-reading.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-future/flying-boats/",
           "author": "Sampriti Bhattacharyya",
