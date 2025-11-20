@@ -577,6 +577,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/read-biology",
+          "author": "Niko McCarty",
+          "description": "A curated list of 100+ essays about biology and science.",
+          "link": "https://www.asimov.press/p/read-biology",
+          "publishedOn": "2025-11-20T16:48:48.000Z",
+          "wordCount": null,
+          "title": "Read Something Wonderful (about Biology)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a9943d23-188e-47f9-9acf-57cd4ce5fa28_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a9943d23-188e-47f9-9acf-57cd4ce5fa28_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/see-the-dead",
           "author": "Spencer Nitkey - Writer",
           "description": "A retinal implant designer must decide if translating mourning into light is progress or a refusal to let go.",
@@ -1307,6 +1323,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-case-for-ai-datarails",
+          "author": "Martin Skladany",
+          "description": "The post The Case For AI ‘Datarails’ appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-case-for-ai-datarails",
+          "publishedOn": "2025-11-20T17:33:25.000Z",
+          "wordCount": 6678,
+          "title": "The Case For AI ‘Datarails’",
+          "imageUrl": "https://noemamag.imgix.net/2025/11/AI-guardrails-alt.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=102b7c6b06f96088f14455e37178bdb8"
+        },
+        {
           "id": "https://www.noemamag.com/journalism-in-an-age-of-authoritarianism",
           "author": "Peter Pomerantsev",
           "description": "The post Journalism In An Age Of Authoritarianism appeared first on NOEMA.",
@@ -1663,6 +1689,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547723",
+          "author": "Local sponsor",
+          "description": "The Tony-winning actor talks about his one-man performance of the Dickens classic.",
+          "link": "https://www.berkeleyside.org/2025/11/20/a-christmas-carol-with-jefferson-mays-comes-to-berkeley-rep",
+          "publishedOn": "2025-11-20T16:30:00.000Z",
+          "wordCount": 7705,
+          "title": "‘A Christmas Carol’ with Jefferson Mays comes to Berkeley Rep",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Horiz-Jeff-Mays.jpg?fit=1361%2C901&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547676",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include a burlesque Nutcracker show, a Thanksgiving country dance and an exhibition about the evolution of books.",
+          "link": "https://www.berkeleyside.org/2025/11/20/around-berkeley-rethinking-thanksgiving-nature-journaling-dungeons-dragons-play",
+          "publishedOn": "2025-11-20T14:00:00.000Z",
+          "wordCount": 8231,
+          "title": "Around Berkeley: Rethinking Thanksgiving, nature journaling, Dungeons & Dragons play",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/11/ThangsTaken-LaPena-ClaraPerez-1.jpg?fit=2000%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=547660",
           "author": "Cecilia Seiter",
@@ -5146,16 +5192,6 @@
           "wordCount": 4626,
           "title": "Meera Sodha’s vegan recipe for barbecue tempeh rice bowl with lime and sriracha sauce | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/ea9b193ae3a11ac1b2d26ae5bed6a8d435c63913/469_1683_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13508da451ec1aa3c0aef8fc9776778"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/aug/23/meera-sodhas-recipe-for-courgette-and-mint-pilau-with-salted-pistachio-yoghurt",
-          "author": "Meera Sodha",
-          "description": "Spiced fried seasonal vegetables folded through basmati rice and served with a nutty, raita-style dressing\nMy mother’s greatest fears are an empty fridge and underfed family and friends. That’s why there’s always a glut of fresh produce in the kitchen, both hers and mine – like mother, like daughter. At this time of year, that means courgettes, and the usual way I dispatch them is in a shaak (dry curry) or a pilau. Today’s dish is a combination of the two: spiced fried courgettes, just shy of melted, tossed through rice with fresh herbs and served with a fancy salted pistachio yoghurt masquerading as a raita.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/aug/23/meera-sodhas-recipe-for-courgette-and-mint-pilau-with-salted-pistachio-yoghurt",
-          "publishedOn": "2025-08-23T05:00:53.000Z",
-          "wordCount": 4647,
-          "title": "Meera Sodha’s recipe for courgette and mint pilau with salted pistachio yoghurt | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/1b8cbde52071ecd893a5e4429bdd7ca98d1bcbf7/0_604_3672_2937/master/3672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af8ea3db37f0ff7b848f746238ab802d"
         }
       ]
     },
@@ -5351,6 +5387,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/_dJjbfRJMNI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_dJjbfRJMNI",
+          "publishedOn": "2025-11-20T17:01:07.000Z",
+          "wordCount": 2064,
+          "title": "The hardcore band @turnstile left behind something soft at the Tiny Desk.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/EVR7DHfcb8Y",
           "author": null,
@@ -6218,6 +6264,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/einsteins-cosmic-cryptids/",
+          "author": "James Riordon",
+          "description": "They say the Goatman prowls the woods at night near my home in Maryland. He was once a biologist named Stephen Fletcher at the Beltsville Agricultural Research Center. That was before the accident with goat DNA transformed him into a half-­human, half-­goat monster who devours victims that he slays with an axe.  It’s been decades since I first heard of the Goatman. \nHonestly, I’m fairly certain that the carnivorous goat–­human hybrid isn’t real. It’s hard to prove something doesn’t exist, though. There are things you don’t believe in because they’re at odds with what you’re confident is true. Perpetual motion machines and alchemists’ stones that turn lead into gold don’t exist. If they did, lots of established science would need to be wrong.\nThen, there are other things you might not belie…",
+          "link": "https://bigthink.com/books/einsteins-cosmic-cryptids/",
+          "publishedOn": "2025-11-20T15:30:00.000Z",
+          "wordCount": 3352,
+          "title": "Einstein’s cryptids: The disputed, but possible, phenomena of the cosmos",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Crush_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/the-brilliance-of-boredom/",
+          "author": "Eric Markowitz",
+          "description": "A couple weeks ago I wandered into a digression about toxic workplaces. Consider this week’s Nightcrawler another small detour into the forgotten value of boredom.\nLast Saturday, our four-year-old didn’t sleep well. So on Sunday morning, I did what many semi-desperate parents have done for generations: I loaded her into her carseat, and set out for a long, pointless drive to get her to fall asleep.\nThankfully, the ruse worked. As we wound our way toward the Oregon coast, she nodded off after a promised donut. I reached for my headphones, ready to salvage my odyssey with a podcast or something vaguely productive. And then: disaster. I realized I’d forgotten them.\nAt first, I was bored. My brain, conditioned by a decade of smartphone use, kept reaching for the familiar dopamine drip of const…",
+          "link": "https://bigthink.com/business/the-brilliance-of-boredom/",
+          "publishedOn": "2025-11-20T14:00:00.000Z",
+          "wordCount": 2910,
+          "title": "The brilliance of boredom",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Ennui_MET_DP818345-3200x1800-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/ring-galaxies/",
           "author": "Ethan Siegel",
