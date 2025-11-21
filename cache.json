@@ -5438,6 +5438,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gHL5ApOqMQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gHL5ApOqMQc",
+          "publishedOn": "2025-11-21T10:01:13.000Z",
+          "wordCount": null,
+          "title": "Robert Plant: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/_dJjbfRJMNI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6314,6 +6324,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/dark-side-moon/",
+          "author": "Ethan Siegel",
+          "description": "For nearly all of human history, there was a mystery that showed up, recurrently, on a nearly nightly basis. The Moon, visible during at least some portion of the night except during the once-per-month “new moon” phase, always shows its same face to us: the face of its near side. The opposite side of the Moon — the far side — surely must have existed, but because we’re stuck here on Earth and the same side of the Moon always faces the Earth, we’ve never been able to view it. Many, in poetic fashion, have called it the dark side of the Moon: a phrase that still occasionally shows up in popular culture, including in songs from Pink Floyd and Disney’s Mulan, for example.\nBut is there really a “dark side” of the Moon, or is that just a flowery expression that doesn’t actually apply in reality?…",
+          "link": "https://bigthink.com/starts-with-a-bang/dark-side-moon/",
+          "publishedOn": "2025-11-21T07:00:00.000Z",
+          "wordCount": 4571,
+          "title": "Ask Ethan: Is there really a “dark side” of the Moon?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2024/06/XinhuaShutter2-e1763682112345.jpg?w=840&h=472&crop=1"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/human-intuition-ai/",
           "author": "Dan Shipper",

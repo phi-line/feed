@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-21T06:07:02.547Z</updated>
+    <updated>2025-11-21T12:07:56.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robert Plant: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=gHL5ApOqMQc</id>
+        <link href="https://www.youtube.com/watch?v=gHL5ApOqMQc"/>
+        <updated>2025-11-21T10:01:13.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Is there really a “dark side” of the Moon?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/dark-side-moon/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/dark-side-moon/"/>
+        <updated>2025-11-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For nearly all of human history, there was a mystery that showed up, recurrently, on a nearly nightly basis. The Moon, visible during at least some portion of the night except during the once-per-month “new moon” phase, always shows its same face to us: the face of its near side. The opposite side of the Moon — the far side — surely must have existed, but because we’re stuck here on Earth and the same side of the Moon always faces the Earth, we’ve never been able to view it. Many, in poetic fashion, have called it the dark side of the Moon: a phrase that still occasionally shows up in popular culture, including in songs from Pink Floyd and Disney’s Mulan, for example.
+But is there really a “dark side” of the Moon, or is that just a flowery expression that doesn’t actually apply in reality?…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Orinda amphitheater long home to Cal Shakes gets new name and new mission]]></title>
         <id>https://www.berkeleyside.org/?p=547830</id>
