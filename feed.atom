@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-21T00:19:36.304Z</updated>
+    <updated>2025-11-21T06:07:02.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Orinda amphitheater long home to Cal Shakes gets new name and new mission]]></title>
+        <id>https://www.berkeleyside.org/?p=547830</id>
+        <link href="https://www.berkeleyside.org/2025/11/20/the-wire-orinda-amphitheater-long-home-to-cal-shakes-gets-new-name-and-new-mission"/>
+        <updated>2025-11-21T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Berkeley will stop giving a property tax break to residents for work they do restoring their historic homes.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley tries to dispel doubts it can keep feds out of its surveillance network]]></title>
+        <id>https://www.berkeleyside.org/?p=547838</id>
+        <link href="https://www.berkeleyside.org/2025/11/20/berkeley-flock-surveillance-cameras-ice-cbp-secure-justice"/>
+        <updated>2025-11-21T00:31:34.000Z</updated>
+        <summary type="html"><![CDATA[The city is tightening its contracting rules amid threats of a lawsuit if it doesn’t cut ties with the controversial vendor Flock Safety.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How large language models view our world]]></title>
         <id>https://bigthink.com/series/full-interview/human-intuition-ai/</id>
