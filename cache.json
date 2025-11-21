@@ -1690,6 +1690,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=547786",
+          "author": "Nathan Dalton",
+          "description": "The Mediterranean cafe from Jennie and Benji Smith named after a Borges short story offers a menu centered on seasonal, California produce and proteins.",
+          "link": "https://www.berkeleyside.org/2025/11/20/uqbar-mediterranean-cafe-west-berkeley",
+          "publishedOn": "2025-11-20T20:00:00.000Z",
+          "wordCount": 8060,
+          "title": "First look at Uqbar, West Berkeley’s new literary-inspired restaurant",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Uqbar-Berkeley-RichardGrant-007.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547742",
+          "author": "Family of Guy Saperstein",
+          "description": "His firm Farnsworth, Saperstein and Dennison became the largest private plaintiff civil rights law firm in American history.",
+          "link": "https://www.berkeleyside.org/2025/11/20/guy-saperstein-obituary",
+          "publishedOn": "2025-11-20T18:58:18.000Z",
+          "wordCount": 7371,
+          "title": "Remembering Guy Saperstein, co- founder of major law firm, co-owner of the Oakland Athletics",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Guy-Saperstein.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547769",
+          "author": "Alex N. Gecan",
+          "description": "Hasta este miércoles no se conocen mayores informes sobre el nombre del joven de 19 años ni cuándo exactamente falleció. La policía “no sospecha que se trate de un crimen”. Cientos de personas asistieron a la fiesta de la fraternidad Alpha Delta Phi.",
+          "link": "https://www.berkeleyside.org/2025/11/20/estudiante-de-uc-berkeley-muere-ahogado-en-fiesta-de-fraternidad",
+          "publishedOn": "2025-11-20T18:45:27.000Z",
+          "wordCount": 7338,
+          "title": "Estudiante de UC Berkeley muere ahogado en fiesta de fraternidad",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/05/Campanile-by-TJ-Gehling.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=547723",
           "author": "Local sponsor",
           "description": "The Tony-winning actor talks about his one-man performance of the Dickens classic.",
@@ -6264,6 +6294,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/human-intuition-ai/",
+          "author": "Dan Shipper",
+          "description": "What if we could use automation not just as a tool, but as a mirror for our own human behaviors? \nFrom the limits of rationalism to the rise of neural networks, Dan Shipper, CEO and co-founder of Every, traces a history of knowledge that spans Socrates, the Enlightenment, and modern machine learning. \nShipper explains why “if/then” rules break in messy reality, and how large language models actually see the world through context and pattern. He explores how AI can work with our own creativity and why these tools are unlikely to steal our humanity.\nThis video How large language models view our world is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/human-intuition-ai/",
+          "publishedOn": "2025-11-20T21:55:55.000Z",
+          "wordCount": 10570,
+          "title": "How large language models view our world",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Shipper.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/einsteins-cosmic-cryptids/",
           "author": "James Riordon",

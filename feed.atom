@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-20T18:07:00.442Z</updated>
+    <updated>2025-11-21T00:19:36.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How large language models view our world]]></title>
+        <id>https://bigthink.com/series/full-interview/human-intuition-ai/</id>
+        <link href="https://bigthink.com/series/full-interview/human-intuition-ai/"/>
+        <updated>2025-11-20T21:55:55.000Z</updated>
+        <summary type="html"><![CDATA[What if we could use automation not just as a tool, but as a mirror for our own human behaviors? 
+From the limits of rationalism to the rise of neural networks, Dan Shipper, CEO and co-founder of Every, traces a history of knowledge that spans Socrates, the Enlightenment, and modern machine learning. 
+Shipper explains why “if/then” rules break in messy reality, and how large language models actually see the world through context and pattern. He explores how AI can work with our own creativity and why these tools are unlikely to steal our humanity.
+This video How large language models view our world is featured on Big Think.]]></summary>
+        <author>
+            <name>Dan Shipper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First look at Uqbar, West Berkeley’s new literary-inspired restaurant]]></title>
+        <id>https://www.berkeleyside.org/?p=547786</id>
+        <link href="https://www.berkeleyside.org/2025/11/20/uqbar-mediterranean-cafe-west-berkeley"/>
+        <updated>2025-11-20T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mediterranean cafe from Jennie and Benji Smith named after a Borges short story offers a menu centered on seasonal, California produce and proteins.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Guy Saperstein, co- founder of major law firm, co-owner of the Oakland Athletics]]></title>
+        <id>https://www.berkeleyside.org/?p=547742</id>
+        <link href="https://www.berkeleyside.org/2025/11/20/guy-saperstein-obituary"/>
+        <updated>2025-11-20T18:58:18.000Z</updated>
+        <summary type="html"><![CDATA[His firm Farnsworth, Saperstein and Dennison became the largest private plaintiff civil rights law firm in American history.]]></summary>
+        <author>
+            <name>Family of Guy Saperstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estudiante de UC Berkeley muere ahogado en fiesta de fraternidad]]></title>
+        <id>https://www.berkeleyside.org/?p=547769</id>
+        <link href="https://www.berkeleyside.org/2025/11/20/estudiante-de-uc-berkeley-muere-ahogado-en-fiesta-de-fraternidad"/>
+        <updated>2025-11-20T18:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Hasta este miércoles no se conocen mayores informes sobre el nombre del joven de 19 años ni cuándo exactamente falleció. La policía “no sospecha que se trate de un crimen”. Cientos de personas asistieron a la fiesta de la fraternidad Alpha Delta Phi.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Case For AI ‘Datarails’]]></title>
         <id>https://www.noemamag.com/the-case-for-ai-datarails</id>
