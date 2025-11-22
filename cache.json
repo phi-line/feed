@@ -919,6 +919,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3171/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3171/",
+          "publishedOn": "2025-11-21T05:00:00.000Z",
+          "wordCount": 208,
+          "title": "Geologic Core Sample",
+          "imageUrl": "https://imgs.xkcd.com/comics/geologic_core_sample_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3170/",
           "author": null,
           "description": "",
@@ -1709,6 +1719,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547939",
+          "author": "Nico Savidge",
+          "description": "City officials previously said it would not be safe to allow events that block off the north end of Telegraph Avenue. It isn’t clear why their stance changed.",
+          "link": "https://www.berkeleyside.org/2025/11/21/berkeley-telegraph-holiday-fair-location-2025",
+          "publishedOn": "2025-11-21T22:41:38.000Z",
+          "wordCount": 7717,
+          "title": "Telegraph Holiday Fair will stay in longtime home as city reverses course",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/12/Telegraphfairoverview.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547933",
+          "author": "Julie Watson",
+          "description": "The University of California defended its decades-old in-state tuition policy as \"consistent with current legal standards.\"",
+          "link": "https://www.berkeleyside.org/2025/11/21/trump-administration-sues-uc-and-state-over-giving-in-state-tuition-to-immigrants-in-u-s-illegally",
+          "publishedOn": "2025-11-21T21:44:21.000Z",
+          "wordCount": 7344,
+          "title": "Trump administration sues UC and state over giving in-state tuition to immigrants in U.S. illegally",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/AP22089797873830.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547924",
+          "author": "Vanessa Arredondo",
+          "description": "In a districtwide survey, most students and teachers agreed that mobile devices are a big distraction.",
+          "link": "https://www.berkeleyside.org/2025/11/21/berkeley-cell-phone-policy-middle-school-bhs",
+          "publishedOn": "2025-11-21T21:14:05.000Z",
+          "wordCount": 8106,
+          "title": "Berkeley Unified cell phone policy taking shape: ‘Bell-to-bell’ ban for middle schools, new rules for smart watches and headphones",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/20230830-001846.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547922",
+          "author": "Cecilia Seiter",
+          "description": "In yet another blow to East Bay beer-focused businesses, the bar is closing in part due to slowing business and high rent.",
+          "link": "https://www.berkeleyside.org/2025/11/21/roses-taproom-temescal-closing",
+          "publishedOn": "2025-11-21T20:25:38.000Z",
+          "wordCount": 6811,
+          "title": "After 10 years in Temescal, Roses’ Taproom announces closure",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/RosesTaproom.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=464983",
           "author": "Jose Fermoso",
