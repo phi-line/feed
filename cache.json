@@ -431,16 +431,6 @@
           "wordCount": 3355,
           "title": "Astrophysicists Find No ‘Hair’ on Black Holes",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Black-Hole-Haircut-cr-Celsius-Pictor-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=153531",
-          "author": "Lyndie Chiou and Joseph Howlett",
-          "description": "The proof, known to be so hard that a mathematician once offered 10 martinis to whoever could figure it out, connects quantum mechanics to infinitely intricate mathematical structures.            \nThe post ‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/",
-          "publishedOn": "2025-08-25T14:15:16.000Z",
-          "wordCount": 3859,
-          "title": "‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/08/TenMartinis-crWei-AnJin-Social.jpg"
         }
       ]
     },
@@ -847,22 +837,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!mZfG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce12342e-3f4d-40b1-9d00-7d6ba64477e4_2000x1260.png"
-        },
-        {
-          "id": "https://www.asimov.press/p/sewers",
-          "author": "Calum Drysdale",
-          "description": "Our ancestors once spread their excess effluent on their fields; now we mine it for vital molecules.",
-          "link": "https://www.asimov.press/p/sewers",
-          "publishedOn": "2025-08-25T14:38:58.000Z",
-          "wordCount": null,
-          "title": "What We Find in the Sewers",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ce3c8597-dd7a-433f-92a2-80023d3da72d_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce3c8597-dd7a-433f-92a2-80023d3da72d_2000x1260.jpeg"
         }
       ]
     },
@@ -4918,26 +4892,6 @@
           "wordCount": 8263,
           "title": "9-story housing next to Cheese Board? Berkeley could OK taller buildings on 3 popular streets",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/NATERA_MiddleHousing_250423_12.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542199",
-          "author": "Tracey Taylor",
-          "description": "Join our nonprofit newsroom to do groundbreaking enterprise and accountability reporting on UC Berkeley as well as other important higher education stories.",
-          "link": "https://www.berkeleyside.org/2025/08/25/berkeleyside-is-hiring-a-higher-education-reporter",
-          "publishedOn": "2025-08-25T15:00:00.000Z",
-          "wordCount": 8044,
-          "title": "Berkeleyside is hiring a higher education reporter",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/06/Campanile750.jpg?fit=750%2C500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=494549",
-          "author": "Ally Markovich",
-          "description": "Didn’t plan ahead? We’ve got tips for finding a scenic spot to sleep under the stars — even when traditional campsites are already reserved.",
-          "link": "https://www.berkeleyside.org/2025/08/25/camping-bay-area-northern-california-sierra-no-reservation",
-          "publishedOn": "2025-08-25T14:22:58.000Z",
-          "wordCount": 9318,
-          "title": "Where to go for last-minute camping near Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/05/Backpacker2.png"
         }
       ]
     },
@@ -5193,6 +5147,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2025/nov/23/saturday-magazine-christmas-presents",
+          "author": "Jess Cartner-Morley, Claire Ratinon, Sali Hughes, Alice Vincent, Tim Dowling, Gynelle Leon, Annalisa Barbieri, Yotam Ottolenghi, Grace Dent and Meera Sodha",
+          "description": "Struggling with gift ideas? The Guardian’s expert columnists are here to help, with everything from Yotam Ottolenghi’s favourite pans to the only nail polish brand Sali Hughes uses\n• 305 best Christmas presents for 2025\nAre you in the festive spirit yet? Or, just, well…a bit stressed? This time of year can feel overwhelming, but who better to calm the panic of Christmas gift shopping than the Guardian’s cohort of expert columnists?\nWant to know which M&S cardi fashion editor Jess Cartner-Morley has had her eye on that gives “very posh”? Or the chocolate bars chef and author Yotam Ottolenghi is obsessed with? Beauty expert Sali Hughes has got the gifts to make Gen Z’s squeal with excitement, while Gynelle Leon selects the perfect present for the person in your life who prefers gardening to a night out.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/saturday-magazine-christmas-presents",
+          "publishedOn": "2025-11-23T06:00:05.000Z",
+          "wordCount": null,
+          "title": "158 Christmas presents, chosen by Guardian columnists",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theguardian.com/food/2025/nov/22/vegan-gochujang-tofu-ragu-recipe-gnocchi-pickled-cucumber-meera-sodha",
           "author": "Meera Sodha",
