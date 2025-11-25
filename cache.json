@@ -4838,26 +4838,6 @@
           "wordCount": 8464,
           "title": "BUSD is improving on literacy, but will be monitored for another year",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/webimage-Natera_AfterschoolProgram_Washington_250515_15.jpg?fit=800%2C534&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542606",
-          "author": "Nico Savidge",
-          "description": "The concrete shell of the future UC Berkeley dorm complex is a striking new presence in the Southside neighborhood.",
-          "link": "https://www.berkeleyside.org/2025/08/27/peoples-park-construction-update-photos",
-          "publishedOn": "2025-08-27T23:22:13.000Z",
-          "wordCount": 7168,
-          "title": "Photos: New student housing at People’s Park ‘tops out,’ giving sense of its scale",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Peoples-Park-drone_08272025_Jonathan-Hidalgo-3.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542538",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/08/27/annies-gelato-hopscotch-southie-dandelion-new-restaurants",
-          "publishedOn": "2025-08-27T19:33:00.000Z",
-          "wordCount": 7156,
-          "title": "A new gelato option arrives in Downtown Berkeley, and Hopscotch opens in Epicurious Garden",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/annies-gelato-berkeley.jpg"
         }
       ]
     },
@@ -5434,21 +5414,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/claude-sonnet-is-teaching-me-english/212461fgsdl.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking",
-          "author": null,
-          "description": "Should we anthropomorphize LLMs?",
-          "link": "https://aethermug.com/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-08-27T23:59:20.000Z",
-          "wordCount": 3764,
-          "title": "There Is Thinking and There Is Thinking and There Is Thinking",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking/sebastian-hages-Jn67_91aoOg-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/there-is-thinking-and-there-is-thinking-and-there-is-thinking/sebastian-hages-Jn67_91aoOg-unsplash.jpg"
         }
       ]
     },
@@ -6266,16 +6231,6 @@
           "wordCount": null,
           "title": "Lucius: Field Recordings x Aspen Ideas Festival",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/qU9aLnHHKT0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/qU9aLnHHKT0",
-          "publishedOn": "2025-08-27T20:00:30.000Z",
-          "wordCount": 2157,
-          "title": "@carlyraemusic's album 'Emotion' contains a particular emotion: earnest horniness.",
-          "imageUrl": null
         }
       ]
     },
@@ -6284,6 +6239,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/",
+          "author": "Ethan Siegel",
+          "description": "What would you see if you could look into the past of every human being on Earth and see them as they were when they were 5 years old? You’d expect to see people possessing a wide variety of traits: some short and some tall, some heavy and some light in weight, some with larger feet and some with smaller feet, etc. Despite this variety, however, you’d fully expect that they’d all look like 5 year olds; you’d be shocked to find one that looked like a teenager, a young adult, or even a middle-aged adult. If this were the case, it would make you question — and rightly so — if what you were seeing was actually reflective of reality.\nBut in the Universe, this is precisely what occurs when we look at the earliest, brightest, most active galaxies that contain black holes. In theory, there should …",
+          "link": "https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/",
+          "publishedOn": "2025-11-25T07:00:00.000Z",
+          "wordCount": 4352,
+          "title": "Supermassive black holes came before stars in ancient galaxies",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/07/0x0-e1763685857988.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/remote-control-meet-the-father-of-telework/",
           "author": "Jordan Friedman",
