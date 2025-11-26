@@ -567,6 +567,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/arabidopsis",
+          "author": "Alexandra Balwit",
+          "description": "On the origins of Arabidopsis thaliana, the premier model for plant biology.",
+          "link": "https://www.asimov.press/p/arabidopsis",
+          "publishedOn": "2025-11-26T16:06:44.000Z",
+          "wordCount": null,
+          "title": "A Most Important Mustard",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!tor9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64315e52-1488-4e90-a8a8-9131b6bd84d7_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!tor9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64315e52-1488-4e90-a8a8-9131b6bd84d7_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/penicillin-myth",
           "author": "Asimov Press",
           "description": "Competing theories seek to explain inconsistencies surrounding Alexander Fleming’s famed discovery.",
@@ -1267,16 +1283,6 @@
           "wordCount": 204,
           "title": "Pull",
           "imageUrl": "https://imgs.xkcd.com/comics/pull_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3135/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3135/",
-          "publishedOn": "2025-08-29T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Sea Level",
-          "imageUrl": "https://imgs.xkcd.com/comics/sea_level_2x.png"
         }
       ]
     },
@@ -1669,6 +1675,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548141",
+          "author": "Nico Savidge",
+          "description": "A $6.5 million project will also bring long-awaited new permanent restrooms to the Tom Bates Regional Sports Complex, a hub for East Bay soccer.",
+          "link": "https://www.berkeleyside.org/2025/11/26/berkeley-pickleball-courts-tom-bates-complex",
+          "publishedOn": "2025-11-26T15:00:00.000Z",
+          "wordCount": 7063,
+          "title": "Pickleball players rejoice: A Berkeley park is adding 6 courts",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-dbuechner_vijayaplayingwithjenniferchanreturnthevolleyplayingatbookertpicleballcourts_061524_file6280.jpg?fit=1600%2C970&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548176",
           "author": "Vanessa Arredondo",
@@ -4848,16 +4864,6 @@
           "wordCount": 7479,
           "title": "A day with a Berkeley street vendor who’s been a mainstay of the city for nearly 40 years",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/20250723-234828.webp?fit=1600%2C1186&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542704",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A threatening email prompts an increased police presence at Berkeley High.",
-          "link": "https://www.berkeleyside.org/2025/08/28/berkeley-wire-peets-coffee-acquired-aurora-theatre-closing-sale",
-          "publishedOn": "2025-08-29T00:30:00.000Z",
-          "wordCount": 6834,
-          "title": "Berkeley Wire: Peet’s parent company acquired for $18B; fans mourn at Aurora Theatre open house sale",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/03/03_17_20_shelter-33.jpg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -6249,6 +6255,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/childhood-wiring/",
+          "author": "Becky Kennedy",
+          "description": "Parenting is often framed as a battle between discipline and chaos, but Dr. Becky Kennedy argues that the real story lives beneath the behavior we see. \nKennedy traces how early relationships teach children which parts of themselves are welcome, which emotions feel dangerous, and how those lessons script adult identity.\nThis video How early attachment scars can impact us forever is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/childhood-wiring/",
+          "publishedOn": "2025-11-26T16:19:19.000Z",
+          "wordCount": 1135,
+          "title": "How early attachment scars can impact us forever",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Kennedy.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/will-ai-decimate-consulting/",
+          "author": "Andrea Belk Olson",
+          "description": "There’s an old adage that goes, “No one ever got fired for hiring [insert consulting firm here].” This rang true for many years, as there was no substitute for consulting ‘SaaS’ (‘scapegoat as a service’) — but a reckoning is coming.\nAfter nearly a decade of uninterrupted growth, the days of multi-million-dollar, multi-year contracts with governmental entities and private companies are swiftly withering away. Firms that succeeded in convincing organizations they couldn’t solve their own problems are finding their claims, value, and costs are being called into question.\nIn just the last few months, Pricewaterhouse Coopers let go 1,500 US workers (2% of its US workforce), following 1,800 cuts in 2024. Accenture announced a round of 19,000 layoffs in 2023, with ongoing reductions continuing. …",
+          "link": "https://bigthink.com/business/will-ai-decimate-consulting/",
+          "publishedOn": "2025-11-26T14:00:00.000Z",
+          "wordCount": 2095,
+          "title": "Will AI decimate consulting?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/ai-decimate-consulting_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/moon-two-faces-different/",
           "author": "Ethan Siegel",
@@ -8858,16 +8884,6 @@
           "wordCount": 15141,
           "title": "The evolution of laziness: Why humans resist the gym",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/D2-Web-Lieberman.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/dark-energy-no-longer-constant/",
-          "author": "Ethan Siegel",
-          "description": "The story of the expanding Universe has been a back-and-forth one over the past 110 years: ever since general relativity was first introduced. Initially, Einstein introduced the notion of a cosmological constant — a form of energy inherent to the fabric of space itself — to prevent a matter-filled Universe from collapsing. When we discovered that the Universe was expanding, the constant disappeared, eventually leading Einstein to declare it his biggest blunder. Then in the 1990s, a surprising collection of data indicated that the Universe’s expansion was accelerating, a discovery that revived the cosmological constant. The combination of supernova, cosmic microwave background, and large-scale structure data all appeared to demand it.\nBut now, more than 25 years later, an interesting set of…",
-          "link": "https://bigthink.com/starts-with-a-bang/dark-energy-no-longer-constant/",
-          "publishedOn": "2025-08-29T06:00:00.000Z",
-          "wordCount": 4746,
-          "title": "Ask Ethan: Is dark energy no longer a cosmological constant?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/DESI.gif?w=520&h=293&crop=1"
         }
       ]
     },
