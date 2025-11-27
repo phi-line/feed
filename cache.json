@@ -5307,6 +5307,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people",
+          "author": null,
+          "description": "Group intelligence is worth talking about",
+          "link": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-11-27T05:09:03.000Z",
+          "wordCount": 9225,
+          "title": "My Notes on: When Ants Are Smarter Than People",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/my-notes-on-when-ants-are-smarter-than-people/azzam-qourti-5IV6_bnr7wg-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/my-notes-on-when-ants-are-smarter-than-people/azzam-qourti-5IV6_bnr7wg-unsplash.jpg"
+        },
+        {
           "id": "https://aethermug.com/posts/roam",
           "author": null,
           "description": "",
@@ -6275,6 +6290,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/thinking/the-illusion-of-consensus/",
+          "author": "Laura Kennedy",
+          "description": "It’s the spring of 1951. As the Korean War escalates and the world engages in scandalized debate over Julius and Ethel Rosenberg’s recent conviction for espionage, students at Swarthmore College in Pennsylvania are gathering in small groups to take part in what they believe to be a vision test. They’re shown three lines of obviously different lengths and asked which one matches a target line. Unaware that they’re participating in a psychology experiment overseen by the social psychologist Solomon Asch, the subjects don’t realize that everyone else in their group has been instructed to give the wrong answer. \nThe task is simple — one line clearly matches the target while the other two clearly don’t. Yet when everyone in the room says otherwise, the students begin to doubt what they see. Suc…",
+          "link": "https://bigthink.com/thinking/the-illusion-of-consensus/",
+          "publishedOn": "2025-11-27T10:28:00.000Z",
+          "wordCount": 2231,
+          "title": "The illusion of consensus is powerful. Here’s why you should fight it.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/illusion-of-concensus-conformity_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/scientific-phenomena-thankful/",
+          "author": "Ethan Siegel",
+          "description": "Every day, we have a choice whether we take our lives, our existence, our freedoms, and our moments for granted, or whether we express appreciation and gratitude for the good things that exist. The biggest unifier that all human beings have in common, that we all exist on the same world and in the same Universe, never gets the due it deserves. Here and now, it’s possible for us to exist, and to exist as long as our natural lifespans will allow us.\nThis wasn’t guaranteed from first principles, but simply happens to be. At a huge number of different points in our Universe’s history, the laws of nature came together in such a way to enable our existence, and to allow us to look back today, 13.8 billion years later, with thankfulness in our hearts. Here are ten phenomena that made it all possi…",
+          "link": "https://bigthink.com/starts-with-a-bang/scientific-phenomena-thankful/",
+          "publishedOn": "2025-11-27T07:00:00.000Z",
+          "wordCount": 3087,
+          "title": "10 scientific phenomena to be thankful for every day",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/08/el-gordo-riches.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/gene-therapy-kelsic/",
           "author": "Eric Kelsic",

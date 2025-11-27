@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-27T06:07:12.833Z</updated>
+    <updated>2025-11-27T12:08:14.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The illusion of consensus is powerful. Here’s why you should fight it.]]></title>
+        <id>https://bigthink.com/thinking/the-illusion-of-consensus/</id>
+        <link href="https://bigthink.com/thinking/the-illusion-of-consensus/"/>
+        <updated>2025-11-27T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the spring of 1951. As the Korean War escalates and the world engages in scandalized debate over Julius and Ethel Rosenberg’s recent conviction for espionage, students at Swarthmore College in Pennsylvania are gathering in small groups to take part in what they believe to be a vision test. They’re shown three lines of obviously different lengths and asked which one matches a target line. Unaware that they’re participating in a psychology experiment overseen by the social psychologist Solomon Asch, the subjects don’t realize that everyone else in their group has been instructed to give the wrong answer. 
+The task is simple — one line clearly matches the target while the other two clearly don’t. Yet when everyone in the room says otherwise, the students begin to doubt what they see. Suc…]]></summary>
+        <author>
+            <name>Laura Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 scientific phenomena to be thankful for every day]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/scientific-phenomena-thankful/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/scientific-phenomena-thankful/"/>
+        <updated>2025-11-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every day, we have a choice whether we take our lives, our existence, our freedoms, and our moments for granted, or whether we express appreciation and gratitude for the good things that exist. The biggest unifier that all human beings have in common, that we all exist on the same world and in the same Universe, never gets the due it deserves. Here and now, it’s possible for us to exist, and to exist as long as our natural lifespans will allow us.
+This wasn’t guaranteed from first principles, but simply happens to be. At a huge number of different points in our Universe’s history, the laws of nature came together in such a way to enable our existence, and to allow us to look back today, 13.8 billion years later, with thankfulness in our hearts. Here are ten phenomena that made it all possi…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Notes on: When Ants Are Smarter Than People]]></title>
+        <id>https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people</id>
+        <link href="https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2025-11-27T05:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Group intelligence is worth talking about]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo car service in Berkeley and Oakland approved by DMV]]></title>
         <id>https://oaklandside.org/?p=465697</id>
