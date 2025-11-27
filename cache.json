@@ -5288,16 +5288,6 @@
           "wordCount": 4435,
           "title": "Meera Sodha’s recipe for kidney bean and sweetcorn curry",
           "imageUrl": "https://i.guim.co.uk/img/media/2b2c92e9ab33347bf223f7aeda580392c0ca77da/0_852_3456_2765/master/3456.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=227f8a926f394ccb5f9a7d0351edfbce"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "This fresh spin on a traditional poké bowl borrows ideas from all over the world\nThis recipe is too off-the-beaten-track from a traditional Hawaiian poké for me to call it such and live with myself, but it is loosely based around the idea of one. It starts with seasoned sushi rice (which I could eat just by itself) and is topped with a variety of fun things to munch on such as salt- and lime-seasoned cabbage, edamame beans and glazed pieces of barbecued tempeh, all bound together with a gentle but perky sriracha sauce. Like many of us today, it borrows ideas from all over the world and is, I think, all the more delicious for it.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/aug/30/barbecue-tempeh-rice-bowl-with-lime-sriracha-sauce-recipe-meera-sodha",
-          "publishedOn": "2025-08-30T05:00:53.000Z",
-          "wordCount": 4626,
-          "title": "Meera Sodha’s vegan recipe for barbecue tempeh rice bowl with lime and sriracha sauce | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/ea9b193ae3a11ac1b2d26ae5bed6a8d435c63913/469_1683_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13508da451ec1aa3c0aef8fc9776778"
         }
       ]
     },
@@ -6290,6 +6280,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/history-nuclear-deterrence/",
+          "author": "Benjamin Wilson",
+          "description": "The verb deter was coined in the English language in the 16th century from the Latin deterreo (to frighten) and first applied systematically in 18th- and 19th-century criminological texts. During the 1850s, the English criminologist T.B.L. Baker invented the noun form deterrence to capture an idea about the effects of actual and potential punishment on criminal thought and behavior. Early criminologists believed that criminals who possessed what the utilitarian philosopher (and early deterrence theorist) Jeremy Bentham called “rational agency” were susceptible to the fear of punishment. Modern criminologists argued that punishments such as prison sentences should not be seen as they had been in an earlier age: as acts of moral retribution or as efforts to reform the criminal. Punishments s…",
+          "link": "https://bigthink.com/books/history-nuclear-deterrence/",
+          "publishedOn": "2025-11-27T15:30:00.000Z",
+          "wordCount": 3229,
+          "title": "How a criminology concept became the backbone of the U.S.’s Cold War strategy",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Strange_Stability_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/what-we-can-learn-from-butterflies/",
+          "author": "Eric Markowitz",
+          "description": "Ever since I first read Janine Benyus’s Biomimicry: Innovation Inspired by Nature, I’ve descended into a rabbit hole in search of what “intelligence” really means (and who has it). Perhaps that’s why I love the name of this newsletter so much. [It’s a worm, after all. A humble, indispensable critter buried beneath the soil.]\nBenyus’s central argument is that the “smartest” solutions to human problems already exist in nature. We just need to know where, and how, to look for them. (For instance: wind turbines inspired by humpback whales.)\nSo perhaps it’s no surprise that I was riveted by a recent piece on monarch butterflies. The piece explains how monarchs actually navigate: with two independent compasses built into their biology. On clear days, they orient themselves using a solar compass.…",
+          "link": "https://bigthink.com/business/what-we-can-learn-from-butterflies/",
+          "publishedOn": "2025-11-27T14:00:00.000Z",
+          "wordCount": 2745,
+          "title": "What we can learn from butterflies",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/what-we-learn-from-butterflies_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/thinking/the-illusion-of-consensus/",
           "author": "Laura Kennedy",
