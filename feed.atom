@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-27T18:06:28.777Z</updated>
+    <updated>2025-11-28T00:19:32.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The costs of turning therapy into a pop culture fad]]></title>
+        <id>https://bigthink.com/books/psychobabble/</id>
+        <link href="https://bigthink.com/books/psychobabble/"/>
+        <updated>2025-11-27T19:10:26.000Z</updated>
+        <summary type="html"><![CDATA[When I was growing up, mental health was rarely talked about. Most people knew someone who had gone to therapy and generally accepted it as a necessary step in getting the help they needed. But what happened on the chaise lounge stayed on the chaise lounge. People didn’t discuss their diagnoses, and if therapy came up, it was usually in reference to the latest episode of The Sopranos. 
+This began to change in the aughts. The U.S. Congress passed laws to make mental health more accessible and affordable. Celebrities opened up about their struggles with depression and anxiety, and the internet offered unprecedented access to mental health information.
+All positive changes, but then things continued to accelerate. Today, online mental health advice is as contradictory as it is universal. Psyc…]]></summary>
+        <author>
+            <name>Kevin Dickinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a criminology concept became the backbone of the U.S.’s Cold War strategy]]></title>
         <id>https://bigthink.com/books/history-nuclear-deterrence/</id>
