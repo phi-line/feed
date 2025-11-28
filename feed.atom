@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-28T12:08:13.049Z</updated>
+    <updated>2025-11-28T18:06:29.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creamy Corn Chowder Recipe]]></title>
+        <id>https://jessicainthekitchen.com/?p=71111</id>
+        <link href="https://jessicainthekitchen.com/corn-chowder-recipe/"/>
+        <updated>2025-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With lots of sweet corn, tender potatoes, and a rich, creamy broth, this vegan Corn Chowder recipe is every bit as delicious as the traditional version! Whether it’s Corn Nuggets, Corn Soufflé, or classic Corn Succotash, corn is a favourite in the summer months. And this vegan corn chowder recipe brings that sweet flavour into […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask Ethan: What’s the point of exploring the Universe?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/why-explore-universe/</id>
