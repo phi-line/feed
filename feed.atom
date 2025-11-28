@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-11-28T06:06:58.138Z</updated>
+    <updated>2025-11-28T12:08:13.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: What’s the point of exploring the Universe?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/why-explore-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/why-explore-universe/"/>
+        <updated>2025-11-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that there is a seemingly endless string of problems to address in the world. You don’t have to look hard to find people suffering from all sorts of maladies: from illness to injustice, from war to famine, from poverty to pollution. There are some major problems facing humanity in the 21st century, and they’re all going to require an enormous investment of our collective resources if we want to solve them. From climate change to global pandemics to the energy and water crises and more, none of these problems are going to solve themselves. If they’re to be solved at all, it’s going to come down to humanity’s collective actions.
+But where does that leave the scientific research that doesn’t directly relate to these crises? As beautiful and enlightening as the recent James Webb…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The costs of turning therapy into a pop culture fad]]></title>
         <id>https://bigthink.com/books/psychobabble/</id>
