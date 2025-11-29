@@ -925,6 +925,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3174/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3174/",
+          "publishedOn": "2025-11-28T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Bridge Clearance",
+          "imageUrl": "https://imgs.xkcd.com/comics/bridge_clearance_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3173/",
           "author": null,
           "description": "",
