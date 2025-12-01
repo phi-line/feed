@@ -4814,26 +4814,6 @@
           "wordCount": 8087,
           "title": "Berkeley police testify on why they shot Ricardo Ruiz during armed standoff",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Ricardo-Ruiz.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542810",
-          "author": "Alex N. Gecan",
-          "description": "Alameda County Sheriff’s Office deputies were serving an arrest warrant related to an eviction notice. But their fatigues, armor and armament sparked curiosity and speculation.",
-          "link": "https://www.berkeleyside.org/2025/09/02/shattuck-avenue-officers-tactical-gear",
-          "publishedOn": "2025-09-02T20:54:18.000Z",
-          "wordCount": 6989,
-          "title": "Armed cops in tactical gear on Berkeley’s Shattuck Ave. were local deputies",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/image-154.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542801",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/09/02/yard-milkshake-bar-sakana-yasai-huarique-juancito-new-restaurants",
-          "publishedOn": "2025-09-02T19:00:00.000Z",
-          "wordCount": 6883,
-          "title": "A ‘Shark Tank’ success story comes to Berkeley, plus new Peruvian and sushi spots",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/CookieMonsterTrio-YardMilkshakeBar.jpg?fit=2000%2C1726&ssl=1"
         }
       ]
     },
@@ -5004,16 +4984,6 @@
           "wordCount": 1576,
           "title": "The Dot-Com Crash of 2000 and Marc Andreessen’s Act 2",
           "imageUrl": "https://cybercultural.com/assets/images/startupfailures-august2000.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/internet-1999/",
-          "author": null,
-          "description": "1999 Napster software running on Windows 98; photo by Christiaan Colen.\nWhen AOL completed its acquisition of Netscape in March 1999, a part of the old web died forever. By the end of the year (and the century), Netscape's share of the browser market had shrunk to about 20% and Microsoft's Internet Explorer had become dominant.\nMeanwhile, the dot-com bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”\nBut 1999 might best be remembered as the year of three revolutionary new internet te…",
-          "link": "https://cybercultural.com/p/internet-1999/",
-          "publishedOn": "2025-09-03T00:00:00.000Z",
-          "wordCount": 2023,
-          "title": "What the Internet Was Like in 1999",
-          "imageUrl": "https://cybercultural.com/assets/images/napster-1999-1280x720.jpg"
         }
       ]
     },
@@ -5433,6 +5403,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PNmcF6eRE7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PNmcF6eRE7w",
+          "publishedOn": "2025-12-01T10:00:46.000Z",
+          "wordCount": null,
+          "title": "David Byrne: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M74ypT_XdM4",
           "author": null,
@@ -6230,6 +6210,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/",
+          "author": "Ethan Siegel",
+          "description": "The answer to nature’s greatest riddles are written upon the Universe itself.\n\nGaia’s all-sky view of our Milky Way Galaxy and neighboring galaxies. The maps show the total brightness and color of stars (top), the total density of stars (middle), and the interstellar dust that fills the galaxy (bottom). Note how, on average, there are approximately ~10 million stars in each square degree, but that some regions, like the galactic plane or the galactic center, have stellar densities well above the overall average.\n\nCredit: ESA/Gaia/DPAC\n\n\nFrom the fundamental to the cosmic, science reveals our natural history.\n\nOur Universe, from the hot Big Bang until the present day, underwent a huge amount of growth and evolution, and continues to do so. Our entire observable Universe was approximately th…",
+          "link": "https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/",
+          "publishedOn": "2025-12-01T07:00:00.000Z",
+          "wordCount": 3275,
+          "title": "The 9 biggest gaps in our understanding of cosmic history",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/02/mapping-timeline.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/why-explore-universe/",
           "author": "Ethan Siegel",

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-01T06:08:03.387Z</updated>
+    <updated>2025-12-01T12:08:30.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[David Byrne: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=PNmcF6eRE7w</id>
+        <link href="https://www.youtube.com/watch?v=PNmcF6eRE7w"/>
+        <updated>2025-12-01T10:00:46.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 biggest gaps in our understanding of cosmic history]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/"/>
+        <updated>2025-12-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The answer to nature’s greatest riddles are written upon the Universe itself.
+
+Gaia’s all-sky view of our Milky Way Galaxy and neighboring galaxies. The maps show the total brightness and color of stars (top), the total density of stars (middle), and the interstellar dust that fills the galaxy (bottom). Note how, on average, there are approximately ~10 million stars in each square degree, but that some regions, like the galactic plane or the galactic center, have stellar densities well above the overall average.
+
+Credit: ESA/Gaia/DPAC
+
+
+From the fundamental to the cosmic, science reveals our natural history.
+
+Our Universe, from the hot Big Bang until the present day, underwent a huge amount of growth and evolution, and continues to do so. Our entire observable Universe was approximately th…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for Christmas aubergine and rice timbale  | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2025/nov/29/christmas-spiced-aubergine-timbale-cream-cheese-fruit-nuts-recipes-meera-sodha</id>
@@ -9608,39 +9636,6 @@ Earth may be of interest to us, since we live on it, but to an external observer
         <summary type="html"><![CDATA[Ruiz, a Trump supporter also known for pulling a stun gun on protesters outside Berkeley’s Tesla showroom, will soon stand trial after getting into an armed standoff with police checking on a domestic violence call.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Internet Was Like in 1999]]></title>
-        <id>https://cybercultural.com/p/internet-1999/</id>
-        <link href="https://cybercultural.com/p/internet-1999/"/>
-        <updated>2025-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1999 Napster software running on Windows 98; photo by Christiaan Colen.
-When AOL completed its acquisition of Netscape in March 1999, a part of the old web died forever. By the end of the year (and the century), Netscape's share of the browser market had shrunk to about 20% and Microsoft's Internet Explorer had become dominant.
-Meanwhile, the dot-com bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”
-But 1999 might best be remembered as the year of three revolutionary new internet te…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armed cops in tactical gear on Berkeley’s Shattuck Ave. were local deputies]]></title>
-        <id>https://www.berkeleyside.org/?p=542810</id>
-        <link href="https://www.berkeleyside.org/2025/09/02/shattuck-avenue-officers-tactical-gear"/>
-        <updated>2025-09-02T20:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Alameda County Sheriff’s Office deputies were serving an arrest warrant related to an eviction notice. But their fatigues, armor and armament sparked curiosity and speculation.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A ‘Shark Tank’ success story comes to Berkeley, plus new Peruvian and sushi spots]]></title>
-        <id>https://www.berkeleyside.org/?p=542801</id>
-        <link href="https://www.berkeleyside.org/2025/09/02/yard-milkshake-bar-sakana-yasai-huarique-juancito-new-restaurants"/>
-        <updated>2025-09-02T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
         </author>
     </entry>
     <entry>
