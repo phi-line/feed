@@ -1335,6 +1335,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/inside-denmarks-hardline-immigration-experiment",
+          "author": "Helle Malmvig",
+          "description": "The post Inside Denmark’s Hardline Immigration Experiment appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/inside-denmarks-hardline-immigration-experiment",
+          "publishedOn": "2025-12-02T17:27:17.000Z",
+          "wordCount": 10019,
+          "title": "Inside Denmark’s Hardline Immigration Experiment",
+          "imageUrl": "https://noemamag.imgix.net/2025/12/Noema-SA-Preview-3-Rev.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=3805cc6f116000f2bb1ad11204647d69"
+        },
+        {
           "id": "https://www.noemamag.com/the-moral-authority-of-animals",
           "author": "Jay Griffiths",
           "description": "The post The Moral Authority Of Animals appeared first on NOEMA.",
@@ -1681,6 +1691,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548004",
+          "author": "Local sponsor",
+          "description": "Cara Goldstein makes cards, stickers and a calendar of local sites; The shop Smiles Handcrafted offers supplies for crafting and DIY classes.",
+          "link": "https://www.berkeleyside.org/2025/12/02/holiday-gift-fair-offers-art-of-berkeley-buildings-and-diy-crafting",
+          "publishedOn": "2025-12-02T17:15:00.000Z",
+          "wordCount": 7767,
+          "title": "Holiday Gift Fair offers art of Berkeley buildings and DIY crafting",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/cara-inside-paynes.png?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548280",
+          "author": "Nico Savidge",
+          "description": "Berkeley is using local funding rather than a FEMA grant it had received to pay for a seismic retrofit at a community center, after being told the federal agency could take years to provide the money, according to the city.",
+          "link": "https://www.berkeleyside.org/2025/12/02/berkeley-fema-grant-delay-federal-funding-hmgp",
+          "publishedOn": "2025-12-02T15:00:00.000Z",
+          "wordCount": 7344,
+          "title": "FEMA delays could cost Berkeley an $836,000 federal grant",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/IMG_0360-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=539915",
           "author": "Nathan Dalton",
@@ -4912,6 +4942,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/internet-2002/",
+          "author": null,
+          "description": "KaZaA, one of many P2P file sharing services in 2002.\nIn June 2002, Pew Research Center released a report on broadband uptake. It stated that 21% of all Internet users in America — 24 million adults — now had broadband in the home, up from just 6% two years ago. Of course, broadband penetration would continue to trend upward over the coming years. But even in 2002, Pew claimed that the internet had morphed from a \"sometimes\" tool for communication and finding information to an \"always-on information appliance.\"\nThis change in the character of the internet around 2002 led to the other trends we'll look at in this post: more interactive websites, more online music choices, more socializing on the web.\n\nA BBC report in January 2002 about broadband.\nWeb Design: Flash to CSS\nOne website that il…",
+          "link": "https://cybercultural.com/p/internet-2002/",
+          "publishedOn": "2025-12-02T00:00:00.000Z",
+          "wordCount": 1702,
+          "title": "What the Internet Was Like in 2002",
+          "imageUrl": "https://cybercultural.com/assets/images/kazaa-feature-image-2002.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/blogs-rss-2002/",
           "author": null,
           "description": "Movable Type blog entry template, 2002; via Wayback Machine.\nIn my history of blogging so far, we've seen how weblogs emerged in 1999 as a new form of personal journal, began to link to each other in 2000 via blogrolls, and then turned serious in 2001 with \"warblogs.\" During those early years of the form, I was aware of certain weblogs but I hadn't yet signed up for an account at Blogger or downloaded Movable Type. In other words, I was a reader of blogs — but not yet a writer. That changed in March 2002, when I paid for an annual license to a desktop blogging tool called Radio Userland.\nI called my new weblog Modern Web. My initial goal was to blog about \"web development and e-business trends.\" At the time, I worked for a New Zealand power company as a \"Web Manager\" — I was in charge of t…",
@@ -6241,6 +6281,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-well/could-we-speak-with-whales/",
+          "author": "David Gruber",
+          "description": "At A Night of Awe and Wonder, marine biologist David Gruber, founder of  Project CETI and a National Geographic Explorer, traces the extraordinary journey linking humans and whales, from our shared ancestors to what we’re learning about their rich underwater communications. Through wartime recordings, bioacoustics pioneers, and cutting-edge AI, he shows how scientists are attempting to decode the phonetic alphabet of sperm whales and begin translating their ancient language. Gruber argues that understanding whale communication could reshape our sense of intelligence, ourselves, and our connection to life on Earth.\nThis video How whales became the poets of the ocean is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/could-we-speak-with-whales/",
+          "publishedOn": "2025-12-02T16:30:00.000Z",
+          "wordCount": 3092,
+          "title": "How whales became the poets of the ocean",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/A1-Web-Gruber.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/the-types-hypocrites-we-like/",
+          "author": "Michael Hallsworth",
+          "description": "Sometimes accusations of hypocrisy fail to hit home: People don’t seem too bothered by them. Here are four cases that start to unpick the view that we simply hate hypocrisy and instead show that there’s something else going on.\nThe virtuous hypocrite\nNoel Biderman founded Ashley Madison, a website designed to enable affairs. What if he were faithful in his private life, despite publicly promoting infidelity? Such a scenario contains what many consider the main ingredients of hypocrisy: failing to practice privately what one preaches publicly.\nA study tested whether people would agree. It showed one group of people an article about Biderman that simply mentioned he had promoted adultery; a separate group saw the article with additional information that it had been discovered that Biderman w…",
+          "link": "https://bigthink.com/books/the-types-hypocrites-we-like/",
+          "publishedOn": "2025-12-02T15:30:00.000Z",
+          "wordCount": 2336,
+          "title": "The 4 types of hypocrites (that we actually like)",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Hypocrisy_Trap_Excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/surfing-the-edge-tim-oreilly-on-how-humans-can-thrive-with-ai/",
+          "author": "Tim Cooper",
+          "description": "What is the fundamental human skill? It’s riding the crest of change and embracing the unknown, says Tim O’Reilly, tech trend visionary and CEO of O’Reilly Media. He “imbibed” this idea from sci-fi writer Frank Herbert (Dune) in the 1970s and has been “surfing the edge” of change ever since.\nTim founded Global Network Navigator (GNN), the first ever commercial web portal, and sold it to AOL in 1995. He went on to become one of Silicon Valley’s most influential thinkers, known for popularizing the phrases “open source” and “Web 2.0” among others. O’Reilly Media — which Tim started over 40 years ago — has provided business and tech training to millions of users and currently serves over 5,000 companies worldwide.\nHe has long argued that technology can create new jobs rather than laying peopl…",
+          "link": "https://bigthink.com/business/surfing-the-edge-tim-oreilly-on-how-humans-can-thrive-with-ai/",
+          "publishedOn": "2025-12-02T14:00:00.000Z",
+          "wordCount": 2611,
+          "title": "“Surfing the edge”: Tim O’Reilly on how humans can thrive with AI",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/tim-oreilly_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/new-physics-far-future/",
           "author": "Ethan Siegel",
@@ -8860,16 +8930,6 @@
           "wordCount": 2692,
           "title": "Michio Kaku: Why we don’t even rank on the Kardashev scale",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A1-Web-kaku-1.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/",
-          "author": "Ethan Siegel",
-          "description": "If you look at all the objects detectable in Earth’s skies, including both naturally occurring bodies as well as artificial satellites, it should come as no surprise that the Sun appears as the brightest object of all. The Sun, after all, produces its own light, sustainably powered by nuclear fusion in its core. That core-generated energy helps keep the Sun from contracting under its own gravitation, but also propagates to the Sun’s edge, the photosphere, where the Sun emits radiation over a wide range of wavelengths that correspond to a temperature of around 6000 K. Although the Moon is the second-brightest object in most wavelengths of light, it only appears so bright because of its very close proximity to Earth. From an intrinsic point of view, most of the Moon’s light is merely reflect…",
-          "link": "https://bigthink.com/starts-with-a-bang/surprise-moon-outshines-sun/",
-          "publishedOn": "2025-09-04T06:00:00.000Z",
-          "wordCount": 4167,
-          "title": "The Sun is fainter than the Moon, at least in gamma-rays",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/05/1994_march_cgro_0.jpg?resize=1200,630"
         }
       ]
     },
@@ -8878,6 +8938,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=7503",
+          "author": "Jessica Hylton",
+          "description": "Ring in the holiday season with this cozy Eggnog French Toast! With warm spices and a rich cashew-based custard, this easy recipe is sure to be a hit on Christmas morning or anytime you have a French toast craving. This eggnog French toast is basically the best thing since sliced bread. If you want to wake everyone […]",
+          "link": "https://jessicainthekitchen.com/eggnog-french-toast/",
+          "publishedOn": "2025-12-02T15:00:00.000Z",
+          "wordCount": 5413,
+          "title": "Eggnog French Toast",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/12/Vegan-Eggnog-French-Toast_09.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=7411",
           "author": "Jessica Hylton",
