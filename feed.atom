@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-02T06:07:16.877Z</updated>
+    <updated>2025-12-02T12:08:31.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will new physics affect our Universe’s far future?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/new-physics-far-future/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/new-physics-far-future/"/>
+        <updated>2025-12-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All throughout the Universe, we can see evidence for not only the “stuff like us” that’s out there, but additional forms of energy that take us beyond the Standard Model of elementary particles and forces. Sure, there’s plenty of normal matter: things like atoms and ions, made up fundamentally of quarks, gluons, and electrons, just like we are. There are stars and planets, but also gas, dust, plasma, and even black holes made from the same raw ingredients that make us up. There are also photons, or quanta of light, and the nearly invisible neutrinos and antineutrinos, all playing detectable, measurable roles in the evolution of our cosmos.
+But that doesn’t explain everything we know is out there contributing to our Universe. We know, from observing galaxies, galaxy clusters, and the large-…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Half Price Books closes its downtown Berkeley store after 20 years]]></title>
         <id>https://www.berkeleyside.org/?p=539915</id>
