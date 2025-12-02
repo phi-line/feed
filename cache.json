@@ -931,6 +931,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3175/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3175/",
+          "publishedOn": "2025-12-01T05:00:00.000Z",
+          "wordCount": 208,
+          "title": "Website Task Flowchart",
+          "imageUrl": "https://imgs.xkcd.com/comics/website_task_flowchart_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3174/",
           "author": null,
           "description": "",
@@ -1681,6 +1691,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=539915",
+          "author": "Nathan Dalton",
+          "description": "It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.",
+          "link": "https://www.berkeleyside.org/2025/12/01/half-price-books-berkeley-closure",
+          "publishedOn": "2025-12-02T00:14:48.000Z",
+          "wordCount": 7817,
+          "title": "Half Price Books closes its downtown Berkeley store after 20 years",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/IMG_0356-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548326",
+          "author": "Alex N. Gecan",
+          "description": "The crash happened around 3 p.m. near University Avenue. The rider has not yet been identified.",
+          "link": "https://www.berkeleyside.org/2025/12/01/fatal-motorcycle-crash-i80-university-ave",
+          "publishedOn": "2025-12-02T00:08:05.000Z",
+          "wordCount": 7051,
+          "title": "Motorcyclist killed in Berkeley Interstate 80 crash",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/12/CHP.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548303",
+          "author": "Tovin Lapan",
+          "description": "Joyce Tang has built Bake Sum into a nationally acclaimed pastry powerhouse in the five years since it opened. Nosh readers voted it the best bakery of 2025.",
+          "link": "https://www.berkeleyside.org/2025/12/01/nosh-awards-best-bakery-bake-sum",
+          "publishedOn": "2025-12-01T23:20:23.000Z",
+          "wordCount": 7424,
+          "title": "Former pandemic pop-up rises up to claim East Bay’s best bakery title",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BakeSum-Assortment-lapan.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547734",
+          "author": "Alex N. Gecan",
+          "description": "Hundreds of people were attending the Alpha Delta Phi fraternity’s party Nov. 14 where 19-year-old George Mauricio Salinas was found unresponsive. Police “do not suspect foul play.”",
+          "link": "https://www.berkeleyside.org/2025/12/01/cal-alpha-delta-phi-death-aquadelt",
+          "publishedOn": "2025-12-01T20:42:22.000Z",
+          "wordCount": 7446,
+          "title": "UC Berkeley student who drowned during fraternity pool party is identified",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/05/Campanile-by-TJ-Gehling.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548039",
           "author": "Local sponsor",
@@ -4850,16 +4900,6 @@
           "wordCount": 6782,
           "title": "You could win $3,000 to prepare for the next Big One",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP16292796162506-scaled-1.jpg?fit=2560%2C1762&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542788",
-          "author": "Tonatzin Ogunleye",
-          "description": "She went above and beyond in her work in private in-home care and assisted living settings. A mother of four, she loved cooking, photography and time with friends.",
-          "link": "https://www.berkeleyside.org/2025/09/03/remembering-dolores-ochoa-caregiver-for-over-35-years",
-          "publishedOn": "2025-09-03T12:00:00.000Z",
-          "wordCount": 6910,
-          "title": "Remembering Dolores Ochoa, caregiver for over 35 years",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_9130.jpg?fit=2332%2C1746&ssl=1"
         }
       ]
     },
@@ -6223,16 +6263,6 @@
           "wordCount": null,
           "title": "Ed Sheeran: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9MToQNYuU2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9MToQNYuU2Q",
-          "publishedOn": "2025-09-03T09:00:23.000Z",
-          "wordCount": null,
-          "title": "Mustafa: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6241,6 +6271,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-present/the-rise-of-ai-denialism/",
+          "author": "Louis Rosenberg",
+          "description": "Over the past few months, we’ve seen a surge of skepticism around the phenomenon currently referred to as the “AI boom.” The shift began when OpenAI released GPT-5 this summer to mixed reviews, mostly from casual users. We’ve since had months of breathless claims from pundits and influencers that the era of rapid AI advancement is ending, that AI scaling has hit the wall, and that the AI boom is just another tech bubble. These same voices overuse the phrase “AI slop” to disparage the remarkable images, documents, videos, and code that AI models produce at the touch of a button.\nI find this perspective both absurd and dangerous. \nBy any objective measure, AI continues to improve at a stunning pace. The impressive leap in capabilities made by Gemini 3 in November is just the latest example. …",
+          "link": "https://bigthink.com/the-present/the-rise-of-ai-denialism/",
+          "publishedOn": "2025-12-01T22:03:16.000Z",
+          "wordCount": 2677,
+          "title": "The rise of AI denialism",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/ai-denialism_compressed.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/find-your-own-tomato-war-how-to-fortify-culture-through-ritual/",
           "author": "James D. White, Krista White",

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-01T18:07:14.280Z</updated>
+    <updated>2025-12-02T00:20:00.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Half Price Books closes its downtown Berkeley store after 20 years]]></title>
+        <id>https://www.berkeleyside.org/?p=539915</id>
+        <link href="https://www.berkeleyside.org/2025/12/01/half-price-books-berkeley-closure"/>
+        <updated>2025-12-02T00:14:48.000Z</updated>
+        <summary type="html"><![CDATA[It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorcyclist killed in Berkeley Interstate 80 crash]]></title>
+        <id>https://www.berkeleyside.org/?p=548326</id>
+        <link href="https://www.berkeleyside.org/2025/12/01/fatal-motorcycle-crash-i80-university-ave"/>
+        <updated>2025-12-02T00:08:05.000Z</updated>
+        <summary type="html"><![CDATA[The crash happened around 3 p.m. near University Avenue. The rider has not yet been identified.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former pandemic pop-up rises up to claim East Bay’s best bakery title]]></title>
+        <id>https://www.berkeleyside.org/?p=548303</id>
+        <link href="https://www.berkeleyside.org/2025/12/01/nosh-awards-best-bakery-bake-sum"/>
+        <updated>2025-12-01T23:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Joyce Tang has built Bake Sum into a nationally acclaimed pastry powerhouse in the five years since it opened. Nosh readers voted it the best bakery of 2025.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise of AI denialism]]></title>
+        <id>https://bigthink.com/the-present/the-rise-of-ai-denialism/</id>
+        <link href="https://bigthink.com/the-present/the-rise-of-ai-denialism/"/>
+        <updated>2025-12-01T22:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few months, we’ve seen a surge of skepticism around the phenomenon currently referred to as the “AI boom.” The shift began when OpenAI released GPT-5 this summer to mixed reviews, mostly from casual users. We’ve since had months of breathless claims from pundits and influencers that the era of rapid AI advancement is ending, that AI scaling has hit the wall, and that the AI boom is just another tech bubble. These same voices overuse the phrase “AI slop” to disparage the remarkable images, documents, videos, and code that AI models produce at the touch of a button.
+I find this perspective both absurd and dangerous. 
+By any objective measure, AI continues to improve at a stunning pace. The impressive leap in capabilities made by Gemini 3 in November is just the latest example. …]]></summary>
+        <author>
+            <name>Louis Rosenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UC Berkeley student who drowned during fraternity pool party is identified]]></title>
+        <id>https://www.berkeleyside.org/?p=547734</id>
+        <link href="https://www.berkeleyside.org/2025/12/01/cal-alpha-delta-phi-death-aquadelt"/>
+        <updated>2025-12-01T20:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of people were attending the Alpha Delta Phi fraternity’s party Nov. 14 where 19-year-old George Mauricio Salinas was found unresponsive. Police “do not suspect foul play.”]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Funds needed to bridge Berkeley High School equity gap amid budget cuts]]></title>
         <id>https://www.berkeleyside.org/?p=548039</id>
@@ -104,6 +156,15 @@ From the fundamental to the cosmic, science reveals our natural history.
 Our Universe, from the hot Big Bang until the present day, underwent a huge amount of growth and evolution, and continues to do so. Our entire observable Universe was approximately th…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Website Task Flowchart]]></title>
+        <id>https://xkcd.com/3175/</id>
+        <link href="https://xkcd.com/3175/"/>
+        <updated>2025-12-01T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -9655,25 +9716,6 @@ We created this video for Brain Briefs, a Big Think interview series created in
 This video How our expectations shape what we see, hear, and feel is featured on Big Think.]]></summary>
         <author>
             <name>Paul Ekman, Lisa Feldman Barrett, Esther Perel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Dolores Ochoa, caregiver for over 35 years]]></title>
-        <id>https://www.berkeleyside.org/?p=542788</id>
-        <link href="https://www.berkeleyside.org/2025/09/03/remembering-dolores-ochoa-caregiver-for-over-35-years"/>
-        <updated>2025-09-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[She went above and beyond in her work in private in-home care and assisted living settings. A mother of four, she loved cooking, photography and time with friends.]]></summary>
-        <author>
-            <name>Tonatzin Ogunleye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mustafa: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=9MToQNYuU2Q</id>
-        <link href="https://www.youtube.com/watch?v=9MToQNYuU2Q"/>
-        <updated>2025-09-03T09:00:23.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
