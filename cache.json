@@ -1308,6 +1308,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=71678",
+          "author": "Stephen Wolfram",
+          "description": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And now you want to scale it up. Maybe 1000x or more. Well, today we’ve released an extremely streamlined […]",
+          "link": "https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/",
+          "publishedOn": "2025-12-02T19:23:40.000Z",
+          "wordCount": 3010,
+          "title": "Instant Supercompute: Launching Wolfram Compute Services",
+          "imageUrl": "https://content.wolfram.com/sites/43/2025/11/sw11252025heroimg1.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=71196",
           "author": "Stephen Wolfram",
           "description": "Towards a Theory of Bulk Orchestration It’s a key feature of living systems, perhaps even in some ways the key feature: that even right down to a molecular scale, things are orchestrated. Molecules (or at least large ones) don’t just move around randomly, like in a liquid or a gel. Instead, what molecular biology has […]",
@@ -1691,6 +1701,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=457980",
+          "author": "Sejal Parekh",
+          "description": "More than 74,000 Alameda County residents on Covered California plans could see health insurance premiums increase if the federal government doesn’t extend tax credits.",
+          "link": "https://www.berkeleyside.org/2025/12/02/covered-california-health-insurance-premiums-increasing",
+          "publishedOn": "2025-12-02T21:48:48.000Z",
+          "wordCount": 8610,
+          "title": "Many East Bay residents consider giving up health insurance with premiums set to skyrocket",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/healthpremiumselcerritomom_112125_handout.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548380",
+          "author": "Tovin Lapan",
+          "description": "A newcomer on the scene, La Loulou crushed the competition and elicited effusive praise from Nosh voters.",
+          "link": "https://www.berkeleyside.org/2025/12/02/nosh-awards-best-wine-bar-la-loulou",
+          "publishedOn": "2025-12-02T21:34:01.000Z",
+          "wordCount": 7667,
+          "title": "At the East Bay’s best wine bar, the bathroom wins as much praise as the French vibes and vintages",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-20251001_La-Loulou_08.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548004",
           "author": "Local sponsor",

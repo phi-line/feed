@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-02T18:07:30.969Z</updated>
+    <updated>2025-12-03T00:20:01.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Many East Bay residents consider giving up health insurance with premiums set to skyrocket]]></title>
+        <id>https://richmondside.org/?p=457980</id>
+        <link href="https://www.berkeleyside.org/2025/12/02/covered-california-health-insurance-premiums-increasing"/>
+        <updated>2025-12-02T21:48:48.000Z</updated>
+        <summary type="html"><![CDATA[More than 74,000 Alameda County residents on Covered California plans could see health insurance premiums increase if the federal government doesn’t extend tax credits.]]></summary>
+        <author>
+            <name>Sejal Parekh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At the East Bay’s best wine bar, the bathroom wins as much praise as the French vibes and vintages]]></title>
+        <id>https://www.berkeleyside.org/?p=548380</id>
+        <link href="https://www.berkeleyside.org/2025/12/02/nosh-awards-best-wine-bar-la-loulou"/>
+        <updated>2025-12-02T21:34:01.000Z</updated>
+        <summary type="html"><![CDATA[A newcomer on the scene, La Loulou crushed the competition and elicited effusive praise from Nosh voters.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant Supercompute: Launching Wolfram Compute Services]]></title>
+        <id>https://writings.stephenwolfram.com/?p=71678</id>
+        <link href="https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/"/>
+        <updated>2025-12-02T19:23:40.000Z</updated>
+        <summary type="html"><![CDATA[To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment["WolframBatch"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And now you want to scale it up. Maybe 1000x or more. Well, today we’ve released an extremely streamlined […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Denmark’s Hardline Immigration Experiment]]></title>
         <id>https://www.noemamag.com/inside-denmarks-hardline-immigration-experiment</id>
