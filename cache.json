@@ -4870,26 +4870,6 @@
           "wordCount": 6791,
           "title": "The Wire: Printmaker David David Lance Goines’ archive finds local home; People’s Park project named",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250904-215918.webp?fit=1500%2C1000&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=542962",
-          "author": "Cecilia Seiter",
-          "description": "The mother-daughter owned restaurant first opened on Solano Avenue in 2006.",
-          "link": "https://www.berkeleyside.org/2025/09/04/vanessas-bistro-closing-solano-avenue",
-          "publishedOn": "2025-09-04T20:00:00.000Z",
-          "wordCount": 6747,
-          "title": "After nearly 20 years in business, Vanessa’s Bistro to close at the end of the year",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/VB-Saigon-salad.jpg?fit=720%2C619&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=531329",
-          "author": "Berkeleyside Staff",
-          "description": "City and university police have investigated nine instances of gunfire this year, one with injuries. It’s about half as many as from this time in 2024.",
-          "link": "https://www.berkeleyside.org/2025/09/04/2025-berkeley-gunfire-map",
-          "publishedOn": "2025-09-04T19:20:00.000Z",
-          "wordCount": 7263,
-          "title": "2025 Berkeley gunfire map: No injuries in Sept. 4 shooting",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Image-9-4-25-at-12.07-PM.jpg"
         }
       ]
     },
@@ -5474,6 +5454,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BoQctt3WEy8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BoQctt3WEy8",
+          "publishedOn": "2025-12-03T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Brandi Carlile: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PNmcF6eRE7w",
           "author": null,
@@ -6261,6 +6251,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/2025s-geminids-best-meteor-shower/",
+          "author": "Ethan Siegel",
+          "description": "Like clockwork, there are a series of celestial events and sights that reappear at the same time with each passing year. The Earth, revolving around the Sun in its orbit, not only sees the night sky’s constellations and deep-sky objects change along with its relative position to the Sun, but also encounters barely visible debris streams from volatile orbiting bodies — comets and asteroids — at predictable intervals throughout the year. The asteroids and comets orbit the Sun, heating up when they draw near, causing them to outgas, break apart, and emit particles. Those particles get stretched into the shape of the invisible ellipse that traces out their orbits, and when Earth passes through those ellipses, we get the same meteor showers year after year.\nJanuary’s Quadrantids, April’s Lyrids…",
+          "link": "https://bigthink.com/starts-with-a-bang/2025s-geminids-best-meteor-shower/",
+          "publishedOn": "2025-12-03T07:00:00.000Z",
+          "wordCount": 4111,
+          "title": "2025’s Geminids will be the best meteor shower of the year",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/12/geminid2.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-well/could-we-speak-with-whales/",
           "author": "David Gruber",
