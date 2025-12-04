@@ -4850,16 +4850,6 @@
           "wordCount": 7846,
           "title": "No, new Berkeley apartment buildings aren’t plagued by vacancies, data show",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Berkeley-AbandonedBuildings_Natera_250816_010.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543042",
-          "author": "Lisa Hoffman, Abigail Esquivias, Mirna Cervantes, Zoe Polk and Rachel Kafele",
-          "description": "Contracting with Flock is incredibly risky for the safety and security of Berkeley’s residents and completely goes against its commitments as a sanctuary city.",
-          "link": "https://www.berkeleyside.org/2025/09/05/opinion-flock-berkeley-surveillance-cam-data-trump-and-ice",
-          "publishedOn": "2025-09-05T19:31:57.000Z",
-          "wordCount": 7143,
-          "title": "Opinion: Flock can’t be trusted not to share Berkeley’s surveillance camera data with Trump and ICE",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
         }
       ]
     },
@@ -4901,6 +4891,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/myspace-2003/",
+          "author": null,
+          "description": "MySpace in September 2003, the month after its launch.\nThe term “digital native” was coined in 2001 by writer and teacher Marc Prensky, who wrote that “our students today are all 'native speakers' of the digital language of computers, video games and the Internet.” The rest of us are “digital immigrants,” which Prensky (who was in his mid-50s) defined as “not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology.”\nAlthough digital immigrants have learned to adapt to the new environment, according to Prensky “they always retain, to some degree, their 'accent,' that is, their foot in the past.” He gives the example of “turning to the Internet for information second rather than first.” On the other h…",
+          "link": "https://cybercultural.com/p/myspace-2003/",
+          "publishedOn": "2025-12-04T00:00:00.000Z",
+          "wordCount": 1723,
+          "title": "2003: MySpace vs. Friendster in a Battle for Digital Natives",
+          "imageUrl": "https://cybercultural.com/assets/images/myspace-sep2003-1280x720.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/internet-2002/",
           "author": null,
@@ -6208,36 +6208,6 @@
           "wordCount": null,
           "title": "Michael Mayo: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x5IagXAUnIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x5IagXAUnIU",
-          "publishedOn": "2025-09-05T19:25:19.000Z",
-          "wordCount": null,
-          "title": "AMERICANAFEST Day Stage 2025: Friday, Sept. 12",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TqLdjhBITeU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TqLdjhBITeU",
-          "publishedOn": "2025-09-05T19:21:27.000Z",
-          "wordCount": null,
-          "title": "AMERICANAFEST Day Stage 2025: Thursday, Sept. 11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jQmLeZ-vymA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jQmLeZ-vymA",
-          "publishedOn": "2025-09-05T19:14:53.000Z",
-          "wordCount": null,
-          "title": "AMERICANAFEST Day Stage 2025: Wednesday, Sept. 10",
-          "imageUrl": null
         }
       ]
     },
@@ -6246,6 +6216,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/new-discovery-imaging-alien-earth/",
+          "author": "Ethan Siegel",
+          "description": "For as long as humanity has been looking up at the heavens, we’ve been pondering some of the biggest questions of all. It’s only over the past few hundred years that science has caught up to our vast imaginations, and has begun answering those questions for the first time in our civilization’s history. We know what the stars are: they’re much like our own Sun, except very far away. We know that the majority of them have planets, and that some of those planets are Earth-sized. We know that those worlds are composed of very similar ingredients to our own Solar System’s planets, and that they are governed by the same underlying laws of nature.\nBut are any of those worlds actually inhabited?\nHere, as the end of 2025 approaches, that’s still a great cosmic unknown. We don’t yet know whether we’…",
+          "link": "https://bigthink.com/starts-with-a-bang/new-discovery-imaging-alien-earth/",
+          "publishedOn": "2025-12-04T07:00:00.000Z",
+          "wordCount": 4696,
+          "title": "New discovery sets humanity up to image “alien Earth”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/HWO_EAC_Mirrors_Update_V001.00300_print.jpg?w=1024&h=576&crop=1"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/how-to-get-your-ethically-sourced-pleasure/",
           "author": "Jonny Thomson",
