@@ -5530,6 +5530,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jjuorGiEUS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jjuorGiEUS4",
+          "publishedOn": "2025-12-05T10:01:23.000Z",
+          "wordCount": null,
+          "title": "Air: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/pze_N_rsSTo",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6296,6 +6306,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/observe-proton-decay/",
+          "author": "Ethan Siegel",
+          "description": "The Universe is filled with “stuff,” no matter where or when we dare to look. Even though the majority of the Universe is dark in the sense that we haven’t figured out how to directly detect it — with 95% of the cosmic energy density comprised of dark energy and dark matter — the 5% that comes in different forms of matter and radiation is profoundly significant. It makes up us, the planets, stars, and galaxies, as well as starlight, the plasmas and neutral gas clouds found within and beyond galaxies, and everything else we can observe. Of that 5%, in terms of mass, more than three-quarters of it is in the form of protons: the simplest and lowest-mass baryon, or particle made of three quarks, in all the Universe.\nAs far as we’ve been able to determine, the proton is stable. Experimentally, …",
+          "link": "https://bigthink.com/starts-with-a-bang/observe-proton-decay/",
+          "publishedOn": "2025-12-05T07:00:00.000Z",
+          "wordCount": 4720,
+          "title": "Ask Ethan: Can we ever observe a proton decaying?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/14-rules-to-dance-with-the-systems-of-business-and-life/",
           "author": "Eric Markowitz",

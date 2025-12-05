@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-05T06:07:06.630Z</updated>
+    <updated>2025-12-05T12:08:37.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Air: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=jjuorGiEUS4</id>
+        <link href="https://www.youtube.com/watch?v=jjuorGiEUS4"/>
+        <updated>2025-12-05T10:01:23.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Can we ever observe a proton decaying?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/observe-proton-decay/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/observe-proton-decay/"/>
+        <updated>2025-12-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Universe is filled with “stuff,” no matter where or when we dare to look. Even though the majority of the Universe is dark in the sense that we haven’t figured out how to directly detect it — with 95% of the cosmic energy density comprised of dark energy and dark matter — the 5% that comes in different forms of matter and radiation is profoundly significant. It makes up us, the planets, stars, and galaxies, as well as starlight, the plasmas and neutral gas clouds found within and beyond galaxies, and everything else we can observe. Of that 5%, in terms of mass, more than three-quarters of it is in the form of protons: the simplest and lowest-mass baryon, or particle made of three quarks, in all the Universe.
+As far as we’ve been able to determine, the proton is stable. Experimentally, …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiny Objects: SEVENTEEN]]></title>
         <id>https://www.youtube.com/shorts/pze_N_rsSTo</id>
