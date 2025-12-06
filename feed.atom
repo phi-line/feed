@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-05T18:05:54.765Z</updated>
+    <updated>2025-12-06T00:19:07.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The East Bay’s best breakfast is served at this decade-old diner]]></title>
+        <id>https://www.berkeleyside.org/?p=548724</id>
+        <link href="https://www.berkeleyside.org/2025/12/05/nosh-awards-best-breakfast-sequoia-diner"/>
+        <updated>2025-12-05T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Breakfast classic and creative]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juneteenth Festival can stay put as city reviews fire code rules]]></title>
+        <id>https://www.berkeleyside.org/?p=548717</id>
+        <link href="https://www.berkeleyside.org/2025/12/05/berkeley-juneteenth-festival-fire-code"/>
+        <updated>2025-12-05T21:40:09.000Z</updated>
+        <summary type="html"><![CDATA[City Council members plan to study elements of the fire code that critics say could shut down popular Berkeley street festivals.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ban on vegetation near some Berkeley Hills homes starts Jan. 1. Here’s what to know]]></title>
+        <id>https://www.berkeleyside.org/?p=548695</id>
+        <link href="https://www.berkeleyside.org/2025/12/05/berkeley-zone-zero-final-rules"/>
+        <updated>2025-12-05T20:55:26.000Z</updated>
+        <summary type="html"><![CDATA[The new wildfire safety rules, banning nearly everything combustible within 5 feet of buildings, or "Zone Zero," go into effect for 1,400 homes in the hills.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Governing Ecosystem Is Evolving]]></title>
         <id>https://www.noemamag.com/a-new-governing-ecosystem-is-evolving</id>
