@@ -931,6 +931,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3177/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3177/",
+          "publishedOn": "2025-12-05T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Chessboard Alignment",
+          "imageUrl": "https://imgs.xkcd.com/comics/chessboard_alignment_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3176/",
           "author": null,
           "description": "",
@@ -1721,6 +1731,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548738",
+          "author": "Berkeley firefighters",
+          "description": "Dependable and hard-working, Captain Hall took great pride in mentoring new recruits, offering guidance with patience and humor.",
+          "link": "https://www.berkeleyside.org/2025/12/05/scott-william-hall-obituary",
+          "publishedOn": "2025-12-06T00:39:43.000Z",
+          "wordCount": 7234,
+          "title": "Remembering Scott William Hall, Berkeley firefighter for 34 years",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Scott-William-Hall.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548723",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/12/05/standard-fare-kien-svay-the-lodge-closing",
+          "publishedOn": "2025-12-06T00:00:00.000Z",
+          "wordCount": 7379,
+          "title": "Standard Fare sets December date of departure, Kien Svay Cafe shuttering, and more East Bay closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/12/Standard-Fare-Kelsie.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548724",
           "author": "Tovin Lapan",
@@ -5265,6 +5295,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2025/dec/06/christmas-cookies-recipe-meera-sodha-zimtsterne",
+          "author": "Meera Sodha",
+          "description": "When you try these festive, chewy German almond biscuits, you’ll see why people have kept making and gifting them at Christmas for more than 500 years\nThe thing I love most about these chewy, crisp, star-shaped, cinnamon-and-almond Christmas biscuits from Germany is that they date back to the 1500s. Which, much like spotting Mars in the night sky or visiting the pyramids of Egypt, makes me feel hugely insignificant in the grand scheme of things, but simultaneously awe-inspired by the power of a simple biscuit to provide joy and underpin celebrations across centuries. This particular recipe belongs to my friend Friede’s grandma, Hadmuth, and is worth continuing, I think, for at least another 500 years.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2025/dec/06/christmas-cookies-recipe-meera-sodha-zimtsterne",
+          "publishedOn": "2025-12-06T06:00:46.000Z",
+          "wordCount": 4713,
+          "title": "Meera Sodha’s recipe for Friede’s grandma’s zimtsterne | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/a6210e35f27da5eaafaade4c43a4c4937088476a/53_1788_5200_4158/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd318fc2ffd9a776d55d26353dc77e3c"
+        },
         {
           "id": "https://www.theguardian.com/food/2025/nov/29/christmas-spiced-aubergine-timbale-cream-cheese-fruit-nuts-recipes-meera-sodha",
           "author": "Meera Sodha",
