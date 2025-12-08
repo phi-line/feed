@@ -4920,36 +4920,6 @@
           "wordCount": 7733,
           "title": "Remembering Richard Brenneman, muckraking Berkeley Daily Planet reporter",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/v2-crop-Richard-Brenneman-by-Don-R.-Douglas-BWc-crop-1.jpeg?fit=1756%2C988&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=461026",
-          "author": "Jose Fermoso",
-          "description": "Gov. Newsom may not deliver on a $750 million bridge loan. That could mean steep service cuts until legislators and voters can push through a new sales tax to fund transit next year.",
-          "link": "https://www.berkeleyside.org/2025/09/09/bridge-loan-newsom-bart-actransit-state-funding-for-bay-area-transit-2",
-          "publishedOn": "2025-09-09T23:11:10.000Z",
-          "wordCount": 7164,
-          "title": "State funding for Bay Area transit is on the rocks",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25135021121711-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543234",
-          "author": "Alex N. Gecan",
-          "description": "The vendor, Flock Safety, is under scrutiny nationwide over reports its data may have gone to federal agencies, including ICE. Local advocates are asking the city not to buy a new camera network from Flock Tuesday night.",
-          "link": "https://www.berkeleyside.org/2025/09/09/berkeley-flock-safety-fixed-surveillance-cameras-immigration-reproductive-health",
-          "publishedOn": "2025-09-09T21:10:00.000Z",
-          "wordCount": 7752,
-          "title": "Berkeley police’s surveillance camera system faces mounting opposition",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/07/IMG-1008-e1684972303524.jpg?fit=894%2C567&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=531329",
-          "author": "Berkeleyside Staff",
-          "description": "City and university police have investigated 10 instances of gunfire this year, one with injuries. It’s about half as many as from this time in 2024.",
-          "link": "https://www.berkeleyside.org/2025/09/09/2025-berkeley-gunfire-map",
-          "publishedOn": "2025-09-09T20:35:00.000Z",
-          "wordCount": 7363,
-          "title": "2025 Berkeley gunfire map: No injuries in Monday shooting near Malcolm X Elementary",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/Image-9-4-25-at-12.07-PM.jpg"
         }
       ]
     },
@@ -5197,16 +5167,6 @@
           "wordCount": 6320,
           "title": "opera cake",
           "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/10/opera-cake-13-scaled.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://smittenkitchen.com/?p=90661",
-          "author": "deb",
-          "description": "Read more »",
-          "link": "https://smittenkitchen.com/2025/09/cabbage-and-halloumi-skewers/",
-          "publishedOn": "2025-09-09T19:54:57.000Z",
-          "wordCount": 4983,
-          "title": "cabbage and halloumi skewers",
-          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/09/cabbage-and-halloumi-skewers-6-scaled.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -5549,6 +5509,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mq-AtefGO9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mq-AtefGO9M",
+          "publishedOn": "2025-12-08T10:01:26.000Z",
+          "wordCount": null,
+          "title": "Annie DiRusso: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jjuorGiEUS4",
           "author": null,
@@ -6306,6 +6276,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/lhc-best-2025-discovery-new-physics/",
+          "author": "Ethan Siegel",
+          "description": "The immensity of the Universe fills us with wonder.\n\nArtist’s logarithmic scale conception of the observable universe. The Solar System gives way to the Milky Way, which gives way to nearby galaxies which then give way to the large-scale structure and the hot, dense plasma of the Big Bang at the outskirts. Each line-of-sight that we can observe contains all of these epochs, but the quest for the most distant observed object will not be complete until we’ve mapped out the entire Universe.\n\nCredit: Pablo Carlos Budassi; Unmismoobjetivo/Wikimedia Commons\n\n\nDespite all we’ve learned, however, unsolved puzzles abound.\n\nThe early Universe was full of matter and radiation, and was so hot and dense that it prevented all composite particles, like protons and neutrons from stably forming for the fir…",
+          "link": "https://bigthink.com/starts-with-a-bang/lhc-best-2025-discovery-new-physics/",
+          "publishedOn": "2025-12-08T07:00:00.000Z",
+          "wordCount": 2880,
+          "title": "The LHC’s best 2025 discovery points the way to new physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/BHm4KBeCLPwqtKP6o6ozm5-e1765046814432.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/blaise-aguera-y-arcas/",
           "author": "Tim Brinkhof",
