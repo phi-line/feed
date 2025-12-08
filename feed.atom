@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-07T18:06:19.793Z</updated>
+    <updated>2025-12-08T00:21:03.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -2324,6 +2324,16 @@ Even though Newton introduced G in the late 1600s, it wasn’t until 1798 that w
         <summary type="html"><![CDATA[Also: A new study shows a major earthquake could nearly wipe out the county's hospital beds. And a Berkley man has been charged with attempted murder after stabbing his father.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading Lolita in the Barracks]]></title>
+        <id>https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks</id>
+        <link href="https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks"/>
+        <updated>2025-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What does it take to turn South Korea's mandatory military service into a literary retreat?]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
