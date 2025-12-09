@@ -1355,6 +1355,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-politics-of-superintelligence",
+          "author": "James O'Sullivan",
+          "description": "The post The Politics Of Superintelligence appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-politics-of-superintelligence",
+          "publishedOn": "2025-12-09T16:38:08.000Z",
+          "wordCount": 12691,
+          "title": "The Politics Of Superintelligence",
+          "imageUrl": "https://noemamag.imgix.net/2025/12/The-Politics-of-AI-Superintelligence-STILL-02.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ce6df5aa094f98590321e912a7342d86"
+        },
+        {
           "id": "https://www.noemamag.com/a-new-governing-ecosystem-is-evolving",
           "author": "Nathan Gardels",
           "description": "The post A New Governing Ecosystem Is Evolving appeared first on NOEMA.",
@@ -1711,6 +1721,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548266",
+          "author": "Local sponsor",
+          "description": "Berkeley's OK means this customizable home — from a local company — can be built quickly and more easily.",
+          "link": "https://www.berkeleyside.org/2025/12/09/this-backyard-adu-from-type-five-is-pre-approved-by-the-city",
+          "publishedOn": "2025-12-09T16:30:00.000Z",
+          "wordCount": 7540,
+          "title": "This backyard ADU from Type Five is pre-approved by the city",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Type-Five-ext.-2.jpg?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=502588",
+          "author": "Iris Kwok",
+          "description": "From farmers markets to trivia nights, we put together a roundup of events and activities held regularly in Berkeley.",
+          "link": "https://www.berkeleyside.org/2025/12/09/things-to-do-berkeley",
+          "publishedOn": "2025-12-09T16:28:34.000Z",
+          "wordCount": 11151,
+          "title": "Affordable things to do in Berkeley any day of the week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/large-Kites-on-Cesar-Chavez-Park.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548818",
           "author": "Berkeleyside Staff",
@@ -4952,6 +4982,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/bowienet-v3-flash-2003/",
+          "author": null,
+          "description": "BowieNet version 3. Screenshot circa September 2003, via Web Design Museum.\nAt the end of July 2003, in the lead-up to the release of David Bowie's latest album, Reality, BowieNet teased members with a promotional splash page and a new feature called the “Reality Jukebox.” The latter turned out to be a Flash page featuring multimedia promotions for the new album:\n“Firstly there are 90-second snippets of The Loneliest Guy and Looking for Water from Reality in the AUDIO section, (60-second snippets for non-members) and then there is a great new EPK (Electronic Press Kit) for Reality (Members Only) in the VIDEO section...”\nThere was a prominent “click to order now” link on this page, which had a pink theme and used some of the imagery from the album. In addition, users were invited to become …",
+          "link": "https://cybercultural.com/p/bowienet-v3-flash-2003/",
+          "publishedOn": "2025-12-09T00:00:00.000Z",
+          "wordCount": 1871,
+          "title": "2003: BowieNet 3 Launch and the Peak of Flash Web Design",
+          "imageUrl": "https://cybercultural.com/assets/images/david-bowie-2003-feature.png"
+        },
+        {
           "id": "https://cybercultural.com/p/myspace-2003/",
           "author": null,
           "description": "MySpace in September 2003, the month after its launch.\nThe term “digital native” was coined in 2001 by writer and teacher Marc Prensky, who wrote that “our students today are all 'native speakers' of the digital language of computers, video games and the Internet.” The rest of us are “digital immigrants,” which Prensky (who was in his mid-50s) defined as “not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology.”\nAlthough digital immigrants have learned to adapt to the new environment, according to Prensky “they always retain, to some degree, their 'accent,' that is, their foot in the past.” He gives the example of “turning to the Internet for information second rather than first.” On the other h…",
@@ -6256,6 +6296,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/rewiring-democracy/",
+          "author": "Kevin Dickinson",
+          "description": "You’d be forgiven for thinking AI represents a classic Faustian bargain, as every reported blessing seems tied to a sinister curse.\nAI will help us navigate the immense amounts of information and data created every day in the modern world, but it will also make it easier for bad actors to swamp the infosphere with disinformation. AI can enable real-time translations to spread ideas seamlessly across language barriers, but it may also make the marketplace of ideas less pluralistic by concentrating power in a few individuals. AI will make all of our jobs easier or straight-up replace us.\nIf everything goes well, AI will usher in a techno-utopia of unprecedented wealth, leisure, and productivity — and the monkey paw curls.\nBut this framing doesn’t match reality. In a recent interview, Bruce S…",
+          "link": "https://bigthink.com/books/rewiring-democracy/",
+          "publishedOn": "2025-12-09T15:30:00.000Z",
+          "wordCount": 3793,
+          "title": "AI is a power amplifier. The future depends on who turns the dials.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/AI-Dials.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-long-game/how-slime-and-dumb-rocks-can-help-us-better-define-smart/",
+          "author": "Eric Markowitz",
+          "description": "One day in 1995, Toshiyuki Nakagaki had an idea.\nNakagaki, a soft-spoken Japanese biologist, studies primordial mold and other amoeboid organisms. These creatures, which have been on Earth for nearly a billion years, have no brain, no central nervous system, nor anything resembling what modern humans might consider essential to “intelligence.”\nAnd yet, through years of careful observation, Nakagaki became convinced mold was, indeed, intelligent. Extremely intelligent. It could solve problems, navigate complexity, and even make decisions. It acted, bizarrely, as if it possessed a kind of mind, even though it clearly didn’t have one.\nIn the 1990s, this idea bordered on scientific heresy. Most of Nakagaki’s colleagues were riding the wave of computational neuroscience: brains as biological ma…",
+          "link": "https://bigthink.com/the-long-game/how-slime-and-dumb-rocks-can-help-us-better-define-smart/",
+          "publishedOn": "2025-12-09T14:00:00.000Z",
+          "wordCount": 3689,
+          "title": "How slime and dumb rocks can help us better define “smart”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/slime-and-rocks-smart_compressed.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/10-scientific-truths-unpopular-2025/",
           "author": "Ethan Siegel",
@@ -8845,16 +8905,6 @@
           "wordCount": 6453,
           "title": "Inside the mind of a white-collar criminal",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A1-Web-KRP.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/10-facts-big-bang/",
-          "author": "Ethan Siegel",
-          "description": "If you ask a scientist where the Universe got its start, “the Big Bang” is the answer you’re most likely to get, as for over 60 years now, the scientific evidence that’s come in favoring that theory has overwhelmed all alternatives. Our Universe may be full of stars, galaxies, and a cosmic web of large-scale structure, all separated by the vastness of empty space between them, but it wasn’t born that way. It’s a profound realization that our cosmos hasn’t existed in its current form forever. Instead, the Universe came to be this way because it expanded and cooled from a hot, dense, uniform, matter-and-radiation-filled state with no galaxies, stars, or even simple atoms present at the outset.\nEverything, as it exists in its current form, wasn’t the way it is today back some 13.8 billion yea…",
-          "link": "https://bigthink.com/starts-with-a-bang/10-facts-big-bang/",
-          "publishedOn": "2025-09-11T06:00:00.000Z",
-          "wordCount": 3925,
-          "title": "10 incredible facts about the Big Bang Theory",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2018_12_09-Abell-370-BUFFALO-detect-faintest-e1757525966200.png?w=878&h=495&crop=1"
         }
       ]
     },
@@ -8863,6 +8913,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=71973",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Peppermint Chocolate Cookies will add a little holiday magic to your day, along with some decadence! With a chewy peppermint chocolate base, melty chocolate chips and chocolate chunks, and crushed candy canes, these are the perfect addition to your Christmas cookie collection. Do you have a Christmas cookie collection too? I have to admit, I’ve […]",
+          "link": "https://jessicainthekitchen.com/peppermint-chocolate-cookies/",
+          "publishedOn": "2025-12-09T15:00:00.000Z",
+          "wordCount": 5776,
+          "title": "Chewy Peppermint Chocolate Cookies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/11/Vegan-Chocolate-Peppermint-Cookies0540.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=71652",
           "author": "Jessica from Jessica in the Kitchen",
