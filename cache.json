@@ -4930,36 +4930,6 @@
           "wordCount": 6962,
           "title": "The Wire: UC Berkeley police hide radio broadcasts from public; $325M to improve water quality with ultraviolet light",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP17038674274743.jpg?fit=1024%2C565&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543375",
-          "author": "Brian Krans",
-          "description": "Because California is following the guidance of leading medical groups, it’s likely insurance companies will cover the shots.",
-          "link": "https://www.berkeleyside.org/2025/09/11/in-break-with-rfks-cdc-california-cosigns-covid-vaccine-guidelines-from-medical-groups",
-          "publishedOn": "2025-09-11T23:57:08.000Z",
-          "wordCount": 7920,
-          "title": "In break with RFK’s CDC, California cosigns COVID vaccine guidelines from medical groups",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP21351630487406.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543397",
-          "author": "Alex N. Gecan",
-          "description": "The man’s identity and cause of death were not immediately available.",
-          "link": "https://www.berkeleyside.org/2025/09/11/dead-man-found-floating-at-berkeley-marina-thursday",
-          "publishedOn": "2025-09-11T21:39:37.000Z",
-          "wordCount": 6877,
-          "title": "Dead man found floating at Berkeley Marina Thursday",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/12/J-Dock-vacant-berths-e1546281564223.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543386",
-          "author": "Madeline Taub",
-          "description": "Oakland resident Ryan Dowdy came up with the idea for READYBAR while working on food systems for the International Space Station.",
-          "link": "https://www.berkeleyside.org/2025/09/11/readybar-nasa-first-responders-emergency-meal",
-          "publishedOn": "2025-09-11T20:24:13.000Z",
-          "wordCount": 8252,
-          "title": "A NASA food scientist tackled a 75-year-old problem. Now, his idea fuels first responders",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Ryan-Dowdy-Headshot-scaled-1.jpg"
         }
       ]
     },
@@ -5559,6 +5529,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WgqaxMOKfnI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WgqaxMOKfnI",
+          "publishedOn": "2025-12-10T10:01:03.000Z",
+          "wordCount": null,
+          "title": "Billy Strings: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mq-AtefGO9M",
           "author": null,
@@ -6306,6 +6286,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/gravitational-lensing-solve-hubble-tension/",
+          "author": "Ethan Siegel",
+          "description": "When it comes to the question of the expanding Universe, all observations agree that yes, the Universe is indeed expanding, in agreement with Edwin Hubble’s earliest observations dating all the way back to the 1920s. However, the question of “how fast” the Universe is expanding is one that’s long been controversial, and remains so even today. In fact, there are two main classes of measurement one can make to determine the cosmic expansion rate, and they yield different, incompatible values.\nYou can start with a primordial signature imprinted early on in the hot Big Bang, like the acoustic scale, and evolve it forward in time to explain what you observe today. This “early relic” method yields values for today’s expansion rate of 67 km/s/Mpc.\nOr you can start in the here-and-now and look bac…",
+          "link": "https://bigthink.com/starts-with-a-bang/gravitational-lensing-solve-hubble-tension/",
+          "publishedOn": "2025-12-10T07:00:00.000Z",
+          "wordCount": 4428,
+          "title": "Gravitational lensing is amazing, but won’t solve the Hubble tension",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/lensedQ.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/rewiring-democracy/",
           "author": "Kevin Dickinson",
