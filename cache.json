@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157187",
+          "author": "Peter Hall",
+          "description": "Large language models such as ChatGPT come with filters to keep certain info from getting out. A new mathematical argument shows that systems like this can never be completely safe.             \nThe post Cryptographers Show That AI Protections Will Always Have Holes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/",
+          "publishedOn": "2025-12-10T15:31:15.000Z",
+          "wordCount": 2937,
+          "title": "Cryptographers Show That AI Protections Will Always Have Holes",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/GPTJailbreak-crWei-AnJin-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157114",
           "author": "Paulina Rowińska",
           "description": "A newly proposed explanation for the slipperiness of ice has revived a centuries-long debate.            \nThe post Why Is Ice Slippery? A New Hypothesis Slides Into the Chat. first appeared on Quanta Magazine",
@@ -1309,16 +1319,6 @@
           "wordCount": 206,
           "title": "-Style Pizza",
           "imageUrl": "https://imgs.xkcd.com/comics/city_style_pizza_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3141/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3141/",
-          "publishedOn": "2025-09-12T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Mantle Model",
-          "imageUrl": "https://imgs.xkcd.com/comics/mantle_model_2x.png"
         }
       ]
     },
@@ -1721,6 +1721,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548869",
+          "author": "Gordon Wozniak, Linda Schacht and Loni Hancock",
+          "description": "Adventurous, sporty and family-oriented, she served on the Berkeley Waterfront Advisory Board, as an aide to Loni Hancock and on the state’s Boating and Waterways Commission.",
+          "link": "https://www.berkeleyside.org/2025/12/10/evie-wozniak-obituary",
+          "publishedOn": "2025-12-10T17:25:10.000Z",
+          "wordCount": 7661,
+          "title": "Remembering Evie Wozniak, active in Berkeley politics and an aide at City Hall",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Evie-Wozniak.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548925",
+          "author": "Cecilia Seiter",
+          "description": "The Alice Waters project that displaced César in July 2022, to the dismay of many, is ready to debut.",
+          "link": "https://www.berkeleyside.org/2025/12/10/bar-panisse-alice-waters-opening-cesar",
+          "publishedOn": "2025-12-10T17:00:00.000Z",
+          "wordCount": 7252,
+          "title": "Three years after sparking protests, Bar Panisse opens in Berkeley this week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BarPanisse-Exterior-Lapan.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548890",
+          "author": "Azul Dahlstrom-Eckman",
+          "description": "Next-generation Clipper, or Clipper 2.0, rolls out Tuesday with improved features like discounted transfers, instant fund availability and contactless credit or debit card payments.",
+          "link": "https://www.berkeleyside.org/2025/12/10/next-generation-clipper-ac-transit",
+          "publishedOn": "2025-12-10T14:00:00.000Z",
+          "wordCount": 8284,
+          "title": "Clipper cards get big upgrade, with cheaper transfers and AC Transit riders able to just tap their credit cards",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/20241204-BART-JY-027_qed.jpg?fit=1999%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548901",
           "author": "Felicia Mello",
@@ -4920,16 +4950,6 @@
           "wordCount": 7140,
           "title": "Wildcat Canyon Road in Tilden, closed by landslide 2 years ago, may reopen by December",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Wildcat-Canyon-Road.jpg?fit=1814%2C1357&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543383",
-          "author": "Berkeleyside Staff",
-          "description": "Also: The Bruns Amphitheater, former home of Cal Shakes, may be getting a new tenant.",
-          "link": "https://www.berkeleyside.org/2025/09/11/the-wire-uc-berkeley-police-hide-radio-broadcasts-from-public-325m-to-improve-water-quality-with-ultraviolet-light",
-          "publishedOn": "2025-09-12T00:15:00.000Z",
-          "wordCount": 6962,
-          "title": "The Wire: UC Berkeley police hide radio broadcasts from public; $325M to improve water quality with ultraviolet light",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP17038674274743.jpg?fit=1024%2C565&ssl=1"
         }
       ]
     },
@@ -6286,6 +6306,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/",
+          "author": "Anne-Laure Le Cunff",
+          "description": "A few years ago, during a particularly chaotic period at work, I started making my morning coffee the exact same way every day: same mug, same timing, same two minutes of silence while it brewed.\nIt wasn’t intentional; I was just too overwhelmed to think about it. But something interesting happened: Those two minutes became the calmest part of my day. Even when everything else felt out of control, I had this one predictable moment that somehow made the rest manageable.\nI had just experienced the power of rituals completely by accident, and it wasn’t until I left tech to study neuroscience that I understood why that simple coffee routine had been so effective.\nRituals are some of the most powerful technologies invented by humankind.\nMost people think of rituals as elaborate religious ceremo…",
+          "link": "https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/",
+          "publishedOn": "2025-12-10T15:30:00.000Z",
+          "wordCount": 1818,
+          "title": "Why your brain needs everyday rituals",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/brain-needs-everyday-rituals_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/perception-box/the-art-and-science-of-failing-well/",
+          "author": "Tim Harford, Tal Ben-Shahar, Robert Sutton",
+          "description": "Failure is inevitable, but your response to it is a choice – and it makes all the difference.\nJournalist Tim Harford, PhD, psychologist Tal Ben-Shahar, PhD, and organizational behavior expert Robert Sutton, PhD, reveal how failure can become the foundation of success when it’s examined and built upon. Reframing failure as information, rather than a personal setback, is what sets productive thinkers apart.\nThis video The art and science of failing well is featured on Big Think.",
+          "link": "https://bigthink.com/perception-box/the-art-and-science-of-failing-well/",
+          "publishedOn": "2025-12-10T14:00:00.000Z",
+          "wordCount": 2211,
+          "title": "The art and science of failing well",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/UC-BB-Failure-Thumb-A.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/gravitational-lensing-solve-hubble-tension/",
           "author": "Ethan Siegel",
