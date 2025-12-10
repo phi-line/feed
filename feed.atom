@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-09T18:05:49.950Z</updated>
+    <updated>2025-12-10T00:20:54.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Federal cuts are expected to carve a $100M hole in the Alameda Health System’s budget]]></title>
+        <id>https://oaklandside.org/?p=466239</id>
+        <link href="https://www.berkeleyside.org/2025/12/09/federal-cuts-alameda-health-systems-budget-highland-hospital-layoffs"/>
+        <updated>2025-12-09T22:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Trump’s “Big Beautiful Bill” is forcing an unprecedented $1 trillion cut to Medicaid spending. At the East Bay’s safety-net healthcare provider, staff cuts are in motion.]]></summary>
+        <author>
+            <name>Darwin BondGraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At East Bay’s best new bar, the community is as vibrant as the cocktails]]></title>
+        <id>https://www.berkeleyside.org/?p=548882</id>
+        <link href="https://www.berkeleyside.org/2025/12/09/nosh-awards-best-new-bar-13-orphans"/>
+        <updated>2025-12-09T20:12:04.000Z</updated>
+        <summary type="html"><![CDATA[When the owners of Baba's House expanded by opening a bar above their snack shop, they hit a sweet spot with an inventive, tea-based drink menu and warm, welcoming vibes.]]></summary>
+        <author>
+            <name>Tovin Lapan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Lellingby Boyce, educator, singer, storyteller]]></title>
+        <id>https://www.berkeleyside.org/?p=548291</id>
+        <link href="https://www.berkeleyside.org/2025/12/09/lellingby-boyce-obituary"/>
+        <updated>2025-12-09T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[She produced many programs highlighting African American history and culture through folk tales, dance, piano, and storytelling.]]></summary>
+        <author>
+            <name>Kimberly Humphrey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Politics Of Superintelligence]]></title>
         <id>https://www.noemamag.com/the-politics-of-superintelligence</id>
@@ -70,6 +100,16 @@ And yet, through years of careful observation, Nakagaki became convinced mold wa
 In the 1990s, this idea bordered on scientific heresy. Most of Nakagaki’s colleagues were riding the wave of computational neuroscience: brains as biological ma…]]></summary>
         <author>
             <name>Eric Markowitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Threads]]></title>
+        <id>https://pudding.cool/2025/12/motifs</id>
+        <link href="https://pudding.cool/2025/12/motifs"/>
+        <updated>2025-12-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing how musicals use motifs to tell stories.]]></summary>
+        <author>
+            <name>The Pudding</name>
         </author>
     </entry>
     <entry>

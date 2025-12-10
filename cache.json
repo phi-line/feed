@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2025/12/motifs",
+          "author": null,
+          "description": "Visualizing how musicals use motifs to tell stories.",
+          "link": "https://pudding.cool/2025/12/motifs",
+          "publishedOn": "2025-12-09T08:00:00.000Z",
+          "wordCount": 2829,
+          "title": "Common Threads",
+          "imageUrl": "https://pudding.cool/2025/12/motifs/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://pudding.cool/2025/11/democracy",
           "author": null,
           "description": "Every time someone said 'democracy' in Congress.",
@@ -1721,6 +1731,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=466239",
+          "author": "Darwin BondGraham",
+          "description": "Trump’s “Big Beautiful Bill” is forcing an unprecedented $1 trillion cut to Medicaid spending. At the East Bay’s safety-net healthcare provider, staff cuts are in motion.",
+          "link": "https://www.berkeleyside.org/2025/12/09/federal-cuts-alameda-health-systems-budget-highland-hospital-layoffs",
+          "publishedOn": "2025-12-09T22:53:33.000Z",
+          "wordCount": 7811,
+          "title": "Federal cuts are expected to carve a $100M hole in the Alameda Health System’s budget",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/03_26_20_highland_hospital-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548882",
+          "author": "Tovin Lapan",
+          "description": "When the owners of Baba's House expanded by opening a bar above their snack shop, they hit a sweet spot with an inventive, tea-based drink menu and warm, welcoming vibes.",
+          "link": "https://www.berkeleyside.org/2025/12/09/nosh-awards-best-new-bar-13-orphans",
+          "publishedOn": "2025-12-09T20:12:04.000Z",
+          "wordCount": 7808,
+          "title": "At East Bay’s best new bar, the community is as vibrant as the cocktails",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/13-Orphans-mahjong.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548291",
+          "author": "Kimberly Humphrey",
+          "description": "She produced many programs highlighting African American history and culture through folk tales, dance, piano, and storytelling.",
+          "link": "https://www.berkeleyside.org/2025/12/09/lellingby-boyce-obituary",
+          "publishedOn": "2025-12-09T19:54:00.000Z",
+          "wordCount": 7312,
+          "title": "Remembering Lellingby Boyce, educator, singer, storyteller",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Lellingby-Boyce.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548266",
           "author": "Local sponsor",
