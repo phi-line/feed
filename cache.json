@@ -1722,6 +1722,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=548961",
+          "author": "Alex N. Gecan",
+          "description": "Marcel Dupree Jones’ family say his roommate at Ursula Sherman Village, Mark Dowling, was openly racist and threatened to shoot his Black neighbors. Dowling is charged with murdering Jones.",
+          "link": "https://www.berkeleyside.org/2025/12/10/marcel-jones-family-sues-berkeley-boss-mark-dowling",
+          "publishedOn": "2025-12-10T23:47:27.000Z",
+          "wordCount": 7826,
+          "title": "Family of man killed in homeless shelter sues Berkeley, BOSS for failing to protect him",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Jones.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548955",
+          "author": "Tovin Lapan",
+          "description": "Garrett Morris and Renzo Roca opened Lucuma in Downtown Oakland with a mission to stand out from other Peruvian restaurants.",
+          "link": "https://www.berkeleyside.org/2025/12/10/nosh-awards-best-new-restaurant-lucuma",
+          "publishedOn": "2025-12-10T23:23:20.000Z",
+          "wordCount": 7797,
+          "title": "The East Bay’s best new restaurant wins over diners with dedication to the details",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-26_20250725_Lucuma_Middleton_0224.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=548869",
           "author": "Gordon Wozniak, Linda Schacht and Loni Hancock",
           "description": "Adventurous, sporty and family-oriented, she served on the Berkeley Waterfront Advisory Board, as an aide to Loni Hancock and on the state’s Boating and Waterways Commission.",
@@ -6306,6 +6326,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/collapse-of-truth/",
+          "author": "Yuval Noah Harari",
+          "description": "Human history is a paradox: we accumulate knowledge at astonishing speed, yet remain vulnerable to deception, superstition, and the stories that subtly steer entire civilizations.\nFrom the first clay tablets to today’s global media systems, the structures that carry our ideas have always shaped what societies can build, believe, and destroy. That paradox is even more important in the age of AI, says Yuval Noah Harari.\nThis video Yuval Noah Harari: Why advanced societies fall for mass delusion is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/collapse-of-truth/",
+          "publishedOn": "2025-12-10T22:06:20.000Z",
+          "wordCount": 7401,
+          "title": "Yuval Noah Harari: Why advanced societies fall for mass delusion",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/C1-Web-Harari.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/",
           "author": "Anne-Laure Le Cunff",
