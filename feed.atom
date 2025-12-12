@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-12T06:07:23.509Z</updated>
+    <updated>2025-12-12T12:08:36.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meat-free under the mistletoe – recipes]]></title>
+        <id>https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes</id>
+        <link href="https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes"/>
+        <updated>2025-12-12T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Not a fan of the traditional festive spread? These recipes are a Christmas feast that even turkeys would vote for
+ Continue reading...]]></summary>
+        <author>
+            <name>Ravinder Bhogal, Meera Sodha, Anna Jones, Georgina Hayden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How do LLMs/chatbots impact students and cheating?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/"/>
+        <updated>2025-12-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As artificial intelligence has become a mainstream and ubiquitous tool for hundreds of millions or even billions of people around the world — specifically, through chatbots and large language models (LLMs) like Claude, Gemini, ChatGPT, Llama, and many others — it’s both enabled new pathways for problem solving and also led to new pitfalls for students, early career professionals, and non-experts seeking to mimic the illusion of expertise. While many who create, sell, or promote LLMs laud their use cases, a significant worry has arisen among students, teachers, professors, and education researchers: that students are not using these artificial tools to enhance their learning, but rather to replace it, outsourcing the hard and rewarding work of critical thought to these LLMs simply by prompt…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UC Berkeley finds new developer to build affordable and supportive housing at People’s Park]]></title>
         <id>https://www.berkeleyside.org/?p=549068</id>

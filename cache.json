@@ -5216,6 +5216,16 @@
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
         {
+          "id": "https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes",
+          "author": "Ravinder Bhogal, Meera Sodha, Anna Jones, Georgina Hayden",
+          "description": "Not a fan of the traditional festive spread? These recipes are a Christmas feast that even turkeys would vote for\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes",
+          "publishedOn": "2025-12-12T12:00:04.000Z",
+          "wordCount": 4208,
+          "title": "Meat-free under the mistletoe – recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/9acd614add6bfd4186efb8354bd62bcd8ffda30c/630_0_4654_3723/master/4654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f05c2f9809c29316798bb6e81ec0db73"
+        },
+        {
           "id": "https://www.theguardian.com/food/2025/dec/06/christmas-cookies-recipe-meera-sodha-zimtsterne",
           "author": "Meera Sodha",
           "description": "When you try these festive, chewy German almond biscuits, you’ll see why people have kept making and gifting them at Christmas for more than 500 years\nThe thing I love most about these chewy, crisp, star-shaped, cinnamon-and-almond Christmas biscuits from Germany is that they date back to the 1500s. Which, much like spotting Mars in the night sky or visiting the pyramids of Egypt, makes me feel hugely insignificant in the grand scheme of things, but simultaneously awe-inspired by the power of a simple biscuit to provide joy and underpin celebrations across centuries. This particular recipe belongs to my friend Friede’s grandma, Hadmuth, and is worth continuing, I think, for at least another 500 years.\n Continue reading...",
@@ -6311,6 +6321,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/",
+          "author": "Ethan Siegel",
+          "description": "As artificial intelligence has become a mainstream and ubiquitous tool for hundreds of millions or even billions of people around the world — specifically, through chatbots and large language models (LLMs) like Claude, Gemini, ChatGPT, Llama, and many others — it’s both enabled new pathways for problem solving and also led to new pitfalls for students, early career professionals, and non-experts seeking to mimic the illusion of expertise. While many who create, sell, or promote LLMs laud their use cases, a significant worry has arisen among students, teachers, professors, and education researchers: that students are not using these artificial tools to enhance their learning, but rather to replace it, outsourcing the hard and rewarding work of critical thought to these LLMs simply by prompt…",
+          "link": "https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/",
+          "publishedOn": "2025-12-12T07:00:00.000Z",
+          "wordCount": 4539,
+          "title": "Ask Ethan: How do LLMs/chatbots impact students and cheating?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/hpc-dc.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/quantum-computing-michio-kaku/",
           "author": "Dr. Michio Kaku",
