@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-12T00:21:03.228Z</updated>
+    <updated>2025-12-12T06:07:23.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UC Berkeley finds new developer to build affordable and supportive housing at People’s Park]]></title>
+        <id>https://www.berkeleyside.org/?p=549068</id>
+        <link href="https://www.berkeleyside.org/2025/12/11/peoples-park-supportive-affordable-housing-satellite-affordable-housing-associates"/>
+        <updated>2025-12-12T01:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A previous developer backed out in 2023 amid the lengthy legal battle over the site. It’s unclear how many of the building’s 100 units will be supportive housing for formerly homeless people.]]></summary>
+        <author>
+            <name>Felicia Mello</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parents sue UC Berkeley fraternity in party drowning]]></title>
         <id>https://www.berkeleyside.org/?p=549058</id>
@@ -9723,16 +9733,6 @@ This figure shows an aerial view of the path of exploration undertaken by NASA�
         <summary type="html"><![CDATA[Counting every citizen is one of the most basic functions of the state. For much of the world, it remains extraordinarily difficult.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Berkeley gunfire map: 3 shootings so far in September]]></title>
-        <id>https://www.berkeleyside.org/?p=531329</id>
-        <link href="https://www.berkeleyside.org/2025/09/13/2025-berkeley-gunfire-map"/>
-        <updated>2025-09-13T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[City and university police have investigated 11 instances of gunfire this year, one with injuries. It’s about half as many as from this time in 2024.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
         </author>
     </entry>
     <entry>
