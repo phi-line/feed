@@ -1722,6 +1722,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=549058",
+          "author": "Alex N. Gecan",
+          "description": "The parents of 19-year-old Cal student George Mauricio Salinas, who died three days after he drowned in a pool during a party, accused Alpha Delta Phi of negligence in his death.",
+          "link": "https://www.berkeleyside.org/2025/12/11/uc-berkeley-alpha-delta-phi-wrongful-death-lawsuit",
+          "publishedOn": "2025-12-11T23:35:38.000Z",
+          "wordCount": 7544,
+          "title": "Parents sue UC Berkeley fraternity in party drowning",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2015/08/photo-21.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549048",
+          "author": "Tovin Lapan",
+          "description": "After winning the 2024 Nosh Award for best new bar, Tallboy, the Temescal \"martini dive bar,\" claims the overall award in 2025.",
+          "link": "https://www.berkeleyside.org/2025/12/11/nosh-awards-best-bar-east-bay-tallboy",
+          "publishedOn": "2025-12-11T22:00:00.000Z",
+          "wordCount": 7636,
+          "title": "The East Bay’s best bar: ‘Tinis and weenies’ take the title",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Tallboy-cheers.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549040",
+          "author": "Associated Press",
+          "description": "She's been invited to teach again on campus, and will receive $60,000 from UC Berkeley. Chancellor Rich Lyons has apologized.",
+          "link": "https://www.berkeleyside.org/2025/12/11/uc-berkeley-settles-with-israeli-dance-instructor-rejected-for-a-job-during-gaza-protests",
+          "publishedOn": "2025-12-11T19:35:41.000Z",
+          "wordCount": 7210,
+          "title": "UC Berkeley settles with Israeli dance instructor rejected for a job during Gaza protests",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-Natera_231025_CAL-Palestine-Walkout_02.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549007",
+          "author": "Alix Wall",
+          "description": "Henry Awayan, owner of Whisk Cake Creations and author of the new \"The Ube Baking Book,\" shares his ube whipped cream recipe and passion for cooking with the purple yam.",
+          "link": "https://www.berkeleyside.org/2025/12/11/ube-baking-book-henry-awayan-whisk-cake-creations",
+          "publishedOn": "2025-12-11T18:27:31.000Z",
+          "wordCount": 8300,
+          "title": "The ube king of Alameda bakes his claim to the throne",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Henry-Awayan-Author-Photo-The-Ube-Baking-Book.jpeg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=548948",
           "author": "Sarah Wright | KQED",
           "description": "Death cap mushrooms, Amanita phalloides, are thriving right now, and 21 people in California have been hospitalized after eating them this season.",
@@ -6271,6 +6311,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/quantum-computing-michio-kaku/",
+          "author": "Dr. Michio Kaku",
+          "description": "Quantum computing won’t just be an upgrade to the digital machines we use today – it represents a seismic shift in the entire logic that built the digital age. \nMichio Kaku explains why computing on atoms (rather than on transistors) could overturn assumptions that have shaped everything from global security to modern medicine.\nThis video Michio Kaku: How quantum computers compute in multiple universes at once is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/quantum-computing-michio-kaku/",
+          "publishedOn": "2025-12-11T20:28:15.000Z",
+          "wordCount": 2609,
+          "title": "Michio Kaku: How quantum computers compute in multiple universes at once",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/A1-Web-Kaku.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/plus/five-recommendations-that-will-reshape-leadership-development-in-2026/",
+          "author": "Lavinia Mehedintu",
+          "description": "When I look at the state of leadership development today, I believe that we are on the cusp of a revolution. After speaking with 158 L&D professionals across industries for our latest study, one thing became very clear: despite significant investment, most organizations don’t feel their leadership programs are delivering what leaders actually need. Many leaders are overwhelmed, anxious, and stretched thin. Only 40% of the practitioners we surveyed said they were even “somewhat happy” with their leadership development outcomes. That should be a wake-up call for all of us.\nIn this moment of uncertainty and rapid technological change, leadership development can no longer be a static set of workshops or a content repository. It has to be a living system that supports real humans, doing difficu…",
+          "link": "https://bigthink.com/plus/five-recommendations-that-will-reshape-leadership-development-in-2026/",
+          "publishedOn": "2025-12-11T18:50:03.000Z",
+          "wordCount": 1952,
+          "title": "Five recommendations that will reshape leadership development in 2026",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/reshape-LD-2026.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/robotaxis-urban-mobility/",
           "author": "Bern Grush , John Niles, Andrew Miller",
