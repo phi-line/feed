@@ -951,6 +951,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3180/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3180/",
+          "publishedOn": "2025-12-12T05:00:00.000Z",
+          "wordCount": 204,
+          "title": "Apples",
+          "imageUrl": "https://imgs.xkcd.com/comics/apples_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3179/",
           "author": null,
           "description": "",
@@ -1741,6 +1751,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=549126",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/12/12/guerilla-cafe-carbona-pizza-close",
+          "publishedOn": "2025-12-12T23:18:15.000Z",
+          "wordCount": 7048,
+          "title": "After 20 years of art and activism, Guerilla Cafe bids farewell to Berkeley; Carbona Pizza quietly closes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/GuerillaCafe-Closed-Ext-Lapan.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549109",
+          "author": "Tovin Lapan",
+          "description": "For the second year in a row, Bombera, Dominica Rice-Cisneros' Dimond District restaurant, takes home the Nosh Award for Best Restaurant Overall.",
+          "link": "https://www.berkeleyside.org/2025/12/12/nosh-awards-east-bay-best-restaurant-bombera",
+          "publishedOn": "2025-12-12T21:11:10.000Z",
+          "wordCount": 7637,
+          "title": "The best restaurant in the East Bay is a ‘neighborhood treasure’ that prompts inter-continental travel",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Bombera-Oakland.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549095",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A pedestrian was hospitalized after being struck by a driver in North Berkeley.",
+          "link": "https://www.berkeleyside.org/2025/12/12/berkeley-wire-kermit-lynch-expansion-uc-berkeley",
+          "publishedOn": "2025-12-12T21:05:00.000Z",
+          "wordCount": 6818,
+          "title": "The Wire: Wine merchant Kermit Lynch opens new location; Ph.D. student charged with sabotaging colleague’s work",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/10/kermit.lynch_.exterior-e1350415673808.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549098",
+          "author": "Peter Elkind, ProPublica, and Katherine Mangan, The Chronicle of Higher Education",
+          "description": "“We were told what the outcome will be: ‘You have one month to find evidence to justify a lawsuit and draft a complaint against the UC system,’” said a civil rights lawyer who left the Justice Department in May.",
+          "link": "https://www.berkeleyside.org/2025/12/12/trumps-doj-pressured-lawyers-to-find-evidence-that-ucla-and-uc-berkeley-had-illegally-tolerated-antisemitism",
+          "publishedOn": "2025-12-12T20:31:22.000Z",
+          "wordCount": 12272,
+          "title": "Trump’s DOJ pressured lawyers to ‘find’ evidence that UCLA and UC Berkeley had illegally tolerated antisemitism",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/AP24123095366624.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548489",
           "author": "Local sponsor",
@@ -6371,6 +6421,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/strange-maps/america-after-the-fall/",
+          "author": "Frank Jacobs",
+          "description": "The United States has ended, but America continues. The question is: How? That’s the shortest possible summary for an entire genre of U.S.-centered, post-apocalyptic fiction. Call it “America after the Fall.”\nIt’s a fertile genre, with plenty of maps to illustrate its dismal point. That point is not the future, but the present. Like other strands of sci-fi, post-apocalyptic fiction projects onto tomorrow the anxieties of today. And these maps of a catastrophic future are present-day America’s long, hard look in the mirror.\nA generous helping of moral turpitude\nDepending on the prevailing panic, the nature of the Fall typically varies between half a dozen usual suspects: nuclear war, alien invasion, a deadly pandemic, technological breakdown, climate collapse, civil war — each often infused…",
+          "link": "https://bigthink.com/strange-maps/america-after-the-fall/",
+          "publishedOn": "2025-12-12T18:24:51.000Z",
+          "wordCount": 3424,
+          "title": "America’s post-apocalyptic maps reveal eerily familiar fault lines",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Cropped-divided-states.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/",
           "author": "Ethan Siegel",
