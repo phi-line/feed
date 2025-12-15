@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157292",
+          "author": "Hannah Waters",
+          "description": "Take a jaunt through a jungle of strange neurons underlying your sense of touch, hundreds of millions of years of animal evolution and the dense neural networks of brains and AIs.            \nThe post The Year in Biology first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-year-in-biology-20251215/",
+          "publishedOn": "2025-12-15T15:45:05.000Z",
+          "wordCount": 2959,
+          "title": "The Year in Biology",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Biology-cr-Carlos-Arrojo-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157237",
           "author": "Joseph Howlett",
           "description": "Years ago, an audacious Fields medalist outlined a sweeping program that, he claimed, could be used to resolve a major problem in algebraic geometry. Other mathematicians had their doubts. Now he says he has a proof.            \nThe post String Theory Inspires a Brilliant, Baffling New Math Proof first appeared on Quanta Magazine",
@@ -1259,16 +1269,6 @@
           "wordCount": 206,
           "title": "Phase Changes",
           "imageUrl": "https://imgs.xkcd.com/comics/phase_changes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3143/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3143/",
-          "publishedOn": "2025-09-17T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Question Mark",
-          "imageUrl": "https://imgs.xkcd.com/comics/question_mark_2x.png"
         }
       ]
     },
@@ -1661,6 +1661,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548973",
+          "author": "Nathan Dalton",
+          "description": "Children’s Clubhouse, a new gym in South Berkeley, gives kids ages 6 months to 5 years a place to play away from home.",
+          "link": "https://www.berkeleyside.org/2025/12/15/shop-talk-childrens-clubhouse-lycan-jiu-jitsu-slow-living-supply-co",
+          "publishedOn": "2025-12-15T15:00:00.000Z",
+          "wordCount": 8241,
+          "title": "Shop Talk: Vintage shop opens in Thousand Oaks; new jiu-jitsu academy and play space for babies and toddlers",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-Childrens-Clubhouse-exterior.jpg?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549011",
+          "author": "Friends and family of Kay Trimberger",
+          "description": "A sociology professor focused on feminism and gender studies at Sonoma State University, Trimberger wrote books about imperialism, single women and her experience raising an adopted mixed-race son in Berkeley.",
+          "link": "https://www.berkeleyside.org/2025/12/15/obitiuary-kay-trimberger-professor-author-feminist-thinker",
+          "publishedOn": "2025-12-15T14:00:00.000Z",
+          "wordCount": 7517,
+          "title": "Remembering Kay Trimberger, professor, author, feminist, thinker",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Trimberger.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549126",
           "author": "Cecilia Seiter",
@@ -5481,21 +5501,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/what-s-the-deal-with-counterfeit-people/walker.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/hi-no-youjin",
-          "author": null,
-          "description": "On quaint devices for time-travel",
-          "link": "https://aethermug.com/posts/hi-no-youjin?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-09-17T05:23:40.000Z",
-          "wordCount": 2858,
-          "title": "Hi No Youjin",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/hi-no-youjin/jacob-gonzales-SnOmJ_lLWeQ-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/hi-no-youjin/jacob-gonzales-SnOmJ_lLWeQ-unsplash.jpg"
         }
       ]
     },
@@ -6261,6 +6266,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/how-to-harness-the-trojan-horse-of-presenting-skills/",
+          "author": "Dominic Colenso",
+          "description": "There are some people in life we feel compelled to listen to. There’s something about the way they deliver their message that draws us in. Interestingly, when we look deeper, the detail of what they say seems to be less important than their delivery and their ability to capture an idea in a simple way. \nThe world is full of influencers, politicians and celebrities that — when you scratch beneath the surface — have remarkably little to say but nevertheless have scores of people queuing up to hear them say it. Rather than get frustrated by this conundrum, we need to learn from it. In almost every line of work, whether we’re salespeople, managers or leaders, trying to influence our friends, our families or our boss, we want what those lucky few get: cut-through. \nThe Cambridge English Diction…",
+          "link": "https://bigthink.com/business/how-to-harness-the-trojan-horse-of-presenting-skills/",
+          "publishedOn": "2025-12-15T14:00:00.000Z",
+          "wordCount": 1989,
+          "title": "How to harness the Trojan Horse of presenting skills",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/cut-through_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/how-life-changes-when-you-embrace-mystery/",
+          "author": "David S. Goyer",
+          "description": "Filmmaker David S. Goyer—the screenwriter behind The Dark Knight, Blade, and Foundation—shares the strange and awe-filled moments that shaped his life, from growing up at the “edge of the ordinary” to uncanny experiences in Israel and Tibet that were too powerful to ignore. \nSpeaking at A Night of Awe and Wonder, hosted by Big Think and the John Templeton Foundation, he explains how these encounters became the foundation of his storytelling. Goyer shows how awe helps us pay attention, stay open, and see meaning in moments we might otherwise overlook.\nThis video How life changes when you start embracing mystery is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/how-life-changes-when-you-embrace-mystery/",
+          "publishedOn": "2025-12-15T14:00:00.000Z",
+          "wordCount": 4417,
+          "title": "How life changes when you start embracing mystery",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/A1-Web-Goyer.jpeg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/brightest-ever-lensed-supernova/",
           "author": "Ethan Siegel",
@@ -8850,16 +8875,6 @@
           "wordCount": 1776,
           "title": "Stress is inevitable, but suffering isn’t. 3 experts explain.",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/UC-Brain-Briefs-Stress-Web-A.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/",
-          "author": "Ethan Siegel",
-          "description": "It’s hard to believe, but it’s now been 10 full years since the twin Advanced LIGO detectors — in Hanford, WA and Livingston, LA — were completed and turned on for the first time. Just days after they began operations, they saw the first-ever directly detected gravitational wave: GW150914, which signified the merger of two black holes. From across the Universe, a black hole of 36 times the mass of the Sun merged with another of 29 times the Sun’s mass, producing a remnant black hole of just 62 solar masses, with the other 3 solar masses getting converted into gravitational radiation via Einstein’s E = mc².\nWhen those emitted waves arrived in each of the twin LIGO detectors, they changed the length of LIGO’s incredibly long, precise laser arms by less than the width of a single proton. Yet …",
-          "link": "https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/",
-          "publishedOn": "2025-09-17T06:00:00.000Z",
-          "wordCount": 4360,
-          "title": "LIGO’s 10th anniversary gift confirms Hawking’s theorem",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/10/ligo-livingston-aerial-02.jpg?resize=1200,630"
         }
       ]
     },

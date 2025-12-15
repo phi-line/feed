@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-15T12:08:56.122Z</updated>
+    <updated>2025-12-15T18:07:13.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Year in Biology]]></title>
+        <id>https://www.quantamagazine.org/?p=157292</id>
+        <link href="https://www.quantamagazine.org/the-year-in-biology-20251215/"/>
+        <updated>2025-12-15T15:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Take a jaunt through a jungle of strange neurons underlying your sense of touch, hundreds of millions of years of animal evolution and the dense neural networks of brains and AIs.            
+The post The Year in Biology first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Hannah Waters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shop Talk: Vintage shop opens in Thousand Oaks; new jiu-jitsu academy and play space for babies and toddlers]]></title>
+        <id>https://www.berkeleyside.org/?p=548973</id>
+        <link href="https://www.berkeleyside.org/2025/12/15/shop-talk-childrens-clubhouse-lycan-jiu-jitsu-slow-living-supply-co"/>
+        <updated>2025-12-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Children’s Clubhouse, a new gym in South Berkeley, gives kids ages 6 months to 5 years a place to play away from home.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Kay Trimberger, professor, author, feminist, thinker]]></title>
+        <id>https://www.berkeleyside.org/?p=549011</id>
+        <link href="https://www.berkeleyside.org/2025/12/15/obitiuary-kay-trimberger-professor-author-feminist-thinker"/>
+        <updated>2025-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A sociology professor focused on feminism and gender studies at Sonoma State University, Trimberger wrote books about imperialism, single women and her experience raising an adopted mixed-race son in Berkeley.]]></summary>
+        <author>
+            <name>Friends and family of Kay Trimberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to harness the Trojan Horse of presenting skills]]></title>
+        <id>https://bigthink.com/business/how-to-harness-the-trojan-horse-of-presenting-skills/</id>
+        <link href="https://bigthink.com/business/how-to-harness-the-trojan-horse-of-presenting-skills/"/>
+        <updated>2025-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are some people in life we feel compelled to listen to. There’s something about the way they deliver their message that draws us in. Interestingly, when we look deeper, the detail of what they say seems to be less important than their delivery and their ability to capture an idea in a simple way. 
+The world is full of influencers, politicians and celebrities that — when you scratch beneath the surface — have remarkably little to say but nevertheless have scores of people queuing up to hear them say it. Rather than get frustrated by this conundrum, we need to learn from it. In almost every line of work, whether we’re salespeople, managers or leaders, trying to influence our friends, our families or our boss, we want what those lucky few get: cut-through. 
+The Cambridge English Diction…]]></summary>
+        <author>
+            <name>Dominic Colenso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How life changes when you start embracing mystery]]></title>
+        <id>https://bigthink.com/the-well/how-life-changes-when-you-embrace-mystery/</id>
+        <link href="https://bigthink.com/the-well/how-life-changes-when-you-embrace-mystery/"/>
+        <updated>2025-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Filmmaker David S. Goyer—the screenwriter behind The Dark Knight, Blade, and Foundation—shares the strange and awe-filled moments that shaped his life, from growing up at the “edge of the ordinary” to uncanny experiences in Israel and Tibet that were too powerful to ignore. 
+Speaking at A Night of Awe and Wonder, hosted by Big Think and the John Templeton Foundation, he explains how these encounters became the foundation of his storytelling. Goyer shows how awe helps us pay attention, stay open, and see meaning in moments we might otherwise overlook.
+This video How life changes when you start embracing mystery is featured on Big Think.]]></summary>
+        <author>
+            <name>David S. Goyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odeal: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=vTx1ITE67g4</id>
@@ -9608,36 +9663,6 @@ This video Stress is inevitable, but suffering isn’t. 3 experts explain. is fe
         <updated>2025-09-17T09:01:30.000Z</updated>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIGO’s 10th anniversary gift confirms Hawking’s theorem]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/ligo-10-anniversary-hawking-theorem/"/>
-        <updated>2025-09-17T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s hard to believe, but it’s now been 10 full years since the twin Advanced LIGO detectors — in Hanford, WA and Livingston, LA — were completed and turned on for the first time. Just days after they began operations, they saw the first-ever directly detected gravitational wave: GW150914, which signified the merger of two black holes. From across the Universe, a black hole of 36 times the mass of the Sun merged with another of 29 times the Sun’s mass, producing a remnant black hole of just 62 solar masses, with the other 3 solar masses getting converted into gravitational radiation via Einstein’s E = mc².
-When those emitted waves arrived in each of the twin LIGO detectors, they changed the length of LIGO’s incredibly long, precise laser arms by less than the width of a single proton. Yet …]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi No Youjin]]></title>
-        <id>https://aethermug.com/posts/hi-no-youjin</id>
-        <link href="https://aethermug.com/posts/hi-no-youjin?utm_source=rss&amp;utm_campaign=rss"/>
-        <updated>2025-09-17T05:23:40.000Z</updated>
-        <summary type="html"><![CDATA[On quaint devices for time-travel]]></summary>
-        <author>
-            <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Question Mark]]></title>
-        <id>https://xkcd.com/3143/</id>
-        <link href="https://xkcd.com/3143/"/>
-        <updated>2025-09-17T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
