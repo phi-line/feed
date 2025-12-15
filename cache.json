@@ -4890,26 +4890,6 @@
           "wordCount": 6963,
           "title": "Alameda County officials won’t raise political fundraising limits",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-04_2024.05.14_Middleton_DARecallBoS_00062-1.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543679",
-          "author": "Alex N. Gecan",
-          "description": "North Berkeley neighbors complained the security system, meant to scare thieves, would speak throughout the night and threaten to call police on people walking past.",
-          "link": "https://www.berkeleyside.org/2025/09/16/robocop-motion-activated-loudspeaker-north-berkeley-cvs-shattuck-ave",
-          "publishedOn": "2025-09-16T22:13:34.000Z",
-          "wordCount": 7430,
-          "title": "A ‘dystopian’ CVS loudspeaker may lead Berkeley to ban some alarm systems",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP19273622787951.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543665",
-          "author": "Ben Christopher, CalMatters",
-          "description": "It’s not yet clear how SB 79, now on Gov. Newsom’s desk, will affect what gets built in Berkeley, where the flatlands were rezoned for denser construction earlier this year.",
-          "link": "https://www.berkeleyside.org/2025/09/16/california-sb79-housing-berkeley-transit-oriented-development",
-          "publishedOn": "2025-09-16T19:48:25.000Z",
-          "wordCount": 8791,
-          "title": "Bill allowing denser housing near BART stations and transit hubs passed by California lawmakers",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/091225_Oakland-Housing_AW_CM_11.webp"
         }
       ]
     },
@@ -5090,16 +5070,6 @@
           "wordCount": 2163,
           "title": "Social Karma in 2000 With Slashdot and BowieNet Version 2.0",
           "imageUrl": "https://cybercultural.com/assets/images/slashdot-june2000-1280x720b.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/blogs-rss-2000/",
-          "author": null,
-          "description": "Photo of the Seattle Central Library, taken 1 January 2000 by Thomas Hawk.\nBy the start of 2000, blogging was becoming a communal activity. One of its pioneers, Cameron Barrett, had a “Sites I Visit Often” list in his sidebar that had gotten longer over the past year and now included many weblogs. Although there wasn’t a word for this kind of list at the time, it would eventually become known as a “blogroll” (the earliest reference to this term I could find was Doc Searls in December 2000, who used the word “blogrolling” as a subheader).\n\nCamWorld's impressive \"blogroll\" in March 2000, even though the term hadn't yet been coined.\nSome webloggers were even meeting in person. On 20 February, Jessamyn West wrote in her online journal: “I had a nice day. Mucked about in the morning, headed to …",
-          "link": "https://cybercultural.com/p/blogs-rss-2000/",
-          "publishedOn": "2025-09-17T00:00:00.000Z",
-          "wordCount": 2102,
-          "title": "2000: Bloggers Make Friends, but RSS Format Wars Kick Off",
-          "imageUrl": "https://cybercultural.com/assets/images/2671536366_4c5418e326_oc.jpg"
         }
       ]
     },
@@ -5534,6 +5504,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vTx1ITE67g4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vTx1ITE67g4",
+          "publishedOn": "2025-12-15T10:01:49.000Z",
+          "wordCount": null,
+          "title": "Odeal: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yNJR6WihGgw",
           "author": null,
@@ -6281,6 +6261,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/brightest-ever-lensed-supernova/",
+          "author": "Ethan Siegel",
+          "description": "For millennia, supernovae were rare, once-per-century sights.\n\nWhat appears to be a double-lobed nuclear explosion is actually the result of a rare astronomical outburst known as a supernova impostor: a precursor to a supernova, rather than the real thing. A “small” nuclear explosion occurred in the massive star Eta Carinae nearly 200 years ago, but the star continues to live on on the inside, with the two expanding lobes shown here resulting from the aftermath of that outburst.\n\nCredit: NASA, ESA, N. Smith (University of Arizona, Tucson), and J. Morse (BoldlyGo Institute, New York)\n\n\n\nThe last naked-eye Milky Way supernova occurred way back in 1604.\n\nIn 1604, a supernova appeared to skywatchers on Earth, between the constellations of Ophiuchus and Sagittarius. Known as Kepler’s supernova,…",
+          "link": "https://bigthink.com/starts-with-a-bang/brightest-ever-lensed-supernova/",
+          "publishedOn": "2025-12-15T07:00:00.000Z",
+          "wordCount": 2739,
+          "title": "Brightest-ever lensed supernova reveals astronomy’s coming revolution",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/coverVRO.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-124-astrochemistry/",
           "author": "Ethan Siegel",
