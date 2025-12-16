@@ -508,16 +508,6 @@
           "wordCount": 6275,
           "title": "Tripping Alone",
           "imageUrl": null
-        },
-        {
-          "id": "https://asteriskmag.com/issues/11/iabied",
-          "author": null,
-          "description": "Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.",
-          "link": "https://asteriskmag.com/issues/11/iabied",
-          "publishedOn": "2025-09-18T00:00:00.000Z",
-          "wordCount": 3858,
-          "title": "More Was Possible: A Review of If Anyone Builds It, Everyone Dies",
-          "imageUrl": null
         }
       ]
     },
@@ -4884,46 +4874,6 @@
           "wordCount": 8453,
           "title": "Around Berkeley: Coastal Cleanup Day, square dance party, international comedy show",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_2189-scaled-1.jpg?fit=1568%2C1176&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543783",
-          "author": "Nico Savidge",
-          "description": "The most significant rain storm Berkeley has gotten in months could arrive overnight Wednesday and last into Friday, but forecasters aren't sure how much will fall.",
-          "link": "https://www.berkeleyside.org/2025/09/17/berkeley-rain-forcast-thunderstorms",
-          "publishedOn": "2025-09-17T22:49:00.000Z",
-          "wordCount": 6820,
-          "title": "Storm system might soak Berkeley — or bring little rain",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/01/large-Jan-10-rain-5.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543779",
-          "author": "Olga R. Rodriguez",
-          "description": "The suit says the federal government is using civil rights laws to wage a campaign against the university to curtail academic freedom and undermine free speech.",
-          "link": "https://www.berkeleyside.org/2025/09/17/university-of-california-students-professors-and-staff-sue-the-trump-administration",
-          "publishedOn": "2025-09-17T21:48:15.000Z",
-          "wordCount": 7525,
-          "title": "University of California students, professors and staff sue the Trump administration",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/02/large-IMG_0875.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543705",
-          "author": "Skylla Mumana",
-          "description": "From Mexico to Italy, then Thailand, take a global culinary journey in less than 2 miles.",
-          "link": "https://www.berkeleyside.org/2025/09/17/23rd-street-richmond-restaurants-what-to-eat",
-          "publishedOn": "2025-09-17T19:20:39.000Z",
-          "wordCount": 7593,
-          "title": "I walked all of 23rd Street in Richmond. Here are the best things I ate",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/TurkeyClub-Navarros-Mumana.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543708",
-          "author": "Alex N. Gecan",
-          "description": "A dogwalker, jogger and cyclist whom police say a man deliberately drove into near the Clark Kerr Campus were recovering Tuesday.",
-          "link": "https://www.berkeleyside.org/2025/09/17/berkeley-elmwood-crash-attempted-murder",
-          "publishedOn": "2025-09-17T18:16:12.000Z",
-          "wordCount": 7181,
-          "title": "Berkeley hit-and-run suspect held on suspicion of attempted murder",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/BMW-1.jpeg"
         }
       ]
     },
@@ -6252,16 +6202,6 @@
           "wordCount": null,
           "title": "Lido Pimienta: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/eNzRHV6fklg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/eNzRHV6fklg",
-          "publishedOn": "2025-09-17T18:35:03.000Z",
-          "wordCount": 1999,
-          "title": "#eltiny • @LuizaBrina presents a searching set of orações that serve as meditations. ✨️⁠⁠",
-          "imageUrl": null
         }
       ]
     },
@@ -6270,6 +6210,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/",
+          "author": "Ethan Siegel",
+          "description": "Every year, scientists around the world don’t just work to enhance what we know and increase our overall body of knowledge, although that’s indeed what they wind up doing. Part of the motivation for conducting science is hope: the hope that what you’re doing, research-wise, could end up revolutionizing how we conceptualize reality. Although we’ve come so far in understanding this Universe — including what its laws and constituents are at a fundamental level, and how those fundamental components assemble to create the varied and complex reality we inhabit today — we’re certain that there’s still more to learn, as many paradoxes about and several important puzzles remain unsolved. With each new experiment, observation, and piece of data, there’s an opportunity for scientific advancement.\nAll…",
+          "link": "https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/",
+          "publishedOn": "2025-12-16T07:00:00.000Z",
+          "wordCount": 4310,
+          "title": "As 2025 ends, the Standard Model still hasn’t cracked",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/spect_cover.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/how-to-harness-the-trojan-horse-of-presenting-skills/",
           "author": "Dominic Colenso",
