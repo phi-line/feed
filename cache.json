@@ -1666,6 +1666,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=549191",
+          "author": "Alex N. Gecan",
+          "description": "Jorge Eduardo Velazquez Sosa died after crashing into a car on California Street in Central Berkeley Saturday evening, authorities said.",
+          "link": "https://www.berkeleyside.org/2025/12/16/fatal-scooter-crash-california-addison-berkeley",
+          "publishedOn": "2025-12-16T23:30:00.000Z",
+          "wordCount": 6727,
+          "title": "Updated: Segway rider dies after crashing into parked car in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/7114602897_8690601780_k.jpg"
+        },
+        {
+          "id": "https://richmondside.org/?p=459208",
+          "author": "Andrew Gilbert",
+          "description": "Mayne Smith was part of a quartet that formed the Bay Area’s first bluegrass band, the Redwood Canyon Ramblers. He died Nov. 12 at age 86.",
+          "link": "https://www.berkeleyside.org/2025/12/16/obituary-mayne-smith-richmond-bluegrass-musician",
+          "publishedOn": "2025-12-16T19:21:00.000Z",
+          "wordCount": 8603,
+          "title": "Remembering Mayne Smith, who helped turn Freight & Salvage into a nonprofit",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/webimage-maynesmithobit_121225_handout-4.png?fit=640%2C421&ssl=1"
+        },
+        {
           "id": "https://oaklandside.org/?p=466574",
           "author": "Eli Wolfe and Esther Kaplan",
           "description": "The New York Times reported that airport security officials around the country are sharing passenger data with federal immigration authorities. Oakland airport is in the dark about whether that’s happening here.",
@@ -5534,6 +5554,56 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/NOV87cBRw9U",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NOV87cBRw9U",
+          "publishedOn": "2025-12-17T00:00:33.000Z",
+          "wordCount": 2081,
+          "title": "@RobertPlantOfficial talks about the evolution of his voice.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NXFNGytOobc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NXFNGytOobc",
+          "publishedOn": "2025-12-16T21:30:10.000Z",
+          "wordCount": 2057,
+          "title": "@googoodolls' John Rzeznik and Robby Takac reflect on their days navigating the underground scene.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lbZwBYkiv1Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lbZwBYkiv1Y",
+          "publishedOn": "2025-12-16T20:00:45.000Z",
+          "wordCount": 2058,
+          "title": "If ever there was someone up to the challenge of the Tiny Desk, it’s @RobertPlantOfficial.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/3VxpqBeAt5g",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/3VxpqBeAt5g",
+          "publishedOn": "2025-12-16T18:06:41.000Z",
+          "wordCount": 2041,
+          "title": "@davidbyrneofficial and his band squeeze behind the Desk to perform four songs.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/al_2lIRUa9o",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/al_2lIRUa9o",
+          "publishedOn": "2025-12-16T17:58:22.000Z",
+          "wordCount": 2014,
+          "title": "Here's the thing: @googoodolls' songs endure. 🤍⚡️⁠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vTx1ITE67g4",
           "author": null,
           "description": "",
@@ -6270,6 +6340,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/3-cognitive-scripts/",
+          "author": "Anne-Laure Le Cunff",
+          "description": "Most of the decisions that shape a life don’t feel like decisions at all. They feel instead like expectations to follow a certain life – thrust upon us by parents, society, peers. \nThe cost of fulfilling these expectations is subtle but cumulative: fewer experiments, narrower options, and a growing sense that life is happening on someone else’s terms.\nThis video The psychological trap behind wanting your life to “make sense” is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/3-cognitive-scripts/",
+          "publishedOn": "2025-12-16T20:23:09.000Z",
+          "wordCount": 2452,
+          "title": "The psychological trap behind wanting your life to “make sense”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-3.22.29-PM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/inside-the-meteoric-rise-of-mercor/",
           "author": "Aaron Mok",
