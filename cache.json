@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157423",
+          "author": "Natalie Wolchover",
+          "description": "Physicists spotted a “terribly exciting” new black hole, doubled down on weakening dark energy, and debated the meaning of quantum mechanics.             \nThe post The Year in Physics first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-year-in-physics-20251217/",
+          "publishedOn": "2025-12-17T14:46:37.000Z",
+          "wordCount": 2754,
+          "title": "The Year in Physics",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Physics-cr-Carlos-Arrojo-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157326",
           "author": "Michael Moyer",
           "description": "Explore the year’s most surprising computational revelations, including a new fundamental relationship between time and space, an undergraduate who overthrew a 40-year-old conjecture, and the unexpectedly effortless triggers that can turn AI evil.             \nThe post The Year in Computer Science first appeared on Quanta Magazine",
@@ -1253,16 +1263,6 @@
           "wordCount": 204,
           "title": "Piercing",
           "imageUrl": "https://imgs.xkcd.com/comics/piercing_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3144/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3144/",
-          "publishedOn": "2025-09-19T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Phase Changes",
-          "imageUrl": "https://imgs.xkcd.com/comics/phase_changes_2x.png"
         }
       ]
     },
@@ -1655,6 +1655,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548968",
+          "author": "Nathan Dalton",
+          "description": "Founder Russell Kassman sold the Berkeley business in 2019 and moved to Texas. The new owner closed up shop last month.",
+          "link": "https://www.berkeleyside.org/2025/12/17/r-kassman-pianos-closure",
+          "publishedOn": "2025-12-17T13:23:00.000Z",
+          "wordCount": 7285,
+          "title": "R. Kassman, purveyor of fine pianos for over 40 years, plays its final note",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-R-Kassman-Piano-1.jpg?fit=1600%2C1200&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549191",
           "author": "Alex N. Gecan",
@@ -4854,16 +4864,6 @@
           "wordCount": 7438,
           "title": "Is your finger on the pulse of Berkeley? Help write our events newsletter",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250917-231313.webp?fit=1568%2C1086&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=543857",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A downtown apartment building sells amid a weakening market, and Emerson Elementary is pulling for \"Mr. Bob\" — struck by hit-and-run driver this week.",
-          "link": "https://www.berkeleyside.org/2025/09/18/the-wire-barts-plan-after-recent-system-shutdown-health-risks-of-encampment-sweeps",
-          "publishedOn": "2025-09-19T00:15:00.000Z",
-          "wordCount": 6960,
-          "title": "The Wire: BART’s plan after recent system shutdown; health risks of encampment sweeps",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250918-210739.webp?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -4905,6 +4905,16 @@
       "feedUrl": "https://cybercultural.com/feed.xml",
       "siteUrl": "https://cybercultural.com/",
       "articles": [
+        {
+          "id": "https://cybercultural.com/p/indie-web-report-2025/",
+          "author": null,
+          "description": "Browsing the indie web is like browsing a record store; you'll be surprised at the treasures you find. Photo by Josué Sánchez.\nI've always liked doing annual wrapup posts, from the Best Web 2.0 Companies posts on ReadWriteWeb in Web 2.0 through to the \"What the Internet Was Like in {Year}\" posts on Cybercultural today. So as we approach the end of 2025, I thought I'd turn my attention to the independent web — and in particular, my place on it.\nThis website, Cybercultural, has continued to grow over 2025; but it's also been a perilous time for indie websites, due to the rise of AI and the decline of SEO. I'll start by noting some traffic trends from this year, since an indie website can only flourish if people actually visit it (or at the very least subscribe via RSS or email).\nTraffic Tren…",
+          "link": "https://cybercultural.com/p/indie-web-report-2025/",
+          "publishedOn": "2025-12-17T00:00:00.000Z",
+          "wordCount": 2517,
+          "title": "My 2025 Indie Web Report and Thoughts on the Open Web",
+          "imageUrl": "https://cybercultural.com/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg"
+        },
         {
           "id": "https://cybercultural.com/p/blogosphere-2003/",
           "author": null,
@@ -5473,6 +5483,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/0BFR7ySb6LI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0BFR7ySb6LI",
+          "publishedOn": "2025-12-17T18:00:01.000Z",
+          "wordCount": 2051,
+          "title": "Do you feel like you're living in a capitalist hellscape?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/vIVVF1BYqZs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/vIVVF1BYqZs",
+          "publishedOn": "2025-12-17T16:01:36.000Z",
+          "wordCount": 2088,
+          "title": "@billystrings is a sorcerer of his craft, wielding a guitar as if it’s a part of him.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/pBuyhCQqqWw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/pBuyhCQqqWw",
+          "publishedOn": "2025-12-17T13:01:49.000Z",
+          "wordCount": 2067,
+          "title": "@AnnieDiRusso offers a pageant full of costuming, synchronized dance moves and more.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/txRW6V4iwUM",
           "author": null,
@@ -6290,6 +6330,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-tyrannous-grip-of-extreme-identity-politics/",
+          "author": "Jonny Thomson",
+          "description": "Ayaan Hirsi Ali was born in Somalia but spent her formative teenage years in Nairobi, Kenya. For most of her youth, Islam was a distant, habitual backdrop. She observed the fasts, went to the mosque now and then, and perhaps idly carried a string of tasbih prayer beads. Then, in 1985, the Muslim Brotherhood swept through her community. Under the tutelage of a charismatic female teacher, Ali transformed. The casual tradition was replaced by a rigid, politicized fervor; she put on the heavy black hijab and learned to renounce Western culture.\nToday, Ali is a Christian, a research fellow at Stanford’s Hoover Institution, and a conservative powerhouse. But the path between then and now reveals a fracture in modern identity politics. When Ali first arrived in the Netherlands in 1992, fleeing a …",
+          "link": "https://bigthink.com/mini-philosophy/the-tyrannous-grip-of-extreme-identity-politics/",
+          "publishedOn": "2025-12-17T15:54:37.000Z",
+          "wordCount": 2315,
+          "title": "The tyrannous grip of extreme identity politics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/identity-tyranny_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/neuropsych/neuroethology/",
+          "author": "Jasna Hodžić",
+          "description": "If asked to describe what sets a cognitively complex species like humans apart from others, many would list specific behaviors, such as telling stories, creating art, planning for the future, or navigating complex social structures. Given that, you might expect that neuroscientists attempting to understand the advanced brain would study it in action, as a person or animal moves through the world. \nFor much of its history, though, neuroscience has done the opposite. \n“When I was a graduate student, neuroscience was almost entirely about isolating specific circuits to test how the brain controls your senses and movement,” says Dr. Earl K. Miller, the Picower Professor of Neuroscience at MIT. “You’d show an animal a stimulus, observe how it responded, and record which neurons fired.” This res…",
+          "link": "https://bigthink.com/neuropsych/neuroethology/",
+          "publishedOn": "2025-12-17T14:00:00.000Z",
+          "wordCount": 3540,
+          "title": "The next revolution in neuroscience is happening outside the lab",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/neuroethology_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/usa-genesis-mission-moonshot/",
           "author": "Ethan Siegel",
@@ -8879,16 +8939,6 @@
           "wordCount": 4863,
           "title": "The 4 hidden forces underneath every argument",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/A3-Web-Ripley.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/true-purpose-scientific-peer-review/",
-          "author": "Ethan Siegel",
-          "description": "Every so often, a new scientific result, theory, idea, or claim starts making headlines: not just in scientific circles, but in popular media as well. Most often, the one question all people know to ask is whether or not that paper has successfully passed peer review or not. If it hasn’t, people often dismiss the work, noting that we should remain skeptical because it hasn’t yet been vetted by anyone else with the appropriate expertise. But if it has passed peer review, people often assume that means everything that’s written in the paper — the methods of the study, the analysis performed, the results obtained, the conclusions drawn, and other assertions that the authors might make — must be correct. Even if it flies in the face of conventional wisdom, the fact that it has passed peer revi…",
-          "link": "https://bigthink.com/starts-with-a-bang/true-purpose-scientific-peer-review/",
-          "publishedOn": "2025-09-19T06:00:00.000Z",
-          "wordCount": 4661,
-          "title": "Ask Ethan: What is the true purpose of scientific peer review?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/scientificreview-324612-1024.jpg?w=1024&h=577&crop=1"
         }
       ]
     },
