@@ -895,6 +895,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3182/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3182/",
+          "publishedOn": "2025-12-17T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Telescope Types",
+          "imageUrl": "https://imgs.xkcd.com/comics/telescope_types_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3181/",
           "author": null,
           "description": "",
@@ -1655,6 +1665,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=549373",
+          "author": "Alex N. Gecan",
+          "description": "The suit — seeking records related to a complaint that officers acted improperly towards people filming an encampment sweep — lays bare rising tensions between police accountability officials and BPD brass.",
+          "link": "https://www.berkeleyside.org/2025/12/17/bpd-chief-sued-by-odpa-berkeley-pab",
+          "publishedOn": "2025-12-18T00:15:00.000Z",
+          "wordCount": 7896,
+          "title": "Berkeley’s civilian police oversight director sues police chief over withheld records",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/encampementsweepJune4th2025AdahliaCole-13.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549365",
+          "author": "Vanessa Arredondo",
+          "description": "A group of parents and students, fearing doxing and harassment, urged the district not to comply with federal requests. And a Berkeley middle school teacher is the lead plaintiff in a lawsuit aiming to halt California’s new law on antisemitism in schools.",
+          "link": "https://www.berkeleyside.org/2025/12/17/berkeley-unified-school-district-federal-antisemitism-inquiry-ab-715",
+          "publishedOn": "2025-12-17T23:35:19.000Z",
+          "wordCount": 8739,
+          "title": "As feds investigate antisemitism at BUSD, some worry about a ‘witch hunt’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-NATERA_20240306_BUSDFREESPEECH_19.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549355",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/12/17/bread-winners-pickle-ball-athletics-restaurant-openings",
+          "publishedOn": "2025-12-17T20:10:40.000Z",
+          "wordCount": 7335,
+          "title": "Sandwich shop lands in Old Town, and a new Temescal pickleball social club offers breakfast and lunch",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BreadWinners-ext-lapan.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=466671",
+          "author": "Eli Wolfe",
+          "description": "The airport launched its OAK Guest Pass to fanfare on Monday. But visitors must send sensitive information to the TSA – where it could end up in the hands of immigration enforcement.",
+          "link": "https://www.berkeleyside.org/2025/12/17/oakland-airport-guest-pass-program-ice-information-sharing-2",
+          "publishedOn": "2025-12-17T18:52:30.000Z",
+          "wordCount": 7606,
+          "title": "Oakland airport’s new guest program may risk feeding information to ICE",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/AP24101834276335-scaled-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548968",
           "author": "Nathan Dalton",
@@ -5484,6 +5534,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/NrVaiZp20lA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NrVaiZp20lA",
+          "publishedOn": "2025-12-17T23:00:30.000Z",
+          "wordCount": 2044,
+          "title": "You know that feeling when you listen to an album and realize it will be your favorite of the year?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/IXYeIVyll3A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IXYeIVyll3A",
+          "publishedOn": "2025-12-17T21:00:32.000Z",
+          "wordCount": 1996,
+          "title": "From the first note, @iamodeal transports us to the warm, soulful pocket that we never leave.⁠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/0BFR7ySb6LI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6312,16 +6382,6 @@
           "wordCount": null,
           "title": "Carlos Vives: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mYGP07nLnUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mYGP07nLnUY",
-          "publishedOn": "2025-09-19T09:01:29.000Z",
-          "wordCount": null,
-          "title": "Lido Pimienta: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6330,6 +6390,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/social-media-addiction-smartphones/",
+          "author": "Clare Morell",
+          "description": "Smartphones and social media are hijacking our younger generation’s childhood and development in a frightening way. Clare Morell, researcher and author of The Tech Exit, is sounding the alarm.\nThis video The terrifying ways that social media is altering teenage brains is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/social-media-addiction-smartphones/",
+          "publishedOn": "2025-12-17T20:59:08.000Z",
+          "wordCount": 1090,
+          "title": "The terrifying ways that social media is altering teenage brains",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/A1-Web-Morell.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-tyrannous-grip-of-extreme-identity-politics/",
           "author": "Jonny Thomson",
