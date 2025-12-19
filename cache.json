@@ -5539,6 +5539,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j22KzIF34Xo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j22KzIF34Xo",
+          "publishedOn": "2025-12-19T10:01:18.000Z",
+          "wordCount": null,
+          "title": "GIVĒON: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/d1g8cWWp7mI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6405,6 +6415,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/stars-form-within-expanding-universe/",
+          "author": "Ethan Siegel",
+          "description": "When it comes to science in general, and physics in particular, we don’t just want to know what’s going to happen under a given set of circumstances. We also want to know the answer to the key question of, “how much,” “how many,” or “in what amount,” when it comes to our answers. Being quantitative, and answering questions of amounts and timescales, not merely qualitative, is what separates a successful physical theory from one that must be discarded. In the expanding Universe, this is more important than ever, as questions of what we expect to form, when, and in what quantities, are essential for testing whether our theories of the Universe actually match up with our observed reality.\nClearly, we live in a Universe where stars came into existence long ago: back in the first few hundred mi…",
+          "link": "https://bigthink.com/starts-with-a-bang/stars-form-within-expanding-universe/",
+          "publishedOn": "2025-12-19T07:00:00.000Z",
+          "wordCount": 5078,
+          "title": "Ask Ethan: Can stars form within the expanding Universe?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/covern79.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/science-of-evolution/",
           "author": "Sean B. Carroll",

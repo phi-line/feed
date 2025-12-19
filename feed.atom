@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-19T06:07:12.609Z</updated>
+    <updated>2025-12-19T12:08:10.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GIVĒON: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=j22KzIF34Xo</id>
+        <link href="https://www.youtube.com/watch?v=j22KzIF34Xo"/>
+        <updated>2025-12-19T10:01:18.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Can stars form within the expanding Universe?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/stars-form-within-expanding-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/stars-form-within-expanding-universe/"/>
+        <updated>2025-12-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to science in general, and physics in particular, we don’t just want to know what’s going to happen under a given set of circumstances. We also want to know the answer to the key question of, “how much,” “how many,” or “in what amount,” when it comes to our answers. Being quantitative, and answering questions of amounts and timescales, not merely qualitative, is what separates a successful physical theory from one that must be discarded. In the expanding Universe, this is more important than ever, as questions of what we expect to form, when, and in what quantities, are essential for testing whether our theories of the Universe actually match up with our observed reality.
+Clearly, we live in a Universe where stars came into existence long ago: back in the first few hundred mi…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Oxford Elementary developer wants to build 20 ‘Painted Ladies’-style Victorians; Cal student paralyzed after fall at frat sues]]></title>
         <id>https://www.berkeleyside.org/?p=549361</id>
