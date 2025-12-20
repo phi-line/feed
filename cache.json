@@ -905,6 +905,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3183/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3183/",
+          "publishedOn": "2025-12-19T05:00:00.000Z",
+          "wordCount": 208,
+          "title": "Pole Vault Pole",
+          "imageUrl": "https://imgs.xkcd.com/comics/pole_vault_pole_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3182/",
           "author": null,
           "description": "",
