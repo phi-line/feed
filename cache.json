@@ -4834,16 +4834,6 @@
           "wordCount": 8893,
           "title": "How should AI be used in Berkeley schools?",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AI-Use-in-Schools-Georgia-Paulos-8.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544207",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/09/24/cafe-brusco-rose-olivia-coffee-flower-openings",
-          "publishedOn": "2025-09-24T19:00:00.000Z",
-          "wordCount": 6849,
-          "title": "Rose Pizzeria team debuts Cafe Brusco; specialty coffee and blooms arrive in Downtown Oakland",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/CafeBrusco-Berkeley-Lapan.jpg?fit=2000%2C1447&ssl=1"
         }
       ]
     },
@@ -6300,6 +6290,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/simplest-explanation-ultra-high-energy-cosmic-rays/",
+          "author": "Ethan Siegel",
+          "description": "Earth, whether we like it or not, serves as a cosmic particle detector on a continuous basis. It isn’t just light waves that travel through the Universe, nor is that light merely joined by gravitational waves and ghostly neutrinos. In truth, cosmic particles and antiparticles of all types are produced in high-energy processes throughout the Universe, from the Big Bang to stars to white dwarfs to neutron stars to black holes, both large and small. When we put detectors up to detect what sorts of particles are out there, we find a virtual zoo, including:\nprotons,\nantiprotons,\nelectrons,\npositrons,\nand even still-heavier atomic nuclei, made out of protons and neutrons combined.\nMost cosmic rays, as we measure them, turn out to be protons, and just as you’d expect, there are more of them at lo…",
+          "link": "https://bigthink.com/starts-with-a-bang/simplest-explanation-ultra-high-energy-cosmic-rays/",
+          "publishedOn": "2025-12-23T07:00:00.000Z",
+          "wordCount": 4375,
+          "title": "The simplest explanation for ultra-high-energy cosmic rays",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/11/cover2.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/thinking/3-philosophical-questions-of-the-20th-century-that-neuroscience-is-reframing/",
           "author": "Rachel Barr",
