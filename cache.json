@@ -1636,6 +1636,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=549611",
+          "author": "Tovin Lapan",
+          "description": "It was a flavorful year, with dinner parties, Michelin stars, ice cream revivals and breakfast comebacks.",
+          "link": "https://www.berkeleyside.org/2025/12/23/top-east-bay-food-stories",
+          "publishedOn": "2025-12-23T16:45:00.000Z",
+          "wordCount": 8474,
+          "title": "The top 12 East Bay food stories of 2025",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-NATERA_BerkeleySupperClub_Nosh-18.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549270",
+          "author": "Cecilia Nowell",
+          "description": "Sauna Aid, a charity supported by many Bay Area saunas, has funded retreats for combat medics, led workshops for refugees and transported saunas to the frontlines in Kharkiv.",
+          "link": "https://www.berkeleyside.org/2025/12/23/sauna-aid-mikkel-aaland",
+          "publishedOn": "2025-12-23T15:00:00.000Z",
+          "wordCount": 8414,
+          "title": "Ukrainian soldiers are relaxing in saunas set up by a former Berkeley resident",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/CM1A0455-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548854",
+          "author": "Andrew Gilbert",
+          "description": "The Berkeley Community Choir and Orchestra, launched in 1966 by Oakland firefighter Eugene Jones, kicks off its 60th season Jan. 2 with three performances of Verdi's Requiem.",
+          "link": "https://www.berkeleyside.org/2025/12/23/berkeley-community-choir-and-orchestra",
+          "publishedOn": "2025-12-23T14:00:00.000Z",
+          "wordCount": 8444,
+          "title": "Berkeley choir has welcomed all — even the tone-deaf — for 60 years",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BCCO-1980_-by-Dewey-Livingston-0011B2E.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=549629",
           "author": "Elize Manoukian",
           "description": "She co-founded the Middle East Children’s Alliance in 1988. Its early board included Edward Said and Maya Angelou. She was also active in the fight to bring rent control to Berkeley.",
@@ -4876,6 +4906,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/internet-2003/",
+          "author": null,
+          "description": "Flash at full volume: Jamiroquai’s website in 2003.\nBy 2003, the internet had weathered the worst of the dot-com crash and developers and entrepreneurs were beginning to come out of hibernation. While it would take another year for Silicon Valley to start inflating another bubble — this one would be named \"Web 2.0\" — there was a renewed sense of optimism.\nBlogging and RSS moved into the mainstream in 2003, helped by the emergence of consumer-friendly RSS Readers like NetNewsWire and Bloglines. There was even now an economic model for blogging, with the launch of Google's AdSense in March. Also, online music went legit with Apple's iTunes store, and social networking began to take recognizable form with Friendster and MySpace.\n\"Social software\" was a geeky term being used in the blogosphere…",
+          "link": "https://cybercultural.com/p/internet-2003/",
+          "publishedOn": "2025-12-23T00:00:00.000Z",
+          "wordCount": 1891,
+          "title": "What the Internet Was Like in 2003",
+          "imageUrl": "https://cybercultural.com/assets/images/jamiroquai-flash-website-2003.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/indie-web-report-2025/",
           "author": null,
           "description": "Browsing the indie web is like browsing a record store; you'll be surprised at the treasures you find. Photo by Josué Sánchez.\nI've always liked doing annual wrapup posts, from the Best Web 2.0 Companies posts on ReadWriteWeb in Web 2.0 through to the \"What the Internet Was Like in {Year}\" posts on Cybercultural today. So as we approach the end of 2025, I thought I'd turn my attention to the independent web — and in particular, my place on it.\nThis website, Cybercultural, has continued to grow over 2025; but it's also been a perilous time for indie websites, due to the rise of AI and the decline of SEO. I'll start by noting some traffic trends from this year, since an indie website can only flourish if people actually visit it (or at the very least subscribe via RSS or email).\nTraffic Tren…",
@@ -6290,6 +6330,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/why-the-best-leaders-help-their-teams-to-savor-the-world/",
+          "author": "mikehodgkinson",
+          "description": "Despite these times of extreme change, uncertainty, and complexity, many leaders still expect that they, and the people who work for them, should leave their worries at the proverbial office door. If that ever was a reasonable expectation, however, it clearly no longer is.  \nAcross industries and at all levels, people are overwhelmed, exhausted, and burning out like never before. The consequence: ever-growing disengagement, which undermines individual well-being and organizational productivity and performance.\nIn its most recent State of the Global Workplace report, Gallup found that the percentage of engaged employees dropped from 23% to a meagre 21% last year — a decline equal to that seen during COVID-19 lockdowns. \nThere are many contributors to this. Friction around return-to-work ord…",
+          "link": "https://bigthink.com/business/why-the-best-leaders-help-their-teams-to-savor-the-world/",
+          "publishedOn": "2025-12-23T14:00:00.000Z",
+          "wordCount": 2328,
+          "title": "Why the best leaders help their teams to “savor” the world",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/leaders-help-savor-world_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/simplest-explanation-ultra-high-energy-cosmic-rays/",
           "author": "Ethan Siegel",
@@ -8879,16 +8929,6 @@
           "wordCount": 2514,
           "title": "How to train your nervous system for optimal performance",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/B2-Web-Kotler.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/",
-          "author": "Ethan Siegel",
-          "description": "When it comes to the physical Universe, the notion of “nothing” may truly be possible only in theory, not in practice. As we see the Universe today, it appears full of stuff: matter, radiation, antimatter, neutrinos, and even dark matter and dark energy, despite the fact that we don’t truly know the ultimate, fundamental nature of the latter two. Yet even if you took away every single quantum of energy, somehow removing it from the Universe entirely, you wouldn’t be left with an empty Universe. No matter how much you take out of it, the Universe will always generate new forms of energy.\nHow is this possible? It’s like the Universe itself doesn’t understand our idea of “nothing” at all; if we were to remove all the quanta of energy from our Universe, leaving behind only empty space, we woul…",
-          "link": "https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/",
-          "publishedOn": "2025-09-25T06:00:00.000Z",
-          "wordCount": 3936,
-          "title": "Even before the Big Bang, space wasn’t truly empty",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/blackhole-e1707437084280.jpg?resize=1200,630"
         }
       ]
     },
@@ -8897,6 +8937,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=71550",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "If you like lots of add-ins in your muffins, these vegan Morning Glory Muffins are going to be your new favourite! With cozy spices, a combination of carrots, pineapple, and apple for sweetness and moisture, along with a nutty crunch, they’re perfect for breakfast. I love baking muffins. Because even when I don’t have time […]",
+          "link": "https://jessicainthekitchen.com/morning-glory-muffins/",
+          "publishedOn": "2025-12-23T15:00:00.000Z",
+          "wordCount": 8656,
+          "title": "Morning Glory Muffins",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/11/Vegan-Morning-Glory-Muffins_13.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=71769",
           "author": "Jessica from Jessica in the Kitchen",
