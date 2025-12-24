@@ -838,6 +838,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=50822",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Two Faces of Lummie Jenkins appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2025/lummie-jenkins-alabama-racism",
+          "publishedOn": "2025-12-23T20:54:39.000Z",
+          "wordCount": 1612,
+          "title": "Protected: The Two Faces of Lummie Jenkins",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=50498",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: 14,445 and Counting appeared first on The Atavist Magazine.",
@@ -1635,6 +1645,51 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=549709",
+          "author": "Felicia Mello",
+          "description": "After pushback from faculty, Cal’s provost says he wants to open a dialogue on academic freedom.",
+          "link": "https://www.berkeleyside.org/2025/12/23/uc-berkeley-peyrin-kao-backlash",
+          "publishedOn": "2025-12-23T23:17:33.000Z",
+          "wordCount": 8822,
+          "title": "Opposition mounts to UC Berkeley’s suspension of lecturer for talking about Gaza in classroom",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-20251211_UCBerTeachin_EG_24.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549718",
+          "author": "Alex N. Gecan",
+          "description": "There were no injuries reported, according to the Berkeley Fire Department. The fire was in the same block where two buildings at the old Pacific Steel site caught fire in September.",
+          "link": "https://www.berkeleyside.org/2025/12/23/bfd-second-gilman-fire",
+          "publishedOn": "2025-12-23T22:04:37.000Z",
+          "wordCount": 7322,
+          "title": "Vacant Northwest Berkeley commercial building catches fire",
+          "enclosure": {
+            "url": "https://videos.files.wordpress.com/0JOuE3UQ/img_0340.mp4",
+            "length": "9543090",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/IMG_0310.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549694",
+          "author": "Nico Savidge",
+          "description": "That’s a year later than BART projected in March.",
+          "link": "https://www.berkeleyside.org/2025/12/23/north-berkeley-bart-housing-construction-start-date-2027",
+          "publishedOn": "2025-12-23T20:44:53.000Z",
+          "wordCount": 8012,
+          "title": "North Berkeley BART housing won’t start to rise until at least early 2027",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Screenshot-2025-12-19-at-4.29.04-PM.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549688",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2025/12/23/lis-knife-cut-noodles-sourdough-co-opening",
+          "publishedOn": "2025-12-23T20:30:00.000Z",
+          "wordCount": 7325,
+          "title": "New noodle joint arrives in Berkeley, and a sandwich spot opens in Pinole",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/LisKnifeCutNoodle.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549611",
           "author": "Tovin Lapan",
@@ -6312,16 +6367,6 @@
           "wordCount": 2001,
           "title": "Carlos Vives left behind some special objects from his native Colombia for the shelves.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r3ZPhIZ6_bM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r3ZPhIZ6_bM",
-          "publishedOn": "2025-09-25T09:01:21.000Z",
-          "wordCount": null,
-          "title": "Chuwi: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6330,6 +6375,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/plus/scaling-leadership-inside-and-out-reflections-from-2025/",
+          "author": "Charlotte Sharpe",
+          "description": "As 2025 comes to a close, I’ve been reflecting on what it means to practice leadership while helping others develop it. I’m Charlotte Sharpe, Managing Director of Research and Innovation at Big Think+. My role is to drive alignment between our content and platform, ensuring that what we build, design, and deliver truly serves our clients—organizations that are bringing leadership development to life within their own cultures.\nAcross this year, our team’s work has revolved around three ideas: clarity, collaboration, and storytelling. Together, they’ve shaped how we scale leadership: both inside Big Think+ and across the organizations we partner with. \n1. Clarity Scales\nOne of our most important realizations this year is that clarity is a form of leadership. The ability to define what we mea…",
+          "link": "https://bigthink.com/plus/scaling-leadership-inside-and-out-reflections-from-2025/",
+          "publishedOn": "2025-12-23T21:19:12.000Z",
+          "wordCount": 1582,
+          "title": "Scaling leadership, inside and out: Reflections from 2025",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/scaling-leadership.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/the-resilience-paradox/",
+          "author": "George Bonanno",
+          "description": "We’ve grown comfortable with the idea that trauma leaves people permanently altered. It’s a compelling story, but a misleading one. \nDrawing on more than a hundred studies, clinical psychologist George Bonanno explains why resilience is not a rare trait or a heroic exception, but the most common human response to adversity.\nThis video The real reason some people adapt faster than others is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/the-resilience-paradox/",
+          "publishedOn": "2025-12-23T19:05:41.000Z",
+          "wordCount": 5616,
+          "title": "The real reason some people adapt faster than others",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/C1-Web-Bonanno.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/why-the-best-leaders-help-their-teams-to-savor-the-world/",
           "author": "mikehodgkinson",
