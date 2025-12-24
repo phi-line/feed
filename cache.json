@@ -4869,36 +4869,6 @@
           "wordCount": 7058,
           "title": "The Wire: Charlie Kirk’s campus tour to make final stop at UC Berkeley",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP24358761748871.jpg?fit=1024%2C683&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=461952",
-          "author": "Natalie Orenstein",
-          "description": "Resources and tips for staying safe, helping your neighborhood, and recovering from the Big One.",
-          "link": "https://www.berkeleyside.org/2025/09/25/berkeley-earthquake-emergency-preparedness-big-one",
-          "publishedOn": "2025-09-25T23:56:36.000Z",
-          "wordCount": 7714,
-          "title": "How to prepare for the next earthquake in Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-Fault-Lines-2.jpg"
-        },
-        {
-          "id": "https://richmondside.org/?p=455536",
-          "author": "Jana Kadah",
-          "description": "Harjit Kaur, 73, a longtime seamstress at Sari Palace with no apparent criminal record, says she got only ice cubes to swallow her medication, was refused meals consistent with her faith and forced to sleep on the floor.",
-          "link": "https://www.berkeleyside.org/2025/09/25/harjit-kaur-ice-deportation-india",
-          "publishedOn": "2025-09-25T21:01:27.000Z",
-          "wordCount": 8053,
-          "title": "Grandmother who worked in Berkeley deported to India; ICE denied her water and toilet paper, she says",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/harjitcrop-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544292",
-          "author": "Cecilia Seiter",
-          "description": "In the latest installment of Nosh’s Gotta Try It series, we bite into the heart of Peruvian cooking.",
-          "link": "https://www.berkeleyside.org/2025/09/25/lucuma-downtown-peruvian-beef-hearts",
-          "publishedOn": "2025-09-25T19:00:00.000Z",
-          "wordCount": 8162,
-          "title": "At Lucuma, anticuchos de corazón marry traditional Peruvian cuisine with Californian flair",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-11_20250725_Lucuma_Middleton_0088.jpg"
         }
       ]
     },
@@ -6327,26 +6297,6 @@
           "wordCount": null,
           "title": "Adrian Quesada: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/nrqrfoL75KA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/nrqrfoL75KA",
-          "publishedOn": "2025-09-25T18:00:52.000Z",
-          "wordCount": 2005,
-          "title": "#eltiny • @chuwipr builds a landscape of their home wherever they go. ❤️⁠⁠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/o-WM2G26290",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/o-WM2G26290",
-          "publishedOn": "2025-09-25T16:01:35.000Z",
-          "wordCount": 2001,
-          "title": "Carlos Vives left behind some special objects from his native Colombia for the shelves.",
-          "imageUrl": null
         }
       ]
     },
@@ -6355,6 +6305,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/ice-skating-miracle-physics/",
+          "author": "Ethan Siegel",
+          "description": "Imagine there’s a large, flat sheet of ice out in front of you, and someone unceremoniously shoves you across it at a high speed. What are you to do? If you’re wearing conventional shoes, without crampons or blades attached to them, you’re going to have a difficult time. Ice is a very low-friction surface, and there’s very little you’re going to be able to do to change your momentum without slipping and perhaps falling down. You’re bound to simply slide along until either you run into an obstacle or slowly come to rest, likely a long way from where you began.\nBut if you put thin blades on the bottoms of your shoes — e.g., wear ice skates — you’ll discover that the situation is very much different in this case. As long as you can remain on your feet, with only your blades touching the ice, …",
+          "link": "https://bigthink.com/starts-with-a-bang/ice-skating-miracle-physics/",
+          "publishedOn": "2025-12-24T07:00:00.000Z",
+          "wordCount": 3693,
+          "title": "Why ice skating is a miracle of physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/12/PhysicsofIceSkating.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/plus/scaling-leadership-inside-and-out-reflections-from-2025/",
           "author": "Charlotte Sharpe",
