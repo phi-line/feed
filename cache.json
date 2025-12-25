@@ -4829,26 +4829,6 @@
           "wordCount": 7557,
           "title": "Shop Talk: Electric car seller closes on Fourth St.; Groupon founder opens Berkeley tabletop board game club on Claremont",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250918-235146.webp?fit=1600%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544359",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/09/26/wah-jee-wah-bounty-hunter-restaurants-closing",
-          "publishedOn": "2025-09-26T20:00:00.000Z",
-          "wordCount": 6739,
-          "title": "Indian street food icon Wah jee Wah shutters, but not all is lost",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/wahjeewa-skewers.jpg?fit=1009%2C639&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=461974",
-          "author": "Roselyn Romero",
-          "description": "The Sept. 15 arrest of a man inside the Wiley W. Manuel Courthouse exposed the weakness of state and local efforts to make courts accessible and safe.",
-          "link": "https://www.berkeleyside.org/2025/09/26/ice-arrest-oakland-courthouse-alameda-county",
-          "publishedOn": "2025-09-26T18:08:26.000Z",
-          "wordCount": 7829,
-          "title": "ICE entered an Oakland courthouse. Court officials didn’t know agents were in the building",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Wiley-W-Manuel-Courthouse-in-Oakland.jpg"
         }
       ]
     },
@@ -5281,6 +5261,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/darwin-the-voyager",
+          "author": null,
+          "description": "In His Own Words (Episode 2)",
+          "link": "https://aethermug.com/posts/darwin-the-voyager?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2025-12-25T08:00:06.000Z",
+          "wordCount": 9187,
+          "title": "Darwin the Voyager",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/darwin-the-voyager/sa_map.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/darwin-the-voyager/sa_map.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/darwin-the-fun-loving-young-fellow",
           "author": null,
@@ -6315,6 +6310,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/reality-objective-exist/",
+          "author": "Ethan Siegel",
+          "description": "If there’s one thing most of us can be certain of it’s this: that our observed, physical reality actually exists. Although there are always some philosophical assumptions behind this conclusion, it’s an assumption that isn’t contradicted by anything we’ve ever measured under any conditions: not with human senses, not with laboratory equipment, not with telescopes or observatories, not under the influence of nature alone nor with specific human intervention. Reality exists, and our scientific description of that reality came about precisely because those measurements, conducted anywhere or at any time, is consistent with that very description of reality itself.\nBut there had previously been a set of assumptions that came along with our notion of reality that are no longer universally agreed…",
+          "link": "https://bigthink.com/starts-with-a-bang/reality-objective-exist/",
+          "publishedOn": "2025-12-25T07:00:00.000Z",
+          "wordCount": 4323,
+          "title": "Does our physical reality exist in an objective manner?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/spookyaction-e1726697229250.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/ice-skating-miracle-physics/",
           "author": "Ethan Siegel",
