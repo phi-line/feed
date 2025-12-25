@@ -1626,6 +1626,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=549733",
+          "author": "Cecilia Seiter",
+          "description": "The coffee trailer that featured beans from Mother Tongue Coffee officially closed on Dec. 13.",
+          "link": "https://www.berkeleyside.org/2025/12/24/open-air-coffee-closed-richmond",
+          "publishedOn": "2025-12-24T20:00:00.000Z",
+          "wordCount": 7069,
+          "title": "Richmond’s Open Air Coffee shutters",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/OpenAirCoffee-cookie-latte.jpg?fit=1252%2C928&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=547463",
           "author": "Nathan Dalton",
           "description": "Judy North designed two of the stained glass windows at Northbrae Community Church in 1954. She was never given proper credit — until now.",
@@ -4869,16 +4879,6 @@
           "wordCount": 8571,
           "title": "Betty Reid Soskin, the nation’s oldest park ranger, is still discovering herself at 104",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/BettyReidSoskin104_092225_jkadah-07-1.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544228",
-          "author": "Murray Silverstein and Helen Degenhardt",
-          "description": "Jacobson co-founded the Berkeley firm JSW/D Architects, where he worked for over 40 years.",
-          "link": "https://www.berkeleyside.org/2025/09/26/max-jacobson-obituary",
-          "publishedOn": "2025-09-26T12:00:00.000Z",
-          "wordCount": 7216,
-          "title": "Remembering Max Jacobson, architect, author, teacher",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Max-Jacobson.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -5498,6 +5498,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/IddNuhqNrRw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IddNuhqNrRw",
+          "publishedOn": "2025-12-24T23:00:33.000Z",
+          "wordCount": 2061,
+          "title": "@BrandiCarlile reflects on how quiet catharsis and vulnerability helped shape her latest album.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NMZwOXsBhEA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NMZwOXsBhEA",
+          "publishedOn": "2025-12-24T21:26:51.000Z",
+          "wordCount": 2064,
+          "title": "@sixpenceofficial decks the halls of the office with buoyant melodies that twist and twirl. ❄️⁠⁠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=j22KzIF34Xo",
           "author": null,
