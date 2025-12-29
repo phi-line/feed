@@ -4773,46 +4773,6 @@
           "wordCount": 8048,
           "title": "Remembering Ann Fagan Ginger, 100, ‘oracle of justice’ who fought McCarthyism and championed human rights",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/Ann-car-1.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544527",
-          "author": "Nico Savidge",
-          "description": "Coast live oaks around the campus have dropped their leaves and turned gray and brown, even though they’re evergreens. Experts say the trees should recover soon.",
-          "link": "https://www.berkeleyside.org/2025/09/30/uc-berkeley-oak-trees-moth",
-          "publishedOn": "2025-09-30T21:00:00.000Z",
-          "wordCount": 7314,
-          "title": "Some of Cal’s most majestic trees are looking sickly. Here’s why",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/image-6-scaled.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544539",
-          "author": "Alix Wall",
-          "description": "Coracao Chocolate specializes in gluten-free, dairy-free and peanut-free treats made from scratch.",
-          "link": "https://www.berkeleyside.org/2025/09/30/coracao-dubai-chocolate-gluten-dairy-free",
-          "publishedOn": "2025-09-30T19:35:37.000Z",
-          "wordCount": 8623,
-          "title": "Dietary restrictions made Dubai chocolate a no-no for this East Bay chocolatier. So he made his own",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/large-36_20250904_CoracaoChocolate_0434.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544525",
-          "author": "Associated Press",
-          "description": "He won the 2006 Nobel Prize for physics for finding the background radiation that finally pinned down the Big Bang theory of the universe’s beginning.",
-          "link": "https://www.berkeleyside.org/2025/09/30/obituary-george-smoot",
-          "publishedOn": "2025-09-30T19:27:25.000Z",
-          "wordCount": 7177,
-          "title": "Nobel laureate George Smoot, who researched universe’s origins at UC Berkeley, dies at 80",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25273630720667.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=462096",
-          "author": "Adhiti Bandlamudi and Sarah Wright | KQED",
-          "description": "Medicaid, Medicare, Affordable Care Act, and Social Security service should remain steady. But national parks and courts could see impacts.",
-          "link": "https://www.berkeleyside.org/2025/09/30/federal-government-shutdown-bay-area-alameda-county-berkeley",
-          "publishedOn": "2025-09-30T19:18:47.000Z",
-          "wordCount": 7911,
-          "title": "How the looming federal government shutdown could affect the Bay Area",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25272593551687-scaled-2.jpg"
         }
       ]
     },
@@ -5003,16 +4963,6 @@
           "wordCount": 991,
           "title": "Replanting Articles: Bring Legacy Posts to Your Website",
           "imageUrl": "https://cybercultural.com/assets/images/replanting.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/napster-itunes-2000/",
-          "author": null,
-          "description": "Shawn Fanning from Napster wearing a Metallica shirt to the 2000 MTV Awards; via Reddit.\nIn May 2000, Napster’s poster boy, Shawn Fanning, was featured on the cover of BusinessWeek magazine in a suit and bowtie, alongside four other “most influential people in electronic business.” Three of the four other companies represented — Yahoo, eBay and Amazon — were well established and successful dot-com businesses, and all would survive the internet economy downturn. The other company, Softbank, was a renowned investment bank.\nFanning was much younger than the other executives pictured (who included Jeff Bezos) and he was the only one on the cover not smiling. Perhaps Fanning’s grim visage was due to Napster’s legal issues — including the case brought by the Recording Industry Association of Ame…",
-          "link": "https://cybercultural.com/p/napster-itunes-2000/",
-          "publishedOn": "2025-10-01T00:00:00.000Z",
-          "wordCount": 2515,
-          "title": "2000: The Napster Monster and Apple’s Heavenly Jukebox",
-          "imageUrl": "https://cybercultural.com/assets/images/shawn-fanning-mtv-awards-2000-1280x720.jpg"
         }
       ]
     },
@@ -6344,6 +6294,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/trick-jwst-images/",
+          "author": "Ethan Siegel",
+          "description": "From Earth and across space, our telescopes continually image the Universe.\n\nThis multiwavelength view of the two largest, brightest galaxies in the M81 group shows stars, plasmas, and neutral hydrogen gas. The gas bridge connecting these two galaxies infalls onto both members, triggering the formation of new stars. If each star were shrunk down to be a grain of sand, this group would be 36 million km away, but the two galaxies would be separated only by a little over 400,000 km: the Earth-Moon distance. The galaxies comprising the M81 group will likely be the very last ones to recede from our reach in our dark energy-dominated Universe.\n\nCredit: R. Gendler, R. Croman, R. Colombari; Acknowledgement: R. Jay GaBany; VLA Data: E. de Block (ASTRON)\n\n\nBeyond their scientific value, these images…",
+          "link": "https://bigthink.com/starts-with-a-bang/trick-jwst-images/",
+          "publishedOn": "2025-12-29T07:00:00.000Z",
+          "wordCount": 2937,
+          "title": "The trick to identifying JWST images in an instant",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/01/side1-jwst-e1687121798767.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/something-instead-of-nothing/",
           "author": "Ethan Siegel",
