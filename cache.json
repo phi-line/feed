@@ -497,6 +497,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/clinic-loop",
+          "author": "Ruxandra Teslo",
+          "description": "Clinical trials are engines for scientific discovery. Better drugs require not just more trials, but also improved data collection, to create therapeutic feedback loops.",
+          "link": "https://www.asimov.press/p/clinic-loop",
+          "publishedOn": "2025-12-29T20:13:22.000Z",
+          "wordCount": null,
+          "title": "Clinic-in-the-Loop",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/88e224af-d240-43ca-b5ef-8433777e19bc_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/88e224af-d240-43ca-b5ef-8433777e19bc_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/drug-removals",
           "author": "Asimov Press",
           "description": "On the 90-year saga of oral phenylephrine.",
@@ -838,6 +854,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3187/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3187/",
+          "publishedOn": "2025-12-29T05:00:00.000Z",
+          "wordCount": 210,
+          "title": "High Altitude Cooking Instructions",
+          "imageUrl": "https://imgs.xkcd.com/comics/high_altitude_cooking_instructions_2x.png"
+        },
         {
           "id": "https://xkcd.com/3186/",
           "author": null,
@@ -5408,6 +5434,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/pnVEm6U5qq0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/pnVEm6U5qq0",
+          "publishedOn": "2025-12-29T18:01:01.000Z",
+          "wordCount": 2419,
+          "title": "@Giveon explains how staying a fan of music keeps his sound from becoming stagnant.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DISMiACmkeA",
           "author": null,
           "description": "",
@@ -8831,6 +8867,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=71770",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This Chili Cheese Fries Recipe takes the game day favourite and makes it vegan! Hearty plant-based chili and cheese are baked on a pile of crispy fries for the ultimate party snack. If hearing the words “chili cheese fries” makes you think junk food, you haven’t met this vegan version! Friends, this is a chili […]",
+          "link": "https://jessicainthekitchen.com/chili-cheese-fries-recipe/",
+          "publishedOn": "2025-12-29T15:00:00.000Z",
+          "wordCount": 8765,
+          "title": "Chili Cheese Fries Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/11/Vegan-Chili-French-Fries-14.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=72116",
           "author": "Jessica from Jessica in the Kitchen",

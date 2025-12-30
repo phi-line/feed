@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-29T18:06:58.399Z</updated>
+    <updated>2025-12-30T00:20:58.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clinic-in-the-Loop]]></title>
+        <id>https://www.asimov.press/p/clinic-loop</id>
+        <link href="https://www.asimov.press/p/clinic-loop"/>
+        <updated>2025-12-29T20:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Clinical trials are engines for scientific discovery. Better drugs require not just more trials, but also improved data collection, to create therapeutic feedback loops.]]></summary>
+        <author>
+            <name>Ruxandra Teslo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@Giveon explains how staying a fan of music keeps his sound from becoming stagnant.]]></title>
+        <id>https://www.youtube.com/shorts/pnVEm6U5qq0</id>
+        <link href="https://www.youtube.com/shorts/pnVEm6U5qq0"/>
+        <updated>2025-12-29T18:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bogus cops and crypto ATMs: Berkeley teacher scammed of her life savings]]></title>
         <id>https://www.berkeleyside.org/?p=548644</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[For 27 hours straight, a team of four scammers posing as Oakland police kept her on the phone and isolated, manipulating the John Muir elementary teacher into delivering nearly $70,000.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chili Cheese Fries Recipe]]></title>
+        <id>https://jessicainthekitchen.com/?p=71770</id>
+        <link href="https://jessicainthekitchen.com/chili-cheese-fries-recipe/"/>
+        <updated>2025-12-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This Chili Cheese Fries Recipe takes the game day favourite and makes it vegan! Hearty plant-based chili and cheese are baked on a pile of crispy fries for the ultimate party snack. If hearing the words “chili cheese fries” makes you think junk food, you haven’t met this vegan version! Friends, this is a chili […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -61,6 +91,15 @@ Credit: R. Gendler, R. Croman, R. Colombari; Acknowledgement: R. Jay GaBany; VLA
 Beyond their scientific value, these images…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Altitude Cooking Instructions]]></title>
+        <id>https://xkcd.com/3187/</id>
+        <link href="https://xkcd.com/3187/"/>
+        <updated>2025-12-29T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
