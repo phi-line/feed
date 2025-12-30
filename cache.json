@@ -1560,6 +1560,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=548604",
+          "author": "Nico Savidge",
+          "description": "One Berkeley family may own as many as five vacant properties. Their bill under the city’s new vacancy tax will be more than triple what they paid in property taxes last year.",
+          "link": "https://www.berkeleyside.org/2025/12/30/empty-empires-a-few-berkeley-landlords-are-sitting-on-several-vacant-buildings",
+          "publishedOn": "2025-12-30T16:00:00.000Z",
+          "wordCount": 8754,
+          "title": "Empty empires: A few Berkeley landlords are sitting on several vacant buildings",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/IMG_9043-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548657",
+          "author": "Joanne Furio",
+          "description": "They’re fun, they’re green, they’re cheaper than ever. From 1 to 81, Berkeley residents of all ages and abilities are taking to e-bikes — used for commutes, school drop-offs, grocery trips and joy rides.",
+          "link": "https://www.berkeleyside.org/2025/12/30/why-electric-bikes-are-everywhere-in-berkeley",
+          "publishedOn": "2025-12-30T15:00:00.000Z",
+          "wordCount": 10425,
+          "title": "Why electric bikes are everywhere in Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Ebike-1.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=548601",
+          "author": "Nathan Dalton",
+          "description": "Gifted to the city by a wealthy banker in 1919, the steeply wooded park at the base of the Berkeley Hills is a draw for Shakespeare troupes and families.",
+          "link": "https://www.berkeleyside.org/2025/12/30/john-hinkel-park-2",
+          "publishedOn": "2025-12-30T14:00:00.000Z",
+          "wordCount": 9115,
+          "title": "Berkeley’s John Hinkel Park is a ‘dream world, green world’ for theater and nature lovers",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/20250929-182336.webp?fit=1600%2C1067&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=548644",
           "author": "Alex N. Gecan",
           "description": "For 27 hours straight, a team of four scammers posing as Oakland police kept her on the phone and isolated, manipulating the John Muir elementary teacher into delivering nearly $70,000.",
@@ -5344,21 +5374,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/strive-as-it-might/ohara_koson_monkey_and_reflection_of_the_moon.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/shake-up-your-boundaries",
-          "author": null,
-          "description": "Six assorted examples",
-          "link": "https://aethermug.com/posts/shake-up-your-boundaries?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-10-02T05:47:22.000Z",
-          "wordCount": 6357,
-          "title": "Shake Up Your Boundaries",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/shake-up-your-boundaries/ales-cerin-H2DwGkqZCMc-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/shake-up-your-boundaries/ales-cerin-H2DwGkqZCMc-unsplash.jpg"
         }
       ]
     },
@@ -6284,6 +6299,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/10-of-big-thinks-favorite-2025-books/",
+          "author": "Kevin Dickinson",
+          "description": "2025 was packed with amazing books. Whether you wanted to learn about physics, history, words, birds, words about birds, killer chemistry, or enjoy some armchair philosophy, there was a book for you. I read so many fantastic books that I struggled to keep the list down to 10 — which is why it’s actually 15 (despite the title). I also couldn’t bring myself to rank them, so they’re ordered by release date.\nWhat can I say? I’m horribly indecisive.\nIf you haven’t read some of these yet, I recommend picking up any that speak to you. Who knows? Maybe one will be a favorite of yours in 2026.\n1. The Certainty Illusion by Timothy Caulfield\n\nCredit: Allen Lane\n\n\nAs a leading science communicator, Caulfield believes that “well done and trustworthy science” helps us make sense of our reality. He’s rig…",
+          "link": "https://bigthink.com/books/10-of-big-thinks-favorite-2025-books/",
+          "publishedOn": "2025-12-30T15:30:00.000Z",
+          "wordCount": 4554,
+          "title": "10 of Big Think’s favorite books in 2025",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/Favorite-Books-of-2025.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/prove-einsteins-relativity/",
           "author": "Ethan Siegel",
@@ -8773,16 +8798,6 @@
           "wordCount": 1756,
           "title": "Brian Cox: The bizarre history of black holes",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/A1-Web-Cox.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/earth-across-universe/",
-          "author": "Ethan Siegel",
-          "description": "When you view anything at all in the Universe, you’re not seeing it precisely as it is right now: at the moment you experience seeing it. The speed of light, even though it’s the fastest speed that any signal can travel throughout the Universe, is still finite. No matter how close or distant an object is, you’re only seeing it as it was a particular amount of time ago: at the moment the now-arriving light was emitted from the object you’re observing. The fact that light has to travel through space, from the emitted object to the observer that sees it, explains why there’s a gap that we have to fill in through inference alone.\nEvery observer in the Universe, so long as they haven’t spent a large amount of time traveling close to the speed of light (or in an extraordinarily large gravitation…",
-          "link": "https://bigthink.com/starts-with-a-bang/earth-across-universe/",
-          "publishedOn": "2025-10-02T06:00:00.000Z",
-          "wordCount": 4428,
-          "title": "What do distant observers see when they look at Earth?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/ezgif-2-c33f7616a2.gif?w=960&h=540&crop=1"
         }
       ]
     },
@@ -8791,6 +8806,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=67496",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This baked spaghetti recipe is pure comfort food for pasta lovers! Tender eggplant, vegan ground beef, and lots of plant-based cheese makes it irresistible. I love a baked pasta recipe. Don’t get me wrong, I love pasta too, but pasta in casserole form is just that much more comforting—not to mention that much more cheesy. […]",
+          "link": "https://jessicainthekitchen.com/baked-spaghetti/",
+          "publishedOn": "2025-12-30T15:00:00.000Z",
+          "wordCount": 9126,
+          "title": "Baked Spaghetti",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/03/Vegan-Baked-Spaghetti-18.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=71770",
           "author": "Jessica from Jessica in the Kitchen",
