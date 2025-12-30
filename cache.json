@@ -4753,16 +4753,6 @@
           "wordCount": 7782,
           "title": "Around Berkeley: Autumn festival, pumpkin patch, UC Berkeley walking tour",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/berkeleyhistorywalksandrewcropped.png?fit=2000%2C1500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544626",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/10/01/leos-diner-evergreen-dao-artisan-5-star-chicken",
-          "publishedOn": "2025-10-01T19:00:00.000Z",
-          "wordCount": 7056,
-          "title": "Evergreen Cafe picked up where Bartavelle left off; plus new Thai, fried chicken and diner options",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/EvergreenCafe-Berkeley.jpg?fit=1250%2C886&ssl=1"
         }
       ]
     },
@@ -4943,16 +4933,6 @@
           "wordCount": 1511,
           "title": "What the Internet Was Like in 2000",
           "imageUrl": "https://cybercultural.com/assets/images/homestar-runner-feature-2000.png"
-        },
-        {
-          "id": "https://cybercultural.com/p/replanting/",
-          "author": null,
-          "description": "I’ve begun a new archiving project: republishing articles I wrote a long time ago, but that have since disappeared from the web or been mangled in some way (for example, the page design is outdated or the content is out of place with its new surroundings).\nI’m calling this activity “replanting” — because it feels like moving a neglected plant, perhaps crowded by weeds and eaten by bugs, into a new garden, where it will be cared for and nurtured again.\nOf course, I’m borrowing from the digital garden approach to personal publishing advocated by Maggie Appleton and others.  Maggie even uses the term “plant” to mean posting an item (and “tend” to edit). That’s probably where the similarities end, because Maggie defines a digital garden as a collection of notes — “evolving ideas that aren’t st…",
-          "link": "https://cybercultural.com/p/replanting/",
-          "publishedOn": "2025-10-02T00:00:00.000Z",
-          "wordCount": 991,
-          "title": "Replanting Articles: Bring Legacy Posts to Your Website",
-          "imageUrl": "https://cybercultural.com/assets/images/replanting.jpg"
         }
       ]
     },
@@ -6304,6 +6284,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/prove-einsteins-relativity/",
+          "author": "Ethan Siegel",
+          "description": "As you stand on the surface of the Earth, what is it that you experience? Yes, the surrounding atoms and molecules of the atmosphere collide with your body, as do photons: particles of light. Some of these particles are particularly energetic, and can kick electrons off of the atoms and molecules they’re normally bound to, creating free electrons and ions that can strike you as well. There are ghostly neutrinos and antineutrinos passing through your body, although they rarely interact with you. But there’s more that you experience than you realize.\nAll throughout the Universe, from stars, black holes, galaxies, and more, cosmic rays are emitted: particles that stream through the Universe at high-energies. They strike Earth’s atmosphere and produce showers of both stable and unstable partic…",
+          "link": "https://bigthink.com/starts-with-a-bang/prove-einsteins-relativity/",
+          "publishedOn": "2025-12-30T07:00:00.000Z",
+          "wordCount": 4312,
+          "title": "Prove Einstein’s relativity for yourself for under $100",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/Cosmic_image-e1766077817289.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/what-happens-to-the-weavers-lessons-for-ai-from-the-industrial-revolution/",
           "author": "Andrew Singer | Knowable Magazine",
