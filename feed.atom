@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-31T06:08:02.171Z</updated>
+    <updated>2025-12-31T12:08:22.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why scientists can’t stop searching for alien life]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/science-search-alien-life/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/science-search-alien-life/"/>
+        <updated>2025-12-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite all we’ve learned about ourselves and the physical reality that we all inhabit, the giant question of whether we’re alone in the Universe remains unanswered. We’ve explored the surfaces and atmospheres of many worlds in our own Solar System, but only Earth shows definitive signs of life: past or present. We’ve discovered more than 5,000 exoplanets over the past 30 years, identifying many Earth-sized, potentially inhabited worlds among them. Still, none of them have revealed themselves as actually inhabited, although the prospects for finding extraterrestrial life in the near future are tantalizing.
+And finally, we’ve begun searching directly for any signals from space that might indicate the presence of an intelligent, technologically advanced civilization, through endeavors such a…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empty empires: A few Berkeley landlords are sitting on several vacant buildings]]></title>
         <id>https://www.berkeleyside.org/?p=548604</id>
@@ -9491,26 +9502,6 @@ But has science truly learned enough to declare what the nature of our ultimate 
         <summary type="html"><![CDATA[Also: A 24/7 UC Berkeley hotline for survivors of sexual violence and sexual harassment has been discontinued. And three traffic collisions in four days on Rose Street.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 changes you’ll notice on Southside Berkeley’s redesigned streets]]></title>
-        <id>https://www.berkeleyside.org/?p=544758</id>
-        <link href="https://www.berkeleyside.org/2025/10/02/southside-complete-streets-berkeley-bike-lanes"/>
-        <updated>2025-10-02T22:42:00.000Z</updated>
-        <summary type="html"><![CDATA[A $16.5 million project in the neighborhood bordering UC Berkeley has replaced room for cars with new infrastructure for pedestrians, bikes and buses.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farm fresh food delivered to your doorstep: A guide to the East Bay’s CSAs]]></title>
-        <id>https://www.berkeleyside.org/?p=544727</id>
-        <link href="https://www.berkeleyside.org/2025/10/02/csa-farms-east-bay-guide-fruits-vegetables-meat-seafood"/>
-        <updated>2025-10-02T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Diversify your diet, spice up home meals, and support Bay Area growers, ranchers and fishermen with a subscription to a community supported agriculture program.]]></summary>
-        <author>
-            <name>Momo Chang</name>
         </author>
     </entry>
     <entry>

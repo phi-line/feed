@@ -4713,26 +4713,6 @@
           "wordCount": 7089,
           "title": "The Wire: Will France take up Cal economist’s wealth tax?",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP21152422265999.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544758",
-          "author": "Nico Savidge",
-          "description": "A $16.5 million project in the neighborhood bordering UC Berkeley has replaced room for cars with new infrastructure for pedestrians, bikes and buses.",
-          "link": "https://www.berkeleyside.org/2025/10/02/southside-complete-streets-berkeley-bike-lanes",
-          "publishedOn": "2025-10-02T22:42:00.000Z",
-          "wordCount": 8074,
-          "title": "4 changes you’ll notice on Southside Berkeley’s redesigned streets",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Natera_Southside-Streets_251001_013.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544727",
-          "author": "Momo Chang",
-          "description": "Diversify your diet, spice up home meals, and support Bay Area growers, ranchers and fishermen with a subscription to a community supported agriculture program.",
-          "link": "https://www.berkeleyside.org/2025/10/02/csa-farms-east-bay-guide-fruits-vegetables-meat-seafood",
-          "publishedOn": "2025-10-02T19:00:00.000Z",
-          "wordCount": 8607,
-          "title": "Farm fresh food delivered to your doorstep: A guide to the East Bay’s CSAs",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/nina-luong-farmproduce-unsplash.jpg?fit=2000%2C1539&ssl=1"
         }
       ]
     },
@@ -6249,6 +6229,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/science-search-alien-life/",
+          "author": "Ethan Siegel",
+          "description": "Despite all we’ve learned about ourselves and the physical reality that we all inhabit, the giant question of whether we’re alone in the Universe remains unanswered. We’ve explored the surfaces and atmospheres of many worlds in our own Solar System, but only Earth shows definitive signs of life: past or present. We’ve discovered more than 5,000 exoplanets over the past 30 years, identifying many Earth-sized, potentially inhabited worlds among them. Still, none of them have revealed themselves as actually inhabited, although the prospects for finding extraterrestrial life in the near future are tantalizing.\nAnd finally, we’ve begun searching directly for any signals from space that might indicate the presence of an intelligent, technologically advanced civilization, through endeavors such a…",
+          "link": "https://bigthink.com/starts-with-a-bang/science-search-alien-life/",
+          "publishedOn": "2025-12-31T07:00:00.000Z",
+          "wordCount": 4331,
+          "title": "Why scientists can’t stop searching for alien life",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/https___blogs-images.forbes.com_startswithabang_files_2019_03_NASA-Dana-Berry-e1711556875766.jpg?w=960&h=540&crop=1"
+        },
         {
           "id": "https://bigthink.com/books/10-of-big-thinks-favorite-2025-books/",
           "author": "Kevin Dickinson",
