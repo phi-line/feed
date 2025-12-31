@@ -4825,6 +4825,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/mp3-blogs-2003/",
+          "author": null,
+          "description": "Pitchfork's 2003 review of MP3 blogger favorite, The Rapture.\nSeason 4 of Cybercultural has been focused on the rise of digital culture from 1994 through to 2003, a period that encompasses the beginning of the web, moves through the dot-com boom and bust, and ends the year before Web 2.0 emerges. During this season, I've written a lot about how both online music and blogging evolved from 1994-2003 — helping to push the internet into mainstream culture. It's appropriate, then, that the final post of this season looks at a sub-trend that combines these two topics: music blogs, a.k.a. \"MP3 blogs.\"\nBy 2003, with the blogosphere now established, music fans had begun to gravitate to blogs to pontificate about the music and artists they loved. It was no longer necessary to set up an entire websit…",
+          "link": "https://cybercultural.com/p/mp3-blogs-2003/",
+          "publishedOn": "2025-12-30T00:00:00.000Z",
+          "wordCount": 2086,
+          "title": "2003: MP3 Blogs and Pitchfork Shake Up Music Media",
+          "imageUrl": "https://cybercultural.com/assets/images/pitchfork-rapture-review-2003.png"
+        },
+        {
           "id": "https://cybercultural.com/p/internet-2003/",
           "author": null,
           "description": "Flash at full volume: Jamiroquai’s website in 2003.\nBy 2003, the internet had weathered the worst of the dot-com crash and developers and entrepreneurs were beginning to come out of hibernation. While it would take another year for Silicon Valley to start inflating another bubble — this one would be named \"Web 2.0\" — there was a renewed sense of optimism.\nBlogging and RSS moved into the mainstream in 2003, helped by the emergence of consumer-friendly RSS Readers like NetNewsWire and Bloglines. There was even now an economic model for blogging, with the launch of Google's AdSense in March. Also, online music went legit with Apple's iTunes store, and social networking began to take recognizable form with Friendster and MySpace.\n\"Social software\" was a geeky term being used in the blogosphere…",
@@ -6280,16 +6290,6 @@
           "publishedOn": "2025-10-06T09:00:43.000Z",
           "wordCount": null,
           "title": "31 Minutos: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ygRywAXrdgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ygRywAXrdgA",
-          "publishedOn": "2025-10-02T09:01:35.000Z",
-          "wordCount": null,
-          "title": "Rubio: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
