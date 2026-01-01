@@ -1530,6 +1530,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=548666",
+          "author": "Joanne Furio",
+          "description": "We found twins named Parker and Addison, a couple who named their three kids after streets and two girls named for the city itself.",
+          "link": "https://www.berkeleyside.org/2026/01/01/ashby-tilden-ada-rose-berkeleys-babies-are-often-named-after-local-streets-and-parks",
+          "publishedOn": "2026-01-01T15:00:00.000Z",
+          "wordCount": 10474,
+          "title": "Ashby! Tilden! Ada Rose! Berkeley’s babies are often named after local streets and parks",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/large-Natera_BerkeleyNames_250330_03.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=548653",
           "author": "Joanne Furio",
           "description": "As hills residents are told to clear vegetation around their homes to prevent wildfires, they are helping develop a new landscape design paradigm for the era of climate change.",
@@ -5057,16 +5067,6 @@
           "wordCount": 4505,
           "title": "Meera Sodha’s recipe for za’atar roast vegetables with whipped feta | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/b5209f78ed95c32520f1ad2ad563aa667c26eb03/283_1548_3205_2562/master/3205.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfc92af9dd63af8afb611b5100419fa"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/oct/04/breakfast-burrito-recipe-meera-sodha-chipotle-tofu-pinto-beans",
-          "author": "Meera Sodha",
-          "description": "A breakfast (or lunch, or brunch) all-in-one tortilla treat\nImagine a world full of all-in-one options. One type of lightbulb! A single charger for all the gadgets! One battery size! One remote control! One type of Tupperware! Universal buttons! One insurance policy for life, death and everything in between! One pan lid for all the pans! Wouldn’t that be great? That’s what the burrito, with its multiple ingredients swaddled in tortilla, promises. Except that I haven’t always loved the heft of them and the way the flavours merge too readily. So I’ve written my own recipe. For me, this is the one.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/oct/04/breakfast-burrito-recipe-meera-sodha-chipotle-tofu-pinto-beans",
-          "publishedOn": "2025-10-04T05:00:03.000Z",
-          "wordCount": 4534,
-          "title": "Meera Sodha’s recipe for breakfast burrito with chipotle tofu and pinto beans | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/f9605b9d2c1b167e0165ac280cd99b6051b0d50d/0_462_3300_2638/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c5f3a3bb80b6d0b09085baf4a4005d"
         }
       ]
     },
@@ -5075,6 +5075,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/darwin-the-man-of-his-times",
+          "author": null,
+          "description": "In His Own Words (Episode 3)",
+          "link": "https://aethermug.com/posts/darwin-the-man-of-his-times?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-01-01T11:21:43.000Z",
+          "wordCount": 11001,
+          "title": "Darwin the Man of His Times",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/darwin-the-man-of-his-times/east_india.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/darwin-the-man-of-his-times/east_india.jpeg"
+        },
         {
           "id": "https://aethermug.com/posts/darwin-the-voyager",
           "author": null,
