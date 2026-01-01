@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2025-12-31T18:06:49.049Z</updated>
+    <updated>2026-01-01T00:24:05.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -35,6 +35,15 @@
 And finally, we’ve begun searching directly for any signals from space that might indicate the presence of an intelligent, technologically advanced civilization, through endeavors such a…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone Else Here]]></title>
+        <id>https://xkcd.com/3188/</id>
+        <link href="https://xkcd.com/3188/"/>
+        <updated>2025-12-31T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
