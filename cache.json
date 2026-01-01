@@ -4653,46 +4653,6 @@
           "wordCount": 7608,
           "title": "This UC Berkeley student could be first to graduate while incarcerated",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251001-182028.webp?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544854",
-          "author": "Morgan McFall-Johnsen",
-          "description": "Peyrin Kao, a Cal lecturer, says he’s lost 15 pounds since he started his hunger in solidarity with residents of Gaza enduring famine.",
-          "link": "https://www.berkeleyside.org/2025/10/03/peyrin-kao-uc-berkley-hunger-strike-name-shared-trump-administration",
-          "publishedOn": "2025-10-03T23:58:55.000Z",
-          "wordCount": 8450,
-          "title": "Cal sent his name to the Trump administration. He’s still kept up a 38-day hunger strike for Gaza.",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251003-234759.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544839",
-          "author": "Nico Savidge",
-          "description": "A group sued Berkeley over three City Council meetings that were moved to a private conference room after protesters interrupted them.",
-          "link": "https://www.berkeleyside.org/2025/10/03/berkeley-city-council-brown-act-public-meetings-ruling",
-          "publishedOn": "2025-10-03T20:26:34.000Z",
-          "wordCount": 7521,
-          "title": "Berkeley council’s back-room meetings amid Gaza protests violated transparency law, appeals court says",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/01/20240120-003730.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544817",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/10/03/starbucks-east-bay-closures-riggers-loft",
-          "publishedOn": "2025-10-03T19:00:00.000Z",
-          "wordCount": 6670,
-          "title": "As pumpkin spice season arrives, Starbucks culls Bay Area cafes",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/athar-khan-Starbucks-unsplash.jpg?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544805",
-          "author": "Vanessa Arredondo",
-          "description": "The Berkeley Federation of Teachers and BUSD began the school year with an expired labor agreement.",
-          "link": "https://www.berkeleyside.org/2025/10/03/berkeley-teachers-rally-busd-for-new-fair-contract",
-          "publishedOn": "2025-10-03T18:12:06.000Z",
-          "wordCount": 7688,
-          "title": "Berkeley teachers rally at school board for new contract, better working conditions",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_1748-scaled.jpg"
         }
       ]
     },
@@ -6209,6 +6169,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/10-quantum-myths/",
+          "author": "Ethan Siegel",
+          "description": "For centuries, the laws of physics seemed completely deterministic. If you knew where every particle was, how fast it was moving, and what the forces were between them at any one instant, you could know exactly where they’d be and what they’d be doing at any point in the future. From Newton to Maxwell, the rules that governed the Universe had no built-in, inherent uncertainty to them in any form. Your only limits arose from your limited knowledge, measurements, and calculational power.\nAll of that changed a little over 100 years ago. From radioactivity to the photoelectric effect to the behavior of light when you passed it through a double slit, we began realizing that under many circumstances, we could only predict the probability that various outcomes would arise as a consequence of the …",
+          "link": "https://bigthink.com/starts-with-a-bang/10-quantum-myths/",
+          "publishedOn": "2026-01-01T07:00:00.000Z",
+          "wordCount": 3669,
+          "title": "10 quantum myths that must die in the new year",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/12/quantum_ill.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/science-search-alien-life/",
           "author": "Ethan Siegel",
