@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-02T06:08:03.242Z</updated>
+    <updated>2026-01-02T12:08:15.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Why is there no such thing as antigravity?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/why-no-antigravity/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/why-no-antigravity/"/>
+        <updated>2026-01-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although there are four known fundamental forces to the Universe, there’s only one that matters on the largest cosmic scales of all: gravitation. The other three fundamental forces:
+the strong nuclear force, which holds protons and neutrons together,
+the weak nuclear force, responsible for radioactive decays and any “species change” among quarks and leptons,
+and the electromagnetic force, which causes neutral atoms to form,
+are all largely irrelevant on cosmic scales. The reason why is simple: the other forces, when you gather large sets of particles together, all balance out at large distances. Matter, under those three forces, appears “neutral” at large scales, and no net force exists.
+But not so with gravitation. In fact, gravitation is unique in this sense. With gravitation, there are …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ashby! Tilden! Ada Rose! Berkeley’s babies are often named after local streets and parks]]></title>
         <id>https://www.berkeleyside.org/?p=548666</id>
