@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-02T12:08:15.363Z</updated>
+    <updated>2026-01-02T18:06:49.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet the UC Berkeley data team who proved Trump isn’t deporting just ‘worst of the worst’]]></title>
+        <id>https://www.berkeleyside.org/?p=548670</id>
+        <link href="https://www.berkeleyside.org/2026/01/02/meet-the-uc-berkeley-data-team-who-proved-trump-isnt-deporting-just-worst-of-the-worst"/>
+        <updated>2026-01-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Launched in March at Berkeley Law, the Deportation Data Project has sued over ignored FOIA requests and become a go-to resource for establishing baseline facts about Trump’s immigration crackdown.]]></summary>
+        <author>
+            <name>Karina Ioffee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Berkeley, she’s built one of the world’s largest archives of Zimbabwean Shona music]]></title>
+        <id>https://www.berkeleyside.org/?p=548669</id>
+        <link href="https://www.berkeleyside.org/2026/01/02/in-berkeley-shes-built-one-of-the-worlds-largest-archives-of-zimbabwean-shona-music"/>
+        <updated>2026-01-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Erica Azim has spent decades studying and performing with revered Shona artists. Her nonprofit has recorded thousands of songs and sent more than $1.6 million to Zimbabwean musicians and instrument makers.]]></summary>
+        <author>
+            <name>Andrew Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask Ethan: Why is there no such thing as antigravity?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/why-no-antigravity/</id>
