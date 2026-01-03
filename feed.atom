@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-03T00:20:17.132Z</updated>
+    <updated>2026-01-03T06:06:51.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s recipe for radicchio and chianti risotto]]></title>
+        <id>https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha"/>
+        <updated>2026-01-03T06:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Bittersweet maroon leaves pair perfectly with juicy red wine in this elegant winter risotto served with a walnut pesto
+Bitter ingredients are not to everyone’s taste, but, amid these darkest months, they make me feel alive. I love Seville oranges, grapefruit, brassicas, bitter greens, chicory and, most of all, radicchio. I like the burgundy-spotted castelfranco (great for salad with citrus and cheese) and the long-locked tardivo (best cooked with balsamic vinegar), but radicchio di chioggia is the popular leader of the pack. A chubby little cabbage-y nugget with a middle-of-the-road bitterness that becomes milder, sweeter and more delicious, especially when cooked alongside a large glass of juicy chianti and finished off with a snowy dusting of parmesan.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet the UC Berkeley data team who proved Trump isn’t deporting just ‘worst of the worst’]]></title>
         <id>https://www.berkeleyside.org/?p=548670</id>
@@ -39,6 +51,15 @@ are all largely irrelevant on cosmic scales. The reason why is simple: the other
 But not so with gravitation. In fact, gravitation is unique in this sense. With gravitation, there are …]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conic Sections]]></title>
+        <id>https://xkcd.com/3189/</id>
+        <link href="https://xkcd.com/3189/"/>
+        <updated>2026-01-02T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

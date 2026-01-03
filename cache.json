@@ -819,6 +819,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3189/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3189/",
+          "publishedOn": "2026-01-02T05:00:00.000Z",
+          "wordCount": 206,
+          "title": "Conic Sections",
+          "imageUrl": "https://imgs.xkcd.com/comics/conic_sections_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3188/",
           "author": null,
           "description": "",
@@ -4958,6 +4968,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Bittersweet maroon leaves pair perfectly with juicy red wine in this elegant winter risotto served with a walnut pesto\nBitter ingredients are not to everyone’s taste, but, amid these darkest months, they make me feel alive. I love Seville oranges, grapefruit, brassicas, bitter greens, chicory and, most of all, radicchio. I like the burgundy-spotted castelfranco (great for salad with citrus and cheese) and the long-locked tardivo (best cooked with balsamic vinegar), but radicchio di chioggia is the popular leader of the pack. A chubby little cabbage-y nugget with a middle-of-the-road bitterness that becomes milder, sweeter and more delicious, especially when cooked alongside a large glass of juicy chianti and finished off with a snowy dusting of parmesan.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha",
+          "publishedOn": "2026-01-03T06:00:29.000Z",
+          "wordCount": 4578,
+          "title": "Meera Sodha’s recipe for radicchio and chianti risotto",
+          "imageUrl": "https://i.guim.co.uk/img/media/fb23fd0cef99e2d2d0c1d0a6e753ab0b7723e799/162_1469_3053_2443/master/3053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73b2a9bb7eda61a22669104ca9081730"
+        },
         {
           "id": "https://www.theguardian.com/food/2025/dec/27/pumpkin-cheese-fondue-recipe-meera-sodha",
           "author": "Meera Sodha",
