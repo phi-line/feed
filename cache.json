@@ -4557,26 +4557,6 @@
           "wordCount": 7768,
           "title": "125 years of Latino history in Berkeley explored in new exhibit",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_1807-scaled.jpg?fit=2560%2C2099&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545017",
-          "author": "Andrew Gilbert",
-          "description": "It’s the first time the transit agency’s Sound Tracks concert series will throw an outdoor party in partnership with SFJAZZ.",
-          "link": "https://www.berkeleyside.org/2025/10/07/bart-sound-tracks",
-          "publishedOn": "2025-10-07T23:57:12.000Z",
-          "wordCount": 7351,
-          "title": "BART is hosting a jazz festival in North Berkeley this Saturday",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251007-235316.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=544993",
-          "author": "Nathan Dalton",
-          "description": "The grant from the California Department of Food and Agriculture will allow Saba to create a Food Hub at the Oakland produce terminal and offer its services across Alameda County.",
-          "link": "https://www.berkeleyside.org/2025/10/07/saba-grocers-food-hub-grant-alameda",
-          "publishedOn": "2025-10-07T19:39:19.000Z",
-          "wordCount": 7769,
-          "title": "Saba Grocers awarded $2M to expand fight against ‘food apartheid’",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/SabaGrocers-Store-ScottChernis.jpg"
         }
       ]
     },
@@ -4757,16 +4737,6 @@
           "wordCount": 1442,
           "title": "2001: Steve Jobs Launches iTunes and Apple’s Digital Hub",
           "imageUrl": "https://cybercultural.com/assets/images/steve-jobs-digitalhub-jan2001.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/internet-2000/",
-          "author": null,
-          "description": "Still from a 2000 Homestar Runner Flash toon; via Internet Archive.\nAfter the hype and fear of Y2K (a.k.a. the Millenium bug) quickly faded in January 2000, the internet continued its mostly joyful rise in the culture. Sure, the dot-com bubble got pricked in March and then slowly deflated, but the web itself didn't stop growing.\nOver 2000, \"the Net\" became an even more colorful, and increasingly social, place to hang out. Animated Flash pages were everywhere, bloggers were discovering and connecting to each other, social news sites like Slashdot and MetaFilter were rising in prominence. So despite the flagging economy, creativity in web design plus community in blogs and social news came to define the year 2000.\nThe Web Keeps Growing, Even as the Bubble Bursts\nWe have to start, though, wit…",
-          "link": "https://cybercultural.com/p/internet-2000/",
-          "publishedOn": "2025-10-08T00:00:00.000Z",
-          "wordCount": 1511,
-          "title": "What the Internet Was Like in 2000",
-          "imageUrl": "https://cybercultural.com/assets/images/homestar-runner-feature-2000.png"
         }
       ]
     },
@@ -5191,6 +5161,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rMWjbb2l5BE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rMWjbb2l5BE",
+          "publishedOn": "2026-01-05T10:01:28.000Z",
+          "wordCount": null,
+          "title": "Daniel Caesar: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/pnVEm6U5qq0",
           "author": null,
@@ -6050,36 +6030,6 @@
           "wordCount": 2023,
           "title": "#eltiny • @chuwipr explains why the song\"Tierra\" resonates so deeply when they sing it.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-KKa6weZutE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-KKa6weZutE",
-          "publishedOn": "2025-10-08T00:00:00.000Z",
-          "wordCount": 2002,
-          "title": "It’s been 30 years since @carlosvives released \"La Tierra del Olvido,\" reshaping Colombian music.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fbDrSzbLiqE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fbDrSzbLiqE",
-          "publishedOn": "2025-10-07T21:00:43.000Z",
-          "wordCount": 2016,
-          "title": "​@AdrianQuesada brings four boleros from two volumes of his project, 'Boleros Psicodélicos.' ✨️⁠⁠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/POA1lFwL494",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/POA1lFwL494",
-          "publishedOn": "2025-10-07T19:27:52.000Z",
-          "wordCount": 1996,
-          "title": "@lidopimientaTV explains how a playful idea turned into a reimagining of classical music.",
-          "imageUrl": null
         }
       ]
     },
@@ -6088,6 +6038,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/oxygen-jwst-most-distant-galaxies/",
+          "author": "Ethan Siegel",
+          "description": "At the frontiers of science, surprises often appear.\n\nThis image shows a portion of the CEERS survey’s area, viewed with JWST and with NIRCam imagery. Within this field of view lies a galaxy with an active supermassive black hole: CEERS 1019, which weighs in at 9 million solar masses at a time from when the Universe was less than 600 million years old. It was the earliest black hole ever discovered, until that record was broken yet again in November of 2023.\n\nCredit: NASA, ESA, CSA, Steve Finkelstein (UT Austin), Micaela Bagley (UT Austin), Rebecca Larson (UT Austin)\n\n\nJWST’s superior size — and unique infrared capabilities — have broken many cosmic records already.\n\nPreliminary total system throughput for each NIRCam filter, including contributions from the JWST Optical Telescope Element …",
+          "link": "https://bigthink.com/starts-with-a-bang/oxygen-jwst-most-distant-galaxies/",
+          "publishedOn": "2026-01-05T07:00:00.000Z",
+          "wordCount": 2790,
+          "title": "What does oxygen in JWST’s most distant galaxies really mean?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/eso2507a.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/why-no-antigravity/",
           "author": "Ethan Siegel",
@@ -8467,16 +8427,6 @@
           "wordCount": 4273,
           "title": "Macroscopic quantum tunneling wins 2025’s Nobel Prize in physics",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/press-physicsprize2025-figure2.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/plus/why-95-of-ai-rollouts-fail-and-what-ld-leaders-can-do-about-it/",
-          "author": "Christopher Lind",
-          "description": "Companies are pouring staggering amounts of money into artificial intelligence. IDC projects global spending will surpass half a trillion dollars within the next two years. Boardrooms are talking about it, tech vendors are promising it, and learning and development teams are feeling the pressure to show they’re ‘doing something with AI.’\nAnd yet, the results are almost invisible. MIT recently reported that 95 percent of AI projects fail to deliver measurable outcomes. Despite the unprecedented investment, productivity gains are elusive, employee adoption is shaky, and the business case often collapses under scrutiny.\nHow can we surround ourselves with the most powerful technology in human history, spend billions deploying it, and still struggle to prove it makes us better? The answer isn’t…",
-          "link": "https://bigthink.com/plus/why-95-of-ai-rollouts-fail-and-what-ld-leaders-can-do-about-it/",
-          "publishedOn": "2025-10-07T19:55:49.000Z",
-          "wordCount": 2008,
-          "title": "Why 95% of AI rollouts fail and what L&D leaders can do about it",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Why-95-of-AI-Rollouts-Fail.jpg?resize=1200,630"
         }
       ]
     },
