@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157613",
+          "author": "George Musser",
+          "description": "Try as they might, scientists can’t truly rid a space or an object of its energy. But what “zero-point energy” really means is up for interpretation.            \nThe post In Quantum Mechanics, Nothingness Is the Potential To Be Anything first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/",
+          "publishedOn": "2026-01-05T15:31:21.000Z",
+          "wordCount": 2399,
+          "title": "In Quantum Mechanics, Nothingness Is the Potential To Be Anything",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Zero-Point-Energy-cr-TK-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157554",
           "author": "Ivan Amato",
           "description": "Research into how a father’s choices — such as diet, exercise, stress, nicotine use — may transfer traits to his children has become impossible to ignore.            \nThe post How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA first appeared on Quanta Magazine",
@@ -456,6 +466,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/nature",
+          "author": "Asimov Press",
+          "description": "Since launching in 1869, Nature has evolved from a periodical offering commentary on pigeons to the prestige journal in science. But how did Nature build its reputation, and can it last?",
+          "link": "https://www.asimov.press/p/nature",
+          "publishedOn": "2026-01-05T16:07:09.000Z",
+          "wordCount": null,
+          "title": "How Nature Became a 'Prestige' Journal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!64Mt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5989291-943e-40c2-9781-57d68edd02f6_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!64Mt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5989291-943e-40c2-9781-57d68edd02f6_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/clinic-loop",
           "author": "Ruxandra Teslo",
@@ -1151,16 +1177,6 @@
           "wordCount": 208,
           "title": "Hot Water Balloon",
           "imageUrl": "https://imgs.xkcd.com/comics/hot_water_balloon_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3152/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3152/",
-          "publishedOn": "2025-10-08T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Skateboard",
-          "imageUrl": "https://imgs.xkcd.com/comics/skateboard_2x.png"
         }
       ]
     },
@@ -1196,6 +1212,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/a-test-of-great-power-spheres-of-influence",
+          "author": "Nathan Gardels",
+          "description": "The post A Test Of Great Power Spheres Of Influence appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-test-of-great-power-spheres-of-influence",
+          "publishedOn": "2026-01-05T17:30:36.000Z",
+          "wordCount": 3332,
+          "title": "A Test Of Great Power Spheres Of Influence",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/Uncle_Sam_Straddles_the_Americas_Cartoon.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C82%2C719%2C376&w=1200&wpsize=noema-social-facebook&s=72505760f4a64065782cc38d9a09f10a"
+        },
         {
           "id": "https://www.noemamag.com/noemas-top-artwork-of-2025",
           "author": "Noema editors",
@@ -1483,6 +1509,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=543344",
+          "author": "Andrea Madison | The Orinda News",
+          "description": "A 2.5 mile-stretch of the road below Inspiration Point, a popular route from the Berkeley Hills to Orinda and the reservoirs, reopened in December.",
+          "link": "https://www.berkeleyside.org/2026/01/05/wildcat-canyon-road-tilden-landslide-reopening",
+          "publishedOn": "2026-01-05T17:19:10.000Z",
+          "wordCount": 7498,
+          "title": "Wildcat Canyon Road in Tilden reopens years after landslide",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/image-2-scaled.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549362",
+          "author": "Nico Savidge",
+          "description": "The city plans to build community gardens and a dog park along a long-neglected strip of the former Santa Fe railroad line.",
+          "link": "https://www.berkeleyside.org/2026/01/05/new-berkeley-park-santa-fe-designs",
+          "publishedOn": "2026-01-05T15:00:00.000Z",
+          "wordCount": 7536,
+          "title": "Southwest Berkeley will get a new park this year. See the plans",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/12/IMG_7091.jpg?fit=4032%2C3024&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=548670",
           "author": "Karina Ioffee",
@@ -5138,21 +5184,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://aethermug.com/assets/posts/visualizing-framings/jtbd_2.png"
-        },
-        {
-          "id": "https://aethermug.com/posts/strive-as-it-might",
-          "author": null,
-          "description": "",
-          "link": "https://aethermug.com/posts/strive-as-it-might?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-10-08T01:53:18.000Z",
-          "wordCount": 388,
-          "title": "Strive as It Might",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/strive-as-it-might/ohara_koson_monkey_and_reflection_of_the_moon.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/strive-as-it-might/ohara_koson_monkey_and_reflection_of_the_moon.jpeg"
         }
       ]
     },
@@ -6038,6 +6069,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/strange-maps/submarine-wall/",
+          "author": "Frank Jacobs",
+          "description": "“This can’t be natural,” thought Yves Fouquet.\nThe geologist was studying a newly produced undersea depth chart, generated with LIDAR technology, for the waters off Finistère — the jagged western tip of France, where the land pushes stubbornly into the Atlantic. What caught his eye was a ruler-straight line, 120 meters (394 feet) long, cutting cleanly across an underwater valley.\nNature, as a rule, doesn’t do straight lines.\nFouquet’s hunch proved correct, though confirmation had to wait until the following winter, when seaweed die-off had created visibility. That seasonal window allowed marine archaeologists to dive into the cold, choppy waters just off the tiny Breton island of Sein, and map what lay below.\nNine meters (30 feet) beneath the waves, they found it: a vast, man-made stone wa…",
+          "link": "https://bigthink.com/strange-maps/submarine-wall/",
+          "publishedOn": "2026-01-05T15:53:12.000Z",
+          "wordCount": 2845,
+          "title": "7,000-year-old underwater wall raises questions about ancient engineering — and lost-city legends",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/Cropped-TAF.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/oxygen-jwst-most-distant-galaxies/",
           "author": "Ethan Siegel",
@@ -8417,16 +8458,6 @@
           "wordCount": 1715,
           "title": "How humans create reality through language and beliefs",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-BB-Language-Web-A.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/",
-          "author": "Ethan Siegel",
-          "description": "Here in the classical world, if you throw a ball against a solid wall, that wall will be impenetrable, and the ball will bounce right back. Do it a hundred times, a thousand times, a million times, and the result will always be the same. As long as the wall remains intact, the ball will always remain on that same, initial side of the wall.\nThings are a little different in the quantum world, however. If you fire a subatomic particle, like an electron, at a barrier — whether that’s a solid barrier made of atoms or merely an energy barrier, where the particle doesn’t have enough energy, itself, to get to the other side — most of the electrons will bounce back. But there’s a chance, dependent on the:\nspeed and energy of the electron,\nthe height and thickness of the (physical or energy) barrier…",
-          "link": "https://bigthink.com/starts-with-a-bang/quantum-advances-2025-nobel-prize-physics/",
-          "publishedOn": "2025-10-08T06:00:00.000Z",
-          "wordCount": 4273,
-          "title": "Macroscopic quantum tunneling wins 2025’s Nobel Prize in physics",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/press-physicsprize2025-figure2.jpg?resize=1200,630"
         }
       ]
     },
@@ -8435,6 +8466,26 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=72212",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Whether you add this homemade Vegan Salami recipe to a sandwich or a charcuterie board, its bold savoury flavour is guaranteed to be a knockout! I’ll show you step-by-step how to make this deli-style favourite. I wish I could brag about the amount of work I put into this vegan salami recipe. It looks and […]",
+          "link": "https://jessicainthekitchen.com/vegan-salami-recipe/",
+          "publishedOn": "2026-01-05T15:00:00.000Z",
+          "wordCount": 8825,
+          "title": "Homemade Vegan Salami Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/12/Vegan-Salami_18.jpg"
+        },
+        {
+          "id": "https://jessicainthekitchen.com/?p=72115",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Miso Tofu Soup is comfort food Japanese-style! It’s warm and soothing when you’re under the weather or just craving a cozy meal. It’s deeply savoury, and the addition of tofu makes it satisfying too.  Miso might just be one of the most under-appreciated ingredients in the vegan pantry. It delivers so much depth, so many […]",
+          "link": "https://jessicainthekitchen.com/miso-tofu-soup/",
+          "publishedOn": "2026-01-02T15:00:00.000Z",
+          "wordCount": 8198,
+          "title": "Miso Tofu Soup",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/12/Vegan-Miso-Soup-13.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=67496",
           "author": "Jessica from Jessica in the Kitchen",
