@@ -1510,6 +1510,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=549871",
+          "author": "Family of Joanne Wilkens",
+          "description": "She was a teacher of English as a second language, the author of a book about women entrepreneurs, an animal lover, a world traveler and a pursuer of the rustic life.",
+          "link": "https://www.berkeleyside.org/2026/01/05/joanne-wilkens-obituary",
+          "publishedOn": "2026-01-06T00:15:57.000Z",
+          "wordCount": 7208,
+          "title": "Remembering Joanne Wilkens, teacher, writer, restorer of historic barns",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Joanne-Wilkens-ft.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549879",
+          "author": "Alex N. Gecan",
+          "description": "Roads and paths flooded by the Berkeley waterfront, and weather experts warned that the days of rain could elevate the risk of small landslides until the ground dries out.",
+          "link": "https://www.berkeleyside.org/2026/01/05/berkeley-rainfall-king-tide-flooding-landslide-risk",
+          "publishedOn": "2026-01-05T23:53:13.000Z",
+          "wordCount": 6904,
+          "title": "Days of rain, record-breaking ‘king tide’ soak Berkeley; sun returns Tuesday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Flooded-neighborhood.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549863",
+          "author": "Cecilia Seiter",
+          "description": "Cafe da Fonk, Breadwinners, and Li's Knife Cut Noodle were among the restaurants to open before the end of 2025.",
+          "link": "https://www.berkeleyside.org/2026/01/05/cafe-da-fonk-lis-knife-cut-panisse-openings",
+          "publishedOn": "2026-01-05T21:00:00.000Z",
+          "wordCount": 7828,
+          "title": "New cafes and sandwich spots, knife-cut noodles, and the premiere of Bar Panisse mark December debuts",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/CafeDaFonk-sandwich.jpg?fit=1500%2C1095&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549812",
+          "author": "CalMatters and EdSource",
+          "description": "From expanded coverage for in vitro fertilization to preventing sex abuse in schools, here are some of the most noteworthy 2026 laws that went into effect on Jan. 1.",
+          "link": "https://www.berkeleyside.org/2026/01/05/new-california-laws-2026",
+          "publishedOn": "2026-01-05T18:08:02.000Z",
+          "wordCount": 10100,
+          "title": "New California laws in effect for 2026",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/image.png"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=543344",
           "author": "Andrea Madison | The Orinda News",
           "description": "A 2.5 mile-stretch of the road below Inspiration Point, a popular route from the Berkeley Hills to Orinda and the reservoirs, reopened in December.",
@@ -6069,6 +6109,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/what-is-stoicism/",
+          "author": "Massimo Pigliucci",
+          "description": "Stoicism is often mistaken for emotional withdrawal or rigid self-control. What that misinterpretation gets wrong is that it actually centers the discipline of attention. \nMassimo Pigliucci reframes this misconception, revealing how this philosophy can lead to a clearer sense of agency – if implemented correctly.\nThis video Why Stoicism fails when treated like self-help is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/what-is-stoicism/",
+          "publishedOn": "2026-01-05T21:22:27.000Z",
+          "wordCount": 4893,
+          "title": "Why Stoicism fails when treated like self-help",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/B1-Web-Pigliucci.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/strange-maps/submarine-wall/",
           "author": "Frank Jacobs",
