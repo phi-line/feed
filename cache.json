@@ -4577,26 +4577,6 @@
           "wordCount": 7760,
           "title": "Around Berkeley: Indigenous Peoples Day Powwow, Sharkober Cleanup, chicken coop tour",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/medium-Natera_230303_049_ChicksEcoFuel_008.jpg?fit=780%2C556&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545091",
-          "author": "Farida Jhabvala Romero | KQED",
-          "description": "Over half of East Bay workers were not paid enough to support a four-person household, UC Berkeley researchers found.",
-          "link": "https://www.berkeleyside.org/2025/10/08/east-bay-workers",
-          "publishedOn": "2025-10-08T22:23:19.000Z",
-          "wordCount": 7072,
-          "title": "East Bay workers now earn more, but many still struggle to make ends meet",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251008-222155.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545060",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/10/08/babette-la-miranda-closing",
-          "publishedOn": "2025-10-08T19:00:00.000Z",
-          "wordCount": 6474,
-          "title": "Beloved Berkeley hub Babette announces closing date; The Miranda shuts down after 9 years",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Patrick-Hooker-and-Joan-Ellis-of-Babette-Credit-Babette.jpg?fit=1440%2C1029&ssl=1"
         }
       ]
     },
@@ -6043,6 +6023,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/cloud-9-starless-gas-cloud/",
+          "author": "Ethan Siegel",
+          "description": "Out there, in the vast Universe, are clumps of matter that come in many different sizes and masses. We might be most familiar with galaxies like our Milky Way: with hundreds of billions of solar masses worth of stars, even more gas and plasma, and more than a trillion solar masses worth of dark matter. At smaller masses, however, it takes longer, and becomes more and more difficult, for clouds of normal matter to collapse. If these low-mass clumps of matter do collapse, they’ll form stars, with the radiation from those stars often blowing the remaining gaseous matter away, but it’s also possible that — with enough externally injected energy — those clumps will never collapse.\nThat’s the idea behind what astronomers call a RELHIC: a Reionization-Limited HI Cloud, or a cloud of neutral hydro…",
+          "link": "https://bigthink.com/starts-with-a-bang/cloud-9-starless-gas-cloud/",
+          "publishedOn": "2026-01-06T07:00:00.000Z",
+          "wordCount": 4361,
+          "title": "Astronomers are on “Cloud 9” with a new, starless gas cloud",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/fullres.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/what-is-stoicism/",
           "author": "Massimo Pigliucci",
