@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157734",
+          "author": "Ben Brubaker",
+          "description": "Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.            \nThe post Distinct AI Models Seem To Converge On How They Encode Reality first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/",
+          "publishedOn": "2026-01-07T15:23:04.000Z",
+          "wordCount": 3465,
+          "title": "Distinct AI Models Seem To Converge On How They Encode Reality",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Platonic-Representations-cr-Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157613",
           "author": "George Musser",
           "description": "Try as they might, scientists can’t truly rid a space or an object of its energy. But what “zero-point energy” really means is up for interpretation.            \nThe post In Quantum Mechanics, Nothingness Is the Potential To Be Anything first appeared on Quanta Magazine",
@@ -1151,16 +1161,6 @@
           "wordCount": 206,
           "title": "Physics Insight",
           "imageUrl": "https://imgs.xkcd.com/comics/physics_insight_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3153/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3153/",
-          "publishedOn": "2025-10-10T04:00:00.000Z",
-          "wordCount": 208,
-          "title": "Hot Water Balloon",
-          "imageUrl": "https://imgs.xkcd.com/comics/hot_water_balloon_2x.png"
         }
       ]
     },
@@ -1493,6 +1493,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=549926",
+          "author": "Family of Phyllis Carr",
+          "description": "In Berkeley, she founded the group Neighbors of Stanton Street and once picketed City Hall solo until it relented and paved the pothole-ridden street.",
+          "link": "https://www.berkeleyside.org/2026/01/07/remembering-phyllis-carr-flight-attendant-real-estate-broker-who-founded-her-own-company",
+          "publishedOn": "2026-01-07T12:31:00.000Z",
+          "wordCount": 7149,
+          "title": "Remembering Phyllis Carr, flight attendant, real estate broker who founded her own company",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Phyllis-at-65-scaled.jpeg?fit=2560%2C1920&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549874",
           "author": "Felicia Mello",
@@ -4577,16 +4587,6 @@
           "wordCount": 7862,
           "title": "Why this Berkeley poet is training to fight wildfires",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Richardson.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545160",
-          "author": "Berkeleyside Staff",
-          "description": "Plus: Kaiser and Sutter workers are preparing to strike, and a UC Berkeley vision scientist has won a MacArthur \"genius award.\"",
-          "link": "https://www.berkeleyside.org/2025/10/09/chez-panisse-expansion-menu-berkeley-birthday-gang-bang-love-story",
-          "publishedOn": "2025-10-10T00:15:00.000Z",
-          "wordCount": 6589,
-          "title": "The Wire: Chez Panisse expansion menu; Berkeley birthday gang bang love story",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/cesar_chez_panisse.jpeg?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -8392,16 +8392,6 @@
           "wordCount": 4773,
           "title": "The alarm bells are sounding for young men. Will we listen?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/A1-Web-Reeves.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/how-many-generations-stas-before-sun/",
-          "author": "Ethan Siegel",
-          "description": "Here in our modern Universe, even in just our own Milky Way, we observe stars in all different stages of life:\nmolecular gas clouds that are contracting and fragmenting,\nleading to protostars and young stellar objects,\nbecoming full-fledged stars with protoplanetary disks around them,\nconventional stars burning through their fuel with their own fully-formed planetary systems,\nstars evolving into subgiants, giants, and even supergiants,\nstars dying in planetary nebulae, supernovae, and other life-ending events,\nand stellar remnants of now-extinct stars like white dwarfs, neutron stars, and black holes.\nWe can trace back the history of our Universe a full 13.8 billion years, to the earliest stages of the hot Big Bang, measuring the star-formation rate all throughout our cosmic history.\nIt wa…",
-          "link": "https://bigthink.com/starts-with-a-bang/how-many-generations-stas-before-sun/",
-          "publishedOn": "2025-10-10T06:00:00.000Z",
-          "wordCount": 4762,
-          "title": "Ask Ethan: How many generations of stars came before the Sun?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Full-Res.jpg?resize=1200,630"
         }
       ]
     },
