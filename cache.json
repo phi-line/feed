@@ -457,6 +457,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/research-forms",
+          "author": "Samuel Arbesman",
+          "description": "Despite attempts at variation, many new research organizations are canalized into just a handful of forms.",
+          "link": "https://www.asimov.press/p/research-forms",
+          "publishedOn": "2026-01-08T17:55:11.000Z",
+          "wordCount": null,
+          "title": "Why Do Research Institutes Often Look the Same?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/114b5590-e34d-401f-940d-68919ad93eec_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/114b5590-e34d-401f-940d-68919ad93eec_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/nature",
           "author": "Asimov Press",
           "description": "Since launching in 1869, Nature has evolved from a periodical offering commentary on pigeons to the prestige journal in science. But how did Nature build its reputation, and can it last?",
@@ -1197,6 +1213,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-new-anti-political-fervor",
+          "author": "Anton Cebalo",
+          "description": "The post A New Anti-Political Fervor appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-anti-political-fervor",
+          "publishedOn": "2026-01-08T15:02:28.000Z",
+          "wordCount": 8569,
+          "title": "A New Anti-Political Fervor",
+          "imageUrl": "https://www.noemamag.com/wp-content/uploads/2026/01/Noema-Magazine-Anti-politics-Mr.Nelson-design.png"
+        },
+        {
           "id": "https://www.noemamag.com/where-the-prairie-still-remains",
           "author": "Christian Elliott",
           "description": "The post Where The Prairie Still Remains appeared first on NOEMA.",
@@ -1483,6 +1509,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550085",
+          "author": "Felicia Mello",
+          "description": "The university also welcomed more California residents, enrolling its largest-ever student body.",
+          "link": "https://www.berkeleyside.org/2026/01/08/uc-berkeley-enrollment-international-students",
+          "publishedOn": "2026-01-08T13:00:00.000Z",
+          "wordCount": 7207,
+          "title": "Defying a nationwide trend, UC Berkeley enrolled more new international students this year",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/AP22089797873830.jpg?fit=1024%2C683&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549990",
           "author": "Andrew Gilbert",
@@ -4981,16 +5017,6 @@
           "wordCount": 4580,
           "title": "Meera Sodha’s recipe for jacket sweet potato with smoked tofu, slaw and crispy chilli mayo | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/84f3f8c0d47affd8db215752c0684cc2b4e44c69/0_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3cb5c1709c000e5d05286f49ff95ee97"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/oct/11/meera-sodha-recipe-zaatar-roast-vegetables-whipped-feta",
-          "author": "Meera Sodha",
-          "description": "Toss spiced roast veg with creamy butter beans, fresh mint and zesty lemon, then pile it all high on a big platter\nThis year, I bought three oval platters: a small, silver-plated one from a local charity shop on which I serve crisps to make them look fancy; a medium-sized splattered enamel one for everyday everything; and a very large, stainless-steel one for dinner parties. I’m not sure why this happened, but I can tell you that I love the energy that platters give to a table, and the gentle sense of pomp and ceremony they lend even the simplest of meals. My love for the platter has dictated today’s recipe, a final fling with the very last of the summer vegetables served over whipped feta.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/oct/11/meera-sodha-recipe-zaatar-roast-vegetables-whipped-feta",
-          "publishedOn": "2025-10-11T05:00:14.000Z",
-          "wordCount": 4505,
-          "title": "Meera Sodha’s recipe for za’atar roast vegetables with whipped feta | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/b5209f78ed95c32520f1ad2ad563aa667c26eb03/283_1548_3205_2562/master/3205.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfc92af9dd63af8afb611b5100419fa"
         }
       ]
     },
@@ -6028,6 +6054,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/invisible-illness/",
+          "author": "Emily Mendenhall",
+          "description": "Hysteria was long attributed to a wandering uterus. The earliest text blaming women’s reproduction for illness was the Kahun Gynaecological Papyrus, an Egyptian medical scroll from 1900 BC. Women’s wombs were blamed for things like choking, cognitive deficits and the inability to speak, and paralysis. Treatments for women were always nonsurgical: swallowing medicine or rubbing it on the body; fumigating the womb with oils or incense. \nHippocrates, the father of medicine, birthed the concept of hysteria. Translating to “uterus,” hysteria was used to theorize women’s ailments — something that few male doctors of the time understood or studied. In fact, the Greeks often linked women’s health and sexuality with madness: emotional volatility, hallucination, dissociative states, tics, convulsion…",
+          "link": "https://bigthink.com/books/invisible-illness/",
+          "publishedOn": "2026-01-08T15:30:00.000Z",
+          "wordCount": 2873,
+          "title": "The medical myth that still shapes misunderstandings of women’s health",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/invisible-illness_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-ai-is-making-us-think-short-term/",
+          "author": "Eric Markowitz",
+          "description": "In his sweeping 2025 year-in-review, the author Dan Wang makes an unsettling argument: The real danger of AI isn’t psychotic robots taking over the world, but how it’s compressing our sense of time to think in ever-shorter durations.\nAs Dan writes, in Silicon Valley today, conversations are increasingly collapsing into apocalyptic timelines. Leaders fixate on what to do over the next year, while often neglecting the harder work of extending timelines. Dan’s concern isn’t only that leaders think short-term, but that thinking around AI has become either utopian or apocalyptic, which makes long-term institution-building feel irrelevant.\nIn contrast, Dan argues China treats AI less as a civilizational endpoint and more as an input — something to be embedded into factories and industrial capaci…",
+          "link": "https://bigthink.com/business/how-ai-is-making-us-think-short-term/",
+          "publishedOn": "2026-01-08T14:00:00.000Z",
+          "wordCount": 2859,
+          "title": "How AI is making us think short-term",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/ai-think-short-term_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/zenos-paradox/",
           "author": "Ethan Siegel",
