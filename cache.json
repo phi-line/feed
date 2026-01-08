@@ -793,6 +793,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3191/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3191/",
+          "publishedOn": "2026-01-07T05:00:00.000Z",
+          "wordCount": 178,
+          "title": "Superstition",
+          "imageUrl": "https://imgs.xkcd.com/comics/superstition_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3190/",
           "author": null,
           "description": "",
@@ -1493,6 +1503,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=548695",
+          "author": "Alex N. Gecan",
+          "description": "The new wildfire safety rules, banning nearly everything combustible within 5 feet of buildings, or \"Zone Zero,\" are in effect as of Jan. 1.",
+          "link": "https://www.berkeleyside.org/2026/01/07/berkeley-zone-zero-final-rules",
+          "publishedOn": "2026-01-07T20:24:07.000Z",
+          "wordCount": 8590,
+          "title": "Vegetation now banned near 1,400 Berkeley Hills homes. Here’s what to know",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/NATERA_EMBER_250522_07.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549300",
+          "author": "Local sponsor",
+          "description": "Tickets available for Mark Morris Dance Group, Cécile McLorin Salvant, Bruce Liu, Jordi Savall, Chris Thile and others.",
+          "link": "https://www.berkeleyside.org/2026/01/07/cal-performances-biggest-sale-of-the-season-starts-jan-7",
+          "publishedOn": "2026-01-07T20:00:00.000Z",
+          "wordCount": 7729,
+          "title": "Cal Performances’ biggest sale of the season starts Jan. 7",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Triptych-2.png?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550035",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/01/07/mamacita-square-pie-guys-restaurant-opening",
+          "publishedOn": "2026-01-07T19:00:00.000Z",
+          "wordCount": 7071,
+          "title": "Mamacita now serving pozole and more in Emeryville, plus Square Pie Guys expands to the east",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/mamacita-emeryville-pm.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=549926",
           "author": "Family of Phyllis Carr",
@@ -6004,16 +6044,6 @@
           "publishedOn": "2025-10-10T19:00:07.000Z",
           "wordCount": 2106,
           "title": "​ @31minutos' Tulio Triviño and Juan Carlos Bodoque on life as Chile’s most famous puppets.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LbAwvGDq-R8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LbAwvGDq-R8",
-          "publishedOn": "2025-10-10T09:00:28.000Z",
-          "wordCount": null,
-          "title": "Macario Martinez: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
