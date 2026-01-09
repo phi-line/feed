@@ -1510,6 +1510,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=550105",
+          "author": "Nico Savidge",
+          "description": "Authorities identified the crash victim as Kenneth Wade, a 59-year-old Berkeley man. He died more than a month after the Dec. 1 crash.",
+          "link": "https://www.berkeleyside.org/2026/01/08/uc-berkeley-scooter-crash-kenneth-wade-moffitt-library",
+          "publishedOn": "2026-01-08T20:31:32.000Z",
+          "wordCount": 6895,
+          "title": "Man who crashed scooter on UC Berkeley campus last month has died",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/07/51270076781_bf544a75bf_k.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550101",
+          "author": "Cecilia Seiter",
+          "description": "Carbona Pizza, Standard Fare and Guerilla Cafe were among the restaurants to shutter prior to the end of 2025.",
+          "link": "https://www.berkeleyside.org/2026/01/08/standard-fare-guerilla-cafe-carbona-pizza-closed",
+          "publishedOn": "2026-01-08T20:00:00.000Z",
+          "wordCount": 7550,
+          "title": "A Detroit-style pizza place goes dark, Berkeley loses 2 popular morning options and other December closures",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/10/Carbona-pizza.jpg?fit=2400%2C1714&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=550085",
           "author": "Felicia Mello",
           "description": "The university also welcomed more California residents, enrolling its largest-ever student body.",
@@ -6054,6 +6074,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/stoicism-full-interview/",
+          "author": "Massimo Pigliucci",
+          "description": "Stoicism has been flattened into slogans about toughness, detachment, and emotional silence, a version that’s easy to sell, but mostly wrong. \nMassimo Pigliucci returns Stoicism to its original purpose: a practical philosophy built to help ordinary people make better judgments, set wiser priorities, and live well with others in a world that resists control.\nThis video Why Stoicism treats self-control as a form of intelligence is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/stoicism-full-interview/",
+          "publishedOn": "2026-01-08T20:56:52.000Z",
+          "wordCount": 19351,
+          "title": "Why Stoicism treats self-control as a form of intelligence",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/A1-Web-Pigliucci.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/online-role-models-boys/",
+          "author": "Richard Reeves",
+          "description": "What if the problem for young boys isn’t radical influencers, but the absence that made them persuasive?\nInfluence doesn’t emerge because someone is loud or offensive; it takes root when there’s no one nearby to push back in good faith or model an alternative worth imitating, says Richard Reeves.\nThis video The real reason boys turn to extreme online role models is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/online-role-models-boys/",
+          "publishedOn": "2026-01-08T20:18:07.000Z",
+          "wordCount": 5653,
+          "title": "The real reason boys turn to extreme online role models",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Screenshot-2026-01-08-at-3.16.23-PM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/invisible-illness/",
           "author": "Emily Mendenhall",
