@@ -737,22 +737,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b4cc4b36-9d84-4f3b-a3cb-df984c138782_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/liver",
-          "author": "Asimov Press",
-          "description": "How a liver goes from a brain-dead donor to a living recipient.",
-          "link": "https://www.asimov.press/p/liver",
-          "publishedOn": "2025-10-12T15:40:02.000Z",
-          "wordCount": null,
-          "title": "A Liver on Ice",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/4f031170-c270-4e37-8472-67ec99f9a716_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4f031170-c270-4e37-8472-67ec99f9a716_2000x1260.jpeg"
         }
       ]
     },
@@ -808,6 +792,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3192/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3192/",
+          "publishedOn": "2026-01-09T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Planetary Alignment",
+          "imageUrl": "https://imgs.xkcd.com/comics/planetary_alignment_2x.png"
+        },
         {
           "id": "https://xkcd.com/3191/",
           "author": null,
@@ -4979,6 +4973,16 @@
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
         {
+          "id": "https://www.theguardian.com/food/2026/jan/10/vegan-roast-swede-purple-sprouting-broccoli-curry-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Earthy, sweet swede soaks up a curry sauce like a champion, and this ginger, tomato and coconut number is no exception\nAs a day-in-day-out home cook, there is no more welcome tool in my dinner toolbox than a bung-it-in-the-oven dish. A second necessary tool in the month of January is the ability to dispose of or transform a swede into an evening meal. For the uninitiated, when roasted, the swede, that pretty, purple-creamed, dense little ball, is part-creamy, part carrot-like in nature, and earthy and sweet in flavour. It also takes to big-flavoured sauces such as this tomato, ginger and coconut curry like a chip to vinegar and couples up well with its seasonal pal, fresh, crunchy purple sprouting broccoli.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jan/10/vegan-roast-swede-purple-sprouting-broccoli-curry-recipe-meera-sodha",
+          "publishedOn": "2026-01-10T06:00:51.000Z",
+          "wordCount": 4530,
+          "title": "Meera Sodha’s vegan recipe for roast swede and purple sprouting broccoli curry | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/4fa594f713fad1b65ef5c42bb08c99ddafc0ed82/0_184_3655_2924/master/3655.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=287a4c0da92763ffbbf78cd3542f73bf"
+        },
+        {
           "id": "https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha",
           "author": "Meera Sodha",
           "description": "Bittersweet maroon leaves pair perfectly with juicy red wine in this elegant winter risotto served with a walnut pesto\nBitter ingredients are not to everyone’s taste, but, amid these darkest months, they make me feel alive. I love Seville oranges, grapefruit, brassicas, bitter greens, chicory and, most of all, radicchio. I like the burgundy-spotted castelfranco (great for salad with citrus and cheese) and the long-locked tardivo (best cooked with balsamic vinegar), but radicchio di chioggia is the popular leader of the pack. A chubby little cabbage-y nugget with a middle-of-the-road bitterness that becomes milder, sweeter and more delicious, especially when cooked alongside a large glass of juicy chianti and finished off with a snowy dusting of parmesan.\n Continue reading...",
@@ -6125,16 +6129,6 @@
           "publishedOn": "2025-10-13T09:01:02.000Z",
           "wordCount": null,
           "title": "Gloria Estefan: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/JWmH_AymMXM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/JWmH_AymMXM",
-          "publishedOn": "2025-10-12T16:00:25.000Z",
-          "wordCount": 2081,
-          "title": "@rubiomusic_ talked to us about the beauty of letting go and finding power in vulnerability.⁠⁠",
           "imageUrl": null
         }
       ]
