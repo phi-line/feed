@@ -1474,6 +1474,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=550191",
+          "author": "Sara Martin",
+          "description": "The protests this weekend were part of nationwide wave of resistance following the capture of the Venezuelan president and an ICE officer's fatal shooting of Renee Good.",
+          "link": "https://www.berkeleyside.org/2026/01/11/ice-out-for-good-protests",
+          "publishedOn": "2026-01-12T00:33:13.000Z",
+          "wordCount": 8437,
+          "title": "Protests against ICE and U.S. intervention in Venezuela held in Berkeley at Chevron station and I-80 overpass",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Chevron-protest.jpg"
+        },
+        {
           "id": "https://oaklandside.org/?p=467382",
           "author": "Ashley McBride",
           "description": "Protests this weekend at Chevron's Richmond refinery and a Berkeley gas station were spurred by the Trump Administration’s capture of the Venezuelan president and the fatal shooting of a woman by an ICE officer in Minneapolis.",
@@ -4647,16 +4657,6 @@
           "wordCount": 8371,
           "title": "Does Headlands Brewing have the right recipe to revive a storied Cal gathering place?",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/HeadlandsonCampus-Cheers-Kwok.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=502588",
-          "author": "Iris Kwok",
-          "description": "From farmers markets to trivia nights, we put together a roundup of events and activities held regularly in Berkeley.",
-          "link": "https://www.berkeleyside.org/2025/10/14/things-to-do-berkeley",
-          "publishedOn": "2025-10-14T18:01:43.000Z",
-          "wordCount": 10603,
-          "title": "Affordable things to do in Berkeley any day of the week",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/large-Kites-on-Cesar-Chavez-Park.jpg"
         }
       ]
     },
@@ -8407,46 +8407,6 @@
           "wordCount": 4161,
           "title": "The true cost of “solar power at night” with Reflect Orbital",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/RO.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/all-that-we-see-or-seem-ken-liu/",
-          "author": "Ken Liu",
-          "description": "Hutch, who had taught Julia the art of visualization, had told her that the nature of anything, including cognition, was best understood in the doing. She missed his wisdom.\nInstead of struggling against the infected artificial brain in its frozen state, she had to reanimate it.\nFirst, she needed space. In the same way writers always wanted bigger desks and programmers craved bigger monitors, she had to find a canvas large enough to visualize the living neuromesh. Mixed reality was the only answer.\nPushing her coffee table to the wall and stacking the chairs, she cleared the center of her apartment as much as possible. Talos would just have to do its best to map whatever debris was left into the visualization.\nNext, she needed a “brain jar.” Digging through her crates of salvaged hardware …",
-          "link": "https://bigthink.com/books/all-that-we-see-or-seem-ken-liu/",
-          "publishedOn": "2025-10-14T14:30:00.000Z",
-          "wordCount": 1985,
-          "title": "“All That We See or Seem”: A novel by Ken Liu",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/See_or_Seem_Excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/the-hidden-economics-of-waiting-in-line/",
-          "author": "Judd Kessler",
-          "description": "On a busy day, over 25,000 people visit the Vatican Museum in Vatican City, the world’s smallest country at 0.17 square miles, tucked in the middle of Rome. While the museum boasts one of the greatest collections of art in the world, the main attraction for many people (including me on my first-ever trip abroad) is the Sistine Chapel, with its massive ceiling frescoes painted by Michelangelo at the start of the 16th century.\nGetting into the chapel, though, requires a substantial time commitment. The relatively low entrance price of twenty euros means that many more people want to see the chapel than the 5,800 square feet (or 540 square meters) of space can accommodate. If you have not pre-purchased premium tickets to enter the museum, you must wait in a physical line to buy one. That wait…",
-          "link": "https://bigthink.com/books/the-hidden-economics-of-waiting-in-line/",
-          "publishedOn": "2025-10-14T14:30:00.000Z",
-          "wordCount": 2917,
-          "title": "How to navigate the hidden economics of waiting in line",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/AdobeStock_264520870.jpeg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/5-horrifying-stories-that-double-as-philosophy-lessons/",
-          "author": "Scotty Hendricks",
-          "description": "The best horror stories are those that don’t rely on jump scares or bloodied campground killers to frighten. The scariest part of The Wicker Man isn’t its eponymous effigy; it’s realizing what the natives of Summerisle will do to placate their gods. And while the ghosts haunting the Overlook Hotel may unnerve readers of The Shining, it is Jack Torrance’s maniacal relapse that truly grips the spine.\nTales that rely on cheap tricks can be fun, but the ones that exhume their horrors from within powerful ideas endure.\nFor that reason, we’re taking a look at five horror stories that double as philosophy lessons. Each one rests on a foundation of great ideas that can wrap around your mind like a tentacle and force you to really think about what has frightened you.\n\nCover of a 2025 edition of Mar…",
-          "link": "https://bigthink.com/books/5-horrifying-stories-that-double-as-philosophy-lessons/",
-          "publishedOn": "2025-10-14T14:30:00.000Z",
-          "wordCount": 3138,
-          "title": "5 horrifying stories that double as lessons in philosophy",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Frankenstein_pg_7.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/how-one-key-obsession-can-build-and-drive-a-legacy-brand/",
-          "author": "Lew Frankfort",
-          "description": "Brands that stand the test of time innovate to stay relevant and build upon the product imagery that first captured customers’ hearts. So-­called legacy brands and their associated images include Timberland boots, the Burberry raincoat, Tiffany diamonds, and Levi’s jeans. Even Disney, whose fantasy characters remain central to the customer experience. Each consumer-­facing brand expanded its appeal while staying true to its foundational equities. Conservative Burberry got sexy by putting its tartan pattern on bikinis. Tiffany signed Elsa Peretti to design more accessibly priced silver and gold jewelry that was still distinctively elegant. Traditional Disney acquired Pixar’s more modern storytelling. By definition, legacy brands can also survive a spate of bad management, bad economies, eve…",
-          "link": "https://bigthink.com/business/how-one-key-obsession-can-build-and-drive-a-legacy-brand/",
-          "publishedOn": "2025-10-14T13:00:00.000Z",
-          "wordCount": 1845,
-          "title": "How one key obsession can build and drive a legacy brand",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/bag-man_excerpt.jpg?resize=1200,630"
         }
       ]
     },
