@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157841",
+          "author": "Elise Cutts",
+          "description": "The discovery that tissues use electricity to expel unhealthy cells is part of a surge of renewed interest in the currents flowing through our bodies.            \nThe post Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+          "publishedOn": "2026-01-12T14:58:22.000Z",
+          "wordCount": 3765,
+          "title": "Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/BioelectricTissue-crKingsCollegeLondon-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157780",
           "author": "Charlie Wood",
           "description": "A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.            \nThe post Using AI, Mathematicians Find Hidden Glitches in Fluid Equations first appeared on Quanta Magazine",
@@ -446,6 +456,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/methods",
+          "author": "Asimov Press",
+          "description": "What the evolution of scientific methods says about their future.",
+          "link": "https://www.asimov.press/p/methods",
+          "publishedOn": "2026-01-12T16:04:44.000Z",
+          "wordCount": null,
+          "title": "Inventing the Methods Section",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!nLzm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73c36287-62ee-4b25-a8fd-872309ce3668_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!nLzm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73c36287-62ee-4b25-a8fd-872309ce3668_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/research-forms",
           "author": "Samuel Arbesman",
@@ -1141,16 +1167,6 @@
           "wordCount": 206,
           "title": "Planetary Rings",
           "imageUrl": "https://imgs.xkcd.com/comics/planetary_rings_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3155/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3155/",
-          "publishedOn": "2025-10-15T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Physics Paths",
-          "imageUrl": "https://imgs.xkcd.com/comics/physics_paths_2x.png"
         }
       ]
     },
@@ -1473,6 +1489,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=467355",
+          "author": "Jose Fermoso",
+          "description": "A $10 million fund from Ava Community Energy and Alameda County was used to reimburse e-bike buyers. Meanwhile, a new study shows laws haven’t kept up with e-bike collision risks.",
+          "link": "https://www.berkeleyside.org/2026/01/12/alameda-ava-energy-ebike-voucher-program-berkeley-oakland",
+          "publishedOn": "2026-01-12T14:00:00.000Z",
+          "wordCount": 8053,
+          "title": "Over 2,000 East Bay residents bought e-bikes with vouchers in the last 6 months",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Natera_E-BIKES_251001_025.jpg?fit=1600%2C1143&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550191",
           "author": "Sara Martin",
@@ -6059,6 +6085,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/the-future/ai-world-models/",
+          "author": "Kiara Nirghin",
+          "description": "Members of Gen Z have grown up hearing that our attention spans are shrinking and that our lives will be defined by the eight-second scroll and an endless stream of content. The narrative is that we’re so addicted to the instant gratification of platforms like TikTok that we’ve lost the capacity for deep, sustained focus. \nBut what if the next wave of artificial intelligence (AI) isn’t designed to feed that addiction — but to fundamentally change it? What if the future of AI demands young people’s attention, curiosity, and creativity in ways we haven’t experienced before?\nAs the co-founder of Chima, an applied AI research lab, I’ve spent a lot of time thinking about the emerging concept of “world models,” AI systems that can generate interactive, dynamic environments from a simple prompt. …",
+          "link": "https://bigthink.com/the-future/ai-world-models/",
+          "publishedOn": "2026-01-12T18:00:00.000Z",
+          "wordCount": 3118,
+          "title": "From infinite scroll to infinite worlds: How AI could rewire Gen Z’s attention span",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/world-models-thumb.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-to-be-as-innovative-as-the-wright-brothers-no-computers-required/",
+          "author": "Angus Fletcher",
+          "description": "In 1895, the world’s top scientist predicted wrong. Epically wrong.\nThe scientist was Lord Kelvin. Born in early nineteenth-century Ireland to a mathematics teacher, he was from his youngest summers a wizard with numbers. Like a living computer, he thought effortlessly in digits, entering college at the age of ten and dashing up the ranks to full professor. By his middle age, he had reduced electricity to algorithms, unified the known rules of physics, and formulated thermodynamics, achieving such eminence that in 1892, he became the first scientist elevated to England’s House of Lords.\nIt was three years later, while serving out his final term as president of the British Royal Society, that Kelvin made his epically wrong prediction: “I can state flatly that heavier than air flying machine…",
+          "link": "https://bigthink.com/business/how-to-be-as-innovative-as-the-wright-brothers-no-computers-required/",
+          "publishedOn": "2026-01-12T14:00:00.000Z",
+          "wordCount": 2310,
+          "title": "How to be as innovative as the Wright brothers — no computers required",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/wright-bros_compressed.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/nasa-supernova-blast-expand-25-years/",
           "author": "Ethan Siegel",
           "description": "Although the Universe constantly evolves, astronomers rarely see that evolution.\n\nThis snippet from a structure-formation simulation, with the expansion of the Universe scaled out, represents billions of years of gravitational growth in a dark matter-rich Universe. Over time, overdense clumps of matter grow richer and more massive, growing into galaxies, groups, and clusters of galaxies, while the less dense regions than average preferentially give up their matter to the denser surrounding areas. The “void” regions between the bound structures continue to expand, but the structures themselves, once they become bound in any fashion, do not.\n\nCredit: Ralf Kaehler and Tom Abel (KIPAC)/Oliver Hahn\n\n\nInstead, we get snapshots: stars and galaxies that barely change over human timescales.\n\nImaged…",
@@ -8397,16 +8443,6 @@
           "wordCount": 2321,
           "title": "Addictions and habits, explained by a neuroscientist, a psychologist, and a journalist",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-BB-Addiction-Web-B.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/true-cost-solar-power-night-reflect-orbital/",
-          "author": "Ethan Siegel",
-          "description": "Here on Earth, humanity’s global energy needs only seem to increase over time. A combination of increasing populations, the widespread development of heating and cooling, a reliance on modern electronics, and the introduction of new energy-intensive technologies (such as the blockchain, smart technology, and artificial intelligence) are among the factors driving our rising energy needs. Sure, we can always build more power plants, but what about the simple solution of increasing the efficiency and production of already-existing plants, particularly the ones that only see part-time usage: wind and solar. Wind power doesn’t work when the air is still, and solar doesn’t work during the night.\nOr can it?\nThat’s something that the US-based startup, Reflect Orbital, wants to change. The idea is …",
-          "link": "https://bigthink.com/starts-with-a-bang/true-cost-solar-power-night-reflect-orbital/",
-          "publishedOn": "2025-10-15T06:00:00.000Z",
-          "wordCount": 4161,
-          "title": "The true cost of “solar power at night” with Reflect Orbital",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/RO.jpg?resize=1200,630"
         }
       ]
     },
@@ -8415,6 +8451,26 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "http://theblog.jessikerbakes.com/?p=3594",
+          "author": "Jessica Hylton",
+          "description": "These cheesy Buffalo cauliflower wings up the ante by adding vegan cheese to everyone’s favourite plant-based spicy snack! They’re crispy on the outside, tender on the inside, and the best alternative to traditional chicken wings. Add cauliflower to the ranks of cashews and tofu for magical vegan ingredients that can be completely transformed by the […]",
+          "link": "https://jessicainthekitchen.com/cheesy-buffalo-cauliflower-wings-2/",
+          "publishedOn": "2026-01-12T15:00:00.000Z",
+          "wordCount": 9338,
+          "title": "Cheesy Buffalo Cauliflower Wings",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/01/Cheesy-Buffalo-Cauliflower-Wings7445.jpg"
+        },
+        {
+          "id": "https://jessicainthekitchen.com/?p=72214",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "My easy vegan Bran Muffin recipe is hearty and wholesome, but it’s also moist, tender, and lightly sweet. This is a muffin you can feel good about eating for breakfast—and also look forward to!  Bran muffins get a bad rap for being dry and bland. But these vegan bran muffins are anything but! I developed […]",
+          "link": "https://jessicainthekitchen.com/cinnamon-raisin-bran-muffin-recipe/",
+          "publishedOn": "2026-01-09T15:00:00.000Z",
+          "wordCount": 8348,
+          "title": "Cinnamon Raisin Bran Muffin Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/12/Vegan-Bran-Muffin_10.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=72212",
           "author": "Jessica from Jessica in the Kitchen",
