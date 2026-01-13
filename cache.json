@@ -1176,6 +1176,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=71870",
+          "author": "Stephen Wolfram",
+          "description": "Ruliology is taking off! And more and more people are talking about it. But what is ruliology? Since I invented the term, I decided I should write something to explain it. But then I realized: I actually already wrote something back in 2021 when I first invented the term. What I wrote back then was […]",
+          "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+          "publishedOn": "2026-01-12T23:05:20.000Z",
+          "wordCount": 3253,
+          "title": "What Is Ruliology?",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/01/sw01122026tweet.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=71678",
           "author": "Stephen Wolfram",
           "description": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And now you want to scale it up. Maybe 1000x or more. Well, today we’ve released an extremely streamlined […]",
@@ -1489,6 +1499,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550182",
+          "author": "Vanessa Arredondo",
+          "description": "They continue to face steep barriers at BUSD, with a mixed bag of new data showing declines in progress toward language proficiency but improvements in test scores.",
+          "link": "https://www.berkeleyside.org/2026/01/12/english-learners-berkeley-unified-school-district",
+          "publishedOn": "2026-01-12T23:20:00.000Z",
+          "wordCount": 8001,
+          "title": "English learners still behind in Berkeley schools despite some gains",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/01/longfellow-berkley-extra-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=467415",
+          "author": "Azucena Rasilla",
+          "description": "Local residents with family in Venezuela were getting real time updates as the operation unfolded. Now, they're wondering about what comes next.",
+          "link": "https://www.berkeleyside.org/2026/01/12/east-bay-venezuela-maduro-reactions",
+          "publishedOn": "2026-01-12T20:55:45.000Z",
+          "wordCount": 8216,
+          "title": "Capture of Venezuelan President Maduro sent shock waves through expat community in East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/AP26004047692194-scaled-2.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=467355",
           "author": "Jose Fermoso",
@@ -6065,16 +6095,6 @@
           "publishedOn": "2025-10-15T17:00:26.000Z",
           "wordCount": 2044,
           "title": "@GloriaEstefanOficial transcends borders, unites communities and gets people on the dance floor.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o9PoZ0Vcb_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o9PoZ0Vcb_s",
-          "publishedOn": "2025-10-15T09:01:19.000Z",
-          "wordCount": null,
-          "title": "Silvana Estrada: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
