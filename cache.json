@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=157980",
+          "author": "Steve Nadis",
+          "description": "In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.            \nThe post String Theory Can Now Describe a Universe That Has Dark Energy first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/",
+          "publishedOn": "2026-01-14T14:58:37.000Z",
+          "wordCount": 2885,
+          "title": "String Theory Can Now Describe a Universe That Has Dark Energy",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/De-Sitter-Compactification-cr-Nash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157841",
           "author": "Elise Cutts",
           "description": "The discovery that tissues use electricity to expel unhealthy cells is part of a surge of renewed interest in the currents flowing through our bodies.            \nThe post Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions first appeared on Quanta Magazine",
@@ -1121,16 +1131,6 @@
           "wordCount": 206,
           "title": "Emperor Palpatine",
           "imageUrl": "https://imgs.xkcd.com/comics/emperor_palpatine_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3156/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3156/",
-          "publishedOn": "2025-10-17T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Planetary Rings",
-          "imageUrl": "https://imgs.xkcd.com/comics/planetary_rings_2x.png"
         }
       ]
     },
@@ -1176,6 +1176,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "author": "Anil Seth",
+          "description": "The post The Mythology Of Conscious AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "publishedOn": "2026-01-14T17:23:54.000Z",
+          "wordCount": 17909,
+          "title": "The Mythology Of Conscious AI",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07"
+        },
         {
           "id": "https://www.noemamag.com/a-new-anti-political-fervor",
           "author": "Anton Cebalo",
@@ -1453,6 +1463,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550280",
+          "author": "Andrew Gilbert",
+          "description": "Laura Truffaut moved from Paris to Berkeley at 19. She spoke with Berkeleyside about the city’s cinematic life and the time she took her father and Catherine Deneuve to see a Fritz Lang film at the Pacific Film Archive.",
+          "link": "https://www.berkeleyside.org/2026/01/14/francois-truffaut-bampfa-film-series",
+          "publishedOn": "2026-01-14T14:00:00.000Z",
+          "wordCount": 7881,
+          "title": "François Truffaut’s daughter, a Berkeley resident since 1978, will introduce 9 of his films at BAMPFA",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/950-scans_p1.jpg?fit=1400%2C1000&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550323",
           "author": "Alex N. Gecan",
@@ -4567,16 +4587,6 @@
           "wordCount": 9195,
           "title": "The East Bay ‘resistance’: A guide to local activism",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251016-203806.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545457",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Six Berkeley restaurants were hit by smash-and-grab burglaries early Thursday.",
-          "link": "https://www.berkeleyside.org/2025/10/16/berkeley-wire-uc-buys-residence-inn-for-176m-why-nobel-prize-winners-get-free-parking-from-cal",
-          "publishedOn": "2025-10-17T00:15:00.000Z",
-          "wordCount": 7028,
-          "title": "Berkeley Wire: UC buys Residence Inn for $176M; why Nobel Prize winners get free parking from Cal",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/12/MARRIOTT-side.jpeg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -5158,21 +5168,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://aethermug.com/assets/posts/26-easy-steps-to-taming-your-smartphone-addiction/saint_gerome.png"
-        },
-        {
-          "id": "https://aethermug.com/posts/visualizing-framings",
-          "author": null,
-          "description": "A stolen attempt",
-          "link": "https://aethermug.com/posts/visualizing-framings?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-10-17T05:42:16.000Z",
-          "wordCount": 7024,
-          "title": "Visualizing Framings",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/visualizing-framings/jtbd_2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/visualizing-framings/jtbd_2.png"
         }
       ]
     },
@@ -5978,6 +5973,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/",
+          "author": "Louis Rosenberg",
+          "description": "Last month, I wrote a piece here in Big Think suggesting that the public is in denial over the emerging power and associated risks of AI. Many people reacted defensively, insisting that today’s AI systems are nothing more than “stochastic parrots” that regurgitate memorized information and are structurally incapable of emergent reasoning. I appreciate that many people want this to be true, but it is an outdated narrative based on a 2021 paper that was widely misinterpreted. I want to clear up this misconception because I worry it is giving the public a false sense of security that superintelligence is not an urgent risk to society. \nTo address this, let me update our collective mental model: Like it or not, there is increasing evidence that frontier AI systems do not just store text patter…",
+          "link": "https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/",
+          "publishedOn": "2026-01-14T17:51:48.000Z",
+          "wordCount": 2664,
+          "title": "Do AI models reason or regurgitate?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/AI-reason-or-regurgitate7.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-tribology-became-a-new-industrial-science/",
+          "author": "Jennifer R. Vail",
+          "description": "In 1964, spirited debates erupted at a conference in Cardiff, Wales. The source of the consternation was extreme production delays that stemmed from malfunctioning equipment at iron and steel plants across the United Kingdom. Beginning in the twentieth century, the automation of heavy machinery enabled plants to operate continuously, increasing productivity and revenue. The downside was that any small hiccup was acutely felt, cascading through the production line. At first, it was assumed that inadequate lubrication of factory equipment was causing parts to seize up or break apart. And so, the Lubrication and Wear Group of the Institution of Mechanical Engineers, along with the Iron and Steel Institute, called on engineers and representatives from industry to convene and get to the bottom …",
+          "link": "https://bigthink.com/business/how-tribology-became-a-new-industrial-science/",
+          "publishedOn": "2026-01-14T14:00:00.000Z",
+          "wordCount": 2037,
+          "title": "How “tribology” became a new industrial science",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/friction_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jwst-lens-survey-save-expanding-universe/",
           "author": "Ethan Siegel",
@@ -8337,16 +8352,6 @@
           "wordCount": 4036,
           "title": "The ancient origins of partnering and romantic love",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/B1-Web-Fisher.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/",
-          "author": "Ethan Siegel",
-          "description": "For a long time throughout the 20th century, the main goal of cosmology was twofold:\nto measure the expansion rate of the Universe today, known as the Hubble constant,\nand to measure how the expansion rate was changing over time, then known as the deceleration parameter.\nAfter all, we had a law of gravity — Einstein’s General Relativity — that allowed us to calculate how the Universe would evolve based on the amount, density, and distribution of matter and energy within it. We observed the Universe to be roughly uniform in all locations and all directions, and we learned back in the 1920s and 1930s that the Universe was expanding. If we could just measure those two parameters, we thought, we’d know it all: the age, history, composition, and even the fate of our Universe.\nOh, if only we rea…",
-          "link": "https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/",
-          "publishedOn": "2025-10-17T06:00:00.000Z",
-          "wordCount": 4791,
-          "title": "Ask Ethan: Is the Hubble tension the same thing as dark energy?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/DesiDR2-e1760640371110.jpg?w=840&h=500&crop=1"
         }
       ]
     },

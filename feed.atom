@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-14T12:08:35.121Z</updated>
+    <updated>2026-01-14T18:08:03.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do AI models reason or regurgitate?]]></title>
+        <id>https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/</id>
+        <link href="https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/"/>
+        <updated>2026-01-14T17:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Last month, I wrote a piece here in Big Think suggesting that the public is in denial over the emerging power and associated risks of AI. Many people reacted defensively, insisting that today’s AI systems are nothing more than “stochastic parrots” that regurgitate memorized information and are structurally incapable of emergent reasoning. I appreciate that many people want this to be true, but it is an outdated narrative based on a 2021 paper that was widely misinterpreted. I want to clear up this misconception because I worry it is giving the public a false sense of security that superintelligence is not an urgent risk to society. 
+To address this, let me update our collective mental model: Like it or not, there is increasing evidence that frontier AI systems do not just store text patter…]]></summary>
+        <author>
+            <name>Louis Rosenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mythology Of Conscious AI]]></title>
+        <id>https://www.noemamag.com/the-mythology-of-conscious-ai</id>
+        <link href="https://www.noemamag.com/the-mythology-of-conscious-ai"/>
+        <updated>2026-01-14T17:23:54.000Z</updated>
+        <summary type="html"><![CDATA[The post The Mythology Of Conscious AI appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Anil Seth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String Theory Can Now Describe a Universe That Has Dark Energy]]></title>
+        <id>https://www.quantamagazine.org/?p=157980</id>
+        <link href="https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/"/>
+        <updated>2026-01-14T14:58:37.000Z</updated>
+        <summary type="html"><![CDATA[In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.            
+The post String Theory Can Now Describe a Universe That Has Dark Energy first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[François Truffaut’s daughter, a Berkeley resident since 1978, will introduce 9 of his films at BAMPFA]]></title>
+        <id>https://www.berkeleyside.org/?p=550280</id>
+        <link href="https://www.berkeleyside.org/2026/01/14/francois-truffaut-bampfa-film-series"/>
+        <updated>2026-01-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Laura Truffaut moved from Paris to Berkeley at 19. She spoke with Berkeleyside about the city’s cinematic life and the time she took her father and Catherine Deneuve to see a Fritz Lang film at the Pacific Film Archive.]]></summary>
+        <author>
+            <name>Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How “tribology” became a new industrial science]]></title>
+        <id>https://bigthink.com/business/how-tribology-became-a-new-industrial-science/</id>
+        <link href="https://bigthink.com/business/how-tribology-became-a-new-industrial-science/"/>
+        <updated>2026-01-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 1964, spirited debates erupted at a conference in Cardiff, Wales. The source of the consternation was extreme production delays that stemmed from malfunctioning equipment at iron and steel plants across the United Kingdom. Beginning in the twentieth century, the automation of heavy machinery enabled plants to operate continuously, increasing productivity and revenue. The downside was that any small hiccup was acutely felt, cascading through the production line. At first, it was assumed that inadequate lubrication of factory equipment was causing parts to seize up or break apart. And so, the Lubrication and Wear Group of the Institution of Mechanical Engineers, along with the Iron and Steel Institute, called on engineers and representatives from industry to convene and get to the bottom …]]></summary>
+        <author>
+            <name>Jennifer R. Vail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From The Top: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=lPn39VmajSI</id>
@@ -9056,49 +9108,6 @@ This video The ancient origins of partnering and romantic love is featured on Bi
         <updated>2025-10-17T09:01:36.000Z</updated>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Ethan: Is the Hubble tension the same thing as dark energy?]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/hubble-tension-dark-energy/"/>
-        <updated>2025-10-17T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For a long time throughout the 20th century, the main goal of cosmology was twofold:
-to measure the expansion rate of the Universe today, known as the Hubble constant,
-and to measure how the expansion rate was changing over time, then known as the deceleration parameter.
-After all, we had a law of gravity — Einstein’s General Relativity — that allowed us to calculate how the Universe would evolve based on the amount, density, and distribution of matter and energy within it. We observed the Universe to be roughly uniform in all locations and all directions, and we learned back in the 1920s and 1930s that the Universe was expanding. If we could just measure those two parameters, we thought, we’d know it all: the age, history, composition, and even the fate of our Universe.
-Oh, if only we rea…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualizing Framings]]></title>
-        <id>https://aethermug.com/posts/visualizing-framings</id>
-        <link href="https://aethermug.com/posts/visualizing-framings?utm_source=rss&amp;utm_campaign=rss"/>
-        <updated>2025-10-17T05:42:16.000Z</updated>
-        <summary type="html"><![CDATA[A stolen attempt]]></summary>
-        <author>
-            <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planetary Rings]]></title>
-        <id>https://xkcd.com/3156/</id>
-        <link href="https://xkcd.com/3156/"/>
-        <updated>2025-10-17T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley Wire: UC buys Residence Inn for $176M; why Nobel Prize winners get free parking from Cal]]></title>
-        <id>https://www.berkeleyside.org/?p=545457</id>
-        <link href="https://www.berkeleyside.org/2025/10/16/berkeley-wire-uc-buys-residence-inn-for-176m-why-nobel-prize-winners-get-free-parking-from-cal"/>
-        <updated>2025-10-17T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Also: Six Berkeley restaurants were hit by smash-and-grab burglaries early Thursday.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
         </author>
     </entry>
     <entry>
