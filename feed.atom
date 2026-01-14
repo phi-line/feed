@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-14T06:08:19.360Z</updated>
+    <updated>2026-01-14T12:08:35.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From The Top: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=lPn39VmajSI</id>
+        <link href="https://www.youtube.com/watch?v=lPn39VmajSI"/>
+        <updated>2026-01-14T10:01:20.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New JWST lens survey: can it save the expanding Universe?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/jwst-lens-survey-save-expanding-universe/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/jwst-lens-survey-save-expanding-universe/"/>
+        <updated>2026-01-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult thing about being inside our own Universe is that we only get one perspective — from our location, here on Earth — to measure it from. We are stuck within our Solar System, as are all of our measuring tools and instruments, which in turn is stuck within the Milky Way, the Local Group, and our corner of the local Universe. We are stuck living in the now: 13.8 billion years after the Big Bang has occurred. If we want to understand what this Universe is, including what it’s made of, where it came from, and how it came to be the way it is today, this is the only perspective, location, and time at which we’re capable of making observations from. Despite how powerful it is, it’s also extraordinarily limiting.
+That’s why, from a scientific point-of-view, we’re always att…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leptospirosis outbreak detected near Eighth and Harrison encampment]]></title>
         <id>https://www.berkeleyside.org/?p=550323</id>
@@ -9079,66 +9099,6 @@ Oh, if only we rea…]]></summary>
         <summary type="html"><![CDATA[Also: Six Berkeley restaurants were hit by smash-and-grab burglaries early Thursday.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jung’s Memories]]></title>
-        <id>https://asteriskmag.com/issues/12-books/jungs-memories</id>
-        <link href="https://asteriskmag.com/issues/12-books/jungs-memories"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jung was born 150 years ago. In a special anniversary edition of his biography, all we can see is his shadow.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Smarts]]></title>
-        <id>https://asteriskmag.com/issues/12-books/book-smarts</id>
-        <link href="https://asteriskmag.com/issues/12-books/book-smarts"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asterisk Magazine covers science, emerging technologies, economics, politics, culture, global health, threats to human development and flourishing.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley police want to encrypt all radio calls]]></title>
-        <id>https://www.berkeleyside.org/?p=545481</id>
-        <link href="https://www.berkeleyside.org/2025/10/16/berkeley-police-radio-encryption-city-council"/>
-        <updated>2025-10-16T23:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Berkeley’s police are the last in Alameda County who still communicate on unencrypted channels. Now they're asking the City Council to change that.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[West Berkeley sheet metal shop closing after 116 years]]></title>
-        <id>https://www.berkeleyside.org/?p=545443</id>
-        <link href="https://www.berkeleyside.org/2025/10/16/walter-mork-company-closing"/>
-        <updated>2025-10-16T19:47:08.000Z</updated>
-        <summary type="html"><![CDATA[The Walter Mork Company, now owned by the founder's grandson, has struggled to compete in the age of computer-aided metal fabrication.]]></summary>
-        <author>
-            <name>Nathan Dalton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New food vendors bring home cooking to Emeryville food hall]]></title>
-        <id>https://www.berkeleyside.org/?p=545408</id>
-        <link href="https://www.berkeleyside.org/2025/10/16/alma-sazon-demiya-emeryville-public-market"/>
-        <updated>2025-10-16T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Demiya and Alma y Sazon are serving menus influenced by family recipes and classic comfort food to the Emeryville Public Market.]]></summary>
-        <author>
-            <name>Skylla Mumana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legal battles over tainted death penalty cases continue in Alameda County]]></title>
-        <id>https://oaklandside.org/?p=462776</id>
-        <link href="https://www.berkeleyside.org/2025/10/16/legal-battles-over-tainted-death-penalty-cases-continue-in-alameda-county"/>
-        <updated>2025-10-16T18:15:51.000Z</updated>
-        <summary type="html"><![CDATA[A judge recently decided District Attorney Jones Dickson’s decision to withdraw a resentencing wasn’t politically motivated. Defense attorneys say the new DA has abandoned efforts to confront prosecutorial misconduct.]]></summary>
-        <author>
-            <name>Darwin BondGraham</name>
         </author>
     </entry>
     <entry>
