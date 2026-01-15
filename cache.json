@@ -763,6 +763,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3194/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3194/",
+          "publishedOn": "2026-01-14T05:00:00.000Z",
+          "wordCount": 189,
+          "title": "16 Part Epoxy",
+          "imageUrl": "https://imgs.xkcd.com/comics/16_part_epoxy_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3193/",
           "author": null,
           "description": "",
@@ -1463,6 +1473,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550345",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/01/14/fist-of-flour-pizza-taco-bell-mission-style-closing",
+          "publishedOn": "2026-01-14T21:00:00.000Z",
+          "wordCount": 7113,
+          "title": "Fist of Flour’s final days, and a Mission-style Taco Bell goes dark",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/FistofFlour-cheesepizza.jpg?fit=2048%2C1365&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550273",
+          "author": "Local sponsor",
+          "description": "New company aims to offer professional wiring work with good service at a lower cost.",
+          "link": "https://www.berkeleyside.org/2026/01/14/does-your-home-need-an-electrical-upgrade-call-mr-poppy",
+          "publishedOn": "2026-01-14T20:03:13.000Z",
+          "wordCount": 6999,
+          "title": "Does your home need an electrical upgrade? Call Mr. Poppy.",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Poppy-full-co.jpeg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=467493",
+          "author": "Eli Wolfe",
+          "description": "Following the fatal shooting of Renee Good in Minneapolis, county officials are gearing up to ban ICE agents from certain areas.",
+          "link": "https://www.berkeleyside.org/2026/01/14/ice-free-zones-alameda-county-trump-immigration-crackdown",
+          "publishedOn": "2026-01-14T18:52:27.000Z",
+          "wordCount": 7028,
+          "title": "‘ICE-free zones’ among ideas Alameda County is considering to defend against Trump immigration crackdown",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-50044964892_5b15f6501c_k.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550280",
           "author": "Andrew Gilbert",
@@ -5954,16 +5994,6 @@
           "publishedOn": "2025-10-20T09:00:46.000Z",
           "wordCount": null,
           "title": "Kokoroko: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xSDfCwDmJNo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xSDfCwDmJNo",
-          "publishedOn": "2025-10-17T09:01:36.000Z",
-          "wordCount": null,
-          "title": "Tame Impala: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
