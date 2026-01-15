@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-15T06:07:58.329Z</updated>
+    <updated>2026-01-15T12:08:58.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solving the Electroporation Bottleneck]]></title>
+        <id>https://www.asimov.press/p/electroporation</id>
+        <link href="https://www.asimov.press/p/electroporation"/>
+        <updated>2026-01-15T11:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Cultivarium, a focused research organization, has built a custom electroporator to engineer non-model organisms at scale.]]></summary>
+        <author>
+            <name>Niko McCarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s time to stop teaching the biggest lie about Hawking radiation]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/hawking-radiation-really-work/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/hawking-radiation-really-work/"/>
+        <updated>2026-01-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For many good reasons, black holes are among the most studied objects in the entire Universe. Initially predicted back in the late 18th century in the context of Newtonian gravity, black holes were shown to arise in the context of general relativity as early as 1916. Astrophysically, they can be formed when gas clouds collapse, when the cores of stars implode, or when two neutron stars collide, among other mechanisms. They have been observed via numerous methods: from electromagnetic emissions that arise from matter around them, from the motion of stars or binary companions around them, and from the gravitational waves they emit when two of them merge together.
+But perhaps, most remarkably of all, it was shown in the early 1970s that black holes cannot endure forever, but will eventually e…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remembering Gale Bach, planner at Metropolitan Transportation Commission, winemaker, gardener]]></title>
         <id>https://www.berkeleyside.org/?p=550363</id>
@@ -9038,36 +9059,6 @@ Nicholas Wright, a neuroscientist and longtime national security adviser for the
 As he notes in the introduction of his new book, Warhead: How the Brain Shapes War and War Shapes the Brain, common explanations for why the Allies managed to defeat the Axis often boil down to some combination of “Russian manpo…]]></summary>
         <author>
             <name>Tim Brinkhof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to stay safe at a protest or rally in the Bay Area]]></title>
-        <id>https://www.berkeleyside.org/?p=538446</id>
-        <link href="https://www.berkeleyside.org/2025/10/17/know-your-rights-protests"/>
-        <updated>2025-10-17T19:50:14.000Z</updated>
-        <summary type="html"><![CDATA[How to make a plan for attending a political rally, and what you should know about your rights and the possible consequences of protesting.]]></summary>
-        <author>
-            <name>Lakshmi Sarah, Lisa Pickoff-White, Carly Severn, Nisa Khan and Carlos Cabrera-Lomelí | KQED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUSD test scores still outpace Alameda County and California, but gaps persist]]></title>
-        <id>https://www.berkeleyside.org/?p=545470</id>
-        <link href="https://www.berkeleyside.org/2025/10/17/busd-test-scores-outpace-california-but-big-achievement-gaps-remain"/>
-        <updated>2025-10-17T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[State assessment results brought mostly good news for Berkeley Unified; Black and Latino students made gains, but not across the board.]]></summary>
-        <author>
-            <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel Good Bakery bows out after 22 years]]></title>
-        <id>https://www.berkeleyside.org/?p=545511</id>
-        <link href="https://www.berkeleyside.org/2025/10/17/feel-good-bakery-alameda-closing"/>
-        <updated>2025-10-17T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The bakery with two locations will sell its last pastries and breads on Halloween.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
         </author>
     </entry>
     <entry>

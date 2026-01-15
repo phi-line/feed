@@ -427,6 +427,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/electroporation",
+          "author": "Niko McCarty",
+          "description": "Cultivarium, a focused research organization, has built a custom electroporator to engineer non-model organisms at scale.",
+          "link": "https://www.asimov.press/p/electroporation",
+          "publishedOn": "2026-01-15T11:56:32.000Z",
+          "wordCount": null,
+          "title": "Solving the Electroporation Bottleneck",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Poww!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43a64079-8c66-43be-98bb-2cf9b1786b2c_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Poww!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43a64079-8c66-43be-98bb-2cf9b1786b2c_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/methods",
           "author": "Asimov Press",
           "description": "What the evolution of scientific methods says about their future.",
@@ -4577,36 +4593,6 @@
           "wordCount": 7470,
           "title": "‘No Kings’ protests set for Berkeley, Oakland today opposing Trump’s ramped-up power grab",
           "imageUrl": "https://i0.wp.com/assets.citysidejournalism.org/asset/4b65b140-865f-480f-aaec-e9da565e09bd/large/NoKingsBerkey_6142025_SaraMartin-11.jpg?w=780&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=538446",
-          "author": "Lakshmi Sarah, Lisa Pickoff-White, Carly Severn, Nisa Khan and Carlos Cabrera-Lomelí | KQED",
-          "description": "How to make a plan for attending a political rally, and what you should know about your rights and the possible consequences of protesting.",
-          "link": "https://www.berkeleyside.org/2025/10/17/know-your-rights-protests",
-          "publishedOn": "2025-10-17T19:50:14.000Z",
-          "wordCount": 9050,
-          "title": "How to stay safe at a protest or rally in the Bay Area",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/01/20250131-002917.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545470",
-          "author": "Vanessa Arredondo",
-          "description": "State assessment results brought mostly good news for Berkeley Unified; Black and Latino students made gains, but not across the board.",
-          "link": "https://www.berkeleyside.org/2025/10/17/busd-test-scores-outpace-california-but-big-achievement-gaps-remain",
-          "publishedOn": "2025-10-17T19:10:00.000Z",
-          "wordCount": 7173,
-          "title": "BUSD test scores still outpace Alameda County and California, but gaps persist",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Longfellow-AdultSchool-FistDay_Natera_240814_28.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545511",
-          "author": "Cecilia Seiter",
-          "description": "The bakery with two locations will sell its last pastries and breads on Halloween.",
-          "link": "https://www.berkeleyside.org/2025/10/17/feel-good-bakery-alameda-closing",
-          "publishedOn": "2025-10-17T19:00:00.000Z",
-          "wordCount": 6715,
-          "title": "Feel Good Bakery bows out after 22 years",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/FeelGoodBakery-alameda.jpg?fit=1000%2C666&ssl=1"
         }
       ]
     },
@@ -5983,6 +5969,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/hawking-radiation-really-work/",
+          "author": "Ethan Siegel",
+          "description": "For many good reasons, black holes are among the most studied objects in the entire Universe. Initially predicted back in the late 18th century in the context of Newtonian gravity, black holes were shown to arise in the context of general relativity as early as 1916. Astrophysically, they can be formed when gas clouds collapse, when the cores of stars implode, or when two neutron stars collide, among other mechanisms. They have been observed via numerous methods: from electromagnetic emissions that arise from matter around them, from the motion of stars or binary companions around them, and from the gravitational waves they emit when two of them merge together.\nBut perhaps, most remarkably of all, it was shown in the early 1970s that black holes cannot endure forever, but will eventually e…",
+          "link": "https://bigthink.com/starts-with-a-bang/hawking-radiation-really-work/",
+          "publishedOn": "2026-01-15T07:00:00.000Z",
+          "wordCount": 5024,
+          "title": "It’s time to stop teaching the biggest lie about Hawking radiation",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/blackhole-e1707437084280.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/",
           "author": "Louis Rosenberg",
