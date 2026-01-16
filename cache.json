@@ -5223,6 +5223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H4uzympZPx0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H4uzympZPx0",
+          "publishedOn": "2026-01-16T10:00:29.000Z",
+          "wordCount": null,
+          "title": "John Fogerty: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lPn39VmajSI",
           "author": null,
           "description": "",
@@ -6009,6 +6019,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/",
+          "author": "Ethan Siegel",
+          "description": "One of the most amazing properties of gravity in the context of Einstein’s General Relativity is that mass, wherever it’s concentrated, is capable of curving the very fabric of space. This leads to a number of vital effects:\nother nearby objects, from gas to galaxies, get attracted to and drawn into those massive clumps,\nall particles in motion, including massless particles, get gravitationally attracted to that region when they pass by it,\nand the light from background objects gets deflected, bent, magnified, and distorted by that curved space as it passes through it.\nThat last effect is known as gravitational lensing, and it plays many important roles on cosmological scales.\nYou might think, then, that a large, massive clump of matter — one that behaves as a gravitational lens — would co…",
+          "link": "https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/",
+          "publishedOn": "2026-01-16T07:00:00.000Z",
+          "wordCount": 4431,
+          "title": "Ask Ethan: Why do gravitational lenses make crosses, not rings?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Lensed_quasar_and_its_surroundings-e1768509282160.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/science-of-aging/",
           "author": "Morgan Levine",

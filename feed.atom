@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-16T06:08:07.258Z</updated>
+    <updated>2026-01-16T12:08:31.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Fogerty: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=H4uzympZPx0</id>
+        <link href="https://www.youtube.com/watch?v=H4uzympZPx0"/>
+        <updated>2026-01-16T10:00:29.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Why do gravitational lenses make crosses, not rings?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/"/>
+        <updated>2026-01-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most amazing properties of gravity in the context of Einstein’s General Relativity is that mass, wherever it’s concentrated, is capable of curving the very fabric of space. This leads to a number of vital effects:
+other nearby objects, from gas to galaxies, get attracted to and drawn into those massive clumps,
+all particles in motion, including massless particles, get gravitationally attracted to that region when they pass by it,
+and the light from background objects gets deflected, bent, magnified, and distorted by that curved space as it passes through it.
+That last effect is known as gravitational lensing, and it plays many important roles on cosmological scales.
+You might think, then, that a large, massive clump of matter — one that behaves as a gravitational lens — would co…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The biggest myth about aging, according to science]]></title>
         <id>https://bigthink.com/series/full-interview/science-of-aging/</id>
