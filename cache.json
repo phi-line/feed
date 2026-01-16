@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158039",
+          "author": "Ben Brubaker",
+          "description": "The math of data structures helps us understand how different storage systems come with different trade-offs between resources such as time and memory.            \nThe post Why There’s No Single Best Way To Store Information first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
+          "publishedOn": "2026-01-16T15:10:10.000Z",
+          "wordCount": 2632,
+          "title": "Why There’s No Single Best Way To Store Information",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/DataStructures-crKristinaArmitage-Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=157980",
           "author": "Steve Nadis",
           "description": "In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.            \nThe post String Theory Can Now Describe a Universe That Has Dark Energy first appeared on Quanta Magazine",
@@ -769,6 +779,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3195/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3195/",
+          "publishedOn": "2026-01-16T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "International Station",
+          "imageUrl": "https://imgs.xkcd.com/comics/international_station_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3194/",
           "author": null,
           "description": "",
@@ -1193,6 +1213,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/how-the-ai-job-shock-will-differ-from-the-china-trade-shock",
+          "author": "Nathan Gardels",
+          "description": "The post How The ‘AI Job Shock’ Will Differ From The ‘China Trade Shock’ appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-the-ai-job-shock-will-differ-from-the-china-trade-shock",
+          "publishedOn": "2026-01-16T17:49:28.000Z",
+          "wordCount": 3526,
+          "title": "How The ‘AI Job Shock’ Will Differ From The ‘China Trade Shock’",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/IMG_0789-scaled.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=5f8b4f3e083aaf7ee994de5d658feef3"
+        },
+        {
           "id": "https://www.noemamag.com/the-politics-of-planetary-color",
           "author": "Frederic Hanusch",
           "description": "The post The Politics Of Planetary Color appeared first on NOEMA.",
@@ -1479,6 +1509,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550396",
+          "author": "Nathan Dalton",
+          "description": "Hanan Masri, whose work explores land, ancestry and her mother’s Palestinian heritage, has been crowned Berkeley’s new poet laureate. The city’s new youth laureates are friends at Berkeley High.",
+          "link": "https://www.berkeleyside.org/2026/01/16/berkeley-poet-laureate-hanan-masri",
+          "publishedOn": "2026-01-16T17:17:02.000Z",
+          "wordCount": 8690,
+          "title": "Meet Berkeley’s new poet laureates — a kindergarten teacher and 2 high school freshmen",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_8396-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550451",
+          "author": "Elise Proulx",
+          "description": "The Burmese restaurant is moving a few blocks to the east to take over the space formerly occupied by popular restaurant Pomella.",
+          "link": "https://www.berkeleyside.org/2026/01/16/teni-east-kitchen-burmese-moving-pomella",
+          "publishedOn": "2026-01-16T17:10:02.000Z",
+          "wordCount": 7396,
+          "title": "Teni East Kitchen, moving a half mile, sees new, tasty possibilities with larger  space",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_6887.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550320",
+          "author": "Local sponsor",
+          "description": "Cha had a short but very prolific career in multiple disciplines of art until her death in 1982 at age 31.",
+          "link": "https://www.berkeleyside.org/2026/01/16/bampfa-opens-largest-ever-retrospective-of-theresa-hak-kyung-cha",
+          "publishedOn": "2026-01-16T16:30:00.000Z",
+          "wordCount": 7802,
+          "title": "BAMPFA opens largest-ever retrospective of Theresa Hak Kyung Cha",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/07_Cha_White-Dust-from-Mongolia-1980.jpg?fit=1200%2C891&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=467511",
+          "author": "Judith Doner Berne",
+          "description": "A big laugher who lived with authenticity and purpose, Berne worked for work for Berkeley’s Parallax Press and played banjo at music festivals around the West Coast.",
+          "link": "https://www.berkeleyside.org/2026/01/16/obituary-debbie-berne",
+          "publishedOn": "2026-01-16T14:00:00.000Z",
+          "wordCount": 7113,
+          "title": "Remembering Debbie Berne, who designed the Berkeley Bowl Cookbook and books by Thich Nhat Hanh",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/image-1.png?fit=1600%2C1188&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550438",
           "author": "Berkeleyside Staff",
@@ -6020,6 +6090,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/mini-philosophy/the-oprah-rule-what-everyone-wants-you-to-say-in-a-conversation/",
+          "author": "Jonny Thomson",
+          "description": "In any given week, you will probably talk to dozens or hundreds of people. Most of these conversations will probably be about perfunctory, practical matters: “Two tickets, please,” “No, after you,” or “Darling, do you know where Liam’s swimming trunks are?” At other times, these conversations swish gently, as with two friends chatting over coffee, or they might ramble in a debate about who’s better: the Reds or the Blues. But according to Oprah Winfrey, everyone in every conversation mostly wants the same thing.\nWinfrey has interviewed tens of thousands of people over her incredible 30-year career. She’s interviewed Michael Jackson, Barack Obama, and Meghan Markle, as well as a group of neo-Nazis and the Teenage Mutant Ninja Turtles (two groups who may or may not overlap). Winfrey recalls …",
+          "link": "https://bigthink.com/mini-philosophy/the-oprah-rule-what-everyone-wants-you-to-say-in-a-conversation/",
+          "publishedOn": "2026-01-16T16:08:32.000Z",
+          "wordCount": 1840,
+          "title": "The Oprah Rule: What everyone wants you to say in a conversation",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/oprah-rule_compressed.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/",
           "author": "Ethan Siegel",
           "description": "One of the most amazing properties of gravity in the context of Einstein’s General Relativity is that mass, wherever it’s concentrated, is capable of curving the very fabric of space. This leads to a number of vital effects:\nother nearby objects, from gas to galaxies, get attracted to and drawn into those massive clumps,\nall particles in motion, including massless particles, get gravitationally attracted to that region when they pass by it,\nand the light from background objects gets deflected, bent, magnified, and distorted by that curved space as it passes through it.\nThat last effect is known as gravitational lensing, and it plays many important roles on cosmological scales.\nYou might think, then, that a large, massive clump of matter — one that behaves as a gravitational lens — would co…",
@@ -8426,6 +8506,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=72213",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "There’s just nothing like Moravian Sugar Cake! My vegan version is soft and lightly chewy like the original, but the buttery cinnamon sugar topping is plant-based. Moravian sugar cake is a staple in Moravian communities in Pennsylvania and it really isn’t your typical cake. While it might look like a coffee cake, it’s made with […]",
+          "link": "https://jessicainthekitchen.com/moravian-sugar-cake/",
+          "publishedOn": "2026-01-16T15:00:00.000Z",
+          "wordCount": 8750,
+          "title": "Vegan Moravian Sugar Cake",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/12/Vegan-Moravian-Cake-18.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=13697",
           "author": "Jessica Hylton",
