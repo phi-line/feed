@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-16T00:21:39.793Z</updated>
+    <updated>2026-01-16T06:08:07.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The biggest myth about aging, according to science]]></title>
+        <id>https://bigthink.com/series/full-interview/science-of-aging/</id>
+        <link href="https://bigthink.com/series/full-interview/science-of-aging/"/>
+        <updated>2026-01-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of us measure age by birthdays, but what if the number on your ID tells only half the story? 
+Dr. Morgan Levine explores the hidden clock inside our cells, unraveling how the biological age that reveals how fast our bodies are really aging is calculated.
+This video The biggest myth about aging, according to science is featured on Big Think.]]></summary>
+        <author>
+            <name>Morgan Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Get cash from Kaiser after $46M settlement; Cal scientists’ search for extraterrestrial life]]></title>
+        <id>https://www.berkeleyside.org/?p=550438</id>
+        <link href="https://www.berkeleyside.org/2026/01/15/the-wire-get-cash-from-kaiser-after-46m-settlement-cal-scientists-search-for-extraterrestrial-life"/>
+        <updated>2026-01-16T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: New data show how BART outages snarled commutes and a spike in catalytic converter thefts to start the year.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gun violence in Berkeley has plummeted. They helped make it happen]]></title>
         <id>https://www.berkeleyside.org/?p=550420</id>
