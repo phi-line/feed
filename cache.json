@@ -1480,6 +1480,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=550420",
+          "author": "Alex N. Gecan",
+          "description": "Berkeley has seen the fewest shootings citywide in nearly a decade, mirroring a national trend. The city’s gun violence intervention program — launched over a year ago, around the same time as the city’s last fatal shooting — is nearly at the end of its funding.",
+          "link": "https://www.berkeleyside.org/2026/01/15/live-free-usa-berkeley-gun-violence-intervention-prevention",
+          "publishedOn": "2026-01-15T23:35:31.000Z",
+          "wordCount": 9069,
+          "title": "Gun violence in Berkeley has plummeted. They helped make it happen",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/2026-01-12_Middleton_LiveFreeBerkeley_20.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550403",
+          "author": "Cecilia Seiter",
+          "description": "The Vietnamese restaurant in Berkeley worked things out with the landlord and will remain open.",
+          "link": "https://www.berkeleyside.org/2026/01/15/vanessas-bistro-remains-open",
+          "publishedOn": "2026-01-15T20:00:00.000Z",
+          "wordCount": 6957,
+          "title": "Vanessa’s Bistro reverses course on closure",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/VB-Saigon-salad.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=550389",
           "author": "Karen Nguyen Vo and Andrew Gilbert",
           "description": "Other events include an author talk on the South Bay’s industrial salt ponds, a class on growing fruit trees and a botanical drawing night.",
@@ -4613,16 +4633,6 @@
           "wordCount": 9149,
           "title": "Banged up in the Battles of Berkeley, her new memoir tells activists how to ‘burn it down without burning out’",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/AP17239809937554.jpg?fit=1024%2C726&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545500",
-          "author": "Safiyah Riddle",
-          "description": "A large \"No Kings\" march is planned for Oakland in the early afternoon and three protests are scheduled for Berkeley.",
-          "link": "https://www.berkeleyside.org/2025/10/18/no-kings-protest-trump-berkeley-oakland",
-          "publishedOn": "2025-10-18T11:00:00.000Z",
-          "wordCount": 7470,
-          "title": "‘No Kings’ protests set for Berkeley, Oakland today opposing Trump’s ramped-up power grab",
-          "imageUrl": "https://i0.wp.com/assets.citysidejournalism.org/asset/4b65b140-865f-480f-aaec-e9da565e09bd/large/NoKingsBerkey_6142025_SaraMartin-11.jpg?w=780&ssl=1"
         }
       ]
     },
@@ -5989,6 +5999,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/hard-problem-consciousness/",
+          "author": "Annaka Harris",
+          "description": "Consciousness feels like the most familiar thing in the world, and yet science still can’t say what it is, where it begins, or why it exists at all.\nAnnaka Harris examines the assumptions shaping consciousness research, from the belief that awareness requires complex brains to the intuition that thought drives behavior.\nThis video The hard problem of consciousness, in 53 minutes is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/hard-problem-consciousness/",
+          "publishedOn": "2026-01-15T19:47:28.000Z",
+          "wordCount": 9287,
+          "title": "The hard problem of consciousness, in 53 minutes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/A1-Web-Harris.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/5-literary-conspiracy-theories-debunked/",
           "author": "Josh Browning, Kevin Dickinson",
