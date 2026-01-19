@@ -4603,26 +4603,6 @@
           "wordCount": 8053,
           "title": "Shop Talk: Berkeley resident is selling dog poop bags with Donald Trump’s face",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Sh_t-Bag-by-Smolotov-2.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545782",
-          "author": "Vanessa Arredondo and Nico Savidge",
-          "description": "The school was vacated in 2020 after a study found it was vulnerable to earthquakes and unsafe.",
-          "link": "https://www.berkeleyside.org/2025/10/21/oxford-elementary-site",
-          "publishedOn": "2025-10-21T19:09:25.000Z",
-          "wordCount": 7648,
-          "title": "Oxford Elementary site sold to Berkeley housing developer for $3M",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/10/oxford-elementary-berkeley.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545756",
-          "author": "Paulina Barrack",
-          "description": "The new cafe from the owners of the acclaimed Rose Pizzeria mixes Italian influences with the Jewish breakfast classic.",
-          "link": "https://www.berkeleyside.org/2025/10/21/cafe-brusco-bagels-espresso-rose-pizzeria",
-          "publishedOn": "2025-10-21T19:00:00.000Z",
-          "wordCount": 7973,
-          "title": "Cafe Brusco brings house-made bagels with a seasonal edge to University Avenue",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Natera_NOSH-CafeBrusco_251009_018.jpg"
         }
       ]
     },
@@ -4850,16 +4830,6 @@
           "wordCount": 4989,
           "title": "baked potatoes with crispy broccoli and bacon",
           "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/10/baked-potato-with-crispy-broccoli-9-scaled.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://smittenkitchen.com/?p=91335",
-          "author": "deb",
-          "description": "what is this! What is this god-like aroma of buttery baked cinnamon sugar warmth that has permeated your senses? Is it a scented candle, i.e. the idea, but not the substance of a thing you love? No, it’s snickerdoodles. And you’re about to eat a warm one, which feels like climbing inside It’s The Great Pumpkin, Charlie Brown while also, simultaneously, getting to be this dog. I’m not saying you cannot experience this sensory transcendency on a day in January or June, but it hits on a different, worldview-shifting, level when cold air is still a novel thing.\n\n\nRead more »",
-          "link": "https://smittenkitchen.com/2025/10/brown-butter-snickerdoodles/",
-          "publishedOn": "2025-10-21T19:21:15.000Z",
-          "wordCount": 5677,
-          "title": "brown butter snickerdoodles",
-          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/10/brown-butter-snickerdoodles-07-scaled.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -5979,6 +5949,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/plus/the-gandalf-effect/",
+          "author": "Jonny Thomson",
+          "description": "I’ve known a great many leaders in my time. Bosses, CEOs, heads, provosts, managers, politicians, coaches, supervisors, managing directors — whatever you call them, I’ve met my fair share of them. Some, I’ve known intimately. They are my friends, family, and close colleagues. Others I’ve watched from afar. Because it’s important to watch the leaders in our lives. According to Aristotle, it’s the only way we will learn.\nIn his Nicomachean Ethics, Aristotle argues that to be a good person doesn’t mean doing one or two good things but developing certain virtues that allow you to do good things. Doing a brave thing doesn’t make you courageous. Giving a compliment doesn’t make you kind. To be good is to practice — over and over again — until you transform your character. A good leader is no dif…",
+          "link": "https://bigthink.com/plus/the-gandalf-effect/",
+          "publishedOn": "2026-01-19T10:13:31.000Z",
+          "wordCount": 2103,
+          "title": "The Gandalf Effect: The most important thing for any leader",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/gandalf.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/10-jwst-images-reveal-universe/",
+          "author": "Ethan Siegel",
+          "description": "From 2022 onwards, JWST begun revolutionizing our cosmic perspective.\n\nThis side-by-side view shows the same object, the Pillars of Creation, as captured by JWST in both mid-infrared light (at left) and in near-infrared light (at right). Note the different features revealed as far as stars, dust, gas, and other features within the nebula. Different wavelengths are sensitive to different types of features, including for features beyond the limits of JWST.\n\nCredit: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI)\n\n\nIts spectacular early results broke records and inspired awe.\n\nThis almost-perfectly-aligned image composite shows the first JWST deep field’s view of the core of cluster SMACS 0723 and contrasts it with the older Hubble view. The JWST image of galaxy cluster S…",
+          "link": "https://bigthink.com/starts-with-a-bang/10-jwst-images-reveal-universe/",
+          "publishedOn": "2026-01-19T07:00:00.000Z",
+          "wordCount": 3311,
+          "title": "10 JWST images that reveal the Universe as never before",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/cover10best.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-oprah-rule-what-everyone-wants-you-to-say-in-a-conversation/",
           "author": "Jonny Thomson",
