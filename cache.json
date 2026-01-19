@@ -1117,16 +1117,6 @@
           "wordCount": 204,
           "title": "Continents",
           "imageUrl": "https://imgs.xkcd.com/comics/continents_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3158/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3158/",
-          "publishedOn": "2025-10-22T04:00:00.000Z",
-          "wordCount": 206,
-          "title": "Shielding Chart",
-          "imageUrl": "https://imgs.xkcd.com/comics/shielding_chart_2x.png"
         }
       ]
     },
@@ -5149,21 +5139,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/process-world-object-oriented-mind/henri_de_toulouse_lautrec.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/26-easy-steps-to-taming-your-smartphone-addiction",
-          "author": null,
-          "description": "And voilà!",
-          "link": "https://aethermug.com/posts/26-easy-steps-to-taming-your-smartphone-addiction?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-10-22T00:38:37.000Z",
-          "wordCount": 5481,
-          "title": "26 Easy Steps to Taming Your Smartphone Addiction",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/26-easy-steps-to-taming-your-smartphone-addiction/saint_gerome.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/26-easy-steps-to-taming-your-smartphone-addiction/saint_gerome.png"
         }
       ]
     },
@@ -5949,6 +5924,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/measure-meet-repeat-why-tracking-happiness-is-crucial-to-ai-at-work/",
+          "author": "Nic Marks",
+          "description": "Every major technological shift arrives with bold promises of efficiency and productivity. The current wave of artificial intelligence is no different. The forecasts are breathless: tasks automated, workloads reduced, insights unlocked, entire sectors transformed. But behind the promises sits a neglected question: what will work actually feel like?\nEfficiency projections tell us nothing about the emotional reality of daily working life. And those emotional realities determine whether people collaborate, innovate, stay in their roles, or quietly disengage.\nIn an era dominated by AI hype, we need a different lens to understand the future of work. That lens is happiness — not as a perk or a soft ideal, but as a dynamic, measurable signal of how well work is working. AI will transform what we …",
+          "link": "https://bigthink.com/business/measure-meet-repeat-why-tracking-happiness-is-crucial-to-ai-at-work/",
+          "publishedOn": "2026-01-19T14:00:00.000Z",
+          "wordCount": 2614,
+          "title": "Measure–Meet–Repeat: Why tracking happiness is crucial to AI at work",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/tracking-happiness-at-work_compressed.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/plus/the-gandalf-effect/",
           "author": "Jonny Thomson",
@@ -8268,16 +8253,6 @@
           "wordCount": 1884,
           "title": "Is free will a fallacy? Science and philosophy explain.",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Philosophy-Web-B.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/how-hot-big-bang/",
-          "author": "Ethan Siegel",
-          "description": "In many ways, the Big Bang was the biggest idea to ever come out of Einstein’s General theory of Relativity. This tremendously successful theory gave us everything from gravitational waves to black holes based on one profound insight: that the fabric of spacetime itself would evolve, curve, and even ripple based on the properties and behavior of the matter and energy within it. When we applied Einstein’s equations to the entire Universe as a whole, along with the idea that the Universe was filled nearly uniformly with matter and energy on the largest scales, we wound up with an expanding Universe. Extrapolating back in time, we arrived at a very hot, dense, and uniform early state, where all of the Universe’s matter and energy was concentrated into a tiny, minuscule volume.\nAnd yet, if we …",
-          "link": "https://bigthink.com/starts-with-a-bang/how-hot-big-bang/",
-          "publishedOn": "2025-10-22T06:00:00.000Z",
-          "wordCount": 4556,
-          "title": "We still don’t know how “hot” the hot Big Bang was",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/qgpcolors_150-e1761090441715.jpg?w=1006&h=567&crop=1"
         }
       ]
     },
@@ -8286,6 +8261,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "http://theblog.jessikerbakes.com/?p=3542",
+          "author": "Jessica Hylton",
+          "description": "I’ve got 3 delicious ways to make homemade kale chips: sea salt, spicy black pepper, and cheesy! Follow my pointers for kale chips that taste great and actually get crispy. (No soggy chips here, friends!) These crispy kale chips are so addictive, they’ll make you put away the potato chips for good. Yes, it’s true! […]",
+          "link": "https://jessicainthekitchen.com/three-ways-make-kale-chips-salty-spicy-cheesy/",
+          "publishedOn": "2026-01-19T15:00:00.000Z",
+          "wordCount": 8564,
+          "title": "Kale Chips 3 Ways",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/01/Kale-Chips8488.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=72213",
           "author": "Jessica from Jessica in the Kitchen",
