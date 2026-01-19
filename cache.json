@@ -407,6 +407,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/head-activator",
+          "author": "Asimov Press",
+          "description": "A biological puzzle that made one researcher and ruined another might never be solved.",
+          "link": "https://www.asimov.press/p/head-activator",
+          "publishedOn": "2026-01-18T18:06:31.000Z",
+          "wordCount": null,
+          "title": "Mystery of the Head Activator",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!4UjX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66790c3-4bb8-48ff-b811-c3aa433de593_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!4UjX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66790c3-4bb8-48ff-b811-c3aa433de593_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/electroporation",
           "author": "Niko McCarty",
           "description": "Cultivarium, a focused research organization, has built a custom electroporator to engineer non-model organisms at scale.",
@@ -5984,16 +6000,6 @@
           "publishedOn": "2025-10-22T09:00:55.000Z",
           "wordCount": null,
           "title": "Parcels: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dEESXOYhLWk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dEESXOYhLWk",
-          "publishedOn": "2025-10-21T09:01:03.000Z",
-          "wordCount": null,
-          "title": "Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes",
           "imageUrl": null
         }
       ]
