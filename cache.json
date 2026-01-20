@@ -4553,36 +4553,6 @@
           "wordCount": 6642,
           "title": "Remembering Dennis Wayne Rothermel, philosophy professor who wrote about peace, filmmaking and food",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-at-6.45.49-PM.png?fit=1120%2C810&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545844",
-          "author": "Nisa Khan | KQED and Berkeleyside Staff",
-          "description": "What to say to ICE agents at home, at work and on the street. How to find a lawyer and someone who's been detained.",
-          "link": "https://www.berkeleyside.org/2025/10/22/what-to-know-about-your-rights-as-feds-head-to-bay-area",
-          "publishedOn": "2025-10-22T21:17:33.000Z",
-          "wordCount": 10354,
-          "title": "What to know about your rights as feds head to Bay Area",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_7505-scaled.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=463262",
-          "author": "Darwin BondGraham",
-          "description": "Customs and Border Protection agents are headed to an island used as a base by the Coast Guard, located between Oakland and Alameda.",
-          "link": "https://www.berkeleyside.org/2025/10/22/major-federal-immigration-operation-thursday-bay-area",
-          "publishedOn": "2025-10-22T21:14:05.000Z",
-          "wordCount": 7344,
-          "title": "Major federal immigration operation reported to be starting Thursday in Bay Area",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/border-patrol.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545845",
-          "author": "Cecilia Seiter and Tovin Lapan",
-          "description": "Plus, new smash burger, noodle soup, and breakfast spots land in the East Bay.",
-          "link": "https://www.berkeleyside.org/2025/10/22/starter-albany-ashby-eatery-impression-lanzhou",
-          "publishedOn": "2025-10-22T20:09:46.000Z",
-          "wordCount": 7372,
-          "title": "Starter Bakery offers new sugar-coated indulgences with Albany expansion",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/StarterSolano-Beignet-DannyDerusso-1.jpg"
         }
       ]
     },
@@ -5137,6 +5107,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MzPPTUNbB7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MzPPTUNbB7I",
+          "publishedOn": "2026-01-20T10:00:36.000Z",
+          "wordCount": null,
+          "title": "Guitarricadelafuente: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H4uzympZPx0",
           "author": null,
@@ -5904,6 +5884,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/most-underappreciated-achievement-theoretical-physics/",
+          "author": "Ethan Siegel",
+          "description": "One of the most remarkable facts about the Universe is simply that, over the past couple of centuries, humanity has actually been able to make sense of much of it at a basic, fundamental level. We’ve determined what all of the luminous and light-blocking material, plus radiation, is made of: the normal matter and energy in our Universe that consists of particles within the Standard Model. We’ve discovered black holes and have come to understand how gravity and the expanding Universe works: governed by the laws of Einstein’s General Relativity. And we understand the rules governing how particles interact: through the strong nuclear, weak nuclear, and electromagnetic forces, as dictated by quantum field theory.\nWhile these developments occurred both theoretically as well as observationally a…",
+          "link": "https://bigthink.com/starts-with-a-bang/most-underappreciated-achievement-theoretical-physics/",
+          "publishedOn": "2026-01-20T07:00:00.000Z",
+          "wordCount": 4621,
+          "title": "The most underappreciated achievement in theoretical physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/10/84-0329CN.hr_-1-e1768865707388.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/measure-meet-repeat-why-tracking-happiness-is-crucial-to-ai-at-work/",
           "author": "Nic Marks",
