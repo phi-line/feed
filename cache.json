@@ -351,16 +351,6 @@
           "wordCount": 3439,
           "title": "First Shape Found That Can’t Pass Through Itself",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/SelfContainingShapes-crDavidRenshaw-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=155819",
-          "author": "Ben Brubaker",
-          "description": "Recent findings reveal that even simple pricing algorithms can make things more expensive.             \nThe post The Game Theory of How Algorithms Can Drive Up Prices first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
-          "publishedOn": "2025-10-22T13:47:18.000Z",
-          "wordCount": 3047,
-          "title": "The Game Theory of How Algorithms Can Drive Up Prices",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Algorithmic-Collusion-cr-Nash-Weerasekera-Social.jpg"
         }
       ]
     },
@@ -748,6 +738,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3196/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3196/",
+          "publishedOn": "2026-01-19T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Aurora Coolness",
+          "imageUrl": "https://imgs.xkcd.com/comics/aurora_coolness_2x.png"
+        },
         {
           "id": "https://xkcd.com/3195/",
           "author": null,
@@ -4583,16 +4583,6 @@
           "wordCount": 7372,
           "title": "Starter Bakery offers new sugar-coated indulgences with Albany expansion",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/StarterSolano-Beignet-DannyDerusso-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=545786",
-          "author": "Nathan Dalton and Joanne Furio",
-          "description": "Stefan Schuch’s latest brand aims to enlist canines in the “fight against fascism” and a president who’s “full of shit.” Also: Paisley Vintage closes and a new business teaches mahjongg.",
-          "link": "https://www.berkeleyside.org/2025/10/22/shit-bag-by-smolotov",
-          "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 8053,
-          "title": "Shop Talk: Berkeley resident is selling dog poop bags with Donald Trump’s face",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Sh_t-Bag-by-Smolotov-2.jpg"
         }
       ]
     },
@@ -8203,46 +8193,6 @@
           "wordCount": 4640,
           "title": "5 undeniable, truthful facts about dark matter",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_5f35cf3f5a328a6cd15597dd_This-image-showcases-the-massive-distant-galaxy-cluster-Abell-S1063-_960x0-e1761092311520.jpg?w=960&h=540&crop=1"
-        },
-        {
-          "id": "https://bigthink.com/mini-philosophy/6-japanese-concepts-you-need-to-know-according-to-marie-kondo/",
-          "author": "Jonny Thomson",
-          "description": "People really like Japanese philosophy. If you ever see a list of “untranslatable words” or “beautiful words from around the world,” then you will notice how Japanese ideas are often overrepresented. Whenever I explore a Japanese concept on the Mini Philosophy social media pages — wabi–sabi, mono no aware, ikigai — they outperform almost everything else.\nPart of this, no doubt, is a kind of exoticism. For much of its history, Japan remained ethnically and culturally distinct from both its Asian neighbors and the wider world. Buddhism drifted over from China and Korea, but it fused with Shinto and indigenous animism to become something uniquely Japanese. Western industrialism arrived in the 19th century under the Meiji Restoration, but even then, Japan found a way to absorb foreign ideas wi…",
-          "link": "https://bigthink.com/mini-philosophy/6-japanese-concepts-you-need-to-know-according-to-marie-kondo/",
-          "publishedOn": "2025-10-22T14:59:54.000Z",
-          "wordCount": 2321,
-          "title": "6 Japanese concepts you need to know, according to Marie Kondo",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/6-japanese-concepts_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/play-research/",
-          "author": "Cas Holman",
-          "description": "There have been those who thought broadly about play and recognized its importance for adults. One of the first was the Dutch historian Johan Huizinga. In 1938, when he published his seminal book on play, Homo ludens, it was quite radical to argue that play was a central organizing force in human culture. But that’s what Huizinga did. \n“For many years the conviction has grown upon me, that civilization arises and unfolds in and as play,” he wrote. \nHuizinga saw play permeating language, myth, and ritual, all of which he considered root forces guiding human societies. He also developed one of the first important and lasting definitions of play. He pointed out that play is fun, it is voluntary, it’s a freedom. \n“We might call it a free activity standing quite consciously outside ‘ordinary’ l…",
-          "link": "https://bigthink.com/books/play-research/",
-          "publishedOn": "2025-10-22T14:30:00.000Z",
-          "wordCount": 2111,
-          "title": "More than a game: How play helps wire our social brains",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/play_Excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/anastasia-marchenkova-interview/",
-          "author": "Elise Leise",
-          "description": "When Anastasia Marchenkova hears a founder claim they’re building a million-qubit quantum computer, she doesn’t roll her eyes or dismiss the claim outright. Instead, she runs through a series of questions: “What needs to be true for that to happen? Is it a physics problem? Or a manufacturing one?” Her no-nonsense “bullshit” test has made her a trusted advisor to venture capitalists and founders alike. \nRight now, Marchenkova’s pragmatism feels especially prescient. After several years of contracting funding, quantum technology is entering a renewed wave of investment. Funding in Q1 of 2025 for quantum companies reached $1.25 billion, roughly double that of the year before, and according to McKinsey, the total quantum market is predicted to be worth about $198 billion by 2040. In cities as …",
-          "link": "https://bigthink.com/business/anastasia-marchenkova-interview/",
-          "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 2236,
-          "title": "A million qubits? This quantum advisor isn’t buying it.",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Anastasia-Marchenkova_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/perception-box/the-free-will-fallacy/",
-          "author": "Daniel C. Dennett, Dr. Uri Maoz, Sam Harris",
-          "description": "Do you actually control your own mind? Three experts in philosophy and neuroscience explain: It’s not so simple.\nUri Maoz, PhD, Daniel C. Dennett, PhD, and Sam Harris, PhD explore how unconscious processes shape decisions we believe are conscious. From brain experiments that reveal the illusion of control, to mindfulness practices that reframe perception, they show how philosophy and neuroscience together unpack the truth about free will.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video Is free will a fallacy? Science and philosophy explain. is featured on Big Think.",
-          "link": "https://bigthink.com/perception-box/the-free-will-fallacy/",
-          "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 1884,
-          "title": "Is free will a fallacy? Science and philosophy explain.",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Philosophy-Web-B.png?resize=1200,630"
         }
       ]
     },
@@ -8630,16 +8580,6 @@
           "wordCount": 6395,
           "title": "Overnight Breakfast Strata Recipe",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Vegan-Overnight-Strata-19.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=18874",
-          "author": "Jessica Hylton",
-          "description": "These vegan Buffalo cauliflower meatballs will be a hit at your next party, but they’re excellent for weekday dinners and meal prep too! Spicy, tender, and full of flavour, you’ll think of endless ways to put them to use. Consider this Buffalo cauliflower meatball recipe the happy marriage of my Vegan Meatballs and Buffalo Cauliflower […]",
-          "link": "https://jessicainthekitchen.com/buffalo-quinoa-cauliflower-vegan-meatballs-2/",
-          "publishedOn": "2025-10-22T14:00:00.000Z",
-          "wordCount": 5574,
-          "title": "Spicy Buffalo Cauliflower Meatballs",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Buffalo-Quinoa-Cauliflower-Meatballs2067.jpg"
         }
       ]
     },
