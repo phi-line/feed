@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158076",
+          "author": "Elise Cutts",
+          "description": "The Bonnet problem asks when just a bit of information is enough to uniquely identify a whole surface.            \nThe post Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/",
+          "publishedOn": "2026-01-20T16:12:36.000Z",
+          "wordCount": 4001,
+          "title": "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Bonnet-Pairs-cr-Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158039",
           "author": "Ben Brubaker",
           "description": "The math of data structures helps us understand how different storage systems come with different trade-offs between resources such as time and memory.            \nThe post Why There’s No Single Best Way To Store Information first appeared on Quanta Magazine",
@@ -1163,6 +1173,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/when-ai-human-worlds-collide",
+          "author": "Ben Bariach",
+          "description": "The post When AI & Human Worlds Collide appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/when-ai-human-worlds-collide",
+          "publishedOn": "2026-01-20T17:32:59.000Z",
+          "wordCount": 12466,
+          "title": "When AI & Human Worlds Collide",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/Final-01.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=832f94622d716a88b040034af45bb8c7"
+        },
+        {
           "id": "https://www.noemamag.com/how-the-ai-job-shock-will-differ-from-the-china-trade-shock",
           "author": "Nathan Gardels",
           "description": "The post How The ‘AI Job Shock’ Will Differ From The ‘China Trade Shock’ appeared first on NOEMA.",
@@ -1449,6 +1469,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550473",
+          "author": "Dirk Neyhart",
+          "description": "Dirk Neyhart grew up in Berkeley in the ’50s and ’60s. After surviving a stabbing that left him disabled, he found joy and purpose in community service.",
+          "link": "https://www.berkeleyside.org/2026/01/20/ive-never-been-fearful-how-i-learned-to-love-berkeley-being-blind",
+          "publishedOn": "2026-01-20T17:05:47.000Z",
+          "wordCount": 7668,
+          "title": "How I relearned to love Berkeley as a blind person",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Dirk-Neyhart_As-Told_Sara-Martin-5.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=467647",
           "author": "Roselyn Romero",
@@ -4742,6 +4772,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=95129",
+          "author": "deb",
+          "description": "2026 cooking bucket list.\nRead more »",
+          "link": "https://smittenkitchen.com/2026/01/simple-crispy-pan-pizza/",
+          "publishedOn": "2026-01-20T17:12:39.000Z",
+          "wordCount": 5679,
+          "title": "simple crispy pan pizza",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/01/crispy-pan-pizza-1-2-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=92115",
           "author": "deb",
           "description": "Read more »",
@@ -5884,6 +5924,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/smart-skills/5-myths-about-mastery/",
+          "author": "Anne-Laure Le Cunff",
+          "description": "This article is an early look at our upcoming special issue on Mastery. Check back in on January 28 to catch the full issue.\nAfter years of studies and six months in New York, I was convinced I’d mastered English. I was cracking jokes with American friends, binge-watching shows without subtitles, and even thinking in English half the time.\nThen I moved to London for my first job at Google, and suddenly, I felt like I’d never truly master the language. Colleagues used phrases I’d never heard. Cultural references flew over my head. I found myself nodding along in meetings, pretending to understand jokes that left me completely lost. It felt terrible.\nI was encountering the growing pains inherent to mastery, but everything I’d been told about getting good at something had set me up to misinte…",
+          "link": "https://bigthink.com/smart-skills/5-myths-about-mastery/",
+          "publishedOn": "2026-01-20T18:00:00.000Z",
+          "wordCount": 1924,
+          "title": "The 5 myths that make us quit before we get good",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Mastery2_Final.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/the-healing-power-of-resilience/",
+          "author": "Tara Narula",
+          "description": "You may think that denial can be harmful when encountering a challenge. But let me tell you about Richard Cohen.\nWhen I was struggling with my eyesight, I read a book called Blindsided: Lifting a Life Above Illness, by Richard Cohen. Cohen, who called the book a “reluctant memoir,” was diagnosed with MS at 25, survived two bouts of colon cancer, was legally blind for much of his life, and yet had an incredible, award-winning career as a war correspondent and journalist. He was married to journalist Meredith Viera for almost 40 years and was the father of three children. Sadly, he passed away in late 2024 after a struggle with pneumonia.\nI had the chance to speak with Richard 20 years after I first read his book. He was a third-generation MS patient: Both his grandmother and his father had …",
+          "link": "https://bigthink.com/books/the-healing-power-of-resilience/",
+          "publishedOn": "2026-01-20T15:30:00.000Z",
+          "wordCount": 2336,
+          "title": "The surprising case for denial as a path toward resilience",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/healing-power_Excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/most-underappreciated-achievement-theoretical-physics/",
           "author": "Ethan Siegel",
@@ -8173,16 +8233,6 @@
           "wordCount": 2790,
           "title": "Will AI save us or destroy us?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/10.23-Nightcrawler_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/5-truths-dark-matter/",
-          "author": "Ethan Siegel",
-          "description": "Every so often, advocates of a fringe theory — one that doesn’t fit the evidence as well as the mainstream theory — do what they can to breathe life back into it. Sometimes new evidence has come to light, legitimately challenging the mainstream theory and demanding that previously discarded alternatives be re-evaluated. Sometimes, a surprising set of observations supports a once-discredited theory, bringing it back into prominence. And at other times, it isn’t new data that elevates a contrarian viewpoint, but rather a false narrative is the culprit, as disingenuous arguments that have been rightfully dismissed by mainstream professionals suddenly take hold among either a new generation of inexperienced individuals, or outsiders who haven’t been exposed to the wide array of mainstream fact…",
-          "link": "https://bigthink.com/starts-with-a-bang/5-truths-dark-matter/",
-          "publishedOn": "2025-10-23T06:00:00.000Z",
-          "wordCount": 4640,
-          "title": "5 undeniable, truthful facts about dark matter",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_5f35cf3f5a328a6cd15597dd_This-image-showcases-the-massive-distant-galaxy-cluster-Abell-S1063-_960x0-e1761092311520.jpg?w=960&h=540&crop=1"
         }
       ]
     },
