@@ -1470,6 +1470,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=550607",
+          "author": "Roselyn Romero",
+          "description": "La Junta de Supervisores considerará a fin de mes una propuesta que prohíbe a agentes federales de inmigración el uso de propiedades del condado y un plan de respuesta coordinada.",
+          "link": "https://www.berkeleyside.org/2026/01/20/avanza-plan-para-zonas-libres-de-ice-en-el-condado-alameda",
+          "publishedOn": "2026-01-20T22:53:50.000Z",
+          "wordCount": 7666,
+          "title": "Avanza plan para “Zonas libres de ICE” en el condado Alameda",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Protests-Supporting-Renee-Good.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550574",
+          "author": "Alex N. Gecan",
+          "description": "The death comes less than two months after an Amtrak train fatally struck another man just four blocks away.",
+          "link": "https://www.berkeleyside.org/2026/01/20/fatal-west-berkeley-train-strike-union-pacific",
+          "publishedOn": "2026-01-20T22:08:47.000Z",
+          "wordCount": 7046,
+          "title": "Train strikes and kills pedestrian in West Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/1000029989-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550550",
+          "author": "Paulina Barrack",
+          "description": "The cherished North Shattuck bakery, cheese shop and pizzeria reopened Jan. 20 with a new system to accommodate a project eight years in the making.",
+          "link": "https://www.berkeleyside.org/2026/01/20/cheese-board-collective-pizzeria-expansion-construction",
+          "publishedOn": "2026-01-20T18:24:07.000Z",
+          "wordCount": 8432,
+          "title": "Everything you need to know about the Cheese Board expansion",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Cheeseboard-Container-2-radcliffe.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=550473",
           "author": "Dirk Neyhart",
           "description": "Dirk Neyhart grew up in Berkeley in the ’50s and ’60s. After surviving a stabbing that left him disabled, he found joy and purpose in community service.",
@@ -5924,6 +5954,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/neuropsych/computational-model-discovers-new-types-of-neurons-hidden-in-decade-old-dataset/",
+          "author": "Jasna Hodžić",
+          "description": "In 2014, a team of neuroscientists, including Dr. Earl Miller, the Picower Professor of Neuroscience at MIT, gave macaque monkeys a carefully standardized task: categorize visual dot patterns into one of two groups. As the animals learned, the researchers recorded brain activity, hoping to understand how learning changes neural activity.\nNearly a decade later, Miller — alongside researchers from Dartmouth, including Dr. Anand Pathak and Prof. Richard Granger — gave the same task to a very different subject. It wasn’t a primate at all, but a computational model that the team wired to work like the real brain circuits that control learning and decision-making. Dr. Miller and his colleagues hoped it would produce patterns of neural activity similar to what they observed in the macaques. What …",
+          "link": "https://bigthink.com/neuropsych/computational-model-discovers-new-types-of-neurons-hidden-in-decade-old-dataset/",
+          "publishedOn": "2026-01-20T20:32:25.000Z",
+          "wordCount": 2912,
+          "title": "Computational model discovers new types of neurons hidden in decade-old dataset",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/new-neurons-old-dataset_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/smart-skills/5-myths-about-mastery/",
           "author": "Anne-Laure Le Cunff",
