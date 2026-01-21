@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158164",
+          "author": "Yasemin Saplakoglu",
+          "description": "Researchers recorded the neurons that shape directional navigation as bats explored a remote island off the coast of Tanzania.            \nThe post How Animals Build a Sense of Direction first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/",
+          "publishedOn": "2026-01-21T15:18:39.000Z",
+          "wordCount": 4111,
+          "title": "How Animals Build a Sense of Direction",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Internal-Compass-cr-Nachum-Ulanovsky-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158076",
           "author": "Elise Cutts",
           "description": "The Bonnet problem asks when just a bit of information is enough to uniquely identify a whole surface.            \nThe post Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle first appeared on Quanta Magazine",
@@ -1101,16 +1111,6 @@
           "wordCount": 206,
           "title": "Document Forgery",
           "imageUrl": "https://imgs.xkcd.com/comics/document_forgery_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3159/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3159/",
-          "publishedOn": "2025-10-24T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Continents",
-          "imageUrl": "https://imgs.xkcd.com/comics/continents_2x.png"
         }
       ]
     },
@@ -1443,6 +1443,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550564",
+          "author": "Nathan Dalton",
+          "description": "Also: D.C. Piano moves into a larger space on University Avenue and Worthy Self Care Studio expands in the Elmwood, opening a new concept \"movement studio.\"",
+          "link": "https://www.berkeleyside.org/2026/01/21/shop-talk-paraiso-plant-studio-moves-into-former-market-hall-space-american-giant-vans-close-on-fourth-street",
+          "publishedOn": "2026-01-21T14:00:00.000Z",
+          "wordCount": 8300,
+          "title": "Shop Talk: Paraíso Plant Studio moves into former Market Hall space; American Giant, Vans close on Fourth Street",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Paraiso-Plant-Studio-2.jpg?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550559",
+          "author": "Michael Bender",
+          "description": "Best known for her book \"Plain and Simple: A Woman’s Journey to the Amish,\" Bender was also a family therapist who started an in-home art gallery and a Berkeley institute focused on helping people find their true calling.",
+          "link": "https://www.berkeleyside.org/2026/01/21/sue-bender-author-obituary",
+          "publishedOn": "2026-01-21T13:00:00.000Z",
+          "wordCount": 8142,
+          "title": "Remembering Sue Bender, ceramist and author of bestseller about life among the Amish",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Sue-Bender-at-a-reading-about-1998-Photo-Richard-Bender.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550607",
           "author": "Roselyn Romero",
@@ -4539,6 +4559,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/1993-mtv-internet/",
+          "author": null,
+          "description": "MTV VJ Adam Curry in 1993, the year he took to the Web with MTV.com. Photo via WikiMedia.\nAny history of web design has to begin with the first graphical web browser to go mainstream: Mosaic, later to be renamed Netscape Navigator.\nAt the beginning of 1993, college student Marc Andreessen wrote a message to the WWW-Talk mailing list calling for volunteers to test a new GUI (graphical user interface) browser in development — \"initially it's hypertext only, but will soon have multimedia capabilities also.\" Later in the month came the announcement of “alpha/beta version 0.5” of the browser, which Andreessen was now calling X Mosaic. The X signified that it was built for the X Window System, which meant that it only worked on a few platforms — notably, not yet including Microsoft Windows or Ap…",
+          "link": "https://cybercultural.com/p/1993-mtv-internet/",
+          "publishedOn": "2026-01-21T14:20:00.000Z",
+          "wordCount": 2526,
+          "title": "1993: Web Browsers Add Multimedia and MTV.com Goes Online",
+          "imageUrl": "https://cybercultural.com/assets/images/Adam_Curry-1993b.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/history-of-web-design/",
           "author": null,
           "description": "Web design books; by Phillip Chee on Flickr, February 2010.\nWelcome to season 5 of Cybercultural, which will be a history of web design from 1993 till 2012. That's twenty years of web design, going from the grey HTML webpages of 1993 through to the colourful, mobile-centric (yet responsive) designs of 2012.\nThis history of web design will cover two eras of the internet: dot-com and Web 2.0. I decided not to move into the rest of the 2010s, partly because that's an era when smartphone apps began to dominate — and so the web struggled. But also, in my view the first two decades of the web represent the very best of online creativity and experimentation. Because during that time, personal websites and blogs flourished.\nSeason 5 Structure\nBefore I describe the main themes, here's how this hist…",
@@ -5828,6 +5858,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/andrew-steele-longevity-science/",
+          "author": "Steph McClain",
+          "description": "We speak about cancer, Alzheimer’s, heart disease as if they arrived independently. But we ignore the process that makes them more likely with every passing year: aging. \nLongevity scientist Andrew Steele walks us through the emerging science that’s trying to reverse the aging process completely.\nThis video Why even the healthiest people hit a wall at age 70 is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/andrew-steele-longevity-science/",
+          "publishedOn": "2026-01-21T14:00:00.000Z",
+          "wordCount": 6115,
+          "title": "Why even the healthiest people hit a wall at age 70",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/C1-Web-Steele.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/solar-radiation-storm-2026-aurora/",
           "author": "Ethan Siegel",
@@ -8117,16 +8157,6 @@
           "wordCount": 10208,
           "title": "How your cognitive biases lead to terrible investing behaviors",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/B1-Web-Ritholtz.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/could-universe-expand-forever/",
-          "author": "Ethan Siegel",
-          "description": "In many ways, our modern picture of the Universe got its start in the 1920s. In that one decade, we discovered that the spiral and elliptical nebulae in the sky were actually galaxies, far beyond the extent of our own Milky Way. We measured the distance to these galaxies, determining that the farther away they were, on average, the faster they appeared to be speeding away from us. And we calculated that a Universe that was uniformly filled with “stuff” — whether matter, radiation, a cosmological constant, or any other form of energy — would be unable to be static and stable; it must either expand or contract.\nFrom these revolutionary realizations, the notion of the expanding Universe was born. Over the past century, we’ve learned much more about the history and properties of our Universe. …",
-          "link": "https://bigthink.com/starts-with-a-bang/could-universe-expand-forever/",
-          "publishedOn": "2025-10-24T06:00:00.000Z",
-          "wordCount": 4324,
-          "title": "Ask Ethan: Why couldn’t the Universe have expanded forever?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_59c1b43731358e542c029535_Illustration-of-the-Big-Bang-and-the-subsequently-expanding-Universe-_960x0-e1761236183954.jpg?w=960&h=540&crop=1"
         }
       ]
     },
