@@ -743,6 +743,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3197/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3197/",
+          "publishedOn": "2026-01-21T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Cost Savings",
+          "imageUrl": "https://imgs.xkcd.com/comics/cost_savings_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3196/",
           "author": null,
           "description": "",
@@ -1443,6 +1453,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550648",
+          "author": "Nico Savidge",
+          "description": "The change aims to provide less expensive opportunities for homeownership in a city with a famously fearsome real estate market.",
+          "link": "https://www.berkeleyside.org/2026/01/21/berkeley-adu-sale-ab1033-accessory-dwelling-unit",
+          "publishedOn": "2026-01-21T23:40:10.000Z",
+          "wordCount": 7762,
+          "title": "Would you buy a backyard cottage? Berkeley legalizes sales of ADUs",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/TypeFive_ADU_1-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550642",
+          "author": "Cecilia Seiter",
+          "description": "The Laurel District’s lauded breakfast spot is in escrow, with plans to change ownership in mid to late February.",
+          "link": "https://www.berkeleyside.org/2026/01/21/sequoia-diner-sold-new-owners-breakfast",
+          "publishedOn": "2026-01-21T20:00:00.000Z",
+          "wordCount": 7216,
+          "title": "New owners of Sequoia Diner vow to preserve what customers ‘already love’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/BreakfastSando-Sequoia-Lapan.jpg?fit=2000%2C1573&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550564",
           "author": "Nathan Dalton",
@@ -5840,16 +5870,6 @@
           "wordCount": null,
           "title": "The Beaches: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eo0UxS6lnjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eo0UxS6lnjA",
-          "publishedOn": "2025-10-24T09:01:12.000Z",
-          "wordCount": null,
-          "title": "Asake: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -8165,6 +8185,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/new/?p=9709",
+          "author": "Jessica Hylton",
+          "description": "These gluten-free vegan Zucchini Fritters are delightfully crispy and an absolute cinch to make, perfect for pairing with your favourite dipping sauces and toppings! Serve them as a side, make them a light main dish, or fry them up for a fun party appetizer! Along with Zucchini Muffins and Zucchini Bread, zucchini fritters are one of the classic […]",
+          "link": "https://jessicainthekitchen.com/vegan-zucchini-fritters-gf/",
+          "publishedOn": "2026-01-20T15:00:00.000Z",
+          "wordCount": 9332,
+          "title": "Gluten-Free Vegan Zucchini Fritters",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2016/06/Zucchini-Fritters7926.jpg"
+        },
         {
           "id": "http://theblog.jessikerbakes.com/?p=3542",
           "author": "Jessica Hylton",
