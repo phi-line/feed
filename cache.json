@@ -4467,66 +4467,6 @@
           "wordCount": 6820,
           "title": "Berkeley High cancels Día de los Muertos celebration amid fears of ICE raids",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-14.png"
-        },
-        {
-          "id": "https://oaklandside.org/?p=463226",
-          "author": "Esther Kaplan",
-          "description": "Early voting begins Saturday for California’s Nov. 4 special election on a ballot measure to redraw Congressional district maps. Gov. Newsom pitched Prop 50 in response to partisan Republican redistricting in Texas.",
-          "link": "https://www.berkeleyside.org/2025/10/24/how-and-when-cast-vote-on-prop-50",
-          "publishedOn": "2025-10-24T22:41:04.000Z",
-          "wordCount": 6837,
-          "title": "How and when to cast a vote on Prop 50",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-12.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546092",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Free speech advocates, journalists and traffic safety activists are pushing back against Berkeley police's plan to close all their radio transmissions to the public.",
-          "link": "https://www.berkeleyside.org/2025/10/24/tiktok-star-southside-anti-immigrant-rant-ucpd-in-riot-gear-pro-palestinian-protesters",
-          "publishedOn": "2025-10-24T22:18:08.000Z",
-          "wordCount": 6873,
-          "title": "Wire: TikTok star brawls outside Berkeley bar after anti-immigrant rant; UCPD in riot gear clear pro-Palestinian protesters",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-11.png"
-        },
-        {
-          "id": "https://oaklandside.org/?p=463637",
-          "author": "Darwin BondGraham and Roselyn Romero",
-          "description": "The Alameda County Sheriff's Office confirmed that it's been told federal officials have paused operations in the whole Bay Area.",
-          "link": "https://www.berkeleyside.org/2025/10/24/ice-cbp-operations-canceled-east-bay-oakland-mayor-sheriff",
-          "publishedOn": "2025-10-24T19:48:42.000Z",
-          "wordCount": 6906,
-          "title": "Oakland mayor, sheriff say CBP ‘surge’ operation canceled for East Bay",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/20251024-194513.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=463626",
-          "author": "Darwin BondGraham",
-          "description": "District Attorney Ursula Jones Dickson also urged the public not to physically engage with federal law enforcement.",
-          "link": "https://www.berkeleyside.org/2025/10/24/alameda-county-da-staff-will-not-assist-federal-agents",
-          "publishedOn": "2025-10-24T19:41:00.000Z",
-          "wordCount": 6925,
-          "title": "Alameda County DA says her staff ‘will not assist federal agents’",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/20250530-052950.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546078",
-          "author": "Cecilia Seiter",
-          "description": "When the Lakeshore branch of Top Dog shutters, only the original in Berkeley will remain.",
-          "link": "https://www.berkeleyside.org/2025/10/24/top-dog-lakeshore-closing",
-          "publishedOn": "2025-10-24T19:00:00.000Z",
-          "wordCount": 6222,
-          "title": "Oakland to lose its branch of Berkeley icon",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/05/TopDog-NeonSign.jpg?fit=873%2C652&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546075",
-          "author": "Hope Muñoz",
-          "description": "Shark Stewards, the organizer of Berkeley’s largest protest last weekend, opposes the Trump administration’s opening of commercial fishing in protected areas of the ocean.",
-          "link": "https://www.berkeleyside.org/2025/10/24/shark-stewards-no-kings-berkeley",
-          "publishedOn": "2025-10-24T18:13:52.000Z",
-          "wordCount": 7147,
-          "title": "Why a Berkeley nonprofit had people dress up as sharks for ‘No Kings’ day",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/large-Shark-Stewards.jpg"
         }
       ]
     },
@@ -4930,6 +4870,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/darwin-el-naturalista",
+          "author": null,
+          "description": "In His Own Words (Episode 5)",
+          "link": "https://aethermug.com/posts/darwin-el-naturalista?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-01-22T08:10:47.000Z",
+          "wordCount": 11084,
+          "title": "Darwin El Naturalista",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/darwin-el-naturalista/Charles_Darwin_Lawrence.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/darwin-el-naturalista/Charles_Darwin_Lawrence.jpg"
+        },
+        {
           "id": "https://aethermug.com/posts/darwin-the-witness",
           "author": null,
           "description": "In His Own Words (Episode 4)",
@@ -5101,6 +5056,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FQMarD0iTII",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FQMarD0iTII",
+          "publishedOn": "2026-01-22T10:00:19.000Z",
+          "wordCount": null,
+          "title": "yeule: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MzPPTUNbB7I",
           "author": null,
@@ -5858,6 +5823,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/gladys-west-einstein-gps/",
+          "author": "Ethan Siegel",
+          "description": "Over the span of a single lifetime, the world has changed in ways that would have been virtually unimaginable in the first half of the 20th century. Two major breakthroughs that occurred in physics — relativity and quantum physics — suddenly made a number of previously unthinkable endeavors possible. From modern electronics to computers, smart phones, the internet, brain imaging and more, everyday life in 2021 is vastly different from what it was back when many of us were first born.\nOne of those technologies that’s been revolutionary for our society is GPS: the Global Positioning System. From anywhere in the world, signals can be transmitted by a network of medium-Earth orbit satellites to wherever your location is, pinpointing your position to an accuracy of better than 1 meter (3 feet) …",
+          "link": "https://bigthink.com/starts-with-a-bang/gladys-west-einstein-gps/",
+          "publishedOn": "2026-01-22T07:00:00.000Z",
+          "wordCount": 4508,
+          "title": "Remembering Gladys West: who used Einstein to create GPS",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/181206-F-DT527-087.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/the-big-think-interview/andrew-steele-longevity-science/",
           "author": "Steph McClain",

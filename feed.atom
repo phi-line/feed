@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-22T06:08:30.064Z</updated>
+    <updated>2026-01-22T12:09:25.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[yeule: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=FQMarD0iTII</id>
+        <link href="https://www.youtube.com/watch?v=FQMarD0iTII"/>
+        <updated>2026-01-22T10:00:19.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darwin El Naturalista]]></title>
+        <id>https://aethermug.com/posts/darwin-el-naturalista</id>
+        <link href="https://aethermug.com/posts/darwin-el-naturalista?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2026-01-22T08:10:47.000Z</updated>
+        <summary type="html"><![CDATA[In His Own Words (Episode 5)]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Gladys West: who used Einstein to create GPS]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/gladys-west-einstein-gps/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/gladys-west-einstein-gps/"/>
+        <updated>2026-01-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the span of a single lifetime, the world has changed in ways that would have been virtually unimaginable in the first half of the 20th century. Two major breakthroughs that occurred in physics — relativity and quantum physics — suddenly made a number of previously unthinkable endeavors possible. From modern electronics to computers, smart phones, the internet, brain imaging and more, everyday life in 2021 is vastly different from what it was back when many of us were first born.
+One of those technologies that’s been revolutionary for our society is GPS: the Global Positioning System. From anywhere in the world, signals can be transmitted by a network of medium-Earth orbit satellites to wherever your location is, pinpointing your position to an accuracy of better than 1 meter (3 feet) …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Would you buy a backyard cottage? Berkeley legalizes sales of ADUs]]></title>
         <id>https://www.berkeleyside.org/?p=550648</id>
@@ -8814,66 +8844,6 @@ Join Meera Sodha at a special event celebrating the best of Guardian culture on 
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How and when to cast a vote on Prop 50]]></title>
-        <id>https://oaklandside.org/?p=463226</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/how-and-when-cast-vote-on-prop-50"/>
-        <updated>2025-10-24T22:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Early voting begins Saturday for California’s Nov. 4 special election on a ballot measure to redraw Congressional district maps. Gov. Newsom pitched Prop 50 in response to partisan Republican redistricting in Texas.]]></summary>
-        <author>
-            <name>Esther Kaplan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wire: TikTok star brawls outside Berkeley bar after anti-immigrant rant; UCPD in riot gear clear pro-Palestinian protesters]]></title>
-        <id>https://www.berkeleyside.org/?p=546092</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/tiktok-star-southside-anti-immigrant-rant-ucpd-in-riot-gear-pro-palestinian-protesters"/>
-        <updated>2025-10-24T22:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Also: Free speech advocates, journalists and traffic safety activists are pushing back against Berkeley police's plan to close all their radio transmissions to the public.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland mayor, sheriff say CBP ‘surge’ operation canceled for East Bay]]></title>
-        <id>https://oaklandside.org/?p=463637</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/ice-cbp-operations-canceled-east-bay-oakland-mayor-sheriff"/>
-        <updated>2025-10-24T19:48:42.000Z</updated>
-        <summary type="html"><![CDATA[The Alameda County Sheriff's Office confirmed that it's been told federal officials have paused operations in the whole Bay Area.]]></summary>
-        <author>
-            <name>Darwin BondGraham and Roselyn Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alameda County DA says her staff ‘will not assist federal agents’]]></title>
-        <id>https://oaklandside.org/?p=463626</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/alameda-county-da-staff-will-not-assist-federal-agents"/>
-        <updated>2025-10-24T19:41:00.000Z</updated>
-        <summary type="html"><![CDATA[District Attorney Ursula Jones Dickson also urged the public not to physically engage with federal law enforcement.]]></summary>
-        <author>
-            <name>Darwin BondGraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland to lose its branch of Berkeley icon]]></title>
-        <id>https://www.berkeleyside.org/?p=546078</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/top-dog-lakeshore-closing"/>
-        <updated>2025-10-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When the Lakeshore branch of Top Dog shutters, only the original in Berkeley will remain.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Berkeley nonprofit had people dress up as sharks for ‘No Kings’ day]]></title>
-        <id>https://www.berkeleyside.org/?p=546075</id>
-        <link href="https://www.berkeleyside.org/2025/10/24/shark-stewards-no-kings-berkeley"/>
-        <updated>2025-10-24T18:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Shark Stewards, the organizer of Berkeley’s largest protest last weekend, opposes the Trump administration’s opening of commercial fishing in protected areas of the ocean.]]></summary>
-        <author>
-            <name>Hope Muñoz</name>
         </author>
     </entry>
     <entry>
