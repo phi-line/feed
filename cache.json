@@ -1157,6 +1157,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-ai-powered-web-is-eating-itself",
+          "author": "Hamilton Mann",
+          "description": "The post The AI-Powered Web Is Eating Itself appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-ai-powered-web-is-eating-itself",
+          "publishedOn": "2026-01-22T14:54:00.000Z",
+          "wordCount": 7731,
+          "title": "The AI-Powered Web Is Eating Itself",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/AI-Future-of-Web-Header.jpg?fm=pjpg&ixlib=php-3.3.1&s=20a8e7aac7e85ea43c5313a5537be5c5"
+        },
+        {
           "id": "https://www.noemamag.com/when-ai-human-worlds-collide",
           "author": "Ben Bariach",
           "description": "The post When AI & Human Worlds Collide appeared first on NOEMA.",
@@ -1443,6 +1453,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550519",
+          "author": "Local sponsor",
+          "description": "Realtor Megan Micco offers advice on the new ordinance and an online calculator for homeowners.",
+          "link": "https://www.berkeleyside.org/2026/01/22/berkeleys-beso-mandate-for-home-sales-now-requires-energy-saving-updates",
+          "publishedOn": "2026-01-22T16:30:00.000Z",
+          "wordCount": 7741,
+          "title": "Berkeley’s BESO mandate for home sales now requires energy-saving updates",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/617-Grizzly-Peak-Blvd.-Berkeley-Drone-11-scaled.jpg?fit=2560%2C1440&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550661",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include two autobiographical plays, a group meditation circle and a ukulele club that meets biweekly.",
+          "link": "https://www.berkeleyside.org/2026/01/22/around-berkeley-extreme-music-letter-writing-club-climbing-competition",
+          "publishedOn": "2026-01-22T13:45:00.000Z",
+          "wordCount": 8178,
+          "title": "Around Berkeley: Extreme music, letter writing club, climbing competition",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-benchmark-3-4.webp?fit=780%2C585&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550648",
           "author": "Nico Savidge",
@@ -4851,16 +4881,6 @@
           "wordCount": 4429,
           "title": "Meera Sodha’s recipe for tahini beans with basil and pine nuts | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/29efc18fe78d4e11624852fbf3b946162821109a/176_52_3537_2830/master/3537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d423c2b8ef87b48f4293cd8bd515773d"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/oct/25/japanese-curry-rice-with-soy-marinated-yolk-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Let curry cubes do the heavy lifting while the egg brings a splash of rich colour to this easy midweek meal \nBack in 2020, I put some curry cubes in my husband Hugh’s Christmas stocking, and our life (particularly his) was cleaved in two: before curry cubes, and after. He took them camping and on cycling trips, and he raved about them to friends. Slowly, they became a pantry staple for us. When I have the time, I like to batch-cook my own curry sauce and freeze it, but when there isn’t time, we love this meal. It feels embarrassingly easy to make, because the cubes bring all the flavour, and also quite fancy at the same time thanks to the egg yolk. We love it, and I hope you will, too.\nJoin Meera Sodha at a special event celebrating the best of Guardian culture on Wednesday 26 November, hosted by Nish Kumar and alongside writers Stuart Heritage and Tim Dowling, with Georgina Lawton hosting You Be The Judge live. Live in London or via livestream – book tickets here.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/oct/25/japanese-curry-rice-with-soy-marinated-yolk-recipe-meera-sodha",
-          "publishedOn": "2025-10-25T05:00:27.000Z",
-          "wordCount": 4611,
-          "title": "Meera Sodha’s recipe for Japanese curry rice with soy-marinated yolk | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/606d7b512e8365c49894d391a9954b96b2b0a930/409_2285_2452_1960/master/2452.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6fe21018e2134d0baf131adbff82e28"
         }
       ]
     },
@@ -5823,6 +5843,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/big-trust/",
+          "author": "Shadé Zahrai",
+          "description": "When I first met Rashida, she introduced herself with a disclaimer: “I’m a little intense.” She said it with a grimace, as if the label left a bad taste in her mouth.\nI replied, “Good to know. What else should I know about you?”\nShe told me she was a mother, a recent pickleball enthusiast, and a leader in risk and compliance at a Fortune 500 company. I thought maybe such a role demanded intensity, but I still asked, “Where does that ‘intense’ label come from?”\nShe didn’t have to think long. “When I left my last company, my boss made an offhand comment. He said, ‘You can be a bit intense, Rashida, but we’ll sure miss you.’”\nThat comment stuck. Hard. But it wasn’t the first time Rashida had heard it: “My parents are Egyptian, and I’m the youngest of eight kids. My brothers and sisters would …",
+          "link": "https://bigthink.com/books/big-trust/",
+          "publishedOn": "2026-01-22T15:30:00.000Z",
+          "wordCount": 2228,
+          "title": "Your brain loves labels — even when they limit your potential",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/big-trust_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/mini-philosophy/buried-alive-leeched-and-attacked-with-a-poker-the-dark-history-of-nostalgia-cures/",
+          "author": "Jonny Thomson",
+          "description": "These days, we often consider nostalgia to be a complicated but mostly harmless emotion. It’s full of pathos but, like heartache, it’s something you live with or get over. But it has not always been thus.\nFrom the late 17th through the late 19th centuries, nostalgia was mostly viewed as a legitimate medical condition. Doctors argued that it was a physical ailment because they did not yet share the modern, sharp distinction between the mind and the body. Emotions were seen as “the passions” that could directly deplete a person’s physical “animal spirits” and vital reserves. Their arguments were underlined by a series of seemingly physical symptoms linked to nostalgic sentiments. When people pined for some past time or some distant homeland, they reported lethargy, fever, and heart palpitati…",
+          "link": "https://bigthink.com/mini-philosophy/buried-alive-leeched-and-attacked-with-a-poker-the-dark-history-of-nostalgia-cures/",
+          "publishedOn": "2026-01-22T14:18:25.000Z",
+          "wordCount": 2156,
+          "title": "Buried alive, leeched, and attacked with a poker: The dark history of nostalgia “cures”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/nostalgia-cures_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/myths-of-exercise/",
+          "author": "Daniel Lieberman",
+          "description": "For most of human history, movement was inseparable from survival. Deliberately burning energy for no immediate purpose would have made little sense in a world where calories were scarce and bodies were costly to maintain.\nSeen through an evolutionary lens, exercise stops looking like a personal shortcoming and starts looking like a cultural invention we’re still learning how to live with, says Daniel Lieberman.\nThis video Why modern fitness culture misunderstands human bodies is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/myths-of-exercise/",
+          "publishedOn": "2026-01-22T14:00:00.000Z",
+          "wordCount": 4580,
+          "title": "Why modern fitness culture misunderstands human bodies",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/B1-Web-Lieberman.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/gladys-west-einstein-gps/",
           "author": "Ethan Siegel",
