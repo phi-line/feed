@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-23T06:08:09.199Z</updated>
+    <updated>2026-01-23T12:08:54.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Where are all the blueshifted galaxies?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/where-are-blueshifted-galaxies/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/where-are-blueshifted-galaxies/"/>
+        <updated>2026-01-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in the Universe, there’s a fascinating property that nearly every galaxy beyond our own Milky Way seems to possess: the light that we observe from it seems to be shifted towards redder, longer wavelengths than the light that’s emitted from within our own galaxy. Within the context of General Relativity, there are a number of possible explanations for an observed redshift: it could be due to the relative motion of the source and the observer, it could be due to a different in the curvature of space between the source and the observer, or it could be due to the fabric of space itself stretching and expanding as light travels through it.
+Yet, if it were the effects of gravitational masses (like galaxies) tugging on other masses (like other galaxies) that dominated the Universe, you’d exp…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Cal professor to carry Olympic torch with his service dog]]></title>
         <id>https://www.berkeleyside.org/?p=550698</id>
@@ -8905,27 +8916,6 @@ A photo of Ethan Siegel at the American Astronomical Society’s hyperwall in 20
         <summary type="html"><![CDATA[In a little over a century, the electron microscope evolved from a tool barely capable of resolving virus particles into one able to capture atomic detail.]]></summary>
         <author>
             <name>Smrithi Sunil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[By the power of grayscale!]]></title>
-        <id>https://zserge.com/posts/grayskull/</id>
-        <link href="https://zserge.com/posts/grayskull/"/>
-        <updated>2025-10-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When people talk about computer vision, they usually think of OpenCV or deep neural networks like YOLO. But in most cases, doing computer vision implies understanding of the core algorithms, so you can use or adapt them for your own needs.
-I wanted to see how far I could go by stripping computer vision down to the bare minimum: only grayscale 8-bit images, no fancy data structures, plain old C, some byte arrays and a single header file.]]></summary>
-        <author>
-            <name>zserge's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley High cancels Día de los Muertos celebration amid fears of ICE raids]]></title>
-        <id>https://www.berkeleyside.org/?p=546148</id>
-        <link href="https://www.berkeleyside.org/2025/10/25/day-of-the-dead-celebration-canceled-berkeley"/>
-        <updated>2025-10-25T18:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Community members “just don’t feel safe,” an organizer said. The event was set for Saturday, Oct. 25.]]></summary>
-        <author>
-            <name>Vanessa Arredondo</name>
         </author>
     </entry>
     <entry>
