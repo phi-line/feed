@@ -704,26 +704,6 @@
           "wordCount": 1630,
           "title": "Protected: 14,445 and Counting",
           "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=50007",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Blue Book Burglar appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2025/blue-book-burglar-art-heist",
-          "publishedOn": "2025-10-25T11:10:36.000Z",
-          "wordCount": 1562,
-          "title": "Protected: The Blue Book Burglar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=50007",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Blue Book Burglar appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2025/the-blue-book-burglar-art-heist",
-          "publishedOn": "2025-10-25T11:10:36.000Z",
-          "wordCount": 1554,
-          "title": "Protected: The Blue Book Burglar",
-          "imageUrl": null
         }
       ]
     },
@@ -1453,6 +1433,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550700",
+          "author": "Momo Chang",
+          "description": "The restaurant serving and delivering pizza, wings, salads and more officially opened on Jan. 22 in Uptown Oakland.",
+          "link": "https://www.berkeleyside.org/2026/01/22/flour-and-water-pizza-lark-open",
+          "publishedOn": "2026-01-23T00:00:00.000Z",
+          "wordCount": 8158,
+          "title": "For its first location outside San Francisco, Flour + Water knew it had to be Oakland",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-20260120_Flower20waterEG_011.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550669",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/01/22/fatto-a-mano-yemen-qahwa-time-pizza-opening",
+          "publishedOn": "2026-01-22T20:00:00.000Z",
+          "wordCount": 7351,
+          "title": "New Yemeni spots hit Berkeley and Richmond, and a popular SF pizza joint expands to Oakland",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/qahwatime-berkeley.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=467919",
+          "author": "Azucena Rasilla",
+          "description": "Coogler's vampire film “Sinners” broke records with 16 nominations. Born in Oakland, he graduated from St. Mary's College High School in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/01/22/ryan-coogler-oakland-berkeley-oscars-history-16-nominations",
+          "publishedOn": "2026-01-22T18:18:27.000Z",
+          "wordCount": 7930,
+          "title": "Ryan Coogler, filmmaker who went to high school in Berkeley, makes Oscars history",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Sinners_EuropeanPremiere_029-scaled-2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550519",
           "author": "Local sponsor",
