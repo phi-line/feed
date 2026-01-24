@@ -671,22 +671,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!yR1j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1383f47b-36fc-4e65-97e1-1fa1c7c13876_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/electron-microscope",
-          "author": "Smrithi Sunil",
-          "description": "In a little over a century, the electron microscope evolved from a tool barely capable of resolving virus particles into one able to capture atomic detail.",
-          "link": "https://www.asimov.press/p/electron-microscope",
-          "publishedOn": "2025-10-26T16:33:14.000Z",
-          "wordCount": null,
-          "title": "Making the Electron Microscope",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!WP25!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F364a5027-9cb7-4856-bfaa-9b3fe4c6a9cc_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!WP25!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F364a5027-9cb7-4856-bfaa-9b3fe4c6a9cc_2000x1260.jpeg"
         }
       ]
     },
@@ -722,6 +706,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3198/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3198/",
+          "publishedOn": "2026-01-23T05:00:00.000Z",
+          "wordCount": 189,
+          "title": "Double-Pronged Extension Cord",
+          "imageUrl": "https://imgs.xkcd.com/comics/double_pronged_extension_cord_2x.png"
+        },
         {
           "id": "https://xkcd.com/3197/",
           "author": null,
@@ -1453,6 +1447,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550812",
+          "author": "Vanessa Arredondo and Zac Farber",
+          "description": "Malcolm X teachers rallied after class and protesters asked managers of the Graduate Hotel to pledge not to lodge ICE agents — part of a national day of action opposing federal immigration raids in Minnesota and Renee Good’s killing.",
+          "link": "https://www.berkeleyside.org/2026/01/23/ice-out-of-mn-protests-berkeley",
+          "publishedOn": "2026-01-24T01:00:08.000Z",
+          "wordCount": 7735,
+          "title": "Anti-ICE protests Friday at Berkeley schools and a Hilton hotel in the Southside neighborhood",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_5181-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550794",
           "author": "Alex N. Gecan",
@@ -4832,6 +4836,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/jan/24/vegan-recipe-leek-tempeh-manis-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Soft leeks and crisped tempeh drizzled in a sticky, spicy sweet soy sauce and liberally sprinkled with salted peanuts\nTempeh is a gift to all home cooks from Indonesia. Made from fermented compressed soy beans, it’s an intelligent ingredient equivalent to meat in terms of protein, subtle and nutty in flavour and chewy in texture. Happily, it is also now widely available in most large UK supermarkets. Here, the tempeh is cooked in a typical Indonesian way – that is, fried until crisp, then coated in a sticky, spicy sweet soy sauce and liberally sprinkled with salted peanuts. In fact, the only anomaly is the leeks, making this dish mostly Indonesian but via a field in Lincolnshire.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jan/24/vegan-recipe-leek-tempeh-manis-meera-sodha",
+          "publishedOn": "2026-01-24T06:00:31.000Z",
+          "wordCount": 4636,
+          "title": "Meera Sodha’s vegan recipe for leek and tempeh manis | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/a63cf86b3391c9cfddb542bc279b41513e03a464/0_720_3695_2956/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4061596fd0f4583516fb336ddb0190d4"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/jan/17/turkish-eggs-with-lemon-yoghurt-recipe-meera-sodha",
           "author": "Meera Sodha",
