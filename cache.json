@@ -392,6 +392,554 @@
       ]
     },
     {
+      "title": "404 Media",
+      "feedUrl": "https://www.404media.co/rss",
+      "siteUrl": "https://www.404media.co/",
+      "articles": [
+        {
+          "id": "6973bac6420e3a000197433a",
+          "author": "Becky Ferreira",
+          "description": "Veronika, a brown cow in Austria, uses sticks and brushes as multipurpose tools to scratch hard-to-reach spots",
+          "link": "https://www.404media.co/scientists-discovered-a-cow-that-uses-tools-like-a-chimpanzee/",
+          "publishedOn": "2026-01-24T14:00:33.000Z",
+          "wordCount": 2163,
+          "title": "Scientists Discovered a Cow That Uses Tools Like a Chimpanzee",
+          "imageUrl": "https://www.404media.co/content/images/2026/01/image1-4.jpg"
+        },
+        {
+          "id": "6973a424420e3a000194e1aa",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss stances on AI, a conference about money laundering, and signs about slavery coming down.",
+          "link": "https://www.404media.co/behind-the-blog-signs-of-the-times/",
+          "publishedOn": "2026-01-23T17:53:28.000Z",
+          "wordCount": 1046,
+          "title": "Behind the Blog: Signs of the Times",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/nl1.23.png"
+        },
+        {
+          "id": "69724709420e3a0001928047",
+          "author": "Becky Ferreira",
+          "description": "Why is the human penis so big? Scientists probed the evolution of penis size through sexual selection and mate competition in a first-of-its-kind study",
+          "link": "https://www.404media.co/scientists-got-men-to-rate-penises-by-how-intimidating-they-are-this-is-what-they-found/",
+          "publishedOn": "2026-01-22T19:00:38.000Z",
+          "wordCount": 1904,
+          "title": "Scientists Got Men to Rate Penises by How Intimidating They Are. This Is What They Found.",
+          "imageUrl": "https://www.404media.co/content/images/2026/01/image1-3.jpg"
+        },
+        {
+          "id": "697235bd420e3a0001927e52",
+          "author": "Samantha Cole",
+          "description": "“Ethical dilemmas about AI aside, the posts are completely disconnected with ManyVids as a site,” one ManyVids content creator told 404 Media.",
+          "link": "https://www.404media.co/manyvids-porn-platform-ai-psychosis-bella-french-bio/",
+          "publishedOn": "2026-01-22T16:20:38.000Z",
+          "wordCount": 3914,
+          "title": "Aliens and Angel Numbers: Creators Worry Porn Platform ManyVids Is Falling Into ‘AI Psychosis’",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/manyvids--1-.png"
+        },
+        {
+          "id": "696fe5bdd8e515000189e9e3",
+          "author": "Joseph Cox",
+          "description": "We talk ELITE, the tool Palantir is working on; how AI influencers are defaming celebrities; and Comic-Con's ban of AI art.",
+          "link": "https://www.404media.co/podcast-heres-what-palantir-is-really-building/",
+          "publishedOn": "2026-01-21T17:39:08.000Z",
+          "wordCount": 1068,
+          "title": "Podcast: Here’s What Palantir Is Really Building",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/palantir-pod.png"
+        },
+        {
+          "id": "6970d073d2473400013b2e04",
+          "author": "Jason Koebler",
+          "description": "\"My local community is being systematically liquidated in what I can only describe as a targeted intellectual genocide.\"",
+          "link": "https://www.404media.co/ham-radio-operators-in-belarus-arrested-face-the-death-penalty/",
+          "publishedOn": "2026-01-21T14:52:05.000Z",
+          "wordCount": 1308,
+          "title": "Amateur Radio Operators in Belarus Arrested, Face the Death Penalty",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/CleanShot-2026-01-21-at-05.10.17@2x.png"
+        },
+        {
+          "id": "696faf77d8e515000189daee",
+          "author": "Matthew Gault",
+          "description": "The famed convention's organizers have banned AI from the art show.",
+          "link": "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/",
+          "publishedOn": "2026-01-21T14:00:25.000Z",
+          "wordCount": 1928,
+          "title": "Comic-Con Bans AI Art After Artist Pushback",
+          "imageUrl": "https://images.unsplash.com/photo-1697479865079-bf7ef1ea5e22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGNvbWljLWNvbnxlbnwwfHx8fDE3Njg5MjcxNTZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "696fbeaad8e515000189e053",
+          "author": "Emanuel Maiberg",
+          "description": "The Wikimedia Foundation’s chief technology and product officer explains how she helps manage one of the most visited sites in the world in the age of generative AI.",
+          "link": "https://www.404media.co/how-wikipedia-will-survive-in-the-age-of-ai-with-wikipedias-cto-selena-deckelmann/",
+          "publishedOn": "2026-01-20T17:47:24.000Z",
+          "wordCount": 1205,
+          "title": "How Wikipedia Will Survive in the Age of AI (With Wikipedia’s CTO Selena Deckelmann)",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/wiki-vs-ai-pod.png"
+        },
+        {
+          "id": "696f9457d8e515000187c29b",
+          "author": "Samantha Cole",
+          "description": "On the same day he allegedly robbed a mail carrier, Jordan McCorvey posted photos of himself flipping through stacks of letters still in the USPS tray.",
+          "link": "https://www.404media.co/ohio-mail-theft-postal-worker-robbery/",
+          "publishedOn": "2026-01-20T15:09:04.000Z",
+          "wordCount": 1276,
+          "title": "Alleged Mail Thief Arrested After Bragging About Crimes On Instagram Stories",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/mail.png"
+        },
+        {
+          "id": "696f935dd8e515000187c140",
+          "author": "Jason Koebler",
+          "description": "The FAA has altered a no fly zone designation that was originally created for US military bases to apply to DHS units.",
+          "link": "https://www.404media.co/feds-create-drone-no-fly-zone-that-would-stop-people-filming-ice/",
+          "publishedOn": "2026-01-20T14:53:30.000Z",
+          "wordCount": 970,
+          "title": "Feds Create Drone No Fly Zone That Would Stop People Filming ICE",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/54977959265_d5a993fa4a_k.jpg"
+        },
+        {
+          "id": "696e3a0c61ff700001db60f9",
+          "author": "Joseph Cox",
+          "description": "In testimony from a CBP official obtained by 404 Media, the official described how Mobile Fortify returned two different names after scanning a woman's face during an immigration raid. ICE has said the app's results are a “definitive” determination of someone's immigration status.",
+          "link": "https://www.404media.co/ices-facial-recognition-app-misidentified-a-woman-twice/",
+          "publishedOn": "2026-01-19T14:28:36.000Z",
+          "wordCount": 1127,
+          "title": "ICE’s Facial Recognition App Misidentified a Woman. Twice",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/54977911914_4995b93005_k.jpg"
+        },
+        {
+          "id": "696a684a61ff700001d3c679",
+          "author": "Becky Ferreira",
+          "description": "Scientists sequenced the genome of an extinct woolly rhinoceros that was found in a wolf belly that lived 14,400 years ago.",
+          "link": "https://www.404media.co/scientists-make-stunning-find-inside-prehistoric-wolfs-stomach/",
+          "publishedOn": "2026-01-17T14:00:31.000Z",
+          "wordCount": 2088,
+          "title": "Scientists Make Stunning Find Inside Prehistoric Wolf’s Stomach",
+          "imageUrl": "https://www.404media.co/content/images/2026/01/image3-1.jpg"
+        },
+        {
+          "id": "696a5f6461ff700001d3c3ca",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss the staying power of surveillance coverage, the jigsaw of reporting, and eyestrain.",
+          "link": "https://www.404media.co/behind-the-blog-putting-the-puzzle-together/",
+          "publishedOn": "2026-01-16T17:17:14.000Z",
+          "wordCount": 1169,
+          "title": "Behind the Blog: Putting the Puzzle Together",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/nl116-1.png"
+        },
+        {
+          "id": "69693b1461ff700001d37dc6",
+          "author": "Matthew Gault",
+          "description": "Frowned upon in video games, loot boxes are back in real life–and one’s in the Pentagon.",
+          "link": "https://www.404media.co/theres-a-lootbox-with-rare-pokemon-cards-sitting-in-the-pentagon-food-court/",
+          "publishedOn": "2026-01-15T19:10:37.000Z",
+          "wordCount": 1529,
+          "title": "There’s a Lootbox With Rare Pokémon Cards Sitting in the Pentagon Food Court",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/Screenshot-2026-01-15-104343-1.png"
+        },
+        {
+          "id": "6967c2ec94b9690001012b57",
+          "author": "Joseph Cox",
+          "description": "Internal ICE material and testimony from an official obtained by 404 Media provides the clearest link yet between the technological infrastructure Palantir is building for ICE and the agency’s activities on the ground.",
+          "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+          "publishedOn": "2026-01-15T14:03:04.000Z",
+          "wordCount": 1214,
+          "title": "‘ELITE’: The Palantir App ICE Uses to Find Neighborhoods to Raid",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/54976776897_a1f5f78a32_k.jpg"
+        }
+      ]
+    },
+    {
+      "title": "ICE Archives",
+      "feedUrl": "https://reason.com/tag/ice/feed",
+      "siteUrl": "https://reason.com/tag/ice/",
+      "articles": [
+        {
+          "id": "https://reason.com/?p=8365690",
+          "author": "Jacob Sullum",
+          "description": "\"The victims are the Border Patrol agents\" who killed Alex Pretti, says one DHS official, who previously claimed Pretti wanted to \"massacre law enforcement.\"",
+          "link": "https://reason.com/2026/01/25/dhs-again-promises-a-thorough-investigation-of-a-fatal-shooting-after-prejudging-the-outcome/",
+          "publishedOn": "2026-01-25T23:00:31.000Z",
+          "wordCount": null,
+          "title": "DHS Again Promises a Thorough Investigation of a Fatal Shooting After Prejudging the Outcome",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365676",
+          "author": "Robby Soave",
+          "description": "\"Carrying a firearm is not a death sentence, it's a Constitutionally protected God-given right,\" writes Rep. Thomas Massie (R–Ky.).",
+          "link": "https://reason.com/2026/01/25/the-trump-administration-is-lying-about-gun-rights-and-the-death-of-alex-pretti/",
+          "publishedOn": "2026-01-25T19:17:59.000Z",
+          "wordCount": null,
+          "title": "The Trump Administration Is Lying About Gun Rights and the Death of Alex Pretti",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365541",
+          "author": "C.J. Ciaramella",
+          "description": "The video is the latest example of federal immigration authorities labeling anyone who opposes them a \"domestic terrorist.\"",
+          "link": "https://reason.com/2026/01/23/ice-tells-legal-observer-we-have-a-nice-little-database-and-now-youre-considered-a-domestic-terrorist/",
+          "publishedOn": "2026-01-23T20:23:57.000Z",
+          "wordCount": null,
+          "title": "ICE Tells Legal Observer, 'We Have a Nice Little Database, and Now You're Considered a Domestic Terrorist'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365544",
+          "author": "Matthew Petti",
+          "description": "With thousands of people dead in Iran, the Trump administration still plans to go ahead with a deportation flight as early as this weekend.",
+          "link": "https://reason.com/2026/01/23/the-trump-administration-plans-to-deport-iranians-amid-deadly-crackdown-in-iran/",
+          "publishedOn": "2026-01-23T20:06:15.000Z",
+          "wordCount": null,
+          "title": "Trump Administration Plans More Deportation Flights to Iran Amid Violent Crackdown in the Country",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365308",
+          "author": "Liz Wolfe",
+          "description": "Plus: Nurses on strike, Florida is full, the consumer revolution, and more...",
+          "link": "https://reason.com/2026/01/23/vance-goes-to-minnesota/",
+          "publishedOn": "2026-01-23T14:30:59.000Z",
+          "wordCount": null,
+          "title": "Vance Goes to Minnesota",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365385",
+          "author": "J.D. Tuccille",
+          "description": "The right to keep and bear arms is about resisting tyranny.",
+          "link": "https://reason.com/2026/01/23/ice-demonstrates-why-we-need-the-second-amendment/",
+          "publishedOn": "2026-01-23T12:00:39.000Z",
+          "wordCount": null,
+          "title": "ICE Demonstrates Why We Need the Second Amendment",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365262",
+          "author": "Autumn Billings",
+          "description": "As arrests surge under “Operation Metro Surge,” attorneys say the Trump administration is again denying detainees meaningful access to counsel.",
+          "link": "https://reason.com/2026/01/22/ice-turns-lawyers-away-at-minneapolis-detention-facility/",
+          "publishedOn": "2026-01-22T16:15:06.000Z",
+          "wordCount": null,
+          "title": "ICE Turns Lawyers Away at Minneapolis Detention Facility",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364487",
+          "author": "Joe Lancaster",
+          "description": "A plurality of Americans now say they'd like to end the agency.",
+          "link": "https://reason.com/2026/01/20/as-ice-cracks-down-harder-support-for-abolishing-ice-surges/",
+          "publishedOn": "2026-01-20T18:10:12.000Z",
+          "wordCount": null,
+          "title": "As ICE Cracks Down Harder, Support for Abolishing ICE Surges",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364708",
+          "author": "Jacob Sullum",
+          "description": "Todd Blanche joins other top administration officials in declaring that ICE agent Jonathan Ross was justified in killing Good. Most Americans disagree.",
+          "link": "https://reason.com/2026/01/19/we-are-not-investigating-the-shooting-of-renee-good-the-deputy-attorney-general-says/",
+          "publishedOn": "2026-01-19T20:05:04.000Z",
+          "wordCount": null,
+          "title": "'We Are Not Investigating' the Shooting of Renee Good, the Deputy Attorney General Says",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?post_type=podcast&p=8364565",
+          "author": "Robby Soave",
+          "description": "A delightfully chaotic episode of Freed Up where the hosts discuss how Minnesota wine moms have taken to the streets and the Star Wars prequels somehow end up on trial—again",
+          "link": "https://reason.com/podcast/2026/01/16/ice-vs-wine-moms-rogan-on-faucis-crimes-and-the-star-wars-prequels/",
+          "publishedOn": "2026-01-16T21:55:32.000Z",
+          "wordCount": null,
+          "title": "ICE vs. Wine Moms, Rogan on Fauci's Crimes, and the Star Wars Prequels",
+          "itunes": {
+            "duration": "1:31:07"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/FreedUp9.mp3",
+            "length": "87735412",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364465",
+          "author": "Jacob Sullum",
+          "description": "DHS tells officers to use \"de-escalation tactics,\" employ \"a verbal warning\" instead of force when feasible, and avoid \"placing themselves in positions\" that trigger the use of deadly force.",
+          "link": "https://reason.com/2026/01/16/ice-agents-flouted-dhs-policies-that-could-have-prevented-renee-goods-death/",
+          "publishedOn": "2026-01-16T21:15:22.000Z",
+          "wordCount": null,
+          "title": "ICE Agents Flouted DHS Policies That Could Have Prevented Renee Good's Death",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364536",
+          "author": "Autumn Billings",
+          "description": "The incident raises more questions about federal agents' use-of-force policies and training.",
+          "link": "https://reason.com/2026/01/16/video-shows-feds-shooting-ice-protester-with-nonlethal-round-at-point-blank-range-blinding-him-in-one-eye/",
+          "publishedOn": "2026-01-16T20:51:51.000Z",
+          "wordCount": null,
+          "title": "Video Shows Feds Shooting ICE Protester With Nonlethal Round at Point-Blank Range, Blinding Him in One Eye",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364243",
+          "author": "Joe Lancaster",
+          "description": "The administration's written policies make it likely that more people like Renee Good will be targets, and victims, of ICE.",
+          "link": "https://reason.com/2026/01/15/renee-good-was-a-casualty-of-trumps-order-against-political-violence/",
+          "publishedOn": "2026-01-15T18:15:41.000Z",
+          "wordCount": null,
+          "title": "Renee Good Was a Casualty of Trump's Order Against 'Political Violence'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364242",
+          "author": "Autumn Billings",
+          "description": "“Any American should be terrified by…such an egregious violation of the Fourth Amendment,” said the arrestee’s attorney.",
+          "link": "https://reason.com/2026/01/14/federal-agents-used-a-battering-ram-to-enter-a-minneapolis-home-without-valid-warrant-video-shows/",
+          "publishedOn": "2026-01-14T21:44:38.000Z",
+          "wordCount": null,
+          "title": "Federal Agents Used a Battering Ram to Enter a Minneapolis Home Without Valid Warrant, Video Shows",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8364165",
+          "author": "Jacob Sullum",
+          "description": "It is hard to see how, since that question hinges on what happened the morning that an ICE agent shot her.",
+          "link": "https://reason.com/2026/01/14/the-fbi-thinks-renee-goods-anti-ice-activism-is-relevant-in-deciding-whether-killing-her-was-justified/",
+          "publishedOn": "2026-01-14T20:45:14.000Z",
+          "wordCount": null,
+          "title": "The FBI Thinks Renee Good's Anti-ICE Activism Is Relevant in Deciding Whether Killing Her Was Justified",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8363899",
+          "author": "Damon Root",
+          "description": "How J.D. Vance misstated the law.",
+          "link": "https://reason.com/2026/01/13/no-ice-agents-do-not-have-absolute-immunity-from-state-prosecution/",
+          "publishedOn": "2026-01-13T12:00:06.000Z",
+          "wordCount": null,
+          "title": "No, ICE Agents Do Not Have 'Absolute Immunity' From State Prosecution",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?post_type=podcast&p=8363895",
+          "author": "Peter Suderman",
+          "description": "Plus: ICE shootings divide the country, the Iran uprising intensifies, and California targets billionaires with a wealth tax",
+          "link": "https://reason.com/podcast/2026/01/12/end-the-fed-or-turn-it-over-to-trump/",
+          "publishedOn": "2026-01-13T00:59:44.000Z",
+          "wordCount": null,
+          "title": "End the Fed? Or Turn It Over to Trump?",
+          "itunes": {
+            "duration": "1:14:59"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8363895.mp3",
+            "length": "109880285",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8363835",
+          "author": "Jacob Sullum",
+          "description": "Jonathan Ross positioned himself in front of Good's car and continued firing even after he was no longer in its path.",
+          "link": "https://reason.com/2026/01/12/the-ice-agent-who-killed-renee-good-disregarded-traffic-stop-guidelines/",
+          "publishedOn": "2026-01-12T20:50:22.000Z",
+          "wordCount": null,
+          "title": "The ICE Agent Who Killed Renee Good Disregarded Traffic Stop Guidelines",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?post_type=podcast&p=8364469",
+          "author": "Robby Soave",
+          "description": "Robby Soave and Christian Britschgi are back this week to break down how 2026 has somehow already gone off the rails.",
+          "link": "https://reason.com/podcast/2026/01/09/the-media-is-wrong-about-the-ice-shooting-video/",
+          "publishedOn": "2026-01-09T22:00:02.000Z",
+          "wordCount": null,
+          "title": "The Media Are Wrong About the ICE Shooting Video",
+          "itunes": {
+            "duration": "1:28:48"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/FreedUp8.mp3",
+            "length": "127890839",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8363679",
+          "author": "Jacob Sullum",
+          "description": "The crucial question is whether the agent reasonably believed the driver he killed posed a threat, even if she was not actually trying to run him over.",
+          "link": "https://reason.com/2026/01/09/video-of-the-minneapolis-ice-shooting-does-not-resolve-the-issue-of-whether-it-was-legally-justified/",
+          "publishedOn": "2026-01-09T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Video of the Minneapolis ICE Shooting Does Not Resolve the Issue of Whether It Was Legally Justified",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8363418",
+          "author": "Liz Wolfe",
+          "description": "Plus: Mamdani staffer embroiled in scandal, inside the new food pyramid, Ro Khanna's misstep, and more...",
+          "link": "https://reason.com/2026/01/08/ice-in-minnesota/",
+          "publishedOn": "2026-01-08T14:30:04.000Z",
+          "wordCount": null,
+          "title": "ICE in Minnesota",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8362471",
+          "author": "Jacob Sullum",
+          "description": "The justices suggested the president is misinterpreting \"the regular forces,\" a key phrase in the statute on which he is relying.",
+          "link": "https://reason.com/2025/12/24/refusing-to-let-trump-deploy-the-national-guard-in-chicago-scotus-adds-a-new-wrinkle-to-the-debate/",
+          "publishedOn": "2025-12-24T18:55:16.000Z",
+          "wordCount": null,
+          "title": "Refusing To Let Trump Deploy the National Guard in Chicago, SCOTUS Adds a New Wrinkle To the Debate",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8357493",
+          "author": "Fiona Harrigan",
+          "description": "Immigrants start businesses at a higher rate than native-born Americans, benefitting not only themselves but also their American workers and customers.",
+          "link": "https://reason.com/2025/12/21/trump-is-deporting-entrepreneurs/",
+          "publishedOn": "2025-12-21T11:00:29.000Z",
+          "wordCount": null,
+          "title": "He Started a Business Legally. Now Trump's Mass Deportations Threaten Him and Other Immigrant Entrepreneurs.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8361724",
+          "author": "J.D. Tuccille",
+          "description": "The public wants violent criminals deported, not workers and their families.",
+          "link": "https://reason.com/2025/12/19/trump-won-on-immigration-now-most-americans-say-his-deportations-are-going-too-far/",
+          "publishedOn": "2025-12-19T12:00:47.000Z",
+          "wordCount": null,
+          "title": "Trump Won on Immigration. Now Most Americans Say His Deportations Are Going Too Far.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8361389",
+          "author": "Robby Soave",
+          "description": "U.S. immigration authorities should not do the bidding of the Chinese Communist Party.",
+          "link": "https://reason.com/2025/12/17/guan-heng-exposed-chinas-uyghur-camps-ice-wants-to-deport-him/",
+          "publishedOn": "2025-12-17T20:56:14.000Z",
+          "wordCount": null,
+          "title": "Guan Heng Exposed China's Uyghur Camps. ICE Wants To Deport Him.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8360206",
+          "author": "David Inserra",
+          "description": "The party in power changes. The pressure to silence critics doesn’t.",
+          "link": "https://reason.com/2025/12/09/trump-is-using-the-misinformation-censorship-playbook-republicans-attacked-biden-for/",
+          "publishedOn": "2025-12-09T16:25:03.000Z",
+          "wordCount": null,
+          "title": "Trump Is Using the 'Misinformation' Censorship Playbook Republicans Attacked Biden For",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8358697",
+          "author": "Matthew Petti",
+          "description": "ICE and Border Patrol are using license plate cameras for extensive domestic surveillance.",
+          "link": "https://reason.com/2025/11/26/how-ice-is-watching-your-thanksgiving-drive/",
+          "publishedOn": "2025-11-26T11:30:28.000Z",
+          "wordCount": null,
+          "title": "How ICE Is Watching Your Thanksgiving Drive",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8358672",
+          "author": "Beth Bailey",
+          "description": "Mohammad Ali Dadfar survived the Taliban, the Darién Gap, and a monthslong journey to the U.S. only to be jailed by ICE while his asylum case is still pending.",
+          "link": "https://reason.com/2025/11/25/another-afghan-ally-detained-despite-legal-status/",
+          "publishedOn": "2025-11-25T17:30:30.000Z",
+          "wordCount": null,
+          "title": "Another Afghan Ally Detained Despite Legal Status",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8358170",
+          "author": "Autumn Billings",
+          "description": "The ruling comes as federal immigration agents leave Chicago for operations in Charlotte, North Carolina, and New Orleans.",
+          "link": "https://reason.com/2025/11/20/federal-agents-can-continue-to-use-riot-control-weapons-in-chicago-with-limited-oversight-amid-pending-appeal/",
+          "publishedOn": "2025-11-20T21:12:20.000Z",
+          "wordCount": null,
+          "title": "Federal Agents Can Continue To Use Riot Control Weapons in Chicago With Limited Oversight Amid Pending Appeal",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8354022",
+          "author": "Joe Lancaster",
+          "description": "They say a grand jury would indict a ham sandwich. But failing to get indictments has been a hallmark of the second Trump administration.",
+          "link": "https://reason.com/2025/11/16/less-indictable-than-a-ham-sandwich/",
+          "publishedOn": "2025-11-16T11:00:03.000Z",
+          "wordCount": null,
+          "title": "Less Indictable Than a Ham Sandwich",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8356436",
+          "author": "Joe Lancaster",
+          "description": "In a bulletin first reported by Wired, the bureau warns masked agents are easier for criminals to impersonate.",
+          "link": "https://reason.com/2025/11/07/even-the-fbi-thinks-masked-ice-agents-are-a-bad-idea/",
+          "publishedOn": "2025-11-07T18:30:53.000Z",
+          "wordCount": null,
+          "title": "Even the FBI Thinks Masked ICE Agents Are a Bad Idea",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8356290",
+          "author": "Autumn Billings",
+          "description": "“The evidence has been pretty strong that his facility is no longer just a temporary holding facility,” said U.S. District Court Judge Robert Gettleman. “It has really become a prison.”",
+          "link": "https://reason.com/2025/11/06/federal-judge-blasts-disgusting-ice-facility-conditions-orders-basic-humane-treatment-for-detainees/",
+          "publishedOn": "2025-11-06T16:00:27.000Z",
+          "wordCount": null,
+          "title": "Federal Judge Blasts 'Disgusting' ICE Facility Conditions, Orders Basic Humane Treatment for Detainees",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8355609",
+          "author": "J.D. Tuccille",
+          "description": "The case of Leo Garcia Venegas, a U.S. citizen arrested twice by immigration enforcement, demonstrates the problem with the government's current strategy.",
+          "link": "https://reason.com/2025/10/31/ices-mass-arrests-ensnare-u-s-citizens-and-show-no-signs-of-stopping/",
+          "publishedOn": "2025-10-31T11:00:31.000Z",
+          "wordCount": null,
+          "title": "ICE's Mass Arrests Ensnare U.S. Citizens and Show No Signs of Stopping",
+          "itunes": {},
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Asimov Press",
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
@@ -8076,16 +8624,6 @@
           "wordCount": 2761,
           "title": "Every era believes it is enlightened. Old books teach us otherwise.",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2023/05/read-classics.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/the-big-think-interview/zen-101/",
-          "author": "Robert Waldinger",
-          "description": "Most of us feel we have miles to go with self improvement. That we want to become calmer, wiser, more finished. What if this pursuit actually keeps us trapped from that becoming? Zen teacher and psychiatrist Robert Waldinger argues that enlightenment isn’t a destination or a rare mystical state. Rather, its the ever-shifting recognition of the present moment. \nThis quiet noticing, Waldinger says, can be extremely liberating, freeing us from the pressure of becoming. \nThis video How accepting impermanence can end the struggle to “fix” your life is featured on Big Think.",
-          "link": "https://bigthink.com/series/the-big-think-interview/zen-101/",
-          "publishedOn": "2025-10-28T18:24:19.000Z",
-          "wordCount": 4081,
-          "title": "How accepting impermanence can end the struggle to “fix” your life",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/Screenshot-2025-10-28-at-2.23.27-PM.png?resize=1200,630"
         }
       ]
     },
