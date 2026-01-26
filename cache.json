@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158323",
+          "author": "Natalie Wolchover",
+          "description": "Columnist Natalie Wolchover checks in with particle physicists more than a decade after the field entered a profound crisis.             \nThe post Is Particle Physics Dead, Dying, or Just Hard? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+          "publishedOn": "2026-01-26T15:36:37.000Z",
+          "wordCount": 4270,
+          "title": "Is Particle Physics Dead, Dying, or Just Hard?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Qualia_ParticlePhysics-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158286",
           "author": "Jonathan O'Callaghan",
           "description": "Primordial black holes could rewrite our understanding of dark matter and the early universe. A record-breaking detection at the bottom of the Mediterranean Sea has some physicists wondering if we just spotted one.            \nThe post Monster Neutrino Could Be a Messenger of Ancient Black Holes first appeared on Quanta Magazine",
@@ -403,6 +413,46 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6977a16a851c180001052016",
+          "author": "Emanuel Maiberg",
+          "description": "The algorithm is driving AI-generated influencers to increasingly weird niches.",
+          "link": "https://www.404media.co/two-heads-three-boobs-the-ai-babe-meta-is-getting-surreal/",
+          "publishedOn": "2026-01-26T17:32:16.000Z",
+          "wordCount": 1544,
+          "title": "Two Heads, Three Boobs: The AI Babe Meta Is Getting Surreal",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/Screenshot-as-Lede-Image--1-.png"
+        },
+        {
+          "id": "6971513fd2473400013d5aa6",
+          "author": "Samantha Cole",
+          "description": "Bellingcat's Kolina Koltai talks about OSINT investigations into synthetic abuse imagery sites, and seeing them go down because of her work.",
+          "link": "https://www.404media.co/podcast-unmasking-deepfakes-kingpins-with-kolina-koltai/",
+          "publishedOn": "2026-01-26T16:30:07.000Z",
+          "wordCount": 1102,
+          "title": "Podcast: Unmasking Deepfakes Kingpins (with Kolina Koltai)",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/UNMASKING-DEEPFAKE-KINGPINS--1-.png"
+        },
+        {
+          "id": "6973d0c1420e3a0001977359",
+          "author": "Matthew Gault",
+          "description": "What began as a joke got a little too real. So I shut it down for good.",
+          "link": "https://www.404media.co/i-replaced-my-friends-with-ai-because-they-wont-play-tarkov-with-me/",
+          "publishedOn": "2026-01-26T16:22:16.000Z",
+          "wordCount": 2848,
+          "title": "I Replaced My Friends With AI Because They Won't Play Tarkov With Me",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/20260121203945_1-1.jpg"
+        },
+        {
+          "id": "697771b7420e3a00019c6816",
+          "author": "Owen Carry",
+          "description": "A look at “necromemetics” and the meme economy in the aftermath of violence.",
+          "link": "https://www.404media.co/ai-renee-good-kirkification-george-floyd-memes/",
+          "publishedOn": "2026-01-26T14:55:28.000Z",
+          "wordCount": 2096,
+          "title": "How Right Wing Influencers Used AI Slop to Turn Renee Good Into a Meme",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/55035094664_94ca9f62e0_k.jpg"
+        },
+        {
           "id": "6973bac6420e3a000197433a",
           "author": "Becky Ferreira",
           "description": "Veronika, a brown cow in Austria, uses sticks and brushes as multipurpose tools to scratch hard-to-reach spots",
@@ -559,6 +609,28 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8365903",
+          "author": "Autumn Billings",
+          "description": "Under this understanding of the Fourth Amendment, an attorney at the Institute for Justice says, “there is little left of the rights of Americans to be secure in their houses.”",
+          "link": "https://reason.com/2026/01/26/leaked-ice-memo-claims-agents-can-enter-homes-without-judicial-warrants/",
+          "publishedOn": "2026-01-26T17:36:29.000Z",
+          "wordCount": null,
+          "title": "Leaked ICE Memo Claims Agents Can Enter Homes Without Judicial Warrants",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365746",
+          "author": "Eric Boehm",
+          "description": "Senators should demand accountability for federal agents who hurt Americans—and demand the removal of DHS Secretary Kristi Noem and Border Patrol Commander Gregory Bovino.",
+          "link": "https://reason.com/2026/01/26/democrats-plan-to-block-dhs-funding-after-minnesota-killing-republicans-should-join-them/",
+          "publishedOn": "2026-01-26T17:00:04.000Z",
+          "wordCount": null,
+          "title": "Democrats Plan To Block DHS Funding After Minnesota Killing. Republicans Should Join Them.",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8365690",
           "author": "Jacob Sullum",
@@ -950,6 +1022,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/brains",
+          "author": "Asimov Press",
+          "description": "A roadmap for brain emulation models at the human scale.",
+          "link": "https://www.asimov.press/p/brains",
+          "publishedOn": "2026-01-26T15:13:25.000Z",
+          "wordCount": null,
+          "title": "Building Brains on a Computer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!A3Au!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4015a60e-154b-4658-bad5-d07fc5da635c_1920x1080.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!A3Au!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4015a60e-154b-4658-bad5-d07fc5da635c_1920x1080.gif"
+        },
         {
           "id": "https://www.asimov.press/p/head-activator",
           "author": "Asimov Press",
@@ -1609,16 +1697,6 @@
           "wordCount": 206,
           "title": "Heart Mountain",
           "imageUrl": "https://imgs.xkcd.com/comics/heart_mountain_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3161/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3161/",
-          "publishedOn": "2025-10-29T04:00:00.000Z",
-          "wordCount": 204,
-          "title": "Airspeed",
-          "imageUrl": "https://imgs.xkcd.com/comics/airspeed_2x.png"
         }
       ]
     },
@@ -1961,6 +2039,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550833",
+          "author": "Alex N. Gecan",
+          "description": "Anyone within a one-block radius of the intersection of Colusa and Tacoma avenues will have to shelter in place or leave the area by 10:30 a.m. as workers remove dangerous chemicals from a home photo lab.",
+          "link": "https://www.berkeleyside.org/2026/01/26/thousand-oaks-photo-lab-shelter-in-place-bpd-bfd",
+          "publishedOn": "2026-01-26T18:04:12.000Z",
+          "wordCount": 6781,
+          "title": "Thousand Oaks school, homes under hazmat shelter in place in North Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Image-1-26-26-at-9.39-AM.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550751",
+          "author": "Nico Savidge",
+          "description": "The Berkeley Planning Commission endorsed a permit to allow ferry service at the waterfront, the first of many approvals the project will need.",
+          "link": "https://www.berkeleyside.org/2026/01/26/berkeley-ferry-marina-update-permits-planning-commission",
+          "publishedOn": "2026-01-26T15:30:00.000Z",
+          "wordCount": 8230,
+          "title": "Berkeley-to-San Francisco ferry plan takes key step forward",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Richmond-ferry-terminal.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=468074",
+          "author": "Jose Fermoso",
+          "description": "Lost account balances, disappearing monthly passes, and malfunctioning ticket terminals are just the tip of the iceberg. ‘These issues must be investigated and fixed,’ a transit rep told us.",
+          "link": "https://www.berkeleyside.org/2026/01/26/clipper-2-0-off-to-a-rocky-start",
+          "publishedOn": "2026-01-26T13:20:00.000Z",
+          "wordCount": 7581,
+          "title": "Clipper 2.0 off to a rocky start",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Clipper.jpg?fit=2048%2C1363&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550812",
           "author": "Vanessa Arredondo and Zac Farber",
@@ -6342,6 +6450,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/business/how-leaders-can-deliver-the-social-connection-most-of-us-crave/",
+          "author": "Aaron Hurst, Carolyn Thayer-Azoff, Vickery Prongay",
+          "description": "In early 2026, a new national snapshot of social connection revealed a striking finding. 52% of U.S. adults fall into at-risk or vulnerable ranges associated with lower access to relationships, support, and shared places.\nAt first glance, that statistic might seem to confirm a familiar narrative about modern life. People are isolated. Communities have weakened. Technology has replaced relationships. But the data tells a more precise story.\nMost Americans want connection. Many are actively looking for it. What they are running into instead are systems that make connection hard to access and harder to sustain.\nThat is one of the central findings of The Six Points of Connection 2026: The State of Connection in America report, released by the US Chamber of Connection. Drawing from a nationally…",
+          "link": "https://bigthink.com/business/how-leaders-can-deliver-the-social-connection-most-of-us-crave/",
+          "publishedOn": "2026-01-26T14:00:00.000Z",
+          "wordCount": 2457,
+          "title": "How leaders can deliver the social connection most of us crave",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Dancing_on_the_beach-3200x1800-1.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/the-well/why-joy-is-stronger-than-happiness/",
           "author": "Kate Bowler",
           "description": "Joy is often mistaken for a stronger version of happiness. But historian and writer Kate Bowler argues that they are fundamentally different emotions.\nHappiness, she explains, depends on things going well. It’s cumulative, fragile, and easily undone. Joy, by contrast, can exist alongside pain, grief, and uncertainty. It doesn’t erase what’s broken — it helps hold it together.\nDrawing from psychology, faith traditions, and her own experience living with stage four cancer, Bowler explores why joy is less about ease and more about connection, openness, and love. It’s not a mood or an achievement, but a way of seeing reality clearly and still saying yes to life. Joy, she suggests, isn’t a bonus for the fortunate. It’s something that carries us when happiness no longer can.\nThis video The brain-deep emotion that matters more than happiness is featured on Big Think.",
@@ -8590,16 +8708,6 @@
           "wordCount": 1792,
           "title": "Can you measure love? 3 experts discuss",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/UC-Brain-Briefs-Kindness-Web-A.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/aliens-might-not-speak-physics/",
-          "author": "Ethan Siegel",
-          "description": "One of the mightiest facts we’ve uncovered about the Universe is this: that no matter when we look at it, near or far, we observe and measure it playing by the same laws, rules, and being made of the same ingredients that we see here in our own backyard. It takes the Copernican principle — the notion that we, here on Earth, don’t occupy a special, privileged location — to the most general form imaginable. Copernicus famously recognized that the Earth wasn’t a privileged location, and was just an ordinary planet orbiting the Sun like Mercury, Venus, Mars, Jupiter, and Saturn were. Similarly, our cosmic location, including our time after the Big Bang and place in the Local Group, have nothing “special” about them. It’s a generally accepted principle, and one that’s consistent with the full s…",
-          "link": "https://bigthink.com/starts-with-a-bang/aliens-might-not-speak-physics/",
-          "publishedOn": "2025-10-29T06:00:00.000Z",
-          "wordCount": 10405,
-          "title": "Why aliens might not “speak physics” the same way we do",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/Ufos_over_liverpool_-_panoramio.jpg?resize=1200,630"
         }
       ]
     },
@@ -8608,6 +8716,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=71392",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Customize this Broccoli Fridge Clean-Out Soup with whatever veggies you have on hand! Rich and creamy, with optional grilled cheese croutons on top, it’s the best way to clean out the fridge without any waste! Some recipes are inspired by restaurant dishes or cravings. And this broccoli “fridge clean out soup” —well, you can guess […]",
+          "link": "https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/",
+          "publishedOn": "2026-01-26T15:00:00.000Z",
+          "wordCount": 8729,
+          "title": "Broccoli Fridge Clean-Out Soup",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Fridge-Clean-Out-Soup0017.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=72350",
           "author": "Jessica from Jessica in the Kitchen",
