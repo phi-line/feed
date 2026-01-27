@@ -413,6 +413,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6977e697851c180001052fa9",
+          "author": "Becky Ferreira",
+          "description": "Nearly half of routinely-updated CDC databases have experienced delays or shutdowns in 2025, with vaccination-related systems disproportionately affected, according to a new study.",
+          "link": "https://www.404media.co/dozens-of-cdc-health-databases-have-gone-dark-under-trump-the-consequences-will-be-dire/",
+          "publishedOn": "2026-01-26T22:13:10.000Z",
+          "wordCount": 1497,
+          "title": "Dozens of CDC Health Databases Have Gone Dark Under Trump: ‘The Consequences Will Be Dire’",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/cdc.jpg"
+        },
+        {
           "id": "6977a16a851c180001052016",
           "author": "Emanuel Maiberg",
           "description": "The algorithm is driving AI-generated influencers to increasingly weird niches.",
@@ -609,6 +619,46 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?post_type=podcast&p=8365918",
+          "author": "Peter Suderman",
+          "description": "Plus: DHS escalation in Minnesota, Trump loses support on ICE tactics, and how politics influence the Oscar nominations",
+          "link": "https://reason.com/podcast/2026/01/26/when-did-republicans-stop-caring-about-gun-rights/",
+          "publishedOn": "2026-01-26T23:09:30.000Z",
+          "wordCount": null,
+          "title": "When Did Republicans Stop Caring About Gun Rights?",
+          "itunes": {
+            "duration": "1:04:12"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8365918.mp3",
+            "length": "95069801",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365734",
+          "author": "Joe Lancaster",
+          "description": "Federal agencies have considerable authority outside their given jurisdiction, even when they don't have the training to match.",
+          "link": "https://reason.com/2026/01/26/border-patrol-agents-killed-alex-pretti-why-is-border-patrol-in-minneapolis-at-all/",
+          "publishedOn": "2026-01-26T20:55:48.000Z",
+          "wordCount": null,
+          "title": "Border Patrol Agents Killed Alex Pretti. Why Is Border Patrol in Minneapolis at All?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8365755",
+          "author": "Jacob Sullum",
+          "description": "Although the president initially reinforced that plainly inaccurate narrative, his subsequent comments cast doubt on the initial justification for shooting the Minneapolis protester.",
+          "link": "https://reason.com/2026/01/26/trump-backpedals-from-portraying-alex-pretti-as-a-domestic-terrorist-and-would-be-assassin/",
+          "publishedOn": "2026-01-26T19:10:12.000Z",
+          "wordCount": null,
+          "title": "Trump Backpedals From Portraying Alex Pretti As a 'Domestic Terrorist' and 'Would-Be Assassin'",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8365903",
           "author": "Autumn Billings",
@@ -1329,6 +1379,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3199/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3199/",
+          "publishedOn": "2026-01-26T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Early Arthropods",
+          "imageUrl": "https://imgs.xkcd.com/comics/early_arthropods_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3198/",
           "author": null,
           "description": "",
@@ -2039,6 +2099,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=468119",
+          "author": "Farida Jhabvala Romero | KQED",
+          "description": "The strike was called by the United Nurses Associations of California, which represents about 31,000 employees. They have accused Kaiser Permanente of squeezing patient care and staffing — a claim the system denies.",
+          "link": "https://www.berkeleyside.org/2026/01/26/thousands-walk-out-in-kaiser-strike-california-oakland",
+          "publishedOn": "2026-01-26T22:10:05.000Z",
+          "wordCount": 8178,
+          "title": "Thousands walk out in open-ended Kaiser strike",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/image-4.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550877",
+          "author": "Cecilia Seiter",
+          "description": "The bakery housed in the former Black Panther Party Oakland headquarters quietly shuttered in mid January.",
+          "link": "https://www.berkeleyside.org/2026/01/26/its-all-good-bakery-black-panther-closed",
+          "publishedOn": "2026-01-26T20:00:00.000Z",
+          "wordCount": 6996,
+          "title": "After 30 years, It’s All Good Bakery suddenly goes dark",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/ItsAllGood-Bakery-Closed-Lapan.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550833",
           "author": "Alex N. Gecan",
@@ -5723,6 +5803,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/DamSprx2dpI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/DamSprx2dpI",
+          "publishedOn": "2026-01-26T20:06:54.000Z",
+          "wordCount": 2074,
+          "title": "@fromthetop's trio of young musicians reflect on the moment they committed to their artistry.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tB2m3Jni21s",
           "author": null,
           "description": "",
@@ -6420,26 +6510,6 @@
           "publishedOn": "2025-10-29T20:00:47.000Z",
           "wordCount": 2361,
           "title": "​@TameImpala talks about how a wild idea turned into an unexpected set with six acoustic guitars.⁠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/AGBgowjTMNU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/AGBgowjTMNU",
-          "publishedOn": "2025-10-29T10:00:17.000Z",
-          "wordCount": 2022,
-          "title": "@SilvanaEstrada reflects on what grounds her, and the moments that make her feel like a kid again.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jg9uwVvOy0E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jg9uwVvOy0E",
-          "publishedOn": "2025-10-29T09:00:29.000Z",
-          "wordCount": null,
-          "title": "Oklou: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
