@@ -640,6 +640,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8366290",
+          "author": "J.D. Tuccille",
+          "description": "Wider reform is needed in the way the government enforces its laws.",
+          "link": "https://reason.com/2026/01/28/after-alex-prettis-death-the-administration-signals-a-shift-on-immigration-enforcement/",
+          "publishedOn": "2026-01-28T12:00:38.000Z",
+          "wordCount": null,
+          "title": "After Alex Pretti's Death, the Administration Signals a Shift on Immigration Enforcement",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?post_type=podcast&p=8365918",
           "author": "Peter Suderman",
           "description": "Plus: DHS escalation in Minnesota, Trump loses support on ICE tactics, and how politics influence the Oscar nominations",
@@ -5157,26 +5168,6 @@
           "wordCount": 6897,
           "title": "The Wire: New plans at Pacific Steel; Cal football coach is state’s highest paid employee",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/01/large-Natera_230313_027_PacificSteel_002.jpg?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546434",
-          "author": "Natalie Orenstein",
-          "description": "Elected officials and food pantries are scrambling to meet the moment. Food is still available for those in need, they say.",
-          "link": "https://www.berkeleyside.org/2025/10/30/alameda-county-snap-calfresh-november-food-assistance",
-          "publishedOn": "2025-10-30T20:40:58.000Z",
-          "wordCount": 8353,
-          "title": "Berkeley, Oakland residents bracing for delay in SNAP benefits in November",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/FoodDist-Orenstein-Nov25.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546360",
-          "author": "Supriya Yelimeli, Iris Kwok, Carly Severn | KQED and Nisa Khan | KQED",
-          "description": "Millions of Californians are preparing to go without food benefits in November. Here's our guide to shopping at Berkeley food banks and how best to support them.",
-          "link": "https://www.berkeleyside.org/2025/10/30/berkeley-food-assistance-federal-shutdown-snap-delays",
-          "publishedOn": "2025-10-30T20:33:27.000Z",
-          "wordCount": 9328,
-          "title": "How to use and support Berkeley food banks during shutdown SNAP delays",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/image-17.png"
         }
       ]
     },
@@ -5404,16 +5395,6 @@
           "wordCount": 5178,
           "title": "crunchy brown butter baked carrots",
           "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/11/crunchy-baked-brown-butter-carrots-09-scaled.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://smittenkitchen.com/?p=91457",
-          "author": "deb",
-          "description": "Read more »",
-          "link": "https://smittenkitchen.com/2025/10/baked-potatoes-with-crispy-broccoli-and-bacon/",
-          "publishedOn": "2025-10-30T18:44:48.000Z",
-          "wordCount": 4989,
-          "title": "baked potatoes with crispy broccoli and bacon",
-          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2025/10/baked-potato-with-crispy-broccoli-9-scaled.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -5741,6 +5722,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7sIJ1IRE8SE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7sIJ1IRE8SE",
+          "publishedOn": "2026-01-28T10:00:11.000Z",
+          "wordCount": null,
+          "title": "FORAGER: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/DamSprx2dpI",
           "author": null,
@@ -6448,6 +6439,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/jwst-nine-objects-platypus/",
+          "author": "Ethan Siegel",
+          "description": "In the animal kingdom, one of the most bizarre discoveries of all-time was the platypus. When reports of the platypus reached the western hemisphere, most leading naturalists at the time assumed it was a hoax, including the first European scientists to examine a specimen in 1799. It was an animal that laid eggs, yet it was a mammal. It had the bill of a duck, but the tail of a beaver. It had (at least, the males do) venomous spurs on their hind legs, but also the ability to locate other creatures in the water through a specialized sense known as electroreception, common in sharks but very rare among mammals. And yet, the platypus exists with all of these properties, even if it would take decades (or more than a century) before we understood how such a creature could come to exist.\nAstronom…",
+          "link": "https://bigthink.com/starts-with-a-bang/jwst-nine-objects-platypus/",
+          "publishedOn": "2026-01-28T07:00:00.000Z",
+          "wordCount": 4505,
+          "title": "JWST finds nine category-defying objects. Have astronomers found their “platypus?”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/coverCEERSplatypus.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/spinosaur-tales/",
           "author": "David Hone, Mark P. Witton",
