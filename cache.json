@@ -1356,6 +1356,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=51415",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: “That’s Somebody’s Son” appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/thats-somebodys-son-schizophrenia",
+          "publishedOn": "2026-01-27T21:12:03.000Z",
+          "wordCount": 1636,
+          "title": "Protected: “That’s Somebody’s Son”",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=50822",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Two Faces of Lummie Jenkins appeared first on The Atavist Magazine.",
@@ -1807,6 +1817,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/silicon-valley-goes-to-war",
+          "author": "Tianyu M. Fang",
+          "description": "The post Silicon Valley Goes To War appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/silicon-valley-goes-to-war",
+          "publishedOn": "2026-01-27T18:34:05.000Z",
+          "wordCount": 8980,
+          "title": "Silicon Valley Goes To War",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/et_noema_lq.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C914%2C1436%2C752&w=1200&wpsize=noema-social-facebook&s=70e2a688306402d02d938c9b5c82aa31"
+        },
+        {
           "id": "https://www.noemamag.com/the-middle-powers-step-up",
           "author": "Nathan Gardels",
           "description": "The post The Middle Powers Step Up appeared first on NOEMA.",
@@ -2103,6 +2123,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550940",
+          "author": "Vanessa Arredondo",
+          "description": "The space, 15 years in the making, will include a teaching kitchen, meditation garden and event space. City leaders tout the center’s importance as the Trump administration “tries to make equity a bad word.”",
+          "link": "https://www.berkeleyside.org/2026/01/27/long-awaited-black-resource-center-breaks-ground-south-berkeley",
+          "publishedOn": "2026-01-27T22:58:56.000Z",
+          "wordCount": 8054,
+          "title": "Long-awaited Black resource center breaks ground in South Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-20260123_AAHRCCenter_EG_15.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550923",
           "author": "Risa Nye",
