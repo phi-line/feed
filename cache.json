@@ -403,6 +403,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "697b71eb851c1800010a1031",
+          "author": "Emanuel Maiberg",
+          "description": "Chat & Ask AI, which claims 50 million users, exposed private chats about suicide and making meth.",
+          "link": "https://www.404media.co/massive-ai-chat-app-leaked-millions-of-users-private-conversations/",
+          "publishedOn": "2026-01-29T14:54:40.000Z",
+          "wordCount": 1092,
+          "title": "Massive AI Chat App Leaked Millions of Users Private Conversations",
+          "imageUrl": "https://images.unsplash.com/photo-1496814795703-e5b242546673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHx0eXBpbmclMjBpcGhvbmV8ZW58MHx8fHwxNzY5Njk4MDk3fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "697a3067851c18000109cf9c",
           "author": "Joseph Cox",
           "description": "Match Group says it is investigating claims that a mass of internal data was hacked from its popular dating apps.",
@@ -699,6 +709,50 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8366537",
+          "author": "Peter Suderman",
+          "description": "Miller says he’s waging a war for America. Americans see a brutal war on them.",
+          "link": "https://reason.com/2026/01/29/stephen-millers-hardline-immigration-tactics-are-backfiring/",
+          "publishedOn": "2026-01-29T17:38:14.000Z",
+          "wordCount": null,
+          "title": "Stephen Miller's Hardline Immigration Tactics Are Backfiring",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8366557",
+          "author": "Christian Britschgi",
+          "description": "Video of that scuffle does show that federal agents can manage to not shoot even violent protestors.",
+          "link": "https://reason.com/2026/01/29/alex-prettis-earlier-scuffle-with-ice-doesnt-justify-his-death-11-days-later/",
+          "publishedOn": "2026-01-29T17:14:56.000Z",
+          "wordCount": null,
+          "title": "Alex Pretti's Earlier Scuffle With ICE Doesn't Justify His Death 11 Days Later",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8366544",
+          "author": "Elizabeth Nolan Brown",
+          "description": "FBI Director Kash Patel pays lip service to the First and Second Amendments while casting suspicion on people who exercise their First or Second Amendment rights.",
+          "link": "https://reason.com/2026/01/29/group-chats-about-ice-whereabouts-are-protected-speech-the-fbi-is-investigating-anyway/",
+          "publishedOn": "2026-01-29T16:45:05.000Z",
+          "wordCount": null,
+          "title": "Group Chats About ICE Whereabouts Are Protected Speech. The FBI Is Investigating Anyway.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8366521",
+          "author": "Peter Suderman",
+          "description": "Plus: Trump accounts, Klobuchar runs for governor, and who wants to buy CNN now?",
+          "link": "https://reason.com/2026/01/29/ice-icemaybe/",
+          "publishedOn": "2026-01-29T14:30:33.000Z",
+          "wordCount": null,
+          "title": "Ice, ICE…Maybe?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8366399",
           "author": "Joe Lancaster",
@@ -1904,6 +1958,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/what-counts-as-a-mind",
+          "author": "Natalie Lawrence",
+          "description": "The post What Counts As A Mind? appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/what-counts-as-a-mind",
+          "publishedOn": "2026-01-29T15:20:34.000Z",
+          "wordCount": 8482,
+          "title": "What Counts As A Mind?",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/22.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9db9f80d020e0c17348154e73b89c085"
+        },
+        {
           "id": "https://www.noemamag.com/only-what-is-alive-can-be-conscious",
           "author": "Nathan Gardels",
           "description": "The post Only What Is Alive Can Be Conscious appeared first on NOEMA.",
@@ -2200,6 +2264,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=468246",
+          "author": "Jose Fermoso",
+          "description": "If advocates gather 186,000 signatures across the Bay Area, a half-cent sales tax proposal will appear on the November ballot. Passage would mean an infusion of cash for BART, AC Transit, and other mass transit agencies.",
+          "link": "https://www.berkeleyside.org/2026/01/29/bart-connect-bay-area-transit-ballot-measure-signatures",
+          "publishedOn": "2026-01-29T18:00:00.000Z",
+          "wordCount": 7755,
+          "title": "Signature gathering begins for multi-billion-dollar Bay Area transit measure",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-bart-train-interior.jpg?fit=1600%2C1064&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551057",
+          "author": "Nico Savidge",
+          "description": "The city says the rate hikes and other potential changes will address a deficit in its parking fund, driven in part by debt taken on to build Berkeley’s Center Street garage.",
+          "link": "https://www.berkeleyside.org/2026/01/29/berkeley-parking-meter-rate-extended-hours-sunday",
+          "publishedOn": "2026-01-29T15:00:00.000Z",
+          "wordCount": 7678,
+          "title": "Berkeley raises parking meter rates, could charge on evenings and Sundays",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Smart-Parking-Meter-1.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551007",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a film noir screening with discounted pinot noir, a monthly bike workshop and the annual Fungus Fair.",
+          "link": "https://www.berkeleyside.org/2026/01/29/around-berkeley-heated-rivalry-parties-earthquake-talk-women-composers",
+          "publishedOn": "2026-01-29T14:00:00.000Z",
+          "wordCount": 8030,
+          "title": "Around Berkeley: Heated Rivalry parties, earthquake talk, women composers",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/PC-Vivian-Sachs-1-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551044",
           "author": "Alex N. Gecan",
@@ -5608,16 +5702,6 @@
           "wordCount": 4655,
           "title": "Meera Sodha’s recipe for Massaman tofu and potato curry with rainbow chard | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/234189e40a3b9ddc7acf8dfd942bc38db9574418/0_12_2821_2255/master/2821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc55e42136b9b7d00808844d758815f"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/nov/01/tahini-beans-basil-pine-nuts-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Store-cupboard staples magically transform themselves into a warming autumnal meal\nI’ve been decluttering lately: throwing away or organising old cards, letters and photos, placing them in zipped folders and zapping them with labels made on my beloved Dymo. It’s given me such a great sense of freedom and clarity that I was thinking: I should do the same for my recipes. This one, for example, I would file under “magic”, because it comes together (mostly) from the store-cupboard, both in that easy way in which you throw things into a pot until they alchemise, but also because tahini and beans, together with a lemon, can, magically, become the most soothing antidote to cold weather.\nJoin Meera Sodha at a special event celebrating the best of Guardian culture on Wednesday 26 November, hosted by Nish Kumar and alongside writers Stuart Heritage and Tim Dowling, with Georgina Lawton hosting You be the judge live. Live in London or via livestream, book tickets here.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/nov/01/tahini-beans-basil-pine-nuts-recipe-meera-sodha",
-          "publishedOn": "2025-11-01T06:00:26.000Z",
-          "wordCount": 4429,
-          "title": "Meera Sodha’s recipe for tahini beans with basil and pine nuts | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/29efc18fe78d4e11624852fbf3b946162821109a/176_52_3537_2830/master/3537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d423c2b8ef87b48f4293cd8bd515773d"
         }
       ]
     },
@@ -5626,6 +5710,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/nsoott",
+          "author": null,
+          "description": "Looking back on how I've been looking back",
+          "link": "https://aethermug.com/posts/nsoott?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-01-29T11:52:07.000Z",
+          "wordCount": 7512,
+          "title": "Never Slide Out of the Day",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/nsoott/yanhao-fang-rNpxTNTsOjw-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/nsoott/yanhao-fang-rNpxTNTsOjw-unsplash.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/darwin-el-naturalista",
           "author": null,
@@ -5798,6 +5897,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/2nLZfk862J4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2nLZfk862J4",
+          "publishedOn": "2026-01-29T16:00:09.000Z",
+          "wordCount": 2172,
+          "title": "​@GuitarricadelafuenteOficial reflects on how his music is made to be experienced from the gut.⁠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/bQQrvKytX50",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/bQQrvKytX50",
+          "publishedOn": "2026-01-29T14:00:56.000Z",
+          "wordCount": 2852,
+          "title": "@DestinConrad introduces his alter-ego and explains how he lets intuition guide his music.⁠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/JtNa-3OH4GI",
           "author": null,
