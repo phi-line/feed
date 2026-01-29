@@ -710,6 +710,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8366399",
+          "author": "Joe Lancaster",
+          "description": "\"The Framers...designed a system in which the State and Federal Governments would exercise concurrent authority over the people,\" wrote Justice Antonin Scalia.",
+          "link": "https://reason.com/2026/01/28/trump-says-states-are-required-to-enforce-federal-immigration-laws-hes-wrong/",
+          "publishedOn": "2026-01-28T22:05:30.000Z",
+          "wordCount": null,
+          "title": "Trump Says States Are Required To Enforce Federal Immigration Laws. He's Wrong.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8366290",
           "author": "J.D. Tuccille",
           "description": "Wider reform is needed in the way the government enforces its laws.",
@@ -1154,17 +1165,6 @@
           "title": "Federal Judge Blasts 'Disgusting' ICE Facility Conditions, Orders Basic Humane Treatment for Detainees",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8355609",
-          "author": "J.D. Tuccille",
-          "description": "The case of Leo Garcia Venegas, a U.S. citizen arrested twice by immigration enforcement, demonstrates the problem with the government's current strategy.",
-          "link": "https://reason.com/2025/10/31/ices-mass-arrests-ensnare-u-s-citizens-and-show-no-signs-of-stopping/",
-          "publishedOn": "2025-10-31T11:00:31.000Z",
-          "wordCount": null,
-          "title": "ICE's Mass Arrests Ensnare U.S. Citizens and Show No Signs of Stopping",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1489,6 +1489,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3200/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3200/",
+          "publishedOn": "2026-01-28T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Chemical Formula",
+          "imageUrl": "https://imgs.xkcd.com/comics/chemical_formula_2x.png"
+        },
         {
           "id": "https://xkcd.com/3199/",
           "author": null,
@@ -1904,6 +1914,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/only-what-is-alive-can-be-conscious",
+          "author": "Nathan Gardels",
+          "description": "The post Only What Is Alive Can Be Conscious appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/only-what-is-alive-can-be-conscious",
+          "publishedOn": "2026-01-28T19:32:32.000Z",
+          "wordCount": 4294,
+          "title": "Only What Is Alive Can Be Conscious",
+          "imageUrl": "https://noemamag.imgix.net/2026/01/1_-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=e756f3600ce0949d50902ec493f74c06"
+        },
+        {
           "id": "https://www.noemamag.com/silicon-valley-goes-to-war",
           "author": "Tianyu M. Fang",
           "description": "The post Silicon Valley Goes To War appeared first on NOEMA.",
@@ -2200,6 +2220,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551044",
+          "author": "Alex N. Gecan",
+          "description": "Explosives technicians blew up the cache at the Berkeley Marina. A private company hauled off other unspecified chemicals, police said.",
+          "link": "https://www.berkeleyside.org/2026/01/28/thousand-oaks-shelter-in-place-update",
+          "publishedOn": "2026-01-28T22:50:17.000Z",
+          "wordCount": 7357,
+          "title": "Decades-old picric acid stash prompted North Berkeley shelter order Monday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/4E403B22-BF47-4292-9883-7EC009E743A0_1_105_c.jpeg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=468203",
+          "author": "Eli Wolfe",
+          "description": "A brand new rule prevents ICE agents from accessing county property to stage operations, process detainees or surveil.",
+          "link": "https://www.berkeleyside.org/2026/01/28/ice-free-zones-alameda-county",
+          "publishedOn": "2026-01-28T21:44:11.000Z",
+          "wordCount": 7518,
+          "title": "‘ICE-free zones’ are coming to Alameda County",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/AP24263667239744-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551030",
+          "author": "Cecilia Seiter",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/01/28/bangalore-blues-gusto-id-cafe-east-bay-openings",
+          "publishedOn": "2026-01-28T20:00:00.000Z",
+          "wordCount": 6894,
+          "title": "New South Indian spots bring the heat to Berkeley; Tokyo Central readies for Emeryville grand opening",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/ID-Cafe-Berkeley.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=468177",
+          "author": "Darwin BondGraham and Nico Savidge",
+          "description": "The Berkeley City Council passed a resolution that calls for abolishing ICE and ending the Trump administration’s aggressive enforcement operations.",
+          "link": "https://www.berkeleyside.org/2026/01/28/berkeley-leaders-reaction-ice-border-patrol-shootings-alex-pretti-renee-good",
+          "publishedOn": "2026-01-28T18:21:45.000Z",
+          "wordCount": 7894,
+          "title": "Berkeley reacts to ICE and Border Patrol shootings in Minneapolis",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_5380-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550972",
           "author": "Nathan Dalton",
@@ -5819,6 +5879,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/JtNa-3OH4GI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JtNa-3OH4GI",
+          "publishedOn": "2026-01-29T00:00:31.000Z",
+          "wordCount": 2275,
+          "title": "This could be your year! Submit to the Tiny Desk Contest Feb. 9 at npr.org/tinydeskcontest ‼️⁠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/CSzKHVfps7c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/CSzKHVfps7c",
+          "publishedOn": "2026-01-28T22:00:10.000Z",
+          "wordCount": 2067,
+          "title": "This year's Best New Artist nominees reflect just how much TikTok has impacted the music industry.⁠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/rXP9Dp4UHEw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/rXP9Dp4UHEw",
+          "publishedOn": "2026-01-28T20:30:10.000Z",
+          "wordCount": 2065,
+          "title": "@cocojones talks about unlearning expectations after growing up in the industry.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/yS6cRINq-kY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/yS6cRINq-kY",
+          "publishedOn": "2026-01-28T18:20:48.000Z",
+          "wordCount": 2034,
+          "title": "@DanielCaesar reflects on returning to the Desk and doing something different this time around.⁠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7sIJ1IRE8SE",
           "author": null,
           "description": "",
@@ -6517,16 +6617,6 @@
           "wordCount": null,
           "title": "Emily King: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h0-k7vW9Xek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h0-k7vW9Xek",
-          "publishedOn": "2025-10-31T09:01:25.000Z",
-          "wordCount": null,
-          "title": "clipping.: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -6535,6 +6625,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/epistemic-trespassing-why-brilliant-people-can-say-idiotic-things/",
+          "author": "Jonny Thomson",
+          "description": "Linus Pauling was one of the world’s greatest chemists. He won two Nobel Prizes and was a pioneer in both quantum chemistry and molecular biology. But in later years, Pauling started to talk about medicine. In his advocacy of “mega-vitamin” therapies, Pauling argued that mega-doses of vitamin C could treat diseases such as cancer and cure ailments like the common cold. There is no reputable evidence to support this. The medical establishment did and does dismiss these claims as utterly unfounded, unproven, and dangerous.\nPauling is an example of what the philosopher Nathan Ballantyne calls an “epistemic trespasser.” And it’s probably why the smartest, best-educated person you know can sometimes say or do the most idiotic of things.\nEpistemic trespassing\nEpistemic trespassing is when an exp…",
+          "link": "https://bigthink.com/mini-philosophy/epistemic-trespassing-why-brilliant-people-can-say-idiotic-things/",
+          "publishedOn": "2026-01-28T19:34:44.000Z",
+          "wordCount": 2218,
+          "title": "“Epistemic trespassing”: Why brilliant people can say idiotic things",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/epistemic-trespassing_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/plus/three-questions-to-ask-about-your-ai-partnership/",
           "author": "Nicholas Wisseman",
