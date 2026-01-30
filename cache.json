@@ -5967,6 +5967,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-qE3ADaWN2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-qE3ADaWN2A",
+          "publishedOn": "2026-01-30T10:00:01.000Z",
+          "wordCount": null,
+          "title": "Ollella: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/2nLZfk862J4",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -6733,6 +6743,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/damage-cosmic-ray-human/",
+          "author": "Ethan Siegel",
+          "description": "Here in our isolated corner of the Universe, we don’t normally think about all the objects, particles, and photons that miss us, even though we know they’re ubiquitous out there. Instead, all that we observe are the ones that arrive here: on Earth, in our detectors, in our telescopes, and even in our eyes. There are plenty of objects out there whose light is on the way, but hasn’t reached us just yet: objects beyond our current cosmic horizon, but not our future visibility limit. Additionally, there are massive engines out there  black holes and neutron stars chief among them  that accelerate particles to incredible energies: energies far greater than we could ever hope to produce in terrestrial laboratories.\nBut only very rarely do they interact with Earth, and produce signatures that we …",
+          "link": "https://bigthink.com/starts-with-a-bang/damage-cosmic-ray-human/",
+          "publishedOn": "2026-01-30T07:00:00.000Z",
+          "wordCount": 5113,
+          "title": "Ask Ethan: How much damage could a cosmic ray do to a human?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/Cosmic_image-e1766077817289.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/game-theory-steven-pinker/",
           "author": "Steven Pinker",

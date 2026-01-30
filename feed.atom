@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-01-30T06:17:25.102Z</updated>
+    <updated>2026-01-30T12:11:16.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ollella: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=-qE3ADaWN2A</id>
+        <link href="https://www.youtube.com/watch?v=-qE3ADaWN2A"/>
+        <updated>2026-01-30T10:00:01.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How much damage could a cosmic ray do to a human?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/damage-cosmic-ray-human/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/damage-cosmic-ray-human/"/>
+        <updated>2026-01-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in our isolated corner of the Universe, we don’t normally think about all the objects, particles, and photons that miss us, even though we know they’re ubiquitous out there. Instead, all that we observe are the ones that arrive here: on Earth, in our detectors, in our telescopes, and even in our eyes. There are plenty of objects out there whose light is on the way, but hasn’t reached us just yet: objects beyond our current cosmic horizon, but not our future visibility limit. Additionally, there are massive engines out there  black holes and neutron stars chief among them  that accelerate particles to incredible energies: energies far greater than we could ever hope to produce in terrestrial laboratories.
+But only very rarely do they interact with Earth, and produce signatures that we …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steven Pinker: The mechanics of trust in money and relationships]]></title>
         <id>https://bigthink.com/series/full-interview/game-theory-steven-pinker/</id>
