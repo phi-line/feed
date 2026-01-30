@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158483",
+          "author": "Ingrid Wickelgren",
+          "description": "New experiments reveal how astrocytes tune neuronal activity to modulate our mental and emotional states. The results suggest that neuron-only brain models, such as connectomes, leave out a crucial layer of regulation.            \nThe post Once Thought To Support Neurons, Astrocytes Turn Out To Be in Charge first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/once-thought-to-support-neurons-astrocytes-turn-out-to-be-in-charge-20260130/",
+          "publishedOn": "2026-01-30T15:40:57.000Z",
+          "wordCount": 4411,
+          "title": "Once Thought To Support Neurons, Astrocytes Turn Out To Be in Charge",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/SignalingAstrocytes-crRDouglasFields_NHIH-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158392",
           "author": "Leila Sloman",
           "description": "Mathematicians are still trying to understand fundamental properties of the Fourier transform, one of their most ubiquitous and powerful tools. A new result marks an exciting advance toward that goal.            \nThe post Networks Hold the Key to a Decades-Old Problem About Waves first appeared on Quanta Magazine",
@@ -403,6 +413,56 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "697cb5759b0c500001642153",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss a trip to Kenya, reconstructing images, and lying developers.",
+          "link": "https://www.404media.co/behind-the-blog-own-goals-and-lying-devs/",
+          "publishedOn": "2026-01-30T17:03:10.000Z",
+          "wordCount": 1142,
+          "title": "Behind the Blog: Own Goals and Lying Devs",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/nl1.30-1.png"
+        },
+        {
+          "id": "697cde5a9b0c50000164297a",
+          "author": "Matthew Gault",
+          "description": "The AI agent once called ClawdBot is enchanting tech elites, but its security vulnerabilities highlight systemic problems with AI.",
+          "link": "https://www.404media.co/silicon-valleys-favorite-new-ai-agent-has-serious-security-flaws/",
+          "publishedOn": "2026-01-30T16:59:02.000Z",
+          "wordCount": 2286,
+          "title": "Silicon Valley’s Favorite New AI Agent Has Serious Security Flaws",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/Screenshot-2026-01-30-113925-1.png"
+        },
+        {
+          "id": "697cdea29b0c500001642992",
+          "author": "Becky Ferreira",
+          "description": "The remains of a rich ancient ecosystem in China is so well-preserved that it contains guts, tentacles, and even an intact nervous system.",
+          "link": "https://www.404media.co/dozens-of-bizarre-ancient-lifeforms-discovered-in-extraordinary-fossil-find/",
+          "publishedOn": "2026-01-30T16:42:07.000Z",
+          "wordCount": 2102,
+          "title": "Dozens of Bizarre Ancient Lifeforms Discovered in ‘Extraordinary’ Fossil Find",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/image4.jpg"
+        },
+        {
+          "id": "697cc2669b0c50000164235a",
+          "author": "Joseph Cox",
+          "description": "404 Media is publishing a version of the user guide for ELITE, which lets ICE bring up dossiers on individual people and provides a “confidence score” of their address.",
+          "link": "https://www.404media.co/here-is-the-user-guide-for-elite-the-tool-palantir-made-for-ice/",
+          "publishedOn": "2026-01-30T14:49:01.000Z",
+          "wordCount": 3159,
+          "title": "Here is the User Guide for ELITE, the Tool Palantir Made for ICE",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/elite-guide.png"
+        },
+        {
+          "id": "697bd328851c1800010c511e",
+          "author": "Matthew Gault",
+          "description": "A Reddit-led protest is trying to push an eight year old erotic thriller to the top of Amazon’s sales charts.",
+          "link": "https://www.404media.co/erotic-parody-melania-devourer-of-men-sales-surge-on-amazon-amid-documentary-flop/",
+          "publishedOn": "2026-01-30T14:30:25.000Z",
+          "wordCount": 1546,
+          "title": "Erotic Parody 'Melania: Devourer of Men' Sales Surge on Amazon Amid Documentary Flop",
+          "imageUrl": "https://www.404media.co/content/images/2026/01/811ubxJvd-L._SL1500_-1-1.jpg"
+        },
+        {
           "id": "697baa35851c1800010c47b2",
           "author": "Jason Koebler",
           "description": "Senators Mark Warner and Tim Kaine asked the inspector general of the DHS about a host of surveillance technologies, including Flock, mobile phone spyware, and location data.",
@@ -719,6 +779,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8366726",
+          "author": "C.J. Ciaramella",
+          "description": "The extraordinary document offers a glimpse of a national campaign by the federal government to deprive detained immigrants of due process rights.",
+          "link": "https://reason.com/2026/01/30/judge-says-ice-violated-court-orders-in-74-cases-see-them-all-here/",
+          "publishedOn": "2026-01-30T16:48:29.000Z",
+          "wordCount": null,
+          "title": "Judge Says ICE Violated Court Orders in 74 Cases—See Them All Here",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?post_type=podcast&p=8366609",
           "author": "Robby Soave",
@@ -1573,6 +1644,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3201/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3201/",
+          "publishedOn": "2026-01-30T05:00:00.000Z",
+          "wordCount": 189,
+          "title": "Proof Without Content",
+          "imageUrl": "https://imgs.xkcd.com/comics/proof_without_content_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3200/",
           "author": null,
           "description": "",
@@ -2303,6 +2384,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551109",
+          "author": "Lisa Plachy",
+          "description": "From couples who just started dating to those decades past “I do,” Nosh has a holiday spot for you.",
+          "link": "https://www.berkeleyside.org/2026/01/30/east-bay-valentines-day-date-restaurants",
+          "publishedOn": "2026-01-30T16:45:00.000Z",
+          "wordCount": 7961,
+          "title": "Situationship? Married for decades? Where to dine on Valentine’s Day in the East Bay — based on your relationship",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Natera_240506_055_TANZIES_08.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551113",
+          "author": "Vanessa Arredondo",
+          "description": "A fundraiser through the nonprofit Bridge to Turkey Fund aims to raise $5,000 by March to support expansion of the library space.",
+          "link": "https://www.berkeleyside.org/2026/01/30/berkeley-teen-helps-fund-childrens-library-turkey",
+          "publishedOn": "2026-01-30T15:00:00.000Z",
+          "wordCount": 7850,
+          "title": "Berkeley teen helps fund children’s library for families in Turkey displaced by 2023 earthquake",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Ayla-and-grandmother.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551151",
           "author": "Berkeleyside Staff",
@@ -9110,6 +9211,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "http://theblog.jessikerbakes.com/?p=6354",
+          "author": "Jessica Hylton",
+          "description": "Pistachio pesto combines fresh basil leaves with nutty pistachios for a completely different spin on pesto. Whether you use it on pasta, veggies, or pizza, it’s always delish! Do I have a weakness for pesto? Judging by my abundance of pesto recipes, from Basil Pesto to Parsley Pesto, Vegan Pesto Pasta to Kale Pesto Pizza, […]",
+          "link": "https://jessicainthekitchen.com/kale-pistachio-pesto/",
+          "publishedOn": "2026-01-30T15:00:00.000Z",
+          "wordCount": 9613,
+          "title": "Pistachio Pesto",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/07/Pistachio-Pesto4893.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=67806",
           "author": "Jessica from Jessica in the Kitchen",
