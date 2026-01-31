@@ -413,6 +413,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "697d21b29b0c5000016966ae",
+          "author": "Jason Koebler",
+          "description": "New emails show Musk has been lying about his relationship with Epstein.",
+          "link": "https://www.404media.co/musk-to-epstein-what-day-night-will-be-the-wildest-party-on-your-island/",
+          "publishedOn": "2026-01-30T21:26:56.000Z",
+          "wordCount": 1334,
+          "title": "Musk to Epstein: ‘What Day/Night Will Be the Wildest Party on Your Island?’",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/CleanShot-2026-01-30-at-13.24.31@2x.png"
+        },
+        {
           "id": "697cb5759b0c500001642153",
           "author": "Samantha Cole",
           "description": "This week, we discuss a trip to Kenya, reconstructing images, and lying developers.",
@@ -779,6 +789,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8366703",
+          "author": "Jacob Sullum",
+          "description": "A pending appropriations bill could increase transparency and accountability by requiring DHS personnel to record encounters with the public.",
+          "link": "https://reason.com/2026/01/30/the-minneapolis-shootings-underline-the-advantages-of-body-cameras-which-dhs-has-been-slow-to-adopt/",
+          "publishedOn": "2026-01-30T21:10:19.000Z",
+          "wordCount": null,
+          "title": "The Minneapolis Shootings Underline the Advantages of Body Cameras, Which DHS Has Been Slow To Adopt",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8366726",
           "author": "C.J. Ciaramella",
@@ -2041,6 +2062,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=71843",
+          "author": "Stephen Wolfram",
+          "description": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has been made even on the rather coarse (though […]",
+          "link": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+          "publishedOn": "2026-01-30T19:26:48.000Z",
+          "wordCount": 17720,
+          "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/01/P-vs-NP-social-v3.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=71870",
           "author": "Stephen Wolfram",
           "description": "Ruliology is taking off! And more and more people are talking about it. But what is ruliology? Since I invented the term, I decided I should write something to explain it. But then I realized: I actually already wrote something back in 2021 when I first invented the term. What I wrote back then was […]",
@@ -2384,6 +2415,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551198",
+          "author": "Momo Chang",
+          "description": "Everything you need to know about the grand opening for the 44,000-square-foot grocery and restaurant on Saturday, Jan. 31.",
+          "link": "https://www.berkeleyside.org/2026/01/30/tokyo-central-emeryville-japanese-grocery-opening",
+          "publishedOn": "2026-01-30T23:00:00.000Z",
+          "wordCount": 8635,
+          "title": "Get a first look at the massive Tokyo Central opening in Emeryville",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-TokyoCentral_Nosh-6.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551184",
+          "author": "Nico Savidge and Felicia Mello",
+          "description": "Cheese Board Collective, Nabolom Bakery and the climbing gym Berkeley Ironworks were among the businesses closed in solidarity with the \"no work, no school, no shopping\" protest.",
+          "link": "https://www.berkeleyside.org/2026/01/30/berkeley-general-strike-ice-out-protest-shutdown",
+          "publishedOn": "2026-01-30T18:30:16.000Z",
+          "wordCount": 7898,
+          "title": "Berkeley businesses close, students protest as city joins ‘ICE Out’ national strike",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_9088-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551109",
           "author": "Lisa Plachy",
