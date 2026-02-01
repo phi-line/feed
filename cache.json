@@ -403,6 +403,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "697e950c9b0c50000169b9bb",
+          "author": "Matthew Gault",
+          "description": "'It exploded before anyone thought to check whether the database was properly secured.'",
+          "link": "https://www.404media.co/exposed-moltbook-database-let-anyone-take-control-of-any-ai-agent-on-the-site/",
+          "publishedOn": "2026-02-01T00:03:16.000Z",
+          "wordCount": 1668,
+          "title": "Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/Screenshot-2026-01-31-185109-1.png"
+        },
+        {
           "id": "697d21b29b0c5000016966ae",
           "author": "Jason Koebler",
           "description": "New emails show Musk has been lying about his relationship with Epstein.",
@@ -6888,16 +6898,6 @@
           "wordCount": 2050,
           "title": "@Loumar86 strips away the electronics for piano, acoustic guitar, marimba and an eight-piece choir",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cJQ99hiO_h8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cJQ99hiO_h8",
-          "publishedOn": "2025-11-03T10:00:59.000Z",
-          "wordCount": null,
-          "title": "Emily King: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9255,16 +9255,6 @@
           "wordCount": 2153,
           "title": "What Steve Jobs learned from Shakespeare’s King Lear",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/steve-jobs-shakespeare_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/red-spider-nebula-jwst/",
-          "author": "Ethan Siegel",
-          "description": "All throughout the cosmos, planetary nebulae appear.\n\nWhen lower-mass, Sun-like stars run out of fuel, they blow off their outer layers in a planetary nebula, but the center contracts down to form a white dwarf, which takes a very long time to fade to darkness. Some white dwarfs will shine for trillions of years; others are on their way to an inevitable supernova when they collide with another white dwarf or accumulate enough mass to detonate.\n\nCredit: NASA/ESA and the Hubble Heritage Team (AURA/STScI)\n\n\nDisplaying many different shapes, they all have the same cause.\n\nAfter its formation some 4.6 billion years ago, the Sun has grown in radius by approximately 14%. It will continue to grow, doubling in size when it becomes a subgiant, but it will increase in size by more than 100-fold when …",
-          "link": "https://bigthink.com/starts-with-a-bang/red-spider-nebula-jwst/",
-          "publishedOn": "2025-11-03T07:00:00.000Z",
-          "wordCount": 2834,
-          "title": "The Red Spider Nebula gets its JWST glow-up",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/RSWebbcover_935211.jpg?resize=1200,630"
         }
       ]
     },
