@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-01T12:09:14.922Z</updated>
+    <updated>2026-02-01T18:08:15.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What It's Like To Be A Worm]]></title>
+        <id>https://www.asimov.press/p/sentience</id>
+        <link href="https://www.asimov.press/p/sentience"/>
+        <updated>2026-02-01T17:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Finding evidence of “sentience” is fraught, whether in a comatose patient, an animal, or a neural net.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site]]></title>
         <id>697e950c9b0c50000169b9bb</id>

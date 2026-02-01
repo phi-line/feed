@@ -1350,6 +1350,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/sentience",
+          "author": "Asimov Press",
+          "description": "Finding evidence of “sentience” is fraught, whether in a comatose patient, an animal, or a neural net.",
+          "link": "https://www.asimov.press/p/sentience",
+          "publishedOn": "2026-02-01T17:02:34.000Z",
+          "wordCount": null,
+          "title": "What It's Like To Be A Worm",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!YZw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5249b54-e607-4f80-8cad-9d17aa411a4b_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!YZw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5249b54-e607-4f80-8cad-9d17aa411a4b_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/metaphors-time",
           "author": "Asimov Press",
           "description": "A series of quantitative metaphors on the speeds of common events in molecular biology.",
