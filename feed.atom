@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-02T06:26:04.494Z</updated>
+    <updated>2026-02-02T12:12:59.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWST shakes up the hunt for earliest galaxy cluster]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/jwst-earliest-galaxy-cluster/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/jwst-earliest-galaxy-cluster/"/>
+        <updated>2026-02-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hubble Space Telescope displayed what the Universe looks like.
+
+Over the course of 50 days, with a total of over 2 million seconds of total observing time (the equivalent of 23 complete days), the Hubble eXtreme Deep Field (XDF) was constructed from a portion of the prior Hubble Ultra Deep Field image. Combining light from ultraviolet through visible light and out to Hubble’s near-infrared limit, the XDF represents humanity’s deepest view of the cosmos: a record that stood until the JWST’s first deep field was released on July 11, 2022.
+
+Credit: NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team
+
+
+Its successor, JWST, now reveals how the Universe grew up.
+
+This tiny fraction of the JADES survey a…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What It's Like To Be A Worm]]></title>
         <id>https://www.asimov.press/p/sentience</id>
@@ -9649,58 +9668,6 @@ And yet, Einstein’s key insights, and the profundity of Special Rela…]]></su
         <updated>2025-11-05T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Internet Was Like in 2001]]></title>
-        <id>https://cybercultural.com/p/internet-2001/</id>
-        <link href="https://cybercultural.com/p/internet-2001/"/>
-        <updated>2025-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple iTunes, the Rip Mix Burn advert, 2001; via YouTube (video embedded below).
-The year 2001 began with optimism — in January, Wikipedia debuted and Apple launched iTunes. But by year’s end the mood had shifted. The dot-com crash had drained Silicon Valley’s exuberance, Napster was being dismantled in court, and the new wave of post-9/11 “warblogs” made the internet feel solemn and overly serious. Meanwhile, Microsoft continued its dominance over the web with the release of Internet Explorer 6.
-Despite the doom and gloom, 2001 was also a year in which the web continued to mature. It gained a memory through Wikipedia and the Wayback Machine, discovered new voices through blogs and communities like MetaFilter, and began to legitmately shake up the cultural industries with iTunes and the iP…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acclaimed Oakland home restaurant is moving to Jack London Square]]></title>
-        <id>https://www.berkeleyside.org/?p=546716</id>
-        <link href="https://www.berkeleyside.org/2025/11/04/cenaduria-elvira-valera-tostada-raspada-jack-london-square"/>
-        <updated>2025-11-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Born in a Jingletown backyard and featured in The New York Times, Elvira Valera's restaurant has built a following for its tostadas raspadas. Now, it’s ready for its own brick-and-mortar.]]></summary>
-        <author>
-            <name>Azucena Rasilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jot Mahal closes on College, Oakland loses an Uptown bar and an Alameda bakery bids adieu]]></title>
-        <id>https://www.berkeleyside.org/?p=546689</id>
-        <link href="https://www.berkeleyside.org/2025/11/04/babette-jot-mahal-kaspers-starbucks-feel-good-closing"/>
-        <updated>2025-11-04T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The East Bay restaurant closures in October included multiple business that had been open for decades.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agente federal disparó a un pastor en el rostro con un arma química ¿Qué puede hacer California al respecto?]]></title>
-        <id>https://www.berkeleyside.org/?p=546697</id>
-        <link href="https://www.berkeleyside.org/2025/11/04/agente-federal-disparo-a-un-pastor-en-el-rostro-con-un-arma-quimica"/>
-        <updated>2025-11-04T19:47:03.000Z</updated>
-        <summary type="html"><![CDATA[La respuesta violenta a una protesta en Oakland plantea las mismas cuestiones legales que enfrentan otros estados a medida que se intensifica la represión migratoria de Trump.]]></summary>
-        <author>
-            <name>Jose Fermoso, Roselyn Romero, Darwin BondGraham and Esther Kaplan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$750k grant for BART had strings attached: ICE cooperation]]></title>
-        <id>https://oaklandside.org/?p=464138</id>
-        <link href="https://www.berkeleyside.org/2025/11/04/fema-grant-bart-ice-cooperation-immigration-court-order"/>
-        <updated>2025-11-04T19:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Under court order, FEMA stopped requiring security grantees to collaborate with immigration enforcement on Oct. 21. But AC Transit will not apply, after facing community pressure to protect riders.]]></summary>
-        <author>
-            <name>Jose Fermoso</name>
         </author>
     </entry>
     <entry>
