@@ -383,6 +383,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698210edd227740001ebe8d4",
+          "author": "Joseph Cox",
+          "description": "Hackers have targeted a spread of apps or sites that aim to track ICE activity, in one case even sending push notifications to users in an attempt to intimidate them.",
+          "link": "https://www.404media.co/hackers-and-trolls-target-wave-of-ice-spotting-apps/",
+          "publishedOn": "2026-02-03T15:33:05.000Z",
+          "wordCount": 1573,
+          "title": "Hackers and Trolls Target Wave of ICE Spotting Apps",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/deicer-app.png"
+        },
+        {
+          "id": "6981f985d227740001e9bf54",
+          "author": "Joseph Cox",
+          "description": "‘Curator Live’, a popular photo booth company for weddings and other events, is exposing all sorts of unsuspecting people’s photos.",
+          "link": "https://www.404media.co/wedding-photo-booth-company-exposes-customers-drunken-photos/",
+          "publishedOn": "2026-02-03T14:00:28.000Z",
+          "wordCount": 1329,
+          "title": "Wedding Photo Booth Company Exposes Customers’ Drunken Photos",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/barry-wong-I6RrgO54M5c-unsplash.jpg"
+        },
+        {
           "id": "6980c3505017bc00015aa1c7",
           "author": "Samantha Cole",
           "description": "A note from investigators in the files said some images Epstein had were \"POSSIBLE CSAM.\"",
@@ -809,6 +829,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8367002",
+          "author": "Elizabeth Nolan Brown",
+          "description": "Plus: Courts block ending temporary protected status for Haitians and preventing lawmakers from entering ICE facilities, an end to government shutdown expected, and more…",
+          "link": "https://reason.com/2026/02/03/thawing-ice/",
+          "publishedOn": "2026-02-03T14:44:01.000Z",
+          "wordCount": null,
+          "title": "Thawing ICE",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?post_type=podcast&p=8366977",
           "author": "Peter Suderman",
@@ -2148,6 +2179,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/its-time-to-target-the-political-power-of-polluters",
+          "author": "Jessica F. Green",
+          "description": "The post It’s Time To Target The Political Power Of Polluters appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/its-time-to-target-the-political-power-of-polluters",
+          "publishedOn": "2026-02-03T16:56:38.000Z",
+          "wordCount": 7674,
+          "title": "It’s Time To Target The Political Power Of Polluters",
+          "imageUrl": "https://noemamag.imgix.net/2026/02/Noema-Magazine-Its-Time-To-Target-The-Political-Power-Of-Polluters-Mr.Nelson-design.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=8b9071b6d729e33b06de0209cb392b78"
+        },
+        {
           "id": "https://www.noemamag.com/what-counts-as-a-mind",
           "author": "Natalie Lawrence",
           "description": "The post What Counts As A Mind? appeared first on NOEMA.",
@@ -2444,6 +2485,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551354",
+          "author": "Felicia Mello",
+          "description": "Dozens of scientists, including some from Cal, left their labs and headed to Sacramento last week to defend their work studying disease treatments, resilience to extreme heat and more.",
+          "link": "https://www.berkeleyside.org/2026/02/03/california-foundation-for-science-and-health-research-bond-ballot-measure",
+          "publishedOn": "2026-02-03T14:00:00.000Z",
+          "wordCount": 9159,
+          "title": "At science fair, UC Berkeley researchers lobby for $23B bond to offset Trump’s cuts",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-science-saves-lives_2026_01_26_FG23488.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=468492",
           "author": "Jose Fermoso",
@@ -5984,21 +6035,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/steinbeck-on-teleology",
-          "author": null,
-          "description": "None of it is important or all of it is",
-          "link": "https://aethermug.com/posts/steinbeck-on-teleology?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-11-06T03:08:33.000Z",
-          "wordCount": 6620,
-          "title": "Steinbeck on Teleology",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/steinbeck-on-teleology/dulcey-lima-WAHDR6mEv6s-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/steinbeck-on-teleology/dulcey-lima-WAHDR6mEv6s-unsplash.jpg"
         }
       ]
     },
@@ -6755,6 +6791,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/business/the-agility-quotient-why-we-need-to-move-on-from-iq-and-eq/",
+          "author": "Liz Tran",
+          "description": "When France began mandatory education for all children in the late 1800s, it required a way to assess the “mental age” of students to properly place them in the right classrooms. Two French psychologists, Alfred Binet and Théodore Simon, leaped at the invitation and created the first-ever practical intelligence test. Since then, the Binet-Simon Intelligence Scale has inspired countless other researchers, including Lewis Terman, who transformed the original framework into the Stanford-Binet Test, the standard IQ assessment in the United States for most of the 20th century.\nTerman believed that high IQ indicated genius, and he sought to prove this with a study he launched in 1921 that tracked 1,528 kids with IQ scores over 135, following them for their entire lives as they grew from children…",
+          "link": "https://bigthink.com/business/the-agility-quotient-why-we-need-to-move-on-from-iq-and-eq/",
+          "publishedOn": "2026-02-03T14:00:00.000Z",
+          "wordCount": 2739,
+          "title": "The Agility Quotient: Why we need to move on from IQ and EQ",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/AQ_excerpt.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/most-important-quantum-advance-21st-century/",
           "author": "Ethan Siegel",
           "description": "Since the dawn of the quantum era, perhaps no question has loomed larger in the minds of theoretical physicists than just what, exactly, the nature of reality is. Are quantum objects real, with well-defined positions and momenta, even in the absence of an observation or measurement to determine them? Out of all the ways to interpret quantum mechanics — from parallel universes to a collapsing wavefunction to theories of hidden variables — we still don’t have any evidence that favors one interpretation over another. All we’ve been able to do, even as of 2026, is rule out certain deterministic interpretations that cannot be consistent with the experiments we’ve actually performed.\nNevertheless, despite how slow progress has been in uncovering the full nature of our quantum reality, humanity h…",
@@ -6763,6 +6809,16 @@
           "wordCount": 5168,
           "title": "The most important quantum advance of the 21st century",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/10/entanglement-viz-e1770077947867.jpg?resize=1185,630"
+        },
+        {
+          "id": "https://bigthink.com/books/flourish/",
+          "author": "Daniel Coyle",
+          "description": "When I visited flourishing groups, I noticed that being with them felt different. They possessed a vibrancy, a switched-on responsiveness that showed up in their bodies. Their posture, in general, was relaxed; their heads were up and their interactions were fluid. Aliveness was the word I kept writing in my notebook: a feeling of being carried along in a river of energy that was headed somewhere good. I started keeping a list of the ways that aliveness showed itself:\nLooseness: They operated with slack in the system; they were comfortable with a bit of chaos.\nStories: They tended to connect by exchanging narratives rather than information.\nIntuition: People operated instinctively, not mechanically.\nLaughter: They didn’t take themselves seriously.\nSmall courtesies: They were aware of others…",
+          "link": "https://bigthink.com/books/flourish/",
+          "publishedOn": "2026-02-03T05:30:00.000Z",
+          "wordCount": 2593,
+          "title": "Why fulfilled people make time for nothing at all",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Doing-Absolutely-Nothing.jpg?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/mind-behavior/ais-are-chatting-among-themselves-and-things-are-getting-strange/",
@@ -9061,6 +9117,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=72563",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Oat flour pancakes are the thickest, fluffiest pancakes you’ll ever make! Naturally gluten-free and vegan, these wholesome pancakes are easy to make and awesome for meal prep. Oat flour pancakes have the flavour and stick-to-your-ribs heartiness of a bowl of oatmeal or Instant Pot steel-cut oats, in the form of fluffy vegan pancakes. Could this […]",
+          "link": "https://jessicainthekitchen.com/oat-flour-pancakes/",
+          "publishedOn": "2026-02-03T15:00:00.000Z",
+          "wordCount": 8222,
+          "title": "Fluffy Oat Flour Pancakes",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Vegan-Oat-Flour-Pancakes_11.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=72215",
           "author": "Jessica from Jessica in the Kitchen",
