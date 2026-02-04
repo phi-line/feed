@@ -830,6 +830,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8367104",
+          "author": "Jacob Sullum",
+          "description": "A federal indictment accuses him and another journalist of conspiring with protesters who disrupted a St. Paul church service.",
+          "link": "https://reason.com/2026/02/04/don-lemons-arrest-looks-like-an-assault-on-freedom-of-the-press/",
+          "publishedOn": "2026-02-04T05:01:44.000Z",
+          "wordCount": null,
+          "title": "Don Lemon's Arrest Looks Like an Assault on Freedom of the Press",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8367002",
           "author": "Elizabeth Nolan Brown",
           "description": "Plus: Courts block ending temporary protected status for Haitians and preventing lawmakers from entering ICE facilities, an end to government shutdown expected, and more…",
@@ -1409,17 +1420,6 @@
           "title": "Even the FBI Thinks Masked ICE Agents Are a Bad Idea",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8356290",
-          "author": "Autumn Billings",
-          "description": "“The evidence has been pretty strong that his facility is no longer just a temporary holding facility,” said U.S. District Court Judge Robert Gettleman. “It has really become a prison.”",
-          "link": "https://reason.com/2025/11/06/federal-judge-blasts-disgusting-ice-facility-conditions-orders-basic-humane-treatment-for-detainees/",
-          "publishedOn": "2025-11-06T16:00:27.000Z",
-          "wordCount": null,
-          "title": "Federal Judge Blasts 'Disgusting' ICE Facility Conditions, Orders Basic Humane Treatment for Detainees",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1683,22 +1683,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/92341c57-04ae-4ce0-8f7a-572a8d4517d5_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/limit-thinking",
-          "author": "Asimov Press",
-          "description": "To make things better, first prove how good they can possibly be.",
-          "link": "https://www.asimov.press/p/limit-thinking",
-          "publishedOn": "2025-11-06T16:00:48.000Z",
-          "wordCount": null,
-          "title": "The Power of Limit Thinking",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/210b7bf9-1bbb-4a2b-905e-68b81100b4cd_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/210b7bf9-1bbb-4a2b-905e-68b81100b4cd_2000x1260.jpeg"
         }
       ]
     },
@@ -2467,16 +2451,6 @@
           "wordCount": 3087,
           "title": "The Infrastructure Of Planetary Sapience",
           "imageUrl": "https://noemamag.imgix.net/2025/11/Noema_color_v1-13-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=36d36c55b9dc2ba0427f30a4ae6a7102"
-        },
-        {
-          "id": "https://www.noemamag.com/humanitys-endgame",
-          "author": "Henry Wismayer",
-          "description": "The post Humanity’s Endgame appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/humanitys-endgame",
-          "publishedOn": "2025-11-06T16:47:05.000Z",
-          "wordCount": 14374,
-          "title": "Humanity’s Endgame",
-          "imageUrl": "https://noemamag.imgix.net/2025/10/FF_01-1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=1%2C831%2C2042%2C1069&w=1200&wpsize=noema-social-facebook&s=b32f614825bd7195912959720d55ee8d"
         }
       ]
     },
@@ -5489,26 +5463,6 @@
           "wordCount": 8556,
           "title": "Matcha, matcha everywhere: Where to get your fix in the East Bay",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/OpenAir-MatchaandScone.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546890",
-          "author": "Vanessa Arredondo",
-          "description": "About 30% of Berkeley Unified students rely on free or reduced-cost meals. The school district has been partnering with food pantries and mobilizing volunteers to feed students and their families.",
-          "link": "https://www.berkeleyside.org/2025/11/06/busd-grocery-gift-cards-food-pantries-snap-cuts",
-          "publishedOn": "2025-11-06T15:00:00.000Z",
-          "wordCount": 7960,
-          "title": "BUSD community responds to SNAP cuts by donating grocery gift cards, and more",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/BFN-ShoeySindel_SSP0068.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546795",
-          "author": "Andrew Gilbert and Karen Nguyen Vo",
-          "description": "Other events include a book talk with Hayley Kiyoko, the Korean Experimental Music Festival and a community limpia circle.",
-          "link": "https://www.berkeleyside.org/2025/11/06/around-berkeley-comic-con-square-dancing-hungarian-desserts",
-          "publishedOn": "2025-11-06T14:00:00.000Z",
-          "wordCount": 8109,
-          "title": "Around Berkeley: Comic Con, square dancing, Hungarian desserts",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Untitled-design-3.png?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -6791,16 +6745,6 @@
           "publishedOn": "2025-11-07T10:00:18.000Z",
           "wordCount": null,
           "title": "Nova Twins: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/x0q7Dwhvqtk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/x0q7Dwhvqtk",
-          "publishedOn": "2025-11-06T17:01:40.000Z",
-          "wordCount": 2020,
-          "title": "@Clipse hung up a classic piece of hip-hop iconography in our space.",
           "imageUrl": null
         }
       ]
@@ -9099,26 +9043,6 @@
           "wordCount": 3861,
           "title": "Why general relativity would’ve been discovered without Einstein",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Carroll-1.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/schelling-points-and-great-books/",
-          "author": "Daniel Greco",
-          "description": "Some idealists set out to build a new community from scratch. They saw themselves as unusually clear-headed and logical — people determined to build a society based on reason rather than on the accidents of tradition. If there was a better way to do something, they wanted to find it.\nAt first, the experiment went smoothly. They shared work, rotated responsibilities, and debated policy late into the night. But before long, they started to complain about English. It’s irrational, they said. Silent letters everywhere, no phonetic consistency, spelling rules that dissolve the moment you learn them. Why do “though,” “through,” and “tough” all look the same but sound nothing alike? And the idioms! Why should “kick the bucket” mean “die”? Surely a truly rational society can do better, they though…",
-          "link": "https://bigthink.com/books/schelling-points-and-great-books/",
-          "publishedOn": "2025-11-06T15:30:00.000Z",
-          "wordCount": 4521,
-          "title": "Plato meets game theory: How Schelling points explain the power of great books",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/plato-schelling.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/why-desire-not-resilience-leads-to-longevity/",
-          "author": "Eric Markowitz",
-          "description": "For the latest edition of The Long Game, I spoke with Andrew Markell, a conversation based on several interviews over the past few months.\nEarlier this year, Andrew and I were introduced through a mutual friend. We first met in person on a trail in Forest Park in Portland, Oregon, where we hiked for two hours, talking about how societies — and people — fracture under pressure. A couple of weeks later, I found myself in his driveway, sweat pouring down my back as we practiced yiquan, the martial art he’s mastered, and a technique that trains the nervous system to stay coherent under stress.\nAndrew is part philosopher, part fighter — a trauma specialist and co-founder of The Dawn Collective — and he’s spent decades teaching everyone from special forces veterans to investors to CEOs how to fi…",
-          "link": "https://bigthink.com/business/why-desire-not-resilience-leads-to-longevity/",
-          "publishedOn": "2025-11-06T14:00:00.000Z",
-          "wordCount": 2853,
-          "title": "Why desire — not resilience — leads to longevity",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.6.25-Nightcrawler_compressed.jpg?resize=1200,630"
         }
       ]
     },
