@@ -5433,36 +5433,6 @@
           "wordCount": 7026,
           "title": "The Wire: Berkeley Rep used AI art to market play; Berkeley High custodian writes kids books in his free time",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/IMG_7390-scaled.jpg?fit=2560%2C1920&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=464387",
-          "author": "Ashley McBride",
-          "description": "CJ Rudolph joined the Internal Revenue Service in 2019, just after the last federal shutdown. Now he’s surviving with gig work and a credit union loan.",
-          "link": "https://www.berkeleyside.org/2025/11/06/government-shutdown-furloughed-federal-worker-surviving",
-          "publishedOn": "2025-11-06T21:44:11.000Z",
-          "wordCount": 7747,
-          "title": "‘It’s just a fact of life’: Making do as a furloughed local federal worker",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP25308588345366-scaled-1.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=464426",
-          "author": "Associated Press and Esther Kaplan",
-          "description": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 airports starting Friday, Nov. 7. SFO and OAK are on the list; San Jose is not.",
-          "link": "https://www.berkeleyside.org/2025/11/06/oak-sfo-hit-by-faa-air-traffic-reductions",
-          "publishedOn": "2025-11-06T21:34:53.000Z",
-          "wordCount": 7187,
-          "title": "OAK, SFO hit by FAA air traffic reductions",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/large-Oakland-Airport-6.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546854",
-          "author": "Sara Martin",
-          "description": "Your guide to Berkeley, Oakland and Richmond cafes serving ceremonial-grade tea, matcha lattes and green desserts, despite a global shortage.",
-          "link": "https://www.berkeleyside.org/2025/11/06/east-bay-matcha-guide-tea-dessert-latte",
-          "publishedOn": "2025-11-06T20:30:00.000Z",
-          "wordCount": 8556,
-          "title": "Matcha, matcha everywhere: Where to get your fix in the East Bay",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/OpenAir-MatchaandScone.jpg"
         }
       ]
     },
@@ -6754,6 +6724,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/jwst-deepest-deep-field-image/",
+          "author": "Ethan Siegel",
+          "description": "Each time we’ve looked at the Universe in a fundamentally new way, we didn’t just see more of what we already knew was out there. In addition, those novel capabilities allowed the Universe to surprise us, breaking records, revolutionizing our view of what was out there, and teaching us information that we never could have learned without collecting that key data. It’s happened many times before, including:\nwith the invention of the telescope,\nwith the development of astrophotography (astronomical photography),\nwith the birth of multiwavelength astronomy,\nwith the advent of space telescopes,\nwith the technique of deep-field imaging, \nand with the improvements of larger-aperture, longer-wavelength observatories.\nWe gained, in each instance, a better appreciation for what the Universe was mad…",
+          "link": "https://bigthink.com/starts-with-a-bang/jwst-deepest-deep-field-image/",
+          "publishedOn": "2026-02-04T07:00:00.000Z",
+          "wordCount": 5167,
+          "title": "Yes, JWST should take the deepest deep-field image ever",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/07/cover_a37a1c.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/the-agility-quotient-why-we-need-to-move-on-from-iq-and-eq/",
           "author": "Liz Tran",
@@ -9033,16 +9013,6 @@
           "wordCount": 4458,
           "title": "Ask Ethan: Can Weber bars detect gravitational waves?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2023/09/ezgif-1-5724458878.gif?w=498&h=280&crop=1"
-        },
-        {
-          "id": "https://bigthink.com/series/the-big-think-interview/sean-carroll-einstein/",
-          "author": "Sean Carroll",
-          "description": "Albert Einstein altered the way we think about reality itself, and we often think of him as the most important physicist. But even his breakthroughs were part of a larger, tangled conversation among scientists stretching from Aristotle to Maxwell to Minkowski. \nSean Carroll, physicist and philosopher at Johns Hopkins University, traces how the universe emerged not from solitary genius, but from centuries of dialogue, error, and correction.\nThis video Why general relativity would’ve been discovered without Einstein is featured on Big Think.",
-          "link": "https://bigthink.com/series/the-big-think-interview/sean-carroll-einstein/",
-          "publishedOn": "2025-11-06T19:54:59.000Z",
-          "wordCount": 3861,
-          "title": "Why general relativity would’ve been discovered without Einstein",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Carroll-1.jpg?resize=1200,630"
         }
       ]
     },
