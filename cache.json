@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158615",
+          "author": "Molly Herring",
+          "description": "How physically magnifying objects using a key ingredient in diapers has opened an unprecedented view of the microbial world.            \nThe post Expansion Microscopy Has Transformed How We See the Cellular World first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
+          "publishedOn": "2026-02-04T15:40:40.000Z",
+          "wordCount": 2379,
+          "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/02/Expansion-Miscroscopy-cr-DeyLab_DudinLab_CentrioleLab-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158534",
           "author": "Liz Kruesi",
           "description": "Today’s observatories document every pulse and flash in the sky each night. To understand how the cosmos has changed over longer periods, scientists rely on a more tactile technology.            \nThe post How Modern and Antique Technologies Reveal a Dynamic Cosmos first appeared on Quanta Magazine",
@@ -382,6 +392,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69836b18d227740001ee6fa5",
+          "author": "Becky Ferreira",
+          "description": "The discovery of a Medieval tunnel built within a prehistoric burial ground adds to the mystery of hundreds of underground passages without a known purpose.",
+          "link": "https://www.404media.co/scientists-keep-discovering-mysterious-ancient-tunnels-across-europe/",
+          "publishedOn": "2026-02-04T15:53:58.000Z",
+          "wordCount": 1721,
+          "title": "Scientists Keep Discovering Mysterious Ancient Tunnels Across Europe",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/image3.png"
+        },
+        {
+          "id": "69834d53d227740001ec2c1e",
+          "author": "Joseph Cox",
+          "description": "Lockdown Mode is a sometimes overlooked feature of Apple devices that broadly make them harder to hack. A court record indicates the feature might be effective at stopping third parties unlocking someone's device. At least for now.",
+          "link": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+          "publishedOn": "2026-02-04T14:05:33.000Z",
+          "wordCount": 1108,
+          "title": "FBI Couldn’t Get into WaPo Reporter’s iPhone Because It Had Lockdown Mode Enabled",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/245839225_3814a454f9.jpg"
+        },
+        {
+          "id": "6983495ed227740001ec2b39",
+          "author": "Joseph Cox",
+          "description": "This Epstein dump is probably the worst yet. Then we talk all about security issues in Moltbot and Moltbook. Then, even more security issues with some popular apps.",
+          "link": "https://www.404media.co/podcast-the-latest-epstein-dump-is-a-disaster/",
+          "publishedOn": "2026-02-04T14:00:59.000Z",
+          "wordCount": 1180,
+          "title": "Podcast: The Latest Epstein Dump is a Disaster",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/A--60-Mod-to-Meta---s-Ray-Bans-Disables-Its-Privacy-Protecting-Recording-Light--2-.png"
+        },
         {
           "id": "698210edd227740001ebe8d4",
           "author": "Joseph Cox",
@@ -2097,16 +2137,6 @@
           "wordCount": 210,
           "title": "Big and Little Spoons",
           "imageUrl": "https://imgs.xkcd.com/comics/big_and_little_spoons_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3165/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3165/",
-          "publishedOn": "2025-11-07T05:00:00.000Z",
-          "wordCount": 208,
-          "title": "Earthquake Prediction Flowchart",
-          "imageUrl": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart_2x.png"
         }
       ]
     },
@@ -2459,6 +2489,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550953",
+          "author": "Local sponsor",
+          "description": "Located on Gilman at Sixth for over 60 years, the shop is now managed by two women, one of them being Don's daughter.",
+          "link": "https://www.berkeleyside.org/2026/02/04/at-dons-tire-service-they-keep-the-cars-and-the-laughs-rolling",
+          "publishedOn": "2026-02-04T17:15:00.000Z",
+          "wordCount": 7845,
+          "title": "At Don’s Tire Service they keep the cars — and the laughs —rolling",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Dons-Angela-Denise-.png?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=468583",
+          "author": "Jose Fermoso",
+          "description": "The measure would allow for transit systems to spend federal crime prevention dollars on outreach workers and reduce the use of police in nonviolent situations.",
+          "link": "https://www.berkeleyside.org/2026/02/04/lateefah-simon-congress-rider-act-bart-crisis-ambassador-oakland-transit",
+          "publishedOn": "2026-02-04T14:07:00.000Z",
+          "wordCount": 8035,
+          "title": "Rep. Simon introduces a bill to nationalize BART’s ambassador program",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Rep.-Lateefah-Simon-announced-RIDER-Act-at-Oakland-BART-station.png?fit=1006%2C680&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551403",
+          "author": "Judy Wells",
+          "description": "She was a legal secretary, a topless dancer, a senior VP in the financial services industry, a college professor and a dream worker.",
+          "link": "https://www.berkeleyside.org/2026/02/04/remembering-martha-hudson-whose-literary-salon-inspired-uc-berkeleys-womens-studies-program",
+          "publishedOn": "2026-02-04T13:00:00.000Z",
+          "wordCount": 7977,
+          "title": "Remembering Martha Hudson, whose literary salon inspired UC Berkeley’s women’s studies program",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Brown.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551399",
           "author": "Nico Savidge",
@@ -5423,16 +5483,6 @@
           "wordCount": 8705,
           "title": "Bogus cops and crypto ATMs: Berkeley teacher scammed of her life savings",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image-2.jpeg?fit=2048%2C1536&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546946",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A UC Berkeley college access program serving 1,500 students is in jeopardy after a major federal grant was canceled over a reference to “equity and inclusion” in a grant application.",
-          "link": "https://www.berkeleyside.org/2025/11/06/the-wire-berkeley-rep-used-ai-art-to-market-play-berkeley-high-custodian-writes-kids-books-in-his-free-time",
-          "publishedOn": "2025-11-07T01:15:00.000Z",
-          "wordCount": 7026,
-          "title": "The Wire: Berkeley Rep used AI art to market play; Berkeley High custodian writes kids books in his free time",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/IMG_7390-scaled.jpg?fit=2560%2C1920&ssl=1"
         }
       ]
     },
@@ -6724,6 +6774,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-well/what-happens-when-we-admit-we-dont-know/",
+          "author": "Kelly Corrigan, Lee Helland",
+          "description": "Champion curiosity, and you risk sounding like a kindergarten teacher or a journalism professor. We treat it as a trait for the young and unformed — something adults either already mastered or no longer require. After all, if experience is supposed to deliver answers, what’s left to be curious about?\nToday’s culture rewards certainty, and many experts see that as a problem. They argue that admitting what we don’t know is one of the surest catalysts for learning, creativity, and real connection.\nKelly Corrigan — bestselling author, PBS host, and creator of the Kelly Corrigan Wonders podcast — has spent the past year probing this idea with people she calls “intellectual giants.” Her new six-part podcast series, Super Traits, distills the qualities she believes anchor a fulfilled and grounded…",
+          "link": "https://bigthink.com/the-well/what-happens-when-we-admit-we-dont-know/",
+          "publishedOn": "2026-02-04T17:15:39.000Z",
+          "wordCount": 1274,
+          "title": "What happens when we admit we don’t know?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Kelly-Corrigan-QA-Thumbnail.gif?w=700&h=394&crop=1"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jwst-deepest-deep-field-image/",
           "author": "Ethan Siegel",
