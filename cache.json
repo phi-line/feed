@@ -2486,6 +2486,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=551399",
+          "author": "Nico Savidge",
+          "description": "While official Super Bowl events are happening elsewhere, Berkeley is getting some of the shine from the Bay Area’s turn hosting the game.",
+          "link": "https://www.berkeleyside.org/2026/02/03/celebrity-flag-football-berkeley-super-bowl",
+          "publishedOn": "2026-02-03T22:50:31.000Z",
+          "wordCount": 7688,
+          "title": "Star-studded flag football game will be Berkeley’s taste of Super Bowl glitz",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AP26031819562971.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551376",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/02/03/anahuac-saints-smokehouse-lulus-tease-openings",
+          "publishedOn": "2026-02-03T20:00:00.000Z",
+          "wordCount": 7434,
+          "title": "On Solano, Lulu’s revamps and a new Mexican restaurant opens; plus a fresh matcha option in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/LulusLittleKitchen.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=551354",
           "author": "Felicia Mello",
           "description": "Dozens of scientists, including some from Cal, left their labs and headed to Sacramento last week to defend their work studying disease treatments, resilience to extreme heat and more.",
@@ -9099,16 +9119,6 @@
           "wordCount": 2853,
           "title": "Why desire — not resilience — leads to longevity",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.6.25-Nightcrawler_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/",
-          "author": "Ethan Siegel",
-          "description": "No matter how advanced our civilization here on Earth becomes, there’s a sobering fact we have no choice but to reckon with: Earth’s resources are finite. That not only includes the resources we typically think of, like minerals, clean water, and breathable air, but also something even more fundamental and restrictive: land area. No matter how thoroughly we develop, there’s only a finite amount of land area to even potentially inhabit on our planet. Even if we built cities atop our existing cities, beneath them in subterranean passages, or floating atop the oceans, the fact is we’re living on a planet with a finite area and a finite volume, fundamentally limiting our ability to expand. \nEven if we develop floating cities, the finite surface area of planet Earth ensures that, beyond a certa…",
-          "link": "https://bigthink.com/starts-with-a-bang/terraforming-moon-mars/",
-          "publishedOn": "2025-11-06T07:00:00.000Z",
-          "wordCount": 3943,
-          "title": "Our first terraforming goal should be the Moon, not Mars",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/10/34614657983_26066212d8_k.jpg?resize=1200,630"
         }
       ]
     },
