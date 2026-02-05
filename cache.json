@@ -383,6 +383,46 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6984c787d227740001f128c7",
+          "author": "Matthew Gault",
+          "description": "‘If the maintainers of small projects give up, who will produce the next Linux?’",
+          "link": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/",
+          "publishedOn": "2026-02-05T16:47:04.000Z",
+          "wordCount": 1810,
+          "title": "Vibe Coding Is Killing Open Source Software, Researchers Argue",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/photo-1763568258388-25a20ddd8a95.jpeg"
+        },
+        {
+          "id": "6984c5e2d227740001f126d4",
+          "author": "Jason Koebler",
+          "description": "Elon Musk's political projects are combining into a highly concerning megacompany.",
+          "link": "https://www.404media.co/this-spacex-situation-not-good/",
+          "publishedOn": "2026-02-05T16:37:23.000Z",
+          "wordCount": 1768,
+          "title": "This SpaceX Situation: Not Good!",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-05-at-08.33.21@2x.png"
+        },
+        {
+          "id": "6984b645d227740001f10aa4",
+          "author": "Joseph Cox",
+          "description": "EpsteIn—as in, Epstein and LinkedIn—searches your connections on the social network for names that match those in the released files.",
+          "link": "https://www.404media.co/this-tool-searches-the-epstein-files-for-your-linkedin-contacts/",
+          "publishedOn": "2026-02-05T15:36:40.000Z",
+          "wordCount": 1408,
+          "title": "This Tool Searches the Epstein Files For Your LinkedIn Contacts",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/epstein-linkedin-1.png"
+        },
+        {
+          "id": "6984ae8bd227740001eedad5",
+          "author": "Jason Koebler",
+          "description": "In a kleptocracy, there is no reason for a billionaire to own an adversarial news outlet.",
+          "link": "https://www.404media.co/the-washington-post-is-no-longer-useful-to-jeff-bezos/",
+          "publishedOn": "2026-02-05T15:05:56.000Z",
+          "wordCount": 1892,
+          "title": "The Washington Post Is No Longer Useful to Jeff Bezos",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-05-at-07.03.48@2x.png"
+        },
+        {
           "id": "69836b18d227740001ee6fa5",
           "author": "Becky Ferreira",
           "description": "The discovery of a Medieval tunnel built within a prehistoric burial ground adds to the mystery of hundreds of underground passages without a known purpose.",
@@ -859,6 +899,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8367390",
+          "author": "Christian Britschgi",
+          "description": "Plus: the partial withdrawal of federal agents from Minneapolis, shifting public opinion on immigration, and D.C.'s continued snowpocalypse.",
+          "link": "https://reason.com/2026/02/05/this-job-sucks/",
+          "publishedOn": "2026-02-05T14:45:27.000Z",
+          "wordCount": null,
+          "title": "'This Job Sucks'",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8367285",
           "author": "Damon Root",
@@ -2203,6 +2254,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/society-needs-a-doctors-prescription-for-nature",
+          "author": "Oliver Milman",
+          "description": "The post Society Needs A Doctor’s Prescription For Nature appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/society-needs-a-doctors-prescription-for-nature",
+          "publishedOn": "2026-02-05T14:28:51.000Z",
+          "wordCount": 7920,
+          "title": "Society Needs A Doctor’s Prescription For Nature",
+          "imageUrl": "https://www.noemamag.com/wp-content/uploads/2026/02/Noema_Nature-1.png"
+        },
+        {
           "id": "https://www.noemamag.com/its-time-to-target-the-political-power-of-polluters",
           "author": "Jessica F. Green",
           "description": "The post It’s Time To Target The Political Power Of Polluters appeared first on NOEMA.",
@@ -2489,6 +2550,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551482",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include an orchestra playing Baroque music, a movie screening on Black Studies in the Bay Area and two Latin dance series.",
+          "link": "https://www.berkeleyside.org/2026/02/05/around-berkeley-black-history-walking-tour-friday-wine-charli-xcx-movie",
+          "publishedOn": "2026-02-05T13:33:00.000Z",
+          "wordCount": 8152,
+          "title": "Around Berkeley: Black History walking tour, Friday wine, Charli XCX movie",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/GilmanFirstFriday-2.jpg?fit=940%2C470&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551487",
           "author": "Alex N. Gecan and Zac Farber",
@@ -5837,16 +5908,6 @@
           "wordCount": 4827,
           "title": "Meera Sodha’s vegetarian recipe for mushroom egg foo yung over buttered rice | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/8f4fded2197cdd3bbe636d0c8dfb529c6f5f7a6b/256_1514_3421_2737/master/3421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5e39bc7ce3f9ac898a15fa066d60c2a"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/nov/08/massaman-tofu-and-potato-curry-with-rainbow-chard-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Cut corners, but not flavour, with this updated take on a hearty, vegan-friendly curry\nA confession: I have already written a recipe for massaman curry. But since that was published in 2018, I have had a baby, a breakdown, travelled back to Thailand and eaten more massaman curries, all events that have contributed to this new recipe. The old dish is delicious, but in 2025 I didn’t want to make a paste from scratch. Instead, I wanted the funk and soul that a ready-made curry paste could give me and to use that as a springboard to fly into dinner time. A shortcut on time and ingredients, yes, but not on fun and flavour.\nJoin Meera Sodha at a special event celebrating the best of Guardian culture on Wednesday 26 November, hosted by Nish Kumar and alongside writers Stuart Heritage and Tim Dowling, with Georgina Lawton hosting You Be The Judge live. Live in London or via livestream, book tickets here.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/nov/08/massaman-tofu-and-potato-curry-with-rainbow-chard-recipe-meera-sodha",
-          "publishedOn": "2025-11-08T06:00:59.000Z",
-          "wordCount": 4655,
-          "title": "Meera Sodha’s recipe for Massaman tofu and potato curry with rainbow chard | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/234189e40a3b9ddc7acf8dfd942bc38db9574418/0_12_2821_2255/master/2821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc55e42136b9b7d00808844d758815f"
         }
       ]
     },
@@ -6779,6 +6840,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/flow-world/",
+          "author": "Bill Burnett, Dave Evans",
+          "description": "Whether you’ve heard of flow before or not, most of us have had the experience of being in flow. We’ve all plunged so deeply into a task — polishing a must-win proposal, perfecting a loved one’s favorite dish, or hammering cross-court winners — that the world fades, our focus sharpens, and when we finally surface, we’re startled to see how many hours have slipped away. \nFlow was first formally defined in 1990 in the seminal book Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi (MEE-hy CHEEK-sent-mee-HAH- yee), the world-renowned researcher and cofounder with Martin Seligman of the field of positive psychology. This research describes flow as a psychological state in which an individual experiences some or all of the following:\nTotal immersion in what they are doing.\nTi…",
+          "link": "https://bigthink.com/books/flow-world/",
+          "publishedOn": "2026-02-05T15:30:00.000Z",
+          "wordCount": 2811,
+          "title": "The “flow world” shows us that meaning is about being present, not achievement",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Meaningful-Life_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/limits-of-rationalism/",
+          "author": "Dan Shipper",
+          "description": "Rationalism has shaped the way we think for thousands of years, teaching us that to truly know something, we must describe it explicitly, reduce it into rules, and test those rules repeatedly. But what if rationalism only tells half the story?\nEvery CEO Dan Shipper explores.\nThis video Thinking too logically can actually hold you back is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/limits-of-rationalism/",
+          "publishedOn": "2026-02-05T14:00:00.000Z",
+          "wordCount": 8592,
+          "title": "Thinking too logically can actually hold you back",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/C1-Web-Shipper.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/venus-brightest-most-extreme/",
           "author": "Ethan Siegel",
@@ -9459,6 +9540,36 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/faqs-for-this-weekends-bad-bunny-concert-featuring-football",
+          "author": "Carlos Greaves",
+          "description": "What time is kickoff?\n The Bad Bunny concert kicks off around 8:00 or 8:30 p.m., but there will be pre-concert entertainment starting at 6:30 p.m. from one group called the “New England Patriots” and another called the “Seattle Seahawks.”\n Will I still be able to enjoy the Bad Bunny concert featuring football if I don’t know the rules?\n Yes. Besides, the rules are simple. When Bad Bunny says “¡Canta!” you sing. When Bad Bunny says “¡Baila!” you dance.\n Is there any terminology I should brush up on in order to better appreciate the Bad Bunny concert featuring football?\n While not strictly necessary, it doesn’t hurt to know a few basic terms, like “fumble” (what most white people in the audience will do to the Spanish words they’re trying to sing), or “stiff arm” (what you will likely wake u…",
+          "link": "https://www.mcsweeneys.net/articles/faqs-for-this-weekends-bad-bunny-concert-featuring-football",
+          "publishedOn": "2026-02-05T18:00:00.000Z",
+          "wordCount": 2364,
+          "title": "FAQs for This Weekend’s Bad Bunny Concert Featuring Football",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ugckkzv66msyvs1pbwxi1f0w0yf8"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-7-eleven-japanese-style-egg-salad-sandwich",
+          "author": "Dan Hass",
+          "description": "At long last, the legendary 7-Eleven Japanese-style egg salad sandwich has landed in the USA. A creation on par with Tamagotchi and the rice cooker. Praised and craved by American tourists, teenage weebs, and coworkers who take any opportunity to bring up their recent trip to Tokyo.\n This anticipated sando is the latest in a tradition of “Americanizing” beloved Japanese classics. But does it hold up to the hype?\n Kibōteki kansoku.\n Some things translate well from Japanese to English. Pokémon. Instant noodles. Marie Kondo. Godzilla.\n Some things translate… less well. Benihana. Karaoke. The 1998 Godzilla reboot starring Matthew Broderick.\n Then, there’s the 7-Eleven Japanese-Style Egg Salad Sandwich.\n Something easily translatable—in theory. In practice, it’s like watching an anime with wonk…",
+          "link": "https://www.mcsweeneys.net/articles/the-7-eleven-japanese-style-egg-salad-sandwich",
+          "publishedOn": "2026-02-05T13:00:00.000Z",
+          "wordCount": 2391,
+          "title": "Reviews of New Food: The 7-Eleven Japanese-Style Egg Salad Sandwich",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zwvwjw4j56vj9s64tx86pulrsosq"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-am-a-baby-staring-at-you-from-between-two-airplane-seats-and-i-know-when-you-are-going-to-die",
+          "author": "Layne Dixon",
+          "description": "Look upon me, for I am the baby staring at you from the hollow gap betwixt two airplane seats, and I know when you are going to die.\n Do not turn away from my stare. To look away is to ignore, and to ignore is to rob yourself of knowledge. Gaze into the deep well of my light-sensitive eyes and follow the icy blue to the truth you inherently seek. The truth that we all seek. You claim that fear forbids you from finding this truth, but fear is the slop we gobble from the trough. Hear me now.\n Goo Goo\n You are going to die.\n Gaa Gaa\n Does this shock you? Make you feel vulnerable? Endangered? Impuissant? SHAKE OFF YOUR SENSE OF SINGULARITY AND ENTITLEMENT, EARTH PEASANT.\n [Blows a spit bubble.]\n We are all marching towards death, whether it be step by step or a mad rush. Your imminent end does…",
+          "link": "https://www.mcsweeneys.net/articles/i-am-a-baby-staring-at-you-from-between-two-airplane-seats-and-i-know-when-you-are-going-to-die",
+          "publishedOn": "2026-02-05T13:00:00.000Z",
+          "wordCount": 2608,
+          "title": "I Am a Baby Staring at You from Between Two Airplane Seats, and I Know When You Are Going to Die",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/jpllreu1wi0gioyvv6gevf01bu1f"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/just-because-i-hung-out-in-the-cannibal-kings-murder-basement-it-does-not-make-me-a-murderous-cannibal",
           "author": "Sara Tabin",
