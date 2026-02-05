@@ -2146,6 +2146,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=73068",
+          "author": "Stephen Wolfram",
+          "description": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there?” has always been seen as a fundamental—if thorny—question for philosophy, or perhaps […]",
+          "link": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+          "publishedOn": "2026-02-04T20:24:57.000Z",
+          "wordCount": 11860,
+          "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/02/blog-metaphysics-social.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=71843",
           "author": "Stephen Wolfram",
           "description": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has been made even on the rather coarse (though […]",
@@ -2489,6 +2499,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551447",
+          "author": "Vanessa Arredondo",
+          "description": "Four children, ages 4 and 5, left Cragmont's after-school program unattended in two separate incidents last year, parents and BUSD say.",
+          "link": "https://www.berkeleyside.org/2026/02/04/cragmont-elementary-after-school-children-walkoff-safety",
+          "publishedOn": "2026-02-04T23:42:47.000Z",
+          "wordCount": 9075,
+          "title": "After little kids wandered off campus, this Berkeley Hills school may put up a fence",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/IMG_3280-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551441",
+          "author": "Cecilia Seiter",
+          "description": "Yes, real love is out there. Try finding it at one of these nine East Bay restaurants and bars.",
+          "link": "https://www.berkeleyside.org/2026/02/04/east-bay-best-singles-bars-restaurants",
+          "publishedOn": "2026-02-04T20:35:35.000Z",
+          "wordCount": 8317,
+          "title": "Searching for a Valentine? East Bay spots where sparks fly for singles",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CLIOS-EntryStairs-2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=550953",
           "author": "Local sponsor",
@@ -6756,16 +6786,6 @@
           "wordCount": 2003,
           "title": "@thebeachesband is here with a crucial reminder: It’s always summer somewhere. 🏖️⁠⁠",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EiOiWE8p-IE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EiOiWE8p-IE",
-          "publishedOn": "2025-11-07T10:00:18.000Z",
-          "wordCount": null,
-          "title": "Nova Twins: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9063,16 +9083,6 @@
           "wordCount": 3115,
           "title": "How Rainn Wilson discovered sacredness",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Wilson.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/",
-          "author": "Ethan Siegel",
-          "description": "Here in our Universe, we have many different species of energy populating the spacetime we inhabit. There’s matter: both normal matter and dark matter, in all the forms they can take, from plasmas to stars to black holes to diffuse, fluffy haloes. There’s dark energy: a mysterious form of energy that appears to be inherent to the fabric of space itself, consistent with Einstein’s cosmological constant. And there’s also radiation: like photons of all different wavelengths and neutrinos when they move nearly at the speed of light. But gravitational waves, even though they aren’t represented by any component of the Standard Model of elementary particles, also exist in our Universe, and also behave as a form of radiation: an inherently gravitational one.\nOriginally theorized by Einstein way ba…",
-          "link": "https://bigthink.com/starts-with-a-bang/weber-bars-detect-gravitational-waves/",
-          "publishedOn": "2025-11-07T07:00:00.000Z",
-          "wordCount": 4458,
-          "title": "Ask Ethan: Can Weber bars detect gravitational waves?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/09/ezgif-1-5724458878.gif?w=498&h=280&crop=1"
         }
       ]
     },
