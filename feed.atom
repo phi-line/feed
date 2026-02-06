@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-06T06:20:04.646Z</updated>
+    <updated>2026-02-06T12:12:47.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How long can the longest-lived star shine?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/longest-lived-star-shine/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/longest-lived-star-shine/"/>
+        <updated>2026-02-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If there’s one thing we can be certain of when we look out at the glittering canopy of the night sky, it’s this: that someday, all of those luminous points of light, including every star and every galaxy, will someday fade away and cease to shine. The stars and stellar remnants, the primary sources of light and heat and energy that propagate throughout the Universe, are only powered by finite sources of fuel: whether through nuclear fusion, gravitation, or any other mechanism. At some point, those fuel sources will be exhausted, no further energy will be naturally extracted from what remains within them, and those once-brilliant objects will fade away into darkness. Some stars live only briefly, others will continue to shine long into the future, with lifetimes far exceeding our Universe’s…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the search for alien life is about patience, not belief]]></title>
         <id>https://bigthink.com/series/full-interview/seti-jill-tarter/</id>
