@@ -2583,6 +2583,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=551558",
+          "author": "Berkeleyside Staff",
+          "description": "Also: The East Bay musical duo who crooned about heat pumps a few years ago have a new video set in the Berkeley Rose Garden.",
+          "link": "https://www.berkeleyside.org/2026/02/05/the-wire-pedestrian-struck-by-driver-in-southwest-berkeley-cals-new-venture-fund-starts-raising-money",
+          "publishedOn": "2026-02-06T01:15:00.000Z",
+          "wordCount": 7227,
+          "title": "The Wire: Pedestrian struck by driver in Southwest Berkeley; Cal’s new venture fund starts raising money",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/07/large-FTX-Nov-16-2022_FIeld-at-California-Memorial-Stadium.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551559",
+          "author": "Felicia Mello",
+          "description": "The Multicultural Community Center closed last summer after complaints of political signs that Chancellor Rich Lyons said made some on campus “feel threatened.”",
+          "link": "https://www.berkeleyside.org/2026/02/05/uc-berkeley-multicultural-community-center",
+          "publishedOn": "2026-02-06T00:44:40.000Z",
+          "wordCount": 7383,
+          "title": "UC Berkeley will reopen multicultural center that it abruptly closed last year",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Screenshot-2026-02-05-at-4.00.09-PM.png"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=551501",
           "author": "Alix Wall",
           "description": "Madeline Schapiro, known online as Bean Supporter, says beans have solved her health issues. Her over 70,000 social media followers eat up all the bean propaganda she can dish out.",
@@ -6883,6 +6903,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/series/full-interview/seti-jill-tarter/",
+          "author": "Jill Tarter",
+          "description": "Jill Tarter has spent a lifetime working on a question that resists answers: not whether we believe there is life beyond Earth, but the quest for undeniable proof. \nTarter explains why SETI is really about technology, patience, and learning how to tell alien signals from our own.\nThis video Why the search for alien life is about patience, not belief is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/seti-jill-tarter/",
+          "publishedOn": "2026-02-06T05:00:00.000Z",
+          "wordCount": 18916,
+          "title": "Why the search for alien life is about patience, not belief",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Screenshot-2026-02-05-at-2.10.05-PM.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/mini-philosophy/which-of-the-5-philosophical-archetypes-best-describes-you/",
           "author": "Jonny Thomson",
           "description": "We are all philosophers. I don’t mean this in the “What do you make of Quine’s ‘Two Dogmas’?” sense. No, we are all philosophers in that we all do philosophy.\nPhilosophy is a practice of wonder and logic; curiosity and introspection; dialectic and meditation; criticism and advocacy. We all do some of these things, some of the time. We all philosophize, but we do so in different ways.\nSo, without any empirical rigor whatsoever — another favorite characteristic of philosophy — I present here five different ways to be a philosopher. Of course, this isn’t definitive. Of course, this isn’t universal. It’s just an inductive hypothesis based on my reading of thousands of philosophical texts. It’s a playful heuristic to question our own questioning — an “aide-philosophie.”\nWhich philosophical arch…",
@@ -9181,16 +9211,6 @@
           "wordCount": 2498,
           "title": "How the “meter” came to be exactly one meter long",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/meter-hero-siredef-site-by-kelly-irvine-nist-2mb.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-123-alien-physics/",
-          "author": "Ethan Siegel",
-          "description": "One of the great discoveries to be made out there in the grand scheme of things is alien life: the first detection of life that originated, survives, and continues to live beyond our own home planet of Earth. An even grander goal that many of us have, including scientists and laypersons alike, is to find not just life, but an example of intelligent extraterrestrials: aliens that are capable of interstellar communication, interstellar travel, or even of meeting us, physically, on our own planet. It’s a fascinating dream that has been with humanity since we first began contemplating the stars and planets beyond our own world.\n\n\n\nMost of us, including me, personally, have assumed that this latter type of alien would not only be more technologically advanced than we are, but would also be far more scientifically advanced as well. That not only would they understand everything we presently do about the fundamental laws of physics, but far more: that they’d be a potential source of new knowledge for us, having equaled or exceeded everything we’d already gleaned from our investigative endeavors. And that assumption, as compelling as it might be, could be completely in error, argues physicist and author Dr. Daniel Whiteson.\n\n\n\nThat’s why I’m so pleased to bring you this latest episode of the Starts With A Bang podcast, where Daniel and I meet to discuss this very topic, with me taking the side of my own human-centered assumptions and Daniel taking a far more broad, philosophical, and cosmic approach: the same approach he takes in his new book, Do Aliens Speak Physics? And Other Questions About Science and the Nature of Reality. Have a listen to this fascinating conversation, see which set of arguments you find more compelling, and check out his book. You won’t be disappointed!\nThis article Starts With A Bang podcast #123 – Alien physics is featured on Big Think.",
-          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-123-alien-physics/",
-          "publishedOn": "2025-11-08T16:32:10.000Z",
-          "wordCount": 1531,
-          "title": "Starts With A Bang podcast #123 – Alien physics",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/alienphys.jpg?resize=1200,630"
         }
       ]
     },
