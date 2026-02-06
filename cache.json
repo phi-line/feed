@@ -383,6 +383,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69850d0bd227740001f14364",
+          "author": "Samantha Cole",
+          "description": "While Epstein’s victims endure the fallout of their photos and names being exposed in the Department of Justice’s latest tranche of files, investigators redacted a photo of the Mona Lisa. Now we know why.",
+          "link": "https://www.404media.co/the-doj-redacted-a-photo-of-the-mona-lisa-in-the-epstein-files/",
+          "publishedOn": "2026-02-05T21:40:42.000Z",
+          "wordCount": 1330,
+          "title": "The DOJ Redacted a Photo of the Mona Lisa in the Epstein Files",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/monalisaepstein.png"
+        },
+        {
           "id": "6984c787d227740001f128c7",
           "author": "Matthew Gault",
           "description": "‘If the maintainers of small projects give up, who will produce the next Linux?’",
@@ -899,6 +909,28 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8367412",
+          "author": "Jacob Sullum",
+          "description": "The federal case against the former CNN anchor hinges on conduct that can plausibly be viewed as part of a journalist's work, combined with the obvious partiality of that work.",
+          "link": "https://reason.com/2026/02/05/don-lemon-may-be-a-hack-but-that-does-not-make-him-a-felon/",
+          "publishedOn": "2026-02-05T22:15:41.000Z",
+          "wordCount": null,
+          "title": "Don Lemon May Be a Hack, but That Does Not Make Him a Felon",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8367458",
+          "author": "Autumn Billings",
+          "description": "Cooperation may get more ICE agents off the street, but it could make it harder for the state to enforce its laws.",
+          "link": "https://reason.com/2026/02/05/trumps-border-czar-tom-homan-demands-local-minnesota-jails-cooperate-with-ice/",
+          "publishedOn": "2026-02-05T21:48:04.000Z",
+          "wordCount": null,
+          "title": "Trump's Border Czar Tom Homan Demands Local Minnesota Jails Cooperate with ICE",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8367390",
           "author": "Christian Britschgi",
@@ -2550,6 +2582,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551501",
+          "author": "Alix Wall",
+          "description": "Madeline Schapiro, known online as Bean Supporter, says beans have solved her health issues. Her over 70,000 social media followers eat up all the bean propaganda she can dish out.",
+          "link": "https://www.berkeleyside.org/2026/02/05/bean-supporter-madeline-schapiro",
+          "publishedOn": "2026-02-05T20:00:00.000Z",
+          "wordCount": 9065,
+          "title": "Can it with the flatulence jokes! Berkeley’s No. 1 bean fan spreads legume gospel on happy stomach",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Bean-Supporter-07.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551482",
           "author": "Karen Nguyen Vo and Andrew Gilbert",
@@ -6840,6 +6882,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/which-of-the-5-philosophical-archetypes-best-describes-you/",
+          "author": "Jonny Thomson",
+          "description": "We are all philosophers. I don’t mean this in the “What do you make of Quine’s ‘Two Dogmas’?” sense. No, we are all philosophers in that we all do philosophy.\nPhilosophy is a practice of wonder and logic; curiosity and introspection; dialectic and meditation; criticism and advocacy. We all do some of these things, some of the time. We all philosophize, but we do so in different ways.\nSo, without any empirical rigor whatsoever — another favorite characteristic of philosophy — I present here five different ways to be a philosopher. Of course, this isn’t definitive. Of course, this isn’t universal. It’s just an inductive hypothesis based on my reading of thousands of philosophical texts. It’s a playful heuristic to question our own questioning — an “aide-philosophie.”\nWhich philosophical arch…",
+          "link": "https://bigthink.com/mini-philosophy/which-of-the-5-philosophical-archetypes-best-describes-you/",
+          "publishedOn": "2026-02-05T21:36:35.000Z",
+          "wordCount": 2801,
+          "title": "Which of the 5 philosophical archetypes best describes you?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/5-philosophical-types_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/flow-world/",
           "author": "Bill Burnett, Dave Evans",
