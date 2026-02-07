@@ -1883,6 +1883,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3204/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3204/",
+          "publishedOn": "2026-02-06T05:00:00.000Z",
+          "wordCount": 189,
+          "title": "Dinosaurs And Non-Dinosaurs",
+          "imageUrl": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3203/",
           "author": null,
           "description": "",
@@ -2633,6 +2643,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551674",
+          "author": "Alex N. Gecan",
+          "description": "Two men took plea deals for the shooting that killed 29-year-old divinity student and youth pastor Isamaeli “Eli” Mata’afa and wounded three others.",
+          "link": "https://www.berkeleyside.org/2026/02/06/eli-mataafa-killing-plea-deal-sentences-michael-monrroy-ramos-andy-gutierres-rebollo",
+          "publishedOn": "2026-02-06T21:58:11.000Z",
+          "wordCount": 7929,
+          "title": "‘That love never dies’: 2 sentenced in 2022 killing of divinity student on Telegraph Avenue",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Vigil-for-Eli-Mata-afa-in-San-Rafael-Chruch.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551667",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/02/06/alamedas-coffee-cultures-and-uzen-in-rockridge-shutter-and-more-recent-closures",
+          "publishedOn": "2026-02-06T20:38:11.000Z",
+          "wordCount": 7240,
+          "title": "Alameda’s Coffee Cultures and Uzen in Rockridge shutter, and more recent closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CoffeeCultures-Alameda.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551416",
           "author": "Cecilia Seiter and Momo Chang",
