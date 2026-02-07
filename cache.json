@@ -393,6 +393,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69862d23e724d100016dce90",
+          "author": "Becky Ferreira",
+          "description": "“The question of whether humanity should reproduce beyond Earth is no longer hypothetical—it is a pressing ethical frontier,” researchers said.",
+          "link": "https://www.404media.co/as-space-tourism-looms-scientists-ask-should-we-have-sex-in-orbit/",
+          "publishedOn": "2026-02-07T14:00:21.000Z",
+          "wordCount": 2055,
+          "title": "As Space Tourism Looms, Scientists Ask: Should We Have Sex In Orbit?",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/image1.jpg"
+        },
+        {
           "id": "6986163ae724d100016dc9cc",
           "author": "Samantha Cole",
           "description": "This week, we discuss AI bubble hysteria, \"just go independent,\" and more.",
@@ -2261,16 +2271,6 @@
           "wordCount": 206,
           "title": "Car Size",
           "imageUrl": "https://imgs.xkcd.com/comics/car_size_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3166/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3166/",
-          "publishedOn": "2025-11-10T05:00:00.000Z",
-          "wordCount": 210,
-          "title": "Big and Little Spoons",
-          "imageUrl": "https://imgs.xkcd.com/comics/big_and_little_spoons_2x.png"
         }
       ]
     },
@@ -7024,6 +7024,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/books/how-the-dark-forest-theory-helps-us-understand-the-internet/",
+          "author": "Bogna Konior",
+          "description": "Beside their shared modern origins, of the many similarities between the internet and ufology, both concern communication: between humans, between humans and aliens, between humans and machines, between machines themselves. Communication concerns the known and the unknown, the impulsive and the intentional, and the sayable and the obscure, which cannot be put into words. On the surface, digital communication concerns signals, with humans, in the language of cybernetics, that function like nodes caught up in feedback loops across biotic and machinic networks. It happens at vast distances but also in immediate and visceral spaces, right in our minds, where other people, and increasingly also artificial agents, are experienced as stimuli.\nYet, in a more profound sense, digital communication a…",
+          "link": "https://bigthink.com/books/how-the-dark-forest-theory-helps-us-understand-the-internet/",
+          "publishedOn": "2026-02-07T13:00:00.000Z",
+          "wordCount": 2512,
+          "title": "How the “dark forest theory” helps us understand the internet",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/personal-branding-introverts_excerpt.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/books/life-lesson-chaos-theory/",
           "author": "Junaid Mubeen",
           "description": "The difficulty in predicting what happens in chaotic systems comes from how minute differences in inputs can become dramatic changes to the output, in what’s known as sensitivity to initial conditions. This is not an issue in classical Newtonian physics, where the regular movement of objects — planetary orbits, swinging pendulums, rolling balls — are easily predicted, even allowing for small changes to inputs.\nSensitivity to initial conditions is also known more commonly as the “butterfly effect,” which suggests the extreme possibility that a butterfly flapping its wings in the Amazonian jungle might cause a storm to rage across Europe some weeks later. I’m reminded of the idea every time I play a game of pool. What ostensibly appears to be a classical system — balls whizzing around the ta…",
@@ -9763,6 +9773,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/when-i-invited-all-of-you-over-to-watch-the-big-game-i-assumed-you-knew-i-was-talking-about-human-chess",
+          "author": "Luke Burns",
+          "description": "I don’t know why you’re all so upset. I’m sorry if there’s some “other event” that you were all more excited about that’s apparently also happening at the exact same time as this party, on the second Sunday in February at 6:30 p.m. But if you were confused by my invitation, that’s on you. I said that I was throwing a party to watch “the big game,” and I think any reasonable person would have understood that I was talking about watching a game of human chess.\n That’s right, human chess: thirty-two actors in elaborate, historically authentic costumes as the chess pieces, and two chess grandmasters controlling the action, all of which plays out on the giant chessboard I built in my backyard. Yes, if there’s something other than human chess that people call “the big game,” I’m simply not famil…",
+          "link": "https://www.mcsweeneys.net/articles/when-i-invited-all-of-you-over-to-watch-the-big-game-i-assumed-you-knew-i-was-talking-about-human-chess",
+          "publishedOn": "2026-02-06T18:00:00.000Z",
+          "wordCount": 2683,
+          "title": "When I Invited All of You Over to Watch “The Big Game,” I Assumed You Knew I Was Talking about Human Chess",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/t50x0yv6nowsdeudywo1i3mqi6dw"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/when-i-invited-all-of-you-over-to-watch-the-the-big-game-i-assumed-you-knew-i-was-talking-about-human-chess",
           "author": "Luke Burns",
