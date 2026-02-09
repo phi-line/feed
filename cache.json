@@ -383,6 +383,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698941dae724d1000175a485",
+          "author": "Jason Koebler",
+          "description": "WE BOUGHT A SUPER BOWL AD.",
+          "link": "https://www.404media.co/watch-404-medias-super-bowl-ad/",
+          "publishedOn": "2026-02-09T02:32:01.000Z",
+          "wordCount": 1397,
+          "title": "Watch 404 Media’s Super Bowl Ad",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-08-at-18.12.32@2x.png"
+        },
+        {
           "id": "69862d23e724d100016dce90",
           "author": "Becky Ferreira",
           "description": "“The question of whether humanity should reproduce beyond Earth is no longer hypothetical—it is a pressing ethical frontier,” researchers said.",
@@ -2292,16 +2302,6 @@
           "wordCount": 3010,
           "title": "Instant Supercompute: Launching Wolfram Compute Services",
           "imageUrl": "https://content.wolfram.com/sites/43/2025/11/sw11252025heroimg1.png"
-        },
-        {
-          "id": "https://writings.stephenwolfram.com/?p=71196",
-          "author": "Stephen Wolfram",
-          "description": "Towards a Theory of Bulk Orchestration It’s a key feature of living systems, perhaps even in some ways the key feature: that even right down to a molecular scale, things are orchestrated. Molecules (or at least large ones) don’t just move around randomly, like in a liquid or a gel. Instead, what molecular biology has […]",
-          "link": "https://writings.stephenwolfram.com/2025/11/whats-special-about-life-bulk-orchestration-and-the-rulial-ensemble-in-biology-and-beyond/",
-          "publishedOn": "2025-11-11T15:19:17.000Z",
-          "wordCount": 12100,
-          "title": "What’s Special about Life? Bulk Orchestration and the Rulial Ensemble in Biology and Beyond",
-          "imageUrl": "https://content.wolfram.com/sites/43/2025/11/sw11102025seoimg1.png"
         }
       ]
     },
@@ -2599,16 +2599,6 @@
           "wordCount": 10442,
           "title": "The Progress Paradox",
           "imageUrl": "https://noemamag.imgix.net/2025/11/Noema_Illustration_V2_13Nov25-1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=110aae933c1aeb573931512af3e40d7a"
-        },
-        {
-          "id": "https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine",
-          "author": "Kirsten Lie-Nielsen",
-          "description": "The post The Push To Get Invasive Crabs On The Menu In Maine appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-push-to-get-invasive-crabs-on-the-menu-in-maine",
-          "publishedOn": "2025-11-11T14:18:54.000Z",
-          "wordCount": 6464,
-          "title": "The Push To Get Invasive Crabs On The Menu In Maine",
-          "imageUrl": "https://noemamag.imgix.net/2025/11/Crabs-final-small.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=220a7f3fc118b7a353e9fff40262d5f3"
         }
       ]
     },
@@ -5601,16 +5591,6 @@
           "wordCount": 7601,
           "title": "Remembering Joan Bieder, 83, who broke ground in journalism",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Screen-Shot-2025-11-03-at-6.48.4.jpg?fit=1014%2C570&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=546648",
-          "author": "Tovin Lapan",
-          "description": "Enter your vote for 10 categories covering East Bay restaurants, bars, bakeries, cafes and more.",
-          "link": "https://www.berkeleyside.org/2025/11/11/east-bay-nosh-awards-restaurants-bars-vote",
-          "publishedOn": "2025-11-11T16:00:00.000Z",
-          "wordCount": 6916,
-          "title": "Vote now for the 2025 Nosh Awards",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/NoshAwards2025.jpg"
         }
       ]
     },
@@ -6838,26 +6818,6 @@
           "publishedOn": "2025-11-11T20:53:35.000Z",
           "wordCount": 2097,
           "title": "Breathless and expansive, @krisdavis9725 layered music is a mosaic of emotional expression. ✨️⁠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/tJ0BVpsG4pM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/tJ0BVpsG4pM",
-          "publishedOn": "2025-11-11T17:01:37.000Z",
-          "wordCount": 2069,
-          "title": "​@NovaTwinsMusic turns the expectation of what nice girls are supposed to play on its head.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/14NvrPENtmQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/14NvrPENtmQ",
-          "publishedOn": "2025-11-11T13:00:03.000Z",
-          "wordCount": 2195,
-          "title": "@DoobiesOfficial, now more than 50 years in, start this set with “Takin’ It to the Streets.”",
           "imageUrl": null
         }
       ]
@@ -9166,26 +9126,6 @@
           "wordCount": 3371,
           "title": "How chance and error shaped every living being on Earth",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Carroll.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/",
-          "author": "Dirk Schulze-Makuch",
-          "description": "Nearly 50 years ago, Klaus Biemann, a principal investigator for NASA’s Viking Mars landing mission, announced that, after careful study of data collected by the landers’ onboard instruments, they had detected no organic compounds on the Martian surface. The Viking science team issued a broad conclusion: Mars was lifeless.\nBut data from the life-detection experiments was ambiguous. In fact, three different Viking instruments — the Labelled Release experiment to test for metabolic processes; the Pyrolytic Release experiment to test for organic synthesis reactions, and the Gas Exchange experiment to measure exchange of gases that might be biological in origin — returned data that were hard for scientists to interpret at the time. \nGil Levin, principal investigator for the first of these, ins…",
-          "link": "https://bigthink.com/hard-science/how-a-scientific-mistake-from-the-1970s-derailed-mars-exploration/",
-          "publishedOn": "2025-11-11T15:30:00.000Z",
-          "wordCount": 1851,
-          "title": "How a scientific mistake from the 1970s derailed Mars exploration",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/derailed-mars-exploration_compressed.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/the-long-game/how-to-be-ambitious-without-losing-your-soul/",
-          "author": "Eric Markowitz",
-          "description": "There is often a thin line between drive and self-destruction. Scott Britton’s new book argues that true success is built on self-awareness, presence, and the courage to slow down.\nThe other morning, I was on a Zoom call with a CEO, trying to sound composed, when my four-year-old burst into the room demanding to know where her princess dress was. I glanced down at my to-do list — which never seems to get shorter — and noticed I still needed to book a trip to San Francisco.\nIn that moment, surrounded by chaos, I thought: I write a column called The Long Game. I’m supposed to be the guy who thinks in decades. In all candor, I’m usually just trying to make it to lunchtime.\nAnd maybe that’s why my conversation with Scott Britton hit home.\nA former tech founder turned spiritual adventurer, Scot…",
-          "link": "https://bigthink.com/the-long-game/how-to-be-ambitious-without-losing-your-soul/",
-          "publishedOn": "2025-11-11T14:00:00.000Z",
-          "wordCount": 4012,
-          "title": "How to be ambitious without losing your soul",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/ambition-without-losing-soul_compressed.jpg?resize=1200,630"
         }
       ]
     },
