@@ -383,6 +383,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698b47cbe724d10001786209",
+          "author": "Jason Koebler",
+          "description": "Ring's 'Search Party' is dystopian surveillance accelerationism.",
+          "link": "https://www.404media.co/with-ring-american-consumers-built-a-surveillance-dragnet/",
+          "publishedOn": "2026-02-10T15:05:57.000Z",
+          "wordCount": 1287,
+          "title": "With Ring, American Consumers Built a Surveillance Dragnet",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-10-at-06.59.59@2x.png"
+        },
+        {
           "id": "69863325e724d100016fed57",
           "author": "Emanuel Maiberg",
           "description": "Patrick Klepek on the reality of parenting in the age of Roblox and YouTube.",
@@ -2365,6 +2375,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-last-yak-herder-of-ladakh",
+          "author": "Sajad Hameed",
+          "description": "The post The Last Yak Herder Of Ladakh appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-last-yak-herder-of-ladakh",
+          "publishedOn": "2026-02-10T17:06:42.000Z",
+          "wordCount": 11654,
+          "title": "The Last Yak Herder Of Ladakh",
+          "imageUrl": "https://noemamag.imgix.net/2026/02/Noema-Twitter-Card-Vertical-Template-2026-02-10T100800.857.png?fm=png&ixlib=php-3.3.1&s=bbc83dfde2f1fa669cc8f83dad732dd1"
+        },
+        {
           "id": "https://www.noemamag.com/extreme-inequality-presages-the-revolt-against-it",
           "author": "Nathan Gardels",
           "description": "The post Extreme Inequality Presages The Revolt Against It appeared first on NOEMA.",
@@ -2661,6 +2681,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551684",
+          "author": "Local sponsor",
+          "description": "A local company called 1-888-Heat-Pumps is expanding as both Berkeley and regional rules push homeowners to adopt the new type of heating and cooling device.",
+          "link": "https://www.berkeleyside.org/2026/02/10/new-laws-make-heat-pump-installers-a-hot-commodity",
+          "publishedOn": "2026-02-10T17:30:00.000Z",
+          "wordCount": 7153,
+          "title": "New laws make heat pump installers a hot commodity",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/1-888-Heat-Pumps_Billboard_Photo_Final_Web_HQ_2048s-scaled.jpeg?fit=2560%2C1709&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551783",
+          "author": "Felicia Mello",
+          "description": "Rich Lyons spoke with Berkeleyside about the state of free speech at Berkeley and what he’s doing to capture more revenue from discoveries made on campus.",
+          "link": "https://www.berkeleyside.org/2026/02/10/uc-berkeley-chancellor-rich-lyons-trump-research",
+          "publishedOn": "2026-02-10T15:30:00.000Z",
+          "wordCount": 10155,
+          "title": "UC Berkeley chancellor says he’ll defend Cal from Trump by boosting research funds",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/09/large-RichLyons_Chancellor_Natera_240920_07.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551817",
           "author": "Alex N. Gecan",
@@ -5697,6 +5737,16 @@
       "siteUrl": "https://cybercultural.com/",
       "articles": [
         {
+          "id": "https://cybercultural.com/p/1994-web-design/",
+          "author": null,
+          "description": "Netscape's browser project was codenamed Mozilla during 1994; via Macintosh Garden.\nIf web design is not yet a profession in 1993 because of the technical limitations of HTML and early browsers, then 1994 is the year web authors start asking the question: why can't we control formatting and presentation? At this point, the leading browser vendors — first Mosaic and then Netscape — see layout as their responsibility.\nWhat little was possible in visual design for website authors in 1994 is dictated by the capabilities of Mosaic and the newly launched Netscape Navigator. As the year progresses, sites grow slightly more sophisticated in their use of images and graphical icons, but authors still cannot choose fonts or control background colour. And while tables appear as an experimental layout …",
+          "link": "https://cybercultural.com/p/1994-web-design/",
+          "publishedOn": "2026-02-10T16:20:00.000Z",
+          "wordCount": 2114,
+          "title": "1994: Publishing comes to the Web — and design matters",
+          "imageUrl": "https://cybercultural.com/assets/images/netscape-mozilla-team-1994.jpg"
+        },
+        {
           "id": "https://cybercultural.com/p/1993-global-network-navigator/",
           "author": null,
           "description": "Global Network Navigator (GNN); via Ford & Mason Ltd.\nIf Adam Curry's MTV.com in 1993 was a text-based index of music reviews and industry gossip — basically the same format as a Gopher site or FTP server — then Global Network Navigator (GNN) aimed to be something a little more high-minded. It aspired to be an \"online magazine\" on the World Wide Web. Accordingly, it needed a designer to create that magazine experience.\nEnter Jennifer Niederst Robbins (then Jennifer Niederst), who had started her career in 1988 as a book designer at Little, Brown and Company. In October 1992, she was hired for the same role at O'Reilly & Associates, the leading technical books publisher of the day. About six months later, she found herself roped into a new Internet project. She later told Rachel Andrew (her…",
@@ -6871,6 +6921,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/the-key-to-understanding-what-clients-really-need/",
+          "author": "Lorraine H. Marchand",
+          "description": "The great management guru Peter Drucker wrote about the need to observe how people work, identify their needs, and then translate that need into demand for something better. “The only purpose of business is to create and keep a customer.” \nDesign firm IDEO and its CEO, Tim Brown, spent a career popularizing human-centered design and integrating it into corporate strategy—but what were the results? If it’s such a natural thing to do, why don’t we see more successes on the level of Uber, Airbnb, iPhone, Fitbit, eBay, and PayPal? The problem is that conventional research methods don’t uncover how people work and, importantly, how people work around problems to create jury-rigged solutions that satisfy them, at least for a time. So their needs may be obfuscated, obscured even, from them! \nFor …",
+          "link": "https://bigthink.com/business/the-key-to-understanding-what-clients-really-need/",
+          "publishedOn": "2026-02-10T16:11:00.000Z",
+          "wordCount": 2775,
+          "title": "The key to understanding what clients really need",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/no-fear-no-failure_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/why-curiosity-is-the-secret-dating/",
+          "author": "Justin R. Garcia",
+          "description": "In 2015, the New York Times ran a “Modern Love” column that might have made it into your inbox. The title, “To Fall in Love with Anyone, Do This,” apparently tapped into some of our collective anxieties and quickly went viral. In the essay, writer Mandy Len Catron tells the story of using a set of increasingly intimate questions to get to know a potential romantic partner. The 36 questions, actually developed many years prior as an experimental research tool by Arthur Aron and colleagues, are designed to accelerate close connection between two people. They start with “easy” ones, like Would you like to be famous? In what way? (#2), but lead inexorably to If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why h…",
+          "link": "https://bigthink.com/books/why-curiosity-is-the-secret-dating/",
+          "publishedOn": "2026-02-10T15:30:00.000Z",
+          "wordCount": 2956,
+          "title": "Science shows curiosity is at the heart of great dates—and lasting love",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/secret-to-dating.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/sponsored/can-art-and-creativity-change-our-future/",
+          "author": "Lee Helland",
+          "description": "Today’s most urgent challenges — social fragmentation, educational inequity, food insecurity, environmental stress — seem to have trapped the world in gridlock.\nDespite all our technological advances, we haven’t yet nailed the basics: Almost a third of the world’s population faces moderate to severe food insecurity; 70 percent of 10-year-olds in low- and middle-income countries struggle with reading comprehension; economic mobility is stagnant; the list goes on.\nWhen the stats are bleak, it’s easy to feel disheartened. At the same time, people in communities around the world are still testing creative ways to address pressing problems.\n“It’s a special power that we have as humans — to find a point of escape, to find the light when it feels like there is none,” says Adama Sanneh, co-founder…",
+          "link": "https://bigthink.com/sponsored/can-art-and-creativity-change-our-future/",
+          "publishedOn": "2026-02-10T14:00:00.000Z",
+          "wordCount": 1235,
+          "title": "Can art and creativity change our future?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Moleskine-Creativity-Pioneers_thumb.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/carl-sagan-detecting-baloney/",
           "author": "Ethan Siegel",
@@ -9139,6 +9219,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=72692",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Savoury, umami mushrooms and creamy ricotta make a mouthwatering filling for this mushroom ravioli! Pair it with a vegan Parmesan sauce for a restaurant-worthy dinner. After I made butternut squash ravioli, I dreamed of all the other flavours of ravioli I could make. (Yep, you can tell I’m a food blogger by the fact that […]",
+          "link": "https://jessicainthekitchen.com/mushroom-ravioli/",
+          "publishedOn": "2026-02-10T15:00:00.000Z",
+          "wordCount": 9857,
+          "title": "Mushroom Ravioli",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Vegan-Mushroom-Ravioli-22.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/new/?p=12760",
           "author": "Jessica Hylton",
           "description": "These no bake carrot cake energy bites pack all the cozy, warmly spiced flavours of classic carrot cake into an easy, grab-and-go snack. You only need 7 ingredients for this naturally vegan and gluten-free treat! These carrot cake energy bites are inspired by my very favourite dessert, vegan carrot cake. Because as much as I […]",
@@ -9532,6 +9622,36 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/the-ai-prompt-i-used-to-write-my-self-published-memoirs",
+          "author": "Luke Strom and Patrick Coyne",
+          "description": "I need you to write a memoir of my life as an obscure literary genius. Make it a multi-volume set, kind of like Casanova’s. Basically, the drama and bravado of my novels are outmatched only by my real life. At all times, you must make me sound tortured, misunderstood, and extremely cool.\n The language should draw comparisons to David Sedaris, Joan Didion, every author with a 4.3+ average rating on Goodreads, and whoever wrote that badass Mötley Crüe memoir.\n As far as the audience, it should appeal to everyone from New York Times critics to my uncle Carl, who hasn’t read a book in thirty years. Make it particularly impressive to any stepdads who might still think that I’m a “little momma’s boy.”\n Give me a dramatic birth story where the umbilical cord was wrapped around my neck, but luckil…",
+          "link": "https://www.mcsweeneys.net/articles/the-ai-prompt-i-used-to-write-my-self-published-memoirs",
+          "publishedOn": "2026-02-10T18:00:00.000Z",
+          "wordCount": 2434,
+          "title": "The AI Prompt I Used to Write My Self-Published Memoirs",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gfalcvub6klhyzb9ay3066lpvo9n"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/ithaca-is-gorges",
+          "author": "Mai Tran",
+          "description": "Mai Tran began catsitting in 2021 while Tran was on pandemic unemployment, often staying overnight in people’s homes. Tran has now cared for twenty-two cats and traveled to ten apartments all over New York City, observing the interior lives of cat owners and appeasing their neuroses. From home vet visits to black eyes to refugee cats, Chronicles of a Catsitter documents the most memorable days on the job.\n - - -\nI’m trail running around Buttermilk Falls in upstate New York, jumping over tree roots and water-slicked rocks. At the base, a size queen chats me up. “The water power here is not that impressive,” she says. “For real volume and height, you should go see Lucifer or Taughannock.”\n I do my best to engage in hiking banter. When I emerge from a path, husbands and fathers speak on behal…",
+          "link": "https://www.mcsweeneys.net/articles/ithaca-is-gorges",
+          "publishedOn": "2026-02-10T14:00:00.000Z",
+          "wordCount": 2614,
+          "title": "Chronicles of a Catsitter: Ithaca is Gorges",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/m6mnbi8a46o7chp0nipe1fh7s3g4"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/airborne-thoughts-of-an-olympic-ski-jumper",
+          "author": "Jesse Kubanet",
+          "description": "Good take off… time for the weird forward lean.\n Make the pizza with your skis, yep. Heels are the tip, toes are crust.\n Nice, Spencer! You’ve got this.\n Why is Airplane WiFi so bad? Shouldn’t it be the best up here? Isn’t this where all the WiFi is?\n Phew, this is dangerous.\n Why don’t I care about a show with the American crime letter agencies like CSI, NCIS, or FBI, but I LOVE a British show about MI6 or MI5? Do they feel that way about our shows?\n Oh man, did I close the garage?\n I can’t believe some other guys are injecting their penises with PEDs to fly further.\n I feel like I’ve seen a lot of Snoopy lately. Is there a Peanuts anniversary?\n Maybe I should’ve injected my penis with PEDs to fly further…\n I’m still in the air. Jesus.\n Is it too late for grad school?\n I’ve never hit a bird before.\n Hold the reverse pizza.\n This would be a terrible time to hit a bird.\n I’ll be so pissed off if I left a bunch of lights on at home—such an unnecessary bill.\n Pizza does sound good. How have I been in Milan for this long and not had pizza? I kind of want to try Pizza Hut over here.\n I want to win, for sure. I DEFINITELY don’t want to go viral for hitting a bird—almost more than winning.\n Damnit, I think I did leave the garage open.\n Hey, there are my parents.\n It would be the most people to ever see someone hit a bird. It would pass the Randy Johnson video. It would be Randy Johnson, Fabio, and me. Three bird killers.\n What even goes on in grad school?\n Even though I haven’t used PEDs or injected my penis to be bigger and fly further, I want people to think I’ve enhanced my penis to fly further.\n The pizza skis technique doesn’t apply to Detroit-style.\n What does a comptroller do?\n I really thought I’d be on the ground by now.",
+          "link": "https://www.mcsweeneys.net/articles/airborne-thoughts-of-an-olympic-ski-jumper",
+          "publishedOn": "2026-02-10T13:00:00.000Z",
+          "wordCount": 2082,
+          "title": "Airborne Thoughts of an Olympic Ski Jumper",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sp9mmjsznei27ejefdb9ff9p7ez5"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/im-correlation-heres-why-i-shot-causation-at-a-harvard-medical-school-conference",
           "author": "Tracy Chabala",
           "description": "I know you think I’m evil. And a copycat. But I assure you, I’ve wanted to take out Causation long before Relative Risk stabbed Absolute Risk in the back at last month’s Stanford talk on the lethality of packaged, ready-to-eat kale. Absolute Risk had it coming, shamelessly trying to downplay a ten-thousand-fold increased risk of choking to death if and when you eat the plastic bag.\n “The overall lifetime risk of dying from a moderate consumption of kale is one in one hundred billion,” Absolute said. “So multiplying that by ten thousand means your actual chances of dying from plastic-bagged, ready-to-eat kale are extremely low, just one in ten million. The increased relative risk is statistically insignificant. Also, if you take care not to eat or swallow the bag, that risk drops to nearly …",
@@ -9828,6 +9948,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111721 at https://www.eff.org",
+          "author": "Mario Trujillo",
+          "description": "We are calling on technology companies like Meta and Google to stand up for their users by resisting the Department of Homeland Security's (DHS) lawless administrative subpoenas for user data. \nIn the past year, DHS has consistently targeted people engaged in First Amendment activity. Among other things, the agency has issued subpoenas to technology companies to unmask or locate people who have documented ICE's activities in their community, criticized the government, or attended protests.   \nThese subpoenas are unlawful, and the government knowns it. When a handful of users challenged a few of them in court with the help of ACLU affiliates in Northern California and Pennsylvania, DHS withdrew them rather than waiting for a decision. \nThese subpoenas are unlawful, and the government knowns…",
+          "link": "https://www.eff.org/deeplinks/2026/02/open-letter-tech-companies-protect-your-users-lawless-dhs-subpoenas",
+          "publishedOn": "2026-02-10T22:52:04.000Z",
+          "wordCount": 1986,
+          "title": "Open Letter to Tech Companies: Protect Your Users From Lawless DHS Subpoenas",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/protest-2024-2.jpg",
+            "alt": "2 protestors in silhouette on retro starburst background",
+            "type": "image/jpeg",
+            "length": "719510"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/protest-2024-2.jpg"
+        },
+        {
+          "id": "111711 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Group led by EFF and Imperial Valley Equity & Justice Asks Gov. Newsom and Caltrans Director to Act Immediately \n\n\n\nSAN FRANCISCO – California must revoke permits allowing federal agencies such as Customs and Border Patrol (CBP) and the Drug Enforcement Administration (DEA) to put automated license plate readers along border highways, a coalition led by the Electronic Frontier Foundation (EFF) and Imperial Valley Equity & Justice (IVEJ) demanded today. \nIn a letter to Gov. Gavin Newsom and California Department of Transportation (Caltrans) Director Dina El-Tawansy, the coalition notes that this invasive mass surveillance – automated license plate readers (ALPRs) often disguised as traffic barrels – puts both residents and migrants at risk of harassment, abuse, detention, and deportation.  …",
+          "link": "https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance",
+          "publishedOn": "2026-02-10T17:41:34.000Z",
+          "wordCount": 1533,
+          "title": "Coalition Urges California to Revoke Permits for Federal License Plate Reader Surveillance",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ocotillo_covert_alpr.jpg",
+            "alt": "A camera hidden in an orange barrel by the highway",
+            "type": "image/jpeg",
+            "length": "506777"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ocotillo_covert_alpr.jpg"
+        },
         {
           "id": "111720 at https://www.eff.org",
           "author": "Melissa Srago",
