@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-10T06:27:39.938Z</updated>
+    <updated>2026-02-10T12:20:01.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Geese: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=uhbpMCZTe8c</id>
+        <link href="https://www.youtube.com/watch?v=uhbpMCZTe8c"/>
+        <updated>2026-02-10T10:01:22.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carl Sagan’s 9 timeless lessons for detecting baloney]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/carl-sagan-detecting-baloney/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/carl-sagan-detecting-baloney/"/>
+        <updated>2026-02-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The more informed we are, the more successful we’ll be in our decision-making endeavors. That’s only true up to a point: it’s only true if the information we’ve acquired is accurate and truthful. Making good decisions doesn’t merely rely on how much information we take in, it also depends on the quality of that information. If what we’ve instead ingested and accepted is misinformation or disinformation — incorrect information that doesn’t align with factual reality — then we not only become susceptible to grift and fraud ourselves, but we risk having our minds captured by charismatic charlatans. When that occurs, we can lose everything: money, trust, relationships, and even our mental independence.
+This isn’t a problem that’s new here in 2026; this is a problem as old as humanity itself. W…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[City Council fires head of Berkeley’s civilian police oversight office]]></title>
         <id>https://www.berkeleyside.org/?p=551817</id>
@@ -10397,48 +10417,6 @@ And yet, when we saw the first neutron…]]></summary>
         <summary type="html"><![CDATA[A modest mathematical framing of language]]></summary>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several inches of rain could pound Berkeley this week]]></title>
-        <id>https://www.berkeleyside.org/?p=547293</id>
-        <link href="https://www.berkeleyside.org/2025/11/12/berkeley-forecast-wind-rain-national-weather-service"/>
-        <updated>2025-11-12T23:41:02.000Z</updated>
-        <summary type="html"><![CDATA[The East Bay will deal with winds gusting over 40 mph Thursday, which could bring down tree limbs and power lines, according to the National Weather Service.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To become wiser, society must relearn how to fail]]></title>
-        <id>https://bigthink.com/mini-philosophy/to-become-wiser-society-must-relearn-how-to-fail/</id>
-        <link href="https://bigthink.com/mini-philosophy/to-become-wiser-society-must-relearn-how-to-fail/"/>
-        <updated>2025-11-12T22:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Philosophers often like to talk about “emergence,” a process where various discrete items come together to form something entirely new. It’s when a new property, a new object, or a new perspective emerges from the sum of the parts. We often talk differently about the emergent property than the individual elements. For example, we talk about a traffic jam differently than the cars that make it up.
-One key question is: To what extent should we view society as an emergent property? In some ways, “society” has its own flow. It can create money, make laws, and shape collective behavior. When people compare a state’s budget to a household, it’s disingenuous — the state is not a parent with a credit card. Talking about society is often different from talking about individuals.
-In this week’s Mini…]]></summary>
-        <author>
-            <name>Jonny Thomson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cupcakes on the move, Comfort Collective takes over Couchdate, and a new addition to Walnut Creek nightlife]]></title>
-        <id>https://www.berkeleyside.org/?p=547248</id>
-        <link href="https://www.berkeleyside.org/2025/11/12/comfort-collective-james-giant-cupcake-stereo-41"/>
-        <updated>2025-11-12T20:18:55.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justice Department to investigate UC Berkeley after clashes at Turning Point event]]></title>
-        <id>https://www.berkeleyside.org/?p=547229</id>
-        <link href="https://www.berkeleyside.org/2025/11/12/tpusa-uc-berkeley-protests"/>
-        <updated>2025-11-12T19:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Anti-fascist protesters fought with attendees at the event, held two months after founder Charlie Kirk's assassination, and four people were arrested. Berkeley's mayor said police handled incidents "quickly and appropriately."]]></summary>
-        <author>
-            <name>Azul Dahlstrom-Eckman, Alex N. Gecan and Zac Farber</name>
         </author>
     </entry>
     <entry>
