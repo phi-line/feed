@@ -393,6 +393,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69863325e724d100016fed57",
+          "author": "Emanuel Maiberg",
+          "description": "Patrick Klepek on the reality of parenting in the age of Roblox and YouTube.",
+          "link": "https://www.404media.co/the-screen-time-panic-sets-parents-up-to-fail/",
+          "publishedOn": "2026-02-09T19:52:58.000Z",
+          "wordCount": 1100,
+          "title": "The Screen Time Panic Sets Parents Up to Fail",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/A--60-Mod-to-Meta---s-Ray-Bans-Disables-Its-Privacy-Protecting-Recording-Light--1-.png"
+        },
+        {
           "id": "6989f3a1e724d1000177ea67",
           "author": "Samantha Cole",
           "description": "Chatbots provided incorrect, conflicting medical advice, researchers found: “Despite all the hype, AI just isn't ready to take on the role of the physician.”",
@@ -2633,6 +2643,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551721",
+          "author": "Sharon Goldfarb, Christine Wenrich, Kandea Gandhi and Linda Carothers",
+          "description": "The resignation last month of two members of the city's civilian police oversight board should alarm everyone in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/02/09/berkeley-police-accountability-board-resignations",
+          "publishedOn": "2026-02-09T22:30:00.000Z",
+          "wordCount": 7339,
+          "title": "Berkeley is defying the will of voters to hold police accountable",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png?fit=720%2C480&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551759",
+          "author": "Madeline Taub",
+          "description": "Nosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.",
+          "link": "https://www.berkeleyside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants",
+          "publishedOn": "2026-02-09T21:00:00.000Z",
+          "wordCount": 8085,
+          "title": "7 East Bay desserts to share with your sweetie this Valentine’s Day",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/ChocolateDragon-ChocBreadPudding-3.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551681",
           "author": "Cecilia Seiter and Momo Chang",
@@ -5637,16 +5667,6 @@
           "wordCount": 7463,
           "title": "Berkeleyside ended comments. Readers said they could see why",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP22278412101213.jpg?fit=1024%2C683&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547061",
-          "author": "Alix Wall",
-          "description": "She helped grow the broadcast track of UC Berkeley’s Graduate School of Journalism, influencing many in the field.",
-          "link": "https://www.berkeleyside.org/2025/11/12/joan-bieder",
-          "publishedOn": "2025-11-12T12:00:00.000Z",
-          "wordCount": 7601,
-          "title": "Remembering Joan Bieder, 83, who broke ground in journalism",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Screen-Shot-2025-11-03-at-6.48.4.jpg?fit=1014%2C570&ssl=1"
         }
       ]
     },
@@ -9172,16 +9192,6 @@
           "wordCount": 1810,
           "title": "What’s more real: time itself, or your perception of it?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/UC-BB-Time-Web-C.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/devious-trick-sensational-science-headlines/",
-          "author": "Ethan Siegel",
-          "description": "It happens all over the internet and news media every day: a new scientific study, making an extraordinary-if-true claim, gets elevated to prominence. You’ve probably seen many just over the past month, including:\nclaims that classical gravity produces quantum entanglement,\nclaims that interstellar comet 3I/ATLAS is likely evidence for aliens,\nand claims that the supernova data has been misinterpreted and the Universe is slowing down, not accelerating.\nNone of these things are true, of course, despite the assertions of the researchers who originated these claims. But unless you’re a scientist yourself — and, in particular, a scientist well-versed in these aspects of physics and astronomy — it’s not readily apparent where these claims have gone wrong.\nIn fact, there’s actually a simple form…",
-          "link": "https://bigthink.com/starts-with-a-bang/devious-trick-sensational-science-headlines/",
-          "publishedOn": "2025-11-12T07:00:00.000Z",
-          "wordCount": 4631,
-          "title": "The devious trick behind the most sensational science headlines",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Cosmic_Fireworks_in_Ultraviolet_Eta_Carinae_Nebula.jpg?resize=1200,630"
         }
       ]
     },
@@ -9890,6 +9900,96 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111720 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Flock contracts have quietly spread to cities across the country. But Flock ALPR (Automated License Plate Readers) erode civil liberties from the moment they're installed. While officials claim these cameras keep neighborhoods safe, the evidence tells a different story. The data reveals how Flock has enabled surveillance of people seeking abortions, protesters exercising First Amendment rights, and communities targeted by discriminatory policing.\nThis is exactly why cities are saying no. From Austin to Cambridge to small towns across Texas, jurisdictions are rejecting Flock contracts altogether, proving that surveillance isn't inevitable—it's a choice.\nJoin EFF's Sarah Hamid and Andrew Crocker along with Reem Suleiman from Fight for the Future and Kate Bertash from Rural Privacy Coalition …",
+          "link": "https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city",
+          "publishedOn": "2026-02-09T22:31:43.000Z",
+          "wordCount": 1192,
+          "title": "EFFecting Change: Get the Flock Out of Our City",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effecting_change_banner_flock_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "290469"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effecting_change_banner_flock_0.png"
+        },
+        {
+          "id": "111719 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Site Banner: \n\n\n\n\nMobile Site Banner: \n\n\n\n\nLink: \n\nEFFecting Change: Get the Flock Out of Our City on February 19\n\n\nMobile Link: \n\nEFFecting Change: Get the Flock Out of Our City on February 19\n\n\nBanner Text: \n\nEFFecting Change: Get the Flock Out of Our City on February 19\n\n\nMobile Banner Text: \n\nEFFecting Change: Get the Flock Out of Our City on February 19",
+          "link": "https://www.eff.org/node/111719",
+          "publishedOn": "2026-02-09T22:28:01.000Z",
+          "wordCount": 597,
+          "title": "EFFecting Change Site Banner 2.19.26",
+          "imageUrl": "https://www.eff.org/files/eff-og.png"
+        },
+        {
+          "id": "111718 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information.\nYelp hosts millions of reviews written by internet users about local businesses. Most reviews are positive, but over the years, some businesses have tried to pressure Yelp to remove negative reviews, including through legal threats. Since its founding more than two decades ago, Yelp has fought major legal battles to defend reviewers’ rights and preserve the legal protections t…",
+          "link": "https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews",
+          "publishedOn": "2026-02-09T22:23:33.000Z",
+          "wordCount": 1859,
+          "title": "The Internet Still Works: Yelp Protects Consumer Reviews",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-banner-schur.png",
+            "alt": "cartoon of a figure holding a megaphone for another + photo of Aaron Schur",
+            "type": "image/png",
+            "length": "687571"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-banner-schur.png"
+        },
+        {
+          "id": "111716 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information. \nA decade ago, Wikimedia Foundation, the nonprofit that operates Wikipedia, received 304 requests to alter or remove content over a two-year period, not including copyright complaints. In 2024 alone, it received 664 such takedown requests. Only four were granted. As complaints over user speech have grown, Wikimedia has expanded its legal team to defend the volunteer editors wh…",
+          "link": "https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors",
+          "publishedOn": "2026-02-09T21:53:24.000Z",
+          "wordCount": 1964,
+          "title": "The Internet Still Works: Wikipedia Defends Its Editors",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-banner-rogers.png",
+            "alt": "cartoon of a figure holding a megaphone for another + photo of Jacob Rogers",
+            "type": "image/png",
+            "length": "298104"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-banner-rogers.png"
+        },
+        {
+          "id": "111713 at https://www.eff.org",
+          "author": "Aaron Mackey",
+          "description": "For thirty years, internet users have benefited from a key federal law that allows everyone to express themselves, find community, organize politically, and participate in society. Section 230, which protects internet users’ speech by protecting the online intermediaries we rely on, is the legal support that sustains the internet as we know it.\nYet as Section 230 turns 30 this week, there are bipartisan proposals in Congress to either repeal or sunset the law. These proposals seize upon legitimate concerns with the harmful and anti-competitive practices of the largest tech companies, but then misdirect that anger toward Section 230.\nBut rolling back or eliminating Section 230 will not stop invasive corporate surveillance that harms all internet users. Killing Section 230 won’t end to the d…",
+          "link": "https://www.eff.org/deeplinks/2026/02/its-30th-birthday-section-230-remains-lynchpin-users-speech",
+          "publishedOn": "2026-02-09T18:53:50.000Z",
+          "wordCount": 2186,
+          "title": "On Its 30th Birthday, Section 230 Remains The Lynchpin For Users’ Speech",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-3.png",
+            "alt": "A person holding a megaphone that another person speaks through",
+            "type": "image/png",
+            "length": "22142"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-3.png"
+        },
+        {
+          "id": "111712 at https://www.eff.org",
+          "author": "Cindy Cohn",
+          "description": "We are sad to report the passing of longtime EFF Board member, Dave Farber. Dave was 91 and lived in Tokyo from age 83, where he was the Distinguished Professor at Keio University and Co-Director of the Keio Cyber Civilization Research Center (CCRC).  Known as the Grandfather of the Internet, Dave made countless contributions to the internet, both directly and through his support for generations of students.  \nDave was the longest-serving EFF Board member, having joined in the early 1990s, before the creation of the World Wide Web or the widespread adoption of the internet.  Throughout the growth of the internet and the corresponding growth of EFF, Dave remained a consistent, thoughtful, and steady presence on our Board.  Dave always gave us credibility as well as ballast.  He seemed to know and be respected by everyone who had helped build the internet, having worked with or mentored too many of them to count.  He also had an encyclopedic knowledge of the internet's technical history. \n\nFrom the beginning, Dave saw both the promise and the danger to human rights that would come with the spread of the internet around the world. He committed to helping make sure that the rights and liberties of users and developers, especially the open source community, were protected. He never wavered in that commitment.  Ever the teacher, Dave was also a clear explainer of internet technologies and basically unflappable.  \nDave also managed the Interesting People email list, which provided news and connection for so many internet pioneers and served as model for how people from disparate corners of the world could engage in a rolling conversation about all things digital.  His role as the Chief Technologist at the U.S. Federal Communications Commission from 2000 to 2001 gave him a strong perspective on the ways that government could help or hinder civil liberties in the digital world. \nWe will miss his calm, thoughtful voice, both inside EFF and out in the world. May his memory be a blessing.",
+          "link": "https://www.eff.org/deeplinks/2026/02/rip-dave-farber-eff-board-member-and-friend",
+          "publishedOn": "2026-02-09T18:48:41.000Z",
+          "wordCount": 905,
+          "title": "RIP Dave Farber, EFF Board Member and Friend",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/dave-farber-1d.jpg",
+            "alt": "Dave Farber, photo public domain via Wikimedia Commons",
+            "type": "image/jpeg",
+            "length": "165773"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/dave-farber-1d.jpg"
+        },
         {
           "id": "111706 at https://www.eff.org",
           "author": "David Greene",
