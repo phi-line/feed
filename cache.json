@@ -383,6 +383,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698ba6c346e7dc0001442d92",
+          "author": "Jason Koebler",
+          "description": "Realfood.gov will happily give you the worst possible advice.",
+          "link": "https://www.404media.co/rfk-jrs-nutrition-chatbot-recommends-best-foods-to-insert-into-your-rectum/",
+          "publishedOn": "2026-02-10T21:49:09.000Z",
+          "wordCount": 1330,
+          "title": "RFK Jr's Nutrition Chatbot Recommends Best Foods to Insert Into Your Rectum",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-10-at-13.09.55@2x.png"
+        },
+        {
+          "id": "698b865de724d100017ac7ae",
+          "author": "Jason Koebler",
+          "description": "\"Employees are going absolutely apeshit in internal Slack about how completely awful it was.\"",
+          "link": "https://www.404media.co/marc-benioff-jokes-ice-is-watching-salesforce-employees-who-traveled-to-the-u-s/",
+          "publishedOn": "2026-02-10T19:31:51.000Z",
+          "wordCount": 1215,
+          "title": "Marc Benioff 'Jokes' ICE Is Watching Salesforce Employees Who Traveled to the U.S.",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-10-at-11.26.09@2x.png"
+        },
+        {
           "id": "698b47cbe724d10001786209",
           "author": "Jason Koebler",
           "description": "Ring's 'Search Party' is dystopian surveillance accelerationism.",
@@ -2681,6 +2701,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551914",
+          "author": "Momo Chang",
+          "description": "Her regional Mexican fare attracted national accolades and international visitors to her backyard patio. Now, Elvira Varela is ready to open her first brick-and-mortar restaurant.",
+          "link": "https://www.berkeleyside.org/2026/02/10/cenaduria-elvira-jack-london-square-jalisco-tostadas",
+          "publishedOn": "2026-02-10T21:22:49.000Z",
+          "wordCount": 8760,
+          "title": "Oakland’s famous tostada is back. Cenaduria Elvira is opening near Jack London Square",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-20260123_CenaduriaElvira_EG_16.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551684",
           "author": "Local sponsor",
@@ -5884,6 +5914,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=95324",
+          "author": "deb",
+          "description": "Nevertheless, this is not a story of the woes of life in a place where the safety of a single pipe affects… everybody. No, this is about cooking, naturally, and how we managed in the (thankfully?) only four months in which my kitchen was not functioning as a so-called professional kitchen should. [Let’s pretend for editorial sake that my kitchen ever functions as a professional kitchen should.] Because while I might have kept my experience of this chapter of my cooking life offline forever — too niche! — I’ve recently received emails from two different people, one whose building is experiencing the same elsewhere in the city, and one who is about to undertake a kitchen renovation and both wanted advice on how a cook might cook when deprived of their galley. And I’m incapable of not answering a good question.\nRead more »",
+          "link": "https://smittenkitchen.com/2026/02/miso-chicken-and-rice/",
+          "publishedOn": "2026-02-10T20:18:02.000Z",
+          "wordCount": 5801,
+          "title": "miso chicken and rice",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/02/miso-chicken-and-rice-10-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=95129",
           "author": "deb",
           "description": "2026 cooking bucket list.\nRead more »",
@@ -6241,21 +6281,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/roam/casey-horner-4rDCa5hBlCs-unsplash.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
-          "author": null,
-          "description": "A modest mathematical framing of language",
-          "link": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-11-13T06:54:50.000Z",
-          "wordCount": 8266,
-          "title": "Linear Algebra Explains Why Some Words Are Effectively Untranslatable",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable/vackground-com-7K1_uSnNoy4-unsplash.jpg"
         }
       ]
     },
@@ -6902,16 +6927,6 @@
           "publishedOn": "2025-11-17T10:01:28.000Z",
           "wordCount": null,
           "title": "Ghost-Note: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x_KlY-AegeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x_KlY-AegeE",
-          "publishedOn": "2025-11-13T10:01:42.000Z",
-          "wordCount": null,
-          "title": "Pulp: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -9200,16 +9215,6 @@
           "wordCount": 2740,
           "title": "The enduring value of a notebook and “long thinking”",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.13.25-nightcrawler_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
-          "author": "Ethan Siegel",
-          "description": "There’s an important rule in relativity that — as far as we know — all objects must obey. If you have no rest mass as you travel through the vacuum of space, you absolutely are compelled to travel exactly at the speed of light. This is exactly true for all massless particles, like photons and gluons, approximately true for particles whose mass is tiny compared to their kinetic energy, like neutrinos, and should also be exactly true for the massless ripples in spacetime created by purely gravitational effects: gravitational waves. Irrespective of whether gravity itself is inherently quantum in nature, the speed of gravity must be exactly equal to the speed of light. At least, that’s a necessity if we assume that our current laws of physics are correct.\nAnd yet, when we saw the first neutron…",
-          "link": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
-          "publishedOn": "2025-11-13T07:00:00.000Z",
-          "wordCount": 4030,
-          "title": "Light and gravity travel at the same speed, but don’t arrive together",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/GWB190425-e1698259196133.jpg?resize=1200,630"
         }
       ]
     },
@@ -9965,6 +9970,22 @@
           "imageUrl": "https://www.eff.org/files/banner_library/protest-2024-2.jpg"
         },
         {
+          "id": "111729 at https://www.eff.org",
+          "author": "Beryl Lipton",
+          "description": "Amazon Ring’s Super Bowl ad offered a vision of our streets that should leave every person unsettled about the company’s goals for disintegrating our privacy in public.\nIn the ad, disguised as a heartfelt effort to reunite the lost dogs of the country with their innocent owners, the company previewed future surveillance of our streets: a world where biometric identification could be unleashed from consumer devices to identify, track, and locate anything — human, pet, and otherwise.\nThe ad for Ring’s “Search Party” feature highlighted the doorbell camera’s ability to scan footage across Ring devices in a neighborhood, using AI analysis to identify potential canine matches among the many personal devices within the network. \nAmazon Ring already integrates biometric identification, like face …",
+          "link": "https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0",
+          "publishedOn": "2026-02-10T21:11:04.000Z",
+          "wordCount": 1875,
+          "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ring_banner.png",
+            "alt": "The shadow of a police officer looms in front of a Ring device on a closed door.",
+            "type": "image/png",
+            "length": "82172"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ring_banner.png"
+        },
+        {
           "id": "111711 at https://www.eff.org",
           "author": "Josh Richman",
           "description": "Group led by EFF and Imperial Valley Equity & Justice Asks Gov. Newsom and Caltrans Director to Act Immediately \n\n\n\nSAN FRANCISCO – California must revoke permits allowing federal agencies such as Customs and Border Patrol (CBP) and the Drug Enforcement Administration (DEA) to put automated license plate readers along border highways, a coalition led by the Electronic Frontier Foundation (EFF) and Imperial Valley Equity & Justice (IVEJ) demanded today. \nIn a letter to Gov. Gavin Newsom and California Department of Transportation (Caltrans) Director Dina El-Tawansy, the coalition notes that this invasive mass surveillance – automated license plate readers (ALPRs) often disguised as traffic barrels – puts both residents and migrants at risk of harassment, abuse, detention, and deportation.  …",
@@ -9979,6 +10000,38 @@
             "length": "506777"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/ocotillo_covert_alpr.jpg"
+        },
+        {
+          "id": "111727 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "Interviewer: Jillian York\nYazan Badran is an assistant professor in international media and communication studies at the Vrije Universiteit Brussel, and a researcher at the Echo research group. His research focuses on the intersection between media, journalism and politics particularly in the MENA region and within its exilic and diasporic communities. \n*This interview has been edited for length and clarity. \nJillian York: What does free speech or free expression mean to you?\nYazan Badran: So I think there are a couple of layers to that question. There's a narrow conception of free speech that is related to, of course, your ability to think about the world.\nAnd that also depends on having the resources to be able to think about the world, to having resources of understanding about the worl…",
+          "link": "https://www.eff.org/deeplinks/2026/02/speaking-freely-yazan-badran",
+          "publishedOn": "2026-02-10T17:39:20.000Z",
+          "wordCount": 5213,
+          "title": "Speaking Freely: Yazan Badran",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-yazan-blogogbanner_0.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "407352"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-yazan-blogogbanner_0.jpg"
+        },
+        {
+          "id": "111726 at https://www.eff.org",
+          "author": "Haley Pedersen",
+          "description": "Interviewer: Jillian York\nYazan Badran is an assistant professor in international media and communication studies at the Vrije Universiteit Brussel, and a researcher at the Echo research group. His research focuses on the intersection between media, journalism and politics particularly in the MENA region and within its exilic and diasporic communities. \n*This interview has been edited for length and clarity. \nJillian York: What does free speech or free expression mean to you?\nYazan Badran: So I think there are a couple of layers to that question. There's a narrow conception of free speech that is related to, of course, your ability to think about the world.\nAnd that also depends on having the resources to be able to think about the world, to having resources of understanding about the worl…",
+          "link": "https://www.eff.org/pages/speaking-freely-yazan-badran",
+          "publishedOn": "2026-02-10T17:30:54.000Z",
+          "wordCount": 5213,
+          "title": "Speaking Freely: Yazan Badran",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-yazan-blogogbanner.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "407352"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-yazan-blogogbanner.jpg"
         },
         {
           "id": "111720 at https://www.eff.org",
