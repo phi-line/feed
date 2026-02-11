@@ -23,6 +23,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=158834",
+          "author": "Charlie Wood",
+          "description": "We describe electricity as a flow, but that’s not what happens in a typical wire. Physicists have begun to induce electrons to act like fluids, an effort that could illuminate new ways of thinking about quantum systems.            \nThe post Physicists Make Electrons Flow Like Water first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
+          "publishedOn": "2026-02-11T15:00:10.000Z",
+          "wordCount": 3030,
+          "title": "Physicists Make Electrons Flow Like Water",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/02/Flowing-Electrons-cr-Myriam-Wares-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=158775",
           "author": "Amber Dance",
           "description": "Machine learning is helping neuroscientists organize vast quantities of cells’ genetic data in the latest neurobiological cartography effort.            \nThe post Fed on Reams of Cell Data, AI Maps New Neighborhoods in the Brain first appeared on Quanta Magazine",
@@ -371,6 +381,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "698cc33689867e000110a156",
+          "author": "Jason Koebler",
+          "description": "A Kafkaesque saga in which the government has failed to produce critical video footage has reached new levels of absurdity.",
+          "link": "https://www.404media.co/government-loses-hard-drives-it-was-supposed-to-put-ice-detention-center-footage-on/",
+          "publishedOn": "2026-02-11T18:06:01.000Z",
+          "wordCount": 2145,
+          "title": "Government Loses Hard Drives It Was Supposed to Put ICE Detention Center Footage On",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-11-at-10.04.09@2x.png"
+        },
+        {
+          "id": "698cb10289867e000110958a",
+          "author": "Becky Ferreira",
+          "description": "A new study indicates that vast oceans of hydrogen are locked deep inside our planet, helping to explain a strange “density deficit” and shedding light on the origin of life.",
+          "link": "https://www.404media.co/a-mystery-inside-earths-core-has-finally-been-solved-with-a-mind-boggling-discovery/",
+          "publishedOn": "2026-02-11T16:42:11.000Z",
+          "wordCount": 1515,
+          "title": "A Mystery Inside Earth’s Core Has Finally Been Solved With a Mind-Boggling Discovery",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/epic_1b_20240408160250.png"
+        },
+        {
+          "id": "698c8e987d51b700019c9b7f",
+          "author": "Samantha Cole",
+          "description": "Kylie Brewer isn't unaccustomed to harassment online. But when people started using Grok-generated nudes of her on an OnlyFans account, it reached another level.",
+          "link": "https://www.404media.co/grok-nudify-ai-images-impersonation-onlyfans/",
+          "publishedOn": "2026-02-11T15:16:39.000Z",
+          "wordCount": 2241,
+          "title": "'The Most Dejected I’ve Ever Felt:' Harassers Made Nude AI Images of Her, Then Started an OnlyFans",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/kylie.png"
+        },
+        {
+          "id": "698c894d7d51b700019c99e9",
+          "author": "Joseph Cox",
+          "description": "Ring is back with a feature for scanning your neighborhood; we bought a Super Bowl ad; and how Lockdown Mode stopped the FBI.",
+          "link": "https://www.404media.co/podcast-ring-is-back-and-scarier-than-ever/",
+          "publishedOn": "2026-02-11T14:00:18.000Z",
+          "wordCount": 1132,
+          "title": "Podcast: Ring Is Back and Scarier Than Ever",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/Ring-Is-Back-and-Scarier-Than-Ever--3-.png"
+        },
         {
           "id": "698ba6c346e7dc0001442d92",
           "author": "Jason Koebler",
@@ -988,6 +1038,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8368092",
+          "author": "Elizabeth Nolan Brown",
+          "description": "The way people are misconstruing this prostitution sting mirrors the way ICE tries to mislead us about deportation stings.",
+          "link": "https://reason.com/2026/02/11/a-viral-story-claims-an-ice-worker-was-caught-in-a-child-sex-trafficking-sting-the-truth-is-much-stranger/",
+          "publishedOn": "2026-02-11T16:45:29.000Z",
+          "wordCount": null,
+          "title": "A Viral Story Claims an ICE Worker Was Caught in a Child Sex Trafficking Sting. The Truth Is Much Stranger.",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?post_type=podcast&p=8367879",
           "author": "Peter Suderman",
@@ -2302,16 +2363,6 @@
           "wordCount": 204,
           "title": "EPIRBs",
           "imageUrl": "https://imgs.xkcd.com/comics/epirbs_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3168/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3168/",
-          "publishedOn": "2025-11-14T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Beam Dump",
-          "imageUrl": "https://imgs.xkcd.com/comics/beam_dump_2x.png"
         }
       ]
     },
@@ -2664,6 +2715,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=550291",
+          "author": "Kate Darby Rauch",
+          "description": "Michael O’Reilley and Linda Feldman, both former Alameda County public defenders, said “I do” in a sunlit ceremony Saturday inside The Ivy on Dwight Way.",
+          "link": "https://www.berkeleyside.org/2026/02/11/alzheimers-disease-wedding-proposal-marriage",
+          "publishedOn": "2026-02-11T16:00:29.000Z",
+          "wordCount": 8916,
+          "title": "He proposed, forgetting they were already married. So they wed again at his Berkeley memory care home",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-The-Ivy-wedding-04.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551873",
+          "author": "Andrew Gilbert",
+          "description": "The party moved its headquarters to South Berkeley in the late 1960s, a chapter recounted in the exhibit on view at the Central Library.",
+          "link": "https://www.berkeleyside.org/2026/02/11/black-panthers-60th-anniversary-berkeley-library-exhibit",
+          "publishedOn": "2026-02-11T14:00:00.000Z",
+          "wordCount": 8320,
+          "title": "As the Black Panthers turn 60, a new exhibit spotlights their Berkeley ties",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/1-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551895",
+          "author": "Sandy Horwich, Blair Fullerton and Bob Schildgen",
+          "description": "Fullerton was an educator, editor and progressive activist who worked on Ron Dellums' first Congressional campaign and tutored students locally, including at King Middle School.",
+          "link": "https://www.berkeleyside.org/2026/02/11/remembering-michael-fullerton-a-longtime-editor-of-berkeley-co-ops-weekly-newspaper",
+          "publishedOn": "2026-02-11T13:00:00.000Z",
+          "wordCount": 8439,
+          "title": "Remembering Michael Fullerton, a longtime editor of Berkeley Co-op’s weekly newspaper",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/for-top-photo-Michael-2015-Point-Reyes-Station-scaled.jpeg?fit=2560%2C1920&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=468992",
           "author": "Jose Fermoso and David Mills",
@@ -5628,16 +5709,6 @@
           "wordCount": 7475,
           "title": "A literacy intervention for kids in Alameda County’s juvenile justice system",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Juvenile-Detention.png?fit=1920%2C1080&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547354",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A new study shows a major earthquake could nearly wipe out the county's hospital beds. And a Berkley man has been charged with attempted murder after stabbing his father.",
-          "link": "https://www.berkeleyside.org/2025/11/13/the-wire-cal-students-arrested-for-cardboard-mosquito-art-prank-before-turning-point-event",
-          "publishedOn": "2025-11-14T01:15:00.000Z",
-          "wordCount": 7002,
-          "title": "The Wire: Cal students arrested for cardboard mosquito art prank before Turning Point event",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image-7.png?fit=776%2C500&ssl=1"
         }
       ]
     },
@@ -6849,6 +6920,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/golden-law-of-stupidity/",
+          "author": "Jonny Thomson",
+          "description": "We don’t often call people stupid. Unlike its sibling concepts of dumbness and idiocy, stupidity isn’t really a personality trait. Of course, you might think someone is stupid, but when we use the word, we tend to limit it to moments of stupidity. We say, “Well, that was a stupid thing to do” or “You’re being stupid.” Stupidity is a blip.\nIn fact, somewhat ironically, stupidity is often defined in contrast to otherwise normal and intelligent activities. We say “you’re being stupid” because we expect the person to be sensible otherwise.\nStupidity is not tied to IQ — as dumbness is — or the ability to assess risks — as being foolish is. Stupidity is an action, one defined by its implications. A Nobel Prize-winning professor can be stupid. A five-year-old can be stupid. We can all be stupid. …",
+          "link": "https://bigthink.com/mini-philosophy/golden-law-of-stupidity/",
+          "publishedOn": "2026-02-11T15:30:00.000Z",
+          "wordCount": 2449,
+          "title": "How to spot a stupid person with Carlo Cipolla’s “golden law of stupidity”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/golden-laws-stupidity_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/dying-sun-like-star-hubble/",
           "author": "Ethan Siegel",
@@ -9519,6 +9600,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-next-innovation-in-higher-education-vibe-teaching",
+          "author": "Ji Y. Son",
+          "description": "As the associate vice provost for the Office of Asynchronous Online Courses for Student-Centered High-Impact Learning (OAOCSCHIL, an office we created in the last few years after realizing how lucrative these things are), I want to address a growing concern on campus: the rumor that asynchronous online classes are “basically a scam.”\n I understand the confusion. Outsiders are quick to pass judgment on these courses stocked with hastily recorded video lectures from 2020, auto-graded multiple-choice quizzes, and reflection message boards that are now 87 percent bots talking to other bots. Because there are no scheduled meetings with professors or classmates, and grading consists of counting whether students clicked the correct buttons, the fact that we charge tuition for the privilege of par…",
+          "link": "https://www.mcsweeneys.net/articles/the-next-innovation-in-higher-education-vibe-teaching",
+          "publishedOn": "2026-02-11T18:00:00.000Z",
+          "wordCount": 2706,
+          "title": "The Next Innovation in Higher Education: Vibe-Teaching™",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3e3fam7qr0mc4yq94xuhcl840yc6"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/ask-mike-tyson-can-i-have-this-food-or-drink",
+          "author": "Stacey Curran",
+          "description": "A quart of ice cream every hour?\n No.\n Any processed food?\n No.\n What about the processed food advertised during the Super Bowl?\n No.\n Really? Not Pringles, or Dunkin’ Donuts, or the chips from the Lay’s commercial about the retiring farmer that made me cry?\n Still no.\n How about the beer for sale at the football stadium?\n No.\n Even the Budweiser from the ad with the eagle and horse, which looked like Pegasus, that made me cry?\n That is also a no from Mike Tyson.\n Anything fudgy that makes people feel fudgy?\n Definitely not.\n What about the single salty tear that runs down your face when you cry?\n No, the sodium content is too high.\n RFK Jr.’s new inverted food triangle ends the war on protein, but my doctor says to limit my cholesterol intake. Should I still consume more cheese, meat, and whole-fat milk?\n Yes! MAHA!\n So I can have cheese even if it’s processed?\n Yes. No. Trick question.\n What if RFK Jr. brings a hunk of meat to a Super Bowl party in his bare hands, and insists that fresh, raw protein is the best protein, and starts tearing the hunk of unidentified animal flesh into ribbons, gulping it down, and screaming that it tastes like chicken?\n No. Even Mike Tyson isn’t eating that.\n How about a very aggressively bitten carrot?\n Yes.\n A very aggressively bitten apple?\n Yes.\n A very aggressively bitten carrot or apple that you chew with your mouth open?\n Yes.\n What about a very aggressively bitten apple that you chew alongside a friend who is also aggressively biting and chewing an apple?\n Hell yes!\n A very aggressively bitten human ear?\n No comment.",
+          "link": "https://www.mcsweeneys.net/articles/ask-mike-tyson-can-i-have-this-food-or-drink",
+          "publishedOn": "2026-02-11T13:00:00.000Z",
+          "wordCount": 2130,
+          "title": "Ask Mike Tyson: Can I Have This Food or Drink?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3b8iywan0mrny5m7tc5uas7dr4n6"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/the-ai-prompt-i-used-to-write-my-self-published-memoirs",
           "author": "Luke Strom and Patrick Coyne",
