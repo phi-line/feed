@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-11T06:27:04.486Z</updated>
+    <updated>2026-02-11T12:18:27.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Last gasps of dying Sun-like star captured by Hubble]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/dying-sun-like-star-hubble/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/dying-sun-like-star-hubble/"/>
+        <updated>2026-02-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important lessons we learn from studying the Universe is that none of the sources of light that we see — none of the stars, galaxies, stellar remnants, quasars, or heated matter — will continue to shine forever. After a finite amount of time, anything powered by nuclear fusion or infalling matter will run out of fuel. Anything that emits light because it’s hot will cool, and once it’s cooled enough, it won’t emit detectable light signatures any longer: not only ultraviolet and visible light, but infrared, microwave, and even radio emissions will eventually cease. Every point-like and every extended light source, even though they shine brilliantly and ubiquitously today, will someday be snuffed out.
+For stars, there are three main fates that a star can have, all of which are…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BART releases doomsday scenario in case sales tax doesn’t pass]]></title>
         <id>https://oaklandside.org/?p=468992</id>
@@ -10540,46 +10551,6 @@ Even though Newton introduced G in the late 1600s, it wasn’t until 1798 that w
         <link href="https://www.berkeleyside.org/2025/11/13/the-wire-cal-students-arrested-for-cardboard-mosquito-art-prank-before-turning-point-event"/>
         <updated>2025-11-14T01:15:00.000Z</updated>
         <summary type="html"><![CDATA[Also: A new study shows a major earthquake could nearly wipe out the county's hospital beds. And a Berkley man has been charged with attempted murder after stabbing his father.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading Lolita in the Barracks]]></title>
-        <id>https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks</id>
-        <link href="https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks"/>
-        <updated>2025-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What does it take to turn South Korea's mandatory military service into a literary retreat?]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Road closures scheduled Sunday for Berkeley Half Marathon]]></title>
-        <id>https://www.berkeleyside.org/?p=547372</id>
-        <link href="https://www.berkeleyside.org/2025/11/13/2025-berkeley-half-marathon-10k-5k-road-closures"/>
-        <updated>2025-11-13T21:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Most of the major closures will affect foot, bike and vehicle traffic Sunday morning as thousands of runners race 5k, 10k and 13.1-mile distances.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Middle East Market adds cafe, solidifying its role as Berkeley’s Persian hub]]></title>
-        <id>https://www.berkeleyside.org/?p=547356</id>
-        <link href="https://www.berkeleyside.org/2025/11/13/middle-east-cafe-market-razavi"/>
-        <updated>2025-11-13T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Father and son Hossein and Amir Razavi took over the Middle East Market a decade ago, and recently expanded to open an adjacent restaurant.]]></summary>
-        <author>
-            <name>Anna Mindess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeleyside’s Alejandra Armstrong recognized as ‘unsung hero’ by SPJ NorCal]]></title>
-        <id>https://www.berkeleyside.org/?p=547254</id>
-        <link href="https://www.berkeleyside.org/2025/11/13/spj-excellence-in-journalism-awards-alejandra-armstrong-roselyn-romero-darwin-bondgraham"/>
-        <updated>2025-11-13T19:48:44.000Z</updated>
-        <summary type="html"><![CDATA[As audience engagement editor, Armstrong ensures reaching and serving readers is always top of mind. An Oaklandside interview with Pamela Price was also recognized with an award.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
         </author>

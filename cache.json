@@ -364,18 +364,7 @@
       "title": "Asterisk",
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
-      "articles": [
-        {
-          "id": "https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks",
-          "author": null,
-          "description": "What does it take to turn South Korea's mandatory military service into a literary retreat?",
-          "link": "https://asteriskmag.com/issues/12-books/reading-lolita-in-the-barracks",
-          "publishedOn": "2025-11-14T00:00:00.000Z",
-          "wordCount": 7142,
-          "title": "Reading Lolita in the Barracks",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "404 Media",
@@ -5649,36 +5638,6 @@
           "wordCount": 7002,
           "title": "The Wire: Cal students arrested for cardboard mosquito art prank before Turning Point event",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/image-7.png?fit=776%2C500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547372",
-          "author": "Alex N. Gecan",
-          "description": "Most of the major closures will affect foot, bike and vehicle traffic Sunday morning as thousands of runners race 5k, 10k and 13.1-mile distances.",
-          "link": "https://www.berkeleyside.org/2025/11/13/2025-berkeley-half-marathon-10k-5k-road-closures",
-          "publishedOn": "2025-11-13T21:43:15.000Z",
-          "wordCount": 7323,
-          "title": "Road closures scheduled Sunday for Berkeley Half Marathon",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/11/BerkeleyHalfMarathon-5.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547356",
-          "author": "Anna Mindess",
-          "description": "Father and son Hossein and Amir Razavi took over the Middle East Market a decade ago, and recently expanded to open an adjacent restaurant.",
-          "link": "https://www.berkeleyside.org/2025/11/13/middle-east-cafe-market-razavi",
-          "publishedOn": "2025-11-13T21:10:00.000Z",
-          "wordCount": 8060,
-          "title": "Middle East Market adds cafe, solidifying its role as Berkeley’s Persian hub",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Middle-East-Cafe-26.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547254",
-          "author": "Berkeleyside Staff",
-          "description": "As audience engagement editor, Armstrong ensures reaching and serving readers is always top of mind. An Oaklandside interview with Pamela Price was also recognized with an award.",
-          "link": "https://www.berkeleyside.org/2025/11/13/spj-excellence-in-journalism-awards-alejandra-armstrong-roselyn-romero-darwin-bondgraham",
-          "publishedOn": "2025-11-13T19:48:44.000Z",
-          "wordCount": 7354,
-          "title": "Berkeleyside’s Alejandra Armstrong recognized as ‘unsung hero’ by SPJ NorCal",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Cityside-Staff-Portraits.jpg"
         }
       ]
     },
@@ -6890,6 +6849,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/dying-sun-like-star-hubble/",
+          "author": "Ethan Siegel",
+          "description": "One of the most important lessons we learn from studying the Universe is that none of the sources of light that we see — none of the stars, galaxies, stellar remnants, quasars, or heated matter — will continue to shine forever. After a finite amount of time, anything powered by nuclear fusion or infalling matter will run out of fuel. Anything that emits light because it’s hot will cool, and once it’s cooled enough, it won’t emit detectable light signatures any longer: not only ultraviolet and visible light, but infrared, microwave, and even radio emissions will eventually cease. Every point-like and every extended light source, even though they shine brilliantly and ubiquitously today, will someday be snuffed out.\nFor stars, there are three main fates that a star can have, all of which are…",
+          "link": "https://bigthink.com/starts-with-a-bang/dying-sun-like-star-hubble/",
+          "publishedOn": "2026-02-11T07:00:00.000Z",
+          "wordCount": 5163,
+          "title": "Last gasps of dying Sun-like star captured by Hubble",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/odd_cover.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/the-key-to-understanding-what-clients-really-need/",
           "author": "Lorraine H. Marchand",
