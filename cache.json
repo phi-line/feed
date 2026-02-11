@@ -1899,22 +1899,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!clPn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8cea214-0016-486e-bce1-3f2b942c1e03_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/flagella",
-          "author": "Niko McCarty",
-          "description": "Advances in cryo-electron microscopy are revealing the molecular intricacies of cell movement.",
-          "link": "https://www.asimov.press/p/flagella",
-          "publishedOn": "2025-11-13T16:17:13.000Z",
-          "wordCount": null,
-          "title": "Animalcules and Their Motors",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/6d95a425-b69e-4fa5-9c4b-af07417c4d5e_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6d95a425-b69e-4fa5-9c4b-af07417c4d5e_2000x1260.jpeg"
         }
       ]
     },
@@ -2683,16 +2667,6 @@
           "wordCount": 2471,
           "title": "From Cinema To The Noematograph",
           "imageUrl": "https://noemamag.imgix.net/2025/11/V3.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=01b250a6588438df743d7d67a63b7c96"
-        },
-        {
-          "id": "https://www.noemamag.com/the-progress-paradox",
-          "author": "Matt Prewitt",
-          "description": "The post The Progress Paradox appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-progress-paradox",
-          "publishedOn": "2025-11-13T17:31:19.000Z",
-          "wordCount": 10442,
-          "title": "The Progress Paradox",
-          "imageUrl": "https://noemamag.imgix.net/2025/11/Noema_Illustration_V2_13Nov25-1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=110aae933c1aeb573931512af3e40d7a"
         }
       ]
     },
@@ -2701,6 +2675,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=468992",
+          "author": "Jose Fermoso and David Mills",
+          "description": "A proposal to raise $1 billion a year will likely be on the November ballot. But BART is planning for massive service cuts — including a total system shutdown — if the measure is voted down.",
+          "link": "https://www.berkeleyside.org/2026/02/10/bart-doomsday-scenario-sales-tax-measure-connect-bay-area",
+          "publishedOn": "2026-02-11T00:37:09.000Z",
+          "wordCount": 8161,
+          "title": "BART releases doomsday scenario in case sales tax doesn’t pass",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/BART-coffin-protest-1.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551914",
           "author": "Momo Chang",
@@ -5695,36 +5679,6 @@
           "wordCount": 7354,
           "title": "Berkeleyside’s Alejandra Armstrong recognized as ‘unsung hero’ by SPJ NorCal",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Cityside-Staff-Portraits.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547277",
-          "author": "Nico Savidge",
-          "description": "Berkeley’s Juneteenth Festival and a popular holiday market on Telegraph Avenue must move from their longtime homes, as the city mulls big fee increases and steps up fire code enforcement.",
-          "link": "https://www.berkeleyside.org/2025/11/13/berkeley-events-telegraph-holiday-fair-juneteenth-fe",
-          "publishedOn": "2025-11-13T17:00:00.000Z",
-          "wordCount": 9118,
-          "title": "New city fees, fire safety policies threaten future of 2 beloved Berkeley events, organizers say",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/20230613-213613.jpg?fit=1200%2C959&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547221",
-          "author": "Local sponsor",
-          "description": "Some countries offer residency, and path to citizenship, with an investment in real estate or business.",
-          "link": "https://www.berkeleyside.org/2025/11/13/thinking-about-moving-overseas-learn-more-about-golden-visas",
-          "publishedOn": "2025-11-13T16:30:00.000Z",
-          "wordCount": 7451,
-          "title": "Thinking about moving overseas? Learn more about ‘golden visas’",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Obidos-Portugal.jpg?fit=2000%2C1261&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547323",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a guided listening of centuries-old Persian music, a pain management workshop and a chance to test new board games.",
-          "link": "https://www.berkeleyside.org/2025/11/13/around-berkeley-campus-music-festival-tea-social-trivia-night",
-          "publishedOn": "2025-11-13T14:00:00.000Z",
-          "wordCount": 7892,
-          "title": "Around Berkeley: Campus music festival, tea social, trivia night",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Photo-Oct-05-2025-7-19-42-PM-scaled.jpg"
         }
       ]
     },
@@ -9185,36 +9139,6 @@
           "wordCount": 4538,
           "title": "Ask Ethan: How can we better measure G, the gravitational constant?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2016/05/1_Yzk9qbkmc6Re4eXwY61beA-e1762997602393.jpeg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/myths-of-trauma/",
-          "author": "George Bonanno",
-          "description": "We may think that trauma leaves irreversible scars, reshaping our brain and emotional regulation permanently. The science, however, shows the opposite, says psychologist George Bonnano. Our biology is much more resilient than we give it credit for. \nBonanno dismantles common myths surrounding trauma and PTSD, and shares a practical mindset shift to navigate difficult experiences.\nThis video Why forcing positivity after trauma doesn’t build resilience is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/myths-of-trauma/",
-          "publishedOn": "2025-11-13T17:12:35.000Z",
-          "wordCount": 15386,
-          "title": "Why forcing positivity after trauma doesn’t build resilience",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Bonanno.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/robert-smalls/",
-          "author": "Jim Clyburn",
-          "description": "“While I breathe, I hope,” the most well-known of South Carolina’s two mottos, must have resonated deeply in the hearts and minds of enslaved Blacks as the first bombs exploded over Charleston Harbor. It was here, at 4:30 a.m. on April 12, 1861, that the Civil War began. Until then, the enslaved, who made up most of Charleston’s population, had found little reason for hope. They were held in bondage, forced to labor long hours with no pay, provided inadequate food and shelter, and under threat of physical abuse or even death at the slightest provocation. The blasts that lit up the night sky represented the first real chance for them to realize their collective dream to breathe free.\nAmong them was Robert Smalls, an intelligent young man who would not be willing to simply wait. If not for t…",
-          "link": "https://bigthink.com/books/robert-smalls/",
-          "publishedOn": "2025-11-13T15:30:00.000Z",
-          "wordCount": 3163,
-          "title": "The Civil War hero who stole a Confederate ship — and changed history",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/First-Eight_Excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/the-enduring-value-of-a-notebook-and-long-thinking/",
-          "author": "Eric Markowitz",
-          "description": "Here are two things I believe. One: we’re living through a period of enormous technological and social change. Two: there is no greater piece of technology than a simple spiral notebook and a couple of hours to be alone with your thoughts. The ease with which we can fabricate content and eve\nA favorite writer of mine, Cal Newport, suggested as much in a new essay this week, which is well worth the (quick) read. “There’s a deeply human satisfaction to retreating to an exotic location and wrestling with your own mind, scratching a record of your battle on paper,” Cal writes. “The innovations and insights produced by this long thinking are deeper and more subversive than the artificially cheery bullet points of a chatbot.” He continues:\nKey quote: “The problem facing knowledge work in our cur…",
-          "link": "https://bigthink.com/business/the-enduring-value-of-a-notebook-and-long-thinking/",
-          "publishedOn": "2025-11-13T14:00:00.000Z",
-          "wordCount": 2740,
-          "title": "The enduring value of a notebook and “long thinking”",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/11.13.25-nightcrawler_compressed.jpg?resize=1200,630"
         }
       ]
     },
