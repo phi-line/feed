@@ -351,16 +351,6 @@
           "wordCount": 4248,
           "title": "Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/GhostlyGravity-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=155411",
-          "author": "Rachel Nuwer",
-          "description": "The physics of mixing water layers — an interplay of wind, climate and more — makes lakes work. When it stops, impacts can ripple across an ecosystem.            \nThe post Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down. first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
-          "publishedOn": "2025-11-14T15:35:10.000Z",
-          "wordCount": 5379,
-          "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Crater-Lake-crKatie-Falkenberg-Social.jpg"
         }
       ]
     },
@@ -2005,6 +1995,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3206/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3206/",
+          "publishedOn": "2026-02-11T05:00:00.000Z",
+          "wordCount": 185,
+          "title": "Installation",
+          "imageUrl": "https://imgs.xkcd.com/comics/installation_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3205/",
           "author": null,
           "description": "",
@@ -2707,16 +2707,6 @@
           "wordCount": 7555,
           "title": "Journalism In An Age Of Authoritarianism",
           "imageUrl": "https://noemamag.imgix.net/2025/11/Noema-Magazine-Make-truth-great-again-Mr.Nelson-design.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=28aad754a051abf3f22417d9daa842ca"
-        },
-        {
-          "id": "https://www.noemamag.com/from-cinema-to-the-noematograph",
-          "author": "Nathan Gardels",
-          "description": "The post From Cinema To The Noematograph appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/from-cinema-to-the-noematograph",
-          "publishedOn": "2025-11-14T17:35:35.000Z",
-          "wordCount": 2471,
-          "title": "From Cinema To The Noematograph",
-          "imageUrl": "https://noemamag.imgix.net/2025/11/V3.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=01b250a6588438df743d7d67a63b7c96"
         }
       ]
     },
@@ -2725,6 +2715,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=551977",
+          "author": "Alex N. Gecan",
+          "description": "Claudel Moore pleaded no contest to the voluntary manslaughter of Anthony Joshua “Josh” Fisher III over a $600 debt. Fisher's family said they were “shattered” and that the eight-year prison sentence was not enough.",
+          "link": "https://www.berkeleyside.org/2026/02/11/josh-fisher-claudel-moore-sentencing",
+          "publishedOn": "2026-02-12T00:42:44.000Z",
+          "wordCount": 8301,
+          "title": "Killer gets 8-year sentence in plea deal over 2022 fatal shooting in Southwest Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Moore.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=551941",
           "author": "Momo Chang",
@@ -5719,16 +5719,6 @@
           "wordCount": 7739,
           "title": "SNAP payments resume, but Alameda County households struggle with shutdown’s lingering effects",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Berkeley-Food-Network-11.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=464598",
-          "author": "Betty Márquez Rosales",
-          "description": "Many students in the county's youth facility, Butler Academic Center, read below the third grade level. An innovative program is now offering one-on-one support.",
-          "link": "https://www.berkeleyside.org/2025/11/14/literacy-intervention-alameda-county-juvenile-justice",
-          "publishedOn": "2025-11-14T16:00:00.000Z",
-          "wordCount": 7475,
-          "title": "A literacy intervention for kids in Alameda County’s juvenile justice system",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Juvenile-Detention.png?fit=1920%2C1080&ssl=1"
         }
       ]
     },
@@ -6121,6 +6111,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
+          "author": null,
+          "description": "What exists is a matter of public opinion",
+          "link": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-02-12T04:26:37.000Z",
+          "wordCount": 8299,
+          "title": "Culture Is the Mass-Synchronization of Framings",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/culture-is-the-mass-synchronization-of-framings/536968ldsdl.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/culture-is-the-mass-synchronization-of-framings/536968ldsdl.jpeg"
+        },
         {
           "id": "https://aethermug.com/posts/year-two",
           "author": null,
@@ -9189,26 +9194,6 @@
           "wordCount": 2745,
           "title": "The digital age’s reversion to pre-literate communication",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/digital-undoing-written-world_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/the-big-think-interview/is-progress-inevitable/",
-          "author": "Jason Crawford",
-          "description": "Have we begun to lose faith in the future? The idea of ‘progress’ didn’t truly exist throughout the majority of human history. Most ages didn’t see history as an upward curve – they saw history as cyclical, full of ups and downs. \nThis belief only shifted around the 1500s, says Jason Crawford, founder of The Roots of Progress and the author of The Techno-Humanist Manifesto. The idea that progress would automatically continue became widespread, until the first World War shattered the illusion that technology would bring peace and cooperation. \nOut of this rose a counterculture concern that modernity was a mistake, that progress itself was the problem. But was it? Are we now moving backwards? How can we regain trust in pushing forward?\nThis video The moment every civilization fears: the growth plateau is featured on Big Think.",
-          "link": "https://bigthink.com/series/the-big-think-interview/is-progress-inevitable/",
-          "publishedOn": "2025-11-14T15:57:42.000Z",
-          "wordCount": 3620,
-          "title": "The moment every civilization fears: the growth plateau",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Crawford.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/5-books-that-teach-you-how-to-die-well-by-living-better/",
-          "author": "Scotty Hendricks",
-          "description": "Every now and then, if you’re lucky, you’ll encounter a book that changes your life. History’s great novels have earned a reputation in this regard. While the stories of Homer, Virginia Woolf, Fyodor Dostoevsky, or Jane Austen may not be for everyone all the time, an education in the classics can change people in profound ways and give our minds a meeting place in the world of ideas.\nSome books take a more direct approach: They explicitly aim to change how readers live their lives. They may be shelved in philosophy, psychology, or self-help, but their goal is to help you find perspective, search for meaning, or guide you to find your purpose so that when the end inevitably comes, you can look back on your life with gratitude and contentment.\nHere are five books that have helped millions of…",
-          "link": "https://bigthink.com/books/5-books-that-teach-you-how-to-die-well-by-living-better/",
-          "publishedOn": "2025-11-14T15:30:00.000Z",
-          "wordCount": 2850,
-          "title": "5 books that teach you how to die well — by living better",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/5-books-teach-you-how-to-die.jpg?resize=1200,630"
         }
       ]
     },
@@ -9596,16 +9581,6 @@
           "wordCount": 5866,
           "title": "Moroccan Cauliflower Tagine With Chickpeas",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Cauliflower-and-Golden-Raisin-Tagine-10.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=70987",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "With a rich vegan custard, tender bread, and a caramel drizzle over the top, this Creme Brûlée French Toast has the flavour of the classic dessert, but in the form of a crowd-pleasing breakfast! The only thing better than shattering the crisp sugary topping on creme brûlée is digging past those sweet caramelised shards and […]",
-          "link": "https://jessicainthekitchen.com/creme-brulee-french-toast/",
-          "publishedOn": "2025-11-14T15:00:00.000Z",
-          "wordCount": 6550,
-          "title": "Creme Brûlée French Toast Casserole",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Creme-Brule-French-Toast-Casserole-14.jpg"
         }
       ]
     },
