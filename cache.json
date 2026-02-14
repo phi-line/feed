@@ -1785,17 +1785,6 @@
           "title": "Federal Agents Can Continue To Use Riot Control Weapons in Chicago With Limited Oversight Amid Pending Appeal",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8354022",
-          "author": "Joe Lancaster",
-          "description": "They say a grand jury would indict a ham sandwich. But failing to get indictments has been a hallmark of the second Trump administration.",
-          "link": "https://reason.com/2025/11/16/less-indictable-than-a-ham-sandwich/",
-          "publishedOn": "2025-11-16T11:00:03.000Z",
-          "wordCount": null,
-          "title": "Less Indictable Than a Ham Sandwich",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2845,6 +2834,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552133",
+          "author": "Tony Hicks",
+          "description": "People cried, hugged, and told stories punctuated with laughter while remembering the 40-year-old trumpet player who \"brought people together.\" The state’s DA office is investigating the killing.",
+          "link": "https://www.berkeleyside.org/2026/02/13/musician-anthony-anderson-killed-alameda-sheriff-berkeley-life-celebration",
+          "publishedOn": "2026-02-13T20:23:22.000Z",
+          "wordCount": 8283,
+          "title": "Friends gather at Starry Plough to remember musician Anthony ‘Ant’ Anderson, killed by county sheriff deputies Monday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/E7787F1D-1C4E-4F99-96C9-BDD70951A695-scaled-e1771013058815.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552111",
+          "author": "Alon Yoeli",
+          "description": "Tommy Ryan's burger spot was born from a desire to make the most out of all the meat moving through his Hercules barbecue joint.",
+          "link": "https://www.berkeleyside.org/2026/02/13/tommys-burger-co-brisket-fries",
+          "publishedOn": "2026-02-13T20:00:00.000Z",
+          "wordCount": 8603,
+          "title": "With patties built on brisket, Tommy’s Burger Co. in Richmond pursues the perfect smash",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-TommysBurgerCo_Portraits_Nosh-3.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://richmondside.org/?p=461680",
           "author": "Joel Umanzor",
@@ -10262,6 +10271,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111736 at https://www.eff.org",
+          "author": "Mario Trujillo",
+          "description": "The New York Times reported that Meta is considering adding face recognition technology to its smart glasses. According to an internal Meta document, the company may launch the product “during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.” \nThis is a bad idea that Meta should abandon. If adopted and released to the public, it would violate the privacy rights of millions of people and cost the company billions of dollars in legal battles.   \nYour biometric data, such as your faceprint, are some of the most sensitive pieces of data that a company can collect. Associated risks include mass surveillance, data breach, and discrimination. Adding this technology to glasses on the street also …",
+          "link": "https://www.eff.org/deeplinks/2026/02/seven-billion-reasons-facebook-abandon-its-face-recognition-plans",
+          "publishedOn": "2026-02-13T20:58:19.000Z",
+          "wordCount": 1720,
+          "title": "Seven Billion Reasons for Facebook to Abandon its Face Recognition Plans",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/facebook-face-recognition.png",
+            "alt": "Facebook Face Recognition",
+            "type": "image/png",
+            "length": "18362"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/facebook-face-recognition.png"
+        },
         {
           "id": "111734 at https://www.eff.org",
           "author": "Rindala Alajaji",
