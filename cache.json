@@ -382,6 +382,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698f6aab3d7aa6000176443b",
+          "author": "Becky Ferreira",
+          "description": "Scientists have recreated a miniature laboratory version of the massive cyclonic storms that rage at Jupiter’s poles.",
+          "link": "https://www.404media.co/astronomers-create-strange-vortex-crystals-from-space-in-the-lab/",
+          "publishedOn": "2026-02-14T14:00:58.000Z",
+          "wordCount": 2300,
+          "title": "Astronomers Create Strange ‘Vortex Crystals’ from Space in the Lab",
+          "imageUrl": "https://www.404media.co/content/images/2026/02/image3.jpg"
+        },
+        {
           "id": "698df0e33d7aa60001734297",
           "author": "Joseph Cox",
           "description": "This week, we discuss support and saying RIP to FPDS.",
@@ -2472,16 +2482,6 @@
           "wordCount": 206,
           "title": "Service Outage",
           "imageUrl": "https://imgs.xkcd.com/comics/service_outage_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3169/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3169/",
-          "publishedOn": "2025-11-17T05:00:00.000Z",
-          "wordCount": 204,
-          "title": "EPIRBs",
-          "imageUrl": "https://imgs.xkcd.com/comics/epirbs_2x.png"
         }
       ]
     },
