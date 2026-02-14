@@ -2094,6 +2094,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3207/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3207/",
+          "publishedOn": "2026-02-13T05:00:00.000Z",
+          "wordCount": 193,
+          "title": "Bad Map Projection: Zero Declination",
+          "imageUrl": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3206/",
           "author": null,
           "description": "",
@@ -2834,6 +2844,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552182",
+          "author": "Alex N. Gecan",
+          "description": "The sudden ouster of Police Accountability Board director Hansel Aguilar, and recent protest resignations from the Police Accountability Board, are the culmination of years of mounting tension between those bodies and the city.",
+          "link": "https://www.berkeleyside.org/2026/02/13/berkeley-police-accountability-future",
+          "publishedOn": "2026-02-14T05:18:08.000Z",
+          "wordCount": 8810,
+          "title": "What’s next for police accountability in Berkeley?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Police-Accountability-Board-Mtg-14.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552164",
+          "author": "Alex N. Gecan",
+          "description": "While Ricardo G. Ruiz has been found not guilty for the Fourth Street fracas, he still faces 11 felony charges from the armed April 2025 standoff that ended after a Berkeley Police Department officer shot him in the face.",
+          "link": "https://www.berkeleyside.org/2026/02/13/ricardo-ruiz-misdemeanor-assault-not-guilty-verdict",
+          "publishedOn": "2026-02-14T04:50:55.000Z",
+          "wordCount": 7482,
+          "title": "Berkeley Tesla stun gun defendant, shot in later standoff, is exonerated",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Ricardo-Ruiz.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552133",
           "author": "Tony Hicks",
@@ -6143,6 +6173,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/feb/14/pav-bhaji-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "A thrifty and flavourful mashed potato dish beloved of most Indians – careful with that pav bhaji masala though!\nPav bhaji, or Indian spiced mash, is a home cook’s friend. It’s not fussy, and it will take most leftover vegetables and transform them into something delicious. Add a squeeze of lemon, chopped onion and fresh herbs, and mop up with a butter-fried roll, just as the people of Mumbai do. The odd potato? No problem. A bit of cauliflower? Sure. Some peas from the freezer? Ideal! What you do need, however, is a secret weapon in the form of pav bhaji masala, a little box of spice perfectly blended to add the appropriate magic (and available in most places where you’d find a hungry Indian).\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/feb/14/pav-bhaji-recipe-meera-sodha",
+          "publishedOn": "2026-02-14T06:00:47.000Z",
+          "wordCount": 4215,
+          "title": "Meera Sodha’s recipe for pav bhaji | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/aa83c4ba9eed9c8d51d5e1c58f69e103f85cd778/0_24_3565_2849/master/3565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2be47a4f23dd07b2722d28f0d90b3dba"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/feb/13/prosperity-toss-noodle-salad-vegan-recipe-meera-sodha-lunar-new-year",
           "author": "Meera Sodha",
@@ -10271,6 +10311,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111737 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "March 19, 2026 - 11:00am to 12:00pm PDT\n\n\nMarch 19, 2026 - 11:00am to 12:00pm PDT\n\n\nOnline\n\n\n\nJoin EFF Executive Director Cindy Cohn in conversation with 404 Media Cofounder Jason Koebler to discuss Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, Cindy’s personal story of standing up to the Justice Department, taking on the NSA, and tangling with the FBI to protect our right to digital privacy. The highly anticipated book asks the fundamental question: Can we still have private conversations if we live our lives online? Join the livestream for a live discussion followed by by Q&A.\nEFFecting Change Livestream Series:\nPrivacy's Defender \nThursday, March 19th\n11:00 AM - 12:00 PM Pacific\nThis event is LIVE and FREE!\n\n\n\n\nAccessibility\nThis event will be live-captioned and…",
+          "link": "https://www.eff.org/event/effecting-change-privacys-defender",
+          "publishedOn": "2026-02-14T00:15:39.000Z",
+          "wordCount": 1073,
+          "title": "EFFecting Change: Privacy's Defender",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effectingchange_banner.png",
+            "alt": "The words &quot;EFFecting Change&quot; on a black background with red, white, and grey ribbons",
+            "type": "image/png",
+            "length": "118140"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effectingchange_banner.png"
+        },
         {
           "id": "111736 at https://www.eff.org",
           "author": "Mario Trujillo",
