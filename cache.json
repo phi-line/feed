@@ -6518,6 +6518,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M5QOaaRJYFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M5QOaaRJYFc",
+          "publishedOn": "2026-02-14T00:23:32.000Z",
+          "wordCount": null,
+          "title": "Jill Scott: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=q-NDZ31pXmM",
           "author": null,
           "description": "",
@@ -7165,16 +7175,6 @@
           "publishedOn": "2025-11-18T20:31:21.000Z",
           "wordCount": 2090,
           "title": "@DoobiesOfficial reflects on the musical influences that shaped their approach to rock and roll.⁠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xBtTEc7HV6k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xBtTEc7HV6k",
-          "publishedOn": "2025-11-17T10:01:28.000Z",
-          "wordCount": null,
-          "title": "Ghost-Note: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -9463,16 +9463,6 @@
           "wordCount": 2103,
           "title": "How to lead from the liminal space where wisdom takes root",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/10/lead-from-liminal-space_compressed.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/decline-fall-stars-universe/",
-          "author": "Ethan Siegel",
-          "description": "Today, our Universe is illuminated, lit up primarily by stars.\n\nThis low-resolution image shows the full field of the COSMOS-Web survey conducted with JWST. Spanning 0.54 square degrees in the sky, or nearly three full Moons’ worth of area, this represents the largest, deepest wide-field view of the Universe ever acquired.\n\nCredit: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team\n\n\nBut it wasn’t born with any stars; they needed the right conditions to form.\n\nThe overdense regions that the Universe was born with grow and grow over time, but are limited in their growth by the initial small magnitudes of the overdensities, the cosmic scale on which the overdensities are found (and the time it takes the gravitational force to traverse them), and also by the …",
-          "link": "https://bigthink.com/starts-with-a-bang/decline-fall-stars-universe/",
-          "publishedOn": "2025-11-17T07:00:00.000Z",
-          "wordCount": 2996,
-          "title": "The decline and fall of stars in the Universe",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/eso1211a-e1763345443223.jpg?resize=1200,630"
         }
       ]
     },
