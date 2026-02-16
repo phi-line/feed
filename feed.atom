@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-15T18:08:44.818Z</updated>
+    <updated>2026-02-16T00:26:58.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article]]></title>
+        <id>699227863d7aa600017b5f5c</id>
+        <link href="https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/"/>
+        <updated>2026-02-15T20:14:36.000Z</updated>
+        <summary type="html"><![CDATA[A story about an AI generated article contained fabricated, AI generated quotes.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astronomers Create Strange ‘Vortex Crystals’ from Space in the Lab]]></title>
         <id>698f6aab3d7aa6000176443b</id>
@@ -10967,17 +10977,6 @@ At the 2025 Volunteering Reconnected Summit in Silicon Valley — hosted by the 
 …]]></summary>
         <author>
             <name>Aaron Hurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jellyfish and bunny ear galaxies have cosmic consequences]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/jellyfish-bunny-ear-galaxies/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/jellyfish-bunny-ear-galaxies/"/>
-        <updated>2025-11-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though the Universe looks like it’s full of tiny islands of light — luminous, star-filled galaxies with only the blank darkness of empty space between them — the reality is that the space between galaxies isn’t empty at all. An isolated galaxy still moves through the abyss of deep space: where a rarified, sparsely populated sea of ions (mostly protons and electrons) still persists. There may only be about one particle per cubic meter populating the intergalactic medium, on average, but considering that galaxies are frequently 100,000 light-years across or even more, they do encounter large numbers of particles, particularly at higher speeds.
-This effect gets more and more severe for galaxies that move at faster speeds through the intergalactic medium, and also for environments where t…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>
