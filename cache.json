@@ -372,6 +372,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "698e23ed3d7aa60001735b05",
+          "author": "Joseph Cox",
+          "description": "The site, camgirlfinder, is explicitly built as a tool to let people find a model's presence on other streaming platforms. The creator says “If that is a problem for you then the sad reality is this job is not for you.”",
+          "link": "https://www.404media.co/underground-facial-recognition-tool-unmasks-camgirls/",
+          "publishedOn": "2026-02-16T14:00:36.000Z",
+          "wordCount": 1004,
+          "title": "Underground Facial Recognition Tool Unmasks Camgirls",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/dasha-yukhymyuk-s4qtCUodkQ4-unsplash.jpg"
+        },
+        {
           "id": "699227863d7aa600017b5f5c",
           "author": "Emanuel Maiberg",
           "description": "A story about an AI generated article contained fabricated, AI generated quotes.",
@@ -1815,6 +1825,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/scent",
+          "author": "Asimov Press",
+          "description": "Once a primal instinct, olfaction is now being mapped, measured, and modeled by machines.",
+          "link": "https://www.asimov.press/p/scent",
+          "publishedOn": "2026-02-16T15:05:22.000Z",
+          "wordCount": null,
+          "title": "Scent, In Silico",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!njz9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96739113-bd6a-4006-81f2-85f8be9f8b0d_2000x1260.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!njz9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96739113-bd6a-4006-81f2-85f8be9f8b0d_2000x1260.gif"
+        },
+        {
           "id": "https://www.asimov.press/p/vortex",
           "author": "Asimov Press",
           "description": "The forgotten story of an invention found in every biology lab.",
@@ -2467,16 +2493,6 @@
           "wordCount": 208,
           "title": "Geologic Core Sample",
           "imageUrl": "https://imgs.xkcd.com/comics/geologic_core_sample_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3170/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3170/",
-          "publishedOn": "2025-11-19T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Service Outage",
-          "imageUrl": "https://imgs.xkcd.com/comics/service_outage_2x.png"
         }
       ]
     },
@@ -7030,6 +7046,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/series/the-big-think-interview/screen-age-brains/",
+          "author": "Richard E. Cytowic",
+          "description": "Your brain isn’t broken, but it may seem like that because of how the screen age overwhelms your biology. \nNeurologist Richard Cytowic argues that attention is a finite energy budget, not a virtue, and modern life is engineered to exhaust it.\nThis video The biological necessity of boredom in the age of screens is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/screen-age-brains/",
+          "publishedOn": "2026-02-16T14:00:00.000Z",
+          "wordCount": 7564,
+          "title": "The biological necessity of boredom in the age of screens",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/B1-Web-Cytowic.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/are-we-ready-to-accept-alien-life/",
+          "author": "Sara Seager",
+          "description": "Sara Seager, a planetary scientist, astrophysicist, and leading researcher in the search for life beyond Earth, examines how discovering life elsewhere would represent a Copernican-level shift in human understanding. \nResearch into Mars, Venus, and the icy moons of Jupiter and Saturn has revealed complex molecules and liquid environments that could support life. Independent origins of life would imply that the galaxy is rich with living individuals, challenging long-held cultural, religious, and philosophical assumptions. The acceptance of major scientific discoveries — and the unexpected practical contributions to pure science — impact how the search for extraterrestrial life may benefit society over time.\nThis video We may find alien life, but will we be able to accept the consequences? is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/are-we-ready-to-accept-alien-life/",
+          "publishedOn": "2026-02-16T14:00:00.000Z",
+          "wordCount": 3011,
+          "title": "We may find alien life, but will we be able to accept the consequences?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/The-Well-Sara-Seager-GQ_Web.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/most-energy-efficient-reactions-physics/",
           "author": "Ethan Siegel",
           "description": "In terms of making things happen, energy is an indispensable consideration.\n\nWhen we see something like a ball balanced precariously atop a hill, this appears to be what we call a finely-tuned state, or a state of unstable equilibrium. A much more stable position is for the ball to be down somewhere at the bottom of the valley. What we currently conceive of as our Universe’s zero-point energy may not actually be the lowest-energy state possible, which means that a transition, and an accompanying energy extraction event, may be possible.\n\nCredit: L. Albarez-Gaume & J. Ellis, Nature Physics, 2011\n\n\nSystems spontaneously tend towards the lowest-energy state.\n\nIn many physical instances, you can find yourself trapped in a local, false minimum, unable to reach the lowest-energy state, which is …",
@@ -9257,6 +9293,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=72565",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "The best kung pao tofu is the kind you make at home! This recipe has the sweet, savoury, and spicy flavour of the takeout version that makes it so crave-worthy, but it’s made with wholesome ingredients and much less oil. I always like the idea of takeout, but then by the time I get it […]",
+          "link": "https://jessicainthekitchen.com/kung-pao-tofu/",
+          "publishedOn": "2026-02-16T15:00:00.000Z",
+          "wordCount": 9434,
+          "title": "Kung Pao Tofu",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Kung-Pao-Tofu-14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=72691",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Homemade pumpernickel bread is easier than you think! This is a rich, dark, bakery-style loaf with deep rye flavour, with cocoa powder to give it its signature colour and complexity. Bread baking has become a hobby of mine and I always look forward to tackling new varieties. Up until now, I’ve mostly done white bread […]",
@@ -9649,6 +9695,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-work-at-disney-worlds-hall-of-presidents-and-you-people-need-to-stop-eyefucking-animatronic-franklin-pierce",
+          "author": "Luke Herzog and Luca Clark",
+          "description": "I work as an Imagineer at the Hall of Presidents in Walt Disney World Resort. It’s a fine attraction that features our state-of-the-art Audio-Animatronics and realistic robots that embody the forty-five men who held America’s highest office. Shows have been running smoothly for decades… with one prominent exception. Guests go absolutely ballistic for #14. I have never seen so many grown women and men so hot and bothered.\n Put crassly: You people need to stop eyefucking Franklin Pierce.\n You think I haven’t noticed the daily onslaught of you horndogs lining up on Liberty Square just to catch a glimpse of Handsome Frank? Every show, I watch you all squirm in your seats, itching to unravel his old-timey bowtie with your teeth. And when his name is read aloud, and the animatronic offers the au…",
+          "link": "https://www.mcsweeneys.net/articles/i-work-at-disney-worlds-hall-of-presidents-and-you-people-need-to-stop-eyefucking-animatronic-franklin-pierce",
+          "publishedOn": "2026-02-16T13:01:00.000Z",
+          "wordCount": 2614,
+          "title": "I Work at Disney World’s Hall of Presidents, and You People Need to Stop Eyefucking Animatronic Franklin Pierce",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/w0ei9hcsq5upnmvp1b5nre2d3bfh"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/welcome-to-books-for-men",
           "author": "Tom Ellison",
