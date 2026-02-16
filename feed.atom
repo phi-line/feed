@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-16T06:26:18.794Z</updated>
+    <updated>2026-02-16T12:14:41.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[As a Former Cop, I Have to Ask: What the Hell Is ICE Doing?]]></title>
+        <id>https://reason.com/?p=8368702</id>
+        <link href="https://reason.com/2026/02/16/as-a-former-cop-i-have-to-ask-what-the-hell-is-ice-doing/"/>
+        <updated>2026-02-16T11:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Videos of recent immigration enforcement raise serious questions about authority, escalation, and the professional standards officers are trained to follow.]]></summary>
+        <author>
+            <name>Michael Bollentin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the most energy-efficient reactions in physics?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/most-energy-efficient-reactions-physics/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/most-energy-efficient-reactions-physics/"/>
+        <updated>2026-02-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In terms of making things happen, energy is an indispensable consideration.
+
+When we see something like a ball balanced precariously atop a hill, this appears to be what we call a finely-tuned state, or a state of unstable equilibrium. A much more stable position is for the ball to be down somewhere at the bottom of the valley. What we currently conceive of as our Universe’s zero-point energy may not actually be the lowest-energy state possible, which means that a transition, and an accompanying energy extraction event, may be possible.
+
+Credit: L. Albarez-Gaume & J. Ellis, Nature Physics, 2011
+
+
+Systems spontaneously tend towards the lowest-energy state.
+
+In many physical instances, you can find yourself trapped in a local, false minimum, unable to reach the lowest-energy state, which is …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article]]></title>
         <id>699227863d7aa600017b5f5c</id>
@@ -10851,59 +10880,6 @@ and their distance (in light-years) and how long ago we’re seeing them (in yea
         <updated>2025-11-19T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When @rosalia was a kid, her grandmother filled the house with the sounds of Luciano Pavarotti.]]></title>
-        <id>https://www.youtube.com/shorts/noDjIsbDC4E</id>
-        <link href="https://www.youtube.com/shorts/noDjIsbDC4E"/>
-        <updated>2025-11-19T00:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers have found way to bypass Berkeley’s labor standards for housing construction]]></title>
-        <id>https://www.berkeleyside.org/?p=547656</id>
-        <link href="https://www.berkeleyside.org/2025/11/18/berkeley-housing-developers-hard-hats-2029-university-2425-durant"/>
-        <updated>2025-11-18T23:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Construction unions argue hard-won local worker protections are being illegally dismantled. Developers say they’re following state law. What will the City Council do?]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[crunchy brown butter baked carrots]]></title>
-        <id>https://smittenkitchen.com/?p=91719</id>
-        <link href="https://smittenkitchen.com/2025/11/crunchy-brown-butter-baked-carrots/"/>
-        <updated>2025-11-18T22:34:13.000Z</updated>
-        <summary type="html"><![CDATA[baked in dishes with walls, tend to excel at holding up to resting times, reheat well, and stay warm longer. 
-
-Plus, if you’re feeling a little fearless, dishes like this are also a friend to those with one oven (hi!) and many things to reheat at once. My approach? I Jenga them. I stack rectangular and oval dishes two or three high in the oven, turning each so it steadies on the one below. Just don’t bump anything, okay?
-Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@DoobiesOfficial reflects on the musical influences that shaped their approach to rock and roll.⁠]]></title>
-        <id>https://www.youtube.com/shorts/tXubp_lwoCI</id>
-        <link href="https://www.youtube.com/shorts/tXubp_lwoCI"/>
-        <updated>2025-11-18T20:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparked by ‘terrible’ dining hall food, Dakota Pekerti builds pop-ups that inspire]]></title>
-        <id>https://www.berkeleyside.org/?p=547607</id>
-        <link href="https://www.berkeleyside.org/2025/11/18/kamu-siapa-kitchen-dakota-pekerti-indonesian-cooking"/>
-        <updated>2025-11-18T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Berkeley-based Kamu Siapa Kitchen, which also holds cooking classes and works with other food entrepreneurs, will host a benefit for SNAP recipients on Nov. 30.]]></summary>
-        <author>
-            <name>Madeline Taub</name>
         </author>
     </entry>
     <entry>
