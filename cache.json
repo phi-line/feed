@@ -2125,6 +2125,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3208/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3208/",
+          "publishedOn": "2026-02-16T05:00:00.000Z",
+          "wordCount": 185,
+          "title": "SNEWS",
+          "imageUrl": "https://imgs.xkcd.com/comics/snews_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3207/",
           "author": null,
           "description": "",
@@ -7027,16 +7037,6 @@
           "wordCount": 2084,
           "title": "@GhostNoteOfficialProductions took over the Tiny Desk, and it’s about to get funky.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X0X12AD7nK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X0X12AD7nK4",
-          "publishedOn": "2025-11-19T10:00:55.000Z",
-          "wordCount": null,
-          "title": "Goo Goo Dolls: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9274,16 +9274,6 @@
           "wordCount": 3420,
           "title": "Rethinking how we think about progress",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/policy-idea-to-real-world-change_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/",
-          "author": "Ethan Siegel",
-          "description": "When we measure an object that’s nearby — on Earth, in our Solar System, or elsewhere within the Milky Way — the information we get from the light that arrives is relatively straightforward. An object like the Sun, 150 million kilometers away, will have its light arrive after a journey of 500 seconds: the amount of time it takes light to travel across that distance of space. A star that’s 10 light-years away will have its emitted light arrive after a journey of 10 years; a star on the opposite edge of the galaxy a full 80,000 light-years away will require 80,000 years for its emitted light to arrive. For all of these objects,\nthey’re at a redshift of 0,\nthe temperature of the Big Bang is a cool 2.725 K,\nand their distance (in light-years) and how long ago we’re seeing them (in years) are t…",
-          "link": "https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/",
-          "publishedOn": "2025-11-19T07:00:00.000Z",
-          "wordCount": 4325,
-          "title": "How are redshift, temperature, distance and time related?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/07/optimized.gif?w=800&h=450&crop=1"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-16T18:13:25.662Z</updated>
+    <updated>2026-02-17T00:27:20.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -99,6 +99,15 @@ Systems spontaneously tend towards the lowest-energy state.
 In many physical instances, you can find yourself trapped in a local, false minimum, unable to reach the lowest-energy state, which is …]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNEWS]]></title>
+        <id>https://xkcd.com/3208/</id>
+        <link href="https://xkcd.com/3208/"/>
+        <updated>2026-02-16T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10915,28 +10924,6 @@ The post Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Univer
         <summary type="html"><![CDATA[Selective enforcement of an optional state fire code rule has harmed street fairs and farmers markets. If applied uniformly, many streets would lose half their parking. A policy better tailored to Berkeley's narrow roads is needed.]]></summary>
         <author>
             <name>Benjamin Fry and Charles Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goo Goo Dolls: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=X0X12AD7nK4</id>
-        <link href="https://www.youtube.com/watch?v=X0X12AD7nK4"/>
-        <updated>2025-11-19T10:00:55.000Z</updated>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How are redshift, temperature, distance and time related?]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/redshift-temperature-distance-time/"/>
-        <updated>2025-11-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When we measure an object that’s nearby — on Earth, in our Solar System, or elsewhere within the Milky Way — the information we get from the light that arrives is relatively straightforward. An object like the Sun, 150 million kilometers away, will have its light arrive after a journey of 500 seconds: the amount of time it takes light to travel across that distance of space. A star that’s 10 light-years away will have its emitted light arrive after a journey of 10 years; a star on the opposite edge of the galaxy a full 80,000 light-years away will require 80,000 years for its emitted light to arrive. For all of these objects,
-they’re at a redshift of 0,
-the temperature of the Big Bang is a cool 2.725 K,
-and their distance (in light-years) and how long ago we’re seeing them (in years) are t…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>
