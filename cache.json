@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/02/womens-sizing",
+          "author": null,
+          "description": "The inter-generational struggle to find clothes that fit more than a tiny portion of women",
+          "link": "https://pudding.cool/2026/02/womens-sizing",
+          "publishedOn": "2026-02-18T06:00:00.000Z",
+          "wordCount": 3440,
+          "title": "Sizing Chaos",
+          "imageUrl": "https://pudding.cool/2026/02/womens-sizing/assets/og2.jpg"
+        },
+        {
           "id": "https://pudding.cool/2025/12/motifs",
           "author": null,
           "description": "Visualizing how musicals use motifs to tell stories.",
@@ -22,6 +32,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=158992",
+          "author": "Gabriel Popkin",
+          "description": "Innovations in imaging and genetic engineering are coming together to probe the biophysics of cytoplasm inside living animals.            \nThe post The Biophysical World Inside a Jam-Packed Cell first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-biophysical-world-inside-a-jam-packed-cell-20260218/",
+          "publishedOn": "2026-02-18T16:09:15.000Z",
+          "wordCount": 3774,
+          "title": "The Biophysical World Inside a Jam-Packed Cell",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/02/Cytoplasm-Biophysics-cr-DVDP-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=158921",
           "author": "Ben Brubaker",
@@ -371,6 +391,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6995f70002276e00016000ec",
+          "author": "Joseph Cox",
+          "description": "Regulation of immigration or work visas means \"it could be more difficult to staff our personnel on customer engagements and could increase our costs,\" Palantir wrote.",
+          "link": "https://www.404media.co/palantir-which-is-powering-ice-says-immigration-crackdown-may-hurt-hiring/",
+          "publishedOn": "2026-02-18T17:42:59.000Z",
+          "wordCount": 1394,
+          "title": "Palantir, Which Is Powering ICE, Says Immigration Crackdown May Hurt Hiring",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/32215763362_7f2339d8d2_k-3.jpg"
+        },
+        {
+          "id": "6995cabf02276e00015da639",
+          "author": "Jason Koebler",
+          "description": "Ring's CEO told staff the feature is “first for finding dogs,” indicating a plan to expand.",
+          "link": "https://www.404media.co/leaked-email-suggests-ring-plans-to-expand-search-party-surveillance-beyond-dogs/",
+          "publishedOn": "2026-02-18T14:37:34.000Z",
+          "wordCount": 1686,
+          "title": "Leaked Email Suggests Ring Plans to Expand ‘Search Party’ Surveillance Beyond Dogs",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-18-at-06.27.50@2x.png"
+        },
+        {
+          "id": "6995c3b902276e00015da454",
+          "author": "Joseph Cox",
+          "description": "We got leaked documents about Alpha School. We also talk about what happens when someone decides to make an AI OnlyFans in your name, and the AI tool cops are buying to geolocate photos.",
+          "link": "https://www.404media.co/podcast-inside-an-ai-powered-school/",
+          "publishedOn": "2026-02-18T13:56:02.000Z",
+          "wordCount": 1128,
+          "title": "Podcast: Inside an AI-Powered School",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/MORE-HARM-THAN-GOOD--1-.png"
+        },
         {
           "id": "6994819b02276e00015b0a2a",
           "author": "Emanuel Maiberg",
@@ -2509,16 +2559,6 @@
           "wordCount": 206,
           "title": "Fifteen Years",
           "imageUrl": "https://imgs.xkcd.com/comics/fifteen_years_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3171/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3171/",
-          "publishedOn": "2025-11-21T05:00:00.000Z",
-          "wordCount": 208,
-          "title": "Geologic Core Sample",
-          "imageUrl": "https://imgs.xkcd.com/comics/geologic_core_sample_2x.png"
         }
       ]
     },
@@ -2871,6 +2911,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552118",
+          "author": "Frances Dinkelspiel and Ally Markovich",
+          "description": "With $54 million in assets, Sogorea Te' has big dreams for its reclaimed West Berkeley shellmound site. Its voluntary shuumi land tax has become wildly popular in the East Bay even as it's drawn criticism from other Ohlone groups that say the money doesn't reach the broader community.",
+          "link": "https://www.berkeleyside.org/2026/02/18/sogorea-te-native-american-land-trust-fundraising-success",
+          "publishedOn": "2026-02-18T14:00:00.000Z",
+          "wordCount": 11545,
+          "title": "How an East Bay Ohlone land trust became a fundraising powerhouse",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Natera_240213_SogoreaTe_09.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552246",
+          "author": "Friends of Joanne Wile",
+          "description": "As mayor and councilmember, she led on Albany-Berkeley waterfront issues. She worked for 27 years in UCSF and San Francisco General's psychiatry department.",
+          "link": "https://www.berkeleyside.org/2026/02/18/remembering-joanne-wile-social-worker-activist-mayor-of-albany",
+          "publishedOn": "2026-02-18T13:00:00.000Z",
+          "wordCount": 7494,
+          "title": "Remembering Joanne Wile, social worker, activist, mayor of Albany",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Joanne-wile.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552288",
+          "author": "Nathan Dalton",
+          "description": "Linda Galijan will be the center’s third leader in its 59-year history.",
+          "link": "https://www.berkeleyside.org/2026/02/18/linda-galijan-berkeley-zen-center-abbot",
+          "publishedOn": "2026-02-18T12:59:00.000Z",
+          "wordCount": 7587,
+          "title": "Berkeley Zen Center picks its first female abbot",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Linda-Galijan-BZC-abbot-1.jpg?fit=1600%2C1200&ssl=1"
+        },
         {
           "id": "https://richmondside.org/?p=461778",
           "author": "Kari Hulac and Berkeleyside Staff",
@@ -5780,26 +5850,6 @@
           "wordCount": 6675,
           "title": "Remembering Tom Conroy, master bookbinder",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Tom-Conroy.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547830",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Berkeley will stop giving a property tax break to residents for work they do restoring their historic homes.",
-          "link": "https://www.berkeleyside.org/2025/11/20/the-wire-orinda-amphitheater-long-home-to-cal-shakes-gets-new-name-and-new-mission",
-          "publishedOn": "2025-11-21T01:15:00.000Z",
-          "wordCount": 7044,
-          "title": "The Wire: Orinda amphitheater long home to Cal Shakes gets new name and new mission",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/8.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547838",
-          "author": "Alex N. Gecan",
-          "description": "The city is tightening its contracting rules amid threats of a lawsuit if it doesn’t cut ties with the controversial vendor Flock Safety.",
-          "link": "https://www.berkeleyside.org/2025/11/20/berkeley-flock-surveillance-cameras-ice-cbp-secure-justice",
-          "publishedOn": "2025-11-21T00:31:34.000Z",
-          "wordCount": 8929,
-          "title": "Berkeley tries to dispel doubts it can keep feds out of its surveillance network",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/IMG_3545-scaled-1.jpg"
         }
       ]
     },
@@ -6991,6 +7041,106 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/collections/biologys-new-era/",
+          "author": "Big Think",
+          "description": "In this monthly issue, we explore the bleeding edge of biotech, as well as the scientists, writers, and philosophers whose efforts helped get us here.",
+          "link": "https://bigthink.com/collections/biologys-new-era/",
+          "publishedOn": "2026-02-18T17:11:51.000Z",
+          "wordCount": 1828,
+          "title": "Biology’s New Era",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/021526-BigThink-Biology-Cover_2500X1406-1.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/metabolism-begun-life-earth/",
+          "author": "Ethan Siegel",
+          "description": "Planet Earth is overrun with life. Lakes, rivers, seas, and oceans are teeming with it, from the surfaces all the way down to the bottom, often at depths of miles and miles. The land, both above and below ground, is packed with living organisms of varying size, mass, and complexity, including plants, animals, and fungi. Even the atmosphere houses a wide variety of life forms, from birds and insects to microbes found far above the highest mountain peaks. All told, more than 8 million species of organisms are currently represented on Earth, totaling over half a trillion tonnes of carbon in overall biomass.\nWe can trace our evolutionary history through time, with notable milestones including:\nthe development of mammals and plants,\nthe emergence of sexual reproduction and multicellularity,\nthe…",
+          "link": "https://bigthink.com/starts-with-a-bang/metabolism-begun-life-earth/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 4920,
+          "title": "Metabolism, not cells or genetics, may have begun life on Earth",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/metabolism-life-on-earth.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/sci-fi-foreshadowed-biology/",
+          "author": "Kristin Houser",
+          "description": "Long before biologists could edit genes, grow embryos in the lab, or connect computers to the human brain, science-fiction writers were already imagining these biotechnologies and how they might reshape society — for better or (usually) for worse.\nBut sci-fi writers aren’t psychics. While the five novels below did foreshadow modern biotech, their authors’ visions of the tools leading us toward dystopia — or dinosaurs run amok — haven’t materialized. Instead, these technologies are helping people treat diseases, regain lost abilities, and build the families of their dreams.\nThat all may not be as pulse-pounding as a Velociraptor attack, but it’s every bit as world-changing.\nBrave New World by Aldous Huxley (1932)\nForeshadowed: In vitro fertilization \n\n\nEnglish author Aldous Huxley’s dystopi…",
+          "link": "https://bigthink.com/books/sci-fi-foreshadowed-biology/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 3148,
+          "title": "5 sci-fi books that foreshadowed the future of biology",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/5-sci-fi-books_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/deterring-biothreats/",
+          "author": "Jen Kirby",
+          "description": "The barriers to reading, writing, and editing DNA are falling fast. A scientist can now order synthetic gene sequences from manufacturers and have them within days — soon, it could be common to produce them right in the lab using a benchtop DNA synthesizer. High school students are learning CRISPR gene-editing techniques. Artificial intelligence (AI) platforms trained on biological data are accelerating experimentation and generating sequences that don’t exist in nature. \nThe hope is that these developments will lead to new breakthroughs in healthcare, agriculture, energy, and more. The fear is that they will lower the threshold for profound misuse of biotech, while simultaneously increasing the scale of what bad actors can accomplish. The risks aren’t hypothetical — in early February, the…",
+          "link": "https://bigthink.com/science-tech/deterring-biothreats/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 5125,
+          "title": "How to deter biothreats in the age of gene synthesis",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/deter-biothread-gene-synthesis-age_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/limits-of-human-performance/",
+          "author": "Alex Hutchinson",
+          "description": "When horse racing fans rhapsodize about Secretariat’s enormous heart, they’re not speaking metaphorically — a postmortem exam in 1989 found that it weighed between 21 and 22 pounds, two-and-a-half times more than the average thoroughbred’s heart. The legendary horse also had a perfectly proportioned bone structure, flawless biomechanics, and a seemingly innate hunger for the finish line. \nIn 1973, he not only swept the Triple Crown — the Kentucky Derby, the Preakness Stakes, and the Belmont Stakes — but also set records in all three races, winning the Belmont by 31 lengths. Those records still stand more than half a century later, and with each passing year, it seems increasingly clear that Secretariat was as good as horses get.\nWhether humans, too, have reached peak performance is a quest…",
+          "link": "https://bigthink.com/science-tech/limits-of-human-performance/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 3578,
+          "title": "Athletes keep breaking records — and they may never stop",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/The-Progress-of-Sports-2-17.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/mind-behavior/how-reading-books-regulates-your-nervous-system/",
+          "author": "Anne-Laure Le Cunff",
+          "description": "There’s a feeling I love almost more than anything: the feeling of sinking into a good book while the world around me fades away. My breathing slows, my shoulders drop, and the mental chatter in the back of my mind goes quiet.\nWhat’s happening in those moments goes far deeper than entertainment or education, and we seem to sense this instinctively. Reading is relaxing, and many people do it as a counterbalance to our overstimulated age.\nBut what exactly is happening when we read? What’s going on beneath the surface that makes reading a book feel so restorative?\nThe answer lies in how reading changes our neurochemistry in real time. Reading isn’t just about decoding words on a page. It’s a complex neurochemical process that affects everything from our heart rate to our hormone levels.\nThe n…",
+          "link": "https://bigthink.com/mind-behavior/how-reading-books-regulates-your-nervous-system/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 2541,
+          "title": "How reading books regulates your nervous system",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/reading-impacts-nervous-system_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/the-great-progression-bioengineering/",
+          "author": "Peter Leyden",
+          "description": "The start of the Bioengineering Age is a very big deal for everyone on Earth, and not just because of its potential to improve human health. In the long run, the arrival of advanced bioengineering technologies will help make this planet truly sustainable, too.\nThe world of biology is going through a transformation that is every bit as profound as the ones kicking off the AI Age and the Clean Energy Age. In fact, what is going on in this field is very similar to what is going on in those other two fields: They each have crossed an engineering threshold.\nThe arrival of AI has turned intelligence into a technology. For all of human history, intelligence has been housed in complex, mushy brains that we still don’t really understand — let alone know how to engineer. Now we have machines that ar…",
+          "link": "https://bigthink.com/science-tech/the-great-progression-bioengineering/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 4563,
+          "title": "How bioengineering will help save the planet",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/bioengineering-save-planet.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/philosophy/nature-of-life-hans-jonas/",
+          "author": "Adam Frank",
+          "description": "We are living in the age of maximum AI hype: A superintelligence that surpasses humanity is going to emerge at any moment, according to the most breathless corners of the tech world.\nThere are basic technical grounds to be skeptical of that claim, but beyond that, a much deeper issue lies at the boundary between science and philosophy: What makes life different from non-life? Why is a rock inert and insensate, while even the simplest cell manifests open-ended activity in the relentless pursuit of staying alive? Since the only systems that indisputably display intelligence are alive, if we can’t understand life, we’re probably missing something essential about intelligence. \nSixty years ago, an influential but little-known philosopher named Hans Jonas gave a potent, creative, and radical an…",
+          "link": "https://bigthink.com/philosophy/nature-of-life-hans-jonas/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 3748,
+          "title": "Why organisms are more than machines",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/metabolism-hans-jonas_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/history-society/speculative-evolution/",
+          "author": "Thomas Moynihan",
+          "description": "After eluding his Japanese captors, an escaped prisoner of war found himself stranded on a previously unknown archipelago in the South Pacific in 1941. There, the Allied soldier discovered a species of mammal that walked on its nose. The creatures were later named rhinogrades, or, more colloquially, “snouters.”\nAn idiosyncratic order of mammals comprising 138 species descended from a shrew-like ancestor, Rhinogradentia are typified by their luxuriant, exuberant noses. Some locomote by hopping, using their nasal appendage like a muscular flipper; others are sessile, attracting insects with flower-like petals that blossom from their nostril cartilage. Most rhinogrades have one nose, but some have evolved multiple proboscises, which they use for walking and hunting, like furry terrestrial oct…",
+          "link": "https://bigthink.com/history-society/speculative-evolution/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 4483,
+          "title": "Snouters, dinosauroids, and other animals that never were",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/speculative-evolution_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/history-society/sci-fi-aliens/",
+          "author": "Dirk Schulze-Makuch, Tony Reichhardt",
+          "description": "The diversity of life on our planet is amazing, especially considering it all begins with essentially the same ingredients — every cellular organism that has ever existed, from bacteria and birch trees to dinosaurs and humans, is built on DNA-based biochemistry.\nBut how much more diverse might life be on other worlds? Planets with different geology and chemistry, orbiting different types of stars, could yield an endless variety of life-forms.\nScience fiction authors and filmmakers have already imagined some of the possibilities. Here, we look at five sci-fi aliens to see how they measure up against modern scientific thinking about what kinds of extraterrestrial life might exist.\n1. Mr. Spock: The humanoids\n\nParamount Pictures Corp.\nFilmmakers often give us human-looking aliens, presumably …",
+          "link": "https://bigthink.com/history-society/sci-fi-aliens/",
+          "publishedOn": "2026-02-18T17:00:00.000Z",
+          "wordCount": 4041,
+          "title": "5 sci-fi aliens — and the likelihood they could actually exist",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/5-sci-fi-aliens.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/strange-maps/mckinley-colonies/",
           "author": "Frank Jacobs",
@@ -9099,6 +9249,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=72648",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This cowboy caviar recipe is a fresh and colourful mix of beans and veggies that’s also an absolute multitasker! Whether you serve it as a dip for tortilla chips, as a topping, or as a side salad, you’ll love the big, bold Tex-Mex flavour. Regular caviar? Not exactly vegan. But cowboy caviar? Totally plant-based! Now, […]",
+          "link": "https://jessicainthekitchen.com/cowboy-caviar-recipe/",
+          "publishedOn": "2026-02-17T15:00:00.000Z",
+          "wordCount": 8923,
+          "title": "Cowboy Caviar Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Cowboy-Caviar-12.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=72565",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "The best kung pao tofu is the kind you make at home! This recipe has the sweet, savoury, and spicy flavour of the takeout version that makes it so crave-worthy, but it’s made with wholesome ingredients and much less oil. I always like the idea of takeout, but then by the time I get it […]",
@@ -9501,6 +9661,36 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/im-the-la-doll-in-john-cougar-mellencamps-small-town-and-i-hate-this-godforsaken-shithole",
+          "author": "Lisa Borders",
+          "description": "Picture it: Los Angeles in 1985. I’d moved there two years earlier to make it as a model, but all I had to show for it was a couple of car shows, one page of a local JCPenney circular, and a weekly “session” at Chateau Marmont with a freaky rich dude who I can’t say more about because of the NDA.\n So when I met this guy with the most perfect curly mullet who promised me a little pink house in one of the flyover states, it sounded pretty good. Forty years later, I’m still not even sure what state we’re living in, but I do know that I hate this goddamn place with the fire of a thousand California suns.\n When we first moved here, it was fine. It was the Reagan ’80s, a time of flag-waving and parades and scantily clad women cheerleading in MTV videos for no particular reason. Men who had never…",
+          "link": "https://www.mcsweeneys.net/articles/im-the-la-doll-in-john-cougar-mellencamps-small-town-and-i-hate-this-godforsaken-shithole",
+          "publishedOn": "2026-02-18T18:00:00.000Z",
+          "wordCount": 2613,
+          "title": "I’m the L.A. Doll in John Cougar Mellencamp’s “Small Town,” and I Hate This Godforsaken Shithole",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/5ar32alx10k5g7jb6hxx60n5mc08"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/some-autistic-thoughts-on-joy-and-a-sneak-peek-at-my-debut-fiction",
+          "author": "Taylor Harris",
+          "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame, and mutters, “Yep, that tracks. I see it all now.”\n - - -\n“I’ve been thinking about it all wrong,” said the town’s perimenopausal autistic woman every day, upon waking and going to bed. And sometimes whilst she sat alone upon the chamber pot, flipping through daguerreotypes from her bestie.\n “What is it, my dear?” her husband asked. He’d once read a pamphlet on the four humors and feared she’d gone mad, oversaturated with black bile. “You’ve been all in a dither for a fortnight now. Shall I send for the doctor? Although… he is most adept at watching patients burn with fever before declaring…",
+          "link": "https://www.mcsweeneys.net/articles/some-autistic-thoughts-on-joy-and-a-sneak-peek-at-my-debut-fiction",
+          "publishedOn": "2026-02-18T14:00:00.000Z",
+          "wordCount": 3291,
+          "title": "Some Autistic Thoughts on Joy, and a Sneak Peek at My Debut Fiction",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/f6reehj69e0nhpa8vdbt9984e8mm"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/board-game-developers-notes-during-the-first-playtest-of-jumanji",
+          "author": "Joe Wellman",
+          "description": "Glad I went with ominous drumbeats as the beckoning call, all four players looking upon the game with wonder and dread. Woodwinds/sitars would have been a mistake.\n  \n Game instructions clear enough to be understood by players, vaguely threatening enough to unnerve them. Struck a great balance there.\n  \n Two youngest players mystified by the enchanted game tokens. An excellent sign, as I’ll be pitching Jumanji as a game for wayward youths looking to escape the tedium of their daily lives / learn a few things the hard way.\n  \n Turn up sadism levels in monkeys. Antics are WAY too on the playful side. Don’t be afraid to go overboard here either. I’d rather have them throwing knives and stealing police cars than—Jesus—tickling each other.\n  \n Giant flesh-eating plants went smoothly. Creeped in…",
+          "link": "https://www.mcsweeneys.net/articles/board-game-developers-notes-during-the-first-playtest-of-jumanji",
+          "publishedOn": "2026-02-18T13:00:00.000Z",
+          "wordCount": 2548,
+          "title": "Board Game Developer’s Notes During the First Playtest of Jumanji",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/vc7arutcld6p73qt62g5rz7fmx44"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/we-can-reform-the-atrocity-machine",
           "author": "Andrew Patrick Clark",
