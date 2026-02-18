@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-17T18:21:23.555Z</updated>
+    <updated>2026-02-18T00:27:39.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coastal flood advisory issued for area including Berkeley shoreline]]></title>
+        <id>https://richmondside.org/?p=461778</id>
+        <link href="https://www.berkeleyside.org/2026/02/17/richmond-ca-weather-flood-advisory"/>
+        <updated>2026-02-17T23:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Berkeley has received more than 2 inches of rain within the last 48 hours as Bay Area cities grapple with switch back to wintery weather.]]></summary>
+        <author>
+            <name>Kari Hulac and Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosecutors Admit the DHS Account of an ICE Shooting Was Based on Lies]]></title>
+        <id>https://reason.com/?p=8368922</id>
+        <link href="https://reason.com/2026/02/17/prosecutors-admit-the-dhs-account-of-an-ice-shooting-was-based-on-lies/"/>
+        <updated>2026-02-17T21:50:33.000Z</updated>
+        <summary type="html"><![CDATA[The department's pattern of dishonesty supports a presumption of irregularity.]]></summary>
+        <author>
+            <name>Jacob Sullum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to McKinley: How the U.S. almost colonized a chunk of Cuba]]></title>
+        <id>https://bigthink.com/strange-maps/mckinley-colonies/</id>
+        <link href="https://bigthink.com/strange-maps/mckinley-colonies/"/>
+        <updated>2026-02-17T21:29:59.000Z</updated>
+        <summary type="html"><![CDATA[In an abandoned cemetery on Cuba’s Isla de la Juventud stands the weathered headstone of Estefania Koenig. When she died in 1981, at the ripe old age of 95, she was the last American of what had once been called the McKinley Colonies. A century ago, it was a thriving citrus-growing community, American in everything except the letter of the law. Then came a couple of devastating hurricanes — and the closure of a geopolitical loophole.
+A forgotten footnote in American history
+The story of the McKinley Colonies is more than a forgotten footnote in history. William McKinley, the 25th president of the United States (from 1897 until his assassination in 1901), was America’s last unabashed expansionist-in-chief. Under his watch, the U.S. snapped up Guam, the Philippines, Puerto Rico, and Cuba fro…]]></summary>
+        <author>
+            <name>Frank Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Opening Bakery debuts with Lunar New Year specialities, and a new Berkeley provisions shop is almost ready]]></title>
+        <id>https://www.berkeleyside.org/?p=552261</id>
+        <link href="https://www.berkeleyside.org/2026/02/17/grand-opening-ace-seafood-butter-pecan"/>
+        <updated>2026-02-17T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Jose Can Protect Immigrants by Ending Flock Surveillance System]]></title>
+        <id>111738 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/02/op-ed-san-jose-can-protect-immigrants-ending-flock-surveillance-system"/>
+        <updated>2026-02-17T18:55:34.000Z</updated>
+        <summary type="html"><![CDATA[(This appeared as an op-ed published February 12, 2026 in the San Jose Spotlight, written by Huy Tran (SIREN), Jeffrey Wang (CAIR-SFBA), and Jennifer Pinsof.)
+As ICE and other federal agencies continue their assault on civil liberties, local leaders are stepping up to protect their communities. This includes pushing back against automated license plate readers, or ALPRs, which are tools of mass surveillance that can be weaponized against immigrants, political dissidents and other targets.
+In recent weeks, Mountain View, Los Altos Hills, Santa Cruz, East Palo Alto and Santa Clara County have begun reconsidering their ALPR programs. San Jose should join them. This dangerous technology poses an unacceptable risk to the safety of immigrants and other vulnerable populations.
+ALPRs are marketed …]]></summary>
+        <author>
+            <name>Jennifer Pinsof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tom Homan Justifies Masked ICE Agents Because Threats Are Up 'Over 8,000 Percent']]></title>
         <id>https://reason.com/?p=8368832</id>
@@ -37,6 +92,22 @@
  Reform takes negotiation, and sometimes that means playing hardball. In t…]]></summary>
         <author>
             <name>Andrew Patrick Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Report Helps Journalists Dig Deeper Into Police Surveillance Technology]]></title>
+        <id>111705 at https://www.eff.org</id>
+        <link href="https://www.eff.org/press/releases/new-report-helps-journalists-dig-deeper-police-surveillance-technology"/>
+        <updated>2026-02-17T17:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Report from EFF, Center for Just Journalism, and IPVM Helps Cut Through Sales Hype
+
+
+
+SAN FRANCISCO — A new report released today offers journalists tips on cutting through the sales hype about police surveillance technology and report accurately on costs, benefits, privacy, and accountability as these invasive and often ineffective tools come to communities across the nation. 
+The “Selling Safety” report is a joint project of the Electronic Frontier Foundation (EFF), the Center for Just Journalism (CJJ), and IPVM. 
+Police technology is often sold as a silver bullet: a way to modernize departments, make communities safer, and eliminate human bias from policing with algorithmic objectivity. Behind the slick marketing is a sprawling, under-scrutinized industry that relies on manufacturing th…]]></summary>
+        <author>
+            <name>Josh Richman</name>
         </author>
     </entry>
     <entry>
@@ -10819,17 +10890,6 @@ Thankfully, the ruse worked. As we wound our way toward the Oregon coast, she no
 At first, I was bored. My brain, conditioned by a decade of smartphone use, kept reaching for the familiar dopamine drip of const…]]></summary>
         <author>
             <name>Eric Markowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ring galaxies, the rarest galaxy type of all, are finally understood]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/ring-galaxies/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/ring-galaxies/"/>
-        <updated>2025-11-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When we look out into deep space, beyond the confines of the Milky Way, we find that the Universe isn’t quite so empty. An enormous variety of galaxies fill the abyss of space: small and large, near and far, in rich clusters and in near-total isolation. The Milky Way itself represents just one of at least two trillion such galaxies (and probably several times as many) within the observable Universe. Galaxies are collections of both dark matter and normal matter, where the latter includes plasmas, gas, dust, planets, black holes, and — most prominently — stars. After all, it’s through the examination of that starlight that we’ve learned the most about the physical properties of galaxies, and been able to reconstruct how they came to be.
-In general, there are four classes of galaxies that we…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

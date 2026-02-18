@@ -1119,6 +1119,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8368922",
+          "author": "Jacob Sullum",
+          "description": "The department's pattern of dishonesty supports a presumption of irregularity.",
+          "link": "https://reason.com/2026/02/17/prosecutors-admit-the-dhs-account-of-an-ice-shooting-was-based-on-lies/",
+          "publishedOn": "2026-02-17T21:50:33.000Z",
+          "wordCount": null,
+          "title": "Prosecutors Admit the DHS Account of an ICE Shooting Was Based on Lies",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8368832",
           "author": "Joe Lancaster",
           "description": "Homan's numbers are misleading, but even if they weren't, it wouldn't justify allowing an entire federal law enforcement agency to operate in anonymity.",
@@ -2886,6 +2897,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=461778",
+          "author": "Kari Hulac and Berkeleyside Staff",
+          "description": "Berkeley has received more than 2 inches of rain within the last 48 hours as Bay Area cities grapple with switch back to wintery weather.",
+          "link": "https://www.berkeleyside.org/2026/02/17/richmond-ca-weather-flood-advisory",
+          "publishedOn": "2026-02-17T23:17:02.000Z",
+          "wordCount": 7951,
+          "title": "Coastal flood advisory issued for area including Berkeley shoreline",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/DSC0052-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552261",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/02/17/grand-opening-ace-seafood-butter-pecan",
+          "publishedOn": "2026-02-17T20:00:00.000Z",
+          "wordCount": 7346,
+          "title": "Grand Opening Bakery debuts with Lunar New Year specialities, and a new Berkeley provisions shop is almost ready",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/GrandOpening-Bakery.jpg?fit=1054%2C790&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=469230",
           "author": "Azucena Rasilla",
@@ -7037,6 +7068,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/strange-maps/mckinley-colonies/",
+          "author": "Frank Jacobs",
+          "description": "In an abandoned cemetery on Cuba’s Isla de la Juventud stands the weathered headstone of Estefania Koenig. When she died in 1981, at the ripe old age of 95, she was the last American of what had once been called the McKinley Colonies. A century ago, it was a thriving citrus-growing community, American in everything except the letter of the law. Then came a couple of devastating hurricanes — and the closure of a geopolitical loophole.\nA forgotten footnote in American history\nThe story of the McKinley Colonies is more than a forgotten footnote in history. William McKinley, the 25th president of the United States (from 1897 until his assassination in 1901), was America’s last unabashed expansionist-in-chief. Under his watch, the U.S. snapped up Guam, the Philippines, Puerto Rico, and Cuba fro…",
+          "link": "https://bigthink.com/strange-maps/mckinley-colonies/",
+          "publishedOn": "2026-02-17T21:29:59.000Z",
+          "wordCount": 3682,
+          "title": "Welcome to McKinley: How the U.S. almost colonized a chunk of Cuba",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Cropped-West-McKinley.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/business/why-warren-buffetts-superpower-is-an-achilles-heel-for-ai/",
           "author": "Angus Fletcher",
           "description": "Trillions of dollars are now at risk because global investors are making the same mistake that caused the dot-com bubble, Black Friday, and the 1929 Wall Street crash. The mistake is: To believe that numbers can predict the future.\nThe mistake originates in logic. Logic reduces life to statistics. And statistics convert real-world business into spreadsheets of digits: total income, net profit, employee productivity. . . Those mathematical values are then scoured by logic for patterns and trends. Which is to say: The spreadsheets are fed into AI machine learning systems or analyzed by traders who (by engaging Daniel Kahneman’s system 2) have rigorously purged their minds of bias. Until — with probabilistic precision — the cost of future commodities is computed, prompting a set of rational e…",
@@ -9155,16 +9196,6 @@
           "wordCount": 2910,
           "title": "The brilliance of boredom",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Ennui_MET_DP818345-3200x1800-1.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/ring-galaxies/",
-          "author": "Ethan Siegel",
-          "description": "When we look out into deep space, beyond the confines of the Milky Way, we find that the Universe isn’t quite so empty. An enormous variety of galaxies fill the abyss of space: small and large, near and far, in rich clusters and in near-total isolation. The Milky Way itself represents just one of at least two trillion such galaxies (and probably several times as many) within the observable Universe. Galaxies are collections of both dark matter and normal matter, where the latter includes plasmas, gas, dust, planets, black holes, and — most prominently — stars. After all, it’s through the examination of that starlight that we’ve learned the most about the physical properties of galaxies, and been able to reconstruct how they came to be.\nIn general, there are four classes of galaxies that we…",
-          "link": "https://bigthink.com/starts-with-a-bang/ring-galaxies/",
-          "publishedOn": "2025-11-20T07:00:00.000Z",
-          "wordCount": 4617,
-          "title": "Ring galaxies, the rarest galaxy type of all, are finally understood",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/04/477735main_hoag_hst_big_full-e1763573945321.jpg?resize=1200,630"
         }
       ]
     },
@@ -10013,6 +10044,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111738 at https://www.eff.org",
+          "author": "Jennifer Pinsof",
+          "description": "(This appeared as an op-ed published February 12, 2026 in the San Jose Spotlight, written by Huy Tran (SIREN), Jeffrey Wang (CAIR-SFBA), and Jennifer Pinsof.)\nAs ICE and other federal agencies continue their assault on civil liberties, local leaders are stepping up to protect their communities. This includes pushing back against automated license plate readers, or ALPRs, which are tools of mass surveillance that can be weaponized against immigrants, political dissidents and other targets.\nIn recent weeks, Mountain View, Los Altos Hills, Santa Cruz, East Palo Alto and Santa Clara County have begun reconsidering their ALPR programs. San Jose should join them. This dangerous technology poses an unacceptable risk to the safety of immigrants and other vulnerable populations.\nALPRs are marketed …",
+          "link": "https://www.eff.org/deeplinks/2026/02/op-ed-san-jose-can-protect-immigrants-ending-flock-surveillance-system",
+          "publishedOn": "2026-02-17T18:55:34.000Z",
+          "wordCount": 1869,
+          "title": "San Jose Can Protect Immigrants by Ending Flock Surveillance System",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+            "alt": "sinister cop and cameras loom over street grid with cars identified by license plates",
+            "type": "image/png",
+            "length": "224550"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/siren_v._san_jose.png"
+        },
+        {
+          "id": "111705 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Report from EFF, Center for Just Journalism, and IPVM Helps Cut Through Sales Hype\n\n\n\nSAN FRANCISCO — A new report released today offers journalists tips on cutting through the sales hype about police surveillance technology and report accurately on costs, benefits, privacy, and accountability as these invasive and often ineffective tools come to communities across the nation. \nThe “Selling Safety” report is a joint project of the Electronic Frontier Foundation (EFF), the Center for Just Journalism (CJJ), and IPVM. \nPolice technology is often sold as a silver bullet: a way to modernize departments, make communities safer, and eliminate human bias from policing with algorithmic objectivity. Behind the slick marketing is a sprawling, under-scrutinized industry that relies on manufacturing th…",
+          "link": "https://www.eff.org/press/releases/new-report-helps-journalists-dig-deeper-police-surveillance-technology",
+          "publishedOn": "2026-02-17T17:56:51.000Z",
+          "wordCount": 1718,
+          "title": "New Report Helps Journalists Dig Deeper Into Police Surveillance Technology",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/surveillance-og-2.png",
+            "alt": "A cityscape with surveillance",
+            "type": "image/png",
+            "length": "67391"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/surveillance-og-2.png"
+        },
         {
           "id": "111737 at https://www.eff.org",
           "author": "Melissa Srago",
