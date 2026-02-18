@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-18T00:27:39.022Z</updated>
+    <updated>2026-02-18T06:25:16.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea]]></title>
+        <id>111741 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea"/>
+        <updated>2026-02-18T00:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Wisconsin’s S.B. 130 / A.B. 105 is a spectacularly bad idea. 
+It’s an age-verification bill that effectively bans VPN access to certain websites for Wisconsinites and censors lawful speech. We wrote about it last November in our blog “Lawmakers Want to Ban VPNs—And They Have No Idea What They're Doing,” but since then, the bill has passed the State Assembly and is scheduled for a vote in the State Senate tomorrow.
+In light of this, EFF sent a letter to the entire Wisconsin Legislature urging lawmakers to reject this dangerous bill.
+You can read the full letter here.
+The short version? This bill both requires invasive age verification for websites that host content lawmakers might deem “sexual” and requires that those sites block any user that connects via a Virtual Private Network (VPN). V…]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coastal flood advisory issued for area including Berkeley shoreline]]></title>
         <id>https://richmondside.org/?p=461778</id>
@@ -10818,16 +10832,6 @@ This video How large language models view our world is featured on Big Think.]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Case For AI ‘Datarails’]]></title>
-        <id>https://www.noemamag.com/the-case-for-ai-datarails</id>
-        <link href="https://www.noemamag.com/the-case-for-ai-datarails"/>
-        <updated>2025-11-20T17:33:25.000Z</updated>
-        <summary type="html"><![CDATA[The post The Case For AI ‘Datarails’ appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Martin Skladany</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The hardcore band @turnstile left behind something soft at the Tiny Desk.]]></title>
         <id>https://www.youtube.com/shorts/_dJjbfRJMNI</id>
         <link href="https://www.youtube.com/shorts/_dJjbfRJMNI"/>
@@ -10835,61 +10839,6 @@ This video How large language models view our world is featured on Big Think.]]>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read Something Wonderful (about Biology)]]></title>
-        <id>https://www.asimov.press/p/read-biology</id>
-        <link href="https://www.asimov.press/p/read-biology"/>
-        <updated>2025-11-20T16:48:48.000Z</updated>
-        <summary type="html"><![CDATA[A curated list of 100+ essays about biology and science.]]></summary>
-        <author>
-            <name>Niko McCarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A Christmas Carol’ with Jefferson Mays comes to Berkeley Rep]]></title>
-        <id>https://www.berkeleyside.org/?p=547723</id>
-        <link href="https://www.berkeleyside.org/2025/11/20/a-christmas-carol-with-jefferson-mays-comes-to-berkeley-rep"/>
-        <updated>2025-11-20T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Tony-winning actor talks about his one-man performance of the Dickens classic.]]></summary>
-        <author>
-            <name>Local sponsor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Einstein’s cryptids: The disputed, but possible, phenomena of the cosmos]]></title>
-        <id>https://bigthink.com/books/einsteins-cosmic-cryptids/</id>
-        <link href="https://bigthink.com/books/einsteins-cosmic-cryptids/"/>
-        <updated>2025-11-20T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[They say the Goatman prowls the woods at night near my home in Maryland. He was once a biologist named Stephen Fletcher at the Beltsville Agricultural Research Center. That was before the accident with goat DNA transformed him into a half-­human, half-­goat monster who devours victims that he slays with an axe.  It’s been decades since I first heard of the Goatman. 
-Honestly, I’m fairly certain that the carnivorous goat–­human hybrid isn’t real. It’s hard to prove something doesn’t exist, though. There are things you don’t believe in because they’re at odds with what you’re confident is true. Perpetual motion machines and alchemists’ stones that turn lead into gold don’t exist. If they did, lots of established science would need to be wrong.
-Then, there are other things you might not belie…]]></summary>
-        <author>
-            <name>James Riordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Rethinking Thanksgiving, nature journaling, Dungeons & Dragons play]]></title>
-        <id>https://www.berkeleyside.org/?p=547676</id>
-        <link href="https://www.berkeleyside.org/2025/11/20/around-berkeley-rethinking-thanksgiving-nature-journaling-dungeons-dragons-play"/>
-        <updated>2025-11-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a burlesque Nutcracker show, a Thanksgiving country dance and an exhibition about the evolution of books.]]></summary>
-        <author>
-            <name>Andrew Gilbert and Karen Nguyen Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The brilliance of boredom]]></title>
-        <id>https://bigthink.com/business/the-brilliance-of-boredom/</id>
-        <link href="https://bigthink.com/business/the-brilliance-of-boredom/"/>
-        <updated>2025-11-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A couple weeks ago I wandered into a digression about toxic workplaces. Consider this week’s Nightcrawler another small detour into the forgotten value of boredom.
-Last Saturday, our four-year-old didn’t sleep well. So on Sunday morning, I did what many semi-desperate parents have done for generations: I loaded her into her carseat, and set out for a long, pointless drive to get her to fall asleep.
-Thankfully, the ruse worked. As we wound our way toward the Oregon coast, she nodded off after a promised donut. I reached for my headphones, ready to salvage my odyssey with a podcast or something vaguely productive. And then: disaster. I realized I’d forgotten them.
-At first, I was bored. My brain, conditioned by a decade of smartphone use, kept reaching for the familiar dopamine drip of const…]]></summary>
-        <author>
-            <name>Eric Markowitz</name>
         </author>
     </entry>
     <entry>
