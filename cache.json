@@ -361,16 +361,6 @@
           "wordCount": 3719,
           "title": "A Cell So Minimal That It Challenges Definitions of Life",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Quasi-lifeforms-cr-Carlos-Arrojo-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=156762",
-          "author": "Joseph Howlett",
-          "description": "Descriptive set theorists study the niche mathematics of infinity. Now, they’ve shown that their problems can be rewritten in the concrete language of algorithms.            \nThe post A New Bridge Links the Strange Math of Infinity to Computer Science first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
-          "publishedOn": "2025-11-21T15:54:35.000Z",
-          "wordCount": 4471,
-          "title": "A New Bridge Links the Strange Math of Infinity to Computer Science",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Set-Theory-Algorythms-cr-Valentin-Tkach-Social.jpg"
         }
       ]
     },
@@ -2191,6 +2181,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3209/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3209/",
+          "publishedOn": "2026-02-18T05:00:00.000Z",
+          "wordCount": 185,
+          "title": "Plums",
+          "imageUrl": "https://imgs.xkcd.com/comics/plums_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3208/",
           "author": null,
           "description": "",
@@ -2893,16 +2893,6 @@
           "wordCount": 7861,
           "title": "The Moral Authority Of Animals",
           "imageUrl": "https://noemamag.imgix.net/2025/11/112425_Noema_AnimalsMorality_Portrait_Rendered.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=2c73ff628cca835dea18c84b943736f1"
-        },
-        {
-          "id": "https://www.noemamag.com/address-affordability-by-spreading-ai-wealth-around",
-          "author": "Nathan Gardels",
-          "description": "The post Address ‘Affordability’ By Spreading AI Wealth Around appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/address-affordability-by-spreading-ai-wealth-around",
-          "publishedOn": "2025-11-21T17:37:58.000Z",
-          "wordCount": 4479,
-          "title": "Address ‘Affordability’ By Spreading AI Wealth Around",
-          "imageUrl": "https://noemamag.imgix.net/2025/11/Noema-Roundup-Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c8129552305622a86dc7662fdaafc35d"
         }
       ]
     },
@@ -5840,26 +5830,6 @@
           "wordCount": 6811,
           "title": "After 10 years in Temescal, Roses’ Taproom announces closure",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/RosesTaproom.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=464983",
-          "author": "Jose Fermoso",
-          "description": "Card readers on only one side, gates that are slow to open — an accessibility task force raised multiple concerns as the plan rolled out, but members say BART didn’t always listen.",
-          "link": "https://www.berkeleyside.org/2025/11/21/bart-disability-accessibility-new-gates",
-          "publishedOn": "2025-11-21T13:55:00.000Z",
-          "wordCount": 7902,
-          "title": "Did BART address disability access in rolling out its new gates?",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/new-bart-entrance-at-west-oakland-by-jose-fermoso.jpeg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547813",
-          "author": "Alan Bernheimer",
-          "description": "Trained as a librarian, the North Berkeley resident wrote extensively about the history of bookbinding.",
-          "link": "https://www.berkeleyside.org/2025/11/21/tom-conroy-obituary",
-          "publishedOn": "2025-11-21T13:00:00.000Z",
-          "wordCount": 6675,
-          "title": "Remembering Tom Conroy, master bookbinder",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Tom-Conroy.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -6252,6 +6222,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/i-witnessed-the-birth-of-a-tiny-world",
+          "author": null,
+          "description": "How the mind creates and improves its framings on the fly",
+          "link": "https://aethermug.com/posts/i-witnessed-the-birth-of-a-tiny-world?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-02-19T04:21:58.000Z",
+          "wordCount": 6758,
+          "title": "I Witnessed the Birth of a Tiny World",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/i-witnessed-the-birth-of-a-tiny-world/kaitlin-duffey-BrI5b8rcY3w-unsplash.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/i-witnessed-the-birth-of-a-tiny-world/kaitlin-duffey-BrI5b8rcY3w-unsplash.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
           "author": null,
@@ -9220,26 +9205,6 @@
           "wordCount": 2451,
           "title": "How far back in time can the naked eye see?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2024/11/Artistic_Composition_of_DESI_Year-One_Data_Slice_Above_the_Nicholas_U_Mayall_4-meter_Telescope_noirlab2408a.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/r-f-kuang/",
-          "author": "Tim Brinkhof",
-          "description": "Rebecca (R.F.) Kuang sold the rights to her first novel, The Poppy War, on her 20th birthday. Even more impressive is her string of critical and commercial successes since. So far, all six of her novels have become New York Times bestsellers, and she has won numerous literary awards.\nHer professional career has developed alongside, and frequently drawn inspiration from, her academic studies. She conceived of The Poppy War trilogy, an epic fantasy series modeled after the Second Sino-Japanese War, while studying Chinese history at Georgetown University. Babel, a story about a Chinese orphan who discovers arcane magic while at Oxford, came together while she was a Marshall Scholar at Oxford and Cambridge. Her most recent novel, Katabasis, which follows two PhD students venturing into hell à …",
-          "link": "https://bigthink.com/books/r-f-kuang/",
-          "publishedOn": "2025-11-21T15:30:00.000Z",
-          "wordCount": 3143,
-          "title": "R.F. Kuang writes through doubt to find her strongest stories",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/RF-Kuang-Interview.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/the-well/how-dark-matter-and-dark-energy-shape-the-cosmos/",
-          "author": "Janna Levin",
-          "description": "Everything ever seen — every star, every planet, every person — is part of less than 5 percent of the known universe. The rest exists as dark matter and dark energy: invisible forces that shape everything, yet remain beyond our reach.\nIn this talk from Big Think and the John Templeton Foundation’s A Night of Awe and Wonder, astrophysicist Janna Levin explores how this cosmic mystery reframes our sense of existence. She describes how dark energy drives the expansion of space, how dark matter sculpts galaxies, and how our luminous world of atoms and light drifts through this vast, unseen sea.\nRather than despair, Levin finds in this realization a profound humility. “You are not a drop in the ocean,” Rumi wrote. “You are the entire ocean in a drop.” To understand our smallness is to glimpse the beauty of belonging: a fleeting brilliance in an immense, invisible cosmos.\nThis video 95% of the universe is invisible. Here’s why that should fill us with wonder is featured on Big Think.",
-          "link": "https://bigthink.com/the-well/how-dark-matter-and-dark-energy-shape-the-cosmos/",
-          "publishedOn": "2025-11-21T14:00:00.000Z",
-          "wordCount": 2575,
-          "title": "95% of the universe is invisible. Here’s why that should fill us with wonder",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Levin.jpg?resize=1200,630"
         }
       ]
     },
@@ -9637,16 +9602,6 @@
           "wordCount": 5756,
           "title": "Vegan Cheeseburger Bowl",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Burger-Bowls1061.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=71390",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "Soy curl “chicken,” tempeh bacon, and a zesty lettuce slaw make this Vegan Grinder Sandwich taste just like the kind you’d order from your favourite sandwich shop. With 31 grams of protein per serving, it’s hearty and satisfying! Lately I’ve been trying to work more protein into my day, but relying on protein powders and […]",
-          "link": "https://jessicainthekitchen.com/vegan-grinder-sandwich/",
-          "publishedOn": "2025-11-21T15:00:00.000Z",
-          "wordCount": 6336,
-          "title": "Vegan Grinder Sandwich",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Grinder-Sandwich8273.jpg"
         }
       ]
     },
