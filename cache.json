@@ -382,6 +382,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6997462202276e000162898b",
+          "author": "Emanuel Maiberg",
+          "description": "“Looksmaxxers” are losers and freaks, but we let them steer the culture when we adopt their terminology.",
+          "link": "https://www.404media.co/we-have-learned-nothing-about-amplifying-morons/",
+          "publishedOn": "2026-02-19T17:38:18.000Z",
+          "wordCount": 2003,
+          "title": "We Have Learned Nothing About Amplifying Morons",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/piers.jpg"
+        },
+        {
+          "id": "6997260502276e0001627502",
+          "author": "Noelle Perdue",
+          "description": "In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
+          "link": "https://www.404media.co/grok-doxing-real-names-birthdates-siri-dahl/",
+          "publishedOn": "2026-02-19T16:01:50.000Z",
+          "wordCount": 1689,
+          "title": "Grok Exposed a Porn Performer’s Legal Name and Birthdate—Without Even Being Asked",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/IMG_3604-1.jpeg"
+        },
+        {
+          "id": "6994821802276e00015b0a5d",
+          "author": "Matthew Gault",
+          "description": "Users are exhausted fighting AI moderation, AI-generated art, and AI-first features.",
+          "link": "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/",
+          "publishedOn": "2026-02-19T14:24:44.000Z",
+          "wordCount": 2093,
+          "title": "Pinterest Is Drowning in a Sea of AI Slop and Auto-Moderation",
+          "imageUrl": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFBpbnRlcmVzdHxlbnwwfHx8fDE3NzEzNDAzNzJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6995f70002276e00016000ec",
           "author": "Joseph Cox",
           "description": "Regulation of immigration or work visas means \"it could be more difficult to staff our personnel on customer engagements and could increase our costs,\" Palantir wrote.",
@@ -1897,6 +1927,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/baseline-drift",
+          "author": "Asimov Press",
+          "description": "A eulogy to the reference human.",
+          "link": "https://www.asimov.press/p/baseline-drift",
+          "publishedOn": "2026-02-19T15:54:12.000Z",
+          "wordCount": null,
+          "title": "Baseline Drift",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!fCAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05e84766-9161-4fde-ae0e-2952d80a3386_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!fCAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05e84766-9161-4fde-ae0e-2952d80a3386_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/scent",
           "author": "Asimov Press",
           "description": "Once a primal instinct, olfaction is now being mapped, measured, and modeled by machines.",
@@ -2615,6 +2661,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-quest-for-clean-cargo",
+          "author": "Julian Sayarer",
+          "description": "The post The Quest For Clean Cargo appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-quest-for-clean-cargo",
+          "publishedOn": "2026-02-19T14:42:10.000Z",
+          "wordCount": 18770,
+          "title": "The Quest For Clean Cargo",
+          "imageUrl": "https://noemamag.imgix.net/2026/02/Final-5.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=148d064e2afce712106eb2425d9dce6f"
+        },
+        {
           "id": "https://www.noemamag.com/our-emerging-planetary-nervous-system",
           "author": "Rimma Boshernitsan",
           "description": "The post Our Emerging Planetary Nervous System appeared first on NOEMA.",
@@ -2901,6 +2957,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552417",
+          "author": "Nico Savidge",
+          "description": "Berkeley spent tens of millions of dollars on non-competitive contracts for deals that should have gone out to bid, the city’s auditor found, though there was no evidence of corruption or favoritism.",
+          "link": "https://www.berkeleyside.org/2026/02/19/berkeley-contract-audit-non-competitive",
+          "publishedOn": "2026-02-19T18:02:16.000Z",
+          "wordCount": 7873,
+          "title": "No-bid city contracts could be giving Berkeley a bad deal, audit finds",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/11/DSC_0805-e1573533967862.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552349",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include an author talk by antifascist and sex activist Kitty Stryker and a musical featuring two lovers bonding through music.",
+          "link": "https://www.berkeleyside.org/2026/02/19/around-berkeley-lunar-new-year-youth-orchestra-concert-free-wood-chips",
+          "publishedOn": "2026-02-19T14:00:00.000Z",
+          "wordCount": 8216,
+          "title": "Around Berkeley: Lunar New Year, youth orchestra concert, free wood chips",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/teance-lunar-new-year.png?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552368",
           "author": "Madeline Taub",
@@ -6164,16 +6240,6 @@
           "wordCount": null,
           "title": "158 Christmas presents, chosen by Guardian columnists",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/nov/22/vegan-gochujang-tofu-ragu-recipe-gnocchi-pickled-cucumber-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A comforting and filling mix of Korean and Italian flavours and textures that’s ideal for weeknight dinner\n\nShare your questions for Meera Sodha, Tim Dowling and Stuart Heritage for a special Guardian Live event on Wednesday 26 November.\n\nI am a ragu-fancier and akheema fanatic. Unlike with most foods, however, it doesn’t do to rationalise this love for ragu, because it is a mash of things chopped up so small that they all lose their texture. This might sound a bit woo-woo, but the joy of ragu comes from feeling your way through it, from the chopping and standing with your thoughts, to stirring a bubbling pot and the smell creeping under the door. A ragu isn’t just a ragu, it’s a coming-together of good things: thoughts, feelings, ingredients, time and effort.\nJoin Meera Sodha at a special event celebrating the best of Guardian culture on Wednesday 26 November, hosted by Nish Kumar and alongside writers Stuart Heritage and Tim Dowling, with Georgina Lawton hosting You Be The Judge live. Live in London or via livestream, book tickets here.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/nov/22/vegan-gochujang-tofu-ragu-recipe-gnocchi-pickled-cucumber-meera-sodha",
-          "publishedOn": "2025-11-22T06:00:33.000Z",
-          "wordCount": 4680,
-          "title": "Meera Sodha’s vegan recipe for gochujang and tofu ragu with gnocchi and pickled cucumber | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/a4cad0e178fd98fdd743bfb9896c3d08845c362b/0_523_3695_2957/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0953362196616357d22b6abd9fca5500"
         }
       ]
     },
@@ -6976,6 +7042,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/science-fiction-mars/",
+          "author": "Ross Pomeroy",
+          "description": "In Andy Weir’s bestselling novel The Martian, foul-mouthed protagonist Mark Watney “sciences the shit” out of his circumstances to survive being stranded on Mars. The result is an engrossing work of science fiction, particularly captivating for its apparent realism. Watney ekes out an existence by eating potatoes sowed in Martian soil fertilized by his own feces. He shelters from the frigid conditions in his above-ground habitation unit, huddling around a repurposed, radiating nuclear battery. \nWatney’s survivalist experience isn’t exactly an advertisement from the Red Planet’s tourist board, but it does romanticize space settlement, showcasing humanity’s ability to heroically persist beyond our “blue marble.” Readers are left with the sense that living on Mars is not just possible, but pr…",
+          "link": "https://bigthink.com/books/science-fiction-mars/",
+          "publishedOn": "2026-02-19T15:30:00.000Z",
+          "wordCount": 3311,
+          "title": "Science fiction blinded us to the perils of settling Mars",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Becoming-Martian.gif?w=800&h=450&crop=1"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/big-bangs-final-prediction/",
           "author": "Ethan Siegel",
@@ -9576,6 +9652,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/our-mission-at-the-environmental-protection-agency-is-simple-destroy-the-environment",
+          "author": "Luke Strom",
+          "description": "“President Trump announced he was erasing the scientific finding that climate change endangers human health and the environment, ending the federal government’s legal authority to control the pollution that is dangerously heating the planet.” — New York Times\n - - -\nThe EPA was founded in 1970 to protect public health and the environment. But now, as a result of President Trump’s forward-thinking leadership, our mission at the Environmental Protection Agency is simple: Destroy the environment.\n The threats posed by the environment are far-reaching: sunsets, strawberries, and a climate capable of sustaining human life, to name only a few. Immediate action must be taken before these risks become full-fledged catastrophes.\n With the president’s approval, we have officially terminated Obama-er…",
+          "link": "https://www.mcsweeneys.net/articles/our-mission-at-the-environmental-protection-agency-is-simple-destroy-the-environment",
+          "publishedOn": "2026-02-19T18:15:00.000Z",
+          "wordCount": 2460,
+          "title": "Our Mission at the Environmental Protection Agency Is Simple: Destroy the Environment",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/c541c1f2qq5srotm30teiwslzevy"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-old-west-duel-narrated-by-the-guy-that-named-the-ten-gallon-hat",
+          "author": "Tyler Gooch",
+          "description": "The lawman, Emmett Bransky, stands with his back to the outlaw “Coyote” Roscoe Higgins in the middle of Main Street mere minutes before high noon. Emmett gently adjusts his modest 6-Gallon hat. His 36-Pint vest is buttoned up to the collar, and his 4-Teaspoon belt buckle sparkles in the near-midday sun. Roscoe snarls beneath his standard 10-Gallon cowboy hat. His 50-Pint overcoat flaps in the wind, revealing an 8-Liter wool shirt with a 1-Big-Soup-Ladle chest pocket.\n The two men take their paces. Their 5-Pint boots dig into the dry, Arizona dirt road. Onlookers line Main Street wearing hats ranging from 4 to an absurd 12 gallons. “Shotgun” Dakota Devlin is clearly compensating for something with that hat.\n Della Hayes, Roscoe Higgins’ rumored lover, watches from the spacious 60-Laundry-Ba…",
+          "link": "https://www.mcsweeneys.net/articles/an-old-west-duel-narrated-by-the-guy-that-named-the-ten-gallon-hat",
+          "publishedOn": "2026-02-19T13:01:00.000Z",
+          "wordCount": 2449,
+          "title": "An Old West Duel Narrated by the Guy That Named the Ten-Gallon Hat",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1dqepgxw47hd1hby4k6spkf2dyd4"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/im-the-la-doll-in-john-cougar-mellencamps-small-town-and-i-hate-this-godforsaken-shithole",
           "author": "Lisa Borders",
