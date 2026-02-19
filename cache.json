@@ -5790,46 +5790,6 @@
           "wordCount": 7510,
           "title": "Ink Stone has been UC Berkeley’s go-to place for art and architecture supplies for 50 years",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/Ink-Stone.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547939",
-          "author": "Nico Savidge",
-          "description": "City officials previously said it would not be safe to allow events that block off the north end of Telegraph Avenue. It isn’t clear why their stance changed.",
-          "link": "https://www.berkeleyside.org/2025/11/21/berkeley-telegraph-holiday-fair-location-2025",
-          "publishedOn": "2025-11-21T22:41:38.000Z",
-          "wordCount": 7717,
-          "title": "Telegraph Holiday Fair will stay in longtime home as city reverses course",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/12/Telegraphfairoverview.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547933",
-          "author": "Julie Watson",
-          "description": "The University of California defended its decades-old in-state tuition policy as \"consistent with current legal standards.\"",
-          "link": "https://www.berkeleyside.org/2025/11/21/trump-administration-sues-uc-and-state-over-giving-in-state-tuition-to-immigrants-in-u-s-illegally",
-          "publishedOn": "2025-11-21T21:44:21.000Z",
-          "wordCount": 7344,
-          "title": "Trump administration sues UC and state over giving in-state tuition to immigrants in U.S. illegally",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/AP22089797873830.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547924",
-          "author": "Vanessa Arredondo",
-          "description": "In a districtwide survey, most students and teachers agreed that mobile devices are a big distraction.",
-          "link": "https://www.berkeleyside.org/2025/11/21/berkeley-cell-phone-policy-middle-school-bhs",
-          "publishedOn": "2025-11-21T21:14:05.000Z",
-          "wordCount": 8106,
-          "title": "Berkeley Unified cell phone policy taking shape: ‘Bell-to-bell’ ban for middle schools, new rules for smart watches and headphones",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/20230830-001846.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547922",
-          "author": "Cecilia Seiter",
-          "description": "In yet another blow to East Bay beer-focused businesses, the bar is closing in part due to slowing business and high rent.",
-          "link": "https://www.berkeleyside.org/2025/11/21/roses-taproom-temescal-closing",
-          "publishedOn": "2025-11-21T20:25:38.000Z",
-          "wordCount": 6811,
-          "title": "After 10 years in Temescal, Roses’ Taproom announces closure",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/RosesTaproom.jpg"
         }
       ]
     },
@@ -7008,16 +6968,6 @@
           "wordCount": null,
           "title": "David Byrne: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M74ypT_XdM4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M74ypT_XdM4",
-          "publishedOn": "2025-11-21T21:09:23.000Z",
-          "wordCount": null,
-          "title": "SEVENTEEN: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -7026,6 +6976,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/big-bangs-final-prediction/",
+          "author": "Ethan Siegel",
+          "description": "The idea of the Big Bang has captivated the imagination of humanity since it was first proposed nearly a full 100 years ago. Since the Universe is expanding today (as observations have indicated since the 1920s), then we can extrapolate back, earlier and earlier, to when it was smaller, younger, denser, and hotter. You could go back as far as you can imagine: before humans, before the stars, before there were even neutral atoms. At the earliest times of all, you’d make all the particles and antiparticles possible, including the fundamental ones that we cannot create at our low energies today.\nAs time went forward, the Universe would cool, expand, and gravitate all together. First atomic nuclei would form from protons and neutrons, then neutral atoms would form, and then gravitation would l…",
+          "link": "https://bigthink.com/starts-with-a-bang/big-bangs-final-prediction/",
+          "publishedOn": "2026-02-19T07:00:00.000Z",
+          "wordCount": 5457,
+          "title": "The Big Bang’s final and most difficult prediction: confirmed",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/03/7-3-QGP.jpg?w=960&h=459&crop=1"
+        },
         {
           "id": "https://bigthink.com/collections/biologys-new-era/",
           "author": "Big Think",
