@@ -382,6 +382,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69975a3f02276e0001628e1b",
+          "author": "Matthew Gault",
+          "description": "An Oklahoma man tried to talk about a data center coming to his community. Police arrested him when he went a few seconds over his time limit.",
+          "link": "https://www.404media.co/man-opposing-data-center-arrested-for-speaking-slightly-too-long/",
+          "publishedOn": "2026-02-19T19:23:27.000Z",
+          "wordCount": 1040,
+          "title": "Man Opposing Data Center Arrested for Speaking Slightly Too Long",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/Screenshot-2026-02-19-140649-1.png"
+        },
+        {
           "id": "6997462202276e000162898b",
           "author": "Emanuel Maiberg",
           "description": "“Looksmaxxers” are losers and freaks, but we let them steer the culture when we adopt their terminology.",
@@ -2957,6 +2967,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552441",
+          "author": "Vanessa Arredondo",
+          "description": "There were under 350 reported mumps cases in the U.S. last year, the CDC says. The alert comes amid rising misinformation about the vaccine against the contagious disease.",
+          "link": "https://www.berkeleyside.org/2026/02/19/mumps-berkeley-unified-school-district",
+          "publishedOn": "2026-02-19T22:23:37.000Z",
+          "wordCount": 7901,
+          "title": "Possible mumps exposure at Berkeley High, principal says",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AP23320622106031.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552422",
+          "author": "Momo Chang and Tovin Lapan",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/02/19/genova-deli-mt-agni-cals-xocolate-closed",
+          "publishedOn": "2026-02-19T20:00:00.000Z",
+          "wordCount": 7555,
+          "title": "Cal’s and Mt. Agni go dark, plus the last East Bay outpost of a classic Italian deli has closed",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CalsFriedChickenBurgers.jpg?fit=1920%2C1079&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552417",
           "author": "Nico Savidge",
@@ -9652,6 +9682,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-am-the-kid-in-kid-rocks-name-and-i-officially-quit",
+          "author": "Cezary Jan Strusiewicz",
+          "description": "I would like to begin by thanking Robert James Ritchie, aka “Kid Rock,” for the many years of steady employment that he has provided me, the adjective “Kid.” It has been a wild, sleeveless, never-eating-your-vegetables ride. However, after deep reflection and several unsuccessful attempts to exfoliate the cigarette smoke from my pores, I am officially announcing my retirement.\n I can no longer, in good conscience, attach myself to a man who looks like he was carved from fifty pounds of thawed-out and smooshed hot dogs and then left in the sun to philosophize about fireworks. I am “Kid.” I am scraped knees, Capri Suns, skateboards, and the blissful ignorance of what the age of consent is in each state. I am not whatever is currently happening north of his goatee.\n I don’t want to make it ju…",
+          "link": "https://www.mcsweeneys.net/articles/i-am-the-kid-in-kid-rocks-name-and-i-officially-quit",
+          "publishedOn": "2026-02-20T00:00:00.000Z",
+          "wordCount": 2565,
+          "title": "I Am the “Kid” in Kid Rock’s Name and I Officially Quit",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/n8ru4kj5ro7w6svof9xbu4kthgyv"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/our-mission-at-the-environmental-protection-agency-is-simple-destroy-the-environment",
           "author": "Luke Strom",
