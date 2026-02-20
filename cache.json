@@ -6476,6 +6476,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5Q7LyfbOQD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5Q7LyfbOQD8",
+          "publishedOn": "2026-02-20T10:00:06.000Z",
+          "wordCount": null,
+          "title": "FLO: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=e-YIKQTdWPY",
           "author": null,
           "description": "",
@@ -7082,6 +7092,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/will-anything-persist-when-universe-dies/",
+          "author": "Ethan Siegel",
+          "description": "If we’re willing to think about the future, the farther ahead we extrapolate, the farther along the inevitable path towards our thermodynamic end state: the heat death of the Universe. Star-formation will eventually end, and then the last shining stars will burn out. Galaxies will dissociate due to gravitational interactions, ejecting all masses and leaving only supermassive black holes behind. And then those black holes will decay via Hawking radiation, leaving only cold, stable, isolated bodies, from which no further energy can be extracted, all accelerating away from us within our dark energy-dominated Universe.\nAt least, that’s what will happen in our far future based on our current cosmic picture: the best one we’ve figured out as of 2026. But this troubles a great many people, includ…",
+          "link": "https://bigthink.com/starts-with-a-bang/will-anything-persist-when-universe-dies/",
+          "publishedOn": "2026-02-20T07:00:00.000Z",
+          "wordCount": 4947,
+          "title": "Ask Ethan: Will anything persist when the Universe dies?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/01visualising-spacetime-landscape-5.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/why-healthy-love-feels-uncomfortable/",
           "author": "Alain de Botton",

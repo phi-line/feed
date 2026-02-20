@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-20T06:20:44.410Z</updated>
+    <updated>2026-02-20T12:13:03.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FLO: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=5Q7LyfbOQD8</id>
+        <link href="https://www.youtube.com/watch?v=5Q7LyfbOQD8"/>
+        <updated>2026-02-20T10:00:06.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Will anything persist when the Universe dies?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/will-anything-persist-when-universe-dies/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/will-anything-persist-when-universe-dies/"/>
+        <updated>2026-02-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If we’re willing to think about the future, the farther ahead we extrapolate, the farther along the inevitable path towards our thermodynamic end state: the heat death of the Universe. Star-formation will eventually end, and then the last shining stars will burn out. Galaxies will dissociate due to gravitational interactions, ejecting all masses and leaving only supermassive black holes behind. And then those black holes will decay via Hawking radiation, leaving only cold, stable, isolated bodies, from which no further energy can be extracted, all accelerating away from us within our dark energy-dominated Universe.
+At least, that’s what will happen in our far future based on our current cosmic picture: the best one we’ve figured out as of 2026. But this troubles a great many people, includ…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why healthy love feels uncomfortable to so many people]]></title>
         <id>https://bigthink.com/series/full-interview/why-healthy-love-feels-uncomfortable/</id>
