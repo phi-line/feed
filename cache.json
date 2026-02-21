@@ -392,6 +392,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6996125502276e0001600a60",
+          "author": "Becky Ferreira",
+          "description": "“This is really a turning point and we’re in a historical transition at present.”",
+          "link": "https://www.404media.co/at-the-worlds-largest-general-science-meeting-surviving-trump-is-the-topic/",
+          "publishedOn": "2026-02-21T14:00:56.000Z",
+          "wordCount": 3499,
+          "title": "At the World’s Largest General Science Meeting, Surviving Trump Is the Topic",
+          "imageUrl": "https://www.404media.co/content/images/2026/02/image8.jpg"
+        },
+        {
           "id": "699899ad02276e000165946a",
           "author": "Becky Ferreira",
           "description": "Researchers discovered 26 new microbial species in ancient Alaskan permafrost, hoping their frost-fighting chemistry could help soldiers and civilians alike survive extreme cold.",
@@ -2655,16 +2665,6 @@
           "wordCount": 206,
           "title": "Satellite Imagery",
           "imageUrl": "https://imgs.xkcd.com/comics/satellite_imagery_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3172/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3172/",
-          "publishedOn": "2025-11-24T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Fifteen Years",
-          "imageUrl": "https://imgs.xkcd.com/comics/fifteen_years_2x.png"
         }
       ]
     },
