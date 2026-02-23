@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-22T18:08:33.959Z</updated>
+    <updated>2026-02-23T00:27:01.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Origins of Agar]]></title>
+        <id>https://www.asimov.press/p/agar</id>
+        <link href="https://www.asimov.press/p/agar"/>
+        <updated>2026-02-22T18:59:32.000Z</updated>
+        <summary type="html"><![CDATA[First introduced into laboratories in 1881, agar remains indispensable as a culture medium.]]></summary>
+        <author>
+            <name>Corrado Nai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[At the World’s Largest General Science Meeting, Surviving Trump Is the Topic]]></title>
         <id>6996125502276e0001600a60</id>
@@ -11142,17 +11152,6 @@ Setbacks as superpowers
 Nvidia’s Je…]]></summary>
         <author>
             <name>Mark Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermassive black holes came before stars in ancient galaxies]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/"/>
-        <updated>2025-11-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What would you see if you could look into the past of every human being on Earth and see them as they were when they were 5 years old? You’d expect to see people possessing a wide variety of traits: some short and some tall, some heavy and some light in weight, some with larger feet and some with smaller feet, etc. Despite this variety, however, you’d fully expect that they’d all look like 5 year olds; you’d be shocked to find one that looked like a teenager, a young adult, or even a middle-aged adult. If this were the case, it would make you question — and rightly so — if what you were seeing was actually reflective of reality.
-But in the Universe, this is precisely what occurs when we look at the earliest, brightest, most active galaxies that contain black holes. In theory, there should …]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

@@ -1967,6 +1967,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/agar",
+          "author": "Corrado Nai",
+          "description": "First introduced into laboratories in 1881, agar remains indispensable as a culture medium.",
+          "link": "https://www.asimov.press/p/agar",
+          "publishedOn": "2026-02-22T18:59:32.000Z",
+          "wordCount": null,
+          "title": "The Origins of Agar",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ce70d617-52b4-4a2a-b3cc-efcac796d964_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce70d617-52b4-4a2a-b3cc-efcac796d964_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/baseline-drift",
           "author": "Asimov Press",
           "description": "A eulogy to the reference human.",
@@ -9285,16 +9301,6 @@
           "wordCount": 1889,
           "title": "How the best CEOs turn setbacks into superpowers",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/CEOS-turn-setbacks-to-superpowers_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/",
-          "author": "Ethan Siegel",
-          "description": "What would you see if you could look into the past of every human being on Earth and see them as they were when they were 5 years old? You’d expect to see people possessing a wide variety of traits: some short and some tall, some heavy and some light in weight, some with larger feet and some with smaller feet, etc. Despite this variety, however, you’d fully expect that they’d all look like 5 year olds; you’d be shocked to find one that looked like a teenager, a young adult, or even a middle-aged adult. If this were the case, it would make you question — and rightly so — if what you were seeing was actually reflective of reality.\nBut in the Universe, this is precisely what occurs when we look at the earliest, brightest, most active galaxies that contain black holes. In theory, there should …",
-          "link": "https://bigthink.com/starts-with-a-bang/first-supermassive-black-holes/",
-          "publishedOn": "2025-11-25T07:00:00.000Z",
-          "wordCount": 4352,
-          "title": "Supermassive black holes came before stars in ancient galaxies",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/07/0x0-e1763685857988.jpg?resize=1200,630"
         }
       ]
     },
