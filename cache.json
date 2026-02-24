@@ -2233,22 +2233,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!A6vv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae290afa-9cde-4133-b50b-4f240f2e7a04_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/arabidopsis",
-          "author": "Alexandra Balwit",
-          "description": "On the origins of Arabidopsis thaliana, the premier model for plant biology.",
-          "link": "https://www.asimov.press/p/arabidopsis",
-          "publishedOn": "2025-11-26T16:06:44.000Z",
-          "wordCount": null,
-          "title": "A Most Important Mustard",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!tor9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64315e52-1488-4e90-a8a8-9131b6bd84d7_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!tor9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64315e52-1488-4e90-a8a8-9131b6bd84d7_2000x1260.jpeg"
         }
       ]
     },
@@ -2304,6 +2288,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3211/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3211/",
+          "publishedOn": "2026-02-23T05:00:00.000Z",
+          "wordCount": 185,
+          "title": "Amperage",
+          "imageUrl": "https://imgs.xkcd.com/comics/amperage_2x.png"
+        },
         {
           "id": "https://xkcd.com/3210/",
           "author": null,
@@ -5924,16 +5918,6 @@
           "wordCount": 7416,
           "title": "7 ways Berkeleyside can help you",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/large-Berkeleyside-Staff-Photos-03.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548141",
-          "author": "Nico Savidge",
-          "description": "A $6.5 million project will also bring long-awaited new permanent restrooms to the Tom Bates Regional Sports Complex, a hub for East Bay soccer.",
-          "link": "https://www.berkeleyside.org/2025/11/26/berkeley-pickleball-courts-tom-bates-complex",
-          "publishedOn": "2025-11-26T15:00:00.000Z",
-          "wordCount": 7063,
-          "title": "Pickleball players rejoice: A Berkeley park is adding 6 courts",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-dbuechner_vijayaplayingwithjenniferchanreturnthevolleyplayingatbookertpicleballcourts_061524_file6280.jpg?fit=1600%2C970&ssl=1"
         }
       ]
     },
@@ -9239,36 +9223,6 @@
           "wordCount": 11678,
           "title": "Why the next 25 years will force humanity to reinvent itself",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Leyden-1.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/mini-philosophy/3-ways-to-cultivate-a-passion/",
-          "author": "Jonny Thomson",
-          "description": "Clara opens her door on Friday night. She throws the keys on the table, takes off her jacket, and plops down on the sofa. Scroll, scroll, scroll. She messages Tom to ask how his meeting went. Scroll, scroll, scroll. She goes to the toilet, puts her food in the microwave, and waits.\nThe food will take three minutes, so Clara goes back to get her phone. There’s not a chance in hell she’ll just stand there. Three minutes staring into space? She’s not a psychopath. Scroll, scroll, scroll. Ping.\nBack to the sofa, TV on, Tom replies. She settles in. She won’t be doing much else until Monday morning, when work pulls her away.\nOf course, Clara is a foil — an exaggerated archetype representing the modern human. Her life is filled with necessity. She has to work, she has to eat, she has to go to the…",
-          "link": "https://bigthink.com/mini-philosophy/3-ways-to-cultivate-a-passion/",
-          "publishedOn": "2025-11-26T18:15:00.000Z",
-          "wordCount": 2329,
-          "title": "3 ways to cultivate a passion",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/3-ways-cultivate-passion.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/childhood-wiring/",
-          "author": "Becky Kennedy",
-          "description": "Parenting is often framed as a battle between discipline and chaos, but Dr. Becky Kennedy argues that the real story lives beneath the behavior we see. \nKennedy traces how early relationships teach children which parts of themselves are welcome, which emotions feel dangerous, and how those lessons script adult identity.\nThis video How early attachment scars can impact us forever is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/childhood-wiring/",
-          "publishedOn": "2025-11-26T16:19:19.000Z",
-          "wordCount": 1135,
-          "title": "How early attachment scars can impact us forever",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/C1-Web-Kennedy.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/will-ai-decimate-consulting/",
-          "author": "Andrea Belk Olson",
-          "description": "There’s an old adage that goes, “No one ever got fired for hiring [insert consulting firm here].” This rang true for many years, as there was no substitute for consulting ‘SaaS’ (‘scapegoat as a service’) — but a reckoning is coming.\nAfter nearly a decade of uninterrupted growth, the days of multi-million-dollar, multi-year contracts with governmental entities and private companies are swiftly withering away. Firms that succeeded in convincing organizations they couldn’t solve their own problems are finding their claims, value, and costs are being called into question.\nIn just the last few months, Pricewaterhouse Coopers let go 1,500 US workers (2% of its US workforce), following 1,800 cuts in 2024. Accenture announced a round of 19,000 layoffs in 2023, with ongoing reductions continuing. …",
-          "link": "https://bigthink.com/business/will-ai-decimate-consulting/",
-          "publishedOn": "2025-11-26T14:00:00.000Z",
-          "wordCount": 2095,
-          "title": "Will AI decimate consulting?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/ai-decimate-consulting_compressed.jpg?resize=1200,630"
         }
       ]
     },
