@@ -2270,16 +2270,6 @@
           "wordCount": 1612,
           "title": "Protected: The Two Faces of Lummie Jenkins",
           "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=50498",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: 14,445 and Counting appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2025/14445-and-counting-femicide",
-          "publishedOn": "2025-11-26T20:07:20.000Z",
-          "wordCount": 1630,
-          "title": "Protected: 14,445 and Counting",
-          "imageUrl": null
         }
       ]
     },
@@ -5878,46 +5868,6 @@
           "wordCount": 8779,
           "title": "We fell in love with South Berkeley’s music scene and people. But homeownership remains elusive.",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/SKM_2344.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=465697",
-          "author": "Jose Fermoso",
-          "description": "One more state regulator still needs to give the green light before robo-cars hit East Bay roads.",
-          "link": "https://www.berkeleyside.org/2025/11/26/waymo-berkeley-oakland-approved-dmv-cpuc",
-          "publishedOn": "2025-11-26T21:44:28.000Z",
-          "wordCount": 7371,
-          "title": "Waymo car service in Berkeley and Oakland approved by DMV",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/AP25248001745395.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548163",
-          "author": "Momo Chang",
-          "description": "Oakland Gleaners and Alameda’s Project Pick have had record years, redistributing a combined 11 tons of fruit to those in need.",
-          "link": "https://www.berkeleyside.org/2025/11/26/alameda-project-pick-oakland-gleaners-backyard-fruit",
-          "publishedOn": "2025-11-26T20:00:00.000Z",
-          "wordCount": 8671,
-          "title": "Giving trees: East Bay backyard orchards are a mutual aid lifeline",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Alameda-ProjectPick-Volunteers-5-MomoChang.jpg?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548168",
-          "author": "Vanessa Arredondo",
-          "description": "Gaps persist along socioeconomic and racial lines, but California data for 2025 show English-learners and Black students collectively made gains.",
-          "link": "https://www.berkeleyside.org/2025/11/26/berkeley-unified-busd-california-dashboard-test-scores",
-          "publishedOn": "2025-11-26T19:00:00.000Z",
-          "wordCount": 7202,
-          "title": "In a first for Berkeley schools, no student groups fell into the state’s lowest test-score tier",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/01/BAM-berkeley-student-classroom-class-elementary-busd-school.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=443846",
-          "author": "Berkeleyside Staff",
-          "description": "We can help you tell your story, remember your loved one or spread the word about your events. And there are a few ways you can help us, too.",
-          "link": "https://www.berkeleyside.org/2025/11/26/how-berkeleyside-can-help-you",
-          "publishedOn": "2025-11-26T18:30:37.000Z",
-          "wordCount": 7416,
-          "title": "7 ways Berkeleyside can help you",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/large-Berkeleyside-Staff-Photos-03.jpg"
         }
       ]
     },
@@ -6477,6 +6427,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KcOweHh_DMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KcOweHh_DMI",
+          "publishedOn": "2026-02-24T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Immanuel Wilkins: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5Q7LyfbOQD8",
           "author": null,
@@ -7094,6 +7054,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/5-biggest-obstacles-ai-data-centers-space/",
+          "author": "Ethan Siegel",
+          "description": "However you feel about artificial intelligence (AI) — and, in particular, about the large language models and chatbots that are powered by it — the reality is that humanity is currently building and expanding infrastructure to support it. This includes large networks of power-demanding and water-requiring data centers that are being constructed, often conflicting with the electricity and water needs of the humans who live in those locations. It’s because of these concerns that some have floated the idea of AI data centers in space, with one company, SpaceX, recently announcing plans to build a literal megaconstellation of one million satellites to further that ambition.\nIs this an example of an emerging technology that could provide an off-world solution to the problem of competing demands…",
+          "link": "https://bigthink.com/starts-with-a-bang/5-biggest-obstacles-ai-data-centers-space/",
+          "publishedOn": "2026-02-24T07:00:00.000Z",
+          "wordCount": 4981,
+          "title": "The 5 biggest obstacles to AI data centers in space",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/sts098-335-015.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-well/why-toxic-positivity-is-making-us-miserable/",
           "author": "Kate Bowler",
@@ -9203,26 +9173,6 @@
           "wordCount": 3087,
           "title": "10 scientific phenomena to be thankful for every day",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2023/08/el-gordo-riches.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/the-big-think-interview/gene-therapy-kelsic/",
-          "author": "Eric Kelsic",
-          "description": "What if the genome you were born with wasn’t fixed? Eric Kelsic, CEO of Dyno Therapeutics, explains how gene therapy is moving from promise to reality, delivering treatments directly to cells and potentially curing diseases for a lifetime.\nThis video How your body could outlive the genome you were born with is featured on Big Think.",
-          "link": "https://bigthink.com/series/the-big-think-interview/gene-therapy-kelsic/",
-          "publishedOn": "2025-11-26T21:13:04.000Z",
-          "wordCount": 3950,
-          "title": "How your body could outlive the genome you were born with",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/B1-Web-Kelsic.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/great-progression-2025/",
-          "author": "Peter Leyden",
-          "description": "We are at a tipping point. In the next 25 years, technologies like AI, clean energy, and bioengineering are poised to reshape society on a scale few can imagine. \nPeter Leyden draws on decades of observing technological revolutions and historical patterns to show how old systems collapse, new ones rise, and humanity faces both extraordinary risk and unprecedented opportunity.\nThis video Why the next 25 years will force humanity to reinvent itself is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/great-progression-2025/",
-          "publishedOn": "2025-11-26T20:52:42.000Z",
-          "wordCount": 11678,
-          "title": "Why the next 25 years will force humanity to reinvent itself",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/A1-Web-Leyden-1.jpg?resize=1200,630"
         }
       ]
     },
