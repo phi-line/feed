@@ -382,6 +382,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "699dc2bc3c89150001eb4d57",
+          "author": "Joseph Cox",
+          "description": "The creator of Nearby Glasses made the app after reading 404 Media's coverage of how people are using Meta's Ray-Bans smartglasses to film people without their knowledge or consent. “I consider it to be a tiny part of resistance against surveillance tech.”",
+          "link": "https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby/",
+          "publishedOn": "2026-02-24T15:40:49.000Z",
+          "wordCount": 1167,
+          "title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/meta-glasses.png"
+        },
+        {
           "id": "699ca41e02276e00016d54b3",
           "author": "Becky Ferreira",
           "description": "The Great Unconformity — a gap in Earth’s geological record — has puzzled scientists for 150 years. New research suggests it was created by shifting continents, rather than “snowball Earths” or Cambrian life.",
@@ -2723,6 +2733,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/why-ai-doesnt-need-a-mind-to-matter",
+          "author": "Ben Bariach",
+          "description": "The post Why AI Doesn’t Need A ‘Mind’ To Matter appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/why-ai-doesnt-need-a-mind-to-matter",
+          "publishedOn": "2026-02-24T17:25:34.000Z",
+          "wordCount": 7110,
+          "title": "Why AI Doesn’t Need A ‘Mind’ To Matter",
+          "imageUrl": "https://noemamag.imgix.net/2026/02/Fenna_Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=a5dbbcfaabcd99dbbde515efec3854cd"
+        },
+        {
           "id": "https://www.noemamag.com/the-climate-wont-bend-to-trumps-will-to-power",
           "author": "Nathan Gardels",
           "description": "The post The Climate Won’t Bend To Trump’s Will To Power appeared first on NOEMA.",
@@ -3019,6 +3039,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=469681",
+          "author": "Darwin BondGraham",
+          "description": "Alameda Health System plans to lay off 188 nurses, counselors, therapists, and other staff. The public has a chance to weigh in on Feb. 25.",
+          "link": "https://www.berkeleyside.org/2026/02/24/county-health-care-layoff-plan-to-face-public-scrutiny",
+          "publishedOn": "2026-02-24T17:18:04.000Z",
+          "wordCount": 7668,
+          "title": "Alameda County health care layoff plan to face public scrutiny",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Hawks-of-Highland-Hospital-07.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552704",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/02/24/cafe-santana-blue-drip-opening",
+          "publishedOn": "2026-02-24T16:31:59.000Z",
+          "wordCount": 7079,
+          "title": "2 new cafes arrive to help fuel East Bay mornings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CafeSantana.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552676",
           "author": "Vanessa Arredondo",
@@ -6404,21 +6444,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://aethermug.com/assets/posts/purpose-essay-now-on-plankton-valhalla/sacrifice.png"
-        },
-        {
-          "id": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people",
-          "author": null,
-          "description": "Group intelligence is worth talking about",
-          "link": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-11-27T05:09:03.000Z",
-          "wordCount": 9225,
-          "title": "My Notes on: When Ants Are Smarter Than People",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/my-notes-on-when-ants-are-smarter-than-people/azzam-qourti-5IV6_bnr7wg-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/my-notes-on-when-ants-are-smarter-than-people/azzam-qourti-5IV6_bnr7wg-unsplash.jpg"
         }
       ]
     },
@@ -7054,6 +7079,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/history-society/dont-let-climate-fatalism-become-a-self-fulfilling-prophecy/",
+          "author": "Hannah Ritchie",
+          "description": "I read Mark Lynas’s book Six Degrees: Our Future on a Hotter Planet when I was 14 years old, and it scared the life out of me. Lynas takes the reader on a journey of what to expect from a world that’s one degree warmer, two degrees, three degrees, all the way up to six degrees. By the middle of the book, your blood pressure is high; by the end, you’re on the floor.\nIt is a well-researched book that offers us a window into many possible futures. Fortunately, the scientific consensus has moved away from the most extreme scenarios since its publication. Unfortunately, a lot of the public messaging has not. Many people believe a pathway to 5°C or 6°C is already locked in, and the only thing we can do now is prepare for the worst.\nLet’s look at what the latest science says about where we might …",
+          "link": "https://bigthink.com/history-society/dont-let-climate-fatalism-become-a-self-fulfilling-prophecy/",
+          "publishedOn": "2026-02-24T14:52:59.000Z",
+          "wordCount": 3461,
+          "title": "Don’t let climate fatalism become a self-fulfilling prophecy",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/climate-fatalism-self-fulfilling-prophecy_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/9-confucian-rules-for-emotional-intelligence-at-work/",
+          "author": "Adam Dietz",
+          "description": "On a rough day, it’s rarely the workload that breaks you. It’s the human layer: the meeting that turns tense, the work chat message you read as disrespect, the impulse to fire off a reply that feels righteous for thirty seconds and costly for a week. In those moments, emotional intelligence is basically the difference between staying aligned and creating unforced errors.\nYou may not control the situation, but you can control how you meet it. You can stay aligned, or drift into unforced errors: reactive words, sloppy decisions, needless conflict.\nConfucius even gives a compact checklist for this: nine “states of mind” to return to in the middle of ordinary life. In the Analects he writes:\nThe superior person has nine states of mind:\nfor eyes: bright\nfor ears: penetrating\nfor countenance: co…",
+          "link": "https://bigthink.com/business/9-confucian-rules-for-emotional-intelligence-at-work/",
+          "publishedOn": "2026-02-24T14:29:45.000Z",
+          "wordCount": 3003,
+          "title": "9 Confucian rules for emotional intelligence at work",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/9-Confucian-rules_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/5-biggest-obstacles-ai-data-centers-space/",
           "author": "Ethan Siegel",
@@ -9584,6 +9629,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making",
+          "author": "Kate Tyndall",
+          "description": "Don’t get me wrong, I’m as invested in keeping my job as the next weaver. When the boss brought in that big new power loom, I was pretty skeptical. He said once he got it up and running, we’d all be out of a job, so when the boys started talking about breaking into the factory after work and smashing the thing, I was on board.\n Until, that is, I saw the funny tapestries it could make. There’s this one—sorry, I keep cracking up when I think about it. It’s a bowl of gruel, right? But it’s also a pirate! It’s called “Gruellino Piratino,” and… well, no, it doesn’t mean anything; it’s just a silly character. They’re calling it “Nottinghamian brain-rotte,” and there’s a bunch of them. They’ve got King George III with a ham for a face, “Georgione Hamone”—I nearly cried when I saw it. My kids, at …",
+          "link": "https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making",
+          "publishedOn": "2026-02-24T18:01:00.000Z",
+          "wordCount": 2670,
+          "title": "Being a Luddite Is Cool and All, but Have You Seen the Hilarious Tapestries These New Looms Are Making?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3coaeyfzqddxcdojjqnzwr1lhsoo"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/new-protein-menus",
+          "author": "Megan Amram",
+          "description": "Brands like Chipotle, Dunkin, and Starbucks have started offering new protein-dense menu items. Here are more companies making exciting protein-based revamps.\n Jamba Juice\n This sweet smoothie brand is branching out into savory, high-protein options. Try the “shepherd’s pie” shake, which boasts sixty grams of protein and over 200 percent of your daily recommended value of gravy. Or make your own! Choose your base—minestrone, Italian wedding, or clam chowder—and throw in any of your favorite high-protein add-ins, like hard-boiled eggs, jerky, or branzino. Perfect on a hot summer day. Just make sure you ask for your shake deboned.\n IKEA\n With IKEA’s new line of high-protein furniture and household goods, even sitting on the couch can help you achieve your ideal physique. Cushions are filled …",
+          "link": "https://www.mcsweeneys.net/articles/new-protein-menus",
+          "publishedOn": "2026-02-24T13:00:00.000Z",
+          "wordCount": 2700,
+          "title": "New Protein Menus",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rpuhakijwa323pgwqkn7hnesljoj"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/introducing-our-lord-and-savior-the-colleges-new-strategic-initiative",
           "author": "Talia Argondezzi",
