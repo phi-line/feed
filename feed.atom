@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-23T18:22:46.571Z</updated>
+    <updated>2026-02-24T00:26:05.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley teachers union, school district reach tentative agreement]]></title>
+        <id>https://www.berkeleyside.org/?p=552676</id>
+        <link href="https://www.berkeleyside.org/2026/02/23/berkeley-teachers-union-tentative-agreement"/>
+        <updated>2026-02-24T00:15:18.000Z</updated>
+        <summary type="html"><![CDATA[The deal, struck after a nearly three-month impasse, came as teachers in next-door Oakland voted to authorize a strike.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Wolfram Tech Available as a Foundation Tool for LLM Systems]]></title>
+        <id>https://writings.stephenwolfram.com/?p=73251</id>
+        <link href="https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"/>
+        <updated>2026-02-23T21:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Foundation Models Need a Foundation Tool LLMs don’t—and can’t—do everything. What they do is very impressive—and useful. It’s broad. And in many ways it’s human-like. But it’s not precise. And in the end it’s not about deep computation. So how can we supplement LLM foundation models? We need a foundation tool: a tool that’s broad […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaiser strike to end after 4 weeks without a deal]]></title>
+        <id>https://www.berkeleyside.org/?p=552661</id>
+        <link href="https://www.berkeleyside.org/2026/02/23/kaiser-strike-ends"/>
+        <updated>2026-02-23T20:51:11.000Z</updated>
+        <summary type="html"><![CDATA[The large, open-ended strike had led to frustrations by some patients over delayed care as well as difficulties for workers who went weeks without a paycheck.]]></summary>
+        <author>
+            <name>Farida Jhabvala Romero | KQED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Billion Years Are Mysteriously Missing From Earth’s History. Now, We Know Why.]]></title>
+        <id>699ca41e02276e00016d54b3</id>
+        <link href="https://www.404media.co/great-unconformity-gap-geological-record-study-columbia/"/>
+        <updated>2026-02-23T20:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The Great Unconformity — a gap in Earth’s geological record — has puzzled scientists for 150 years. New research suggests it was created by shifting continents, rather than “snowball Earths” or Cambrian life.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers have found way to bypass Berkeley’s labor standards for housing construction]]></title>
+        <id>https://www.berkeleyside.org/?p=547656</id>
+        <link href="https://www.berkeleyside.org/2026/02/23/berkeley-housing-developers-hard-hats-2029-university-2425-durant"/>
+        <updated>2026-02-23T19:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Construction unions argue local worker protections are being illegally dismantled. Developers say they’re following state law aimed at lowering the cost of building housing. The City Council is expected to act Monday night.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[banana chocolate chip cake]]></title>
+        <id>https://smittenkitchen.com/?p=95453</id>
+        <link href="https://smittenkitchen.com/2026/02/banana-chocolate-chip-cake/"/>
+        <updated>2026-02-23T18:33:48.000Z</updated>
+        <summary type="html"><![CDATA[twenty years since I first told you about my family’s favorite coffee cake. It’s tall, plush, crisp with a flaky layer of cinnamon sugar on top, studded with a quilt of chocolate chips and is downright, well, adorable when cut into cubes because they’re a little wobbly. When one tumbles, it shakes off a little pfft of cinnamon sugar, like a pup coming in from today’s blizzard. It’s perfect. It needs no changes or updates.
+Read more »]]></summary>
+        <author>
+            <name>deb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can Infinity Come in Many Sizes?]]></title>
         <id>https://www.quantamagazine.org/?p=159206</id>
@@ -57,6 +118,16 @@ The post How Can Infinity Come in Many Sizes? first appeared on Quanta Magazine]
         <summary type="html"><![CDATA[Meta Superintelligence Labs’ director of alignment called it a “rookie mistake.”]]></summary>
         <author>
             <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fudgy Sweet Potato Brownies]]></title>
+        <id>https://jessicainthekitchen.com/?p=72647</id>
+        <link href="https://jessicainthekitchen.com/sweet-potato-brownies/"/>
+        <updated>2026-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No one would ever suspect that these chocolatey sweet potato brownies are gluten-free, vegan, and secretly wholesome! Pureed sweet potato adds natural sweetness and lots of moisture for the fudgiest texture. If you’ve yet to try sweet potato brownies, consider this your sign. The universe is telling you: it’s brownie time. And no, this isn’t […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -11091,27 +11162,6 @@ After nearly a decade of uninterrupted growth, the days of multi-million-dollar,
 In just the last few months, Pricewaterhouse Coopers let go 1,500 US workers (2% of its US workforce), following 1,800 cuts in 2024. Accenture announced a round of 19,000 layoffs in 2023, with ongoing reductions continuing. …]]></summary>
         <author>
             <name>Andrea Belk Olson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How ICE Is Watching Your Thanksgiving Drive]]></title>
-        <id>https://reason.com/?p=8358697</id>
-        <link href="https://reason.com/2025/11/26/how-ice-is-watching-your-thanksgiving-drive/"/>
-        <updated>2025-11-26T11:30:28.000Z</updated>
-        <summary type="html"><![CDATA[ICE and Border Patrol are using license plate cameras for extensive domestic surveillance.]]></summary>
-        <author>
-            <name>Matthew Petti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Moon’s two faces don’t match, and we think we know why]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/moon-two-faces-different/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/moon-two-faces-different/"/>
-        <updated>2025-11-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Moon, by far, is the brightest object and largest object that’s visible to human eyes in Earth’s night sky. Compared to Venus, the next brightest object that appears, the Moon is thirty times the diameter, takes up almost 1000 times the surface area, and appears about 1,000,000 times brighter than Venus. Moreover, the Moon doesn’t appear as a uniform disk to us, but rather shows incredible differences from place-to-place across the surface, even as viewed from our limited perspective here on Earth.
-To the naked eye, these differences might just appear as bright-and-dark patches: the so-called “man in the Moon” is the easiest feature to see. But if you take a look through a telescope, you won’t just see those dark spots silhouetted against the brighter portions, but also mountain ridges…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

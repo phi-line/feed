@@ -382,6 +382,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "699ca41e02276e00016d54b3",
+          "author": "Becky Ferreira",
+          "description": "The Great Unconformity — a gap in Earth’s geological record — has puzzled scientists for 150 years. New research suggests it was created by shifting continents, rather than “snowball Earths” or Cambrian life.",
+          "link": "https://www.404media.co/great-unconformity-gap-geological-record-study-columbia/",
+          "publishedOn": "2026-02-23T20:00:48.000Z",
+          "wordCount": 1613,
+          "title": "A Billion Years Are Mysteriously Missing From Earth’s History. Now, We Know Why.",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/25-23891-2.jpg"
+        },
+        {
           "id": "699c7e7a02276e00016d465b",
           "author": "Emanuel Maiberg",
           "description": "Researchers say Meta’s patent for simulating dead users could be a “turning point” in “AI resurrections.”",
@@ -1976,17 +1986,6 @@
           "title": "Trump Is Using the 'Misinformation' Censorship Playbook Republicans Attacked Biden For",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8358697",
-          "author": "Matthew Petti",
-          "description": "ICE and Border Patrol are using license plate cameras for extensive domestic surveillance.",
-          "link": "https://reason.com/2025/11/26/how-ice-is-watching-your-thanksgiving-drive/",
-          "publishedOn": "2025-11-26T11:30:28.000Z",
-          "wordCount": null,
-          "title": "How ICE Is Watching Your Thanksgiving Drive",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2683,6 +2682,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=73251",
+          "author": "Stephen Wolfram",
+          "description": "Foundation Models Need a Foundation Tool LLMs don’t—and can’t—do everything. What they do is very impressive—and useful. It’s broad. And in many ways it’s human-like. But it’s not precise. And in the end it’s not about deep computation. So how can we supplement LLM foundation models? We need a foundation tool: a tool that’s broad […]",
+          "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+          "publishedOn": "2026-02-23T21:52:54.000Z",
+          "wordCount": 1810,
+          "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/02/FoundationTool-seo-v2a.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=73068",
           "author": "Stephen Wolfram",
           "description": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there?” has always been seen as a fundamental—if thorny—question for philosophy, or perhaps […]",
@@ -3026,6 +3035,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552676",
+          "author": "Vanessa Arredondo",
+          "description": "The deal, struck after a nearly three-month impasse, came as teachers in next-door Oakland voted to authorize a strike.",
+          "link": "https://www.berkeleyside.org/2026/02/23/berkeley-teachers-union-tentative-agreement",
+          "publishedOn": "2026-02-24T00:15:18.000Z",
+          "wordCount": 7444,
+          "title": "Berkeley teachers union, school district reach tentative agreement",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Berkeley-Teachers-Rally-15-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552661",
+          "author": "Farida Jhabvala Romero | KQED",
+          "description": "The large, open-ended strike had led to frustrations by some patients over delayed care as well as difficulties for workers who went weeks without a paycheck.",
+          "link": "https://www.berkeleyside.org/2026/02/23/kaiser-strike-ends",
+          "publishedOn": "2026-02-23T20:51:11.000Z",
+          "wordCount": 7526,
+          "title": "Kaiser strike to end after 4 weeks without a deal",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/260219-STRIKINGKAISERWORKERS0122.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=547656",
+          "author": "Nico Savidge",
+          "description": "Construction unions argue local worker protections are being illegally dismantled. Developers say they’re following state law aimed at lowering the cost of building housing. The City Council is expected to act Monday night.",
+          "link": "https://www.berkeleyside.org/2026/02/23/berkeley-housing-developers-hard-hats-2029-university-2425-durant",
+          "publishedOn": "2026-02-23T19:45:38.000Z",
+          "wordCount": 8906,
+          "title": "Developers have found way to bypass Berkeley’s labor standards for housing construction",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Natera_230503_017_ConstructionWorkers_04.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552460",
           "author": "Dan Brekke | KQED",
@@ -6073,6 +6112,16 @@
       "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=95453",
+          "author": "deb",
+          "description": "twenty years since I first told you about my family’s favorite coffee cake. It’s tall, plush, crisp with a flaky layer of cinnamon sugar on top, studded with a quilt of chocolate chips and is downright, well, adorable when cut into cubes because they’re a little wobbly. When one tumbles, it shakes off a little pfft of cinnamon sugar, like a pup coming in from today’s blizzard. It’s perfect. It needs no changes or updates.\nRead more »",
+          "link": "https://smittenkitchen.com/2026/02/banana-chocolate-chip-cake/",
+          "publishedOn": "2026-02-23T18:33:48.000Z",
+          "wordCount": 5468,
+          "title": "banana chocolate chip cake",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/02/banana-chocolate-chip-cake-16-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://smittenkitchen.com/?p=95324",
           "author": "deb",
@@ -9220,16 +9269,6 @@
           "wordCount": 2095,
           "title": "Will AI decimate consulting?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/ai-decimate-consulting_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/moon-two-faces-different/",
-          "author": "Ethan Siegel",
-          "description": "The Moon, by far, is the brightest object and largest object that’s visible to human eyes in Earth’s night sky. Compared to Venus, the next brightest object that appears, the Moon is thirty times the diameter, takes up almost 1000 times the surface area, and appears about 1,000,000 times brighter than Venus. Moreover, the Moon doesn’t appear as a uniform disk to us, but rather shows incredible differences from place-to-place across the surface, even as viewed from our limited perspective here on Earth.\nTo the naked eye, these differences might just appear as bright-and-dark patches: the so-called “man in the Moon” is the easiest feature to see. But if you take a look through a telescope, you won’t just see those dark spots silhouetted against the brighter portions, but also mountain ridges…",
-          "link": "https://bigthink.com/starts-with-a-bang/moon-two-faces-different/",
-          "publishedOn": "2025-11-26T07:00:00.000Z",
-          "wordCount": 4340,
-          "title": "The Moon’s two faces don’t match, and we think we know why",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/09/nearfar.jpg?resize=1200,630"
         }
       ]
     },
@@ -9238,6 +9277,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=72647",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "No one would ever suspect that these chocolatey sweet potato brownies are gluten-free, vegan, and secretly wholesome! Pureed sweet potato adds natural sweetness and lots of moisture for the fudgiest texture. If you’ve yet to try sweet potato brownies, consider this your sign. The universe is telling you: it’s brownie time. And no, this isn’t […]",
+          "link": "https://jessicainthekitchen.com/sweet-potato-brownies/",
+          "publishedOn": "2026-02-23T15:00:00.000Z",
+          "wordCount": 9191,
+          "title": "Fudgy Sweet Potato Brownies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Sweet-Potato-Brownies-18.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=20058",
           "author": "Jessica Hylton",
