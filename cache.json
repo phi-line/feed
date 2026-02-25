@@ -7131,6 +7131,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/",
+          "author": "Ethan Siegel",
+          "description": "Here on Earth, it seems easy and straight forward to know “where” anything is, or to know “when” an event either occurred or will occur. After all, we’ve mapped out the entire surface of the Earth, and can define our location with three coordinates — latitude, longitude, and altitude/depth — no matter where in the world we are. Additionally, we’ve synchronized all methods of timekeeping here on Earth with atomic clocks, enabling people from all different locations on Earth to know both the “when” and “where” any event occurs, will occur, or has occurred.\nBut this relies on an underlying assumption that most of us make without ever thinking twice about it: that you, from your location on Earth, are observing the same “here and now” as anyone else in any other location on Earth. Unfortunatel…",
+          "link": "https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/",
+          "publishedOn": "2026-02-25T07:00:00.000Z",
+          "wordCount": 5223,
+          "title": "How Einstein revolutionized the meaning of “where” and “when”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/AdobeStock_116429027.jpeg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/history-society/dont-let-climate-fatalism-become-a-self-fulfilling-prophecy/",
           "author": "Hannah Ritchie",
           "description": "I read Mark Lynas’s book Six Degrees: Our Future on a Hotter Planet when I was 14 years old, and it scared the life out of me. Lynas takes the reader on a journey of what to expect from a world that’s one degree warmer, two degrees, three degrees, all the way up to six degrees. By the middle of the book, your blood pressure is high; by the end, you’re on the floor.\nIt is a well-researched book that offers us a window into many possible futures. Fortunately, the scientific consensus has moved away from the most extreme scenarios since its publication. Unfortunately, a lot of the public messaging has not. Many people believe a pathway to 5°C or 6°C is already locked in, and the only thing we can do now is prepare for the worst.\nLet’s look at what the latest science says about where we might …",
@@ -9219,16 +9229,6 @@
           "wordCount": 4054,
           "title": "Ask Ethan: What’s the point of exploring the Universe?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/03/jwstMN.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/psychobabble/",
-          "author": "Kevin Dickinson",
-          "description": "When I was growing up, mental health was rarely talked about. Most people knew someone who had gone to therapy and generally accepted it as a necessary step in getting the help they needed. But what happened on the chaise lounge stayed on the chaise lounge. People didn’t discuss their diagnoses, and if therapy came up, it was usually in reference to the latest episode of The Sopranos. \nThis began to change in the aughts. The U.S. Congress passed laws to make mental health more accessible and affordable. Celebrities opened up about their struggles with depression and anxiety, and the internet offered unprecedented access to mental health information.\nAll positive changes, but then things continued to accelerate. Today, online mental health advice is as contradictory as it is universal. Psyc…",
-          "link": "https://bigthink.com/books/psychobabble/",
-          "publishedOn": "2025-11-27T19:10:26.000Z",
-          "wordCount": 3322,
-          "title": "The costs of turning therapy into a pop culture fad",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/psychobabble_compressed.png?resize=1200,630"
         }
       ]
     },

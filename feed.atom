@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-25T06:26:21.158Z</updated>
+    <updated>2026-02-25T12:15:40.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Einstein revolutionized the meaning of “where” and “when”]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/"/>
+        <updated>2026-02-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here on Earth, it seems easy and straight forward to know “where” anything is, or to know “when” an event either occurred or will occur. After all, we’ve mapped out the entire surface of the Earth, and can define our location with three coordinates — latitude, longitude, and altitude/depth — no matter where in the world we are. Additionally, we’ve synchronized all methods of timekeeping here on Earth with atomic clocks, enabling people from all different locations on Earth to know both the “when” and “where” any event occurs, will occur, or has occurred.
+But this relies on an underlying assumption that most of us make without ever thinking twice about it: that you, from your location on Earth, are observing the same “here and now” as anyone else in any other location on Earth. Unfortunatel…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley City Council approves housing developments that sidestep labor standards]]></title>
         <id>https://www.berkeleyside.org/?p=552732</id>
@@ -11355,18 +11366,6 @@ But where does that leave the scientific research that doesn’t directly relate
         <updated>2025-11-28T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The costs of turning therapy into a pop culture fad]]></title>
-        <id>https://bigthink.com/books/psychobabble/</id>
-        <link href="https://bigthink.com/books/psychobabble/"/>
-        <updated>2025-11-27T19:10:26.000Z</updated>
-        <summary type="html"><![CDATA[When I was growing up, mental health was rarely talked about. Most people knew someone who had gone to therapy and generally accepted it as a necessary step in getting the help they needed. But what happened on the chaise lounge stayed on the chaise lounge. People didn’t discuss their diagnoses, and if therapy came up, it was usually in reference to the latest episode of The Sopranos. 
-This began to change in the aughts. The U.S. Congress passed laws to make mental health more accessible and affordable. Celebrities opened up about their struggles with depression and anxiety, and the internet offered unprecedented access to mental health information.
-All positive changes, but then things continued to accelerate. Today, online mental health advice is as contradictory as it is universal. Psyc…]]></summary>
-        <author>
-            <name>Kevin Dickinson</name>
         </author>
     </entry>
     <entry>
