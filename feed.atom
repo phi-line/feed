@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-25T12:15:40.361Z</updated>
+    <updated>2026-02-25T18:24:49.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[McSweeney’s Books: McSweeney’s and  Broadway Video Present:  Documentary Now!  (Fourth Edition, Revised  and Expanded)]]></title>
+        <id>https://www.mcsweeneys.net/articles/mcsweeneys-and-broadway-video-present-documentary-now-fourth-edition-revised-and-expanded</id>
+        <link href="https://www.mcsweeneys.net/articles/mcsweeneys-and-broadway-video-present-documentary-now-fourth-edition-revised-and-expanded"/>
+        <updated>2026-02-25T17:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Hitchcock/Truffaut.
+ Cahiers du Cinéma.
+ Documentary Now!
+ The best film texts touch our lives and leave an indelible imprint on our shared cultural experience, deepening and enriching our relationships with this most universal of modern artistic genres.
+ In this new, fully revised and expanded edition of Documentary Now!’s seminal 1975 text, the curators behind the beloved long-running Documentary Now! program invite us to celebrate the craft, legacy, and minutiae of some of the most brilliant works of nonfiction ever put to celluloid. This remarkable book presents unique access to stills, posters, scores, and archival materials from some of the most celebrated documentaries in film history, alongside essays from some of the greatest cultural luminaries of the last fifty years, including …]]></summary>
+        <author>
+            <name>McSweeney's Books</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pick Your Password Manager]]></title>
+        <id>111759 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager"/>
+        <updated>2026-02-25T17:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Phishing and data breaches are a constant on the internet. The single best defense against both is to use a password manager to generate and automatically fill a unique password for every site. While 1Password has recently raised their prices, and researchers have recently published potential flaws in some implementations, using a password manager is still a critical investment in keeping yourself safe on the internet. There are free options, and even ones built into your operating system or browser. We can help you choose.
+Password managers protect you from phishing by memorizing the connection between a password and a website, and, if you use the browser integration, filling each password only on the website it belongs to. They protect you from data breaches by making it feasible to use …]]></summary>
+        <author>
+            <name>Jacob Hoffman-Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Man Who Stole Infinity]]></title>
+        <id>https://www.quantamagazine.org/?p=159245</id>
+        <link href="https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/"/>
+        <updated>2026-02-25T16:23:43.000Z</updated>
+        <summary type="html"><![CDATA[In an 1874 paper, Georg Cantor proved that there are different sizes of infinity and changed math forever. A trove of newly unearthed letters shows that it was also an act of plagiarism.            
+The post The Man Who Stole Infinity first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joseph Howlett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Buttigieg: Federal Agents Are Losing Public Trust]]></title>
+        <id>https://reason.com/?post_type=podcast&amp;p=8368888</id>
+        <link href="https://reason.com/podcast/2026/02/25/pete-buttigieg-federal-agents-are-losing-public-trust/"/>
+        <updated>2026-02-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Transportation Secretary Pete Buttigieg discusses immigration enforcement, the role of government, and why federal agencies are losing public trust.]]></summary>
+        <author>
+            <name>Nick Gillespie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What future does police accountability have in Berkeley?]]></title>
+        <id>https://www.berkeleyside.org/?p=552182</id>
+        <link href="https://www.berkeleyside.org/2026/02/25/berkeley-police-accountability-future"/>
+        <updated>2026-02-25T15:31:15.000Z</updated>
+        <summary type="html"><![CDATA[The sudden ouster of Police Accountability Board director Hansel Aguilar, and recent protest resignations from the Police Accountability Board, are the culmination of years of mounting tension between those bodies and the city.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Ring Is Just Getting Started]]></title>
+        <id>699f12433c89150001f027e1</id>
+        <link href="https://www.404media.co/podcast-ring-is-just-getting-started/"/>
+        <updated>2026-02-25T15:19:36.000Z</updated>
+        <summary type="html"><![CDATA[A leaked Ring email; looksmaxxing; and another Grok screwup.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Got Grok to Hand Over Prompts Used to Create Nonconsensual Porn]]></title>
+        <id>699f11813c89150001f026c8</id>
+        <link href="https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/"/>
+        <updated>2026-02-25T15:16:52.000Z</updated>
+        <summary type="html"><![CDATA[The FBI obtained prompts used to make more than 200 sexual videos of a woman in a harassment case.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Point of School When AI Can Do Your Homework?]]></title>
+        <id>699f07643c89150001edec65</id>
+        <link href="https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/"/>
+        <updated>2026-02-25T14:41:23.000Z</updated>
+        <summary type="html"><![CDATA[The creator of the AI agent “Einstein” wants to free humans from the burden of academic labor. Critics say that misses the point of education entirely.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maura Quint’s  State of the Union Recap]]></title>
+        <id>https://www.mcsweeneys.net/articles/maura-quints-state-of-the-union-recap</id>
+        <link href="https://www.mcsweeneys.net/articles/maura-quints-state-of-the-union-recap"/>
+        <updated>2026-02-25T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[State Of The Union
+ February 24, 2026
+ Washington, DC
+ 8:52 PM: The State of the Union is opened by House Majority Leader Mike Johnson, who has been released from his medium-sized dog cage specially for this evening. He welcomes congressional attendees with a giggle, as this is the first time he’s been permitted to speak since late January. Standing on the dais beside him is Vice President and Fall Out Boy fanfic author JD Vance. While most Republicans have chosen red, Vance wears a blue tie to complement Peter Thiel’s eyes.
+ 9:10 PM: Having just styled his hair by rubbing it against a balloon, President Trump enters the House Chamber in the building formerly known as the US Capitol and now known as the “Crypto.com Funzone.” Republicans in the audience give him a standing ovation. Trump, r…]]></summary>
+        <author>
+            <name>Maura Quint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Widening the frame: Indigenous land rights and the future of climate policy]]></title>
+        <id>https://bigthink.com/sponsored/indigenous-land-rights-and-the-future-of-climate-policy/</id>
+        <link href="https://bigthink.com/sponsored/indigenous-land-rights-and-the-future-of-climate-policy/"/>
+        <updated>2026-02-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A woman stands at the edge of the Amazon Rainforest. Behind her, an explosion of life — thousands of animal species, billions of trees, lush canopy. Ahead, another kind: Humanity. 
+People from every corner of the Earth fill the city of Belém, Brazil. It’s a sea of color, music, and emotion as they dance and stomp across asphalt, past highrises in the hot, humid air. A paper snake the length of a city block ripples overhead.
+The woman wipes sweat from her temples. Her purple baseball cap is soaked through, its message blunt:
+DERECHOS A LA TIERRA ¡YA!
+Land rights — now.
+
+Photo by Natalia Ramírez Gutiérrez
+The woman is Joan Carling, a human rights activist and the executive director of Indigenous Peoples Rights International (IPRI). The scene unfolded at COP30, the climate summit hosted by th…]]></summary>
+        <author>
+            <name>Lee Helland, Carina Mia Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbs-down to “Gladiator Strategy”? Try the Nadella philosophy instead]]></title>
+        <id>https://bigthink.com/business/thumbs-down-to-gladiator-strategy-try-the-nadella-philosophy-instead/</id>
+        <link href="https://bigthink.com/business/thumbs-down-to-gladiator-strategy-try-the-nadella-philosophy-instead/"/>
+        <updated>2026-02-25T13:27:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s called the Gladiator Strategy. 
+The Swiss CEO of a shoe company stirred his espresso as he tried to convince me of his preferred way of working: “I think a battle of ideas is so important. It helps us fight things out, so the one idea left standing is the absolute best idea.” 
+In Roman times, the best gladiators weren’t necessarily the best athletes or the strongest physical performers but the ones who knew how to entertain the crowds in the way the emperor loved. Whatever, whoever amused the emperor was given the thumbs-­up. The workplace parallel is perhaps obvious: People can “win” internal fights in those boardrooms by arguing for the ideas and perspectives that the boss already loves. So “fighting for the best idea” becomes a public way to endorse and validate the emperor’s —­ er…]]></summary>
+        <author>
+            <name>Nilofer Merchant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to conquer pressure — the Jim Belushi way]]></title>
+        <id>https://bigthink.com/business/how-to-conquer-pressure-the-jim-belushi-way/</id>
+        <link href="https://bigthink.com/business/how-to-conquer-pressure-the-jim-belushi-way/"/>
+        <updated>2026-02-25T13:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, when Jim Belushi feels anxious, he tells himself he’s actually just stoked. “Physiologically,” the actor, comedian, and entrepreneur tells Big Think, “what happens to your body when you’re nervous or fearful is exactly the same thing as what happens when you’re excited,” so all you need to do is flip a switch. It’s one of several tricks he learned early in life that stuck with him throughout the various chapters of his long and storied career, from Hollywood to Oregon pot farm.
+Born to Albanian-American parents in the suburbs of Chicago, Belushi began acting in high school — an experience, he once told the Connecticut Post, that “made me feel good for the first time in my life.” Following in the footsteps of elder sibling John Belushi, he cut his teeth at Chicago’s renowned Seco…]]></summary>
+        <author>
+            <name>Tim Brinkhof</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Einstein revolutionized the meaning of “where” and “when”]]></title>
         <id>https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/</id>
@@ -337,6 +477,16 @@ Throughout her career, Cindy Cohn has been driven by a fundamental question: Can
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Best Tofu Recipes to Add to Your Weekly Menu]]></title>
+        <id>https://jessicainthekitchen.com/?p=36469</id>
+        <link href="https://jessicainthekitchen.com/incredible-ways-to-use-tofu/"/>
+        <updated>2026-02-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you think tofu is boring or bland, these tofu recipes are here to change your mind! I’m sharing 28 different dishes that range from cozy soups to crispy mains and satisfying meal bowls, each packed with flavour and plant-based protein. I know tofu can be intimidating. In fact, the first few times I cooked […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don’t let climate fatalism become a self-fulfilling prophecy]]></title>
         <id>https://bigthink.com/history-society/dont-let-climate-fatalism-become-a-self-fulfilling-prophecy/</id>
         <link href="https://bigthink.com/history-society/dont-let-climate-fatalism-become-a-self-fulfilling-prophecy/"/>
@@ -362,6 +512,18 @@ for ears: penetrating
 for countenance: co…]]></summary>
         <author>
             <name>Adam Dietz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why relationships in 2026 carry impossible expectations]]></title>
+        <id>https://bigthink.com/series/the-big-think-interview/why-relationships-in-2026-carry-impossible-expectations/</id>
+        <link href="https://bigthink.com/series/the-big-think-interview/why-relationships-in-2026-carry-impossible-expectations/"/>
+        <updated>2026-02-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For most of human history, love was not a choice we made, love was a choice made for us. By our family, our class, or by means of survival. 
+Now that love has been liberated, it seems to have become more complicated and more illusive than ever. Alain de Botton explains.
+This video Why relationships in 2026 carry impossible expectations is featured on Big Think.]]></summary>
+        <author>
+            <name>Alain de Botton</name>
         </author>
     </entry>
     <entry>
@@ -11357,15 +11519,6 @@ Last year I wrote about how I lost my food fandango, got it back, and now simpli
 But where does that leave the scientific research that doesn’t directly relate to these crises? As beautiful and enlightening as the recent James Webb…]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridge Clearance]]></title>
-        <id>https://xkcd.com/3174/</id>
-        <link href="https://xkcd.com/3174/"/>
-        <updated>2025-11-28T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

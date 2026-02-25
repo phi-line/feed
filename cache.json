@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159245",
+          "author": "Joseph Howlett",
+          "description": "In an 1874 paper, Georg Cantor proved that there are different sizes of infinity and changed math forever. A trove of newly unearthed letters shows that it was also an act of plagiarism.            \nThe post The Man Who Stole Infinity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+          "publishedOn": "2026-02-25T16:23:43.000Z",
+          "wordCount": 7735,
+          "title": "The Man Who Stole Infinity",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/02/CantorThePlagiarist-crKristinaArmitage-Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159206",
           "author": "Mark Belan and Jordana Cepelewicz",
           "description": "Intuition breaks down once we’re dealing with the endless. To begin with: Some infinities are bigger than others.            \nThe post How Can Infinity Come in Many Sizes? first appeared on Quanta Magazine",
@@ -381,6 +391,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "699f12433c89150001f027e1",
+          "author": "Joseph Cox",
+          "description": "A leaked Ring email; looksmaxxing; and another Grok screwup.",
+          "link": "https://www.404media.co/podcast-ring-is-just-getting-started/",
+          "publishedOn": "2026-02-25T15:19:36.000Z",
+          "wordCount": 1086,
+          "title": "Podcast: Ring Is Just Getting Started",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/A--60-Mod-to-Meta---s-Ray-Bans-Disables-Its-Privacy-Protecting-Recording-Light--1--1.png"
+        },
+        {
+          "id": "699f11813c89150001f026c8",
+          "author": "Jason Koebler",
+          "description": "The FBI obtained prompts used to make more than 200 sexual videos of a woman in a harassment case.",
+          "link": "https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/",
+          "publishedOn": "2026-02-25T15:16:52.000Z",
+          "wordCount": 1409,
+          "title": "FBI Got Grok to Hand Over Prompts Used to Create Nonconsensual Porn",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-25-at-07.13.43@2x.png"
+        },
+        {
+          "id": "699f07643c89150001edec65",
+          "author": "Matthew Gault",
+          "description": "The creator of the AI agent “Einstein” wants to free humans from the burden of academic labor. Critics say that misses the point of education entirely.",
+          "link": "https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/",
+          "publishedOn": "2026-02-25T14:41:23.000Z",
+          "wordCount": 2153,
+          "title": "What’s the Point of School When AI Can Do Your Homework?",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/photo-1690079374922-7f50d5c1a102.jpeg"
+        },
         {
           "id": "699dc2bc3c89150001eb4d57",
           "author": "Joseph Cox",
@@ -1288,6 +1328,24 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?post_type=podcast&p=8368888",
+          "author": "Nick Gillespie",
+          "description": "Former Transportation Secretary Pete Buttigieg discusses immigration enforcement, the role of government, and why federal agencies are losing public trust.",
+          "link": "https://reason.com/podcast/2026/02/25/pete-buttigieg-federal-agents-are-losing-public-trust/",
+          "publishedOn": "2026-02-25T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Pete Buttigieg: Federal Agents Are Losing Public Trust",
+          "itunes": {
+            "duration": "58:17"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8368888.mp3",
+            "length": "84952432",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8370038",
           "author": "Autumn Billings",
@@ -2668,16 +2726,6 @@
           "wordCount": 208,
           "title": "Website Task Flowchart",
           "imageUrl": "https://imgs.xkcd.com/comics/website_task_flowchart_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3174/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3174/",
-          "publishedOn": "2025-11-28T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Bridge Clearance",
-          "imageUrl": "https://imgs.xkcd.com/comics/bridge_clearance_2x.png"
         }
       ]
     },
@@ -3050,6 +3098,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552182",
+          "author": "Alex N. Gecan",
+          "description": "The sudden ouster of Police Accountability Board director Hansel Aguilar, and recent protest resignations from the Police Accountability Board, are the culmination of years of mounting tension between those bodies and the city.",
+          "link": "https://www.berkeleyside.org/2026/02/25/berkeley-police-accountability-future",
+          "publishedOn": "2026-02-25T15:31:15.000Z",
+          "wordCount": 8892,
+          "title": "What future does police accountability have in Berkeley?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Police-Accountability-Board-Mtg-14.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552732",
           "author": "Nico Savidge",
@@ -7131,6 +7189,36 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/sponsored/indigenous-land-rights-and-the-future-of-climate-policy/",
+          "author": "Lee Helland, Carina Mia Wong",
+          "description": "A woman stands at the edge of the Amazon Rainforest. Behind her, an explosion of life — thousands of animal species, billions of trees, lush canopy. Ahead, another kind: Humanity. \nPeople from every corner of the Earth fill the city of Belém, Brazil. It’s a sea of color, music, and emotion as they dance and stomp across asphalt, past highrises in the hot, humid air. A paper snake the length of a city block ripples overhead.\nThe woman wipes sweat from her temples. Her purple baseball cap is soaked through, its message blunt:\nDERECHOS A LA TIERRA ¡YA!\nLand rights — now.\n\nPhoto by Natalia Ramírez Gutiérrez\nThe woman is Joan Carling, a human rights activist and the executive director of Indigenous Peoples Rights International (IPRI). The scene unfolded at COP30, the climate summit hosted by th…",
+          "link": "https://bigthink.com/sponsored/indigenous-land-rights-and-the-future-of-climate-policy/",
+          "publishedOn": "2026-02-25T14:00:00.000Z",
+          "wordCount": 3383,
+          "title": "Widening the frame: Indigenous land rights and the future of climate policy",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Skoll-COP30-Header-Art.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/thumbs-down-to-gladiator-strategy-try-the-nadella-philosophy-instead/",
+          "author": "Nilofer Merchant",
+          "description": "It’s called the Gladiator Strategy. \nThe Swiss CEO of a shoe company stirred his espresso as he tried to convince me of his preferred way of working: “I think a battle of ideas is so important. It helps us fight things out, so the one idea left standing is the absolute best idea.” \nIn Roman times, the best gladiators weren’t necessarily the best athletes or the strongest physical performers but the ones who knew how to entertain the crowds in the way the emperor loved. Whatever, whoever amused the emperor was given the thumbs-­up. The workplace parallel is perhaps obvious: People can “win” internal fights in those boardrooms by arguing for the ideas and perspectives that the boss already loves. So “fighting for the best idea” becomes a public way to endorse and validate the emperor’s —­ er…",
+          "link": "https://bigthink.com/business/thumbs-down-to-gladiator-strategy-try-the-nadella-philosophy-instead/",
+          "publishedOn": "2026-02-25T13:27:44.000Z",
+          "wordCount": 3063,
+          "title": "Thumbs-down to “Gladiator Strategy”? Try the Nadella philosophy instead",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/our-best-work_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/how-to-conquer-pressure-the-jim-belushi-way/",
+          "author": "Tim Brinkhof",
+          "description": "Sometimes, when Jim Belushi feels anxious, he tells himself he’s actually just stoked. “Physiologically,” the actor, comedian, and entrepreneur tells Big Think, “what happens to your body when you’re nervous or fearful is exactly the same thing as what happens when you’re excited,” so all you need to do is flip a switch. It’s one of several tricks he learned early in life that stuck with him throughout the various chapters of his long and storied career, from Hollywood to Oregon pot farm.\nBorn to Albanian-American parents in the suburbs of Chicago, Belushi began acting in high school — an experience, he once told the Connecticut Post, that “made me feel good for the first time in my life.” Following in the footsteps of elder sibling John Belushi, he cut his teeth at Chicago’s renowned Seco…",
+          "link": "https://bigthink.com/business/how-to-conquer-pressure-the-jim-belushi-way/",
+          "publishedOn": "2026-02-25T13:23:17.000Z",
+          "wordCount": 3695,
+          "title": "How to conquer pressure — the Jim Belushi way",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/conquer-pressure-jim-belushi_compressed.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/einstein-revolutionized-where-when/",
           "author": "Ethan Siegel",
           "description": "Here on Earth, it seems easy and straight forward to know “where” anything is, or to know “when” an event either occurred or will occur. After all, we’ve mapped out the entire surface of the Earth, and can define our location with three coordinates — latitude, longitude, and altitude/depth — no matter where in the world we are. Additionally, we’ve synchronized all methods of timekeeping here on Earth with atomic clocks, enabling people from all different locations on Earth to know both the “when” and “where” any event occurs, will occur, or has occurred.\nBut this relies on an underlying assumption that most of us make without ever thinking twice about it: that you, from your location on Earth, are observing the same “here and now” as anyone else in any other location on Earth. Unfortunatel…",
@@ -7159,6 +7247,16 @@
           "wordCount": 3003,
           "title": "9 Confucian rules for emotional intelligence at work",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/9-Confucian-rules_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/why-relationships-in-2026-carry-impossible-expectations/",
+          "author": "Alain de Botton",
+          "description": "For most of human history, love was not a choice we made, love was a choice made for us. By our family, our class, or by means of survival. \nNow that love has been liberated, it seems to have become more complicated and more illusive than ever. Alain de Botton explains.\nThis video Why relationships in 2026 carry impossible expectations is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/why-relationships-in-2026-carry-impossible-expectations/",
+          "publishedOn": "2026-02-24T14:00:00.000Z",
+          "wordCount": 5613,
+          "title": "Why relationships in 2026 carry impossible expectations",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/C1-Web-de-Botton.jpg?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/starts-with-a-bang/5-biggest-obstacles-ai-data-centers-space/",
@@ -9238,6 +9336,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=36469",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "If you think tofu is boring or bland, these tofu recipes are here to change your mind! I’m sharing 28 different dishes that range from cozy soups to crispy mains and satisfying meal bowls, each packed with flavour and plant-based protein. I know tofu can be intimidating. In fact, the first few times I cooked […]",
+          "link": "https://jessicainthekitchen.com/incredible-ways-to-use-tofu/",
+          "publishedOn": "2026-02-24T15:00:00.000Z",
+          "wordCount": 8309,
+          "title": "The Best Tofu Recipes to Add to Your Weekly Menu",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/09/Banh-Mi-Bowl_14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=72647",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "No one would ever suspect that these chocolatey sweet potato brownies are gluten-free, vegan, and secretly wholesome! Pureed sweet potato adds natural sweetness and lots of moisture for the fudgiest texture. If you’ve yet to try sweet potato brownies, consider this your sign. The universe is telling you: it’s brownie time. And no, this isn’t […]",
@@ -9640,6 +9748,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/mcsweeneys-and-broadway-video-present-documentary-now-fourth-edition-revised-and-expanded",
+          "author": "McSweeney's Books",
+          "description": "Hitchcock/Truffaut.\n Cahiers du Cinéma.\n Documentary Now!\n The best film texts touch our lives and leave an indelible imprint on our shared cultural experience, deepening and enriching our relationships with this most universal of modern artistic genres.\n In this new, fully revised and expanded edition of Documentary Now!’s seminal 1975 text, the curators behind the beloved long-running Documentary Now! program invite us to celebrate the craft, legacy, and minutiae of some of the most brilliant works of nonfiction ever put to celluloid. This remarkable book presents unique access to stills, posters, scores, and archival materials from some of the most celebrated documentaries in film history, alongside essays from some of the greatest cultural luminaries of the last fifty years, including …",
+          "link": "https://www.mcsweeneys.net/articles/mcsweeneys-and-broadway-video-present-documentary-now-fourth-edition-revised-and-expanded",
+          "publishedOn": "2026-02-25T17:31:00.000Z",
+          "wordCount": 2276,
+          "title": "McSweeney’s Books: McSweeney’s and  Broadway Video Present:  Documentary Now!  (Fourth Edition, Revised  and Expanded)",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6ple6otrj2tcbc6x096g3a6l3itf"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/maura-quints-state-of-the-union-recap",
+          "author": "Maura Quint",
+          "description": "State Of The Union\n February 24, 2026\n Washington, DC\n 8:52 PM: The State of the Union is opened by House Majority Leader Mike Johnson, who has been released from his medium-sized dog cage specially for this evening. He welcomes congressional attendees with a giggle, as this is the first time he’s been permitted to speak since late January. Standing on the dais beside him is Vice President and Fall Out Boy fanfic author JD Vance. While most Republicans have chosen red, Vance wears a blue tie to complement Peter Thiel’s eyes.\n 9:10 PM: Having just styled his hair by rubbing it against a balloon, President Trump enters the House Chamber in the building formerly known as the US Capitol and now known as the “Crypto.com Funzone.” Republicans in the audience give him a standing ovation. Trump, r…",
+          "link": "https://www.mcsweeneys.net/articles/maura-quints-state-of-the-union-recap",
+          "publishedOn": "2026-02-25T14:02:00.000Z",
+          "wordCount": 3398,
+          "title": "Maura Quint’s  State of the Union Recap",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r5bg1u7wy12okr27tsuctgnb9oi8"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making",
           "author": "Kate Tyndall",
@@ -10207,6 +10335,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111759 at https://www.eff.org",
+          "author": "Jacob Hoffman-Andrews",
+          "description": "Phishing and data breaches are a constant on the internet. The single best defense against both is to use a password manager to generate and automatically fill a unique password for every site. While 1Password has recently raised their prices, and researchers have recently published potential flaws in some implementations, using a password manager is still a critical investment in keeping yourself safe on the internet. There are free options, and even ones built into your operating system or browser. We can help you choose.\nPassword managers protect you from phishing by memorizing the connection between a password and a website, and, if you use the browser integration, filling each password only on the website it belongs to. They protect you from data breaches by making it feasible to use …",
+          "link": "https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager",
+          "publishedOn": "2026-02-25T17:26:39.000Z",
+          "wordCount": 1730,
+          "title": "How to Pick Your Password Manager",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/icon-security-2_0.png",
+            "alt": "Security",
+            "type": "image/png",
+            "length": "16523"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/icon-security-2_0.png"
+        },
         {
           "id": "111758 at https://www.eff.org",
           "author": "Matthew Guariglia",
