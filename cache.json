@@ -9229,26 +9229,6 @@
           "wordCount": 3322,
           "title": "The costs of turning therapy into a pop culture fad",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/psychobabble_compressed.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/history-nuclear-deterrence/",
-          "author": "Benjamin Wilson",
-          "description": "The verb deter was coined in the English language in the 16th century from the Latin deterreo (to frighten) and first applied systematically in 18th- and 19th-century criminological texts. During the 1850s, the English criminologist T.B.L. Baker invented the noun form deterrence to capture an idea about the effects of actual and potential punishment on criminal thought and behavior. Early criminologists believed that criminals who possessed what the utilitarian philosopher (and early deterrence theorist) Jeremy Bentham called “rational agency” were susceptible to the fear of punishment. Modern criminologists argued that punishments such as prison sentences should not be seen as they had been in an earlier age: as acts of moral retribution or as efforts to reform the criminal. Punishments s…",
-          "link": "https://bigthink.com/books/history-nuclear-deterrence/",
-          "publishedOn": "2025-11-27T15:30:00.000Z",
-          "wordCount": 3229,
-          "title": "How a criminology concept became the backbone of the U.S.’s Cold War strategy",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Strange_Stability_Excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/what-we-can-learn-from-butterflies/",
-          "author": "Eric Markowitz",
-          "description": "Ever since I first read Janine Benyus’s Biomimicry: Innovation Inspired by Nature, I’ve descended into a rabbit hole in search of what “intelligence” really means (and who has it). Perhaps that’s why I love the name of this newsletter so much. [It’s a worm, after all. A humble, indispensable critter buried beneath the soil.]\nBenyus’s central argument is that the “smartest” solutions to human problems already exist in nature. We just need to know where, and how, to look for them. (For instance: wind turbines inspired by humpback whales.)\nSo perhaps it’s no surprise that I was riveted by a recent piece on monarch butterflies. The piece explains how monarchs actually navigate: with two independent compasses built into their biology. On clear days, they orient themselves using a solar compass.…",
-          "link": "https://bigthink.com/business/what-we-can-learn-from-butterflies/",
-          "publishedOn": "2025-11-27T14:00:00.000Z",
-          "wordCount": 2745,
-          "title": "What we can learn from butterflies",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/what-we-learn-from-butterflies_compressed.jpg?resize=1200,630"
         }
       ]
     },
@@ -10227,6 +10207,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111758 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "The Secretary of Defense has given an ultimatum to the artificial intelligence company Anthropic in an attempt to bully them into making their technology available to the U.S. military without any restrictions for their use. Anthropic should stick by their principles and refuse to allow their technology to be used in the two ways they have publicly stated they would not support: autonomous weapons systems and surveillance. The Department of Defense has reportedly threatened to label Anthropic a “supply chain risk,” in retribution for not lifting restrictions on how their technology is used. According to WIRED, that label would be, “a scarlet letter usually reserved for companies that do business with countries scrutinized by federal agencies, like China, which means the Pentagon would not …",
+          "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+          "publishedOn": "2026-02-24T23:42:44.000Z",
+          "wordCount": 1617,
+          "title": "Tech Companies Shouldn’t Be Bullied Into Doing Surveillance",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ai-soldiers-3b.png",
+            "alt": "AI Military",
+            "type": "image/png",
+            "length": "8125"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-soldiers-3b.png"
+        },
         {
           "id": "111755 at https://www.eff.org",
           "author": "Melissa Srago",
