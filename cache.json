@@ -2368,6 +2368,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3212/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3212/",
+          "publishedOn": "2026-02-25T05:00:00.000Z",
+          "wordCount": 189,
+          "title": "Little Red Dots",
+          "imageUrl": "https://imgs.xkcd.com/comics/little_red_dots_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3211/",
           "author": null,
           "description": "",
@@ -6420,6 +6430,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves",
+          "author": null,
+          "description": "I'll be posting less often and more in depth",
+          "link": "https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-02-26T02:38:16.000Z",
+          "wordCount": 2007,
+          "title": "AeMug Chat #1 / Aether Mug Evolves",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/ae-mug-chat-1-aether-mug-evolves/527898ldsdl.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/ae-mug-chat-1-aether-mug-evolves/527898ldsdl.jpg"
+        },
+        {
           "id": "https://aethermug.com/posts/i-witnessed-the-birth-of-a-tiny-world",
           "author": null,
           "description": "How the mind creates and improves its framings on the fly",
@@ -9754,16 +9779,6 @@
           "wordCount": 6682,
           "title": "Peppermint Brownies With White Chocolate Topping",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/12/Peppermint-Chocolate-Brownies8948.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=71111",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "With lots of sweet corn, tender potatoes, and a rich, creamy broth, this vegan Corn Chowder recipe is every bit as delicious as the traditional version! Whether it’s Corn Nuggets, Corn Soufflé, or classic Corn Succotash, corn is a favourite in the summer months. And this vegan corn chowder recipe brings that sweet flavour into […]",
-          "link": "https://jessicainthekitchen.com/corn-chowder-recipe/",
-          "publishedOn": "2025-11-28T15:00:00.000Z",
-          "wordCount": 5808,
-          "title": "Creamy Corn Chowder Recipe",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/10/Vegan-Corn-Chowder_30.jpg"
         }
       ]
     },

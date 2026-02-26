@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-26T00:24:34.132Z</updated>
+    <updated>2026-02-26T06:23:29.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AeMug Chat #1 / Aether Mug Evolves]]></title>
+        <id>https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves</id>
+        <link href="https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2026-02-26T02:38:16.000Z</updated>
+        <summary type="html"><![CDATA[I'll be posting less often and more in depth]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 3 colors: What folktales teach about how to grow wise]]></title>
         <id>https://bigthink.com/mini-philosophy/the-3-colors-what-folktales-teach-about-how-to-grow-wise/</id>
@@ -226,6 +236,15 @@ Born to Albanian-American parents in the suburbs of Chicago, Belushi began actin
 But this relies on an underlying assumption that most of us make without ever thinking twice about it: that you, from your location on Earth, are observing the same “here and now” as anyone else in any other location on Earth. Unfortunatel…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Red Dots]]></title>
+        <id>https://xkcd.com/3212/</id>
+        <link href="https://xkcd.com/3212/"/>
+        <updated>2026-02-25T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -11569,16 +11588,6 @@ Last year I wrote about how I lost my food fandango, got it back, and now simpli
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creamy Corn Chowder Recipe]]></title>
-        <id>https://jessicainthekitchen.com/?p=71111</id>
-        <link href="https://jessicainthekitchen.com/corn-chowder-recipe/"/>
-        <updated>2025-11-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With lots of sweet corn, tender potatoes, and a rich, creamy broth, this vegan Corn Chowder recipe is every bit as delicious as the traditional version! Whether it’s Corn Nuggets, Corn Soufflé, or classic Corn Succotash, corn is a favourite in the summer months. And this vegan corn chowder recipe brings that sweet flavour into […]]]></summary>
-        <author>
-            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>
