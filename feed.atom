@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-26T06:23:29.428Z</updated>
+    <updated>2026-02-26T12:16:25.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record-breaking natural laser discovered 11 billion light-years away]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/most-distant-laser/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/most-distant-laser/"/>
+        <updated>2026-02-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here on Earth, the very idea of a laser is relatively novel, having only been invented in 1958. The underlying physics is straightforward:
+an electron within a molecule gets excited to a higher-energy state,
+the electron de-transitions back to the lower energy state,
+where it emits light of a very specific wavelength in the process.
+Then, pumped or injected energy re-excites an electron within that very same molecule back into that higher-energy state, over and over. This causes light of precisely that same, monochromatic wavelength to get emitted over and over again. So long as you continue stimulating the same transition, you’ll keep getting light of that exact same frequency over and over again, every time.
+But out there in the Universe, this exact phenomenon occurs naturally in a numbe…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AeMug Chat #1 / Aether Mug Evolves]]></title>
         <id>https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves</id>
