@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-27T00:27:00.197Z</updated>
+    <updated>2026-02-27T06:19:47.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How experimental archaeologists are resurrecting our forgotten past]]></title>
+        <id>https://bigthink.com/series/full-interview/experimental-archaeologists/</id>
+        <link href="https://bigthink.com/series/full-interview/experimental-archaeologists/"/>
+        <updated>2026-02-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We tend to imagine ancient life in broad strokes. But daily existence was built out of small, sensory details. The taste of staple foods, the smell of living spaces, the feel of handmade tools in your hands — those experiences shaped the people of the past. 
+Sam Kean examines how recreating those details brings history into sharper focus, rebuilding the foods and practices of the past and what that reveals about human adaptability. 
+This video How experimental archaeologists are resurrecting our forgotten past is featured on Big Think.]]></summary>
+        <author>
+            <name>Sam Kean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wire: UC Berkeley sees increase in freshman, transfer applicants]]></title>
+        <id>https://www.berkeleyside.org/?p=552875</id>
+        <link href="https://www.berkeleyside.org/2026/02/26/the-wire-uc-berkeley-sees-increase-in-freshman-transfer-applicants"/>
+        <updated>2026-02-27T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Companies in Cal's startup incubator Bakar Labs have raised $1 billion since it launched four years ago.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda County looks for $10M to stave off health care layoffs and program closures]]></title>
+        <id>https://oaklandside.org/?p=469830</id>
+        <link href="https://www.berkeleyside.org/2026/02/26/alameda-county-health-care-layoffs"/>
+        <updated>2026-02-27T00:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Alameda Health System workers and union leaders said their units are already stretched too thin and criticized administrators.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The hidden cost of letting AI make your life easier]]></title>
         <id>https://bigthink.com/philosophy/the-hidden-cost-of-letting-ai-make-your-life-easier/</id>

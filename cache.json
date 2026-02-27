@@ -3206,6 +3206,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=552875",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Companies in Cal's startup incubator Bakar Labs have raised $1 billion since it launched four years ago.",
+          "link": "https://www.berkeleyside.org/2026/02/26/the-wire-uc-berkeley-sees-increase-in-freshman-transfer-applicants",
+          "publishedOn": "2026-02-27T01:15:00.000Z",
+          "wordCount": 7105,
+          "title": "The Wire: UC Berkeley sees increase in freshman, transfer applicants",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/07/large-FTX-Nov-16-2022_FIeld-at-California-Memorial-Stadium.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=469830",
+          "author": "Alex N. Gecan",
+          "description": "Alameda Health System workers and union leaders said their units are already stretched too thin and criticized administrators.",
+          "link": "https://www.berkeleyside.org/2026/02/26/alameda-county-health-care-layoffs",
+          "publishedOn": "2026-02-27T00:36:52.000Z",
+          "wordCount": 8172,
+          "title": "Alameda County looks for $10M to stave off health care layoffs and program closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/03_26_20_highland_hospital-1.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=552850",
           "author": "Momo Chang",
           "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
@@ -7370,6 +7390,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/full-interview/experimental-archaeologists/",
+          "author": "Sam Kean",
+          "description": "We tend to imagine ancient life in broad strokes. But daily existence was built out of small, sensory details. The taste of staple foods, the smell of living spaces, the feel of handmade tools in your hands — those experiences shaped the people of the past. \nSam Kean examines how recreating those details brings history into sharper focus, rebuilding the foods and practices of the past and what that reveals about human adaptability. \nThis video How experimental archaeologists are resurrecting our forgotten past is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/experimental-archaeologists/",
+          "publishedOn": "2026-02-27T05:00:00.000Z",
+          "wordCount": 21259,
+          "title": "How experimental archaeologists are resurrecting our forgotten past",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-11.16.10-AM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/philosophy/the-hidden-cost-of-letting-ai-make-your-life-easier/",
           "author": "Shai Tubali",
