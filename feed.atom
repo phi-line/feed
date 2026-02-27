@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-02-27T06:19:47.472Z</updated>
+    <updated>2026-02-27T12:12:45.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Buddy Guy: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=m5XxOLdMSS8</id>
+        <link href="https://www.youtube.com/watch?v=m5XxOLdMSS8"/>
+        <updated>2026-02-27T10:01:20.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Can quantum entanglement survive a black hole?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/"/>
+        <updated>2026-02-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here in our Universe, there’s a big puzzle at the heart of every black hole. According to Einstein’s General Relativity, for every black hole that exists within the Universe, there are only three properties that go into it that matter in any way:
+the black hole’s total mass,
+the black hole’s net electric charge,
+and the black hole’s intrinsic angular momentum,
+and that’s it. It doesn’t matter what type of matter (or antimatter, or dark matter) went into the black hole in order to form it; all that matters is its mass, charge, and angular momentum.
+But in addition to a Universe governed by Einstein’s General Relativity, we also live in an inherently quantum Universe. Quantum mechanically, there are all sorts of bizarre phenomena that cannot be avoided, from uncertainty to entanglement. It’s…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victory! Tenth Circuit Finds Fourth Amendment Doesn’t Support Broad Search of Protesters’ Devices and Digital Data]]></title>
+        <id>111768 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0"/>
+        <updated>2026-02-27T06:03:02.000Z</updated>
+        <summary type="html"><![CDATA[In a big win for protesters’ rights, the U.S. Court of Appeals for the Tenth Circuit overturned a lower court’s dismissal of a challenge to sweeping warrants to search a protester’s devices and digital data and a nonprofit’s social media data.
+The case, Armendariz v. City of Colorado Springs, arose after a housing protest in 2021, during which Colorado Springs police arrested protesters for obstructing a roadway. After the demonstration, police also obtained warrants to seize and search through the devices and data of Jacqueline Armendariz Unzueta, who they claimed threw a bike at them during the protest. The warrants included a search through all of her photos, videos, emails, text messages, and location data over a two-month period, as well as a time-unlimited search for 26 keywords, inc…]]></summary>
+        <author>
+            <name>Saira Hussain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How experimental archaeologists are resurrecting our forgotten past]]></title>
         <id>https://bigthink.com/series/full-interview/experimental-archaeologists/</id>

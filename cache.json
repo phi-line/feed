@@ -6754,6 +6754,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m5XxOLdMSS8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m5XxOLdMSS8",
+          "publishedOn": "2026-02-27T10:01:20.000Z",
+          "wordCount": null,
+          "title": "Buddy Guy: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/7w_JMpZ8Mgs",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -7390,6 +7400,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/",
+          "author": "Ethan Siegel",
+          "description": "Here in our Universe, there’s a big puzzle at the heart of every black hole. According to Einstein’s General Relativity, for every black hole that exists within the Universe, there are only three properties that go into it that matter in any way:\nthe black hole’s total mass,\nthe black hole’s net electric charge,\nand the black hole’s intrinsic angular momentum,\nand that’s it. It doesn’t matter what type of matter (or antimatter, or dark matter) went into the black hole in order to form it; all that matters is its mass, charge, and angular momentum.\nBut in addition to a Universe governed by Einstein’s General Relativity, we also live in an inherently quantum Universe. Quantum mechanically, there are all sorts of bizarre phenomena that cannot be avoided, from uncertainty to entanglement. It’s…",
+          "link": "https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/",
+          "publishedOn": "2026-02-27T07:00:00.000Z",
+          "wordCount": 5110,
+          "title": "Ask Ethan: Can quantum entanglement survive a black hole?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/blackhole-e1707437084280.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/series/full-interview/experimental-archaeologists/",
           "author": "Sam Kean",
@@ -10607,6 +10627,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111768 at https://www.eff.org",
+          "author": "Saira Hussain",
+          "description": "In a big win for protesters’ rights, the U.S. Court of Appeals for the Tenth Circuit overturned a lower court’s dismissal of a challenge to sweeping warrants to search a protester’s devices and digital data and a nonprofit’s social media data.\nThe case, Armendariz v. City of Colorado Springs, arose after a housing protest in 2021, during which Colorado Springs police arrested protesters for obstructing a roadway. After the demonstration, police also obtained warrants to seize and search through the devices and data of Jacqueline Armendariz Unzueta, who they claimed threw a bike at them during the protest. The warrants included a search through all of her photos, videos, emails, text messages, and location data over a two-month period, as well as a time-unlimited search for 26 keywords, inc…",
+          "link": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+          "publishedOn": "2026-02-27T06:03:02.000Z",
+          "wordCount": 1651,
+          "title": "Victory! Tenth Circuit Finds Fourth Amendment Doesn’t Support Broad Search of Protesters’ Devices and Digital Data",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/protest-2024-2.jpg",
+            "alt": "2 protestors in silhouette on retro starburst background",
+            "type": "image/jpeg",
+            "length": "719510"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/protest-2024-2.jpg"
+        },
         {
           "id": "111764 at https://www.eff.org",
           "author": "Melissa Srago",
