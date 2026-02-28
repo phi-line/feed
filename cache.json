@@ -2165,6 +2165,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/ai-clinical-trials",
+          "author": "Asimov Press",
+          "description": "A response to Dario Amodei.",
+          "link": "https://www.asimov.press/p/ai-clinical-trials",
+          "publishedOn": "2026-02-27T18:21:40.000Z",
+          "wordCount": null,
+          "title": "AI Won't Automatically Accelerate Clinical Trials",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!TIDP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da51221-8a5a-4720-a29d-a9ebd50dcedc_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!TIDP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da51221-8a5a-4720-a29d-a9ebd50dcedc_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/dna-sequencing",
           "author": "Asimov Press",
           "description": "How to “read” nucleic acids, from Sanger to nanopores.",
@@ -2474,6 +2490,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3213/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3213/",
+          "publishedOn": "2026-02-27T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Dental Formulas",
+          "imageUrl": "https://imgs.xkcd.com/comics/dental_formulas_2x.png"
+        },
         {
           "id": "https://xkcd.com/3212/",
           "author": null,
@@ -3235,6 +3261,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552950",
+          "author": "Alex N. Gecan",
+          "description": "The scammers say they just happened to notice a problem they can fix quickly and cheaply, then tear chunks out of roofs so they can press victims to hire them to repair, police say.",
+          "link": "https://www.berkeleyside.org/2026/02/27/berkeley-elder-scam-roof-chimney-repairs",
+          "publishedOn": "2026-02-27T23:40:59.000Z",
+          "wordCount": 7486,
+          "title": "Police warn of ‘aggressive’ door-to-door contractor scam targeting older Berkeleyans",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/webimage-03-01-2021-Berkeley-Residential-Stock.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552941",
+          "author": "Nico Savidge",
+          "description": "Terrance Davis, praised for his “steady hand” after taking over an embattled department reeling from high-profile departures, will be deputy city manager in Brentwood.",
+          "link": "https://www.berkeleyside.org/2026/02/27/terrance-davis-public-works-berkeley-resignation",
+          "publishedOn": "2026-02-27T22:43:46.000Z",
+          "wordCount": 7238,
+          "title": "Berkeley’s public works chief leaving for East Contra Costa County",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/large-IMG_9881.jpeg"
+        },
         {
           "id": "https://oaklandside.org/?p=469807",
           "author": "Erica Hellerstein",
@@ -10080,6 +10126,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/revisions-for-your-hopelessly-optimistic-dystopian-ya-novel",
+          "author": "Håkon Osmundsen",
+          "description": "Dear Sir/Madam,\n While we are always on the lookout for the Next Big Thing, the editors regret to inform you that your manuscript, in its current form, is rejected on grounds of being unrealistic, absurdly optimistic, and, frankly, preferable to the current projections for the future.\n If you would like to revise your submission, please consider changing the following:\n  \nThe protagonist growing up in a public orphanage suggests a centralized government with a sense of duty of care for its citizens and children. Have you considered cages?\n The orphanage is constructed with bricks and mortar and withstands a storm.\n The nuclear winter is seasonal and affects only that lawless part of Idaho, which should be avoided anyway.\n The AI program teaching the protagonist incendiary propaganda is con…",
+          "link": "https://www.mcsweeneys.net/articles/revisions-for-your-hopelessly-optimistic-dystopian-ya-novel",
+          "publishedOn": "2026-02-27T18:45:00.000Z",
+          "wordCount": 2672,
+          "title": "Revisions for Your Hopelessly Optimistic Dystopian YA Novel",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/k8gl50x3jqqygo4o9boiq5nkv8he"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/sports-books-i-have-read-or-written",
           "author": "Nick Hornby",
