@@ -412,6 +412,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69a353b7d04ba90001899b20",
+          "author": "Becky Ferreira",
+          "description": "A new genetic analysis reveals that human females and Neanderthal males interbred far more than the reverse, for reasons that remain mysterious.",
+          "link": "https://www.404media.co/scientists-reveal-the-surprising-sex-lives-of-neanderthals-and-early-humans/",
+          "publishedOn": "2026-02-28T20:48:27.000Z",
+          "wordCount": 2217,
+          "title": "Scientists Reveal the Surprising Sex Lives of Neanderthals and Early Humans",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/image2.jpg"
+        },
+        {
           "id": "69a1a618d04ba90001869a06",
           "author": "Joseph Cox",
           "description": "This week, we discuss wishes made for better privacy, god complexes, and the point of it all.",
@@ -7498,16 +7508,6 @@
           "wordCount": null,
           "title": "Brandi Carlile: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PNmcF6eRE7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PNmcF6eRE7w",
-          "publishedOn": "2025-12-01T10:00:46.000Z",
-          "wordCount": null,
-          "title": "David Byrne: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9695,16 +9695,6 @@
           "wordCount": 2139,
           "title": "Find your own tomato war: How to fortify culture through ritual",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/culture-design_excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/",
-          "author": "Ethan Siegel",
-          "description": "The answer to nature’s greatest riddles are written upon the Universe itself.\n\nGaia’s all-sky view of our Milky Way Galaxy and neighboring galaxies. The maps show the total brightness and color of stars (top), the total density of stars (middle), and the interstellar dust that fills the galaxy (bottom). Note how, on average, there are approximately ~10 million stars in each square degree, but that some regions, like the galactic plane or the galactic center, have stellar densities well above the overall average.\n\nCredit: ESA/Gaia/DPAC\n\n\nFrom the fundamental to the cosmic, science reveals our natural history.\n\nOur Universe, from the hot Big Bang until the present day, underwent a huge amount of growth and evolution, and continues to do so. Our entire observable Universe was approximately th…",
-          "link": "https://bigthink.com/starts-with-a-bang/biggest-gaps-in-cosmic-history/",
-          "publishedOn": "2025-12-01T07:00:00.000Z",
-          "wordCount": 3275,
-          "title": "The 9 biggest gaps in our understanding of cosmic history",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/02/mapping-timeline.jpg?resize=1200,630"
         }
       ]
     },
