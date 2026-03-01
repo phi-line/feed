@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-01T06:16:50.012Z</updated>
+    <updated>2026-03-01T12:09:33.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What the ICE Crackdown and China's One-Child Policy Have in Common]]></title>
+        <id>https://reason.com/?p=8368759</id>
+        <link href="https://reason.com/2026/03/01/no-one-knows-the-right-number-of-people/"/>
+        <updated>2026-03-01T11:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Population control is technocratic hubris at its most intimate and brutal.]]></summary>
+        <author>
+            <name>Katherine Mangu-Ward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientists Reveal the Surprising Sex Lives of Neanderthals and Early Humans]]></title>
         <id>69a353b7d04ba90001899b20</id>
@@ -11900,64 +11910,6 @@ But that doesn’t explain everything we know is out there contributing to our U
         <summary type="html"><![CDATA[It’s the second big Berkeley bookstore closure this year. A spokesperson for Half Price Books attributed the closure to a lease dispute with their landlord.]]></summary>
         <author>
             <name>Nathan Dalton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorcyclist killed in Berkeley Interstate 80 crash]]></title>
-        <id>https://www.berkeleyside.org/?p=548326</id>
-        <link href="https://www.berkeleyside.org/2025/12/01/fatal-motorcycle-crash-i80-university-ave"/>
-        <updated>2025-12-02T00:08:05.000Z</updated>
-        <summary type="html"><![CDATA[The crash happened around 3 p.m. near University Avenue. The rider has not yet been identified.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Internet Was Like in 2002]]></title>
-        <id>https://cybercultural.com/p/internet-2002/</id>
-        <link href="https://cybercultural.com/p/internet-2002/"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[KaZaA, one of many P2P file sharing services in 2002.
-In June 2002, Pew Research Center released a report on broadband uptake. It stated that 21% of all Internet users in America — 24 million adults — now had broadband in the home, up from just 6% two years ago. Of course, broadband penetration would continue to trend upward over the coming years. But even in 2002, Pew claimed that the internet had morphed from a "sometimes" tool for communication and finding information to an "always-on information appliance."
-This change in the character of the internet around 2002 led to the other trends we'll look at in this post: more interactive websites, more online music choices, more socializing on the web.
-
-A BBC report in January 2002 about broadband.
-Web Design: Flash to CSS
-One website that il…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former pandemic pop-up rises up to claim East Bay’s best bakery title]]></title>
-        <id>https://www.berkeleyside.org/?p=548303</id>
-        <link href="https://www.berkeleyside.org/2025/12/01/nosh-awards-best-bakery-bake-sum"/>
-        <updated>2025-12-01T23:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Joyce Tang has built Bake Sum into a nationally acclaimed pastry powerhouse in the five years since it opened. Nosh readers voted it the best bakery of 2025.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rise of AI denialism]]></title>
-        <id>https://bigthink.com/the-present/the-rise-of-ai-denialism/</id>
-        <link href="https://bigthink.com/the-present/the-rise-of-ai-denialism/"/>
-        <updated>2025-12-01T22:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few months, we’ve seen a surge of skepticism around the phenomenon currently referred to as the “AI boom.” The shift began when OpenAI released GPT-5 this summer to mixed reviews, mostly from casual users. We’ve since had months of breathless claims from pundits and influencers that the era of rapid AI advancement is ending, that AI scaling has hit the wall, and that the AI boom is just another tech bubble. These same voices overuse the phrase “AI slop” to disparage the remarkable images, documents, videos, and code that AI models produce at the touch of a button.
-I find this perspective both absurd and dangerous. 
-By any objective measure, AI continues to improve at a stunning pace. The impressive leap in capabilities made by Gemini 3 in November is just the latest example. …]]></summary>
-        <author>
-            <name>Louis Rosenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UC Berkeley student who drowned during fraternity pool party is identified]]></title>
-        <id>https://www.berkeleyside.org/?p=547734</id>
-        <link href="https://www.berkeleyside.org/2025/12/01/cal-alpha-delta-phi-death-aquadelt"/>
-        <updated>2025-12-01T20:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of people were attending the Alpha Delta Phi fraternity’s party Nov. 14 where 19-year-old George Mauricio Salinas was found unresponsive. Police “do not suspect foul play.”]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
         </author>
     </entry>
     <entry>

@@ -1409,6 +1409,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8368759",
+          "author": "Katherine Mangu-Ward",
+          "description": "Population control is technocratic hubris at its most intimate and brutal.",
+          "link": "https://reason.com/2026/03/01/no-one-knows-the-right-number-of-people/",
+          "publishedOn": "2026-03-01T11:30:36.000Z",
+          "wordCount": null,
+          "title": "What the ICE Crackdown and China's One-Child Policy Have in Common",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8370397",
           "author": "Jacob R. Swartz",
           "description": "“You said you were going after the worst of the worst, but instead you ruined our life.\"",
@@ -6224,36 +6235,6 @@
           "wordCount": 7817,
           "title": "Half Price Books closes its downtown Berkeley store after 20 years",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/IMG_0356-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548326",
-          "author": "Alex N. Gecan",
-          "description": "The crash happened around 3 p.m. near University Avenue. The rider has not yet been identified.",
-          "link": "https://www.berkeleyside.org/2025/12/01/fatal-motorcycle-crash-i80-university-ave",
-          "publishedOn": "2025-12-02T00:08:05.000Z",
-          "wordCount": 7051,
-          "title": "Motorcyclist killed in Berkeley Interstate 80 crash",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/12/CHP.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548303",
-          "author": "Tovin Lapan",
-          "description": "Joyce Tang has built Bake Sum into a nationally acclaimed pastry powerhouse in the five years since it opened. Nosh readers voted it the best bakery of 2025.",
-          "link": "https://www.berkeleyside.org/2025/12/01/nosh-awards-best-bakery-bake-sum",
-          "publishedOn": "2025-12-01T23:20:23.000Z",
-          "wordCount": 7424,
-          "title": "Former pandemic pop-up rises up to claim East Bay’s best bakery title",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BakeSum-Assortment-lapan.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547734",
-          "author": "Alex N. Gecan",
-          "description": "Hundreds of people were attending the Alpha Delta Phi fraternity’s party Nov. 14 where 19-year-old George Mauricio Salinas was found unresponsive. Police “do not suspect foul play.”",
-          "link": "https://www.berkeleyside.org/2025/12/01/cal-alpha-delta-phi-death-aquadelt",
-          "publishedOn": "2025-12-01T20:42:22.000Z",
-          "wordCount": 7446,
-          "title": "UC Berkeley student who drowned during fraternity pool party is identified",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2012/05/Campanile-by-TJ-Gehling.jpg"
         }
       ]
     },
@@ -6414,16 +6395,6 @@
           "wordCount": 1723,
           "title": "2003: MySpace vs. Friendster in a Battle for Digital Natives",
           "imageUrl": "https://cybercultural.com/assets/images/myspace-sep2003-1280x720.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/internet-2002/",
-          "author": null,
-          "description": "KaZaA, one of many P2P file sharing services in 2002.\nIn June 2002, Pew Research Center released a report on broadband uptake. It stated that 21% of all Internet users in America — 24 million adults — now had broadband in the home, up from just 6% two years ago. Of course, broadband penetration would continue to trend upward over the coming years. But even in 2002, Pew claimed that the internet had morphed from a \"sometimes\" tool for communication and finding information to an \"always-on information appliance.\"\nThis change in the character of the internet around 2002 led to the other trends we'll look at in this post: more interactive websites, more online music choices, more socializing on the web.\n\nA BBC report in January 2002 about broadband.\nWeb Design: Flash to CSS\nOne website that il…",
-          "link": "https://cybercultural.com/p/internet-2002/",
-          "publishedOn": "2025-12-02T00:00:00.000Z",
-          "wordCount": 1702,
-          "title": "What the Internet Was Like in 2002",
-          "imageUrl": "https://cybercultural.com/assets/images/kazaa-feature-image-2002.jpg"
         }
       ]
     },
@@ -9619,16 +9590,6 @@
           "wordCount": 4351,
           "title": "Will new physics affect our Universe’s far future?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2023/01/springel-e1764622946389.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/the-present/the-rise-of-ai-denialism/",
-          "author": "Louis Rosenberg",
-          "description": "Over the past few months, we’ve seen a surge of skepticism around the phenomenon currently referred to as the “AI boom.” The shift began when OpenAI released GPT-5 this summer to mixed reviews, mostly from casual users. We’ve since had months of breathless claims from pundits and influencers that the era of rapid AI advancement is ending, that AI scaling has hit the wall, and that the AI boom is just another tech bubble. These same voices overuse the phrase “AI slop” to disparage the remarkable images, documents, videos, and code that AI models produce at the touch of a button.\nI find this perspective both absurd and dangerous. \nBy any objective measure, AI continues to improve at a stunning pace. The impressive leap in capabilities made by Gemini 3 in November is just the latest example. …",
-          "link": "https://bigthink.com/the-present/the-rise-of-ai-denialism/",
-          "publishedOn": "2025-12-01T22:03:16.000Z",
-          "wordCount": 2677,
-          "title": "The rise of AI denialism",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/ai-denialism_compressed.png?resize=1200,630"
         }
       ]
     },
