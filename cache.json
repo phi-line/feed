@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159644",
+          "author": "James Dinneen",
+          "description": "Microscopic crystals extracted from meteorites could help settle a debate about the birth of our patch of the Milky Way.            \nThe post What Crystals Older Than the Sun Reveal About the Start of the Solar System first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/",
+          "publishedOn": "2026-03-02T15:12:31.000Z",
+          "wordCount": 3179,
+          "title": "What Crystals Older Than the Sun Reveal About the Start of the Solar System",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Presolar-Grains-cr-Nan-Liu-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159541",
           "author": "Clare Watson",
           "description": "Growing tissues can crack, break, and dissociate to form structures that can later withstand immense forces.            \nThe post Break It To Make It: How Fracturing Sculpts Tissues and Organs first appeared on Quanta Magazine",
@@ -401,6 +411,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69a5c2ccd04ba900018ea636",
+          "author": "Jason Koebler",
+          "description": "Gambling markets have conveniently found a stance that allows them to continue to profit from death and war.",
+          "link": "https://www.404media.co/with-iran-war-kalshi-and-polymarket-bet-that-the-depravity-economy-has-no-bottom/",
+          "publishedOn": "2026-03-02T17:26:08.000Z",
+          "wordCount": 2155,
+          "title": "With Iran War, Kalshi and Polymarket Bet That the Depravity Economy Has No Bottom",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-02-at-07.23.08@2x-1.png"
+        },
+        {
+          "id": "69a5b1b9d04ba900018ea367",
+          "author": "Matthew Gault",
+          "description": "Some AWS services are down in the Middle East. Recovery is unclear as it requires 'careful assessment to ensure the safety of our operators,' according to Amazon.",
+          "link": "https://www.404media.co/amazon-data-centers-on-fire-after-iranian-missile-strikes-on-dubai/",
+          "publishedOn": "2026-03-02T15:59:51.000Z",
+          "wordCount": 1387,
+          "title": "Amazon Data Centers on Fire After Iranian Missile Strikes on Dubai",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/assets.aboutamazon.jpg"
+        },
+        {
+          "id": "69a1cf1fd04ba90001895405",
+          "author": "Joseph Cox",
+          "description": "Joseph speaks to Cooper Quintin all about how to find fake cell phone towers that can track your movements or intercept text messages.",
+          "link": "https://www.404media.co/how-to-detect-phone-spying-tech-with-cooper-quintin/",
+          "publishedOn": "2026-03-02T13:00:57.000Z",
+          "wordCount": 1052,
+          "title": "How to Detect Phone Spying Tech (with Cooper Quintin)",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/imsi-pod.png"
+        },
         {
           "id": "69a353b7d04ba90001899b20",
           "author": "Becky Ferreira",
@@ -2176,6 +2216,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/legibility-problem",
+          "author": "Asimov Press",
+          "description": "What happens in a world where AIs make scientific discoveries that humans cannot understand?",
+          "link": "https://www.asimov.press/p/legibility-problem",
+          "publishedOn": "2026-03-02T15:58:10.000Z",
+          "wordCount": null,
+          "title": "The Legibility Problem",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0204c33d-0797-422b-ad33-c69fc63704d7_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0204c33d-0797-422b-ad33-c69fc63704d7_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/ai-clinical-trials",
           "author": "Asimov Press",
           "description": "A response to Dario Amodei.",
@@ -2854,16 +2910,6 @@
           "wordCount": 206,
           "title": "Chessboard Alignment",
           "imageUrl": "https://imgs.xkcd.com/comics/chessboard_alignment_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3176/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3176/",
-          "publishedOn": "2025-12-03T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Inverted Catenaries",
-          "imageUrl": "https://imgs.xkcd.com/comics/inverted_catenaries_2x.png"
         }
       ]
     },
@@ -3226,6 +3272,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552916",
+          "author": "Anna Mindess",
+          "description": "The UC Berkeley science center launched 'ammatka from Vincent Medina and Louis Trevino in February as part of its larger 'ottoy initiative.",
+          "link": "https://www.berkeleyside.org/2026/03/02/ammatka-lawrence-hall-science-ohlone-cafe",
+          "publishedOn": "2026-03-02T17:00:00.000Z",
+          "wordCount": 9441,
+          "title": "Smoked duck sandwiches, chia seed pudding, and tater tots: Introducing the new Ohlone-crafted cafe at Lawrence Hall of Science",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-ammatka-cafe-at-LHS-10.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552769",
+          "author": "Nathan Dalton",
+          "description": "The owners of Elements in Elmwood are retiring, Aiken returns to Fourth Street and Stella Carakasi Designer Outlet moves in the Gilman District.",
+          "link": "https://www.berkeleyside.org/2026/03/02/shop-talk-barnes-noble-college-free-people-aiken-fourth-street-stella-carakasi-designer-outlet-elements-elmwood",
+          "publishedOn": "2026-03-02T14:00:00.000Z",
+          "wordCount": 8496,
+          "title": "Shop Talk: Barnes & Noble College takes over Cal student stores; Free People opens on Fourth Street",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/online-Cal-Student-Store.png?fit=1240%2C620&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552858",
           "author": "Family of Todd Walker",
@@ -6725,6 +6791,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/8RCFfOP2dNA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8RCFfOP2dNA",
+          "publishedOn": "2026-03-02T15:16:14.000Z",
+          "wordCount": 2030,
+          "title": "#DeskOfTheDay: \"Tangerines,\" Sophiya Sweet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/nTU0kF6tgDA",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -7372,6 +7448,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/the-well/alien-life-vs-alien-intelligence/",
+          "author": "Sara Seager",
+          "description": "Astrophysicist Sara Seager has spent decades expanding how we search for life beyond Earth: not by asking what we would look like out there, but by imagining forms of intelligence that may be utterly unlike our own.\nHer work explores “technosignatures” — physical clues of advanced life, from satellite swarms to artificial light. As artificial intelligence accelerates here on Earth, Seager considers whether post-biological life might be what awaits us — and whether it already exists elsewhere in the cosmos. Our biggest challenge, she suggests, may be learning to see past the limits of our own imagination.\nThis video We’ve been looking for life. Here’s why we should look for intelligence instead is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/alien-life-vs-alien-intelligence/",
+          "publishedOn": "2026-03-02T14:00:00.000Z",
+          "wordCount": 2923,
+          "title": "We’ve been looking for life. Here’s why we should look for intelligence instead",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/The-Well-Sara-Seager-DA_Web.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/six-spacecraft-escape-solar-system/",
           "author": "Ethan Siegel",
           "description": "Our Sun gravitationally dominates the Solar System.\n\nHere in our own Solar System, the Sun dominates the spacetime within it in nearly all locations. Whereas the environment close to a planet is locally dominated by that planet’s gravity, and the ensuing curvature it imprints on the surrounding spacetime, the Sun’s gravity dominates the larger Solar System environment. Whereas a spacecraft must achieve speeds of 11 km/s to escape from Earth’s gravity, speeds nearly four times as great must be achieved at the Earth-Sun distance to escape from the Solar System entirely.\n\nCredit: T. Pyle/Caltech/MIT/LIGO Lab\n\n\n\nOf over 17,000 payloads launched into space, only six will escape the Solar System’s gravity.\n\nThe most remarkable fact about Pioneer 10’s trajectory is that it gained nearly the maxim…",
@@ -7380,6 +7466,16 @@
           "wordCount": 3363,
           "title": "Only these six spacecraft will ever escape the Solar System",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/5-Missions-beyond-50-AU-NASA.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/semiconductor-tech-race/",
+          "author": "Chris Miller",
+          "description": "What if the world’s most critical technology isn’t software, but the tiny pieces of silicon that power it? In an age where chips are everywhere, from smartphones to coffee makers, their manufacturing complexity might surprise you. It’s harder to make a modern semiconductor than a nuclear weapon. \nMaking this tech both very inexpensive and very small is incredibly difficult. That’s why there’s just a couple of companies in the world who are capable of it.\nThis video The tiny transistors remaking our global order is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/semiconductor-tech-race/",
+          "publishedOn": "2026-03-01T14:00:00.000Z",
+          "wordCount": 8510,
+          "title": "The tiny transistors remaking our global order",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/B1-Web-Miller.jpg?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/",
@@ -9509,6 +9605,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73151",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This beer bread recipe is truly one of the easiest loaves you can make! Just 6 simple ingredients and 10 minutes of prep time and you’ve got a hearty loaf with a golden crust, tender crumb, and rich flavour. We usually think of quick breads as sweet recipes like my vegan banana bread or lemon […]",
+          "link": "https://jessicainthekitchen.com/beer-bread-recipe/",
+          "publishedOn": "2026-03-02T15:00:00.000Z",
+          "wordCount": 8932,
+          "title": "Beer Bread Recipe (Just 6 Ingredients!)",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/Vegan-Beer-Bread_11.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=72564",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Super moist and tender with lots of nutty flavour, these peanut butter banana muffins are a wholesome breakfast that feels a little indulgent!  I keep vegan blueberry muffins, my double chocolate banana muffins and a rotating variety of other muffins stocked in the freezer at all times. You never know when you’re going to need […]",
@@ -9901,6 +10007,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/congratulations-to-me-a-kamala-harris-voter-who-got-exactly-what-i-voted-for",
+          "author": "Jack Loftus",
+          "description": "“Trump’s best foreign policy? Not starting any wars… He has my support in 2024 because I know he won’t recklessly send Americans to fight overseas.” — JD Vance, in an op-ed in The Wall Street Journal, 7/31/23\n - - -\nI like to think of myself as someone who takes responsibility. I pay my taxes. I walk my dog. Perhaps most importantly, I vote. So, when I look at the state of the country, I don’t point fingers. I look inward, back to the pivotal moment when I was told what would happen if I voted for Kamala Harris, fully aware that I was setting certain things in motion, and I voted for her anyway.\n Iran is a great example. Viewing the latest war footage had a way of clarifying cause and effect. I was told in no uncertain terms what my vote would unleash. I then cast that vote for Kamala Harr…",
+          "link": "https://www.mcsweeneys.net/articles/congratulations-to-me-a-kamala-harris-voter-who-got-exactly-what-i-voted-for",
+          "publishedOn": "2026-03-02T13:00:00.000Z",
+          "wordCount": 2497,
+          "title": "Congratulations to Me, a Kamala Harris Voter, Who Got Exactly What I Voted For",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/9tea1bukue66drmvcfotf6kyq8h3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/revisions-for-your-hopelessly-optimistic-dystopian-ya-novel",
           "author": "Håkon Osmundsen",
@@ -10558,6 +10674,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111766 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "MIT Press Publishes EFF Executive Director’s Book As She Prepares to Depart Organization After 25 Years \n\n\n\nSAN FRANCISCO – Electronic Frontier Foundation Executive Director Cindy Cohn will launch her memoir, Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance (MIT Press, March 10), with events in San Francisco and Berkeley before embarking on a national book tour. \nIn Privacy’s Defender, Cohn weaves her own personal story with her role as a leading legal voice representing the rights and interests of technology users, innovators, whistleblowers, and researchers during the Crypto Wars of the 1990s, battles over NSA’s dragnet internet spying revealed in the 2000s, and the fight against FBI gag orders.  \nThe book will be Cohn’s swansong at EFF as she’s stepping down as exec…",
+          "link": "https://www.eff.org/press/releases/national-book-tour-cindy-cohns-memoir-privacys-defender",
+          "publishedOn": "2026-03-02T16:15:10.000Z",
+          "wordCount": 1653,
+          "title": "National Book Tour for Cindy Cohn’s Memoir, ‘Privacy’s Defender’",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png",
+            "alt": "Book cover for Privacy&#039;s Defender + Cindy Cohn portrait",
+            "type": "image/png",
+            "length": "421523"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
+        },
         {
           "id": "111768 at https://www.eff.org",
           "author": "Saira Hussain",
