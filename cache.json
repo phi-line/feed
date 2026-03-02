@@ -2911,16 +2911,6 @@
           "wordCount": 3253,
           "title": "What Is Ruliology?",
           "imageUrl": "https://content.wolfram.com/sites/43/2026/01/sw01122026tweet.png"
-        },
-        {
-          "id": "https://writings.stephenwolfram.com/?p=71678",
-          "author": "Stephen Wolfram",
-          "description": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And now you want to scale it up. Maybe 1000x or more. Well, today we’ve released an extremely streamlined […]",
-          "link": "https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/",
-          "publishedOn": "2025-12-02T19:23:40.000Z",
-          "wordCount": 3010,
-          "title": "Instant Supercompute: Launching Wolfram Compute Services",
-          "imageUrl": "https://content.wolfram.com/sites/43/2025/11/sw11252025heroimg1.png"
         }
       ]
     },
@@ -3236,6 +3226,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=552858",
+          "author": "Family of Todd Walker",
+          "description": "He worked as a UC Berkeley custodian and in the funeral industry, and spent his life offering food, kindness, conversation, dignity and love to those who had the least.",
+          "link": "https://www.berkeleyside.org/2026/03/02/todd-walker-berkeley-obituary",
+          "publishedOn": "2026-03-02T12:00:00.000Z",
+          "wordCount": 7938,
+          "title": "Remembering Todd Walker, Berkeley street outreach worker and youth football coach",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-2026.01.12_Middleton_LiveFreeBerkeley_05.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=552950",
           "author": "Alex N. Gecan",
@@ -6175,26 +6175,6 @@
           "wordCount": 8229,
           "title": "Older Berkeleyans plead for free ceramics program to stay open during senior center remodel",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-studio.jpg?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://richmondside.org/?p=457980",
-          "author": "Sejal Parekh",
-          "description": "More than 74,000 Alameda County residents on Covered California plans could see health insurance premiums increase if the federal government doesn’t extend tax credits.",
-          "link": "https://www.berkeleyside.org/2025/12/02/covered-california-health-insurance-premiums-increasing",
-          "publishedOn": "2025-12-02T21:48:48.000Z",
-          "wordCount": 8610,
-          "title": "Many East Bay residents consider giving up health insurance with premiums set to skyrocket",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/healthpremiumselcerritomom_112125_handout.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548380",
-          "author": "Tovin Lapan",
-          "description": "A newcomer on the scene, La Loulou crushed the competition and elicited effusive praise from Nosh voters.",
-          "link": "https://www.berkeleyside.org/2025/12/02/nosh-awards-best-wine-bar-la-loulou",
-          "publishedOn": "2025-12-02T21:34:01.000Z",
-          "wordCount": 7667,
-          "title": "At the East Bay’s best wine bar, the bathroom wins as much praise as the French vibes and vintages",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-20251001_La-Loulou_08.jpg"
         }
       ]
     },
@@ -7391,6 +7371,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/six-spacecraft-escape-solar-system/",
+          "author": "Ethan Siegel",
+          "description": "Our Sun gravitationally dominates the Solar System.\n\nHere in our own Solar System, the Sun dominates the spacetime within it in nearly all locations. Whereas the environment close to a planet is locally dominated by that planet’s gravity, and the ensuing curvature it imprints on the surrounding spacetime, the Sun’s gravity dominates the larger Solar System environment. Whereas a spacecraft must achieve speeds of 11 km/s to escape from Earth’s gravity, speeds nearly four times as great must be achieved at the Earth-Sun distance to escape from the Solar System entirely.\n\nCredit: T. Pyle/Caltech/MIT/LIGO Lab\n\n\n\nOf over 17,000 payloads launched into space, only six will escape the Solar System’s gravity.\n\nThe most remarkable fact about Pioneer 10’s trajectory is that it gained nearly the maxim…",
+          "link": "https://bigthink.com/starts-with-a-bang/six-spacecraft-escape-solar-system/",
+          "publishedOn": "2026-03-02T07:00:00.000Z",
+          "wordCount": 3363,
+          "title": "Only these six spacecraft will ever escape the Solar System",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/5-Missions-beyond-50-AU-NASA.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/quantum-entanglement-black-hole/",
           "author": "Ethan Siegel",
