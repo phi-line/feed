@@ -1439,6 +1439,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8368767",
+          "author": "Autumn Billings",
+          "description": "Agents are violating the Fourth Amendment right to be free from unreasonable searches and seizures.",
+          "link": "https://reason.com/2026/03/03/ice-vs-the-constitution/",
+          "publishedOn": "2026-03-03T11:00:13.000Z",
+          "wordCount": null,
+          "title": "Trump Ordered Using 'All Lawful Means' To Remove Immigrants. Many ICE Arrests Go Beyond the Law.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8368759",
           "author": "Katherine Mangu-Ward",
           "description": "Population control is technocratic hubris at its most intimate and brutal.",
@@ -6231,26 +6242,6 @@
           "wordCount": 7686,
           "title": "UC Berkeley student sentenced to 30 days in jail in chicken theft case",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/image-13.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548458",
-          "author": "Vanessa Arredondo",
-          "description": "State mediators will be brought in to help the district and teachers come to an agreement and avert a strike.",
-          "link": "https://www.berkeleyside.org/2025/12/03/berkeley-teachers-union-and-busd-reach-impasse-in-contract-negotiations",
-          "publishedOn": "2025-12-04T00:01:45.000Z",
-          "wordCount": 8197,
-          "title": "BUSD and Berkeley teachers’ union reach impasse in ongoing contract negotiations",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/IMG_1748-scaled-1.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548475",
-          "author": "Tovin Lapan",
-          "description": "Mother Tongue Cafe & Bar is two years old, but its success is built on owner and roaster Jen Apodaca's two decades of experience roasting beans.",
-          "link": "https://www.berkeleyside.org/2025/12/03/nosh-awards-best-coffee-shop-cafe-mother-tongue",
-          "publishedOn": "2025-12-03T21:33:15.000Z",
-          "wordCount": 7613,
-          "title": "In coffee-crazed East Bay, one cafe and roaster comes out on top",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/MotherTongue-CoffeeCup-Patio-Lapan.jpg"
         }
       ]
     },
@@ -6401,16 +6392,6 @@
           "wordCount": 1871,
           "title": "2003: BowieNet 3 Launch and the Peak of Flash Web Design",
           "imageUrl": "https://cybercultural.com/assets/images/david-bowie-2003-feature.png"
-        },
-        {
-          "id": "https://cybercultural.com/p/myspace-2003/",
-          "author": null,
-          "description": "MySpace in September 2003, the month after its launch.\nThe term “digital native” was coined in 2001 by writer and teacher Marc Prensky, who wrote that “our students today are all 'native speakers' of the digital language of computers, video games and the Internet.” The rest of us are “digital immigrants,” which Prensky (who was in his mid-50s) defined as “not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology.”\nAlthough digital immigrants have learned to adapt to the new environment, according to Prensky “they always retain, to some degree, their 'accent,' that is, their foot in the past.” He gives the example of “turning to the Internet for information second rather than first.” On the other h…",
-          "link": "https://cybercultural.com/p/myspace-2003/",
-          "publishedOn": "2025-12-04T00:00:00.000Z",
-          "wordCount": 1723,
-          "title": "2003: MySpace vs. Friendster in a Battle for Digital Natives",
-          "imageUrl": "https://cybercultural.com/assets/images/myspace-sep2003-1280x720.jpg"
         }
       ]
     },
@@ -6800,6 +6781,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5AVYDHTOixU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5AVYDHTOixU",
+          "publishedOn": "2026-03-03T10:00:07.000Z",
+          "wordCount": null,
+          "title": "De La Soul: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/8RCFfOP2dNA",
           "author": null,
@@ -7447,6 +7438,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/hubble-dark-galaxy-modified-gravity/",
+          "author": "Ethan Siegel",
+          "description": "One of the most puzzling facets of our Universe is the apparent need for a new form of mass in our cosmos that isn’t made up of any of the particles we know of: dark matter. Whereas we’re fully aware of the full suite of Standard Model particles — quarks, charged leptons, neutrinos, their antiparticles, plus the photon, the gluons, the W-and-Z bosons, and the Higgs boson — dark matter must be composed of something else entirely: something novel and not yet directly detected. In order to explain the cosmic structures we see, from the CMB to individual galaxies to galaxy clusters and even the grand cosmic web, dark matter must not only be present, but must dominate the total matter content of the Universe.\nHowever, there are several puzzles that arise. If dark matter is real, and if it domin…",
+          "link": "https://bigthink.com/starts-with-a-bang/hubble-dark-galaxy-modified-gravity/",
+          "publishedOn": "2026-03-03T07:00:00.000Z",
+          "wordCount": 5108,
+          "title": "Did Hubble’s new “dark galaxy” kill modified gravity?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/CDG2.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mind-behavior/the-brain-after-blindness/",
           "author": "Sachin Rawat",
