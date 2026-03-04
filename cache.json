@@ -6273,46 +6273,6 @@
           "wordCount": 7232,
           "title": "The Wire: Popular Berkeley Youth Gymnastics program to close; city’s vacant biotech buildings",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Youth-Gymnastics.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=466049",
-          "author": "Roselyn Romero",
-          "description": "At a campaign launch event, Price said she wants to take a stand against billionaires, corporations, and Trump.",
-          "link": "https://www.berkeleyside.org/2025/12/04/pamela-price-announces-run-for-alameda-county-district-attorney",
-          "publishedOn": "2025-12-04T23:59:25.000Z",
-          "wordCount": 7701,
-          "title": "Pamela Price, recalled by voters in 2024, says she’ll run again for DA",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/image-15.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548677",
-          "author": "Tovin Lapan",
-          "description": "Ghost Town's Laurel location attracts a crowd with award-winning beer, big salads and juicy burgers, and a spacious, skull-adorned beer garden.",
-          "link": "https://www.berkeleyside.org/2025/12/04/nosh-awards-best-beer-garden-taproom-ghost-town-laurel",
-          "publishedOn": "2025-12-04T22:18:18.000Z",
-          "wordCount": 8337,
-          "title": "Growlers, grub and good times: The East Bay’s favorite beer garden does it all with a death motif",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/GhostTown-CreditTovinLapan.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548619",
-          "author": "Alex N. Gecan",
-          "description": "The man was struck near Bancroft Way Wednesday afternoon. He was declared dead at the scene.",
-          "link": "https://www.berkeleyside.org/2025/12/04/west-berkeley-fatal-train-strike-bancroft-dec-3",
-          "publishedOn": "2025-12-04T20:04:40.000Z",
-          "wordCount": 7368,
-          "title": "Amtrak train fatally strikes man in West Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2016/02/Amtrack-train.-Photo-Arial-Nava-Photo.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548613",
-          "author": "Kevin Stark",
-          "description": "The USGS quickly canceled a warning from MyShake on Thursday morning, and is looking into what triggered it.",
-          "link": "https://www.berkeleyside.org/2025/12/04/earthquake-alert-that-startled-berkeley-this-morning-was-a-false-alarm",
-          "publishedOn": "2025-12-04T19:54:21.000Z",
-          "wordCount": 7245,
-          "title": "Earthquake alert that startled Berkeley this morning was a false alarm",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/IMG_17153438DC08-1.jpeg"
         }
       ]
     },
@@ -7514,6 +7474,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/",
+          "author": "Ethan Siegel",
+          "description": "One of the great mysteries in the Universe is that, in all the vastness of space, we have yet to detect any sort of life out there beyond our own planet. Whether microbial and simple, multicellular and complex, highly differentiated and intelligent, or technologically advanced, the only form of life we know of here in 2026 is terrestrial life that originated right here on Earth. Despite all of the discoveries and advanced that we’ve made in recent years, from the origins and scale of the Universe to thousands of confirmed exoplanets, we still have yet to detect even a single robust signature of a lifeform that originated from anywhere else.\nAll we can do, at the present time, is to make the best use of the knowledge that we have. Because of all that we’ve learned about our galaxy and Unive…",
+          "link": "https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/",
+          "publishedOn": "2026-03-04T07:00:00.000Z",
+          "wordCount": 5212,
+          "title": "Can the Drake equation’s final term predict humanity’s demise?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/12/https___blogs-images.forbes.com_startswithabang_files_2018_04_space-station-e1772571677229.jpg?w=960&h=541&crop=1"
+        },
         {
           "id": "https://bigthink.com/books/the-technological-evolution-of-human-storytelling/",
           "author": "Tim Brinkhof",
