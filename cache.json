@@ -3336,16 +3336,6 @@
           "wordCount": 3861,
           "title": "A New Governing Ecosystem Is Evolving",
           "imageUrl": "https://noemamag.imgix.net/2025/12/Noema_color_V3-2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b9ba061522d1d72858437a2cc6e0a04d"
-        },
-        {
-          "id": "https://www.noemamag.com/inside-the-push-to-rebuild-society-around-ecosystems",
-          "author": "Doug Bierend",
-          "description": "The post Inside The Push To Rebuild Society Around Ecosystems appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/inside-the-push-to-rebuild-society-around-ecosystems",
-          "publishedOn": "2025-12-04T15:13:08.000Z",
-          "wordCount": 8747,
-          "title": "Inside The Push To Rebuild Society Around Ecosystems",
-          "imageUrl": "https://noemamag.imgix.net/2025/12/Bioregionalism_hd-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=6f6ac410edde0bd9f3a9925751997e3c"
         }
       ]
     },
@@ -3354,6 +3344,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553155",
+          "author": "Alex N. Gecan",
+          "description": "The person was found at the intersection of Shattuck and University avenues Friday evening. Investigators have said little about the death four days later.",
+          "link": "https://www.berkeleyside.org/2026/03/03/shattuck-university-berkeley-death",
+          "publishedOn": "2026-03-04T00:41:05.000Z",
+          "wordCount": 7354,
+          "title": "Person found at busy downtown Berkeley intersection dies, police investigating",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-BS_Natera_220607_Macdonalds002.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553112",
           "author": "Alex N. Gecan",
@@ -6313,26 +6313,6 @@
           "wordCount": 7245,
           "title": "Earthquake alert that startled Berkeley this morning was a false alarm",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/IMG_17153438DC08-1.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548506",
-          "author": "Nico Savidge",
-          "description": "City leaders are taking early steps toward putting a $300 million bond measure on next year’s ballot, but are wary after a similar effort failed in 2022.",
-          "link": "https://www.berkeleyside.org/2025/12/04/berkeley-bond-measure-2026-infrastructure",
-          "publishedOn": "2025-12-04T16:00:00.000Z",
-          "wordCount": 8402,
-          "title": "Berkeley eyes another big infrastructure bond. Will this one pass?",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/09/medium-Aug.31-Local-groups-want-to-fix-up-Berkeleys-Civic-Center-Old-City-Hall-16.jpg?fit=1024%2C768&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548436",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a print sale, a meetup for bean lovers and a historical walking tour around UC Berkeley.",
-          "link": "https://www.berkeleyside.org/2025/12/04/around-berkeley-holiday-markets-puzzle-party-free-vaccines-for-pets",
-          "publishedOn": "2025-12-04T13:55:00.000Z",
-          "wordCount": 8134,
-          "title": "Around Berkeley: Holiday markets, puzzle party, free vaccines for pets",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/10/Polina-Gupaliuk-February-22-2018_2-2.jpg?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -9683,16 +9663,6 @@
           "wordCount": 4720,
           "title": "Ask Ethan: Can we ever observe a proton decaying?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/business/14-rules-to-dance-with-the-systems-of-business-and-life/",
-          "author": "Eric Markowitz",
-          "description": "What do trees and businesses have in common?\nFor one, they’re systems. A tree dies when you starve it of water and sunlight, just as a business collapses when its resources are drained. In fact, all living things are systems: plants and animals, yes, but also organizations, relationships — even friendships. Stop responding to texts, and the relationship withers. (Unless, of course, that’s the goal. As the Gen Z might say: ghosting.)\nSystems rule the world, and once you see them, you can’t unsee them. Perhaps I’m thinking about them now, as we slip into the holiday season, when our own network of plans, friendships, and families seems to weave together. (The system breaks, it turns out, when you forget the baby’s diapers at a family function.)\nOn this subject, no one is better than Donella …",
-          "link": "https://bigthink.com/business/14-rules-to-dance-with-the-systems-of-business-and-life/",
-          "publishedOn": "2025-12-04T14:00:00.000Z",
-          "wordCount": 2920,
-          "title": "The 14 rules for navigating complex systems",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/14-rule-dance-systems_compressed.jpg?resize=1200,630"
         }
       ]
     },
@@ -10802,6 +10772,22 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "111790 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "EFF, along with the national ACLU and the ACLU affiliates in Pennsylvania, Delaware, and New Jersey, filed an amicus brief in the U.S. Court of Appeals for the Third Circuit urging the court to require a warrant for border searches of electronic devices, an argument EFF has been making in the courts and Congress for nearly a decade.\nThe case, U.S. v. Roggio, involves a man who had been under ongoing criminal investigation for illegal exports when he returned to the United States from an international trip via JFK airport. Border officers used the opportunity to bypass the Fourth Amendment’s warrant requirement when they seized several of his electronic devices (laptop, tablet, cell phone, and flash drive) and conducted forensic searches of them. As the district court explained, “investigat…",
+          "link": "https://www.eff.org/deeplinks/2026/03/eff-third-circuit-electronic-device-searches-border-require-warrant",
+          "publishedOn": "2026-03-03T23:56:33.000Z",
+          "wordCount": 2291,
+          "title": "EFF to Third Circuit: Electronic Device Searches at the Border Require a Warrant",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/border-agents-blue_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "59605"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/border-agents-blue_0.png"
+        },
+        {
           "id": "111788 at https://www.eff.org",
           "author": "Matthew Guariglia",
           "description": "The U.S. military has officially ended its $200 million contract with AI company Anthropic and has ordered all other military contractors to cease use of their products. Why? Because of a dispute over what the government could and could not use Anthropic’s technology to do. Anthropic had made it clear since it first signed the contract with the Pentagon in 2025 that it did not want its technology to be used for mass surveillance of people in the United States or for fully autonomous weapons systems. Starting in January, that became a problem for the Department of Defense, which ordered Anthropic to give them unrestricted use of the technology. Anthropic refused, and the DoD retaliated.\nThere is a lot we could learn from this conflict, but the biggest take away is this: the state of your pr…",
@@ -10816,6 +10802,54 @@
             "length": "98960"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg"
+        },
+        {
+          "id": "111787 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "March 18, 2026 - 11:30am to 12:30pm CDT\n\n\nMarch 18, 2026 - 9:30am to 10:30am PDT\n\n\nAustin, TX\n\n\n\nSXSW (not EFF) will host this event. EFF Director of Cybersecurity Eva Galperin will be speaking.\nFrom the Organizers: \nAs authoritarian regimes globally expand digital control through AI-powered surveillance, censorship algorithms, and language policing, free expression faces coordinated attacks. These systems now share tools of repression across borders. In response, youth resist in whispers—through creativity and digital dexterity, they craft encrypted defiance. This panel explores how coded memes, slang, guerrilla art, and diaspora networks fuel encrypted defiance, reshaping protest through cracks in the digital firewall—online and on the ground.\n\nFIND OUT MORE\n\n When:\nWednesday, March 18\nT…",
+          "link": "https://www.eff.org/event/encrypted-resistance-youth-revolt-memes-art-metadata",
+          "publishedOn": "2026-03-03T20:34:49.000Z",
+          "wordCount": 910,
+          "title": "Encrypted Resistance: Youth Revolt in Memes, Art & Metadata",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/sxsw_banner.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "577764"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/sxsw_banner.png"
+        },
+        {
+          "id": "111786 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "April 23, 2026 - 9:00am to 10:00am CEST\n\n\nApril 23, 2026 - 12:00pm to 1:00pm PDT\n\n\nPrague, Czech Republic\n\n\n\nBSides Prague (not EFF) will host this event. EFF Director of Cybersecurity Eva Galperin will be speaking.\nFrom the Organizers: \nWe're at the edge of The Next Frontier, where technology isn't just advancing it's truly taking off. Just like the ancient legend of the Golem, brought to life to protect but challenging its creator, today's smart systems are striving for autonomous self-improvement. This isn't merely evolution, it's a revolutionary leap towards a profound, perhaps singular, change where our creations gain unprecedented autonomy. As powerful systems become omnipresent, vigilance is critical. This frontier demands we anticipate and fix problems before they begin. BSides Pra…",
+          "link": "https://www.eff.org/event/bsides-prague",
+          "publishedOn": "2026-03-03T20:27:10.000Z",
+          "wordCount": 985,
+          "title": "BSides Prague: Eva Galperin Keynote",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/bsides_prague_banner.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "262135"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/bsides_prague_banner.png"
+        },
+        {
+          "id": "111785 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "March 5, 2026 - 9:00am to 10:00am EST\n\n\nMarch 5, 2026 - 6:00am to 7:00am PST\n\n\nIndianapolis, IN\n\n\n\nInvestigative Reporters & Editors (IRE) (not EFF) will host this event. EFF Senior Investigative Researcher Beryl Lipton will be speaking.\nFrom the Organizers: \nAround the world, shadowy firms are siphoning location data from apps, telecom networks, and rogue brokers to track people with chilling precision. Whether it’s journalists, Silicon Valley executives, or visitors to Jeffrey Epstein’s island, no one is off-limits. This panel brings together journalists who have exposed how invisible surveillance infrastructure is being used to follow people worldwide—and how little stands in the way. The journalists will explain how they uncovered these stories, how they obtained covert datasets throug…",
+          "link": "https://www.eff.org/event/using-data-investigate-global-surveillance-industry",
+          "publishedOn": "2026-03-03T20:15:09.000Z",
+          "wordCount": 973,
+          "title": "Using data to investigate the global surveillance industry",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/nicar-2026-logo.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "69357"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/nicar-2026-logo.png"
         },
         {
           "id": "111783 at https://www.eff.org",
