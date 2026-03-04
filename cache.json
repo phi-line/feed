@@ -402,6 +402,46 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69a743d1271b6100011c3243",
+          "author": "Becky Ferreira",
+          "description": "Scientists studied tiny, abnormal vibrations—called “glitches”—to discover what happens inside the Sun while it undergoes phases of low activity.",
+          "link": "https://www.404media.co/the-sun-is-glitching-scientists-investigated-and-solved-a-cosmic-mystery/",
+          "publishedOn": "2026-03-04T00:01:04.000Z",
+          "wordCount": 1732,
+          "title": "The Sun Is 'Glitching.' Scientists Investigated and Solved a Cosmic Mystery",
+          "imageUrl": "https://www.404media.co/content/images/2026/03/low-res-1.jpg"
+        },
+        {
+          "id": "69a73b09271b6100011c3003",
+          "author": "Joseph Cox",
+          "description": "AI is a “game changer” for what the FBI calls remote access operations, an FBI official said in response to a 404 Media question on Tuesday.",
+          "link": "https://www.404media.co/the-fbi-is-using-ai-to-hack-targets/",
+          "publishedOn": "2026-03-03T19:57:20.000Z",
+          "wordCount": 1361,
+          "title": "The FBI Is Using AI to Hack Targets",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/david-trinks-Vvh_9ooeEZ0-unsplash-2.jpg"
+        },
+        {
+          "id": "69a73851271b6100011c2f58",
+          "author": "Matthew Gault",
+          "description": "Fake war footage is a problem as old as social media. AI has just supercharged it.",
+          "link": "https://www.404media.co/x-will-stop-paying-people-for-sharing-unlabeled-ai-generated-war-footage/",
+          "publishedOn": "2026-03-03T19:42:41.000Z",
+          "wordCount": 1543,
+          "title": "X Will Stop Paying People for Sharing Unlabeled AI-Generated War Footage",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/photo-1694878981789-130374dde465.jpeg"
+        },
+        {
+          "id": "69a71c2c271b6100011c2923",
+          "author": "Samantha Cole",
+          "description": "In a new series by CBC Podcasts, hosted by 404 Media's Sam Cole, join journalists, investigators, and targets of non-consensual intimate images on the hunt for the worlds’ most prolific deepfake mastermind.",
+          "link": "https://www.404media.co/cbc-podcast-mr-deepfakes-porn-empire/",
+          "publishedOn": "2026-03-03T19:22:26.000Z",
+          "wordCount": 1341,
+          "title": "New Podcast Alert: The Globe-Spanning, Multi-Newsroom Hunt for Mr. Deepfakes",
+          "imageUrl": "https://www.404media.co/content/images/2026/03/UND_Deepfake_640x360-1.jpg"
+        },
+        {
           "id": "69a0a087d04ba90001867fa0",
           "author": "Joseph Cox",
           "description": "An internal DHS document obtained by 404 Media shows for the first time CBP used location data sourced from the online advertising industry to track phone locations. ICE has bought access to similar tools.",
@@ -1448,6 +1488,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8370926",
+          "author": "C.J. Ciaramella",
+          "description": "Residents of Brooklyn Park, Minnesota, say in interviews with Reason that encounters with ICE left them afraid and angry.",
+          "link": "https://reason.com/2026/03/03/a-minnesota-police-chief-said-ice-was-harassing-residents-here-are-some-of-their-stories/",
+          "publishedOn": "2026-03-03T21:00:21.000Z",
+          "wordCount": null,
+          "title": "A Minnesota Police Chief Said ICE Was Harassing Residents. Here Are Some of Their Stories.",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8368767",
           "author": "Autumn Billings",
@@ -3303,6 +3354,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553112",
+          "author": "Alex N. Gecan",
+          "description": "Police said a dispute that began in San Francisco led to gunfire at a Berkeley apartment building.",
+          "link": "https://www.berkeleyside.org/2026/03/03/south-berkeley-shooting-attempted-murder",
+          "publishedOn": "2026-03-03T23:16:58.000Z",
+          "wordCount": 7565,
+          "title": "Attempted murder charge filed in January South Berkeley shooting",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/IMG_2499-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553116",
+          "author": "Alex N. Gecan",
+          "description": "Los estafadores dicen notar un problema en las casas y que pueden arreglar de manera rápida y económica, para luego arrancar pedazos de los techos y presionar a las víctimas para que los contraten para repararlos, afirma la policía.",
+          "link": "https://www.berkeleyside.org/2026/03/03/la-policia-advierte-sobre-agresiva-estafa-de-contratistas-de-puerta-en-puerta-dirigida-a-adultos-mayores-de-berkeley",
+          "publishedOn": "2026-03-03T21:28:49.000Z",
+          "wordCount": 7631,
+          "title": "La policía advierte sobre ‘agresiva’ estafa de contratistas de puerta en puerta dirigida a adultos mayores de Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/webimage-03-01-2021-Berkeley-Residential-Stock.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553081",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/03/ox-9-cafe-bolita-fob-west-rice-dynasty-open",
+          "publishedOn": "2026-03-03T20:00:00.000Z",
+          "wordCount": 7569,
+          "title": "Ox 9, Cafe Bolita, Rice Dynasty openings deliver new flavors to Berkeley; FOB West soft opens at Prescott",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/OX9-handpulled-noodles.jpg?fit=1122%2C981&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553005",
           "author": "Vanessa Arredondo",
@@ -9612,16 +9693,6 @@
           "wordCount": 2920,
           "title": "The 14 rules for navigating complex systems",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/14-rule-dance-systems_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/new-discovery-imaging-alien-earth/",
-          "author": "Ethan Siegel",
-          "description": "For as long as humanity has been looking up at the heavens, we’ve been pondering some of the biggest questions of all. It’s only over the past few hundred years that science has caught up to our vast imaginations, and has begun answering those questions for the first time in our civilization’s history. We know what the stars are: they’re much like our own Sun, except very far away. We know that the majority of them have planets, and that some of those planets are Earth-sized. We know that those worlds are composed of very similar ingredients to our own Solar System’s planets, and that they are governed by the same underlying laws of nature.\nBut are any of those worlds actually inhabited?\nHere, as the end of 2025 approaches, that’s still a great cosmic unknown. We don’t yet know whether we’…",
-          "link": "https://bigthink.com/starts-with-a-bang/new-discovery-imaging-alien-earth/",
-          "publishedOn": "2025-12-04T07:00:00.000Z",
-          "wordCount": 4696,
-          "title": "New discovery sets humanity up to image “alien Earth”",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/08/HWO_EAC_Mirrors_Update_V001.00300_print.jpg?w=1024&h=576&crop=1"
         }
       ]
     },
@@ -10730,6 +10801,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111788 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "The U.S. military has officially ended its $200 million contract with AI company Anthropic and has ordered all other military contractors to cease use of their products. Why? Because of a dispute over what the government could and could not use Anthropic’s technology to do. Anthropic had made it clear since it first signed the contract with the Pentagon in 2025 that it did not want its technology to be used for mass surveillance of people in the United States or for fully autonomous weapons systems. Starting in January, that became a problem for the Department of Defense, which ordered Anthropic to give them unrestricted use of the technology. Anthropic refused, and the DoD retaliated.\nThere is a lot we could learn from this conflict, but the biggest take away is this: the state of your pr…",
+          "link": "https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful",
+          "publishedOn": "2026-03-03T21:35:50.000Z",
+          "wordCount": 1917,
+          "title": "The Anthropic-DOD Conflict: Privacy Protections Shouldn’t Depend On the Decisions of a Few Powerful People",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg",
+            "alt": "US flag with spying eyes for stars",
+            "type": "image/jpeg",
+            "length": "98960"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg"
+        },
+        {
+          "id": "111783 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "March 25, 2026 - 6:30pm to 8:30pm EDT\n\n\nMarch 25, 2026 - 3:30pm to 5:30pm PDT\n\n\nNew York, NY\n\n\n\nJoin EFF staff and local online rights supporters for a Speakeasy meet up on Wednesday, March 25 in NYC!\nRaise a glass and discover EFF's latest work defending digital freedoms online. This event is a free, casual gathering to give you a chance to mingle with local EFF supporters and meet the lawyers, activists, and technologists behind the world's leading digital civil liberties organization. It is also our chance to thank you, the EFF members, who make this work possible.\nSPEAKEASY: NYC\nBleecker Street Bar\n648 Broadway, New York, NY 10012\nWednesday, March 25, 6:30 PM - 8:30 PM\nREGISTER TODAY!\n\n\n\nWe invite current EFF members to gather with fellow internet freedom supporters and to meet the people behind your favorite digital civil liberties organization. Not a member of EFF yet? Help build a better future for privacy, innovation, and free expression when you join today! \nThis gathering is open to members, donors, and guests. No-host bar. Food and drinks available for purchase. For additional information, contact events@eff.org.\nEFF is dedicated to a harassment-free experience for everyone, and all participants are encouraged to view our full Event Expectations.\n\n\nCalendar",
+          "link": "https://www.eff.org/event/eff-spring-speakeasy-nyc-march-2025",
+          "publishedOn": "2026-03-03T19:11:47.000Z",
+          "wordCount": 764,
+          "title": "EFF Spring Speakeasy: NYC",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speakeasy_banner-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "51045"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speakeasy_banner-2_0.png"
+        },
         {
           "id": "111771 at https://www.eff.org",
           "author": "Hudson Hongo",
