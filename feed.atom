@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-04T12:12:40.098Z</updated>
+    <updated>2026-03-04T18:15:33.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Working in Glass]]></title>
+        <id>https://www.asimov.press/p/glass</id>
+        <link href="https://www.asimov.press/p/glass"/>
+        <updated>2026-03-04T17:48:55.000Z</updated>
+        <summary type="html"><![CDATA[How a twisted triangle of glass tubing helped democratize chemistry and build the modern laboratory.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Am Fighting Back Against the Trump Administration by Moving to Portugal]]></title>
+        <id>https://www.mcsweeneys.net/articles/i-am-fighting-back-against-the-trump-administration-by-moving-to-portugal</id>
+        <link href="https://www.mcsweeneys.net/articles/i-am-fighting-back-against-the-trump-administration-by-moving-to-portugal"/>
+        <updated>2026-03-04T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“More people moved out of the U.S. last year than moved in for the first time since the Great Depression as a record number of citizens moved abroad following Donald Trump’s return.” — The Daily Beast
+ - - -
+Ever since Trump returned to office, I have been outraged by everything he is doing to this country. I can no longer stand idly by while he enriches billionaires, ruins the environment, and treads on human rights. That is why I have decided to fight the good fight by moving to Portugal.
+ While I could call my reps or sign a petition, it feels too hard to take five minutes out of my day. So instead, I am putting my house on the market, carefully wrapping up all my delicate possessions for shipment, setting up mail forwarding, saying goodbye to everyone I know, and doing the paperwork to…]]></summary>
+        <author>
+            <name>Elizabeth Simone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: The Depravity Economy]]></title>
+        <id>69a85b4fdf33e40001ff796b</id>
+        <link href="https://www.404media.co/podcast-the-depravity-economy/"/>
+        <updated>2026-03-04T16:22:49.000Z</updated>
+        <summary type="html"><![CDATA[How Polymarket and Kalshi bet on Iran; AI translations are impacting Wikipedia; and an Amazon change impacting wishlists.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why your IQ no longer matters in the era of AI]]></title>
+        <id>https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/</id>
+        <link href="https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/"/>
+        <updated>2026-03-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I first started working in venture capital, I was given a seemingly straightforward assignment: Get to know the most successful founders we’d invested in and figure out what they had in common. Ideally, I’d emerge with a neat checklist of experiences and attributes my firm could use to spot future winners.
+I took the project seriously — borderline obsessively. I spent hours in long, winding conversations with founders, talking about everything from their childhoods to their home lives and hobbies. I administered a quantitative personality test that measures 28 dimensions across 125 sub-dimensions. I assumed that if I gathered enough data, a clear pattern would eventually reveal itself.
+It didn’t.
+After two years, there was no definitive list of traits that every successful leader shar…]]></summary>
+        <author>
+            <name>Liz Tran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Pulls Bet on Nuclear Detonation in 2026]]></title>
+        <id>69a85538df33e40001ff7687</id>
+        <link href="https://www.404media.co/polymarket-pulls-bet-on-nuclear-detonation-in-2026/"/>
+        <updated>2026-03-04T15:55:56.000Z</updated>
+        <summary type="html"><![CDATA[‘How ghoulish.’ The depravity economy moves into the nuclear war business.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can the Most Abstract Math Make the World a Better Place?]]></title>
+        <id>https://www.quantamagazine.org/?p=159705</id>
+        <link href="https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/"/>
+        <updated>2026-03-04T15:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Columnist Natalie Wolchover explores whether applied category theory can be “green” math.            
+The post Can the Most Abstract Math Make the World a Better Place? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Natalie Wolchover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#DeskOfTheDay: "Full Circle," dev11n]]></title>
+        <id>https://www.youtube.com/shorts/9P-EE0rgP7k</id>
+        <link href="https://www.youtube.com/shorts/9P-EE0rgP7k"/>
+        <updated>2026-03-04T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Translations Are Adding ‘Hallucinations’ to Wikipedia Articles]]></title>
+        <id>69a70c98271b6100011c24f6</id>
+        <link href="https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/"/>
+        <updated>2026-03-04T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[AI translated articles swapped sources or added unsourced sentences with no explanation, while others added paragraphs sourced from completely unrelated material.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Bill Samsel, Berkeley attorney and activist]]></title>
+        <id>https://www.berkeleyside.org/?p=553102</id>
+        <link href="https://www.berkeleyside.org/2026/03/04/willam-samsel-obituary-jelinek-and-samsel"/>
+        <updated>2026-03-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[He also helped form Berkeley Youth Alternatives, served on the Berkeley Police Review Commission and worked as a winemaker and a third grade teacher.]]></summary>
+        <author>
+            <name>Family and friends of William Michael Samsel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why alien civilizations may bloom and die unseen]]></title>
+        <id>https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/</id>
+        <link href="https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/"/>
+        <updated>2026-03-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if humanity is the galaxy’s only advanced civilization?
+Brian Cox examines why, despite billions of stars and trillions of planets, we have found no evidence of other intelligent life.
+This video Why alien civilizations may bloom and die unseen is featured on Big Think.]]></summary>
+        <author>
+            <name>Brian Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Company Mourns a Beloved Employee, Whom We Must Replace Immediately]]></title>
+        <id>https://www.mcsweeneys.net/articles/our-company-mourns-a-beloved-employee-whom-we-must-replace-immediately</id>
+        <link href="https://www.mcsweeneys.net/articles/our-company-mourns-a-beloved-employee-whom-we-must-replace-immediately"/>
+        <updated>2026-03-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Synergistic Synergies Subsidiaries family is devastated to announce the loss of our Chief Happiness Architect, Wayne Tillerson, an invaluable member of our corporate family whose vacant position is already accepting applications through our HR portal.
+ Wayne will be remembered for his attention to detail, time management, and intermediate Microsoft Word skills, as well as his ability to scale cross-functional employee morale improvements and non-monetary workplace incentive packages aligned with corporate KPIs. He can never be replaced, but we need someone just like him, or preferably better, by next week’s shareholder meeting.
+ As a devotee of education, Wayne held a bachelor’s degree in finance from Northwestern’s Southeastern Illinois campus, though he should have used our industry-…]]></summary>
+        <author>
+            <name>Ryan Weber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can the Drake equation’s final term predict humanity’s demise?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/</id>
@@ -15,6 +136,15 @@
 All we can do, at the present time, is to make the best use of the knowledge that we have. Because of all that we’ve learned about our galaxy and Unive…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Warning]]></title>
+        <id>https://xkcd.com/3215/</id>
+        <link href="https://xkcd.com/3215/"/>
+        <updated>2026-03-04T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -320,6 +450,16 @@ Storytelling plays an equally important role in our world, Kevin Ashton argues i
         <summary type="html"><![CDATA[The superintendent cited “staff capacity” in canceling the district-wide festival, held annually since 2018. Smaller events will go on at individual school sites.]]></summary>
         <author>
             <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mushroom Bourguignon]]></title>
+        <id>https://jessicainthekitchen.com/?p=73149</id>
+        <link href="https://jessicainthekitchen.com/mushroom-bourguignon/"/>
+        <updated>2026-03-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mushroom bourguignon is a rich vegan stew cooked low and slow to develop complex umami flavours. It’s comfort food that also feels elegant and fancy! Beef bourguignon is a classic French dish—and by swapping the beef with mushrooms, making it vegan is practically effortless! As we know from mushroom stroganoff, mushrooms have a deep umami […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -12152,35 +12292,6 @@ The post The Polyglot Neuroscientist Resolving How the Brain Parses Language fir
 As far as we’ve been able to determine, the proton is stable. Experimentally, …]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chessboard Alignment]]></title>
-        <id>https://xkcd.com/3177/</id>
-        <link href="https://xkcd.com/3177/"/>
-        <updated>2025-12-05T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Objects: SEVENTEEN]]></title>
-        <id>https://www.youtube.com/shorts/pze_N_rsSTo</id>
-        <link href="https://www.youtube.com/shorts/pze_N_rsSTo"/>
-        <updated>2025-12-05T02:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wire: Popular Berkeley Youth Gymnastics program to close; city’s vacant biotech buildings]]></title>
-        <id>https://www.berkeleyside.org/?p=548578</id>
-        <link href="https://www.berkeleyside.org/2025/12/04/the-wire-popular-berkeley-youth-gymnastics-program-to-close-citys-vacant-biotech-buildings"/>
-        <updated>2025-12-05T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Rapper Quavo and NBA Hall of Famer Dwight Howard are coming to Memorial Stadium for a flag football game.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
         </author>
     </entry>
     <entry>

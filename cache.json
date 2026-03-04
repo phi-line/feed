@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159705",
+          "author": "Natalie Wolchover",
+          "description": "Columnist Natalie Wolchover explores whether applied category theory can be “green” math.            \nThe post Can the Most Abstract Math Make the World a Better Place? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/",
+          "publishedOn": "2026-03-04T15:13:50.000Z",
+          "wordCount": 3442,
+          "title": "Can the Most Abstract Math Make the World a Better Place?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Qualia-Green-Mathematics-cr-Celsius-Pictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159644",
           "author": "James Dinneen",
           "description": "Microscopic crystals extracted from meteorites could help settle a debate about the birth of our patch of the Milky Way.            \nThe post What Crystals Older Than the Sun Reveal About the Start of the Solar System first appeared on Quanta Magazine",
@@ -401,6 +411,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69a85b4fdf33e40001ff796b",
+          "author": "Joseph Cox",
+          "description": "How Polymarket and Kalshi bet on Iran; AI translations are impacting Wikipedia; and an Amazon change impacting wishlists.",
+          "link": "https://www.404media.co/podcast-the-depravity-economy/",
+          "publishedOn": "2026-03-04T16:22:49.000Z",
+          "wordCount": 1038,
+          "title": "Podcast: The Depravity Economy",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/kalshi-polymarket-pod-cover--1-.png"
+        },
+        {
+          "id": "69a85538df33e40001ff7687",
+          "author": "Matthew Gault",
+          "description": "‘How ghoulish.’ The depravity economy moves into the nuclear war business.",
+          "link": "https://www.404media.co/polymarket-pulls-bet-on-nuclear-detonation-in-2026/",
+          "publishedOn": "2026-03-04T15:55:56.000Z",
+          "wordCount": 1485,
+          "title": "Polymarket Pulls Bet on Nuclear Detonation in 2026",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/Castle_Bravo_Blast-1--1.jpg"
+        },
+        {
+          "id": "69a70c98271b6100011c24f6",
+          "author": "Emanuel Maiberg",
+          "description": "AI translated articles swapped sources or added unsourced sentences with no explanation, while others added paragraphs sourced from completely unrelated material.",
+          "link": "https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/",
+          "publishedOn": "2026-03-04T14:00:52.000Z",
+          "wordCount": 2022,
+          "title": "AI Translations Are Adding ‘Hallucinations’ to Wikipedia Articles",
+          "imageUrl": "https://images.unsplash.com/photo-1566396223585-c8fbf7fa6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHdpa2lwZWRpYXxlbnwwfHx8fDE3NzI1NTU0OTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "69a743d1271b6100011c3243",
           "author": "Becky Ferreira",
@@ -2278,6 +2318,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/glass",
+          "author": "Asimov Press",
+          "description": "How a twisted triangle of glass tubing helped democratize chemistry and build the modern laboratory.",
+          "link": "https://www.asimov.press/p/glass",
+          "publishedOn": "2026-03-04T17:48:55.000Z",
+          "wordCount": null,
+          "title": "Working in Glass",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!MUGD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7898c99-2b51-4dd2-b1e4-807907182ff8_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!MUGD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7898c99-2b51-4dd2-b1e4-807907182ff8_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/legibility-problem",
           "author": "Asimov Press",
           "description": "What happens in a world where AIs make scientific discoveries that humans cannot understand?",
@@ -2603,6 +2659,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3215/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3215/",
+          "publishedOn": "2026-03-04T05:00:00.000Z",
+          "wordCount": 187,
+          "title": "Solar Warning",
+          "imageUrl": "https://imgs.xkcd.com/comics/solar_warning_2x.png"
+        },
         {
           "id": "https://xkcd.com/3214/",
           "author": null,
@@ -2972,16 +3038,6 @@
           "wordCount": 206,
           "title": "Hyperacute Interdynamics",
           "imageUrl": "https://imgs.xkcd.com/comics/hyperacute_interdynamics_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3177/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3177/",
-          "publishedOn": "2025-12-05T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Chessboard Alignment",
-          "imageUrl": "https://imgs.xkcd.com/comics/chessboard_alignment_2x.png"
         }
       ]
     },
@@ -3344,6 +3400,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553102",
+          "author": "Family and friends of William Michael Samsel",
+          "description": "He also helped form Berkeley Youth Alternatives, served on the Berkeley Police Review Commission and worked as a winemaker and a third grade teacher.",
+          "link": "https://www.berkeleyside.org/2026/03/04/willam-samsel-obituary-jelinek-and-samsel",
+          "publishedOn": "2026-03-04T14:00:00.000Z",
+          "wordCount": 7660,
+          "title": "Remembering Bill Samsel, Berkeley attorney and activist",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/William-Michael-Samsel.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553155",
           "author": "Alex N. Gecan",
@@ -6263,16 +6329,6 @@
           "wordCount": 7631,
           "title": "You can now report crimes by federal agents in California",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/image-14.png?fit=1024%2C682&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548578",
-          "author": "Berkeleyside Staff",
-          "description": "Rapper Quavo and NBA Hall of Famer Dwight Howard are coming to Memorial Stadium for a flag football game.",
-          "link": "https://www.berkeleyside.org/2025/12/04/the-wire-popular-berkeley-youth-gymnastics-program-to-close-citys-vacant-biotech-buildings",
-          "publishedOn": "2025-12-05T01:15:00.000Z",
-          "wordCount": 7232,
-          "title": "The Wire: Popular Berkeley Youth Gymnastics program to close; city’s vacant biotech buildings",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Youth-Gymnastics.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -6807,6 +6863,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/9P-EE0rgP7k",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9P-EE0rgP7k",
+          "publishedOn": "2026-03-04T15:00:16.000Z",
+          "wordCount": 2104,
+          "title": "#DeskOfTheDay: \"Full Circle,\" dev11n",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/uAdznpMvlnU",
           "author": null,
@@ -7456,16 +7522,6 @@
           "wordCount": null,
           "title": "Air: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pze_N_rsSTo",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pze_N_rsSTo",
-          "publishedOn": "2025-12-05T02:30:51.000Z",
-          "wordCount": 2066,
-          "title": "Tiny Objects: SEVENTEEN",
-          "imageUrl": null
         }
       ]
     },
@@ -7474,6 +7530,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/",
+          "author": "Liz Tran",
+          "description": "When I first started working in venture capital, I was given a seemingly straightforward assignment: Get to know the most successful founders we’d invested in and figure out what they had in common. Ideally, I’d emerge with a neat checklist of experiences and attributes my firm could use to spot future winners.\nI took the project seriously — borderline obsessively. I spent hours in long, winding conversations with founders, talking about everything from their childhoods to their home lives and hobbies. I administered a quantitative personality test that measures 28 dimensions across 125 sub-dimensions. I assumed that if I gathered enough data, a clear pattern would eventually reveal itself.\nIt didn’t.\nAfter two years, there was no definitive list of traits that every successful leader shar…",
+          "link": "https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/",
+          "publishedOn": "2026-03-04T16:00:00.000Z",
+          "wordCount": 3081,
+          "title": "Why your IQ no longer matters in the era of AI",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/",
+          "author": "Brian Cox",
+          "description": "What if humanity is the galaxy’s only advanced civilization?\nBrian Cox examines why, despite billions of stars and trillions of planets, we have found no evidence of other intelligent life.\nThis video Why alien civilizations may bloom and die unseen is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/",
+          "publishedOn": "2026-03-04T14:00:00.000Z",
+          "wordCount": 9176,
+          "title": "Why alien civilizations may bloom and die unseen",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Cox.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/",
           "author": "Ethan Siegel",
@@ -9642,6 +9718,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73149",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Mushroom bourguignon is a rich vegan stew cooked low and slow to develop complex umami flavours. It’s comfort food that also feels elegant and fancy! Beef bourguignon is a classic French dish—and by swapping the beef with mushrooms, making it vegan is practically effortless! As we know from mushroom stroganoff, mushrooms have a deep umami […]",
+          "link": "https://jessicainthekitchen.com/mushroom-bourguignon/",
+          "publishedOn": "2026-03-03T15:00:00.000Z",
+          "wordCount": 9336,
+          "title": "Mushroom Bourguignon",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/Vegan-Mushroom-Bourguignon-14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73151",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "This beer bread recipe is truly one of the easiest loaves you can make! Just 6 simple ingredients and 10 minutes of prep time and you’ve got a hearty loaf with a golden crust, tender crumb, and rich flavour. We usually think of quick breads as sweet recipes like my vegan banana bread or lemon […]",
@@ -10044,6 +10130,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-am-fighting-back-against-the-trump-administration-by-moving-to-portugal",
+          "author": "Elizabeth Simone",
+          "description": "“More people moved out of the U.S. last year than moved in for the first time since the Great Depression as a record number of citizens moved abroad following Donald Trump’s return.” — The Daily Beast\n - - -\nEver since Trump returned to office, I have been outraged by everything he is doing to this country. I can no longer stand idly by while he enriches billionaires, ruins the environment, and treads on human rights. That is why I have decided to fight the good fight by moving to Portugal.\n While I could call my reps or sign a petition, it feels too hard to take five minutes out of my day. So instead, I am putting my house on the market, carefully wrapping up all my delicate possessions for shipment, setting up mail forwarding, saying goodbye to everyone I know, and doing the paperwork to…",
+          "link": "https://www.mcsweeneys.net/articles/i-am-fighting-back-against-the-trump-administration-by-moving-to-portugal",
+          "publishedOn": "2026-03-04T17:30:00.000Z",
+          "wordCount": 2575,
+          "title": "I Am Fighting Back Against the Trump Administration by Moving to Portugal",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/j8ysjlmg7lnnyaxekya5e62xdyb8"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/our-company-mourns-a-beloved-employee-whom-we-must-replace-immediately",
+          "author": "Ryan Weber",
+          "description": "The Synergistic Synergies Subsidiaries family is devastated to announce the loss of our Chief Happiness Architect, Wayne Tillerson, an invaluable member of our corporate family whose vacant position is already accepting applications through our HR portal.\n Wayne will be remembered for his attention to detail, time management, and intermediate Microsoft Word skills, as well as his ability to scale cross-functional employee morale improvements and non-monetary workplace incentive packages aligned with corporate KPIs. He can never be replaced, but we need someone just like him, or preferably better, by next week’s shareholder meeting.\n As a devotee of education, Wayne held a bachelor’s degree in finance from Northwestern’s Southeastern Illinois campus, though he should have used our industry-…",
+          "link": "https://www.mcsweeneys.net/articles/our-company-mourns-a-beloved-employee-whom-we-must-replace-immediately",
+          "publishedOn": "2026-03-04T13:00:00.000Z",
+          "wordCount": 2331,
+          "title": "Our Company Mourns a Beloved Employee, Whom We Must Replace Immediately",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/q5q4vs5p46wn20bvsbhgmzxkyd02"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/does-your-country-need-regime-change-a-quiz",
           "author": "Carlos Greaves",
