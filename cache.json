@@ -1519,6 +1519,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8371117",
+          "author": "Damon Root",
+          "description": "Plus: An unsettling comparison between the Iran War and “Lyndon Johnson going into Vietnam.”",
+          "link": "https://reason.com/2026/03/05/yes-states-may-prosecute-ice-agents-for-misconduct/",
+          "publishedOn": "2026-03-05T12:00:42.000Z",
+          "wordCount": null,
+          "title": "Yes, States May Prosecute ICE Agents for Misconduct",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8371066",
           "author": "Jacob Sullum",
           "description": "The homeland security secretary blatantly misrepresented what she said about Alex Pretti on the day he was killed.",
@@ -6300,46 +6311,6 @@
           "wordCount": 7234,
           "title": "Remembering Scott William Hall, Berkeley firefighter for 34 years",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Scott-William-Hall.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548723",
-          "author": "Cecilia Seiter",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2025/12/05/standard-fare-kien-svay-the-lodge-closing",
-          "publishedOn": "2025-12-06T00:00:00.000Z",
-          "wordCount": 7379,
-          "title": "Standard Fare sets December date of departure, Kien Svay Cafe shuttering, and more East Bay closures",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/12/Standard-Fare-Kelsie.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548724",
-          "author": "Tovin Lapan",
-          "description": "Breakfast classic and creative",
-          "link": "https://www.berkeleyside.org/2025/12/05/nosh-awards-best-breakfast-sequoia-diner",
-          "publishedOn": "2025-12-05T22:30:00.000Z",
-          "wordCount": 8230,
-          "title": "The East Bay’s best breakfast is served at this decade-old diner",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/SequoiaDiner-Counter-Lapan.jpg?fit=2000%2C1507&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548717",
-          "author": "Nico Savidge",
-          "description": "City Council members plan to study elements of the fire code that critics say could shut down popular Berkeley street festivals.",
-          "link": "https://www.berkeleyside.org/2025/12/05/berkeley-juneteenth-festival-fire-code",
-          "publishedOn": "2025-12-05T21:40:09.000Z",
-          "wordCount": 8097,
-          "title": "Juneteenth Festival can stay put as city reviews fire code rules",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2016/06/27172948233_8f6dfe9515_k.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548695",
-          "author": "Alex N. Gecan",
-          "description": "The new wildfire safety rules, banning nearly everything combustible within 5 feet of buildings, or \"Zone Zero,\" go into effect for 1,400 homes in the hills.",
-          "link": "https://www.berkeleyside.org/2025/12/05/berkeley-zone-zero-final-rules",
-          "publishedOn": "2025-12-05T20:55:26.000Z",
-          "wordCount": 8888,
-          "title": "Ban on vegetation near some Berkeley Hills homes starts Jan. 1. Here’s what to know",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/NATERA_EMBER_250522_07.jpg"
         }
       ]
     },
@@ -6874,6 +6845,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y0WTNH7T_bs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y0WTNH7T_bs",
+          "publishedOn": "2026-03-05T10:00:50.000Z",
+          "wordCount": null,
+          "title": "Maybe Happy Ending: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/9P-EE0rgP7k",
           "author": null,
@@ -7531,6 +7512,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/particle-physics-destroy-universe/",
+          "author": "Ethan Siegel",
+          "description": "Anytime you reach deeper into the unknown than ever before, you should not only wonder about what you’re going to find, but also worry about what sort of demons you might accidentally unearth. In nuclear physics, discovering the internal structure of the atom led to enormous advances, but also brought us the dangers of radioactivity and atomic weapons. In the realm of particle physics, that double-edged sword arises the farther we probe into the high-energy Universe. The better we can explore the previously inaccessible energy frontier, the better we can reveal the high-energy processes that shaped the Universe in its early stages.\nMany of the mysteries of how our Universe began and evolved from the earliest times can be best investigated by this exact method: colliding particles at higher…",
+          "link": "https://bigthink.com/starts-with-a-bang/particle-physics-destroy-universe/",
+          "publishedOn": "2026-03-05T07:00:00.000Z",
+          "wordCount": 5174,
+          "title": "No, particle physics colliders cannot ever destroy the Universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/06/1_D08P4wHDz8tWlVZraXQ0rQ-e1744757996657.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-philosophy-of-indoctrination-and-how-to-fix-it/",
           "author": "Jonny Thomson",
