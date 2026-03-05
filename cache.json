@@ -1529,6 +1529,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8371066",
+          "author": "Jacob Sullum",
+          "description": "The homeland security secretary blatantly misrepresented what she said about Alex Pretti on the day he was killed.",
+          "link": "https://reason.com/2026/03/04/in-senate-testimony-on-dhs-shootings-kristi-noem-lies-about-her-lies/",
+          "publishedOn": "2026-03-04T20:25:46.000Z",
+          "wordCount": null,
+          "title": "In Senate Testimony on DHS Shootings, Kristi Noem Lies About Her Lies",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8370926",
           "author": "C.J. Ciaramella",
           "description": "Residents of Brooklyn Park, Minnesota, say in interviews with Reason that encounters with ICE left them afraid and angry.",
@@ -3400,6 +3411,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553205",
+          "author": "Risa Nye",
+          "description": "Two former staff members took over Small Change in Temescal at the start of the year, and refreshed the concept with an eye on affordability and expanded options.",
+          "link": "https://www.berkeleyside.org/2026/03/04/ace-seafood-temescal-small-change-refresh",
+          "publishedOn": "2026-03-04T20:33:33.000Z",
+          "wordCount": 8319,
+          "title": "Fresh take: Ace Seafood seeks to reel in a broader audience with revamp and relaunch",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/ACESeafood-Oysters.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553183",
+          "author": "Alex N. Gecan",
+          "description": "The City Council quietly and retroactively approved the purchase in 2023, according to a report through the city auditor’s whistleblower program.",
+          "link": "https://www.berkeleyside.org/2026/03/04/berkeley-ambulance-bought-without-approval-audit-says",
+          "publishedOn": "2026-03-04T19:12:49.000Z",
+          "wordCount": 7919,
+          "title": "Rogue Berkeley worker bought $285,000 ambulance without approval, audit says",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/06/BI6A0672.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=470140",
+          "author": "Darwin BondGraham",
+          "description": "A plan to slash 188 health care jobs at the East Bay’s safety net hospital would heavily impact mental health programs. County leaders hope to avoid this.",
+          "link": "https://www.berkeleyside.org/2026/03/04/alameda-health-system-layoffs-deferred-county-supervisors",
+          "publishedOn": "2026-03-04T18:20:29.000Z",
+          "wordCount": 7823,
+          "title": "Alameda Health System layoffs deferred while county explores options",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-Bridge-Clinic-at-Highland-Hospital-10.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553102",
           "author": "Family and friends of William Michael Samsel",
@@ -7512,16 +7553,6 @@
           "wordCount": null,
           "title": "Annie DiRusso: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jjuorGiEUS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jjuorGiEUS4",
-          "publishedOn": "2025-12-05T10:01:23.000Z",
-          "wordCount": null,
-          "title": "Air: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -7530,6 +7561,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-philosophy-of-indoctrination-and-how-to-fix-it/",
+          "author": "Jonny Thomson",
+          "description": "In the opening chapter of his book, Beyond Good and Evil, Friedrich Nietzsche argues that philosophers have always had a strange, pathological obsession with “truth.” Truth is seen as the greatest good in the universe, and, if we believe Socrates, all the bad and evil in the world stems from ignorance of this truth. And so, libraries of books have been devoted to “What is truth?”, “How to know the truth?”, and “What is and isn’t true.”\nBut what if most people don’t actually want the truth, or if they just want to be right? In such cases, the truth might be a liability. When what philosophers, scientists, or experts present as “true” is something that makes someone wrong, their minds will do something odd — they will lock down. And according to the philosopher Chris Ranalli, when this happe…",
+          "link": "https://bigthink.com/mini-philosophy/the-philosophy-of-indoctrination-and-how-to-fix-it/",
+          "publishedOn": "2026-03-04T19:21:06.000Z",
+          "wordCount": 2445,
+          "title": "The philosophy of indoctrination and how to fix it",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/philosophy-of-indoctrination_compressed.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/",
           "author": "Liz Tran",
@@ -9699,16 +9740,6 @@
           "wordCount": 2860,
           "title": "Google fellow: AI doesn’t pretend to be intelligent. It is.",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/06/ai-child-copy.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/observe-proton-decay/",
-          "author": "Ethan Siegel",
-          "description": "The Universe is filled with “stuff,” no matter where or when we dare to look. Even though the majority of the Universe is dark in the sense that we haven’t figured out how to directly detect it — with 95% of the cosmic energy density comprised of dark energy and dark matter — the 5% that comes in different forms of matter and radiation is profoundly significant. It makes up us, the planets, stars, and galaxies, as well as starlight, the plasmas and neutral gas clouds found within and beyond galaxies, and everything else we can observe. Of that 5%, in terms of mass, more than three-quarters of it is in the form of protons: the simplest and lowest-mass baryon, or particle made of three quarks, in all the Universe.\nAs far as we’ve been able to determine, the proton is stable. Experimentally, …",
-          "link": "https://bigthink.com/starts-with-a-bang/observe-proton-decay/",
-          "publishedOn": "2025-12-05T07:00:00.000Z",
-          "wordCount": 4720,
-          "title": "Ask Ethan: Can we ever observe a proton decaying?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?resize=1200,630"
         }
       ]
     },
@@ -10848,6 +10879,38 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "111792 at https://www.eff.org",
+          "author": "David Greene",
+          "description": "*This interview has been edited for length and clarity.\nDavid Greene: Shin, please introduce yourself to the Speaking Freely community.\n Shin Yang: My name is Shin Yang. I am a queer writer with a legal background and experience in product management. I am the steward of Lezismore, an independent, self-hosted, open-source community for sexual minorities in Taiwan. For the past decade, I have focused on platform governance as infrastructure, with a particular emphasis on anonymity, minimal data collection, and behavior-based accountability, so that people can speak about intimacy and identity without fear of extraction or exposure. I am a community architect and builder, not an influencer. I’ve spent most of the past decade working anonymously building systems, designing governance protocol…",
+          "link": "https://www.eff.org/deeplinks/2026/03/speaking-freely-shin-yang",
+          "publishedOn": "2026-03-04T19:47:03.000Z",
+          "wordCount": 5375,
+          "title": "Speaking Freely: Shin Yang",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-shin-lynx-banner_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "172670"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-shin-lynx-banner_0.png"
+        },
+        {
+          "id": "111791 at https://www.eff.org",
+          "author": "Haley Pedersen",
+          "description": "Interviewer: David Greene\nShin Yang builds the kind of online space most platforms say is impossible: a sex-positive community that protects anonymity without turning users into data. A queer writer with a legal background and experience in product management, she is the steward of Lezismore, an independent, self-hosted community for sexual minorities in Taiwan that has been alive and kicking since 2015. It is built on open-source software and she is developing privacy-first governance (minimal data, behavior-based accountability, rhythm governance and “good friction”) as an alternative to identity gates and surveillance.\n*This interview has been edited for length and clarity.\nDavid Greene: Shin, please introduce yourself to the Speaking Freely community.\n Shin Yang: My name is Shin Yang. …",
+          "link": "https://www.eff.org/pages/speaking-freely-shin-yang",
+          "publishedOn": "2026-03-04T19:02:47.000Z",
+          "wordCount": 5375,
+          "title": "Speaking Freely: Shin Yang",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-shin-lynx-banner.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "172670"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-shin-lynx-banner.png"
+        },
+        {
           "id": "111790 at https://www.eff.org",
           "author": "Sophia Cope",
           "description": "EFF, along with the national ACLU and the ACLU affiliates in Pennsylvania, Delaware, and New Jersey, filed an amicus brief in the U.S. Court of Appeals for the Third Circuit urging the court to require a warrant for border searches of electronic devices, an argument EFF has been making in the courts and Congress for nearly a decade.\nThe case, U.S. v. Roggio, involves a man who had been under ongoing criminal investigation for illegal exports when he returned to the United States from an international trip via JFK airport. Border officers used the opportunity to bypass the Fourth Amendment’s warrant requirement when they seized several of his electronic devices (laptop, tablet, cell phone, and flash drive) and conducted forensic searches of them. As the district court explained, “investigat…",
@@ -10926,6 +10989,22 @@
             "length": "69357"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/nicar-2026-logo.png"
+        },
+        {
+          "id": "111783 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "March 25, 2026 - 6:30pm to 8:30pm EDT\n\n\nMarch 25, 2026 - 3:30pm to 5:30pm PDT\n\n\nNew York, NY\n\n\n\nJoin EFF staff and local online rights supporters for a Speakeasy meet up on Wednesday, March 25 in NYC!\nRaise a glass and discover EFF's latest work defending digital freedoms online. This event is a free, casual gathering to give you a chance to mingle with local EFF supporters and meet the lawyers, activists, and technologists behind the world's leading digital civil liberties organization. It is also our chance to thank you, the EFF members, who make this work possible.\nSPEAKEASY: NYC\nBleecker Street Bar\n648 Broadway, New York, NY 10012\nWednesday, March 25, 6:30 PM - 8:30 PM\nREGISTER TODAY!\n\n\n\nWe invite current EFF members to gather with fellow internet freedom supporters and to meet the people behind your favorite digital civil liberties organization. Not a member of EFF yet? Help build a better future for privacy, innovation, and free expression when you join today! \nThis gathering is open to members, donors, and guests. No-host bar. Food and drinks available for purchase. For additional information, contact events@eff.org.\nEFF is dedicated to a harassment-free experience for everyone, and all participants are encouraged to view our full Event Expectations.\n\n\nCalendar",
+          "link": "https://www.eff.org/event/eff-spring-speakeasy-nyc-march-2026",
+          "publishedOn": "2026-03-03T19:11:47.000Z",
+          "wordCount": 764,
+          "title": "EFF Spring Speakeasy: NYC",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speakeasy_banner-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "51045"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speakeasy_banner-2_0.png"
         },
         {
           "id": "111783 at https://www.eff.org",
