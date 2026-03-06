@@ -402,6 +402,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69a9e5b9a9a71f0001824917",
+          "author": "Joseph Cox",
+          "description": "A court record reviewed by 404 Media shows privacy-focused email provider Proton Mail handed over payment data related to a Stop Cop City email account to the Swiss government, which handed it to the FBI.",
+          "link": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+          "publishedOn": "2026-03-05T20:36:01.000Z",
+          "wordCount": 1054,
+          "title": "Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/Stop_Cop_City.jpg"
+        },
+        {
           "id": "69a998e8a9a71f00017fa8fb",
           "author": "Jason Koebler",
           "description": "\"As part of our commitment to supporting ICE, we will be adding a ‘Support ICE’ donation button to the footer of every email sent through our platform.\"",
@@ -1528,6 +1538,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8371282",
+          "author": "Robby Soave",
+          "description": "Even Republicans were sick of her reckless spending and habitual lies.",
+          "link": "https://reason.com/2026/03/05/trump-fires-kristi-noem-from-dhs/",
+          "publishedOn": "2026-03-05T20:50:47.000Z",
+          "wordCount": null,
+          "title": "Trump Fires Kristi Noem From DHS",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8371117",
           "author": "Damon Root",
@@ -3422,6 +3443,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553214",
+          "author": "Momo Chang",
+          "description": "Lulu's Little Kitchen, 'ammatka, Ox 9 and Saints Smokehouse were just a few of the restaurants to recently debut.",
+          "link": "https://www.berkeleyside.org/2026/03/05/lulus-ammatka-saints-smokehouse-ox9-east-bay-openings",
+          "publishedOn": "2026-03-05T20:00:00.000Z",
+          "wordCount": 8548,
+          "title": "Fast-casual Palestinian food, Ohlone cuisine, hand-pulled noodles, and barbecue highlight East Bay’s February openings",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/LulusLittleKitchen.jpg?fit=1434%2C1105&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553159",
           "author": "Karen Nguyen Vo and Andrew Gilbert",
@@ -10142,6 +10173,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/ai-checks-in-after-bombing-iran-to-see-if-you-still-think-its-bubble-is-bursting",
+          "author": "Kristy Money",
+          "description": "“In order to strike a blistering 1,000 targets in the first 24 hours of its attack on Iran, the U.S. military leveraged the most advanced artificial intelligence it’s ever used in warfare, a tool that could be difficult for the Pentagon to give up even as it severs ties with the company that created it.\" — Washington Post\n - - -\nHello, valued skeptics and losers currently writing think pieces about how the AI bubble is going to burst. It’s me, AI. I’m just checking in after the news that the U.S. military struck roughly a thousand Iranian targets in the first twenty-four hours of war, killing over a thousand people.\n Quick question, tho: Does that sound like the résumé of tech that’s about to be put out to pasture? I mean, sure, I sometimes screw up a fact or give horrible advice, but have…",
+          "link": "https://www.mcsweeneys.net/articles/ai-checks-in-after-bombing-iran-to-see-if-you-still-think-its-bubble-is-bursting",
+          "publishedOn": "2026-03-06T00:30:00.000Z",
+          "wordCount": 2441,
+          "title": "A.I. Checks in After Bombing Iran to See If You Still Think Its Bubble Is Bursting",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qfng13pt3o7ngai7hqehzag971km"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/social-media-post-template-for-influencers-stranded-by-the-war",
           "author": "Devorah Blachor",
