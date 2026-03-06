@@ -3444,6 +3444,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=553272",
+          "author": "Vanessa Arredondo and Rigzin Gyaltsen",
+          "description": "BUSD families are being urged to monitor for symptoms and keep sick kids at home. On campus, students and teachers expressed surprise and  some concern.",
+          "link": "https://www.berkeleyside.org/2026/03/05/mumps-berkeley-high-exposure-risk-moderate-mmr-vaccine",
+          "publishedOn": "2026-03-06T00:45:47.000Z",
+          "wordCount": 8253,
+          "title": "Second mumps case reported at Berkeley High, exposure risk raised to ‘moderate’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/03/panebianco_classroom-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553268",
+          "author": "Alex N. Gecan",
+          "description": "Kathy Lee, who was interim director of police accountability before Hansel Aguilar was hired in 2022, has been nominated to return to the role, again on an interim basis. Aguilar was abruptly fired by the council last month.",
+          "link": "https://www.berkeleyside.org/2026/03/05/kathy-lee-berkeley-police-accountability-interim-director-nomination",
+          "publishedOn": "2026-03-06T00:39:40.000Z",
+          "wordCount": 7629,
+          "title": "Berkeley mayor taps onetime interim police oversight director to return",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Kathy-Lee-landscape.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=553214",
           "author": "Momo Chang",
           "description": "Lulu's Little Kitchen, 'ammatka, Ox 9 and Saints Smokehouse were just a few of the restaurants to recently debut.",
@@ -7573,6 +7593,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/block-universe-alkhalili/",
+          "author": "Jim Al-Khalili",
+          "description": "Time feels obvious, but physics tells a stranger story about its existence: Theoretical physicist Jim Al-Khalili explores why our sense of time may be incredibly misleading, including the idea that past, present, and future might all exist at once.\nThis video The block universe: a theory where every moment already exists is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/block-universe-alkhalili/",
+          "publishedOn": "2026-03-06T05:00:00.000Z",
+          "wordCount": 25490,
+          "title": "The block universe: a theory where every moment already exists",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-1.41.39-PM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/the-separation-of-powers/",
           "author": "Cass Sunstein",
