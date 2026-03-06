@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-06T06:16:54.529Z</updated>
+    <updated>2026-03-06T12:12:04.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: Do signals degrade as they travel through space?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/signals-degrade-space/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/signals-degrade-space/"/>
+        <updated>2026-03-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here on Earth, signal degradation is a real problem whenever we transmit information to one another. Signals like sound, light, and gravity spread out through space in three dimensions, becoming weaker and weaker as you travel farther from the source. The medium that the signal travels through alters the signal’s properties as well, as an oncoming train sounds different from the air, with your ear to the ground, or from submerged in a body of water. And if there are interfering signals to contend with — like sound or light from additional sources — that “noise” can also degrade the quality of the signal, at least from the perception of the signal’s recipient.
+Surely these factors, as well as potential other factors, that affect signals as they travel through the expanding Universe, particu…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The block universe: a theory where every moment already exists]]></title>
         <id>https://bigthink.com/series/the-big-think-interview/block-universe-alkhalili/</id>
