@@ -412,6 +412,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69ab78181e67100001b151eb",
+          "author": "Becky Ferreira",
+          "description": "A NASA spacecraft into a small asteroid in 2022 moved its orbit around the Sun, according to a study that presents the “first-ever measurement of human-caused change in the heliocentric orbit of a celestial body.”",
+          "link": "https://www.404media.co/humanity-has-altered-an-asteroids-orbit-around-the-sun/",
+          "publishedOn": "2026-03-07T14:00:31.000Z",
+          "wordCount": 2025,
+          "title": "Humanity Has Altered an Asteroid’s Orbit Around the Sun",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/image1.png"
+        },
+        {
           "id": "69aaf6591e67100001ae6b5a",
           "author": "Joseph Cox",
           "description": "This week, we discuss a PC repair battle, a revealing comment from an FBI official, and a dangerous narrative.",
@@ -2392,6 +2402,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/dead-reckoning",
+          "author": "Asimov Press",
+          "description": "Bioarchaeologists recently identified a murdered medieval royal. Now, they are trying to shed light on other ancient deaths.",
+          "link": "https://www.asimov.press/p/dead-reckoning",
+          "publishedOn": "2026-03-07T16:00:42.000Z",
+          "wordCount": null,
+          "title": "Dead Reckoning",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!hNbA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff9c427-5761-430f-9911-cccdf2eec831_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!hNbA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff9c427-5761-430f-9911-cccdf2eec831_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/glass",
           "author": "Asimov Press",
           "description": "How a twisted triangle of glass tubing helped democratize chemistry and build the modern laboratory.",
@@ -3112,16 +3138,6 @@
           "wordCount": 204,
           "title": "Fishing",
           "imageUrl": "https://imgs.xkcd.com/comics/fishing_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3178/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3178/",
-          "publishedOn": "2025-12-08T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Hyperacute Interdynamics",
-          "imageUrl": "https://imgs.xkcd.com/comics/hyperacute_interdynamics_2x.png"
         }
       ]
     },
@@ -7694,6 +7710,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/",
+          "author": "Ethan Siegel",
+          "description": "When most of us were children, and we went to a rural area with clear skies overhead at night, we were all greeted by the same familiar sight: a dark night sky, glittering with many hundreds or even thousands of stars. Depending on how dark your sky was, you could spot up to 6000 stars at once, as well as deep-sky objects, the plane of the Milky Way, and only the rare, occasional satellite streak. As time went on, more and more satellites were launched, bringing us up to around 2000 active satellites as of 2019.\n\n\n\nAnd then we entered the era of satellite megaconstellations, beginning with the launch of the first Starlink satellites. Now, nearly 7 full years later, there are over 17,000 active and defunct satellite payloads in orbit, with approximately 100 times as many satellites proposed…",
+          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/",
+          "publishedOn": "2026-03-07T17:25:30.000Z",
+          "wordCount": 2136,
+          "title": "Starts With A Bang podcast #127 – Satellites and space pollution",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/Debris_objects_in_low-Earth_orbit_LEO.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/science-tech/proactive-ai/",
           "author": "Kiara Nirghin, Nikhara Nirghin",
