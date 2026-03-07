@@ -6689,6 +6689,16 @@
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
         {
+          "id": "https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe",
+          "author": "Meera Sodha",
+          "description": "A classic fried tofu stir-fry that’s bang-full of flavour\nMy funny, curious, panda-loving daughter, Arya, is turning nine this week. So I wanted to write a recipe to celebrate her and some of her favourite things to eat. Arya adores the chewiness of udon, the bounciness of tofu, the sweet, sour saltiness of sweet soy and tamarind, the crunch of cabbage and she’d put chilli (in any form) over her breakfast cereal if she could (although it’s optional in this recipe). Happy birthday, Arya.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe",
+          "publishedOn": "2026-03-07T06:00:45.000Z",
+          "wordCount": 4658,
+          "title": "Meera Sodha’s vegan recipe for Arya’s birthday udon | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/04fc28b62e00fb0fca05dee15ee30ac03941a45b/242_378_3168_2535/master/3168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=134d75210ada92233139a67e0e066158"
+        },
+        {
           "id": "https://www.theguardian.com/food/2026/feb/28/vegetarian-quinoa-chickpea-salad-recipe-red-cabbage-pomegranate-pistachios-meera-sodha",
           "author": "Meera Sodha",
           "description": "Tender jarred chickpeas make this colourful vegetarian dish a bit of a breeze to bring together\nEvery now and then, something comes along in the food industry that is “better than sliced bread”, and right now I would say that thing is jarred chickpeas. Due to the way they’re processed, cooked at a lower temperature and for a shorter time, they tend to be softer than tinned and ready to eat in salads (a tinned chickpea, on the other hand, might need a five-minute boil to get to the same degree of softness). In any case, it’s safe to say that this innovation has led to an increase in my eating of chickpeas in salads, and today’s dish is a recent favourite.\n Continue reading...",
@@ -11111,6 +11121,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111802 at https://www.eff.org",
+          "author": "Jason Kelley",
+          "description": "For the last hundred years, women have had pivotal and far too often unsung roles in building and shaping the technology that we now use every day. Many have heard of Ada Lovelace’s contributions to computer programming, but far fewer know Mary Allen Wilkes, a prominent modern programmer who wrote much of the software for the LINC, one of the world’s first interactive personal computers (it could fit in a single office and cost $40,000, but it was the 60’s). Decades earlier, when the first all-electronic, digital Eniac computer was built in the 40’s, the “software” for it was written by women: Kathleen McNulty, Jean Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas and Ruth Lichterman. \nIt’s thankfully become more common knowledge that actor and inventor Hedy Lamarr co-created the conc…",
+          "link": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received",
+          "publishedOn": "2026-03-07T00:57:34.000Z",
+          "wordCount": 2966,
+          "title": "Admiring Our Heroes for International Women’s Day: Celebrating Women Who Have Received EFF Awards",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ada_lovelace_portrait.jpg",
+            "alt": "Portrait of Ada Lovelace ca1840 publi domain",
+            "type": "image/jpeg",
+            "length": "776557"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ada_lovelace_portrait.jpg"
+        },
         {
           "id": "111800 at https://www.eff.org",
           "author": "Allison Morris",

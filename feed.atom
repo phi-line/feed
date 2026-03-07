@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-07T00:25:29.288Z</updated>
+    <updated>2026-03-07T06:11:33.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for Arya’s birthday udon | The new vegan]]></title>
+        <id>https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe</id>
+        <link href="https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe"/>
+        <updated>2026-03-07T06:00:45.000Z</updated>
+        <summary type="html"><![CDATA[A classic fried tofu stir-fry that’s bang-full of flavour
+My funny, curious, panda-loving daughter, Arya, is turning nine this week. So I wanted to write a recipe to celebrate her and some of her favourite things to eat. Arya adores the chewiness of udon, the bounciness of tofu, the sweet, sour saltiness of sweet soy and tamarind, the crunch of cabbage and she’d put chilli (in any form) over her breakfast cereal if she could (although it’s optional in this recipe). Happy birthday, Arya.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Admiring Our Heroes for International Women’s Day: Celebrating Women Who Have Received EFF Awards]]></title>
+        <id>111802 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received"/>
+        <updated>2026-03-07T00:57:34.000Z</updated>
+        <summary type="html"><![CDATA[For the last hundred years, women have had pivotal and far too often unsung roles in building and shaping the technology that we now use every day. Many have heard of Ada Lovelace’s contributions to computer programming, but far fewer know Mary Allen Wilkes, a prominent modern programmer who wrote much of the software for the LINC, one of the world’s first interactive personal computers (it could fit in a single office and cost $40,000, but it was the 60’s). Decades earlier, when the first all-electronic, digital Eniac computer was built in the 40’s, the “software” for it was written by women: Kathleen McNulty, Jean Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas and Ruth Lichterman. 
+It’s thankfully become more common knowledge that actor and inventor Hedy Lamarr co-created the conc…]]></summary>
+        <author>
+            <name>Jason Kelley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Admiring Our Heroes for International Women’s Day: Five Women In Tech That EFF Admires]]></title>
         <id>111800 at https://www.eff.org</id>
