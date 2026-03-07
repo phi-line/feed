@@ -1559,6 +1559,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8371406",
+          "author": "Jacob Sullum",
+          "description": "The president himself portrayed Renée Good and Alex Pretti as would-be murderers, and he did not seem troubled by the homeland security secretary's slander of them.",
+          "link": "https://reason.com/2026/03/06/kristi-noems-lies-about-dhs-shootings-dont-seem-to-have-figured-in-trumps-decision-to-fire-her/",
+          "publishedOn": "2026-03-06T20:10:50.000Z",
+          "wordCount": null,
+          "title": "Kristi Noem's Lies About DHS Shootings Don't Seem To Have Figured in Trump's Decision To Fire Her",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8371282",
           "author": "Robby Soave",
           "description": "Even Republicans were sick of her reckless spending and habitual lies.",
@@ -3473,6 +3484,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553253",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/06/olfactory-taproom-montclair-highwire-closed",
+          "publishedOn": "2026-03-06T20:00:00.000Z",
+          "wordCount": 7239,
+          "title": "Olfactory Brewing shutters Berkeley taproom, and Montclair’s Highwire in limbo",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/olfactory-beer-refelection.jpg?fit=1439%2C1133&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553304",
+          "author": "Nico Savidge",
+          "description": "The proposal to allow taller development on College, Solano and North Shattuck avenues has faced opposition from merchants and residents, who fear new development could push out small businesses.",
+          "link": "https://www.berkeleyside.org/2026/03/06/berkeley-corridors-zoning-update-planning-commission-solano-college-shattuck-elmwood",
+          "publishedOn": "2026-03-06T19:41:59.000Z",
+          "wordCount": 8875,
+          "title": "Plans to rezone wealthy Berkeley neighborhoods for more housing are scaled back after uproar",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-CA-Reopening-Berkeley.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553213",
           "author": "Morgan McFall-Johnsen",
@@ -11080,6 +11111,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111800 at https://www.eff.org",
+          "author": "Allison Morris",
+          "description": "In honor of International Women’s Day, we asked five women at EFF about women in digital rights, freedom of expression, technology, and tech activism who have inspired us.  \nAnna Politkovskaya \nJillian York, Activist \nThis International Women’s Day, I want to honor the memory of Anna Politkovskaya, the Russian investigative journalist who relentlessly exposed political and social abuses, endured harassment and violence for her work, and was ultimately killed for telling the truth. I had just started my career when I learned of her death, and it forced me to confront that freedom of expression isn’t an abstract principle but rather something people risk—and sometimes lose—their lives for. \nHer story reminds me that journalism at its best is an act of moral courage, not just a profession. In…",
+          "link": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-five-women-tech-eff-admires-0",
+          "publishedOn": "2026-03-06T22:48:43.000Z",
+          "wordCount": 2329,
+          "title": "Admiring Our Heroes for International Women’s Day: Five Women In Tech That EFF Admires",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ada_lovelace_portrait.jpg",
+            "alt": "Portrait of Ada Lovelace ca1840 publi domain",
+            "type": "image/jpeg",
+            "length": "776557"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ada_lovelace_portrait.jpg"
+        },
         {
           "id": "111798 at https://www.eff.org",
           "author": "Corynne McSherry",
