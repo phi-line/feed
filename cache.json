@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159827",
+          "author": "Yasemin Saplakoglu",
+          "description": "Every second, hundreds to thousands of molecules move through thousands of nuclear pores in each of your cells. A new high-definition view reveals the machine in action.            \nThe post Disorder Drives One of Nature’s Most Complex Machines first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
+          "publishedOn": "2026-03-09T14:20:51.000Z",
+          "wordCount": 4055,
+          "title": "Disorder Drives One of Nature’s Most Complex Machines",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Behold-NPC-cr-Nat-Cell-Biol-27-2089–2101_2025.-https_doi.org_10.1038_s41556-025-01812-9-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159767",
           "author": "Paulina Rowińska",
           "description": "A straightforward conjecture about runners moving around a track turns out to be equivalent to many complex mathematical questions. Three new proofs mark the first significant progress on the problem in decades.            \nThe post New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem first appeared on Quanta Magazine",
@@ -391,6 +401,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69aee8aa1e67100001b8ad42",
+          "author": "Emanuel Maiberg",
+          "description": "Cecilia D’Anstasio on Roblox’s efforts to protect children from pedophiles.",
+          "link": "https://www.404media.co/understanding-robloxs-grooming-problem/",
+          "publishedOn": "2026-03-09T15:36:54.000Z",
+          "wordCount": 1198,
+          "title": "Understanding Roblox’s Grooming Problem",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/roblox-kids.png"
+        },
+        {
+          "id": "69aec6891e67100001b67d57",
+          "author": "Samantha Cole",
+          "description": "Mental health experts say identifying when someone is in need of help is the first step — and approaching them with careful compassion is the hardest, most essential part that follows.",
+          "link": "https://www.404media.co/ai-psychosis-help-gemini-chatgpt-claude-chatbot-delusions/",
+          "publishedOn": "2026-03-09T14:12:22.000Z",
+          "wordCount": 1333,
+          "title": "How to Talk to Someone Experiencing 'AI Psychosis'",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/404-media-falling-person-illustration.jpg"
+        },
+        {
+          "id": "69aec8ef1e67100001b67de3",
+          "author": "Matthew Gault",
+          "description": "The 'Freedom Trucks' will haul AI slop George Washington on a tour across 48 American states.",
+          "link": "https://www.404media.co/i-visited-the-freedom-truck-to-meet-pragerus-ai-slop-founders/",
+          "publishedOn": "2026-03-09T13:26:08.000Z",
+          "wordCount": 1766,
+          "title": "I Visited the ‘Freedom Truck’ to Meet PragerU’s AI Slop Founders",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/PXL_20260305_201054294-2--1.jpg"
+        },
         {
           "id": "69ab78181e67100001b151eb",
           "author": "Becky Ferreira",
@@ -2371,6 +2411,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/viral-capsids",
+          "author": "Asimov Press",
+          "description": "Viral capsid structure is a geometric packing problem under genetic constraints.",
+          "link": "https://www.asimov.press/p/viral-capsids",
+          "publishedOn": "2026-03-09T15:56:46.000Z",
+          "wordCount": null,
+          "title": "Why Are Viral Capsids Icosahedral?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!8iQI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98bf5c87-d3ed-41d4-8110-8c8c1fdfe759_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!8iQI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98bf5c87-d3ed-41d4-8110-8c8c1fdfe759_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/dead-reckoning",
           "author": "Asimov Press",
           "description": "Bioarchaeologists recently identified a murdered medieval royal. Now, they are trying to shed light on other ancient deaths.",
@@ -3097,16 +3153,6 @@
           "wordCount": 204,
           "title": "Apples",
           "imageUrl": "https://imgs.xkcd.com/comics/apples_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3179/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3179/",
-          "publishedOn": "2025-12-10T05:00:00.000Z",
-          "wordCount": 204,
-          "title": "Fishing",
-          "imageUrl": "https://imgs.xkcd.com/comics/fishing_2x.png"
         }
       ]
     },
@@ -3162,6 +3208,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-quest-for-contributive-justice",
+          "author": "Nathan Gardels",
+          "description": "The post The Quest For Contributive Justice appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-quest-for-contributive-justice",
+          "publishedOn": "2026-03-09T16:46:12.000Z",
+          "wordCount": 3303,
+          "title": "The Quest For Contributive Justice",
+          "imageUrl": "https://noemamag.imgix.net/2026/03/3.-Nathans-idea_.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b84284cebe84ad6edac5d7f968de72df"
+        },
         {
           "id": "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world",
           "author": "Umang Bhatt",
@@ -3459,6 +3515,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553329",
+          "author": "Associated Press",
+          "description": "The musician's “I-Feel-Like-I’m-Fixin’-To-Die Rag” was a four-lettered rebuke to the Vietnam War that became an anthem for protesters. He had lived in Berkeley since 1965.",
+          "link": "https://www.berkeleyside.org/2026/03/09/country-joe-mcdonald-dies-in-berkeley-at-84",
+          "publishedOn": "2026-03-09T13:00:00.000Z",
+          "wordCount": 8760,
+          "title": "‘Country’ Joe McDonald, ’60s rock star, counterculture icon, dies in Berkeley at 84",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/AP26067747350851.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553198",
+          "author": "Joanne Furio",
+          "description": "They saved the Bay, brought subsidized child care to the working class, and fought for the civil rights of disabled, Black and trans people. A new book celebrates dozens of “unsung” Bay Area heroines.",
+          "link": "https://www.berkeleyside.org/2026/03/09/unsung-heroines-35-women-who-changed-the-bay-area-delilah-l-beasley-bertha-wright-vivian-osborne-marsh-frances-albrier-louise-lawrence-esther-gulick-kay-kerr-sylvia-mclaughlin-judy-heumann",
+          "publishedOn": "2026-03-09T13:00:00.000Z",
+          "wordCount": 8402,
+          "title": "These 9 Berkeley women changed history but you may not know their stories",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/9-unsung-heroines-berkeley.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553253",
           "author": "Momo Chang",
@@ -6348,16 +6424,6 @@
           "wordCount": 8284,
           "title": "Clipper cards get big upgrade, with cheaper transfers and AC Transit riders able to just tap their credit cards",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/20241204-BART-JY-027_qed.jpg?fit=1999%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548901",
-          "author": "Felicia Mello",
-          "description": "Peyrin Kao, who went on a hunger strike for Gaza, said he believes Cal “is capitulating to the demands of the Trump administration and using me as bait.” The university said it was responding to student complaints.",
-          "link": "https://www.berkeleyside.org/2025/12/09/peyrin-kao-suspended-uc-berkeley-pro-palestinian-activism-regents-policy-2301",
-          "publishedOn": "2025-12-10T00:50:44.000Z",
-          "wordCount": 8439,
-          "title": "UC Berkeley suspends lecturer for sharing pro-Palestinian views in his classroom",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-20251002_PeyrinKao_EG_03.jpg"
         }
       ]
     },
@@ -6882,6 +6948,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/T7X0d_pFhnE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/T7X0d_pFhnE",
+          "publishedOn": "2026-03-09T14:40:16.000Z",
+          "wordCount": 2068,
+          "title": "#DeskOfTheDay: \"Un Amor,\" Detzany",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/pLXSH6T4Mtg",
           "author": null,
@@ -7559,6 +7635,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-well/is-pain-productive-or-pointless/",
+          "author": "Kate Bowler",
+          "description": "American culture demands that pain be productive.\nHistorian Kate Bowler explores how the obsession with finding meaning in suffering turns into what she calls “purpose monsters”: the need to make every loss, failure, or tragedy count for something. But not everything happens for a reason. And not all pain is a lesson.\nBowler argues that grief deserves the dignity of honesty, not reframing. Instead of rearranging the past to find meaning, she suggests asking a different question: What’s left? And what might still be beautiful?\nThis video Why pain doesn’t need to teach you anything is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/is-pain-productive-or-pointless/",
+          "publishedOn": "2026-03-09T13:00:00.000Z",
+          "wordCount": 2205,
+          "title": "Why pain doesn’t need to teach you anything",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/",
           "author": "Ethan Siegel",
@@ -9737,6 +9823,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73048",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Puffy, light and tender, these German pancakes are everything you love about the traditional version, but made without the eggs or dairy.  German pancakes are nothing like typical vegan pancakes. While they share a name, German pancakes are tender and custard-y in the middle, golden and crisp on the edges, and they puff up like […]",
+          "link": "https://jessicainthekitchen.com/german-pancakes/",
+          "publishedOn": "2026-03-09T14:00:00.000Z",
+          "wordCount": 9121,
+          "title": "Vegan German Pancakes",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/Vegan-German-Pancake-14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73148",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Upside down apple cake swaps the usual pineapple for tender baked apples and warm, cozy spices. The caramelised top—which becomes the bottom when you flip it!—makes the cake extra special.  Everyone is familiar with pineapple upside down cake. Well, let me introduce you to its cousin, upside down apple cake! It’s exactly what you think […]",
@@ -10129,6 +10225,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/what-the-thousand-year-blood-reign-means-for-gas-prices",
+          "author": "Tom Ellison",
+          "description": "“Death toll in Middle East surpasses 1,100 as missile strikes continue.” \n — The Independent\n Gas prices continue to surge in the US, rising 14 percent in a week.\" \n — New York Times\n - - -\nQuestions are flying, ever since the start of Sepharax the Cruel’s Thousand-Year Blood Reign. Whether it’s the Pit of Souls or the Child Reapers, there’s a lot to be worried about. But most of all? The price at the pump.\n It’s confusing, but our explainer has you covered.\n The Undead\n Unfortunately, the appearance of armies of the dead, awakened to wage indiscriminate war on all humankind, could potentially push gasoline beyond $3.50 per gallon.\n The Scorpion Venom Rain\n The acidic poison constantly falling from the skies isn’t just dissolving our pets. It’s also eroding our transportation infrastructur…",
+          "link": "https://www.mcsweeneys.net/articles/what-the-thousand-year-blood-reign-means-for-gas-prices",
+          "publishedOn": "2026-03-09T17:36:00.000Z",
+          "wordCount": 2388,
+          "title": "What the Thousand-Year Blood Reign Means for Gas Prices",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/pw50zl4gbpqmdfda0hg8vqz11uf3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/why-i-lucifer-rejected-a-deal-for-donald-trumps-soul",
           "author": "Andy Schocket",
