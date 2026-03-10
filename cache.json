@@ -2793,6 +2793,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3217/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3217/",
+          "publishedOn": "2026-03-09T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Home Remedies",
+          "imageUrl": "https://imgs.xkcd.com/comics/home_remedies_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3216/",
           "author": null,
           "description": "",
@@ -6402,26 +6412,6 @@
           "wordCount": 7954,
           "title": "Remembering Alan Burkett, architect who helped get UC Berkeley’s Stanley Hall and East Asian Library built",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Alan-Burkett.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548961",
-          "author": "Alex N. Gecan",
-          "description": "Marcel Dupree Jones’ family say his roommate at Ursula Sherman Village, Mark Dowling, was openly racist and threatened to shoot his Black neighbors. Dowling is charged with murdering Jones.",
-          "link": "https://www.berkeleyside.org/2025/12/10/marcel-jones-family-sues-berkeley-boss-mark-dowling",
-          "publishedOn": "2025-12-10T23:47:27.000Z",
-          "wordCount": 7826,
-          "title": "Family of man killed in homeless shelter sues Berkeley, BOSS for failing to protect him",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Jones.webp"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548955",
-          "author": "Tovin Lapan",
-          "description": "Garrett Morris and Renzo Roca opened Lucuma in Downtown Oakland with a mission to stand out from other Peruvian restaurants.",
-          "link": "https://www.berkeleyside.org/2025/12/10/nosh-awards-best-new-restaurant-lucuma",
-          "publishedOn": "2025-12-10T23:23:20.000Z",
-          "wordCount": 7797,
-          "title": "The East Bay’s best new restaurant wins over diners with dedication to the details",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-26_20250725_Lucuma_Middleton_0224.jpg"
         }
       ]
     },
@@ -9782,16 +9772,6 @@
           "wordCount": 4809,
           "title": "Does science reveal the absolute truth about reality?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/03/AdobeStock_150772270.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/collapse-of-truth/",
-          "author": "Yuval Noah Harari",
-          "description": "Human history is a paradox: we accumulate knowledge at astonishing speed, yet remain vulnerable to deception, superstition, and the stories that subtly steer entire civilizations.\nFrom the first clay tablets to today’s global media systems, the structures that carry our ideas have always shaped what societies can build, believe, and destroy. That paradox is even more important in the age of AI, says Yuval Noah Harari.\nThis video Yuval Noah Harari: Why advanced societies fall for mass delusion is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/collapse-of-truth/",
-          "publishedOn": "2025-12-10T22:06:20.000Z",
-          "wordCount": 7401,
-          "title": "Yuval Noah Harari: Why advanced societies fall for mass delusion",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/C1-Web-Harari.jpg?resize=1200,630"
         }
       ]
     },
@@ -10203,6 +10183,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/introducing-free-time",
+          "author": "Alex Baia",
+          "description": "From the innovators who brought you Taking a Nap and Just Chilling, Free Time is a luxury experience beyond your wildest dreams.\n Free Time isn’t just a new product—it’s a total wellness optimization platform. It’s not an app but rather a mind-blowing vessel of unstructured time where you can do anything your heart desires, or nothing at all.\n Your Free Time comes loaded with options that are as boundless as your imagination. You can lie on the couch and read a novel, or just space out and drool. Go for a walk if you want. Stop and stare at a bird and take dozens of pictures, if that’s your kink.\n Do you want to buy a big pretzel from that German food truck and eat it for twenty minutes, even though that sounds like way too long? Go for it. This is Free Time. Dip it in cheese and stand aro…",
+          "link": "https://www.mcsweeneys.net/articles/introducing-free-time",
+          "publishedOn": "2026-03-10T12:00:00.000Z",
+          "wordCount": 2504,
+          "title": "Introducing: Free Time",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mc8y2tjzptk9335cktmdyccsu559"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/iran-has-been-an-imminent-threat-to-the-us-for-forty-seven-years",
           "author": "Cezary Jan Strusiewicz",

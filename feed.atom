@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-10T06:16:48.543Z</updated>
+    <updated>2026-03-10T12:13:12.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing: Free Time]]></title>
+        <id>https://www.mcsweeneys.net/articles/introducing-free-time</id>
+        <link href="https://www.mcsweeneys.net/articles/introducing-free-time"/>
+        <updated>2026-03-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From the innovators who brought you Taking a Nap and Just Chilling, Free Time is a luxury experience beyond your wildest dreams.
+ Free Time isn’t just a new product—it’s a total wellness optimization platform. It’s not an app but rather a mind-blowing vessel of unstructured time where you can do anything your heart desires, or nothing at all.
+ Your Free Time comes loaded with options that are as boundless as your imagination. You can lie on the couch and read a novel, or just space out and drool. Go for a walk if you want. Stop and stare at a bird and take dozens of pictures, if that’s your kink.
+ Do you want to buy a big pretzel from that German food truck and eat it for twenty minutes, even though that sounds like way too long? Go for it. This is Free Time. Dip it in cheese and stand aro…]]></summary>
+        <author>
+            <name>Alex Baia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The right way to be a scientific contrarian]]></title>
         <id>https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/</id>
@@ -291,6 +304,15 @@ Sun-like stars evolve into giants, blow off their outer layers, and contract: fo
 From their earliest be…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Remedies]]></title>
+        <id>https://xkcd.com/3217/</id>
+        <link href="https://xkcd.com/3217/"/>
+        <updated>2026-03-09T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -12623,38 +12645,6 @@ Science is neither a collection of facts nor merely a process, but rather the co
         <updated>2025-12-11T01:52:07.000Z</updated>
         <author>
             <name>Aether Mug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family of man killed in homeless shelter sues Berkeley, BOSS for failing to protect him]]></title>
-        <id>https://www.berkeleyside.org/?p=548961</id>
-        <link href="https://www.berkeleyside.org/2025/12/10/marcel-jones-family-sues-berkeley-boss-mark-dowling"/>
-        <updated>2025-12-10T23:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Marcel Dupree Jones’ family say his roommate at Ursula Sherman Village, Mark Dowling, was openly racist and threatened to shoot his Black neighbors. Dowling is charged with murdering Jones.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The East Bay’s best new restaurant wins over diners with dedication to the details]]></title>
-        <id>https://www.berkeleyside.org/?p=548955</id>
-        <link href="https://www.berkeleyside.org/2025/12/10/nosh-awards-best-new-restaurant-lucuma"/>
-        <updated>2025-12-10T23:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Garrett Morris and Renzo Roca opened Lucuma in Downtown Oakland with a mission to stand out from other Peruvian restaurants.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuval Noah Harari: Why advanced societies fall for mass delusion]]></title>
-        <id>https://bigthink.com/series/full-interview/collapse-of-truth/</id>
-        <link href="https://bigthink.com/series/full-interview/collapse-of-truth/"/>
-        <updated>2025-12-10T22:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Human history is a paradox: we accumulate knowledge at astonishing speed, yet remain vulnerable to deception, superstition, and the stories that subtly steer entire civilizations.
-From the first clay tablets to today’s global media systems, the structures that carry our ideas have always shaped what societies can build, believe, and destroy. That paradox is even more important in the age of AI, says Yuval Noah Harari.
-This video Yuval Noah Harari: Why advanced societies fall for mass delusion is featured on Big Think.]]></summary>
-        <author>
-            <name>Yuval Noah Harari</name>
         </author>
     </entry>
     <entry>
