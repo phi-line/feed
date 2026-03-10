@@ -392,6 +392,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69af23ce1e67100001b8c6ea",
+          "author": "Emanuel Maiberg",
+          "description": "A couple of 20-year-old developers make $500,000 a month promising to help men to stop watching porn, but exposed their private porn watching habits.",
+          "link": "https://www.404media.co/viral-quittr-porn-addiction-app-exposed-the-masturbation-habits-of-hundreds-of-thousands-of-users/",
+          "publishedOn": "2026-03-10T13:00:53.000Z",
+          "wordCount": 1056,
+          "title": "Viral 'Quittr' Porn Addiction App Exposed the Masturbation Habits of Hundreds of Thousands of Users",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/alex.jpg"
+        },
+        {
           "id": "69aee8aa1e67100001b8ad42",
           "author": "Emanuel Maiberg",
           "description": "Cecilia D’Anstasio on Roblox’s efforts to protect children from pedophiles.",
@@ -3227,6 +3237,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/after-the-ai-revolution",
+          "author": "Jacob Dreyer",
+          "description": "The post After The AI Revolution appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/after-the-ai-revolution",
+          "publishedOn": "2026-03-10T16:41:09.000Z",
+          "wordCount": 6519,
+          "title": "After The AI Revolution",
+          "imageUrl": "https://noemamag.imgix.net/2026/03/NOEMA_PRISM_ZIGZAG_DISPLAY_CARD.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4b12c5866b870d66131772b4f77258d1"
+        },
+        {
           "id": "https://www.noemamag.com/the-quest-for-contributive-justice",
           "author": "Nathan Gardels",
           "description": "The post The Quest For Contributive Justice appeared first on NOEMA.",
@@ -3533,6 +3553,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553392",
+          "author": "Vanessa Arredondo",
+          "description": "Non-credentialed employees appear most at risk of losing their job. The school district has until May 15 to send final notices.",
+          "link": "https://www.berkeleyside.org/2026/03/10/busd-layoff-reassignment-preliminary-notices",
+          "publishedOn": "2026-03-10T13:00:00.000Z",
+          "wordCount": 7842,
+          "title": "350 BUSD staff notified of possible layoff or reassignment",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/large-Natera_230607_077_BUSDBoardmeeting_02.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553360",
           "author": "Momo Chang",
@@ -6913,21 +6943,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/darwin-the-fun-loving-young-fellow/sportsmen.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/cow-ontologies",
-          "author": null,
-          "description": "",
-          "link": "https://aethermug.com/posts/cow-ontologies?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2025-12-11T01:52:07.000Z",
-          "wordCount": 4586,
-          "title": "Cow Ontologies",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/cow-ontologies/Gudvangen.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/cow-ontologies/Gudvangen.jpg"
         }
       ]
     },
@@ -6936,6 +6951,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Mt64jh5hGxM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Mt64jh5hGxM",
+          "publishedOn": "2026-03-10T14:09:59.000Z",
+          "wordCount": 2110,
+          "title": "#DeskOfTheDay: \"Return to Sender,\" KC Shane & The Belonging",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-WJYjDu-33Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-WJYjDu-33Y",
+          "publishedOn": "2026-03-09T20:06:24.000Z",
+          "wordCount": null,
+          "title": "Tiny Desk Contest Top Shelf 2026: Episode 4 with Celia Gregory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vgpsHZmb_Tk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vgpsHZmb_Tk",
+          "publishedOn": "2026-03-09T20:03:05.000Z",
+          "wordCount": null,
+          "title": "Tiny Desk Contest Top Shelf 2026: Episode 5 with Tierra Whack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QUWZoETh-8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QUWZoETh-8Q",
+          "publishedOn": "2026-03-09T19:50:47.000Z",
+          "wordCount": null,
+          "title": "Tiny Desk Contest Top Shelf 2026: Episode 3 with Madison McFerrin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=16ADUVhsTFY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=16ADUVhsTFY",
+          "publishedOn": "2026-03-09T19:47:36.000Z",
+          "wordCount": null,
+          "title": "Tiny Desk Contest Top Shelf 2026: Episode 2 with Anamaria Sayre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZiYHU7XESpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZiYHU7XESpM",
+          "publishedOn": "2026-03-09T19:38:21.000Z",
+          "wordCount": null,
+          "title": "Tiny Desk Contest Top Shelf 2026: Episode 1 with Bobby Carter and Robin Hilton",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/T7X0d_pFhnE",
           "author": null,
@@ -7613,6 +7688,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
+          "author": "Conor Feehly",
+          "description": "From a scientific perspective, studying consciousness is a bit like trying to describe the singularity inside a black hole from the window of a spacecraft in its gravitational orbit. We can see how the black hole warps and contorts the space around it: Superheated dust and gas spiral inward; radiation and strange gravitational waves emanate outward. \nBut from this outside view, observing the singularity inside the black hole is impossible. The event horizon blocks all attempts. Similarly, as outside observers, we cannot directly access the conscious experiences of other beings. When we focus our third-person scientific tools on the places we suspect our mental lives to reside — namely, our brains (and bodies, more generally) — all we see is the stuff of physical reality: electrical activit…",
+          "link": "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
+          "publishedOn": "2026-03-10T16:57:06.000Z",
+          "wordCount": 3674,
+          "title": "Consciousness may be more than the brain’s output — it may be an input, too",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/hidden-hand-of-consciousness_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/good-writing/",
+          "author": "Jasna Hodžić",
+          "description": "Partway through our conversation about his new book Good Writing: How to Improve Your Sentences, Neal Allen lost his train of thought. He turned toward his wife and co-author, Anne Lamott. The two riffed briefly, their faces slightly angled away from their computer and from me.\n“It will come back,” Lamott said.\nHe nodded briefly and repeated: “It will come back.”\nAnd it did. “Oh!” Allen said, facing the screen, and off we went.\nIt was a small exchange, the kind you might expect from a married couple, but I jotted it down anyway, sensing it may prove significant. As we talked, the two continued to finish each other’s thoughts, nudging one another forward, even setting the record straight. (At one point, Lamott said Allen introduced his 36 “writing rules” on their second date. Allen reminded…",
+          "link": "https://bigthink.com/books/good-writing/",
+          "publishedOn": "2026-03-10T14:30:00.000Z",
+          "wordCount": 4213,
+          "title": "“If it sounds literary, it isn’t”: The deceptively simple rules behind good writing",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/writing-rules.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/quantum-revolution-alkhalili/",
+          "author": "Jim Al-Khalili",
+          "description": "Jim Al-Khalili introduces the technologies emerging from the second quantum revolution: computers that exploit superposition to solve problems that would take today’s best supercomputers billions of years, sensors that read individual neurons firing inside your skull, and cameras that image biological tissue using light and not touch. \nThis video The idea so strange Einstein thought it broke quantum physics is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/quantum-revolution-alkhalili/",
+          "publishedOn": "2026-03-10T13:00:00.000Z",
+          "wordCount": 5967,
+          "title": "The idea so strange Einstein thought it broke quantum physics",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Al-Khalili.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/",
           "author": "Ethan Siegel",
@@ -9781,6 +9886,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73050",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This homemade vegan tater tot recipe is crispy on the outside, fluffy on the inside, and the flavour is far better than store-bought. These are SO worth it! Most store-bought tater tots are vegan, but are they delicious? Well. I’d say that they’re more about texture than flavour, but with this homemade tater tot recipe, […]",
+          "link": "https://jessicainthekitchen.com/tater-tot-recipe/",
+          "publishedOn": "2026-03-10T14:00:00.000Z",
+          "wordCount": 9431,
+          "title": "Homemade Tater Tot Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/Vegan-Tater-Tots-12.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73048",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Puffy, light and tender, these German pancakes are everything you love about the traditional version, but made without the eggs or dairy.  German pancakes are nothing like typical vegan pancakes. While they share a name, German pancakes are tender and custard-y in the middle, golden and crisp on the edges, and they puff up like […]",
@@ -10183,6 +10298,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-message-from-your-university-president-on-the-recent-hippopotamus-attacks",
+          "author": "Sam E. Sutin",
+          "description": "Dear Faculty, Staff, Students, and AI Summarization Tools,\n I want to express my deepest gratitude for your patience as we explore innovative solutions to the recent string of gruesome hippopotamus attacks reported across central campus. Your steadfast commitment to our strategic mission, despite the multiple tramplings, maulings, and other encounters we shall henceforth refer to as “terminal networking opportunities” has not gone unnoticed.\n While this hippo-centric challenge is unique to our university, we have long prided ourselves on being trailblazers in academia, and I hope you will join me in applauding our incredible institution and its recent stewardship of the world’s third-largest land mammal.\n How we respond to adversity defines us. We are strongest when we stand together—as de…",
+          "link": "https://www.mcsweeneys.net/articles/a-message-from-your-university-president-on-the-recent-hippopotamus-attacks",
+          "publishedOn": "2026-03-10T17:00:00.000Z",
+          "wordCount": 2456,
+          "title": "A Message from Your University President on the Recent Hippopotamus Attacks",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/35640e5368siw5he18pt79a85oep"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/introducing-free-time",
           "author": "Alex Baia",
