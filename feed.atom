@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-10T00:23:46.826Z</updated>
+    <updated>2026-03-10T06:16:48.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The right way to be a scientific contrarian]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/"/>
+        <updated>2026-03-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are, in general, two ways in which scientific advancement occurs. There’s the slow, incremental change that represents most scientific advances: where the existing scientific foundation gets built upon in a small but meaningful way. Typically, we perform experiments or observations, acquire new data, better determine key parameters about whatever it is we’re investigating, but in a way that doesn’t invalidate our revolutionize our prior understanding. On the other hand, there are also scientific revolutions: where a new discovery, or sometimes even just a new theoretical framework, blows up our old scientific foundation, and demands that we replace it with an entirely new conception about how some phenomenon in the Universe actually works.
+This latter class of advances — representing…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iran Has Been an Imminent Threat to the U.S. for Forty-Seven Years]]></title>
         <id>https://www.mcsweeneys.net/articles/iran-has-been-an-imminent-threat-to-the-us-for-forty-seven-years</id>
@@ -12644,73 +12655,6 @@ From the first clay tablets to today’s global media systems, the structures th
 This video Yuval Noah Harari: Why advanced societies fall for mass delusion is featured on Big Think.]]></summary>
         <author>
             <name>Yuval Noah Harari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Evie Wozniak, active in Berkeley politics and an aide at City Hall]]></title>
-        <id>https://www.berkeleyside.org/?p=548869</id>
-        <link href="https://www.berkeleyside.org/2025/12/10/evie-wozniak-obituary"/>
-        <updated>2025-12-10T17:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Adventurous, sporty and family-oriented, she served on the Berkeley Waterfront Advisory Board, as an aide to Loni Hancock and on the state’s Boating and Waterways Commission.]]></summary>
-        <author>
-            <name>Gordon Wozniak, Linda Schacht and Loni Hancock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three years after sparking protests, Bar Panisse opens in Berkeley this week]]></title>
-        <id>https://www.berkeleyside.org/?p=548925</id>
-        <link href="https://www.berkeleyside.org/2025/12/10/bar-panisse-alice-waters-opening-cesar"/>
-        <updated>2025-12-10T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Alice Waters project that displaced César in July 2022, to the dismay of many, is ready to debut.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptographers Show That AI Protections Will Always Have Holes]]></title>
-        <id>https://www.quantamagazine.org/?p=157187</id>
-        <link href="https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/"/>
-        <updated>2025-12-10T15:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Large language models such as ChatGPT come with filters to keep certain info from getting out. A new mathematical argument shows that systems like this can never be completely safe.             
-The post Cryptographers Show That AI Protections Will Always Have Holes first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Peter Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why your brain needs everyday rituals]]></title>
-        <id>https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/</id>
-        <link href="https://bigthink.com/smart-skills/why-your-brain-needs-everyday-rituals/"/>
-        <updated>2025-12-10T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A few years ago, during a particularly chaotic period at work, I started making my morning coffee the exact same way every day: same mug, same timing, same two minutes of silence while it brewed.
-It wasn’t intentional; I was just too overwhelmed to think about it. But something interesting happened: Those two minutes became the calmest part of my day. Even when everything else felt out of control, I had this one predictable moment that somehow made the rest manageable.
-I had just experienced the power of rituals completely by accident, and it wasn’t until I left tech to study neuroscience that I understood why that simple coffee routine had been so effective.
-Rituals are some of the most powerful technologies invented by humankind.
-Most people think of rituals as elaborate religious ceremo…]]></summary>
-        <author>
-            <name>Anne-Laure Le Cunff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clipper cards get big upgrade, with cheaper transfers and AC Transit riders able to just tap their credit cards]]></title>
-        <id>https://www.berkeleyside.org/?p=548890</id>
-        <link href="https://www.berkeleyside.org/2025/12/10/next-generation-clipper-ac-transit"/>
-        <updated>2025-12-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next-generation Clipper, or Clipper 2.0, rolls out Tuesday with improved features like discounted transfers, instant fund availability and contactless credit or debit card payments.]]></summary>
-        <author>
-            <name>Azul Dahlstrom-Eckman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The art and science of failing well]]></title>
-        <id>https://bigthink.com/perception-box/the-art-and-science-of-failing-well/</id>
-        <link href="https://bigthink.com/perception-box/the-art-and-science-of-failing-well/"/>
-        <updated>2025-12-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Failure is inevitable, but your response to it is a choice – and it makes all the difference.
-Journalist Tim Harford, PhD, psychologist Tal Ben-Shahar, PhD, and organizational behavior expert Robert Sutton, PhD, reveal how failure can become the foundation of success when it’s examined and built upon. Reframing failure as information, rather than a personal setback, is what sets productive thinkers apart.
-This video The art and science of failing well is featured on Big Think.]]></summary>
-        <author>
-            <name>Tim Harford, Tal Ben-Shahar, Robert Sutton</name>
         </author>
     </entry>
     <entry>
