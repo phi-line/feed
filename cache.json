@@ -1589,6 +1589,24 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?post_type=podcast&p=8371692",
+          "author": "Peter Suderman",
+          "description": "Plus: Kristi Noem is fired as DHS secretary, a listener asks about libertarian drug use, and new polling reveals Americans distrust AI and each other.",
+          "link": "https://reason.com/podcast/2026/03/09/will-the-war-in-iran-crash-the-global-economy/",
+          "publishedOn": "2026-03-09T23:39:59.000Z",
+          "wordCount": null,
+          "title": "Will the War in Iran Crash the Global Economy?",
+          "itunes": {
+            "duration": "1:12:08"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8371692.mp3",
+            "length": "106301435",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8371406",
           "author": "Jacob Sullum",
           "description": "The president himself portrayed Renée Good and Alex Pretti as would-be murderers, and he did not seem troubled by the homeland security secretary's slander of them.",
@@ -3515,6 +3533,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553360",
+          "author": "Momo Chang",
+          "description": "Gus's, The Barbary, The Athletic Club, and Xocolate's Rockridge shop were some of the food businesses to shutter recently.",
+          "link": "https://www.berkeleyside.org/2026/03/09/guss-fried-chicken-barbary-athletic-club-xocolate-close",
+          "publishedOn": "2026-03-09T19:00:00.000Z",
+          "wordCount": 8090,
+          "title": "‘World famous’ fried chicken, a tiki bar, a sports bar, and a chocolate shop all among East Bay’s February closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/04/Guss.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553354",
+          "author": "Alex N. Gecan",
+          "description": "Paramedics tried to revive Lon Turner, 67, of El Cerrito, to no avail. He was pronounced dead at the scene, near the Ohlone Greenway.",
+          "link": "https://www.berkeleyside.org/2026/03/09/ohlone-greenway-northwest-berkeley-man-found-dead",
+          "publishedOn": "2026-03-09T18:48:50.000Z",
+          "wordCount": 7282,
+          "title": "Coroner identifies man found dead in Northwest Berkeley Thursday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7354.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553329",
           "author": "Associated Press",
@@ -7617,16 +7655,6 @@
           "wordCount": null,
           "title": "Sean Shibe: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WgqaxMOKfnI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WgqaxMOKfnI",
-          "publishedOn": "2025-12-10T10:01:03.000Z",
-          "wordCount": null,
-          "title": "Billy Strings: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -7635,6 +7663,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/",
+          "author": "Lucy Handley",
+          "description": "Gretchen Rubin is a genuine multi-hyphenate. She began her career as a clerk in the Supreme Court and switched to writing when she had an idea for a book, Power Money Fame Sex: A User’s Guide, which was published in 2000. Bestselling books on happiness, habit-making and breaking, personality tendencies, decluttering, and the five senses followed. Today, she also dispenses wisdom on her podcast Happier with Gretchen Rubin, on which her sister Elizabeth Craft acts as co-host and guinea pig. Last year, Rubin launched a second podcast, Since You Asked, which she presents with the psychotherapist Lori Gottlieb.   \nBig Think caught up with Rubin for a chat about happiness, habits, and how we can best meet our own expectations — even when we put everyone else first.\nBig Think: What tips do you ha…",
+          "link": "https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/",
+          "publishedOn": "2026-03-09T23:33:50.000Z",
+          "wordCount": 3118,
+          "title": "Gretchen Rubin’s simple secrets for a happier, less cluttered life",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/gretchen-rubin-happiness_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-well/is-pain-productive-or-pointless/",
           "author": "Kate Bowler",
@@ -9804,16 +9842,6 @@
           "wordCount": 2211,
           "title": "The art and science of failing well",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/UC-BB-Failure-Thumb-A.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/gravitational-lensing-solve-hubble-tension/",
-          "author": "Ethan Siegel",
-          "description": "When it comes to the question of the expanding Universe, all observations agree that yes, the Universe is indeed expanding, in agreement with Edwin Hubble’s earliest observations dating all the way back to the 1920s. However, the question of “how fast” the Universe is expanding is one that’s long been controversial, and remains so even today. In fact, there are two main classes of measurement one can make to determine the cosmic expansion rate, and they yield different, incompatible values.\nYou can start with a primordial signature imprinted early on in the hot Big Bang, like the acoustic scale, and evolve it forward in time to explain what you observe today. This “early relic” method yields values for today’s expansion rate of 67 km/s/Mpc.\nOr you can start in the here-and-now and look bac…",
-          "link": "https://bigthink.com/starts-with-a-bang/gravitational-lensing-solve-hubble-tension/",
-          "publishedOn": "2025-12-10T07:00:00.000Z",
-          "wordCount": 4428,
-          "title": "Gravitational lensing is amazing, but won’t solve the Hubble tension",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/lensedQ.jpg?resize=1200,630"
         }
       ]
     },
@@ -10225,6 +10253,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/iran-has-been-an-imminent-threat-to-the-us-for-forty-seven-years",
+          "author": "Cezary Jan Strusiewicz",
+          "description": "“The threats posed by Iran to the United States, while potentially serious, weren’t imminent. So Trump and his officials have redefined ‘imminent’ to include distant, indirect, and theoretical risks. They’ve stretched the word beyond any semblance of its meaning.” — Will Saltan, The Bulwark\n - - -\nListen up here, you jobless paid agitators. The US had to attack Iran because Iran has been an imminent threat to the US for forty-seven years. Some critics will probably say that a forty-seven-year-old threat doesn’t sound so imminent and that I don’t know what the word even means, or have never seen a dictionary, and don’t really understand how language works. To them I say: photosynthesis. Followed by: This is not the time for linguistic nitpicking.\n It’s time for irresolute action amid crysta…",
+          "link": "https://www.mcsweeneys.net/articles/iran-has-been-an-imminent-threat-to-the-us-for-forty-seven-years",
+          "publishedOn": "2026-03-09T23:45:00.000Z",
+          "wordCount": 2537,
+          "title": "Iran Has Been an Imminent Threat to the U.S. for Forty-Seven Years",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/h28eqsgfbdxo2r2t8v1paqno8ixz"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/what-the-thousand-year-blood-reign-means-for-gas-prices",
           "author": "Tom Ellison",
@@ -11032,6 +11070,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111806 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "The SAFE act, introduced by Senators Mike Lee (R-UT) and Dick Durbin (D-IL), is the first of many likely proposals we will see to reauthorize Section 702 of the Foreign Intelligence Surveillance Act (FISA) Amendments Act of 2008—and while imperfect, it does propose a litany of real and much-needed reforms of Big Brother’s favorite surveillance authority. \nThe irresponsible 2024 reauthorization of the secretive mass surveillance authority Section 702 not only gave the government two more years of unconstitutional surveillance powers, it also made the policy much worse. But, now people who value privacy and the rule of law get another bite at the apple. With expiration for Section 702 looming in April 2026, we are starting to see the emergence of proposals for how to reauthorize the surveill…",
+          "link": "https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform",
+          "publishedOn": "2026-03-09T20:27:36.000Z",
+          "wordCount": 2764,
+          "title": "The SAFE Act is an Imperfect Vehicle for Real Section 702 Reform",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/nationalsecurity_banner-2_0.png",
+            "alt": "An NSA employee sits at a screen monitoring international communications",
+            "type": "image/png",
+            "length": "125179"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/nationalsecurity_banner-2_0.png"
+        },
+        {
+          "id": "111805 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "We're celebrating the launch of Privacy's Defender, a new book by EFF Executive Director Cindy Cohn on Thursday, March 12—and we want you to join us! Cindy has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet. In Privacy's Defender she asks: can we still have private conversations if we live our lives online?\nJoin the festivities for a live conversation between Cindy Cohn and Annalee Newitz followed by a book signing with Cindy.\n\nREGISTER TODAY! \n$20 General Admission for 1\n$30 Discounted tickets for 2\n$12.50 Student Ticket\nAll proceeds benefit EFF's mission.\nWant your own copy of Privacy's Defender?\nSave $10 when you preorder the book with your ticket purchase\nWHEN:\nThursday, March 12th, 2026\n6:30…",
+          "link": "https://www.eff.org/deeplinks/2026/03/privacys-defender-launch-party-berkeley",
+          "publishedOn": "2026-03-09T19:29:42.000Z",
+          "wordCount": 2036,
+          "title": "Privacy's Defender: Launch Party in Berkeley",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png",
+            "alt": "Book cover for Privacy&#039;s Defender + Cindy Cohn portrait",
+            "type": "image/png",
+            "length": "421523"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
+        },
+        {
+          "id": "111801 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Join EFF Executive Director Cindy Cohn in conversation with 404 Media Cofounder Jason Koebler to discuss Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, Cindy’s personal story of standing up to the Justice Department, taking on the NSA, and tangling with the FBI to protect our right to digital privacy. The highly anticipated book asks the fundamental question: Can we still have private conversations if we live our lives online? Join the livestream for a live discussion followed by by Q&A.\nEFFecting Change Livestream Series:\nPrivacy's Defender\nThursday, March 19th\n11:00 AM - 12:00 PM Pacific\nThis event is LIVE and FREE!\n\n\n\n\nAccessibility\nThis event will be live-captioned and recorded. EFF is committed to improving accessibility for our events. If you have any accessib…",
+          "link": "https://www.eff.org/deeplinks/2026/03/effecting-change-privacys-defender",
+          "publishedOn": "2026-03-09T17:39:53.000Z",
+          "wordCount": 1656,
+          "title": "EFFecting Change: Privacy's Defender",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effecting_change_banner_defender.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "210815"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effecting_change_banner_defender.png"
+        },
         {
           "id": "111802 at https://www.eff.org",
           "author": "Jason Kelley",
