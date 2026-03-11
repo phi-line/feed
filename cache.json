@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159906",
+          "author": "Charlie Wood",
+          "description": "Pushed down to a certain scale, the laws of physics seem to fall apart. Astrid Eichhorn, a leader in an area of study called asymptotic safety, thinks we just need to push a little further.            \nThe post Where Some See Strings, She Sees a Space-Time Made of Fractals first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+          "publishedOn": "2026-03-11T14:07:28.000Z",
+          "wordCount": 3977,
+          "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Astrid-Eichhorn-cr-Konrad-Gos-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159827",
           "author": "Yasemin Saplakoglu",
           "description": "Every second, hundreds to thousands of molecules move through thousands of nuclear pores in each of your cells. A new high-definition view reveals the machine in action.            \nThe post Disorder Drives One of Nature’s Most Complex Machines first appeared on Quanta Magazine",
@@ -384,13 +394,54 @@
       "title": "Asterisk",
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/13/justified-true-belief",
+          "author": null,
+          "description": "When I decided the theme for this issue, I had one particular article in mind. I've tried to commission it many times over the past six months, but I never did get anyone to bite. In retrospect, I realize that the question I really wanted to ask isn't answerable, at least not in a form that would be interesting to any of you.",
+          "link": "https://asteriskmag.com/issues/13/justified-true-belief",
+          "publishedOn": "2026-01-01T00:00:00.000Z",
+          "wordCount": 1559,
+          "title": "Justified True Belief",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/16d1e25e69-1767867563/asterisk13_cover_web-1600x900-crop-sharpen50.png"
+        }
+      ]
     },
     {
       "title": "404 Media",
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69b18c52f2ce3000012f06f3",
+          "author": "Joseph Cox",
+          "description": "Copilot “can help with routine Senate work, including drafting and editing documents, summarizing information, preparing talking points and briefing material, and conducting research and analysis,” the memo says.",
+          "link": "https://www.404media.co/heres-the-memo-approving-gemini-chatgpt-and-copilot-for-use-in-the-senate/",
+          "publishedOn": "2026-03-11T15:41:16.000Z",
+          "wordCount": 1459,
+          "title": "Here’s the Memo Approving Gemini, ChatGPT, and Copilot for Use in the Senate",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/getty-images-lxr3L7F4k3s-unsplash.jpg"
+        },
+        {
+          "id": "69b0bbd8f2ce3000012ca6ed",
+          "author": "Joseph Cox",
+          "description": "What experts say about AI psychosis, how ProtonMail data helped the FBI identify a protester, and a viral app that exposed incredibly personal data of hundreds of thousands of people.",
+          "link": "https://www.404media.co/podcast-how-to-talk-to-your-friend-experiencing-ai-psychosis/",
+          "publishedOn": "2026-03-11T14:37:19.000Z",
+          "wordCount": 1124,
+          "title": "Podcast: How to Talk to Your Friend Experiencing 'AI Psychosis'",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/aipschosis.png"
+        },
+        {
+          "id": "699f031b3c89150001edebc1",
+          "author": "Evy Kwong",
+          "description": "To better understand what exactly we’re looking at in this dystopian surveillance hellscape, 404 Media’s Jason Koebler and Joseph Cox joined Reddit's r/technology for an Ask Me Anything session.",
+          "link": "https://www.404media.co/flock-ice-surveillance-technology-reddit-ama/",
+          "publishedOn": "2026-03-11T14:27:56.000Z",
+          "wordCount": 4176,
+          "title": "From Flock to ICE, Here’s a Breakdown of How You’re Being Watched",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/Untitled-design--1-.png"
+        },
         {
           "id": "69b08f16f2ce3000012c9e5d",
           "author": "Matthew Gault",
@@ -2449,6 +2500,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/antibody-design",
+          "author": "Asimov Press",
+          "description": "A step-by-step guide to making de novo binders.",
+          "link": "https://www.asimov.press/p/antibody-design",
+          "publishedOn": "2026-03-11T17:07:03.000Z",
+          "wordCount": null,
+          "title": "How to Design Antibodies",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!i3U1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2360a35-0f64-4284-925d-ee55bcd62aad_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!i3U1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2360a35-0f64-4284-925d-ee55bcd62aad_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/viral-capsids",
           "author": "Asimov Press",
           "description": "Viral capsid structure is a geometric packing problem under genetic constraints.",
@@ -3191,16 +3258,6 @@
           "wordCount": 208,
           "title": "Jumping Frog Radius",
           "imageUrl": "https://imgs.xkcd.com/comics/jumping_frog_radius_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3180/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3180/",
-          "publishedOn": "2025-12-12T05:00:00.000Z",
-          "wordCount": 204,
-          "title": "Apples",
-          "imageUrl": "https://imgs.xkcd.com/comics/apples_2x.png"
         }
       ]
     },
@@ -3563,6 +3620,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553446",
+          "author": "Nico Savidge and Natalie Orenstein",
+          "description": "The money from Alameda County’s Measure W will help fund supportive housing at People’s Park and affordable homes on a South Berkeley church’s property.",
+          "link": "https://www.berkeleyside.org/2026/03/11/berkeley-affordable-housing-funding-peoples-park-1708-harmon",
+          "publishedOn": "2026-03-11T13:00:00.000Z",
+          "wordCount": 7726,
+          "title": "Two Berkeley affordable housing projects get $15M from county",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-2.58.17-PM.png?fit=2124%2C1254&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553435",
           "author": "Felicia Mello",
@@ -6392,16 +6459,6 @@
           "wordCount": 8847,
           "title": "Berkeley wants a vibrant San Pablo Avenue. Will more housing deliver it?",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/San-Pablo-Ave_Sara-Martin-5.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549068",
-          "author": "Felicia Mello",
-          "description": "A previous developer backed out in 2023 amid the lengthy legal battle over the site. It’s unclear how many of the building’s 100 units will be supportive housing for formerly homeless people.",
-          "link": "https://www.berkeleyside.org/2025/12/11/peoples-park-supportive-affordable-housing-satellite-affordable-housing-associates",
-          "publishedOn": "2025-12-12T01:00:56.000Z",
-          "wordCount": 8001,
-          "title": "UC Berkeley finds new developer to build affordable and supportive housing at People’s Park",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Peoples-Park-Supportive-Housing-and-Open-Space-1-scaled.jpg"
         }
       ]
     },
@@ -6911,6 +6968,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ywtpXmRwUC8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ywtpXmRwUC8",
+          "publishedOn": "2026-03-11T14:19:12.000Z",
+          "wordCount": 2122,
+          "title": "#DeskOfTheDay: \"Goodbye, Cowboy,\" Belltower",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Mt64jh5hGxM",
           "author": null,
@@ -7648,6 +7715,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mini-philosophy/the-3-types-of-reading-and-the-2-youll-pick/",
+          "author": "Jonny Thomson",
+          "description": "There is a rich and long history to the philosophy of reading. In his Phaedrus, Plato attacked reading as corrupting true philosophical dialectic. Later, in his 1597 book Essays, Francis Bacon wrote that “Reading maketh a full man.” And, in more modern times, Maryanne Wolf has said that the reading brain is under threat from digital culture.\nThat was a fairly generic paragraph to open an article about reading. It’s so generic that you’ve likely skimmed past it. But if you’re one of the 20% who have made it to this point, thank you. Well done.\nMost people who open this article might spend around 50 more seconds on it, even though our website’s AI system estimates that reading it will take at least five minutes. In those 50 seconds, most readers will probably jump to the next section — drawn…",
+          "link": "https://bigthink.com/mini-philosophy/the-3-types-of-reading-and-the-2-youll-pick/",
+          "publishedOn": "2026-03-11T16:15:14.000Z",
+          "wordCount": 2758,
+          "title": "The 3 types of reading (and the 2 you’ll pick)",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/3-reading-types_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/",
           "author": "Ethan Siegel",
@@ -10209,6 +10286,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/next-season-on-david-ellisons-the-pitt",
+          "author": "Bryan Hurt",
+          "description": "“Paramount Skydance appears to have won the bidding war to purchase Warner Bros. Discovery. If the $110.9 billion deal goes through, it will place a vast media kingdom in the hands of Paramount CEO and staunch Trump administration supporter David Ellison, with his father, billionaire Larry Ellison, also likely to play a role. This includes nearly unprecedented access to a variety of news organizations and Hollywood tentpoles.” — The Week\n - - -\nINT. TRAUMA BAY – DAY\n A TODDLER wheezes. Bright red rash. Monitor blares.\n DR. ROBBY: What’ve we got?\n DR. JAVADI: Two-year-old. Fever 104. Persistent cough. Conjunctivitis. Rash started at the hairline this morning and is moving south.\n DR. ROBBY: Mouth?\n DR. JAVADI: Koplik spots. Tiny white spots on buccal mucosa. Classical presentation. It’s mea…",
+          "link": "https://www.mcsweeneys.net/articles/next-season-on-david-ellisons-the-pitt",
+          "publishedOn": "2026-03-11T16:30:00.000Z",
+          "wordCount": 2493,
+          "title": "Next Season on  David Ellison’s  The Pitt",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ofao4985vl5g2gcf9z2cs30yr2uc"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/the-woodland-dystopian-writers-guild",
           "author": "Ali Fitzgerald",
           "description": "The Woodland Dystopian Writers Guild",
@@ -11055,6 +11142,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111816 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "Have you ever seen a really creepy targeted ad online? One that revealed just how much these companies know about your life? It's unsettling enough to see how much companies know about you—but now we have confirmation that the government is also tapping the advertising surveillance machine to get your data. We're explaining the dangers of targeted advertising and location tracking, and the latest in the fight for privacy and free speech online, with our EFFector newsletter.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers a victory for protesters seeking to hold police accountable, a troubling conflict over the Department of Defense's use of AI, and how advertising surveillance enables government surveillance.\nPrefer to listen in? Big news: EFFector is now available on all major podcast platforms! In this episode we chat with EFF Staff Attorney Lena Cohen about how targeted advertising can reveal your location to federal law enforcement. You can find the episode and subscribe in your podcast player of choice: \n\n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F924c6faa-1887-475b-a72c-0be4b6f68ba5%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n\n   \nWant to stay in the fight for privacy and free speech online? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight against online surveillance when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
+          "publishedOn": "2026-03-11T14:50:26.000Z",
+          "wordCount": 792,
+          "title": "Government Spying 🤝 Targeted Advertising | EFFector 38.5",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "111818 at https://www.eff.org",
           "author": "Kit Walsh",
