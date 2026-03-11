@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-11T00:23:28.790Z</updated>
+    <updated>2026-03-11T06:18:37.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA’s next X-ray mission, AXIS, has been killed]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/"/>
+        <updated>2026-03-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever since the final years of the original space race, NASA has been unrivaled as the world leader in space sciences and space exploration. In particular, NASA astrophysics has brought us a wide range of space telescopes that have pushed the frontiers of humanity’s knowledge across the electromagnetic spectrum, from the highest-energy gamma-rays through X-rays, ultraviolet, optical, infrared, and even microwave wavelengths. Whenever we consider building a new observatory, the big thing that scientists focus on is what we call discovery potential, or “how much” ability there is to see beyond the limits of our current instruments and observatories.
+Not all wavelengths have received equal attention, however, and some wavelengths have been woefully neglected in recent years. In particular, the…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How UC Berkeley’s veteran student newspaper covers the campus in turbulent times]]></title>
         <id>https://www.berkeleyside.org/?p=553435</id>
@@ -12766,71 +12777,6 @@ In this moment of uncertainty and rapid technological change, leadership develop
         <summary type="html"><![CDATA[Henry Awayan, owner of Whisk Cake Creations and author of the new "The Ube Baking Book," shares his ube whipped cream recipe and passion for cooking with the purple yam.]]></summary>
         <author>
             <name>Alix Wall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotaxis offer a path toward smarter and fairer urban mobility]]></title>
-        <id>https://bigthink.com/books/robotaxis-urban-mobility/</id>
-        <link href="https://bigthink.com/books/robotaxis-urban-mobility/"/>
-        <updated>2025-12-11T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The transformation of urban mobility through vehicle automation presents two distinct paths: the widespread adoption of privately owned automated vehicles or a transition to robotaxi fleets. While both scenarios promise technological advancement, the robotaxi model offers compelling advantages for urban efficiency, sustainability, and social equity, but only if implemented with careful attention to policy design and public benefit.
-The superiority of the robotaxi model stems from several key factors. First, it promises a more efficient use of urban infrastructure. Where private vehicles typically sit idle 95% of the time, requiring ubiquitous public and private parking infrastructure, robotaxis can serve multiple users sequentially and potentially simultaneously, dramatically reducing park…]]></summary>
-        <author>
-            <name>Bern Grush , John Niles, Andrew Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After mushroom poisonings, California says ‘don’t forage.’ What to know about death caps]]></title>
-        <id>https://www.berkeleyside.org/?p=548948</id>
-        <link href="https://www.berkeleyside.org/2025/12/11/death-caps-california"/>
-        <updated>2025-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Death cap mushrooms, Amanita phalloides, are thriving right now, and 21 people in California have been hospitalized after eating them this season.]]></summary>
-        <author>
-            <name>Sarah Wright | KQED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death Of The Scientist]]></title>
-        <id>https://www.noemamag.com/the-death-of-the-scientist</id>
-        <link href="https://www.noemamag.com/the-death-of-the-scientist"/>
-        <updated>2025-12-11T14:34:11.000Z</updated>
-        <summary type="html"><![CDATA[The post The Death Of The Scientist appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Sara Imari Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we overcomplicate things]]></title>
-        <id>https://bigthink.com/business/why-we-overcomplicate-things/</id>
-        <link href="https://bigthink.com/business/why-we-overcomplicate-things/"/>
-        <updated>2025-12-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in the 1960s, NASA spent millions of dollars designing a zero-gravity pen. The Russians, on the other hand, used a pencil.
-This story — which, I admit, is likely apocryphal — underscores something we see every day across work and life. We pour massive amounts of time and energy into complex solutions for complex problems. Sometimes, the answer is as simple as using a pencil.
-Which begs a bigger question: Why are we all so drawn to complexity in the first place? To explore this, I’d recommend a sharp essay by Carl Hendrick titled, “Why Does Thinking Feel So Hard?”
-Hendrick explains why “smart,” complicated solutions can feel productive, even when they’re not. Sometimes you really do need to invent a zero-gravity pen for a very challenging issue. Other times, a bit of graphite and wood …]]></summary>
-        <author>
-            <name>Eric Markowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The boomer-doomer divide within OpenAI, explained by Karen Hao]]></title>
-        <id>https://bigthink.com/the-future/karen-hao-boomer-doomer-divide-openai/</id>
-        <link href="https://bigthink.com/the-future/karen-hao-boomer-doomer-divide-openai/"/>
-        <updated>2025-12-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the introductory chapter of her book Empire of AI, author Karen Hao explains how Sam Altman’s temporary ouster from OpenAI in November 2023 was the result of an ideological rift that tore the organization’s leadership in half. No one contested OpenAI’s founding goal — to ensure artificial general intelligence (AGI), once developed, would benefit rather than destroy or enslave humanity — but there had been growing disagreement on the best way to reach it. 
-One side, united under Altman, argued that the funds required to create AGI could only be secured if OpenAI transformed from a nonprofit into a for-profit entity, while the other believed the introduction of private capital into the organization would get in the way of AGI serving its intended purpose. Altman’s side won, and the rest i…]]></summary>
-        <author>
-            <name>Tim Brinkhof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Winter choir, Latin dance party, speed dating]]></title>
-        <id>https://www.berkeleyside.org/?p=548989</id>
-        <link href="https://www.berkeleyside.org/2025/12/11/around-berkeley-winter-choir-latin-dance-party-speed-dating"/>
-        <updated>2025-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include holiday street markets across the city, a dance-themed film festival and a celebration of the Bay Area Lesbian Archives.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
         </author>
     </entry>
     <entry>
