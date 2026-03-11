@@ -392,6 +392,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69b08f16f2ce3000012c9e5d",
+          "author": "Matthew Gault",
+          "description": "‘Elon Musk is an aggressive and irresponsible salesman, who has a long history of making dangerous design choices, and over-promising the features of his products.’",
+          "link": "https://www.404media.co/cybertruck-tried-to-drive-straight-off-an-overpass-attorney-claims/",
+          "publishedOn": "2026-03-10T21:40:32.000Z",
+          "wordCount": 1528,
+          "title": "Cybertruck Tried to Drive 'Straight Off an Overpass' Attorney Claims",
+          "imageUrl": "https://www.404media.co/content/images/2026/03/img-45ea79a8-95f4-404a-80a1-325f28fb8039-1.jpg"
+        },
+        {
+          "id": "69b06edbf2ce3000012c960a",
+          "author": "Becky Ferreira",
+          "description": "“I think we often underestimate their capabilities,” said one of the researchers who uncovered  a pre-Inca trade route linking the Amazon rainforest to the Pacific coast.",
+          "link": "https://www.404media.co/scientists-discover-vast-ancient-trade-network-that-rewrites-history-with-parrot-dna/",
+          "publishedOn": "2026-03-10T19:21:45.000Z",
+          "wordCount": 1031,
+          "title": "Scientists Discover Vast Ancient Trade Network That Rewrites History with Parrot DNA",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/image2.jpg"
+        },
+        {
           "id": "69af23ce1e67100001b8c6ea",
           "author": "Emanuel Maiberg",
           "description": "A couple of 20-year-old developers make $500,000 a month promising to help men to stop watching porn, but exposed their private porn watching habits.",
@@ -3554,6 +3574,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=553435",
+          "author": "Felicia Mello",
+          "description": "Ananya Rupanagunta arrived at UC Berkeley wanting to be a doctor. Three years later, she’s leading The Daily Californian through one of its most challenging years ever.",
+          "link": "https://www.berkeleyside.org/2026/03/10/uc-berkeley-student-newspaper-daily-californian-editor-referendum",
+          "publishedOn": "2026-03-10T23:45:20.000Z",
+          "wordCount": 10222,
+          "title": "How UC Berkeley’s veteran student newspaper covers the campus in turbulent times",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/DailyCal_EG_024-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553417",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/10/ga-ra-vietnamese-sheng-kee-marufuku-opening",
+          "publishedOn": "2026-03-10T19:00:00.000Z",
+          "wordCount": 7343,
+          "title": "A new Vietnamese coffee shop lands on Telegraph, and Marufuku expands in the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/vietnamese-coffee-phin.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=553392",
           "author": "Vanessa Arredondo",
           "description": "Non-credentialed employees appear most at risk of losing their job. The school district has until May 15 to send final notices.",
@@ -6432,16 +6472,6 @@
           "wordCount": 8114,
           "title": "Around Berkeley: Winter choir, Latin dance party, speed dating",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/11/Fourthstreetholidaylightson.jpeg?fit=2016%2C1512&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548874",
-          "author": "Emily Rundell",
-          "description": "Humble and selfless, a lover of the outdoors, wordplay and family, he donated a kidney to his brother and served as a court-appointed special advocate.",
-          "link": "https://www.berkeleyside.org/2025/12/11/alan-burkett-obituary",
-          "publishedOn": "2025-12-11T12:00:00.000Z",
-          "wordCount": 7954,
-          "title": "Remembering Alan Burkett, architect who helped get UC Berkeley’s Stanley Hall and East Asian Library built",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Alan-Burkett.png"
         }
       ]
     },
@@ -9867,16 +9897,6 @@
           "wordCount": 3674,
           "title": "The boomer-doomer divide within OpenAI, explained by Karen Hao",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/karen-hao-OpenAI.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/science-absolute-truth/",
-          "author": "Ethan Siegel",
-          "description": "We often talk about searching for truth in the world, and find ourselves at odds with people who seek it differently from how we do. But in many ways, the human endeavor of science is the ultimate pursuit of truth: the truth of our reality as shared by each and every one of us. By asking the natural world and Universe questions about itself, we seek to gain an understanding of:\nwhat the Universe is like,\nwhat the rules that govern it are,\nand how things came to be the way they are today.\nScience is neither a collection of facts nor merely a process, but rather the combination of both. All at once, science is simultaneously the full suite of knowledge that we gain from observing, measuring, and performing experiments that test the Universe, as well as the process through which we perform th…",
-          "link": "https://bigthink.com/starts-with-a-bang/science-absolute-truth/",
-          "publishedOn": "2025-12-11T07:00:00.000Z",
-          "wordCount": 4809,
-          "title": "Does science reveal the absolute truth about reality?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/03/AdobeStock_150772270.jpg?resize=1200,630"
         }
       ]
     },
@@ -11135,6 +11155,48 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111818 at https://www.eff.org",
+          "author": "Kit Walsh",
+          "description": "The government should not help a religious institution to punish or deter members from inquiring about their faith. Yet, once again, the Watch Tower Bible and Tract Society is trying to use flimsy copyright claims to exploit the special legal tools available to copyright owners in order to unmask anonymous online speakers. And, once again, EFF has stepped in to urge the courts not to give Watch Tower’s attempts the force of law, with the help of local counsel Jonathan Phillips of Phillips & Bathke, P.C.\n  EFF’s client, J. Doe, is a member of the Jehovah’s Witnesses who became interested in the history of the organization’s public statements, and how they’ve changed over time. They created research tools to analyze those documents and ultimately created a website, JWS Library, allowing othe…",
+          "link": "https://www.eff.org/deeplinks/2026/03/copyright-bullying-vs-religious-freedom-0",
+          "publishedOn": "2026-03-10T23:06:19.000Z",
+          "wordCount": 1651,
+          "title": "Copyright Bullying vs. Religious Freedom",
+          "imageUrl": "https://www.eff.org/files/issues/fair-use-og-1.png"
+        },
+        {
+          "id": "111810 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "Over the last decade or so, the tech industry has tried, and mostly failed, to make “smart glasses”—tech-infused glasses with cameras, AI, maps, displays, and more—a thing. But over the past year, products like Meta’s Ray-Ban Display Glasses and Oakley’s Meta Glasses have gone from a curious niche to the mainstream. \nBefore you strap a dashcam to your face and sprint out into the world filming everything and everyone in your life, there are some civil liberties and privacy concerns to consider before buying or using a pair.\nMeta is the biggest company that makes these sorts of glasses and their partnerships with Ray-Ban and Oakely are the most popular options, so we’ll be mostly focusing on them here. Others, like models from Snapchat are similar in form but far less ubiquitous. But Meta w…",
+          "link": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans",
+          "publishedOn": "2026-03-10T21:02:41.000Z",
+          "wordCount": 2788,
+          "title": "Think Twice Before Buying or Using Meta’s Ray-Bans",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/metaverse-rights-1200.png",
+            "alt": "rainbow visions emerge from AR and XR user&#039;s headsets",
+            "type": "image/png",
+            "length": "971299"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/metaverse-rights-1200.png"
+        },
+        {
+          "id": "111811 at https://www.eff.org",
+          "author": "Corynne McSherry",
+          "description": "The rapidly escalating conflict between Anthropic and the Pentagon, which started when the company refused to let the government use its technology to spy on Americans, has now gone to court. The Department of Defense retaliated by designating the company a “supply chain risk” (SCR). Now, Anthropic is asking courts to block the designation, arguing that the First Amendment does not permit the government to coerce a private actor to rewrite its code to serve government ends.\nWe agree.\nAs EFF, the Foundation for Individual Rights and Expression, and multiple other public interest organizations explained in a brief filed in support of Anthropic’s motion, the development and operation of large language models involve multiple expressive choices protected by the First Amendment. Requiring a com…",
+          "link": "https://www.eff.org/deeplinks/2026/03/government-must-not-force-companies-participate-ai-powered-surveillance",
+          "publishedOn": "2026-03-10T20:39:18.000Z",
+          "wordCount": 1744,
+          "title": "The Government Must Not Force Companies to Participate in AI-powered Surveillance",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg",
+            "alt": "US flag with spying eyes for stars",
+            "type": "image/jpeg",
+            "length": "98960"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg"
+        },
         {
           "id": "111806 at https://www.eff.org",
           "author": "Matthew Guariglia",
