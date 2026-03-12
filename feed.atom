@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-12T00:22:14.693Z</updated>
+    <updated>2026-03-12T06:19:46.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A quirk of relativity is the closest thing to achieving immortality]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/relativity-physics-immortality/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/relativity-physics-immortality/"/>
+        <updated>2026-03-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From your own experiential perspective, the laws of physics are stacked against you if you ever hope to achieve immortality. From a thermodynamic perspective, every system tends toward increasing entropy-and-disorder, and the only way you can combat that is by constantly inputting an external source of energy. In other words, everything about you, including your body and mind, is destined to eventually break down. Although you might try to leverage the power of relativity to dilate time and slow its passage, that will never work from your individual perspective; time only dilates or slows relative to an observer in a different reference frame from your own. No matter how quickly you move or how deep of a gravitational field you enter, you’ll still experience the passage of time as normal: …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley cuts pepper spray reporting requirements for police]]></title>
         <id>https://www.berkeleyside.org/?p=553553</id>
@@ -216,6 +226,15 @@ The post Where Some See Strings, She Sees a Space-Time Made of Fractals first ap
 Not all wavelengths have received equal attention, however, and some wavelengths have been woefully neglected in recent years. In particular, the…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subduction Retrieval]]></title>
+        <id>https://xkcd.com/3218/</id>
+        <link href="https://xkcd.com/3218/"/>
+        <updated>2026-03-11T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -12825,66 +12844,6 @@ A generous helping of moral turpitude
 Depending on the prevailing panic, the nature of the Fall typically varies between half a dozen usual suspects: nuclear war, alien invasion, a deadly pandemic, technological breakdown, climate collapse, civil war — each often infused…]]></summary>
         <author>
             <name>Frank Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Creative Intuition Of Frank Gehry]]></title>
-        <id>https://www.noemamag.com/the-creative-intuition-of-frank-gehry</id>
-        <link href="https://www.noemamag.com/the-creative-intuition-of-frank-gehry"/>
-        <updated>2025-12-12T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[The post The Creative Intuition Of Frank Gehry appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sean Shibe: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=yNJR6WihGgw</id>
-        <link href="https://www.youtube.com/watch?v=yNJR6WihGgw"/>
-        <updated>2025-12-12T17:05:56.000Z</updated>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laura Truffaut talks about her father, François Truffaut, at BAMPFA film series]]></title>
-        <id>https://www.berkeleyside.org/?p=548489</id>
-        <link href="https://www.berkeleyside.org/2025/12/12/laura-truffaut-talks-about-her-father-francois-truffaut-at-bampfa-film-series"/>
-        <updated>2025-12-12T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The daughter for French filmmaker is a longtime Berkeley resident and will lead discussions during the Jan. 17-Feb. 28 series.]]></summary>
-        <author>
-            <name>Local sponsor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String Theory Inspires a Brilliant, Baffling New Math Proof]]></title>
-        <id>https://www.quantamagazine.org/?p=157237</id>
-        <link href="https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/"/>
-        <updated>2025-12-12T15:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Years ago, an audacious Fields medalist outlined a sweeping program that, he claimed, could be used to resolve a major problem in algebraic geometry. Other mathematicians had their doubts. Now he says he has a proof.            
-The post String Theory Inspires a Brilliant, Baffling New Math Proof first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Joseph Howlett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley wants a vibrant San Pablo Avenue. Will more housing deliver it?]]></title>
-        <id>https://www.berkeleyside.org/?p=549060</id>
-        <link href="https://www.berkeleyside.org/2025/12/12/berkeley-housing-san-pablo-avenue-specific-plan-zoning"/>
-        <updated>2025-12-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[City officials are considering raising height limits and taking other steps to spur housing development on West Berkeley’s main thoroughfare.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vegan Cinnamon Roll Cheesecake]]></title>
-        <id>https://jessicainthekitchen.com/?p=69695</id>
-        <link href="https://jessicainthekitchen.com/cinnamon-roll-cheesecake/"/>
-        <updated>2025-12-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This vegan Cinnamon Roll Cheesecake recipe gives the breakfast favourite a dessert-worthy makeover! With a brown sugar cinnamon swirl and cream cheese frosting, it’s cozy and decadent at the same time. Lately I’ve been playing around with my Vegan Cheesecake recipe. Not playing around with the recipe itself because, not to toot my own horn, […]]]></summary>
-        <author>
-            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>

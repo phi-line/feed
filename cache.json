@@ -371,16 +371,6 @@
           "wordCount": 2959,
           "title": "The Year in Biology",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Biology-cr-Carlos-Arrojo-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=157237",
-          "author": "Joseph Howlett",
-          "description": "Years ago, an audacious Fields medalist outlined a sweeping program that, he claimed, could be used to resolve a major problem in algebraic geometry. Other mathematicians had their doubts. Now he says he has a proof.            \nThe post String Theory Inspires a Brilliant, Baffling New Math Proof first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
-          "publishedOn": "2025-12-12T15:35:34.000Z",
-          "wordCount": 4447,
-          "title": "String Theory Inspires a Brilliant, Baffling New Math Proof",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/QuantumPolynomials-crKristinaArmitage-Social.jpg"
         }
       ]
     },
@@ -2890,6 +2880,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3218/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3218/",
+          "publishedOn": "2026-03-11T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Subduction Retrieval",
+          "imageUrl": "https://imgs.xkcd.com/comics/subduction_retrieval_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3217/",
           "author": null,
           "description": "",
@@ -3602,16 +3602,6 @@
           "wordCount": 1696,
           "title": "Noema’s Top 10 Reads Of 2025",
           "imageUrl": "https://noemamag.imgix.net/2025/12/Card-display-2025.jpg?fm=pjpg&ixlib=php-3.3.1&s=84ea563c3003c361024b5eaeb51fad01"
-        },
-        {
-          "id": "https://www.noemamag.com/the-creative-intuition-of-frank-gehry",
-          "author": "Nathan Gardels",
-          "description": "The post The Creative Intuition Of Frank Gehry appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-creative-intuition-of-frank-gehry",
-          "publishedOn": "2025-12-12T17:22:40.000Z",
-          "wordCount": 5669,
-          "title": "The Creative Intuition Of Frank Gehry",
-          "imageUrl": "https://noemamag.imgix.net/2025/12/Frank-Gehry-V2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=d5d699d0e0279d5e57033444eb420e24"
         }
       ]
     },
@@ -6479,26 +6469,6 @@
           "wordCount": 12272,
           "title": "Trump’s DOJ pressured lawyers to ‘find’ evidence that UCLA and UC Berkeley had illegally tolerated antisemitism",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/AP24123095366624.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548489",
-          "author": "Local sponsor",
-          "description": "The daughter for French filmmaker is a longtime Berkeley resident and will lead discussions during the Jan. 17-Feb. 28 series.",
-          "link": "https://www.berkeleyside.org/2025/12/12/laura-truffaut-talks-about-her-father-francois-truffaut-at-bampfa-film-series",
-          "publishedOn": "2025-12-12T16:30:00.000Z",
-          "wordCount": 7811,
-          "title": "Laura Truffaut talks about her father, François Truffaut, at BAMPFA film series",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Truffaut_Day-for-Night_009-scaled.jpg?fit=2560%2C1536&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549060",
-          "author": "Nico Savidge",
-          "description": "City officials are considering raising height limits and taking other steps to spur housing development on West Berkeley’s main thoroughfare.",
-          "link": "https://www.berkeleyside.org/2025/12/12/berkeley-housing-san-pablo-avenue-specific-plan-zoning",
-          "publishedOn": "2025-12-12T15:00:00.000Z",
-          "wordCount": 8847,
-          "title": "Berkeley wants a vibrant San Pablo Avenue. Will more housing deliver it?",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/San-Pablo-Ave_Sara-Martin-5.jpg"
         }
       ]
     },
@@ -7727,16 +7697,6 @@
           "wordCount": null,
           "title": "Odeal: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yNJR6WihGgw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yNJR6WihGgw",
-          "publishedOn": "2025-12-12T17:05:56.000Z",
-          "wordCount": null,
-          "title": "Sean Shibe: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -7745,6 +7705,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/relativity-physics-immortality/",
+          "author": "Ethan Siegel",
+          "description": "From your own experiential perspective, the laws of physics are stacked against you if you ever hope to achieve immortality. From a thermodynamic perspective, every system tends toward increasing entropy-and-disorder, and the only way you can combat that is by constantly inputting an external source of energy. In other words, everything about you, including your body and mind, is destined to eventually break down. Although you might try to leverage the power of relativity to dilate time and slow its passage, that will never work from your individual perspective; time only dilates or slows relative to an observer in a different reference frame from your own. No matter how quickly you move or how deep of a gravitational field you enter, you’ll still experience the passage of time as normal: …",
+          "link": "https://bigthink.com/starts-with-a-bang/relativity-physics-immortality/",
+          "publishedOn": "2026-03-12T06:00:00.000Z",
+          "wordCount": 4953,
+          "title": "A quirk of relativity is the closest thing to achieving immortality",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/12/AdobeStock_173668487.jpeg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/the-3-types-of-reading-and-the-2-youll-pick/",
           "author": "Jonny Thomson",
@@ -10281,16 +10251,6 @@
           "wordCount": 5725,
           "title": "Coffee Cake Recipe",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/11/Vegan-Coffee-Cake-17.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=69695",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "This vegan Cinnamon Roll Cheesecake recipe gives the breakfast favourite a dessert-worthy makeover! With a brown sugar cinnamon swirl and cream cheese frosting, it’s cozy and decadent at the same time. Lately I’ve been playing around with my Vegan Cheesecake recipe. Not playing around with the recipe itself because, not to toot my own horn, […]",
-          "link": "https://jessicainthekitchen.com/cinnamon-roll-cheesecake/",
-          "publishedOn": "2025-12-12T15:00:00.000Z",
-          "wordCount": 7843,
-          "title": "Vegan Cinnamon Roll Cheesecake",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/07/Vegan-Cinnamon-Roll-Cheesecake-19.jpg"
         }
       ]
     },
