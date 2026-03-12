@@ -403,6 +403,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69b2f2def2ce300001319030",
+          "author": "Joseph Cox",
+          "description": "The hours of videos provide fascinating, or perhaps horrifying, insight into the thinking of someone inside DOGE.",
+          "link": "https://www.404media.co/i-watched-6-hours-of-doge-bro-testimony-heres-what-they-had-to-say-for-themselves/",
+          "publishedOn": "2026-03-12T17:25:13.000Z",
+          "wordCount": 2064,
+          "title": "I Watched 6 Hours of DOGE Bro Testimony. Here's What They Had to Say For Themselves",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/justin-fox-1.png"
+        },
+        {
+          "id": "69b2d3e4f2ce3000012f3c51",
+          "author": "Jason Koebler",
+          "description": "Kenyan workers are still the underpaid labor behind AI training, moderation, and sex chatbots. The Data Labelers Association is fighting back.",
+          "link": "https://www.404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back/",
+          "publishedOn": "2026-03-12T15:08:06.000Z",
+          "wordCount": 1769,
+          "title": "'AI Is African Intelligence': The Workers Who Train AI Are Fighting Back",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/1770456325499.jpeg"
+        },
+        {
           "id": "69b18c52f2ce3000012f06f3",
           "author": "Joseph Cox",
           "description": "Copilot “can help with routine Senate work, including drafting and editing documents, summarizing information, preparing talking points and briefing material, and conducting research and analysis,” the memo says.",
@@ -1649,6 +1669,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8372004",
+          "author": "Alexandra Stinson",
+          "description": "Federal officers at Camp East Montana have beaten people for requesting medicine and even placed bets on which detainee would attempt suicide next.",
+          "link": "https://reason.com/2026/03/12/dhs-is-upgrading-a-detention-facility-rife-with-abuse-claims-it-should-close-it-instead/",
+          "publishedOn": "2026-03-12T13:45:45.000Z",
+          "wordCount": null,
+          "title": "DHS Is 'Upgrading' a Detention Facility Rife With Abuse Claims. It Should Close It Instead.",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?post_type=podcast&p=8371692",
           "author": "Peter Suderman",
@@ -3610,6 +3641,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553563",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include the Berkeley Poetry Festival, a free measles vaccine clinic and the launch of a community cycling initiative.",
+          "link": "https://www.berkeleyside.org/2026/03/12/things-happening-in-berkeley-california-march-2026",
+          "publishedOn": "2026-03-12T16:00:00.000Z",
+          "wordCount": 8125,
+          "title": "Around Berkeley: Birding talk, LGBTQIA+ book club, sunset hike",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/AcornWoodpecker_BobLewis.webp?fit=800%2C533&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553406",
+          "author": "Local sponsor",
+          "description": "The Tony Award-winning tragedy opens March 21.",
+          "link": "https://www.berkeleyside.org/2026/03/12/the-goat-or-who-is-sylvia-kicks-off-shotgun-players-34th-season",
+          "publishedOn": "2026-03-12T15:30:00.000Z",
+          "wordCount": 7227,
+          "title": "“The Goat or, Who is Sylvia” kicks off Shotgun Players’ 34th season",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/The_Goat_2026_0720-2-1-1.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553510",
+          "author": "Vanessa Arredondo",
+          "description": "The Berkeley Federation of Teachers said the new 2-year agreement pushes BUSD as far as it can go on pay and benefits without causing a “fiscal emergency.” The school board is expected to review and sign off later in March.",
+          "link": "https://www.berkeleyside.org/2026/03/12/berkeley-teachers-union-approved-new-contract-raising-salaries",
+          "publishedOn": "2026-03-12T13:00:00.000Z",
+          "wordCount": 7893,
+          "title": "Berkeley teachers approve contract giving 3% yearly raise",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Berkeley-Teacher-s-Rally-05.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553553",
           "author": "Alex N. Gecan",
@@ -6753,16 +6814,6 @@
           "wordCount": 4877,
           "title": "Cheesy heaven: Meera Sodha’s recipe for pumpkin fondue | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/0ebaf8f0201a8880ccf28efe7fbad8af017013f0/31_1425_3373_2699/master/3373.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d6c470b0d03023d5bee7c08e4948de"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/dec/13/christmas-ricotta-semifreddo-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Hobnobs, ricotta, chocolate and amaretto – what’s not to like?\nI believe in divine communion, especially when it comes to food; an alliance of ingredients that come together as though they were meant to feed spirit and body. It might be too lofty to say that this semifreddo is divine, but the combination of Hobnobs, ricotta, chocolate and amaretto really does it for me. That said, there are many alliances that can be formed in the Christmas store-cupboard, so use this as a base for any biscuits, dried fruit and chocolate to which you feel most spiritually aligned.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/dec/13/christmas-ricotta-semifreddo-recipe-meera-sodha",
-          "publishedOn": "2025-12-13T06:00:31.000Z",
-          "wordCount": 4527,
-          "title": "Meera Sodha’s recipe for Christmas ricotta semifreddo | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/063e64e655e1c98ef8beac1f04a9e0140d54e0a8/366_1426_3343_2675/master/3343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69f74f640fbeea7c03bd33314d63c509"
         }
       ]
     },
@@ -6928,6 +6979,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/nDIIFVQQSAg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/nDIIFVQQSAg",
+          "publishedOn": "2026-03-12T13:57:36.000Z",
+          "wordCount": 2018,
+          "title": "#DeskOfTheDay: \"Phoebe,\" Elora",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-VwcJdXJoxs",
           "author": null,
@@ -7675,6 +7736,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/no-friend-of-this-house-a-novel/",
+          "author": "Natalie Haynes",
+          "description": "This is what no one tells you, in the songs sung about Jason and the Argo. When he spoke like this — so proper and persuasive — his voice was filled with laughter. The amusement was never unkind, it always seemed generous. So the idea that my nephews — scarcely more than children — might be capable of protecting me was not risible, exactly, but somehow enjoyable to him. The way he bestowed his affection was almost regal, as though he were the princess and I were the adventurer. And every word felt like a gift, even as he acknowledged his promises to me.\nI didn’t know this at the time, of course. I just thought it was one of those vocal mannerisms that foreigners sometimes have. It was only later, when I had seen him under different circumstances, that I knew he found delight in these momen…",
+          "link": "https://bigthink.com/books/no-friend-of-this-house-a-novel/",
+          "publishedOn": "2026-03-12T14:30:00.000Z",
+          "wordCount": 2889,
+          "title": "No Friend of This House: A novel by Natalie Haynes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/no-friend-to-this-house_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/relativity-physics-immortality/",
           "author": "Ethan Siegel",
@@ -10225,6 +10296,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/party-games-for-fifty-somethings",
+          "author": "Adam Peltzman",
+          "description": "Musical Ergonomic Chairs\n Players walk around a group of mesh-backed task chairs with lumbar support. When the music stops, each player sits and tells the person to their left where they’re experiencing joint discomfort. The player who doesn’t get a chair goes to the nearest CVS to buy topical analgesic creams as party favors.\n Hot Air-Fried Potato \n Players preheat a basket-style air fryer to 385 degrees and add some chopped, seasoned Yukon gold potatoes. The air fryer is passed around for ten minutes, shaking once halfway through. Objective: just to be air frying with good friends and talking about air frying.\n Your Overindulged Son Simon Says \n Your twelve-year-old son Simon—if he’s available and feels like it—sits in the center of the room and makes demands. Players try to say no in a …",
+          "link": "https://www.mcsweeneys.net/articles/party-games-for-fifty-somethings",
+          "publishedOn": "2026-03-12T17:00:00.000Z",
+          "wordCount": 2388,
+          "title": "Party Games for  Fifty-Somethings",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r0p0zg4lm4pgsd2whf9j2lveigy0"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-couple-tries-to-get-a-mortgage-approval-in-an-equal-parts-plausible-dystopian-and-not-so-distant-future",
           "author": "Jason Wilt",
