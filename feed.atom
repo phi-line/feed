@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-11T18:19:42.437Z</updated>
+    <updated>2026-03-12T00:22:14.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley cuts pepper spray reporting requirements for police]]></title>
+        <id>https://www.berkeleyside.org/?p=553553</id>
+        <link href="https://www.berkeleyside.org/2026/03/11/berkeley-pepper-spray-use-reports"/>
+        <updated>2026-03-11T23:53:10.000Z</updated>
+        <summary type="html"><![CDATA[The City Council vote, rescinding a nearly three-decade-old directive, comes amidst broader changes to BPD’s access to surveillance technology and other hardware.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite This Terrible War, We Must Never Lose Sight of the Value of Each and Every Precious Shipping Container]]></title>
+        <id>https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container</id>
+        <link href="https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container"/>
+        <updated>2026-03-11T23:31:00.000Z</updated>
+        <summary type="html"><![CDATA[“Three cargo vessels have been hit by ‘unknown projectiles’ in the Strait of Hormuz, maritime authorities say, as pressure intensifies on one of the world’s most important shipping lanes. Traffic through the strait, a vital corridor for oil, has fallen sharply since Israel and the US attacked Iran in late February.” — BBC
+ - - -
+As the United States unleashes the destructive force of our incredible military power on our longtime enemy (and anyone else who happens to be around), we must remain mindful that Iran is not some abstract boogeyman. Iran is a real place. It is full of real people. And those people and that place are adjacent to a narrow seaway that is vital to international trade. And that seaway is full of real, beautiful, complex, fragile shipping containers.
+ In the fog of war,…]]></summary>
+        <author>
+            <name>Talia Argondezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Certbot and Let's Encrypt Now Support IP Address Certificates]]></title>
+        <id>111820 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates"/>
+        <updated>2026-03-11T22:32:56.000Z</updated>
+        <summary type="html"><![CDATA[(Note: This post is also cross-posted on the Let's Encrypt blog)
+As announced earlier this year, Let's Encrypt now issues IP address and six-day certificates to the general public. The Certbot team here at the Electronic Frontier Foundation has been working on two improvements to support these features: the --preferred-profile flag released last year in Certbot 4.0, and the --ip-address flag, new in Certbot 5.3. With these improvements together, you can now use Certbot to get those IP address certificates!
+If you want to try getting an IP address certificate using Certbot, install version 5.4 or higher (for webroot support with IP addresses), and run this command:
+sudo certbot certonly --staging \
+  --preferred-profile shortlived \
+  --webroot \
+  --webroot-path <filesystem path to webserv…]]></summary>
+        <author>
+            <name>Jacob Hoffman-Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘First lady’ of Iranian film to speak in Berkeley during BAMPFA series]]></title>
+        <id>https://www.berkeleyside.org/?p=553531</id>
+        <link href="https://www.berkeleyside.org/2026/03/11/berkeley-events-movies-bampfa-iranian-film"/>
+        <updated>2026-03-11T21:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Berkeley Art Museum and Pacific Film Archive is hosting a two-month series of Iranian films, offering a layered look at life in the country with a focus on the stories of women.]]></summary>
+        <author>
+            <name>Pendarvis Harshaw | KQED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13K immigrant truck drivers lose California licenses]]></title>
+        <id>https://oaklandside.org/?p=470532</id>
+        <link href="https://www.berkeleyside.org/2026/03/11/immigrant-truck-drivers-lose-california-commercial-licenses-trump"/>
+        <updated>2026-03-11T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The DMV’s decision follows a new federal rule that limits immigrants’ license eligibility to a much narrower set of legal statuses.]]></summary>
+        <author>
+            <name>Jose Fermoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Berkeley’s new restaurant devoted to the art of masa]]></title>
+        <id>https://www.berkeleyside.org/?p=553436</id>
+        <link href="https://www.berkeleyside.org/2026/03/11/cafe-bolita-masa-emmanuel-galvan"/>
+        <updated>2026-03-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Emmanuel Galvan's mission to spread masa and other traditionally made Mexican foods has grown from a pop-up into its first permanent home, Café Bolita, taking over the former Standard Fare space.]]></summary>
+        <author>
+            <name>Madeline Taub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Design Antibodies]]></title>
         <id>https://www.asimov.press/p/antibody-design</id>
@@ -12816,27 +12885,6 @@ The post String Theory Inspires a Brilliant, Baffling New Math Proof first appea
         <summary type="html"><![CDATA[This vegan Cinnamon Roll Cheesecake recipe gives the breakfast favourite a dessert-worthy makeover! With a brown sugar cinnamon swirl and cream cheese frosting, it’s cozy and decadent at the same time. Lately I’ve been playing around with my Vegan Cheesecake recipe. Not playing around with the recipe itself because, not to toot my own horn, […]]]></summary>
         <author>
             <name>Jessica from Jessica in the Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meat-free under the mistletoe – recipes]]></title>
-        <id>https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes</id>
-        <link href="https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes"/>
-        <updated>2025-12-12T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Not a fan of the traditional festive spread? These recipes are a Christmas feast that even turkeys would vote for
- Continue reading...]]></summary>
-        <author>
-            <name>Ravinder Bhogal, Meera Sodha, Anna Jones, Georgina Hayden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Ethan: How do LLMs/chatbots impact students and cheating?]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/"/>
-        <updated>2025-12-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As artificial intelligence has become a mainstream and ubiquitous tool for hundreds of millions or even billions of people around the world — specifically, through chatbots and large language models (LLMs) like Claude, Gemini, ChatGPT, Llama, and many others — it’s both enabled new pathways for problem solving and also led to new pitfalls for students, early career professionals, and non-experts seeking to mimic the illusion of expertise. While many who create, sell, or promote LLMs laud their use cases, a significant worry has arisen among students, teachers, professors, and education researchers: that students are not using these artificial tools to enhance their learning, but rather to replace it, outsourcing the hard and rewarding work of critical thought to these LLMs simply by prompt…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

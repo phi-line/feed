@@ -3621,6 +3621,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=553553",
+          "author": "Alex N. Gecan",
+          "description": "The City Council vote, rescinding a nearly three-decade-old directive, comes amidst broader changes to BPD’s access to surveillance technology and other hardware.",
+          "link": "https://www.berkeleyside.org/2026/03/11/berkeley-pepper-spray-use-reports",
+          "publishedOn": "2026-03-11T23:53:10.000Z",
+          "wordCount": 7766,
+          "title": "Berkeley cuts pepper spray reporting requirements for police",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/09/BI6A0374.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553531",
+          "author": "Pendarvis Harshaw | KQED",
+          "description": "Berkeley Art Museum and Pacific Film Archive is hosting a two-month series of Iranian films, offering a layered look at life in the country with a focus on the stories of women.",
+          "link": "https://www.berkeleyside.org/2026/03/11/berkeley-events-movies-bampfa-iranian-film",
+          "publishedOn": "2026-03-11T21:48:11.000Z",
+          "wordCount": 7446,
+          "title": "‘First lady’ of Iranian film to speak in Berkeley during BAMPFA series",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Gilaneh.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=470532",
+          "author": "Jose Fermoso",
+          "description": "The DMV’s decision follows a new federal rule that limits immigrants’ license eligibility to a much narrower set of legal statuses.",
+          "link": "https://www.berkeleyside.org/2026/03/11/immigrant-truck-drivers-lose-california-commercial-licenses-trump",
+          "publishedOn": "2026-03-11T20:00:00.000Z",
+          "wordCount": 7840,
+          "title": "13K immigrant truck drivers lose California licenses",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/880_Trucks_20210319_9366-scaled-1.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553436",
+          "author": "Madeline Taub",
+          "description": "Emmanuel Galvan's mission to spread masa and other traditionally made Mexican foods has grown from a pop-up into its first permanent home, Café Bolita, taking over the former Standard Fare space.",
+          "link": "https://www.berkeleyside.org/2026/03/11/cafe-bolita-masa-emmanuel-galvan",
+          "publishedOn": "2026-03-11T19:00:00.000Z",
+          "wordCount": 8829,
+          "title": "Inside Berkeley’s new restaurant devoted to the art of masa",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-Natera_Nosh_CafeBolita_260305_001.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=553446",
           "author": "Nico Savidge and Natalie Orenstein",
           "description": "The money from Alameda County’s Measure W will help fund supportive housing at People’s Park and affordable homes on a South Berkeley church’s property.",
@@ -6793,16 +6833,6 @@
           "wordCount": 4527,
           "title": "Meera Sodha’s recipe for Christmas ricotta semifreddo | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/063e64e655e1c98ef8beac1f04a9e0140d54e0a8/366_1426_3343_2675/master/3343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69f74f640fbeea7c03bd33314d63c509"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes",
-          "author": "Ravinder Bhogal, Meera Sodha, Anna Jones, Georgina Hayden",
-          "description": "Not a fan of the traditional festive spread? These recipes are a Christmas feast that even turkeys would vote for\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/dec/12/meat-free-under-the-mistletoe-recipes",
-          "publishedOn": "2025-12-12T12:00:04.000Z",
-          "wordCount": 4208,
-          "title": "Meat-free under the mistletoe – recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/9acd614add6bfd4186efb8354bd62bcd8ffda30c/630_0_4654_3723/master/4654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f05c2f9809c29316798bb6e81ec0db73"
         }
       ]
     },
@@ -9854,16 +9884,6 @@
           "wordCount": 3424,
           "title": "America’s post-apocalyptic maps reveal eerily familiar fault lines",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/11/Cropped-divided-states.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/",
-          "author": "Ethan Siegel",
-          "description": "As artificial intelligence has become a mainstream and ubiquitous tool for hundreds of millions or even billions of people around the world — specifically, through chatbots and large language models (LLMs) like Claude, Gemini, ChatGPT, Llama, and many others — it’s both enabled new pathways for problem solving and also led to new pitfalls for students, early career professionals, and non-experts seeking to mimic the illusion of expertise. While many who create, sell, or promote LLMs laud their use cases, a significant worry has arisen among students, teachers, professors, and education researchers: that students are not using these artificial tools to enhance their learning, but rather to replace it, outsourcing the hard and rewarding work of critical thought to these LLMs simply by prompt…",
-          "link": "https://bigthink.com/starts-with-a-bang/how-llms-chatbots-students/",
-          "publishedOn": "2025-12-12T07:00:00.000Z",
-          "wordCount": 4539,
-          "title": "Ask Ethan: How do LLMs/chatbots impact students and cheating?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/hpc-dc.jpg?resize=1200,630"
         }
       ]
     },
@@ -10285,6 +10305,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container",
+          "author": "Talia Argondezzi",
+          "description": "“Three cargo vessels have been hit by ‘unknown projectiles’ in the Strait of Hormuz, maritime authorities say, as pressure intensifies on one of the world’s most important shipping lanes. Traffic through the strait, a vital corridor for oil, has fallen sharply since Israel and the US attacked Iran in late February.” — BBC\n - - -\nAs the United States unleashes the destructive force of our incredible military power on our longtime enemy (and anyone else who happens to be around), we must remain mindful that Iran is not some abstract boogeyman. Iran is a real place. It is full of real people. And those people and that place are adjacent to a narrow seaway that is vital to international trade. And that seaway is full of real, beautiful, complex, fragile shipping containers.\n In the fog of war,…",
+          "link": "https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container",
+          "publishedOn": "2026-03-11T23:31:00.000Z",
+          "wordCount": 2346,
+          "title": "Despite This Terrible War, We Must Never Lose Sight of the Value of Each and Every Precious Shipping Container",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nmym35htyuel8fiwmhn4707ikpmu"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/next-season-on-david-ellisons-the-pitt",
           "author": "Bryan Hurt",
@@ -11142,6 +11172,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111820 at https://www.eff.org",
+          "author": "Jacob Hoffman-Andrews",
+          "description": "(Note: This post is also cross-posted on the Let's Encrypt blog)\nAs announced earlier this year, Let's Encrypt now issues IP address and six-day certificates to the general public. The Certbot team here at the Electronic Frontier Foundation has been working on two improvements to support these features: the --preferred-profile flag released last year in Certbot 4.0, and the --ip-address flag, new in Certbot 5.3. With these improvements together, you can now use Certbot to get those IP address certificates!\nIf you want to try getting an IP address certificate using Certbot, install version 5.4 or higher (for webroot support with IP addresses), and run this command:\nsudo certbot certonly --staging \\\n  --preferred-profile shortlived \\\n  --webroot \\\n  --webroot-path <filesystem path to webserv…",
+          "link": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates",
+          "publishedOn": "2026-03-11T22:32:56.000Z",
+          "wordCount": 1696,
+          "title": "Certbot and Let's Encrypt Now Support IP Address Certificates",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/certbot-logo-type-1.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "11673"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/certbot-logo-type-1.png"
+        },
         {
           "id": "111816 at https://www.eff.org",
           "author": "Christian Romero",
