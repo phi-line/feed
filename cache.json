@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=159948",
+          "author": "John Pavlus",
+          "description": "The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.            \nThe post Why Do Humanoid Robots Still Struggle With the Small Stuff? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/",
+          "publishedOn": "2026-03-13T14:37:02.000Z",
+          "wordCount": 3946,
+          "title": "Why Do Humanoid Robots Still Struggle With the Small Stuff?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Qualia-AI-and-Robots-cr-Henry-Flores-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=159906",
           "author": "Charlie Wood",
           "description": "Pushed down to a certain scale, the laws of physics seem to fall apart. Astrid Eichhorn, a leader in an area of study called asymptotic safety, thinks we just need to push a little further.            \nThe post Where Some See Strings, She Sees a Space-Time Made of Fractals first appeared on Quanta Magazine",
@@ -402,6 +412,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69b3fa6ef2ce3000013212d7",
+          "author": "Joseph Cox",
+          "description": "This week, we discuss traveling for reporting and watching way too much DOGE testimony.",
+          "link": "https://www.404media.co/behind-the-blog-doge-bros-and-data-labelers/",
+          "publishedOn": "2026-03-13T16:56:57.000Z",
+          "wordCount": 1109,
+          "title": "Behind the Blog: DOGE Bros and Data Labelers",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/nl3.13.png"
+        },
+        {
+          "id": "69b404cbf2ce300001321586",
+          "author": "Matthew Gault",
+          "description": "The data drops as Sen. Bernie Sanders calls for a moratorium on datacenter construction. 'We need to take a deep breath. We need to make sure that AI and robotics work for all of us, not just a handful of billionaires.'",
+          "link": "https://www.404media.co/people-hate-datacenters-survey-finds/",
+          "publishedOn": "2026-03-13T12:40:01.000Z",
+          "wordCount": 1662,
+          "title": "People Hate Datacenters, Survey Finds",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/1920px-Google_Data_Center-_The_Dalles-1.jpg"
+        },
         {
           "id": "69b2f2def2ce300001319030",
           "author": "Joseph Cox",
@@ -2521,6 +2551,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/phi80",
+          "author": "Malmesbury",
+          "description": "While some bacteriophages play vital roles in laboratory research, others are bent on sabotage.",
+          "link": "https://www.asimov.press/p/phi80",
+          "publishedOn": "2026-03-13T15:42:01.000Z",
+          "wordCount": null,
+          "title": "How Φ80 Infiltrates Research Labs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!BcfC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c67403-4c84-4bbe-8a3f-7519e68c9e53_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!BcfC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1c67403-4c84-4bbe-8a3f-7519e68c9e53_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/antibody-design",
           "author": "Asimov Press",
           "description": "A step-by-step guide to making de novo binders.",
@@ -3641,6 +3687,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553602",
+          "author": "Nico Savidge",
+          "description": "The state “daylighting” law aims to improve street safety by barring people from parking too close to intersections, which can block other drivers’ view.",
+          "link": "https://www.berkeleyside.org/2026/03/13/berkeley-daylighting-law-implementation-parking-safety",
+          "publishedOn": "2026-03-13T18:06:43.000Z",
+          "wordCount": 7611,
+          "title": "With thousands of freshly painted red curbs, Berkeley implements law that bans parking next to intersections",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/IMG_1595-scaled.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549270",
+          "author": "Cecilia Nowell",
+          "description": "Sauna Aid, a charity supported by many Bay Area saunas, has funded retreats for combat medics, led workshops for refugees and transported saunas to the frontlines in Kharkiv.",
+          "link": "https://www.berkeleyside.org/2026/03/13/sauna-aid-mikkel-aaland",
+          "publishedOn": "2026-03-13T14:36:56.000Z",
+          "wordCount": 8174,
+          "title": "Ukrainian soldiers are relaxing in saunas set up by a former Berkeley resident",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/CM1A0455-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553582",
           "author": "Berkeleyside Staff",
@@ -6669,6 +6735,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=95604",
+          "author": "deb",
+          "description": "Paris* last week — no, I cannot believe I get to utter sentences like that so casually, either, pinch me — and it was really, truly, and surprisingly spring. The magnolia trees at the Jardin du Palais Royal supplied us with a lace curtain of fluttering pink shadows, the daffodils and hyacinth were popping up from the ground like they’d missed us, and everyone was outside and stayed out until after midnight and this energy climbed inside me, evicted all of the seasonal malaise (turned out I was just cold!), and I did my best to bring all of this warmth and joy back to NYC with me. And despite the fact that my grouchy (sorry, “weathered”) friends tried to warn me that we were experiencing a “false spring” and “don’t fall for it,” la la la, I said, it is spring in my heart now — and in my kitchen, and busted out a warm weather salad. Which is to say: I’m sorry, this sudden cold spell might be my fault.\nRead more »",
+          "link": "https://smittenkitchen.com/2026/03/black-bean-confetti-salad-2-0/",
+          "publishedOn": "2026-03-13T12:38:18.000Z",
+          "wordCount": 5240,
+          "title": "black bean confetti salad 2.0",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/03/black-bean-confetti-salad-v.2-7-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=95453",
           "author": "deb",
           "description": "twenty years since I first told you about my family’s favorite coffee cake. It’s tall, plush, crisp with a flaky layer of cinnamon sugar on top, studded with a quilt of chocolate chips and is downright, well, adorable when cut into cubes because they’re a little wobbly. When one tumbles, it shakes off a little pfft of cinnamon sugar, like a pup coming in from today’s blizzard. It’s perfect. It needs no changes or updates.\nRead more »",
@@ -6999,6 +7075,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/8fu5fGj1Xtc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8fu5fGj1Xtc",
+          "publishedOn": "2026-03-13T14:32:55.000Z",
+          "wordCount": 2120,
+          "title": "#DeskOfTheDay: \"Dan Vi-Çila,\" Jermaine from the South",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=N8aJXgIq2QM",
           "author": null,
@@ -7767,6 +7853,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/books/the-moys-of-new-york-and-shanghai/",
+          "author": "Charlotte Brooks",
+          "description": "Kay woke before dawn to the sound of rain rattling the windows. She rose, washed her face, and was just getting dressed when she heard a gentle rap on the apartment door. Han Ying had invited a matronly friend — selected because of her happy marriage and large family — to comb Kay’s hair from girlhood braids into a married woman’s bun. It was the first ritual of Kay’s wedding day, November 21, 1910.\nEarlier that year, Moy Sing and Han Ying had decided to find their oldest daughter a husband. They waited until Kay turned seventeen but saw no reason for further delay. After all, Kay was already three years older than Han Ying had been at the time of her own marriage. So Moy Sing asked local merchant Lee Weenom, an amateur matchmaker, to find Kay a suitable mate. The task was formidable, but …",
+          "link": "https://bigthink.com/books/the-moys-of-new-york-and-shanghai/",
+          "publishedOn": "2026-03-13T14:30:00.000Z",
+          "wordCount": 3888,
+          "title": "The Moys of New York and Shanghai: A new generational history",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/moys-of-ny-and-shanghai_excerpt.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/how-dark-will-universe-become/",
           "author": "Ethan Siegel",
           "description": "When it comes to the Universe and everything in it, only one thing is absolutely certain: everything that’s now living will someday die. This doesn’t just extend to living beings, but to all sources that use some sort of fuel and emit energy: eventually, as demanded by the laws of thermodynamics, all of that energy-liberating activity will cease. Stars will go dark, stellar remnants will fade away, and even black holes will evaporate. In the far future, our Universe will become something that’s virtually unrecognizable to us today, as our bright, star-and-galaxy-rich cosmos will transform into a sparse, dark landscape from which precious few signals could ever be detected.\nBut there’s a whole lot that’s going to happen before we reach that funerary late-stage state. Given what we know toda…",
@@ -7775,6 +7871,16 @@
           "wordCount": 5201,
           "title": "Ask Ethan: How dark will the Universe become?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/01/M81M82-and_other_galaxies-e1773349953566.jpg?resize=1140,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/eric-cline-bronze-age/",
+          "author": "Eric Cline",
+          "description": "Around 1200 BC, the most sophisticated network of civilizations the ancient world had ever produced, spanning Egypt, Greece, Anatolia, Mesopotamia, and beyond, came apart within a single generation. \nHistorian Eric Cline argues this collapse wasn’t the work of one invading force or one bad harvest, but something far harder to stop: An overly interdependent system that had no way to absorb multiple shocks at once.\nThis video The late Bronze Age was the last time our world was this connected is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/eric-cline-bronze-age/",
+          "publishedOn": "2026-03-13T04:00:00.000Z",
+          "wordCount": 32789,
+          "title": "The late Bronze Age was the last time our world was this connected",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/slack-imgs.webp?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/books/no-friend-of-this-house-a-novel/",
@@ -9924,6 +10030,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73341",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "A London fog latte is easy to make at home and this recipe will show you how! Skip the coffeehouse and brew your own creamy, aromatic, lightly sweetened Earl Grey tea latte with simple vegan ingredients. Spiced chai (and its cousin, the dirty chai latte) is pure cozy comfort. London fog lattes are also comforting, […]",
+          "link": "https://jessicainthekitchen.com/london-fog-recipe/",
+          "publishedOn": "2026-03-13T14:00:00.000Z",
+          "wordCount": 8789,
+          "title": "London Fog Latte Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/Vegan-London-Fog-12.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73050",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "This homemade vegan tater tot recipe is crispy on the outside, fluffy on the inside, and the flavour is far better than store-bought. These are SO worth it! Most store-bought tater tots are vegan, but are they delicious? Well. I’d say that they’re more about texture than flavour, but with this homemade tater tot recipe, […]",
@@ -10326,6 +10442,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-little-bunny-from-goodnight-moon-accepts-an-award",
+          "author": "DC Pierson",
+          "description": "First of all, I must thank the comb. And the brush! And my God, the bowl full of mush! My warriors. My champions. This award will be next to you on the bedside table VERY soon.\n And thanks to the Great Green Room for giving our little ensemble a place to work, to play, to be.\n To my fellow nominees, I wish I could go back and tell myself, as an even littler bunny, that someday I’d be in the same category as Madeline from Madeline and Poop from Everybody Poops.\n Speaking of legends, when I told the quiet old lady whispering “hush” what an honor it was to work with her, guess what she whispered? Yeah. Now, THAT’S humility.\n And the picture of the cow jumping over the moon: You ARE art. Literally.\n Now, there were rumors about the young mouse and me not getting along, so let’s put those to re…",
+          "link": "https://www.mcsweeneys.net/articles/the-little-bunny-from-goodnight-moon-accepts-an-award",
+          "publishedOn": "2026-03-13T17:00:00.000Z",
+          "wordCount": 2278,
+          "title": "The Little Bunny from Goodnight Moon Accepts an Award",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dy33meh01sv1vy09lgvuae4qbgu6"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/no-one-gave-it-to-you",
+          "author": "Jenny O'Dell",
+          "description": "- - -\nFour conversations with writers and artists about the role that athletics and training play in their creative lives, featuring Marcus Burke, R. O. Kwon, Alexis Madrigal, and Daniel Alarcón\n - - -\nDuring my senior year of high school, a guidance counselor who had it in for me gleefully noticed I was missing a semester’s worth of PE. I still have the paper on the Cupertino High School letterhead, informing my parents that I was in danger of not graduating. Under “Notes,” the counselor wrote, “Jennifer must pass bowling.” So extreme was my distaste for sports and physical activity that of the three options given to me, which included regular PE or weight lifting, I had chosen the third: driving to Homestead Bowl at 6:30 every morning of that semester.\n Other than during a brief period, …",
+          "link": "https://www.mcsweeneys.net/articles/no-one-gave-it-to-you",
+          "publishedOn": "2026-03-13T13:00:00.000Z",
+          "wordCount": 3990,
+          "title": "Excerpts from The Believer: No One Gave It to You",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/4b250isw2hoxqe5cwo1lp0atw6v0"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/i-brought-your-child-an-oversized-lollipop-because-i-hate-you",
           "author": "Eddie Small",
