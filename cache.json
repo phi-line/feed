@@ -3642,6 +3642,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://oaklandside.org/?p=470665",
+          "author": "Natalie Orenstein",
+          "description": "It's still technically winter, but temperatures in Berkeley could rise from the high 70s to nearly 90 over the next six days.",
+          "link": "https://www.berkeleyside.org/2026/03/12/heat-wave-berkeley-march-weather",
+          "publishedOn": "2026-03-12T21:13:40.000Z",
+          "wordCount": 7416,
+          "title": "85 degrees in March? East Bay braces for unusually early heat wave",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-020_HomiesEmpowerment_230726_120_Middleton.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=553563",
           "author": "Karen Nguyen Vo and Andrew Gilbert",
           "description": "Other events include the Berkeley Poetry Festival, a free measles vaccine clinic and the launch of a community cycling initiative.",
@@ -10297,6 +10307,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/to-keep-americans-safe-the-press-must-only-publish-hot-photos-of-me",
+          "author": "Kate Chrisman",
+          "description": "“The Defense Department has barred press photographers from briefings on the ongoing U.S.-Israeli military conflict with Iran after they published photos of Defense Secretary Pete Hegseth that his staff deemed ‘unflattering’…” \n -– The Washington Post\n - - -\nThe world is a dangerous place right now—with US military strikes on suspected “drug boats” in the Caribbean, the threat of unilateral military action in Latin America, and a poorly defined war in Iran that I started. That is exactly why it’s critical that I look jacked as shit in the media.\n As the secretary of defense, my job isn’t only to designate cartels as “terrorists” and oust leaders of countries that happen to sit on massive oil reserves. I also have to maintain the troops’ respect. And nothing undermines morale faster than an…",
+          "link": "https://www.mcsweeneys.net/articles/to-keep-americans-safe-the-press-must-only-publish-hot-photos-of-me",
+          "publishedOn": "2026-03-12T23:30:00.000Z",
+          "wordCount": 2457,
+          "title": "To Keep Americans Safe, the Press Must Only Publish Hot Photos of Me",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/45dbulcv8t1d94rba2yyjd03xdzi"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/party-games-for-fifty-somethings",
           "author": "Adam Peltzman",
           "description": "Musical Ergonomic Chairs\n Players walk around a group of mesh-backed task chairs with lumbar support. When the music stops, each player sits and tells the person to their left where they’re experiencing joint discomfort. The player who doesn’t get a chair goes to the nearest CVS to buy topical analgesic creams as party favors.\n Hot Air-Fried Potato \n Players preheat a basket-style air fryer to 385 degrees and add some chopped, seasoned Yukon gold potatoes. The air fryer is passed around for ten minutes, shaking once halfway through. Objective: just to be air frying with good friends and talking about air frying.\n Your Overindulged Son Simon Says \n Your twelve-year-old son Simon—if he’s available and feels like it—sits in the center of the room and makes demands. Players try to say no in a …",
@@ -11183,6 +11203,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111823 at https://www.eff.org",
+          "author": "Hayley Tsukayama",
+          "description": "EFF has long warned against age-gating the internet. Such mandates strike at the foundation of the free and open internet. They create unnecessary and unconstitutional barriers for adults and young people to access information and express themselves online. They hurt small and open-source developers. And none of the available age verification options are perfect in terms of protecting private information, providing access to everyone, and safely handling sensitive data. \nLast year, EFF raised concerns about A.B. 1043 as one of several bills in the California legislature that took the wrong approach to protecting young people online—by focusing on censorship rather than privacy. Now that A.B. 1043 is set to go into effect in 2027, we've received a lot of questions about its possible effects…",
+          "link": "https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone",
+          "publishedOn": "2026-03-12T19:59:13.000Z",
+          "wordCount": 1372,
+          "title": "A.B. 1043’s Internet Age Gates Hurt Everyone",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverificationbanner.png",
+            "alt": "Purple padlock with an 18+ only symbol and a combination lock requiring Day, Month, and Year. Surrounded by abstract purple dashed lines.",
+            "type": "image/png",
+            "length": "1291379"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner.png"
+        },
+        {
+          "id": "111822 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "When Rep. Leigh Finke spoke last month before the Minnesota House Commerce Finance and Policy Committee to testify against HF1434, a broad-sweeping proposal to age-gate the internet, she began with something disarming: agreement.\n“I want to support the basic part of this,” she said, the shared goal of protecting young people online. Because that is not controversial: everyone wants kids to be safe. But HF1434, Minnesota’s proposed age-verification bill, simply won’t “protect children.” It mandates that websites hosting speech that is protected by the First Amendment for both adults and young people to verify users’ identities, often through government IDs or biometric data. As we’ve discussed before, the bill’s definition of speech that lawmakers deem “harmful to minors” is notoriously bro…",
+          "link": "https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control",
+          "publishedOn": "2026-03-12T19:32:55.000Z",
+          "wordCount": 3441,
+          "title": "Rep. Finke Was Right: Age-Gating Isn’t About Kids, It’s About Control",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/transgender-digitalrights-final.jpg",
+            "alt": "a silhouette looks at the transgender flag while eyes watch them",
+            "type": "image/jpeg",
+            "length": "54020"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/transgender-digitalrights-final.jpg"
+        },
         {
           "id": "111820 at https://www.eff.org",
           "author": "Jacob Hoffman-Andrews",
