@@ -423,6 +423,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69b5852ae63128000107ed58",
+          "author": "Joseph Cox",
+          "description": "On Friday, a judge ordered those who uploaded the videos to YouTube to remove them. By Saturday, a backup of the videos was available online as a torrent and on the Internet Archive.",
+          "link": "https://www.404media.co/the-removed-doge-deposition-videos-have-already-been-backed-up-across-the-internet/",
+          "publishedOn": "2026-03-14T16:00:39.000Z",
+          "wordCount": 1519,
+          "title": "The Removed DOGE Deposition Videos Have Already Been Backed Up Across the Internet",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/doge-videos.png"
+        },
+        {
+          "id": "69b46be0f2ce300001350857",
+          "author": "Becky Ferreira",
+          "description": "Moons orbiting free-floating planets may remain warm for billions of years, raising the possibility some might host stable water, or even life.",
+          "link": "https://www.404media.co/alien-life-might-exist-on-the-starless-moons-of-rogue-planets-scientists-say/",
+          "publishedOn": "2026-03-14T13:00:25.000Z",
+          "wordCount": 2011,
+          "title": "Alien Life Might Exist on the Starless Moons of Rogue Planets, Scientists Say",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/image3.png"
+        },
+        {
           "id": "69b4a8dae631280001050abe",
           "author": "Joseph Cox",
           "description": "The government asked a judge to stop the spread of the videos on YouTube. The judge agreed, and ordered their immediate removal.",
@@ -3355,16 +3375,6 @@
           "wordCount": 206,
           "title": "Telescope Types",
           "imageUrl": "https://imgs.xkcd.com/comics/telescope_types_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3181/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3181/",
-          "publishedOn": "2025-12-15T05:00:00.000Z",
-          "wordCount": 208,
-          "title": "Jumping Frog Radius",
-          "imageUrl": "https://imgs.xkcd.com/comics/jumping_frog_radius_2x.png"
         }
       ]
     },
