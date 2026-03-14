@@ -396,6 +396,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/13/language-birth",
+          "author": null,
+          "description": "Since 1960, the world has lost hundreds of languages — and gained thousands.",
+          "link": "https://asteriskmag.com/issues/13/language-birth",
+          "publishedOn": "2026-03-09T00:00:00.000Z",
+          "wordCount": 5247,
+          "title": "Language Birth",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/language-birth/50ad33fc6a-1772737091/karson-elmgren-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/13/justified-true-belief",
           "author": null,
           "description": "When I decided the theme for this issue, I had one particular article in mind. I've tried to commission it many times over the past six months, but I never did get anyone to bite. In retrospect, I realize that the question I really wanted to ask isn't answerable, at least not in a form that would be interesting to any of you.",
@@ -412,6 +422,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69b4a8dae631280001050abe",
+          "author": "Joseph Cox",
+          "description": "The government asked a judge to stop the spread of the videos on YouTube. The judge agreed, and ordered their immediate removal.",
+          "link": "https://www.404media.co/doge-deposition-videos-taken-down-after-judge-order-and-widespread-mockery/",
+          "publishedOn": "2026-03-14T00:19:58.000Z",
+          "wordCount": 1302,
+          "title": "DOGE Deposition Videos Taken Down After Judge Order and Widespread Mockery",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/justin-fox-1-1.png"
+        },
         {
           "id": "69b3fa6ef2ce3000013212d7",
           "author": "Joseph Cox",
@@ -2957,6 +2977,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3219/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3219/",
+          "publishedOn": "2026-03-13T04:00:00.000Z",
+          "wordCount": 191,
+          "title": "Planets and Bright Stars",
+          "imageUrl": "https://imgs.xkcd.com/comics/planets_and_bright_stars_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3218/",
           "author": null,
           "description": "",
@@ -3687,6 +3717,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553617",
+          "author": "Momo Chang",
+          "description": "La Noisette has announced its departure, while its replacement has already been named.",
+          "link": "https://www.berkeleyside.org/2026/03/13/la-noisette-bakery-mild-cloud-closing",
+          "publishedOn": "2026-03-13T19:00:00.000Z",
+          "wordCount": 6906,
+          "title": "A Berkeley French bakery departs as a Japanese bakery arrives in its place",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/10/IMG_6053-2.jpg?fit=1500%2C1125&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553602",
           "author": "Nico Savidge",
@@ -11369,6 +11409,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111825 at https://www.eff.org",
+          "author": "Corynne McSherry",
+          "description": "EFF has filed a new lawsuit against the Consumer Product Safety Commission (CPSC) to ensure that the public has full access to the laws that govern us.\nOur client Public.Resource.Org (Public Resource), a tiny non-profit founded by open records advocate Carl Malamud, has a mission that’s both simple and powerful: to make government information more accessible. Public Resource acquires and makes available online a wide variety of public documents such as tax filings, government-produced videos, and federal rules about safety and product designs. Those rules are initially created through private standards organizations and later incorporated into federal law. Such documents are often difficult to access otherwise, meaning the public cannot read, share, or comment on them. \nWorking with Harvar…",
+          "link": "https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law",
+          "publishedOn": "2026-03-13T19:02:58.000Z",
+          "wordCount": 1607,
+          "title": "EFF Launches New Fight to Free the Law",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/foia-og-1.png",
+            "alt": "FOIA Flashlight",
+            "type": "image/png",
+            "length": "11513"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/foia-og-1.png"
+        },
         {
           "id": "111823 at https://www.eff.org",
           "author": "Hayley Tsukayama",
