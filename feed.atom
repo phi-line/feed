@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-15T12:11:21.374Z</updated>
+    <updated>2026-03-15T18:09:37.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[TSMC (and most of Taiwan’s chip industry) spun out of one government research institute. How did ITRI implement one of the most successful industrial policy programs of all time?]]></summary>
         <author>
             <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Foilies 2026]]></title>
+        <id>111794 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/03/foilies-2026"/>
+        <updated>2026-03-15T15:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Recognizing the Worst in Government Transparency 
+The Foilies were written by EFF's Beryl Lipton, Dave Maass and Aaron Mackey and MuckRock's  Dillon Bergin, Kelly Kauffman and Anna Massoglia. 
+For the last six years, a class of journalism students at the University of Nevada, Reno, has kicked off each semester by filing their first Freedom of Information Act (FOIA) requests.
+The assignment: Request copies of complaints sent to the Federal Communications Commission (FCC) about their favorite TV show, a local radio station, or a major broadcast event, such as the Grammys or the Super Bowl halftime show. The students are learning that the federal government and every state have laws establishing the public's right to request and receive public records. It's a bedrock principle of democracy: I…]]></summary>
+        <author>
+            <name>Dave Maass</name>
         </author>
     </entry>
     <entry>
