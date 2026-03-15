@@ -386,6 +386,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance",
+          "author": null,
+          "description": "TSMC (and most of Taiwan’s chip industry) spun out of one government research institute. How did ITRI implement one of the most successful industrial policy programs of all time?",
+          "link": "https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance",
+          "publishedOn": "2026-03-16T00:00:00.000Z",
+          "wordCount": 4998,
+          "title": "The Institute Behind Taiwan’s  Chip Dominance",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/the-institute-behind-taiwan-s-chip-dominance/18380957ca-1773337324/asterisk-taiwans-chip-dominance-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/13/language-birth",
           "author": null,
           "description": "Since 1960, the world has lost hundreds of languages — and gained thousands.",
@@ -6566,36 +6576,6 @@
           "wordCount": 8315,
           "title": "Berkeley Hat Company on Telegraph Avenue to close after 50 years",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-Carol-Lipnick-and-Ed-Dougherty-of-Berkeley-Hat-Co-in-1995.jpg?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549144",
-          "author": "Cecilia Seiter",
-          "description": "Flora & Ferment, three.one four, and Red Bay's Fruitvale headquarters were also among the recent closures.",
-          "link": "https://www.berkeleyside.org/2025/12/15/brown-cap-roses-taproom-red-bay-restaurants-closed",
-          "publishedOn": "2025-12-16T00:00:00.000Z",
-          "wordCount": 7543,
-          "title": "Brown Cap no longer scooping, Roses’ Taproom stops pouring, and more November East Bay closures",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/BrownCapIceCream.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549133",
-          "author": "Cecilia Seiter",
-          "description": "Recent restaurant openings include Kopi Bar & Cafe, Dough Zone, and the massive HL Peninsula.",
-          "link": "https://www.berkeleyside.org/2025/12/15/kopi-bar-hl-peninsula-dough-zone-east-bay-restaurants",
-          "publishedOn": "2025-12-15T20:00:00.000Z",
-          "wordCount": 8152,
-          "title": "East Bay’s November openings include new options for breakfast, dumplings, dim sum and more",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-Natera_Nosh_KopiBampfa_251027_002.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549191",
-          "author": "Alex N. Gecan",
-          "description": "A man in his 30s died from head injuries after crashing into a car on California Street in Central Berkeley Saturday evening, police said.",
-          "link": "https://www.berkeleyside.org/2025/12/15/fatal-scooter-crash-california-addison-berkeley",
-          "publishedOn": "2025-12-15T18:56:08.000Z",
-          "wordCount": 7145,
-          "title": "Scooter rider dies after crashing into parked car in Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/06/BI6A0672.jpg"
         }
       ]
     },
@@ -6736,16 +6716,6 @@
           "wordCount": 2517,
           "title": "My 2025 Indie Web Report and Thoughts on the Open Web",
           "imageUrl": "https://cybercultural.com/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/blogosphere-2003/",
-          "author": null,
-          "description": "The release of NetNewsWire 1.0 in February 2003, one of the first popular RSS Readers.\nSo far in my history of blogging and RSS, we've seen how weblogs emerged in 1999 as a new form of personal journal, began to link to each other in 2000 via blogrolls, turned serious in 2001 with \"warblogs,\" and then became an interconnected ecosystem called the blogosphere in 2002. In 2003, blogging continued its evolution into a new form of media publication — helped greatly by the rapid adoption of RSS Readers.\nIn April 2003, I started a new technology blog called Read/WriteWeb (which I soon began abbreviating to RWW). While I'd experimented with blogging the previous year, my first effort — a linkblog called Modern Web — didn't stick. This time I was determined to write original posts and to regularly…",
-          "link": "https://cybercultural.com/p/blogosphere-2003/",
-          "publishedOn": "2025-12-16T00:00:00.000Z",
-          "wordCount": 2611,
-          "title": "The Blogosphere Blossoms in 2003 As RSS Readers Catch On",
-          "imageUrl": "https://cybercultural.com/assets/images/netnewswire-2003-feature.jpg"
         }
       ]
     },
