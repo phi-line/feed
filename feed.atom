@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-15T18:09:37.516Z</updated>
+    <updated>2026-03-16T00:30:43.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -27,6 +27,17 @@ For the last six years, a class of journalism students at the University of Neva
 The assignment: Request copies of complaints sent to the Federal Communications Commission (FCC) about their favorite TV show, a local radio station, or a major broadcast event, such as the Grammys or the Super Bowl halftime show. The students are learning that the federal government and every state have laws establishing the public's right to request and receive public records. It's a bedrock principle of democracy: I…]]></summary>
         <author>
             <name>Dave Maass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VisiCalc reconstructed]]></title>
+        <id>https://zserge.com/posts/visicalc/</id>
+        <link href="https://zserge.com/posts/visicalc/"/>
+        <updated>2026-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VisiCalc Spreadsheets rule the world for almost half of a century. I strongly believe that it’s one of the best UXs ever created. Being fairly minimal and easy to learn, it allows users to quickly manipulate data, describe logic, visualise results, or even create art and run GameBoy games.
+It all started in 1979 when Dan Bricklin and Bob Frankston created VisiCalc, the first spreadsheet software. With a few thousand lines of hand-written 6502 assembly, VisiCalc could successfully run on 16K RAM machines.]]></summary>
+        <author>
+            <name>zserge's blog</name>
         </author>
     </entry>
     <entry>
@@ -13055,17 +13066,6 @@ Dacher Keltner, Professor, UC Berkeley / Credit: Mik Milman
 Dacher Keltner opened the evening b…]]></summary>
         <author>
             <name>Brandon Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As 2025 ends, the Standard Model still hasn’t cracked]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/"/>
-        <updated>2025-12-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every year, scientists around the world don’t just work to enhance what we know and increase our overall body of knowledge, although that’s indeed what they wind up doing. Part of the motivation for conducting science is hope: the hope that what you’re doing, research-wise, could end up revolutionizing how we conceptualize reality. Although we’ve come so far in understanding this Universe — including what its laws and constituents are at a fundamental level, and how those fundamental components assemble to create the varied and complex reality we inhabit today — we’re certain that there’s still more to learn, as many paradoxes about and several important puzzles remain unsolved. With each new experiment, observation, and piece of data, there’s an opportunity for scientific advancement.
-All…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

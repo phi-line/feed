@@ -9961,16 +9961,6 @@
           "wordCount": 2275,
           "title": "A night where awe took center stage",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/image_ac778f.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/",
-          "author": "Ethan Siegel",
-          "description": "Every year, scientists around the world don’t just work to enhance what we know and increase our overall body of knowledge, although that’s indeed what they wind up doing. Part of the motivation for conducting science is hope: the hope that what you’re doing, research-wise, could end up revolutionizing how we conceptualize reality. Although we’ve come so far in understanding this Universe — including what its laws and constituents are at a fundamental level, and how those fundamental components assemble to create the varied and complex reality we inhabit today — we’re certain that there’s still more to learn, as many paradoxes about and several important puzzles remain unsolved. With each new experiment, observation, and piece of data, there’s an opportunity for scientific advancement.\nAll…",
-          "link": "https://bigthink.com/starts-with-a-bang/standard-model-hasnt-cracked/",
-          "publishedOn": "2025-12-16T07:00:00.000Z",
-          "wordCount": 4310,
-          "title": "As 2025 ends, the Standard Model still hasn’t cracked",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/09/spect_cover.jpg?resize=1200,630"
         }
       ]
     },
@@ -10375,7 +10365,18 @@
       "title": "zserge's blog",
       "feedUrl": "https://zserge.com/rss.xml",
       "siteUrl": "https://zserge.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zserge.com/posts/visicalc/",
+          "author": null,
+          "description": "VisiCalc Spreadsheets rule the world for almost half of a century. I strongly believe that it’s one of the best UXs ever created. Being fairly minimal and easy to learn, it allows users to quickly manipulate data, describe logic, visualise results, or even create art and run GameBoy games.\nIt all started in 1979 when Dan Bricklin and Bob Frankston created VisiCalc, the first spreadsheet software. With a few thousand lines of hand-written 6502 assembly, VisiCalc could successfully run on 16K RAM machines.",
+          "link": "https://zserge.com/posts/visicalc/",
+          "publishedOn": "2026-03-15T00:00:00.000Z",
+          "wordCount": 2545,
+          "title": "VisiCalc reconstructed",
+          "imageUrl": "https://zserge.com/logo.png"
+        }
+      ]
     },
     {
       "title": "McSweeney’s",
