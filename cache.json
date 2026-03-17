@@ -423,6 +423,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69b885eae6312800010cf639",
+          "author": "Matthew Gault",
+          "description": "The CEO of Krafton used ChatGPT to push out the head of the studio developing Subnautica 2 against the advice of his own legal team and failed miserably.",
+          "link": "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
+          "publishedOn": "2026-03-16T22:40:53.000Z",
+          "wordCount": 1569,
+          "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-16-at-15.39.04@2x.png"
+        },
+        {
           "id": "69b82a30e6312800010ce58a",
           "author": "Rosie Thomas",
           "description": "A newly published study of how college students interact with chatbots and human strangers showed talking to a random person offers more connection than an LLM.",
@@ -3743,6 +3753,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553717",
+          "author": "Kate Darby Rauch",
+          "description": "The Old Finnish Hall, built in 1908 in West Berkeley, is a landmarked property that comes with a pair of elderly caretakers who’ve lived there for more than 30 years.",
+          "link": "https://www.berkeleyside.org/2026/03/16/toveri-tupa-old-finnish-hall-berkeley-auction",
+          "publishedOn": "2026-03-17T00:13:19.000Z",
+          "wordCount": 7962,
+          "title": "Historic Berkeley social hall to be auctioned off after defaulting on taxes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/IMG_8264-scaled.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=470754",
           "author": "Esther Kaplan",
@@ -7750,26 +7770,6 @@
           "wordCount": 2067,
           "title": "@AnnieDiRusso offers a pageant full of costuming, synchronized dance moves and more.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/txRW6V4iwUM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/txRW6V4iwUM",
-          "publishedOn": "2025-12-17T11:01:45.000Z",
-          "wordCount": 2082,
-          "title": "Following their Tiny Desk performance, Members of @pledis17 share their signature “Ending Ments.\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sSY_w9odHPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sSY_w9odHPk",
-          "publishedOn": "2025-12-17T10:01:31.000Z",
-          "wordCount": null,
-          "title": "Sixpence None the Richer: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9897,16 +9897,6 @@
           "wordCount": 3540,
           "title": "The next revolution in neuroscience is happening outside the lab",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/neuroethology_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/usa-genesis-mission-moonshot/",
-          "author": "Ethan Siegel",
-          "description": "Here in the United States, one of the greatest assets we have in our country — from a scientific standpoint, at least — is our collection of National Laboratories. A total of 17 labs presently exist, which focus on a wide variety of scientific, engineering, and energy-related endeavors. Many of these labs are places where fundamental science thrives, including:\nFermilab, SLAC, and Brookhaven, where many fundamental and composite particle physics discoveries have taken place and where new experiments offer a window into fundamental reality,\nLos Alamos National Laboratory, where the first atomic bombs were developed and where both nuclear science and explosives developments continue,\nArgonne National Laboratory and the Frederick National Laboratory for Cancer Research, which have used physic…",
-          "link": "https://bigthink.com/starts-with-a-bang/usa-genesis-mission-moonshot/",
-          "publishedOn": "2025-12-17T07:00:00.000Z",
-          "wordCount": 4758,
-          "title": "The USA’s Genesis Mission: moonshot or madness?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/10/m-e1765931106267.jpg?w=960&h=541&crop=1"
         }
       ]
     },
@@ -11266,6 +11256,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111830 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. \nThat’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s. The Archive’s mission is to preserve the web and make it accessible to the public. To that end, the organization operates the Wayback Machine, which now contains more than one trillion archived web pages and is used daily by journalists, researchers, and courts.\nBut in recent months The New York Times began blocking the Archive from crawling its website, using technical measures that go beyond the web’s traditional robots.txt rules. That risks cutting off a record that historians and journalists …",
+          "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+          "publishedOn": "2026-03-16T19:26:54.000Z",
+          "wordCount": 1841,
+          "title": "Blocking the Internet Archive Won’t Stop AI, But It Will Erase the Web’s Historical Record",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
+            "alt": "server rack @ Internet Archive photo by Jason Scott",
+            "type": "image/jpeg",
+            "length": "975188"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg"
+        },
         {
           "id": "111794 at https://www.eff.org",
           "author": "Dave Maass",

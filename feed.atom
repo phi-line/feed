@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-16T18:22:06.857Z</updated>
+    <updated>2026-03-17T00:26:33.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Historic Berkeley social hall to be auctioned off after defaulting on taxes]]></title>
+        <id>https://www.berkeleyside.org/?p=553717</id>
+        <link href="https://www.berkeleyside.org/2026/03/16/toveri-tupa-old-finnish-hall-berkeley-auction"/>
+        <updated>2026-03-17T00:13:19.000Z</updated>
+        <summary type="html"><![CDATA[The Old Finnish Hall, built in 1908 in West Berkeley, is a landmarked property that comes with a pair of elderly caretakers who’ve lived there for more than 30 years.]]></summary>
+        <author>
+            <name>Kate Darby Rauch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court]]></title>
+        <id>69b885eae6312800010cf639</id>
+        <link href="https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/"/>
+        <updated>2026-03-16T22:40:53.000Z</updated>
+        <summary type="html"><![CDATA[The CEO of Krafton used ChatGPT to push out the head of the studio developing Subnautica 2 against the advice of his own legal team and failed miserably.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking the Internet Archive Won’t Stop AI, But It Will Erase the Web’s Historical Record]]></title>
+        <id>111830 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"/>
+        <updated>2026-03-16T19:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. 
+That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s. The Archive’s mission is to preserve the web and make it accessible to the public. To that end, the organization operates the Wayback Machine, which now contains more than one trillion archived web pages and is used daily by journalists, researchers, and courts.
+But in recent months The New York Times began blocking the Archive from crawling its website, using technical measures that go beyond the web’s traditional robots.txt rules. That risks cutting off a record that historians and journalists …]]></summary>
+        <author>
+            <name>Joe Mullin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘No Kings Day’ march and other upcoming resistance events around Berkeley]]></title>
         <id>https://oaklandside.org/?p=470754</id>
@@ -12991,38 +13023,6 @@ For much of its history, though, neuroscience has done the opposite. 
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Following their Tiny Desk performance, Members of @pledis17 share their signature “Ending Ments."]]></title>
-        <id>https://www.youtube.com/shorts/txRW6V4iwUM</id>
-        <link href="https://www.youtube.com/shorts/txRW6V4iwUM"/>
-        <updated>2025-12-17T11:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sixpence None the Richer: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=sSY_w9odHPk</id>
-        <link href="https://www.youtube.com/watch?v=sSY_w9odHPk"/>
-        <updated>2025-12-17T10:01:31.000Z</updated>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The USA’s Genesis Mission: moonshot or madness?]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/usa-genesis-mission-moonshot/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/usa-genesis-mission-moonshot/"/>
-        <updated>2025-12-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here in the United States, one of the greatest assets we have in our country — from a scientific standpoint, at least — is our collection of National Laboratories. A total of 17 labs presently exist, which focus on a wide variety of scientific, engineering, and energy-related endeavors. Many of these labs are places where fundamental science thrives, including:
-Fermilab, SLAC, and Brookhaven, where many fundamental and composite particle physics discoveries have taken place and where new experiments offer a window into fundamental reality,
-Los Alamos National Laboratory, where the first atomic bombs were developed and where both nuclear science and explosives developments continue,
-Argonne National Laboratory and the Frederick National Laboratory for Cancer Research, which have used physic…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>
