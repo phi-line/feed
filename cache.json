@@ -361,16 +361,6 @@
           "wordCount": 3229,
           "title": "The Year in Mathematics",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Mathematics-cr-Carlos-Arrojo-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=157423",
-          "author": "Natalie Wolchover",
-          "description": "Physicists spotted a “terribly exciting” new black hole, doubled down on weakening dark energy, and debated the meaning of quantum mechanics.             \nThe post The Year in Physics first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/the-year-in-physics-20251217/",
-          "publishedOn": "2025-12-17T14:46:37.000Z",
-          "wordCount": 2754,
-          "title": "The Year in Physics",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Physics-cr-Carlos-Arrojo-Social.jpg"
         }
       ]
     },
@@ -3042,6 +3032,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3220/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3220/",
+          "publishedOn": "2026-03-16T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Rotational Gravity",
+          "imageUrl": "https://imgs.xkcd.com/comics/rotational_gravity_2x.png"
+        },
         {
           "id": "https://xkcd.com/3219/",
           "author": null,
@@ -6582,16 +6582,6 @@
           "wordCount": 7606,
           "title": "Oakland airport’s new guest program may risk feeding information to ICE",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/AP24101834276335-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548968",
-          "author": "Nathan Dalton",
-          "description": "Founder Russell Kassman sold the Berkeley business in 2019 and moved to Texas. The new owner closed up shop last month.",
-          "link": "https://www.berkeleyside.org/2025/12/17/r-kassman-pianos-closure",
-          "publishedOn": "2025-12-17T13:23:00.000Z",
-          "wordCount": 7285,
-          "title": "R. Kassman, purveyor of fine pianos for over 40 years, plays its final note",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/large-R-Kassman-Piano-1.jpg?fit=1600%2C1200&ssl=1"
         }
       ]
     },
@@ -7740,36 +7730,6 @@
           "wordCount": 1996,
           "title": "From the first note, @iamodeal transports us to the warm, soulful pocket that we never leave.⁠",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/0BFR7ySb6LI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/0BFR7ySb6LI",
-          "publishedOn": "2025-12-17T18:00:01.000Z",
-          "wordCount": 2051,
-          "title": "Do you feel like you're living in a capitalist hellscape?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/vIVVF1BYqZs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/vIVVF1BYqZs",
-          "publishedOn": "2025-12-17T16:01:36.000Z",
-          "wordCount": 2088,
-          "title": "@billystrings is a sorcerer of his craft, wielding a guitar as if it’s a part of him.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pBuyhCQqqWw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pBuyhCQqqWw",
-          "publishedOn": "2025-12-17T13:01:49.000Z",
-          "wordCount": 2067,
-          "title": "@AnnieDiRusso offers a pageant full of costuming, synchronized dance moves and more.",
-          "imageUrl": null
         }
       ]
     },
@@ -7778,6 +7738,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/universe-flat/",
+          "author": "Ethan Siegel",
+          "description": "What is the shape of the Universe? If you were born into this world anytime before the 1800s, it likely never would have occurred to you that the Universe itself was even permitted to have a shape. Like everyone else, you would have learned geometry starting from the rules of Euclid, where space can be no more complicated than a three-dimensional grid. After starting with that notion of absolute space, you would have applied Newton’s laws of physics, presuming (like everyone else) that the forces between any two objects would act along the one and only straight line connecting them. But we’ve come a long way in our understanding since then, and not only can space itself be curved by the presence of matter and energy, but we can witness and measure those effects directly.\nIt didn’t have to …",
+          "link": "https://bigthink.com/starts-with-a-bang/universe-flat/",
+          "publishedOn": "2026-03-17T06:00:00.000Z",
+          "wordCount": 5261,
+          "title": "Einstein showed space can curve, but data reveals a flat Universe",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/01/spheroidal-universe.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/business/the-simplest-secret-to-high-performing-teams-can-fit-on-your-wall/",
           "author": "Marine Tanguy",
@@ -9877,26 +9847,6 @@
           "wordCount": 1090,
           "title": "The terrifying ways that social media is altering teenage brains",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/A1-Web-Morell.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/mini-philosophy/the-tyrannous-grip-of-extreme-identity-politics/",
-          "author": "Jonny Thomson",
-          "description": "Ayaan Hirsi Ali was born in Somalia but spent her formative teenage years in Nairobi, Kenya. For most of her youth, Islam was a distant, habitual backdrop. She observed the fasts, went to the mosque now and then, and perhaps idly carried a string of tasbih prayer beads. Then, in 1985, the Muslim Brotherhood swept through her community. Under the tutelage of a charismatic female teacher, Ali transformed. The casual tradition was replaced by a rigid, politicized fervor; she put on the heavy black hijab and learned to renounce Western culture.\nToday, Ali is a Christian, a research fellow at Stanford’s Hoover Institution, and a conservative powerhouse. But the path between then and now reveals a fracture in modern identity politics. When Ali first arrived in the Netherlands in 1992, fleeing a …",
-          "link": "https://bigthink.com/mini-philosophy/the-tyrannous-grip-of-extreme-identity-politics/",
-          "publishedOn": "2025-12-17T15:54:37.000Z",
-          "wordCount": 2315,
-          "title": "The tyrannous grip of extreme identity politics",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/identity-tyranny_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/neuropsych/neuroethology/",
-          "author": "Jasna Hodžić",
-          "description": "If asked to describe what sets a cognitively complex species like humans apart from others, many would list specific behaviors, such as telling stories, creating art, planning for the future, or navigating complex social structures. Given that, you might expect that neuroscientists attempting to understand the advanced brain would study it in action, as a person or animal moves through the world. \nFor much of its history, though, neuroscience has done the opposite. \n“When I was a graduate student, neuroscience was almost entirely about isolating specific circuits to test how the brain controls your senses and movement,” says Dr. Earl K. Miller, the Picower Professor of Neuroscience at MIT. “You’d show an animal a stimulus, observe how it responded, and record which neurons fired.” This res…",
-          "link": "https://bigthink.com/neuropsych/neuroethology/",
-          "publishedOn": "2025-12-17T14:00:00.000Z",
-          "wordCount": 3540,
-          "title": "The next revolution in neuroscience is happening outside the lab",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/neuroethology_compressed.jpg?resize=1200,630"
         }
       ]
     },
@@ -11256,6 +11206,16 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111831 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Site Banner: \n\n\n\n\nMobile Site Banner: \n\n\n\n\nLink: \n\nEFFecting Change: Privacy's Defender on March 19\n\n\nMobile Link: \n\nEFFecting Change: Privacy's Defender on March 19\n\n\nBanner Text: \n\nEFFecting Change: Privacy's Defender on March 19\n\n\nMobile Banner Text: \n\nEFFecting Change: Privacy's Defender on March 19",
+          "link": "https://www.eff.org/node/111831",
+          "publishedOn": "2026-03-16T21:37:38.000Z",
+          "wordCount": 579,
+          "title": "EFFecting Change Site Banner 3.19.26",
+          "imageUrl": "https://www.eff.org/files/eff-og.png"
+        },
         {
           "id": "111830 at https://www.eff.org",
           "author": "Joe Mullin",
