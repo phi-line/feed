@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/03/ivf",
+          "author": null,
+          "description": "An interactive journey about IVF, told from two perspectives.",
+          "link": "https://pudding.cool/2026/03/ivf",
+          "publishedOn": "2026-03-19T05:00:00.000Z",
+          "wordCount": 463,
+          "title": "A Journey Through Infertility",
+          "imageUrl": "https://pudding.cool/2026/03/ivf/assets/social.jpg"
+        },
+        {
           "id": "https://pudding.cool/2026/02/happy-map",
           "author": null,
           "description": "Mapping 100,000 moments of human happiness.",
@@ -412,6 +422,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69bab486e631280001100e78",
+          "author": "Matthew Gault",
+          "description": "There is no associated website yet, but the move comes after Trump ordered the release of files related to UFOs.",
+          "link": "https://www.404media.co/government-registers-aliens-gov-domain/",
+          "publishedOn": "2026-03-18T14:27:59.000Z",
+          "wordCount": 1330,
+          "title": "Government Registers Aliens.Gov Domain",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/wesley-tingey-4aSz0dNLBW8-unsplash.jpg"
+        },
+        {
+          "id": "69baa237e6312800011006bc",
+          "author": "Joseph Cox",
+          "description": "This week we talk about the disappearing (and reappearing) DOGE depositions; how AI is African Intelligence; and what AI job loss reports are missing.",
+          "link": "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
+          "publishedOn": "2026-03-18T13:05:48.000Z",
+          "wordCount": 1105,
+          "title": "Podcast: The Disappearing DOGE Depositions",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/internet-doge.png"
+        },
         {
           "id": "69b98f04e6312800010fb23a",
           "author": "Becky Ferreira",
@@ -1780,6 +1810,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8374089",
+          "author": "Abigail R. Hall",
+          "description": "“We did this overseas, and it’s come home in every conceivable way.”",
+          "link": "https://reason.com/2026/03/18/ice-is-bringing-military-occupation-and-recruitment-tactics-to-america/",
+          "publishedOn": "2026-03-18T16:00:57.000Z",
+          "wordCount": null,
+          "title": "ICE Is Bringing Military Occupation and Recruitment Tactics to America",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8374056",
           "author": "Autumn Billings",
           "description": "Eight others were convicted on vague \"terrorism\" charges—causing serious concern among First Amendment advocates.",
@@ -2631,6 +2672,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/lab-coat",
+          "author": "Asimov Press",
+          "description": "How a blood-stained surgeon's frock evolved into a pristine symbol of modern science.",
+          "link": "https://www.asimov.press/p/lab-coat",
+          "publishedOn": "2026-03-18T18:12:08.000Z",
+          "wordCount": null,
+          "title": "Why Lab Coats are White",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!DTsZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c6c2ca7-b756-4992-b107-3eab5bfacb2e_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!DTsZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c6c2ca7-b756-4992-b107-3eab5bfacb2e_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/oral-glp1s",
           "author": "Asimov Press",
           "description": "In a recent survey, three-in-four respondents said they would prefer a once‑daily oral pill over a weekly injection of GLP-1s. So why aren't there more oral options?",
@@ -3053,6 +3110,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3221/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3221/",
+          "publishedOn": "2026-03-18T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Landscape Features",
+          "imageUrl": "https://imgs.xkcd.com/comics/landscape_features_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3220/",
           "author": null,
           "description": "",
@@ -3421,16 +3488,6 @@
           "wordCount": 206,
           "title": "Funny Numbers",
           "imageUrl": "https://imgs.xkcd.com/comics/funny_numbers_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3183/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3183/",
-          "publishedOn": "2025-12-19T05:00:00.000Z",
-          "wordCount": 208,
-          "title": "Pole Vault Pole",
-          "imageUrl": "https://imgs.xkcd.com/comics/pole_vault_pole_2x.png"
         }
       ]
     },
@@ -3773,6 +3830,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553824",
+          "author": "Frances Dinkelspiel and Ally Markovich",
+          "description": "Con 54 millones de dólares en activos, Sogorea Te’ tiene grandes sueños para un conchal, un sitio arqueológico recuperado en West Berkeley. El impuesto voluntario a las tierras shuumi de la organización se volvió muy popular en East Bay, a pesar de las críticas de otros grupos Ohlone que afirman que el dinero no llega a la comunidad en general.",
+          "link": "https://www.berkeleyside.org/2026/03/18/como-una-organizacion-no-lucrativa-de-la-comunidad-ohlone-se-convirtio-rapidamente-en-uno-de-los-fideicomisos-de-tierras-indigenas-mas-ricos-del-pais",
+          "publishedOn": "2026-03-18T16:00:00.000Z",
+          "wordCount": 12031,
+          "title": "Cómo una organización no lucrativa de la comunidad Ohlone se convirtió rápidamente en uno de los fideicomisos de tierras indígenas más ricos del país",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Natera_240213_SogoreaTe_09.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553653",
+          "author": "Local sponsor",
+          "description": "Perched at the top of Rose Walk in North Berkeley, the Arts & Crafts home has original features and modern updates.",
+          "link": "https://www.berkeleyside.org/2026/03/18/julia-morgan-house-with-noteworthy-history-coming-on-the-market",
+          "publishedOn": "2026-03-18T15:30:00.000Z",
+          "wordCount": 7871,
+          "title": "Julia Morgan house with noteworthy history coming on the market",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/1400-Le-Roy-drone-from-Rose-Walk.jpg?fit=2000%2C1125&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=552118",
+          "author": "Frances Dinkelspiel and Ally Markovich",
+          "description": "With $54 million in assets, Sogorea Te' has big dreams for its reclaimed West Berkeley shellmound site. Its voluntary shuumi land tax has become wildly popular in the East Bay even as it's drawn criticism from other Ohlone groups that say the money doesn't reach the broader community.",
+          "link": "https://www.berkeleyside.org/2026/03/18/sogorea-te-native-american-land-trust-fundraising-success",
+          "publishedOn": "2026-03-18T15:23:28.000Z",
+          "wordCount": 11459,
+          "title": "How an Ohlone nonprofit quickly became one of the wealthiest Indigenous land trusts in the nation",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Natera_240213_SogoreaTe_09.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553815",
           "author": "Felicia Mello",
@@ -6552,16 +6639,6 @@
           "wordCount": 9012,
           "title": "Fake immigration lawyers are scamming Bay Area families",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/image-20.png?fit=2000%2C1500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549361",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A former Berkeley rabbi’s brother-in-law is among those who was shot during the antisemitic attack on a Hanukkah celebration in Australia.",
-          "link": "https://www.berkeleyside.org/2025/12/18/the-wire-oxford-elementary-developer-wants-to-build-20-painted-ladies-style-victorians-cal-student-paralyzed-after-fall-at-frat-sues",
-          "publishedOn": "2025-12-19T01:15:00.000Z",
-          "wordCount": 7351,
-          "title": "The Wire: Oxford Elementary developer wants to build 20 ‘Painted Ladies’-style Victorians; Cal student paralyzed after fall at frat sues",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/10/oxford-elementary-berkeley.jpg?fit=1200%2C1027&ssl=1"
         }
       ]
     },
@@ -7026,6 +7103,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/2u2sdr5_xxY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2u2sdr5_xxY",
+          "publishedOn": "2026-03-18T14:00:07.000Z",
+          "wordCount": 2042,
+          "title": "#DeskOfTheDay: \"Don't Come Cryin',\" The Capitol",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/xvdxbx2eDpo",
           "author": null,
@@ -7693,6 +7780,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mind-behavior/the-real-reason-some-people-are-instantly-likable/",
+          "author": "Francesca Tighinean",
+          "description": "I was at a networking event a few years ago, making the kind of small talk that makes you question your entire personality. Everyone’s eyes were darting around the room. Conversations stalled after 30 seconds, and the energy in the place was restless, performative, and slightly desperate. In other words, it was a completely normal networking event. \nWhat struck me was the paradox of it: Every single person in that room wanted to connect, yet nobody was managing to. You’d think that if both people want the same thing, getting there would be the easy part. Clearly, it wasn’t. \nAfter about half an hour, a woman standing nearby turned to me with a completely relaxed smile and said, “These events are always so awkward, aren’t they?” \nI felt my shoulders drop immediately. We started talking and …",
+          "link": "https://bigthink.com/mind-behavior/the-real-reason-some-people-are-instantly-likable/",
+          "publishedOn": "2026-03-18T14:07:39.000Z",
+          "wordCount": 3438,
+          "title": "The real reason some people are instantly likable",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/socially-magnetic_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/most-unbreakable-symmetry/",
           "author": "Ethan Siegel",
@@ -10224,6 +10321,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-party-of-small-government-demands-twenty-four-hour-video-footage-of-your-children",
+          "author": "Caitlin McLean",
+          "description": "“GOP Ohio lawmaker calls for camera monitoring system to prevent child care fraud.” — Dayton Daily News\n - - -\nWe Republicans know what you, the American people, want most: round-the-clock video surveillance of your children handed over directly to us, your freedom-loving government.\n How else can we be sure that your hard-earned taxpayer money is well-spent? How do we know that Miss Taylor’s School for Tots isn’t secretly a Taco Bell masquerading as a childcare center? If two children playing aren’t being watched 24-7 through a live feed routed to a government agency, do they even exist?\n We’re the party of parental choice, so you’ll have the option to either (a) subject your child to constant video surveillance in their childcare program or (b) keep them at home until they turn eighteen …",
+          "link": "https://www.mcsweeneys.net/articles/the-party-of-small-government-demands-twenty-four-hour-video-footage-of-your-children",
+          "publishedOn": "2026-03-18T16:47:00.000Z",
+          "wordCount": 2394,
+          "title": "The Party of Small Government Demands Twenty-Four-Hour Video Footage of Your Children",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/u4zj3fvme9w7xtfi6b5llpr9g1dh"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-annabelle-gurwitchs-new-memoir-the-end-of-my-life-is-killing-me-the-unexpected-joys-of-a-cancer-slacker",
+          "author": "Annabelle Gurwitch",
+          "description": "- - -\nAfter Annabelle Gurwitch received an out-of-the-blue diagnosis of Stage 4 lung cancer, an existential dread set in. Precision medicine offered a temporary reprieve—but instead of turning into a cancer warrior, Annabelle declared herself a cancer slacker. Her motto: no runs, no ribbons, no religion.\n Told with her signature wit, warmth, and gimlet eye, Gurwitch draws inspiration from Greek mythology and TV comedies, Kermit the Frog and Samuel Beckett. She accidentally acquires an angel, embraces being in it “just for the sex,” and finds herself on a European van tour selling merch for a heavy metal band.\n In this hilariously and deeply affecting meditation on mortality, the actress and activist illuminates life with chronic disease, inequities in care, and celebrates tiny victories, t…",
+          "link": "https://www.mcsweeneys.net/articles/an-excerpt-from-annabelle-gurwitchs-new-memoir-the-end-of-my-life-is-killing-me-the-unexpected-joys-of-a-cancer-slacker",
+          "publishedOn": "2026-03-18T13:00:00.000Z",
+          "wordCount": 4527,
+          "title": "An Excerpt from Annabelle Gurwitch’s New Memoir, The End of My Life Is Killing Me: The Unexpected Joys of a Cancer Slacker",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6miix7tx7qktbvpmovmcjwsq56le"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/literary-references-according-to-tech-bros",
           "author": "BD Barone",
