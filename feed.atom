@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-18T06:25:58.857Z</updated>
+    <updated>2026-03-18T12:19:11.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Literary References, According to Tech Bros]]></title>
+        <id>https://www.mcsweeneys.net/articles/literary-references-according-to-tech-bros</id>
+        <link href="https://www.mcsweeneys.net/articles/literary-references-according-to-tech-bros"/>
+        <updated>2026-03-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From Grok to Palantír to “wireheading,” tech bros are renowned for flawlessly using literary references to name and explain technology in ways that absolutely never misunderstand the source texts. Here are some examples you might hear bandied about the Bay Area and beyond.
+ - - -
+Doublethink | verb
+ To operate two large language models simultaneously, typically one with each hand.
+ Usage: “I don’t care that you’re going into labor, honey. I’m doublethinking with Claude and Grok right now.”
+ - - -
+Cash-22 | noun 
+ A situation in which a startup founder must do unspeakable things to secure necessary funding.
+ Usage: “Our CEO was in a Cash-22 at the Peter Thiel pitch event, and now he’s a mere shell of a man.”
+ - - -
+Sword of Damocles | proper noun
+ A human-first motivational framework employed in Amazon warehouses.
+ Usage: “Since implementing Sword of Damocles, productivity has increased by 25% while bottle-peeing has remained flat.”
+ - - -
+Big Brother | proper noun
+ The new word Meta uses for managers.
+ Usage: “My Big Brother gave me ‘missing expectations’ because I haven’t been working hard enough to monetize Marketplace lookie-loos.”
+ - - -
+Trojan horseable | adjective
+ Describing a non-dating app that is effective for finding dates.
+ Usage: “Zillow” is extremely Trojan horseable.
+ - - -
+Kfka | proper noun
+ A startup building AI-powered government systems, starting with immigration and visa processing.
+ Usage: “My H-1B visa got denied by Kfka. When I appealed, I had to argue my case to a chatbot that kept referring me to other chatbots.”]]></summary>
+        <author>
+            <name>BD Barone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Cryptography Pioneers Win Turing Award]]></title>
+        <id>https://www.quantamagazine.org/?p=160056</id>
+        <link href="https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/"/>
+        <updated>2026-03-18T09:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Charles Bennett and Gilles Brassard were recognized for their foundational work in quantum information science.            
+The post Quantum Cryptography Pioneers Win Turing Award first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why “CPT” is the Universe’s most unbreakable symmetry]]></title>
         <id>https://bigthink.com/starts-with-a-bang/most-unbreakable-symmetry/</id>
@@ -13068,46 +13113,6 @@ Clearly, we live in a Universe where stars came into existence long ago: back in
         <summary type="html"><![CDATA[Also: A former Berkeley rabbi’s brother-in-law is among those who was shot during the antisemitic attack on a Hanukkah celebration in Australia.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CARE Court was created to help California’s toughest homeless cases. Why that’s been so hard]]></title>
-        <id>https://oaklandside.org/?p=466795</id>
-        <link href="https://www.berkeleyside.org/2025/12/18/care-court-california-toughest-homeless-cases-why-thats-been-so-hard"/>
-        <updated>2025-12-19T00:17:47.000Z</updated>
-        <summary type="html"><![CDATA[CARE Court was supposed to be a new way to help homeless Californians in the grip of psychosis. But people are still falling through the cracks.]]></summary>
-        <author>
-            <name>Marissa Kendall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@billystrings left a prayer candle on the Tiny Desk shelves]]></title>
-        <id>https://www.youtube.com/shorts/d1g8cWWp7mI</id>
-        <link href="https://www.youtube.com/shorts/d1g8cWWp7mI"/>
-        <updated>2025-12-18T21:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUSD teachers, district to meet with state mediators amid statewide contract disputes]]></title>
-        <id>https://www.berkeleyside.org/?p=549404</id>
-        <link href="https://www.berkeleyside.org/2025/12/18/berkeley-teachers-contract-negotiations-california-strikes"/>
-        <updated>2025-12-18T20:41:16.000Z</updated>
-        <summary type="html"><![CDATA[The successful teacher's strike in West Contra Costa Unified has emboldened teachers unions in Berkeley and 14 other California school districts currently at an impasse in their labor negotiations.]]></summary>
-        <author>
-            <name>Vanessa Arredondo and Diana Lambert | EdSource</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s panettone season. Where to get a taste of Italy in the East Bay]]></title>
-        <id>https://www.berkeleyside.org/?p=549403</id>
-        <link href="https://www.berkeleyside.org/2025/12/18/panettone-starter-bakery-donato-co-east-bay"/>
-        <updated>2025-12-18T20:25:14.000Z</updated>
-        <summary type="html"><![CDATA[There are several options for enjoying the Italian holiday treat, including Starter Bakery's in-house version and Donato & Co., which is the only U.S. importer of Infermentum panettone.]]></summary>
-        <author>
-            <name>Madeline Taub</name>
         </author>
     </entry>
     <entry>
