@@ -1780,6 +1780,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8374056",
+          "author": "Autumn Billings",
+          "description": "Eight others were convicted on vague \"terrorism\" charges—causing serious concern among First Amendment advocates.",
+          "link": "https://reason.com/2026/03/17/prairieland-verdict-texas-man-found-guilty-of-transporting-constitutionally-protected-pamphlets/",
+          "publishedOn": "2026-03-17T21:10:04.000Z",
+          "wordCount": null,
+          "title": "Prairieland Verdict: Texas Man Found Guilty of Transporting Constitutionally Protected Pamphlets",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8372004",
           "author": "Alexandra Stinson",
           "description": "Federal officers at Camp East Montana have beaten people for requesting medicine and even placed bets on which detainee would attempt suicide next.",
@@ -3772,6 +3783,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=553815",
+          "author": "Felicia Mello",
+          "description": "Not all UC Berkeley graduate student workers support the proposal, but as voting begins Tuesday, even critics say they expect it to be ratified, averting a strike.",
+          "link": "https://www.berkeleyside.org/2026/03/17/university-of-california-graduate-student-workers-professional-staff-united-auto-workers-union-tentative-contract",
+          "publishedOn": "2026-03-17T19:45:54.000Z",
+          "wordCount": 7749,
+          "title": "What UC grad students and professional staff could get in deals struck by unions",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-NOV-14_University-of-California-Academic-WorkersStrike-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553783",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/17/kilovolt-coffee-cocinita-nica-philz-sofias-tasty-sichuan-opening",
+          "publishedOn": "2026-03-17T19:00:00.000Z",
+          "wordCount": 7193,
+          "title": "Kilovolt Coffee makes a comeback, plus new Nicaraguan, Sichuan, and Mexican spots",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/KilovoltCoffee.jpg?fit=1212%2C996&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=470942",
           "author": "Diana Lambert | EdSource and Vanessa Arredondo",
@@ -9841,16 +9872,6 @@
           "wordCount": 1888,
           "title": "Complex life started with fungi, not plants or animals",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/rise-of-fungi_compressed_a080aa.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/10-solstice-facts-everyone-know/",
-          "author": "Ethan Siegel",
-          "description": "This December, like every December, will include a single moment — often marked by a particular day, which is December 21st here in 2025 — where our planet’s axial tilt is perfectly aligned with the invisible line connecting the Earth to the Sun. In December, it’s the northern hemisphere’s pole that’s tilted away from the Sun, while the southern hemisphere’s pole is tipped toward it; in June, the opposite situation is true. When your pole is tipped toward the Sun, your hemisphere experiences the longest days and shortest nights; when the pole is tipped away, you get long nights and short days. This remains true, solstice after solstice and year after year, no matter how much time passes.\nAlthough there are many factors at play that determine the behavior of each planet — its spin and orbit…",
-          "link": "https://bigthink.com/starts-with-a-bang/10-solstice-facts-everyone-know/",
-          "publishedOn": "2025-12-18T07:00:00.000Z",
-          "wordCount": 3908,
-          "title": "10 solstice facts for everyone to know",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/solcover.jpg?w=741&h=416&crop=1"
         }
       ]
     },
