@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-19T06:23:25.155Z</updated>
+    <updated>2026-03-19T12:14:12.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plantmaxxing]]></title>
+        <id>https://www.mcsweeneys.net/articles/plantmaxxing</id>
+        <link href="https://www.mcsweeneys.net/articles/plantmaxxing"/>
+        <updated>2026-03-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.
+ - - -]]></summary>
+        <author>
+            <name>Ali Fitzgerald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caamp: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=J1vTi9ycpiA</id>
+        <link href="https://www.youtube.com/watch?v=J1vTi9ycpiA"/>
+        <updated>2026-03-19T09:00:25.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The case for and against a 5th fundamental force of nature]]></title>
         <id>https://bigthink.com/starts-with-a-bang/5th-fundamental-force/</id>
@@ -13191,36 +13211,6 @@ This particular image contrasts the constellations of the sky as they appeared t
         <summary type="html"><![CDATA[Immigrants start businesses at a higher rate than native-born Americans, benefitting not only themselves but also their American workers and customers.]]></summary>
         <author>
             <name>Fiona Harrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affordable housing groups face big fee hike from Berkeley ballot measure]]></title>
-        <id>https://www.berkeleyside.org/?p=549475</id>
-        <link href="https://www.berkeleyside.org/2025/12/19/berkeley-affordable-housing-measure-bb-registration-fees"/>
-        <updated>2025-12-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nonprofits managing affordable housing are on the hook for hundreds of thousands of dollars in new city fees.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BART is raising fares starting Jan. 1]]></title>
-        <id>https://www.berkeleyside.org/?p=549441</id>
-        <link href="https://www.berkeleyside.org/2025/12/19/bart-is-raising-fares-starting-jan-1"/>
-        <updated>2025-12-19T20:01:50.000Z</updated>
-        <summary type="html"><![CDATA[The Bay Area transit agency plans a 6.2% increase starting Jan. 1, marking the third consecutive year of rising fares.]]></summary>
-        <author>
-            <name>Dan Brekke | KQED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Good Hop calls it quits after 11 years in Oakland]]></title>
-        <id>https://www.berkeleyside.org/?p=549466</id>
-        <link href="https://www.berkeleyside.org/2025/12/19/good-hop-oakland-beer-bar-closing"/>
-        <updated>2025-12-19T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After a change in ownership in 2024, the Uptown Oakland bar and bottle shop is set to close at the end of 2025.]]></summary>
-        <author>
-            <name>Cecilia Seiter</name>
         </author>
     </entry>
     <entry>
