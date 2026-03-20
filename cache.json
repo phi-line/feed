@@ -3882,6 +3882,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=553996",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A UC Berkeley grad named Alysa Liu was suspended by Instagram for sharing a name with the skater.",
+          "link": "https://www.berkeleyside.org/2026/03/19/the-wire-berkeley-man-detained-for-days-after-rookie-ice-agents-error",
+          "publishedOn": "2026-03-20T00:21:36.000Z",
+          "wordCount": 6977,
+          "title": "The Wire: Berkeley man detained for days after rookie ICE agent’s error",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/AP25101794166272-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553974",
+          "author": "Alex N. Gecan",
+          "description": "The City Council will vote Tuesday whether to sign off on an up-to-$2 million expansion of its partnership with the controversial vendor amid opposition from privacy and immigration advocates.",
+          "link": "https://www.berkeleyside.org/2026/03/19/flock-safety-berkeley-police-alprs-ptz-cameras-drones",
+          "publishedOn": "2026-03-19T22:23:08.000Z",
+          "wordCount": 8586,
+          "title": "From drones to video cameras, Berkeley police ask for more Flock surveillance tools",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/img_3426_720.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553961",
+          "author": "Natalie Orenstein, Alex N. Gecan, Vanessa Arredondo, Felicia Mello and Zac Farber",
+          "description": "El parque waterfront de la ciudad y otros lugares emblemáticos locales llevan el nombre del difunto líder de los derechos laborales, recientemente acusado de agredir sexualmente a Dolores Huerta, a niñas y a otras personas.",
+          "link": "https://www.berkeleyside.org/2026/03/19/berkeley-enaltecio-a-cesar-chavez-ahora-lo-esta-reconsiderando",
+          "publishedOn": "2026-03-19T21:00:57.000Z",
+          "wordCount": 9617,
+          "title": "Berkeley enalteció a César Chávez. Ahora lo está reconsiderando",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/AP26077769053197.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553927",
+          "author": "Elise Proulx",
+          "description": "Elle Cowan has partnered with Hammerling Wines to establish the first permanent location for SoDo Donuts.",
+          "link": "https://www.berkeleyside.org/2026/03/19/sodo-donuts-residency-hammerling-wines",
+          "publishedOn": "2026-03-19T19:00:00.000Z",
+          "wordCount": 7496,
+          "title": "Fermenters unite! Sourdough donuts find new home at West Berkeley winery",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Hammerling-Sodo-horizontal-BexWyant.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=553922",
           "author": "Alex N. Gecan",
           "description": "The two-alarm fire, which also downed power lines, began shortly before 4 a.m. in the La Loma Park neighborhood, fire officials said. Two structures were evacuated but there were no injuries reported.",
@@ -7856,6 +7896,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/plus/how-to-build-a-manager-development-program-from-scratch/",
+          "author": "Hannah Beaver",
+          "description": "Sarah Bright, Head of L&D at Darktrace,  built a manager development program from nothing. They trained 75% of their global managers across 20 cohorts in under two years. What follows is the practical detail behind how her team of three did it: the framework they built, how they measured success, and what she would tell anyone starting from the same place.\nHow the need was identified\nDarktrace has seen rapid growth in employee count. With that growth came a pattern that will be familiar to many fast-scaling businesses: talented individual contributors being promoted into management with little to no formal training. “There wasn’t a shared language in what a manager is at Darktrace,” Sarah explained. People were drawing on whatever examples of management they had encountered, which varied e…",
+          "link": "https://bigthink.com/plus/how-to-build-a-manager-development-program-from-scratch/",
+          "publishedOn": "2026-03-19T22:29:03.000Z",
+          "wordCount": 2558,
+          "title": "How to build a manager development program from scratch",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/build-manager-dev-program4.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/aztec-philosophy-how-lucky-you-are-to-not-be-in-prison-right-now/",
           "author": "Jonny Thomson",
