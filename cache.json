@@ -433,6 +433,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69bd9ecbe631280001182886",
+          "author": "Becky Ferreira",
+          "description": "Scientists have narrowed the hunt for alien life to 45 rocky worlds where liquid water could make life possible.",
+          "link": "https://www.404media.co/scientists-narrow-down-the-hunt-for-aliens-to-45-planets/",
+          "publishedOn": "2026-03-21T13:00:07.000Z",
+          "wordCount": 1978,
+          "title": "Scientists Narrow Down the Hunt for Aliens to 45 Planets",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/image5.jpg"
+        },
+        {
           "id": "69bd479ee631280001154120",
           "author": "Joseph Cox",
           "description": "This week, we discuss unfortunately checking Twitter for news, the closure of the metaverse, and being vulnerable in Marathon.",
@@ -3575,16 +3585,6 @@
           "wordCount": 204,
           "title": "Sauropods",
           "imageUrl": "https://imgs.xkcd.com/comics/sauropods_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3184/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3184/",
-          "publishedOn": "2025-12-22T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Funny Numbers",
-          "imageUrl": "https://imgs.xkcd.com/comics/funny_numbers_2x.png"
         }
       ]
     },
