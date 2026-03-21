@@ -1870,6 +1870,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8374687",
+          "author": "Autumn Billings",
+          "description": "“Officers don’t have the blanket authority to arrest anyone who runs from them,” says an attorney from the Institute for Justice.",
+          "link": "https://reason.com/2026/03/20/markwayne-mullin-says-agents-dont-need-a-warrant-if-theyre-pursuing-a-suspect-heres-what-the-law-says/",
+          "publishedOn": "2026-03-20T21:13:39.000Z",
+          "wordCount": null,
+          "title": "Markwayne Mullin Says Agents Don't Need a Warrant If They're Pursuing a Suspect. Here's What the Law Says.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8374214",
           "author": "Joe Lancaster",
           "description": "In a letter to senators, the administration offered five concessions—two of which were simply that going forward, officers would follow the law.",
@@ -2723,17 +2734,6 @@
           "title": "Refusing To Let Trump Deploy the National Guard in Chicago, SCOTUS Adds a New Wrinkle To the Debate",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8357493",
-          "author": "Fiona Harrigan",
-          "description": "Immigrants start businesses at a higher rate than native-born Americans, benefitting not only themselves but also their American workers and customers.",
-          "link": "https://reason.com/2025/12/21/trump-is-deporting-entrepreneurs/",
-          "publishedOn": "2025-12-21T11:00:29.000Z",
-          "wordCount": null,
-          "title": "He Started a Business Legally. Now Trump's Mass Deportations Threaten Him and Other Immigrant Entrepreneurs.",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3196,6 +3196,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3222/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3222/",
+          "publishedOn": "2026-03-20T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Star Formation",
+          "imageUrl": "https://imgs.xkcd.com/comics/star_formation_2x.png"
+        },
         {
           "id": "https://xkcd.com/3221/",
           "author": null,
@@ -3927,6 +3937,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=471146",
+          "author": "Jose Fermoso",
+          "description": "Members of the East Bay's Iranian American community express fear, stress, sorrow, and hope as the U.S.-Israel attacks on Iran unfold — and they wait anxiously for news from family in the war zone.",
+          "link": "https://www.berkeleyside.org/2026/03/20/persian-new-year-nowruz-iran-us-israel-war-east-bay",
+          "publishedOn": "2026-03-21T00:08:33.000Z",
+          "wordCount": 9302,
+          "title": "Celebrating Nowruz, the Persian new year, at a time of war",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Nowruz-Festival-08-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553939",
+          "author": "Momo Chang",
+          "description": "An option for plate lunches and more on Telegraph Avenue has shuttered.",
+          "link": "https://www.berkeleyside.org/2026/03/20/ll-hawaiian-barbecue-telegraph-closed",
+          "publishedOn": "2026-03-20T19:00:00.000Z",
+          "wordCount": 6690,
+          "title": "Hawaiian barbecue chain closes Berkeley branch",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/LandL-HawaiianBBQ.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=553758",
           "author": "Nico Savidge",
@@ -11620,6 +11650,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111846 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "Two years ago, Congress passed the “Reforming Intelligence and Securing America” Act (RISAA) that included nominal reforms to Section 702 of the Foreign Intelligence Surveillance Act (FISA). The bill unfortunately included some problematic expansions of the law—but it also included a relatively big victory for civil liberties advocates: Section 702 authorities were only extended for two years, allowing Congress to continue the important work of negotiating a warrant requirement for Americans as well as some other critical reforms. \nHowever, Congress clearly did not continue this work. In fact, it now appears that Congress is poised to consider another extension of this program without even attempting to include necessary and common sense reforms. Most notably, Congress is not considering a…",
+          "link": "https://www.eff.org/deeplinks/2026/03/congress-dropping-ball-clean-extension-fisa",
+          "publishedOn": "2026-03-20T22:20:49.000Z",
+          "wordCount": 1789,
+          "title": "Congress Is Dropping the Ball with a Clean Extension of FISA",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "61481"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png"
+        },
         {
           "id": "111835 at https://www.eff.org",
           "author": "David Greene",
