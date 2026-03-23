@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160174",
+          "author": "Natalie Wolchover",
+          "description": "Columnist Natalie Wolchover examines the latest developments in the “forever war” over whether string theory can describe the world.            \nThe post Are Strings Still Our Best Hope for a Theory of Everything? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/are-strings-still-our-best-hope-for-a-theory-of-everything-20260323/",
+          "publishedOn": "2026-03-23T15:00:14.000Z",
+          "wordCount": 4195,
+          "title": "Are Strings Still Our Best Hope for a Theory of Everything?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Qualia-String-Theory-cr-Niark1-Lede-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160099",
           "author": "Marlowe Starling",
           "description": "Off the coast of Japan, biologists netted a pea-size jellyfish with an unusual circadian clock — a chance finding that suggests there are likely more overlooked biological timekeeping mechanisms to be discovered.            \nThe post The Jellies That Evolved a Different Way To Keep Time first appeared on Quanta Magazine",
@@ -422,6 +432,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69bdb6a6e631280001182e4c",
+          "author": "Janus Rose",
+          "description": "Artist Sam Lavigne created ‘Slow LLM’ to make people question their dependence on tools like Claude and ChatGPT. Or at least, make them super annoying to use.",
+          "link": "https://www.404media.co/this-web-tool-sabotages-ai-chatbots-by-making-them-really-really-slow/",
+          "publishedOn": "2026-03-23T15:20:26.000Z",
+          "wordCount": 1839,
+          "title": "This Web Tool Sabotages AI Chatbots By Making Them Really, Really Slow",
+          "imageUrl": "https://www.404media.co/content/images/2026/03/logo.png"
+        },
+        {
+          "id": "69bac80ae6312800011272fb",
+          "author": "Samantha Cole",
+          "description": "Why ridicule works to keep big tech’s claims in check, and what makes us hopeful for the future.",
+          "link": "https://www.404media.co/ridicule-as-praxis-with-emily-bender-and-alex-hanna/",
+          "publishedOn": "2026-03-23T13:37:56.000Z",
+          "wordCount": 1162,
+          "title": "Ridicule as Praxis (with Emily Bender and Alex Hanna)",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/ai-hype-pod.png"
+        },
+        {
+          "id": "69b83727e6312800010ce973",
+          "author": "Joseph Cox",
+          "description": "Marty Tibbitts made millions as a Detroit telecommunications executive. But he wanted more.",
+          "link": "https://www.404media.co/an-adrenaline-junkie-billionaires-quest-to-become-a-cocaine-kingpin-marty-tibbitts-ylli-didani/",
+          "publishedOn": "2026-03-23T13:00:14.000Z",
+          "wordCount": 3817,
+          "title": "An Adrenaline Junkie Millionaire’s Quest to Become a Cocaine Kingpin",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/marty-tibbitts.png"
+        },
         {
           "id": "69bd9ecbe631280001182886",
           "author": "Becky Ferreira",
@@ -2743,6 +2783,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/ai-science",
+          "author": "Asimov Press",
+          "description": "Why scaling AI won’t automatically lead to paradigm shifts.",
+          "link": "https://www.asimov.press/p/ai-science",
+          "publishedOn": "2026-03-23T18:13:32.000Z",
+          "wordCount": null,
+          "title": "Designing AI for Disruptive Science",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!DzmV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f54019-17ca-4c21-b886-cb112c763fde_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!DzmV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f54019-17ca-4c21-b886-cb112c763fde_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/culture-shift",
           "author": "Asimov Press",
           "description": "We tend to think of fermented foods as something humans invented and then chose to eat. But the evidence shows the opposite: fermented foods shaped human biology.",
@@ -3555,16 +3611,6 @@
           "wordCount": 208,
           "title": "Truly Universal Outlet",
           "imageUrl": "https://imgs.xkcd.com/comics/truly_universal_outlet_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3185/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3185/",
-          "publishedOn": "2025-12-24T05:00:00.000Z",
-          "wordCount": 204,
-          "title": "Sauropods",
-          "imageUrl": "https://imgs.xkcd.com/comics/sauropods_2x.png"
         }
       ]
     },
@@ -3917,6 +3963,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554017",
+          "author": "Tanvi Dutta Gupta | Bay Nature",
+          "description": "UC Berkeley student Maya Williams is a plaintiff in two lawsuits that accuse the Environmental Protection Agency of not doing enough to fight climate change and protect young people.",
+          "link": "https://www.berkeleyside.org/2026/03/23/maya-williams-epa-lawsuit-climate-change",
+          "publishedOn": "2026-03-23T13:00:00.000Z",
+          "wordCount": 8365,
+          "title": "She’s 19, and she’s already sued the federal government twice",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Maya-Williams-at-Codornices-horiz-scaled.webp?fit=2560%2C1706&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=471146",
           "author": "Jose Fermoso",
@@ -7131,6 +7187,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/hs9MOdBf-js",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hs9MOdBf-js",
+          "publishedOn": "2026-03-23T14:57:35.000Z",
+          "wordCount": 1987,
+          "title": "#DeskOfTheDay: \"California Bounty,\" Banjo Kitty",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rWigCEcb4LA",
           "author": null,
           "description": "",
@@ -7837,6 +7903,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/the-well/the-case-against-self-help/",
+          "author": "Kate Bowler",
+          "description": "Self-help tells us that we can fix anything with the right mindset, the right habits, the right 5-step plan. But what if that belief is doing more harm than good?\nHistorian Kate Bowler traces the deep roots of America’s obsession with self-making — from prosperity gospel theology to the endless productivity hacks of optimization culture. She explains how self-help promises control over things that are fundamentally fragile: our health, our time, our relationships, our lives.\nThe trouble is, we’re not machines to be upgraded. We’re human: breakable, dependent, and mortal. And any belief system that denies that will ultimately fail us.\nThis video The case against self-help is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/the-case-against-self-help/",
+          "publishedOn": "2026-03-23T13:00:00.000Z",
+          "wordCount": 3391,
+          "title": "The case against self-help",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-EILIS_Web.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/why-we-look-up/",
           "author": "Ethan Siegel",
@@ -9955,6 +10031,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73342",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Pillowy gnocchi is always a treat and this one pot cheesy tomato gnocchi recipe might just be the easiest way to get it on the table for dinner! It’s cozy, creamy, and cheesy—and it all comes together in less than 30 minutes in just one pan. I love Sweet potato gnocchi, but I don’t always […]",
+          "link": "https://jessicainthekitchen.com/cheesy-tomato-gnocchi/",
+          "publishedOn": "2026-03-23T14:00:00.000Z",
+          "wordCount": 9597,
+          "title": "One Pot Cheesy Tomato Gnocchi",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/02/One-Pot-Cheesy-Tomato-Gnocchi5885.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73150",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "If you’re looking for a refreshing side dish with a little tropical flair, this pineapple cucumber salad is it! It’s bright, juicy, sweet and tangy, and it comes together in a snap. Cucumber salad is one of my go-to sides. When I need a little somethin’-somethin’ to round out a meal, I can always count […]",
@@ -10358,6 +10444,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/dont-mind-me-im-just-lurking-in-the-google-doc-to-see-if-youve-left-me-comments-yet",
+          "author": "Miriam Jayaratna",
+          "description": "Oh my god, hi! I’m thrilled to see you here, especially so soon after I sent you the link to my short story draft. If you’re just taking a peek, no worries. I don’t expect any notes right away.\n But I am going to start a timer to see how long you linger here, not-so-subtly disguised as Anonymous Kraken. The length of your stay reveals the extent of my draft’s power to pull the reader in. So even before you’ve given me any notes, you’re already saving me from downward spiraling into self-doubt. Thank you!\n Oh dang, you left after just twelve seconds.\n That’s okay. Maybe you had to go because your cat started a kitchen fire. Or maybe you clicked the link by accident and were like, “Whoops, this definitely isn’t the URL to activate my twenty dollars in Kohl’s cash.” Or maybe you opened the do…",
+          "link": "https://www.mcsweeneys.net/articles/dont-mind-me-im-just-lurking-in-the-google-doc-to-see-if-youve-left-me-comments-yet",
+          "publishedOn": "2026-03-23T17:01:00.000Z",
+          "wordCount": 2960,
+          "title": "Don’t Mind Me, I’m Just Lurking in the Google Doc to See if You’ve Left Me Comments Yet",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/9s1yo2qjs1phg6068qac11n8eynq"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/ive-never-seen-the-mormon-wives-show-but-apparently-its-extremely-important-and-we-all-need-to-be-paying-attention",
           "author": "Julianna W. Miner",
