@@ -6749,36 +6749,6 @@
           "wordCount": 7069,
           "title": "Richmond’s Open Air Coffee shutters",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/OpenAirCoffee-cookie-latte.jpg?fit=1252%2C928&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=547463",
-          "author": "Nathan Dalton",
-          "description": "Judy North designed two of the stained glass windows at Northbrae Community Church in 1954. She was never given proper credit — until now.",
-          "link": "https://www.berkeleyside.org/2025/12/24/northbrae-community-church-judy-north-john-wallis-wiley-stained-glass",
-          "publishedOn": "2025-12-24T15:00:00.000Z",
-          "wordCount": 8827,
-          "title": "At 17, she designed a Berkeley church’s stunning stained glass windows. Now 88, she’s finally been recognized",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/large-Judy-North-at-Northbrae-Church-01.jpg?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549590",
-          "author": "Berkeleyside Staff",
-          "description": "The library shared with Berkeleyside the year’s most frequently checked-out books and household tools.",
-          "link": "https://www.berkeleyside.org/2025/12/24/miranda-julys-all-fours-and-extension-cords-what-berkeley-library-patrons-checked-out-most-in-2025",
-          "publishedOn": "2025-12-24T14:00:00.000Z",
-          "wordCount": 7695,
-          "title": "Miranda July’s ‘All Fours’ and extension cords: What Berkeley library patrons checked out most in 2025",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/03/Entrance-to-the-Berkeley-Public-Library-e1584373681682.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549474",
-          "author": "Sonja Hongisto Bowman",
-          "description": "In addition to leading Merritt, Feather River and College of Alameda, he taught English, worked on political campaigns and helped answer advice letters sent to \"Dear Abby\" at the SF Chronicle.",
-          "link": "https://www.berkeleyside.org/2025/12/24/donald-hongisto-obituary",
-          "publishedOn": "2025-12-24T13:00:00.000Z",
-          "wordCount": 7834,
-          "title": "Remembering Donald Hongisto, president of Merritt College and other Peralta campuses",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/Donald-Hongisto.png"
         }
       ]
     },
@@ -7965,6 +7935,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/problem-gravity-quantum-physics/",
+          "author": "Ethan Siegel",
+          "description": "No matter what you may have heard, make no mistake: physics is not “over” in any sense of the word. As far as we’ve come in our attempts to make sense of the world and Universe around us — and we have come impressively far — it’s absolutely disingenuous to pretend that we’ve solved and understood the natural world around us in any sort of satisfactory sense. We have two theories that work incredibly well: in all the years we’ve been testing them, we’ve never found a single observation or made a single experimental measurement that’s conflicted with either Einstein’s General Relativity or with the Standard Model’s predictions from quantum field theory.\nIf you want to know how gravitation works or what its effects on any object in the Universe will be, General Relativity has yet to let us do…",
+          "link": "https://bigthink.com/starts-with-a-bang/problem-gravity-quantum-physics/",
+          "publishedOn": "2026-03-24T06:00:00.000Z",
+          "wordCount": 4641,
+          "title": "Gravity and quantum physics are fundamentally incompatible",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/06/134574-134575.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/the-well/the-case-against-self-help/",
           "author": "Kate Bowler",
