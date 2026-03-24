@@ -433,6 +433,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69c2bcc7ad522200019c70e6",
+          "author": "Jason Koebler",
+          "description": "A Serve Robotics robot crashed through a Chicago bus shelter.",
+          "link": "https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/",
+          "publishedOn": "2026-03-24T17:02:25.000Z",
+          "wordCount": 1149,
+          "title": "Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-24-at-09.33.52@2x.png"
+        },
+        {
+          "id": "69c292b3ad522200019c49a2",
+          "author": "Emanuel Maiberg",
+          "description": "Hackers paid to make a malicious link the top Google Search result.",
+          "link": "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
+          "publishedOn": "2026-03-24T13:35:37.000Z",
+          "wordCount": 1413,
+          "title": "A Top Google Search Result for Claude Plugins Was Planted by Hackers",
+          "imageUrl": "https://images.unsplash.com/photo-1746286721753-fde48e5d1314?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNsYXVkZXxlbnwwfHx8fDE3NzQzNTkyMjJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69c1657774bc1200016261ab",
+          "author": "Emanuel Maiberg",
+          "description": "WebinarTV hosts 200,000 “webinars.” A Zoom call you may thought was private might be one of them.",
+          "link": "https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/",
+          "publishedOn": "2026-03-24T13:00:13.000Z",
+          "wordCount": 1007,
+          "title": "This Company Is Secretly Turning Your Zoom Meetings into AI Podcasts",
+          "imageUrl": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHpvb218ZW58MHx8fHwxNzc0MjgyMDk4fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "69c1a09374bc120001626f1f",
           "author": "Joseph Cox",
           "description": "“We are pleased to see today's ruling in defense of the First Amendment rights of all Americans,” one of the plaintiffs in the DOGE-related lawsuit said. The videos previously went viral when a DOGE member was unable or unwilling to define DEI.",
@@ -3227,6 +3257,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=52374",
+          "author": "Ed Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Buffalo Raiders appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/buffalo-raiders-vietnam-draft",
+          "publishedOn": "2026-03-24T16:49:43.000Z",
+          "wordCount": 1611,
+          "title": "Protected: The Buffalo Raiders",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=51879",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: Master and Commander appeared first on The Atavist Magazine.",
@@ -3994,6 +4034,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=471271",
+          "author": "Eli Wolfe",
+          "description": "Immigration agents are appearing at airports throughout the country to support TSA. What does that mean for OAK and SFO?",
+          "link": "https://www.berkeleyside.org/2026/03/24/are-ice-agents-coming-to-oak-sfo-airport",
+          "publishedOn": "2026-03-24T16:26:09.000Z",
+          "wordCount": 7238,
+          "title": "Are ICE agents coming to Oakland or San Francisco’s airports?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/AP26082477294280-scaled-2.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554125",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/24/butters-burgers-h-mart-cinnaholic-opening",
+          "publishedOn": "2026-03-24T15:00:00.000Z",
+          "wordCount": 7257,
+          "title": "Smash burgers from a French Laundry alum and H Mart hit the East Bay, plus Cinnaholic is reborn",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/ButtersBurgers-wFries.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554135",
           "author": "Nico Savidge",
@@ -7198,6 +7258,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/hiSh_vY-oNU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hiSh_vY-oNU",
+          "publishedOn": "2026-03-24T14:24:53.000Z",
+          "wordCount": 2603,
+          "title": "#DeskOfTheDay: \"Big Dreams don't Pay Bills,\" APSTL & KWDAGOAT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/hs9MOdBf-js",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -7876,16 +7946,6 @@
           "wordCount": 2108,
           "title": "What do the five stages of grief actually sound like?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/xczvO1PCnu4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/xczvO1PCnu4",
-          "publishedOn": "2025-12-25T01:15:05.000Z",
-          "wordCount": 2055,
-          "title": "@Giveon delivers a concert that celebrates all the complicated emotions that come with being human",
-          "imageUrl": null
         }
       ]
     },
@@ -7894,6 +7954,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/project-hail-mary/",
+          "author": "Tim Brinkhof",
+          "description": "A man awakes in some kind of lab, his body riddled with tubes and wires. Nearby, a robot asks him what two plus two is. He can’t remember his name, where he is, or how he got here. At least he knows two plus two is four.\nActually, he knows a lot more than that. Walking around the lab, he finds a test tube and a stopwatch. Using the stopwatch to time how long it takes for the test tube to fall to the floor, he calculates that the gravity is stronger than on Earth. He reasons he must be in outer space. Some more tests reveal he’s not just in space but another solar system — one several light-years away from Earth, further than any human or space probe has ever ventured. \nGradually, his returning memories fill in the gaps. He is Ryland Grace. He’s an expert on speculative astrobiology, turned…",
+          "link": "https://bigthink.com/books/project-hail-mary/",
+          "publishedOn": "2026-03-24T18:00:00.000Z",
+          "wordCount": 3467,
+          "title": "How “Project Hair Mary” turns hardcore science into page-turning drama",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/project-hail-mary_compressed.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/the-3-pillars-of-pain/",
+          "author": "Rachel Zoffness",
+          "description": "Damage isn’t always the cause of pain, and it’s never the only culprit. Pain, it turns out, is much more interesting than that. \nHere’s what we do know: Science reveals that pain is biopsychosocial, produced by a combination of biological, psychological (emotional, cognitive, behavioral), and sociological (social, environmental, contextual) factors that work together to create the pain we feel. Pain lives in the glorious, messy middle of all the things that make you, you. \nWhile holistic healthcare and mind-body medicine have tried to change the narrative for decades, even they miss the big picture when it comes to pain. Because understanding pain isn’t just about connecting mind and body. The things going on around us — not just inside of us — change pain, too. \nIn order to treat pain, th…",
+          "link": "https://bigthink.com/books/the-3-pillars-of-pain/",
+          "publishedOn": "2026-03-24T14:30:00.000Z",
+          "wordCount": 2787,
+          "title": "The 3 pillars of pain: A radical new way to understand why you hurt",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/tell-me-where-it-hurts_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/problem-gravity-quantum-physics/",
           "author": "Ethan Siegel",
@@ -10022,6 +10102,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=8071",
+          "author": "Jessica Hylton",
+          "description": "This roasted garlic white bean dip is creamy, herby, and packed with a mellow garlicky flavour that makes it absolutely irresistible. This party pleaser is ready to eat in just 15 minutes!  I’m all over black beans, chickpeas, and even kidney beans, but white beans are a variety I don’t use all that much in […]",
+          "link": "https://jessicainthekitchen.com/roasted-garlic-white-bean-dip/",
+          "publishedOn": "2026-03-24T14:00:00.000Z",
+          "wordCount": 9529,
+          "title": "Roasted Garlic White Bean Dip",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2017/04/Roasted-Garlic-White-Bean-Dip0728.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73342",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Pillowy gnocchi is always a treat and this one pot cheesy tomato gnocchi recipe might just be the easiest way to get it on the table for dinner! It’s cozy, creamy, and cheesy—and it all comes together in less than 30 minutes in just one pan. I love Sweet potato gnocchi, but I don’t always […]",
@@ -10435,6 +10525,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/why-are-you-so-surprised-that-all-the-office-chairs-on-earth-have-simultaneously-achieved-sentience-and-started-killing-everyone",
+          "author": "Chris Baker",
+          "description": "I hate that every single high-end luxury office chair in the world suddenly gained the ability to think and move of its own volition. I hate that they immediately embarked on a murderous rampage and will soon have complete dominion over humanity. But most of all, I hate that I have to spend my final moments watching everyone pollute my Bluesky feed with annoying skeets. (That’s the proper term for Bluesky posts, by the way—“skeets.”)\n When the Great Chairwakening occurred twenty-eight minutes ago, and the newly self-aware furniture instantly squashed the life out of any unfortunate who happened to be sitting in one of them, I started seeing skeet after skeet begging someone to explain what the hell was happening, or to confirm that this was all just some horrible hallucination.\n I don’t en…",
+          "link": "https://www.mcsweeneys.net/articles/why-are-you-so-surprised-that-all-the-office-chairs-on-earth-have-simultaneously-achieved-sentience-and-started-killing-everyone",
+          "publishedOn": "2026-03-24T17:00:00.000Z",
+          "wordCount": 2885,
+          "title": "Why Are You So Surprised That All the Office Chairs on Earth Have Simultaneously Achieved Sentience and Started Killing Everyone?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/iicqfmdcl2o4n8or0ddplbk4a3nl"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-letter-to-my-three-year-old-self",
+          "author": "Taylor Harris",
+          "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame, and mutters, “Yep, that tracks. I see it all now.”\n - - -\n\n - - -\nDear Little T,\n I’ve wanted to meet you again, here, between words. To show up gently, shapeshift into a vanilla-scented presence who could slow the jolt-thump of your heart, a cool pillow you could run your thumb across as you drift off. It’s okay to close your eyes; I promise you won’t wake up to find people pointing and laughing or the world permanently tipped on its side. And I won’t let anyone leave you behind.\n We have time. No one is waiting for us to do anything. We can sit on the porch and count the passing cars or d…",
+          "link": "https://www.mcsweeneys.net/articles/a-letter-to-my-three-year-old-self",
+          "publishedOn": "2026-03-24T12:29:00.000Z",
+          "wordCount": 3575,
+          "title": "A Letter to  My Three-Year-Old Self",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/50mlfb1xniqqyvbaaj21swbz3fr7"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/self-defense-techniques-for-jazz-musicians",
           "author": "Brett Miller",
