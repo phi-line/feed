@@ -3401,6 +3401,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3224/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3224/",
+          "publishedOn": "2026-03-25T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Centimeter Wavelengths",
+          "imageUrl": "https://imgs.xkcd.com/comics/centimeter_wavelengths_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3223/",
           "author": null,
           "description": "",
@@ -6865,36 +6875,6 @@
           "wordCount": 8675,
           "title": "‘Everyone is here’: San Pablo Park — Berkeley’s oldest — is a fixture in a changed neighborhood",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/R2-00820-017A.jpg?fit=1818%2C1228&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548639",
-          "author": "Vanessa Arredondo and Ximena Natera",
-          "description": "For local jornaleros with bills to pay, staying home is not an option despite fears about the Trump administration's immigration crackdown. One local nonprofit is providing protection and support.",
-          "link": "https://www.berkeleyside.org/2025/12/26/the-life-of-an-immigrant-day-laborer-in-berkeley-2",
-          "publishedOn": "2025-12-26T16:00:00.000Z",
-          "wordCount": 10194,
-          "title": "The life of an immigrant day laborer in Berkeley",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/02/Natera_Daylaborers_250214_22.jpg?fit=1600%2C1143&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548626",
-          "author": "Nathan Dalton",
-          "description": "Three of the four corners of the University-San Pablo intersection are sitting empty. But one new tenant is on the way, and this key commercial district could be on the upswing.",
-          "link": "https://www.berkeleyside.org/2025/12/26/this-berkeley-neighborhood-is-thriving-except-for-one-intersection-can-it-stage-a-comeback",
-          "publishedOn": "2025-12-26T15:00:00.000Z",
-          "wordCount": 9971,
-          "title": "This Berkeley neighborhood is thriving — except for one intersection. Can it stage a comeback?",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/large-Natera_SanPablo_250320_02.jpg?fit=1600%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548636",
-          "author": "Alex N. Gecan",
-          "description": "Evacuating for a tsunami could take over 2 hours. Neither is enough time for people to get out of danger zones in a worst-case scenario.",
-          "link": "https://www.berkeleyside.org/2025/12/26/evacuating-the-berkeley-hills-during-a-wildfire-could-take-over-4-hours-study-says",
-          "publishedOn": "2025-12-26T14:00:00.000Z",
-          "wordCount": 8599,
-          "title": "Evacuating the Berkeley Hills during a wildfire could take over 4 hours, study says",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP9110201457.jpg?fit=1024%2C674&ssl=1"
         }
       ]
     },
@@ -8036,6 +8016,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/hole-in-universe/",
+          "author": "Ethan Siegel",
+          "description": "Somewhere, far away, if you believe what you can often find on the internet,  there’s a hole in the Universe. There’s a region of space so large and so empty, a region that spans more than a billion light-years across, where there’s nothing located within it at all. There’s no matter of any type:\nno normal matter,\nno dark matter,\nno stars,\nno galaxies,\nno plasma,\nno gas,\nno dust,\nno black holes,\nand no anything else.\nThere’s also no radiation emerging from it at all, either. It’s an example of truly empty space, and its existence has been visually captured by our greatest telescopes.\nAt least, that’s what some people are saying, in a photographic meme that’s been spreading around the internet for years and refuses to die. Scientifically, though, there’s nothing true about these assertions …",
+          "link": "https://bigthink.com/starts-with-a-bang/hole-in-universe/",
+          "publishedOn": "2026-03-26T06:00:00.000Z",
+          "wordCount": 4716,
+          "title": "The widely reported “hole in the Universe” is a lie",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/bok-barnard-68-mw.gif?resize=1184,630"
+        },
         {
           "id": "https://bigthink.com/business/the-algorithm/",
           "author": "Jon McNeill",
@@ -10562,16 +10552,6 @@
           "wordCount": 8765,
           "title": "Chili Cheese Fries Recipe",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/11/Vegan-Chili-French-Fries-14.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=72116",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "Mexican Street Corn Dip takes the flavour of elotes and puts it into a crowd-pleasing appetizer! It’s creamy, smoky, tangy, a little bit spicy, and loaded with sweet corn.  Ever since visiting Mexico, I have loved elotes—and when I went vegan, I even came up with a vegan Mexican Street Corn recipe to capture that […]",
-          "link": "https://jessicainthekitchen.com/mexican-street-corn-dip/",
-          "publishedOn": "2025-12-26T15:00:00.000Z",
-          "wordCount": 8406,
-          "title": "Mexican Street Corn Dip (Elote Street Corn Dip)",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/12/Vegan-Mexican-Corn-Dip-10.jpg"
         }
       ]
     },
