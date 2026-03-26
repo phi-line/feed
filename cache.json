@@ -446,6 +446,76 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/13/language-birth/50ad33fc6a-1772737091/karson-elmgren-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/13/factory-logic",
+          "author": null,
+          "description": "Xinyan Yu’s Made in Ethiopia documents the growth of a Chinese factory complex in the Ethiopian countryside. The director has much more to say on how it reflects the path of industrialization in China — and America.",
+          "link": "https://asteriskmag.com/issues/13/factory-logic",
+          "publishedOn": "2026-03-02T00:00:00.000Z",
+          "wordCount": 7203,
+          "title": "Factory Logic",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/factory-logic/4790e158ff-1772229030/afrawang-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science",
+          "author": null,
+          "description": "What do Works in Progress and Social Text have in common?",
+          "link": "https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science",
+          "publishedOn": "2026-02-23T00:00:00.000Z",
+          "wordCount": 6555,
+          "title": "A Brief History of the History of Science",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/a-brief-history-of-the-history-of-science/61f93bd789-1771612812/matthewjordan-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/the-sweet-lesson-of-neuroscience",
+          "author": null,
+          "description": "Scientists once hoped that studying the brain would teach us how to build AI. Now, one AI researcher may have something to teach us about the brain.",
+          "link": "https://asteriskmag.com/issues/13/the-sweet-lesson-of-neuroscience",
+          "publishedOn": "2026-02-16T00:00:00.000Z",
+          "wordCount": 5300,
+          "title": "The Sweet Lesson of Neuroscience",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/the-sweet-lesson-of-neuroscience/d21ec158f0-1771007624/sweet-lesson-of-neuroscience-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
+          "author": null,
+          "description": "America’s earliest science fairs gave students the chance to do independent research. Today, they’re a competitive gloss to glorified internships. It’s time for a new format.",
+          "link": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 4047,
+          "title": "Rethinking High-School Science Fairs",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/rethinking-high-school-science-fairs/4ac3bb4442-1770398368/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-happy-independence-day-1-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/seeing-like-a-sedan",
+          "author": null,
+          "description": "Waymos and Cybercabs see the world through very different sensors. Which technology wins out will determine the future of self-driving vehicles.",
+          "link": "https://asteriskmag.com/issues/13/seeing-like-a-sedan",
+          "publishedOn": "2026-02-02T00:00:00.000Z",
+          "wordCount": 6858,
+          "title": "Seeing Like a Sedan",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/seeing-like-a-sedan/0967481ad9-1769119580/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-happy-independence-day-3-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/ai-after-drug-development",
+          "author": null,
+          "description": "Coming up with drug candidates isn’t the bottleneck on finding new treatments. Can AI help with the things that are?",
+          "link": "https://asteriskmag.com/issues/13/ai-after-drug-development",
+          "publishedOn": "2026-01-26T00:00:00.000Z",
+          "wordCount": 5705,
+          "title": "AI After Drug Development",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/ai-after-drug-development/fb8dc7fa2b-1769799646/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-happy-independence-day-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/13/the-fight-for-slow-and-boring-research",
+          "author": null,
+          "description": "As federal research funding shrinks, scientists are looking to other sources of support. Can they learn to sell their work without selling out?",
+          "link": "https://asteriskmag.com/issues/13/the-fight-for-slow-and-boring-research",
+          "publishedOn": "2026-01-19T00:00:00.000Z",
+          "wordCount": 4781,
+          "title": "The Fight For Slow And Boring Research",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/16d1e25e69-1767867563/asterisk13_cover_web-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/13/justified-true-belief",
           "author": null,
           "description": "When I decided the theme for this issue, I had one particular article in mind. I've tried to commission it many times over the past six months, but I never did get anyone to bite. In retrospect, I realize that the question I really wanted to ask isn't answerable, at least not in a form that would be interesting to any of you.",
@@ -462,6 +532,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69c559a24c086c00015d448a",
+          "author": "Emanuel Maiberg",
+          "description": "“In recent months, more and more administrative reports centered on LLM-related issues, and editors were being overwhelmed.”",
+          "link": "https://www.404media.co/wikipedia-bans-ai-generated-content/",
+          "publishedOn": "2026-03-26T16:13:09.000Z",
+          "wordCount": 932,
+          "title": "Wikipedia Bans AI-Generated Content",
+          "imageUrl": "https://images.unsplash.com/photo-1566396223585-c8fbf7fa6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHdpa2lwZWRpYXxlbnwwfHx8fDE3NzQ1NDEyOTF8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69c549244c086c00015aed72",
+          "author": "Jason Koebler",
+          "description": "“CAPTURED ON FLOCK CAMERA 31 MM 1 HOLDING PHONE IN LEFT HAND.”",
+          "link": "https://www.404media.co/police-used-flock-to-give-a-man-a-traffic-ticket/",
+          "publishedOn": "2026-03-26T15:04:32.000Z",
+          "wordCount": 1438,
+          "title": "Police Used Flock to Give a Man a Traffic Ticket",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-26-at-08.01.43@2x.png"
+        },
         {
           "id": "69c40f4fcbc938000101580a",
           "author": "Becky Ferreira",
@@ -3835,6 +3925,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/what-the-ai-consciousness-question-conceals",
+          "author": "Barton Friedland",
+          "description": "The post What The AI Consciousness Question Conceals appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/what-the-ai-consciousness-question-conceals",
+          "publishedOn": "2026-03-26T13:40:30.000Z",
+          "wordCount": 7199,
+          "title": "What The AI Consciousness Question Conceals",
+          "imageUrl": "https://noemamag.imgix.net/2026/03/F005-ocre.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=0363db0846a4e647d2cf01802de5dd00"
+        },
+        {
           "id": "https://www.noemamag.com/the-architecture-of-cooperation",
           "author": "HennyGe Wichers",
           "description": "The post The Architecture Of Cooperation appeared first on NOEMA.",
@@ -4141,6 +4241,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554280",
+          "author": "Kate Darby Rauch",
+          "description": "Taste of Richmond returns Saturday, March 28 after a hiatus in 2025, now with a new organizing team that has revamped the event showcasing the city's food scene.",
+          "link": "https://www.berkeleyside.org/2026/03/26/taste-of-richmond-experience-restaurants-bars",
+          "publishedOn": "2026-03-26T17:13:43.000Z",
+          "wordCount": 7893,
+          "title": "Three hours and dozens of food and drink options, Taste of Richmond returns with updates",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/PicklesNSmoke.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=470754",
+          "author": "Esther Kaplan",
+          "description": "Three events are planned in Berkeley and another big march is set for Oakland during the next No Kings Day mobilization on March 28.",
+          "link": "https://www.berkeleyside.org/2026/03/26/no-kings-day-march-upcoming-resistance-events-berkeley-bay-area",
+          "publishedOn": "2026-03-26T16:03:09.000Z",
+          "wordCount": 8365,
+          "title": "‘No Kings Day’ march and protests this Saturday in Berkeley and Oakland",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-No-Kings-rally-Oakland-1-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554251",
+          "author": "Andrew Gilbert",
+          "description": "Also: Layli Long Soldier reads her poetry and a children's book author shares her story of two young friends in Tehran facing the hardships of war.",
+          "link": "https://www.berkeleyside.org/2026/03/26/berkeley-events-march-26-to-april-1",
+          "publishedOn": "2026-03-26T13:15:00.000Z",
+          "wordCount": 7981,
+          "title": "Around Berkeley: Songs of the Sufi, Passover market, bull kelp book talk",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/AP23340522442411.jpg?fit=1024%2C683&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554260",
           "author": "Alex N. Gecan",
@@ -7169,16 +7299,6 @@
           "wordCount": 4578,
           "title": "Meera Sodha’s recipe for radicchio and chianti risotto",
           "imageUrl": "https://i.guim.co.uk/img/media/fb23fd0cef99e2d2d0c1d0a6e753ab0b7723e799/162_1469_3053_2443/master/3053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73b2a9bb7eda61a22669104ca9081730"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2025/dec/27/pumpkin-cheese-fondue-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A decadent, cheesy centrepiece to steal the attention at any party, and built for comfort and joy\nAs 2025 closes, I wanted to leave you with one of my favourite recipes: the pumpkin fondue. This started life as a Lyonnaise dish that I saw Anthony Bourdain enjoy on his TV series Parts Unknown at Daniel Boulud’s parents’ farmhouse. My adapted version could be a centrepiece of your New Year’s Eve party, where the molten cheese mixture can be spread on bruschetta and topped with pickles. Equally, however, it could be a main meal shared with friends alongside a salad, pickles and bread. Either way, it’s built for comfort and for joy. Happy New Year to you.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2025/dec/27/pumpkin-cheese-fondue-recipe-meera-sodha",
-          "publishedOn": "2025-12-27T06:00:32.000Z",
-          "wordCount": 4877,
-          "title": "Cheesy heaven: Meera Sodha’s recipe for pumpkin fondue | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/0ebaf8f0201a8880ccf28efe7fbad8af017013f0/31_1425_3373_2699/master/3373.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d6c470b0d03023d5bee7c08e4948de"
         }
       ]
     },
@@ -7996,6 +8116,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/love-thy-stranger/",
+          "author": "Bart Ehrman",
+          "description": "Most people I know are moved by news of tragedy. A terrible earthquake, a drought, a famine, a flood, wildfires, displaced people, innocent victims of military aggression — we feel pity for those pointlessly suffering and a desire, even an obligation, to help. So we donate to disaster relief; we  organize a collection for food, water, or first aid; possibly we volunteer. Almost never do we know the people in need: they are complete strangers, often in far-off lands, people we will never meet and possibly wouldn’t like if we did. Yet we — at least most of us — want to help. \nThis sense of moral obligation to strangers in need is not written into the human DNA. Nor was it found in the ancient roots of our cultural heritage in the West. Philosophers in the Greek and Roman worlds enthusiastica…",
+          "link": "https://bigthink.com/books/love-thy-stranger/",
+          "publishedOn": "2026-03-26T14:30:00.000Z",
+          "wordCount": 2670,
+          "title": "The surprising origin of modern compassion",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/love-thy-stranger_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/avoiding-collapse-bronze-age/",
+          "author": "Eric Cline",
+          "description": "Around 1200 BC, the most sophisticated network of civilizations the ancient world had ever produced collapsed within a single generation.\nArchaeologist Eric Cline has spent his career forensically reconstructing why, and the answer is far stranger and more unsettling than a single catastrophic event.\nThis video The real lesson from the first time globalization died is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/avoiding-collapse-bronze-age/",
+          "publishedOn": "2026-03-26T13:00:00.000Z",
+          "wordCount": 8453,
+          "title": "The real lesson from the first time globalization died",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/A1-Web-Cline-1.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/hole-in-universe/",
           "author": "Ethan Siegel",
@@ -10558,6 +10698,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/this-generation-has-it-easy-their-emojis-are-just-handed-to-them",
+          "author": "Nat Hrvatin",
+          "description": "Back in my day, there wasn’t an endless collection of readily available emojis to express any emotion you wanted. No, we had to work hard and make our own emojis all by ourselves. There was no premade smiley face. There was only (colon+right parenthesis) or, if you were feeling festive and wanted to add a nose, (colon+hyphen+right parenthesis).\n :) and :-) were but a few of our limited options.\n This generation has a Rolodex of winky faces and laughing faces, mad faces, and eye-roll faces. They have sad faces and silly faces, and faces that do both. Thinking of their entitlement makes me feel >:( and =\\ and :‑###. (That last one’s a sick face, you illiterate youngins.)\n They will never know the pain we endured on AOL Instant Messenger with our meager tool set that couldn’t encompass all th…",
+          "link": "https://www.mcsweeneys.net/articles/this-generation-has-it-easy-their-emojis-are-just-handed-to-them",
+          "publishedOn": "2026-03-26T18:00:00.000Z",
+          "wordCount": 2908,
+          "title": "This Generation Has It Easy; Their Emojis Are Just Handed to Them",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/27c3xzena0pbzmati7cnu52nxq0x"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/swamp-dreams",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/swamp-dreams",
+          "publishedOn": "2026-03-26T16:00:00.000Z",
+          "wordCount": 2022,
+          "title": "Swamp Dreams",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1yzld6hxl966k7gdib5fxc8g6u8u"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/february-2026-atrocities-731-779",
           "author": "Emily Greenberg and Cliff Mayotte",
           "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
@@ -11704,6 +11864,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111865 at https://www.eff.org",
+          "author": "Betty Gedlu",
+          "description": "If your ISP can be liable for huge amounts of money for not terminating your access to the internet because of accusations that you—or someone in your household or college network—has committed copyright infringement, that is dangerous. We live in a world where high speed internet access is a necessity for participation in everyday life. That’s why liability for ISPs for their customers’ actions should not be expanded.\nLast fall, EFF filed an amicus brief urging the U.S. Supreme Court to reject an expansive theory of secondary copyright liability that threatened to impose massive damages on internet service providers and other technology companies simply for offering widely used services. Yesterday, the Court agreed.\nIn Cox v. Sony, the Court reversed a Fourth Circuit decision that had uph…",
+          "link": "https://www.eff.org/deeplinks/2026/03/supreme-court-agrees-eff-isps-dont-have-be-copyright-enforcers",
+          "publishedOn": "2026-03-26T16:31:08.000Z",
+          "wordCount": 1809,
+          "title": "Supreme Court Agrees With EFF: ISPs Don't Have To Be Copyright Enforcers",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/fixcopyright-graphic-banner.jpg",
+            "alt": "EFF Presents &quot;Fix Copyright&quot;, a design featuring a cartoon mouse hacking his tractor.",
+            "type": "image/jpeg",
+            "length": "359162"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/fixcopyright-graphic-banner.jpg"
+        },
         {
           "id": "111858 at https://www.eff.org",
           "author": "Hudson Hongo",
