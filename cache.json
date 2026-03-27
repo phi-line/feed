@@ -533,6 +533,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69c5892f4c086c00015d57d0",
+          "author": "Joseph Cox",
+          "description": "The move isn't surprising, but shows what data is available to authorities when paying Apple customers use the Hide My Email feature.",
+          "link": "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature/",
+          "publishedOn": "2026-03-26T19:38:04.000Z",
+          "wordCount": 1318,
+          "title": "Apple Gives FBI a User’s Real Name Hidden Behind ’Hide My Email’ Feature",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/andy-wang-Nfw2A9JGBsw-unsplash.jpg"
+        },
+        {
           "id": "69c559a24c086c00015d448a",
           "author": "Emanuel Maiberg",
           "description": "“In recent months, more and more administrative reports centered on LLM-related issues, and editors were being overwhelmed.”",
@@ -4241,6 +4251,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554306",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Bob Dylan's coming to the Greek, and Berkeley's AI guidelines.",
+          "link": "https://www.berkeleyside.org/2026/03/26/the-wire-how-many-students-get-into-uc-berkeley-from-the-waitlist",
+          "publishedOn": "2026-03-27T00:15:00.000Z",
+          "wordCount": 6851,
+          "title": "The Wire: How many students get into UC Berkeley from the waitlist?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/AP25115700441572.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554308",
+          "author": "Felicia Mello",
+          "description": "The settlement alters how UC Berkeley responds to discrimination complaints. What does it mean for free speech? And how much will Cal change course?",
+          "link": "https://www.berkeleyside.org/2026/03/26/uc-berkeley-brandeis-center-antisemitism-settlement",
+          "publishedOn": "2026-03-27T00:13:08.000Z",
+          "wordCount": 9272,
+          "title": "‘Landmark’ deal or no big deal? Inside UC Berkeley’s $1 million antisemitism settlement",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-Natera_240311_JewishStudentsSilentProtest_03-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554289",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/26/las-delicias-cheese-board-juice-house-closed",
+          "publishedOn": "2026-03-26T21:00:00.000Z",
+          "wordCount": 6748,
+          "title": "Cheese Board announces partial temporary closing during construction, and Las Delicias departs downtown",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Cheeseboard-Container-radcliffe.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554280",
           "author": "Kate Darby Rauch",
@@ -11864,6 +11904,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111873 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "A new report from 404 Media sheds light on how automated license plate readers (ALPRs) could be used beyond the press releases and glossy marketing materials put out by law enforcement agencies and ALPR vendors. In December 2025, Georgia State Patrol ticketed a motorcyclist for holding a cell phone in his hand. According to the report, the ticket read, “CAPTURED ON FLOCK CAMERA 31 MM 1 HOLDING PHONE IN LEFT HAND.” \nIf you’re thinking that this sounds outside of the scope of what ALPRs are supposed to do, you’re right. In November 2025, Flock Safety, the maker of the ALPR in question, wrote a post about how they definitely are in compliance with the Fourth Amendment to the U.S. Constitution. In this post, which highlighted what ALPRs are and what they are not, the company writes: “What it is not: Flock ALPR does not perform facial recognition, does not store biometrics, cannot be queried to find people, and is not used to enforce traffic violations.” (emphasis added)\nWell, apparently their customers never got the memo and apparently the technology’s design does not explicitly prevent behavior the company officially and publicly disavows. \nOr at least this used to be the case: Flock now lists six different companies providing traffic enforcement technology on its “Partner program”  site. Public records also show that speed enforcement cameras have been connected to Flock's ALPR network. \nEFF and other privacy advocates have long warned about mission creep when it comes to surveillance infrastructure. Police often swear that a piece of technology will only be used in a particular set of circumstances or to fight only the most serious crimes only to utilize it to fight petty crimes or watch protests.  \nWe continue to urge cities, states, and even companies to end their relationship with Flock Safety because of the incompatibility between the mass surveillance it enables and its inability to protect civil liberties—including preventing mission creep.",
+          "link": "https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here",
+          "publishedOn": "2026-03-26T20:19:26.000Z",
+          "wordCount": 1562,
+          "title": "Traffic Violation! License Plate Reader Mission Creep Is Already Here",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/sls-alpr-2023_banner_graphic_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "12420"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/sls-alpr-2023_banner_graphic_0.png"
+        },
+        {
+          "id": "111871 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "May 13, 2026 - 5:00pm to 8:00pm PDT\n\n\nMay 13, 2026 - 5:00pm to 8:00pm PDT\n\n\nSan Francisco, CA\n\n\n\nWhen the Pentagon formally designated Anthropic a \"supply chain risk\" this March, the dispute put a spotlight on civil liberties concerns in the AI-era. Anthropic had reportedly hit an impasse with the Trump administration over the company’s push for guardrails banning the use of its Claude model to conduct mass surveillance. Anthropic’s CEO had called such surveillance a “red line” it would not cross. But where exactly should those lines be drawn, and who should draw them?\nFew people have spent more time thinking about those issues than Cindy Cohn, executive director of the San Francisco-based civil liberties group Electronic Frontier Foundation. Throughout her career, EFF's executive director…",
+          "link": "https://www.eff.org/event/fight-against-ai-powered-surveillance-adam-savage",
+          "publishedOn": "2026-03-26T18:49:08.000Z",
+          "wordCount": 1488,
+          "title": "The Fight Against AI-Powered Surveillance with Adam Savage",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/20260513_cindy_cohn_and_adam_savage_hero.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "865572"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/20260513_cindy_cohn_and_adam_savage_hero.png"
+        },
         {
           "id": "111865 at https://www.eff.org",
           "author": "Betty Gedlu",
