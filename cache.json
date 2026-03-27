@@ -8138,16 +8138,6 @@
           "wordCount": null,
           "title": "Tiny Desk Brasil: João Gomes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/dj5yYBLNAP0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/dj5yYBLNAP0",
-          "publishedOn": "2025-12-27T15:01:14.000Z",
-          "wordCount": 2212,
-          "title": "Wednesday's, 'Bleeds,' tells the stories of the poets, dreamers, weirdos and freaks.",
-          "imageUrl": null
         }
       ]
     },
@@ -8156,6 +8146,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/dark-energy-curve-universe-time/",
+          "author": "Ethan Siegel",
+          "description": "Whenever you have a Universe like ours — governed by general relativity and full of different types of energy — there are many different possible outcomes. Your Universe could tear itself apart, driving objects away from one another faster and faster, with no limit in sight: a Big Rip. Your Universe could expand forever, leading to an eventual cold, empty fate. Your Universe could exist in perfect harmony, where the expansion rate drops to zero, but never reverses course and recollapses. Or your Universe could reach a maximum size, begin contracting, and eventually meet its demise in a catastrophic Big Crunch.\nHowever, despite the wildly different possibilities that reflect your Universe’s ultimate cosmic future, there’s only one major factor that determines that fate: the sum total of all…",
+          "link": "https://bigthink.com/starts-with-a-bang/dark-energy-curve-universe-time/",
+          "publishedOn": "2026-03-27T06:00:00.000Z",
+          "wordCount": 5088,
+          "title": "Ask Ethan: Does dark energy curve the Universe over time?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/dark_energy_expansion_of_universe_concept.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/linden-biological-phenomena/",
+          "author": "David J. Linden",
+          "description": "Neuroscientist David Linden sheds light on the biology behind phenomena that medicine has long struggled to explain, from voodoo death and broken heart syndrome to the placebo effect, and why grief shows up in autopsy results. \nLinden also explores the rising GLP-1 drugs, their effects on addiction, and why they don’t work forever.\nThis video The science behind the strangest biological phenomena is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/linden-biological-phenomena/",
+          "publishedOn": "2026-03-27T04:00:00.000Z",
+          "wordCount": 21182,
+          "title": "The science behind the strangest biological phenomena",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-10.59.00-AM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/love-thy-stranger/",
           "author": "Bart Ehrman",
@@ -11904,6 +11914,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111880 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "April 21, 2026 - 3:00pm to 6:00pm PDT\n\n\nApril 21, 2026 - 6:00pm to 9:00pm EDT\n\n\nNew York, NY\n\n\n\n Join Tech:NYC President and CEO Julie Samuels in conversation with EFF Executive Director Cindy Cohn, to discuss Cindy's book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance. \nCindy has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet. But can we still have private conversations if we live our lives online?\n\nREGISTER TODAY! \nThis is a FREE event!\nWant your own copy of Privacy's Defender?\nOrder online or buy onsite at Civic Hall\nWHEN:\nTuesday, April 21st, 2026\n6:00 pm to 9:00 pm\n\nWHERE:\nCivic Hall\n124 E 14th St\nNew York, NY 10003\n6:00 pm Doors Open\n6:30 pm Program Begins\n\nAbout the…",
+          "link": "https://www.eff.org/event/privacys-defender-civic-hall",
+          "publishedOn": "2026-03-26T23:11:51.000Z",
+          "wordCount": 1454,
+          "title": "Privacy's Defender at Civic Hall",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png",
+            "alt": "Book cover for Privacy&#039;s Defender + Cindy Cohn portrait",
+            "type": "image/png",
+            "length": "421523"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
+        },
         {
           "id": "111873 at https://www.eff.org",
           "author": "Matthew Guariglia",
