@@ -543,6 +543,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69c6be4f3bfa1d000126999a",
+          "author": "Becky Ferreira",
+          "description": "Earth’s magnetic field has created a huge void of galactic cosmic rays in space, which could help protect astronauts from radiation exposure.",
+          "link": "https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist/",
+          "publishedOn": "2026-03-28T13:00:27.000Z",
+          "wordCount": 2019,
+          "title": "Scientists Discover Giant ‘Cavity’ Beyond Earth That Isn’t Supposed to Exist",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/197_2015197212209.png"
+        },
+        {
           "id": "69c6a2723bfa1d0001240c70",
           "author": "Jason Koebler",
           "description": "In this week's roundup: Iran's slopaganda, WebinarTV, and RIP Sora.",
@@ -3909,16 +3919,6 @@
           "wordCount": 208,
           "title": "Anyone Else Here",
           "imageUrl": "https://imgs.xkcd.com/comics/anyone_else_here_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3187/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3187/",
-          "publishedOn": "2025-12-29T05:00:00.000Z",
-          "wordCount": 210,
-          "title": "High Altitude Cooking Instructions",
-          "imageUrl": "https://imgs.xkcd.com/comics/high_altitude_cooking_instructions_2x.png"
         }
       ]
     },
@@ -4301,6 +4301,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554397",
+          "author": "Associated Press and Berkeleyside Staff",
+          "description": "At least four events are planned in Berkeley and another big march is set for Oakland during the next No Kings Day mobilization on Saturday, March 28.",
+          "link": "https://www.berkeleyside.org/2026/03/28/no-kings-berkeley-oakland-march-28",
+          "publishedOn": "2026-03-28T15:12:57.000Z",
+          "wordCount": 7937,
+          "title": "Big ‘No Kings’ rallies and marches set for Berkeley, Oakland today",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/SKM_1174.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554360",
           "author": "Nico Savidge",
