@@ -3531,6 +3531,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3225/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3225/",
+          "publishedOn": "2026-03-27T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Satellite Pollution",
+          "imageUrl": "https://imgs.xkcd.com/comics/satellite_pollution_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3224/",
           "author": null,
           "description": "",
@@ -4291,6 +4301,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554360",
+          "author": "Nico Savidge",
+          "description": "A sign has been removed, his name blacked out and his face covered up at Cesar Chavez Park, which Berkeley moved to rename earlier this week.",
+          "link": "https://www.berkeleyside.org/2026/03/27/berkeley-cesar-chavez-park-sign-removed",
+          "publishedOn": "2026-03-27T19:03:38.000Z",
+          "wordCount": 7327,
+          "title": "Cesar Chavez’s name and image have been erased from Berkeley park",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Chavez-sign.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554311",
           "author": "Alex N. Gecan",
@@ -10434,6 +10454,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73579",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "I use chickpeas a lot in my cooking and these are the BEST chickpea recipes! From comforting main dishes to fresh salads and snacks, these dishes are packed with garbanzo bean goodness. If I had to choose one ingredient to take with me on a desert island, there’s no question or hesitation: it’s chickpeas, AKA […]",
+          "link": "https://jessicainthekitchen.com/best-chickpea-recipes/",
+          "publishedOn": "2026-03-27T14:00:00.000Z",
+          "wordCount": 7770,
+          "title": "The Best Chickpea Recipes",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/01/Jennifer-Aniston-Salad_12.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/new/?p=8071",
           "author": "Jessica Hylton",
           "description": "This roasted garlic white bean dip is creamy, herby, and packed with a mellow garlicky flavour that makes it absolutely irresistible. This party pleaser is ready to eat in just 15 minutes!  I’m all over black beans, chickpeas, and even kidney beans, but white beans are a variety I don’t use all that much in […]",
@@ -12044,6 +12074,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111867 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Cisco Systems Case Has Major Implications for Global Human Rights\n\n\n\nSAN FRANCISCO – U.S. technology companies should be legally accountable in U.S. courts for building tools that purposefully and actively facilitate human rights abuses by foreign governments, the Electronic Frontier Foundation argued in a brief filed Friday to the U.S. Supreme Court. \nThe brief filed in the case of Cisco Systems, Inc., et al., v. Doe I, et al. urges the high court to uphold the U.S. Court of Appeals for the 9th Circuit’s 2023 ruling that U.S. corporations can be held liable under the Alien Tort Statute (ATS) – a law that lets noncitizens bring claims in U.S. federal court for international law violations – for taking actions in the U.S. that aided and abetted persecution and torture abroad. \n“This is not …",
+          "link": "https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture",
+          "publishedOn": "2026-03-27T22:07:56.000Z",
+          "wordCount": 1933,
+          "title": "US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/china-eye-2.png",
+            "alt": "China Spying",
+            "type": "image/png",
+            "length": "36332"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/china-eye-2.png"
+        },
         {
           "id": "111880 at https://www.eff.org",
           "author": "Melissa Srago",
