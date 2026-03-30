@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-30T00:31:11.354Z</updated>
+    <updated>2026-03-30T06:40:46.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peculiar galaxies showcase the beauty of cosmic violence]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/peculiar-galaxies-beauty-cosmic-violence/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/peculiar-galaxies-beauty-cosmic-violence/"/>
+        <updated>2026-03-30T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Throughout the visible Universe, trillions of galaxies abound.
+
+This deep-field view of the Universe showcases a portion of the COSMOS-Web field acquired with JWST. In this field are a wide variety of galaxies, where the largest, most massive ones are nearly all spirals or ellipticals, with some lenticular galaxies possessing properties common to both. However, about 5-10% of these galaxies, where their shapes can be resolved, are irregular, peculiar galaxies: evidence of galactic interactions and mergers.
+
+Credit: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team
+
+
+
+Most of the Universe’s stars, however, are contained in the largest, most massive galaxies.
+
+This image, acquired with the Hubble Space Telescope in 2018, shows the giant elliptical galaxy NG…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Big ‘No Kings’ rallies and marches set for Berkeley, Oakland today]]></title>
         <id>https://www.berkeleyside.org/?p=554397</id>
@@ -14123,76 +14143,6 @@ And finally, we’ve begun searching directly for any signals from space that mi
         <updated>2025-12-31T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empty empires: A few Berkeley landlords are sitting on several vacant buildings]]></title>
-        <id>https://www.berkeleyside.org/?p=548604</id>
-        <link href="https://www.berkeleyside.org/2025/12/30/empty-empires-a-few-berkeley-landlords-are-sitting-on-several-vacant-buildings"/>
-        <updated>2025-12-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One Berkeley family may own as many as five vacant properties. Their bill under the city’s new vacancy tax will be more than triple what they paid in property taxes last year.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2003: MP3 Blogs and Pitchfork Shake Up Music Media]]></title>
-        <id>https://cybercultural.com/p/mp3-blogs-2003/</id>
-        <link href="https://cybercultural.com/p/mp3-blogs-2003/"/>
-        <updated>2025-12-30T15:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Pitchfork's 2003 review of MP3 blogger favorite, The Rapture.
-Season 4 of Cybercultural has been focused on the rise of digital culture from 1994 through to 2003, a period that encompasses the beginning of the web, moves through the dot-com boom and bust, and ends the year before Web 2.0 emerges. During this season, I've written a lot about how both online music and blogging evolved from 1994-2003 — helping to push the internet into mainstream culture. It's appropriate, then, that the final post of this season looks at a sub-trend that combines these two topics: music blogs, a.k.a. "MP3 blogs."
-By 2003, with the blogosphere now established, music fans had begun to gravitate to blogs to pontificate about the music and artists they loved. It was no longer necessary to set up an entire websit…]]></summary>
-        <author>
-            <name>Cybercultural: Internet History</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 of Big Think’s favorite books in 2025]]></title>
-        <id>https://bigthink.com/books/10-of-big-thinks-favorite-2025-books/</id>
-        <link href="https://bigthink.com/books/10-of-big-thinks-favorite-2025-books/"/>
-        <updated>2025-12-30T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 was packed with amazing books. Whether you wanted to learn about physics, history, words, birds, words about birds, killer chemistry, or enjoy some armchair philosophy, there was a book for you. I read so many fantastic books that I struggled to keep the list down to 10 — which is why it’s actually 15 (despite the title). I also couldn’t bring myself to rank them, so they’re ordered by release date.
-What can I say? I’m horribly indecisive.
-If you haven’t read some of these yet, I recommend picking up any that speak to you. Who knows? Maybe one will be a favorite of yours in 2026.
-1. The Certainty Illusion by Timothy Caulfield
-
-Credit: Allen Lane
-
-
-As a leading science communicator, Caulfield believes that “well done and trustworthy science” helps us make sense of our reality. He’s rig…]]></summary>
-        <author>
-            <name>Kevin Dickinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why electric bikes are everywhere in Berkeley]]></title>
-        <id>https://www.berkeleyside.org/?p=548657</id>
-        <link href="https://www.berkeleyside.org/2025/12/30/why-electric-bikes-are-everywhere-in-berkeley"/>
-        <updated>2025-12-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[They’re fun, they’re green, they’re cheaper than ever. From 1 to 81, Berkeley residents of all ages and abilities are taking to e-bikes — used for commutes, school drop-offs, grocery trips and joy rides.]]></summary>
-        <author>
-            <name>Joanne Furio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baked Spaghetti]]></title>
-        <id>https://jessicainthekitchen.com/?p=67496</id>
-        <link href="https://jessicainthekitchen.com/baked-spaghetti/"/>
-        <updated>2025-12-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This baked spaghetti recipe is pure comfort food for pasta lovers! Tender eggplant, vegan ground beef, and lots of plant-based cheese makes it irresistible. I love a baked pasta recipe. Don’t get me wrong, I love pasta too, but pasta in casserole form is just that much more comforting—not to mention that much more cheesy. […]]]></summary>
-        <author>
-            <name>Jessica from Jessica in the Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley’s John Hinkel Park is a ‘dream world, green world’ for theater and nature lovers]]></title>
-        <id>https://www.berkeleyside.org/?p=548601</id>
-        <link href="https://www.berkeleyside.org/2025/12/30/john-hinkel-park-2"/>
-        <updated>2025-12-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gifted to the city by a wealthy banker in 1919, the steeply wooded park at the base of the Berkeley Hills is a draw for Shakespeare troupes and families.]]></summary>
-        <author>
-            <name>Nathan Dalton</name>
         </author>
     </entry>
     <entry>
