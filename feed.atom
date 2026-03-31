@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-03-30T18:21:31.569Z</updated>
+    <updated>2026-03-31T00:30:37.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AC Transit reveals doomsday budget scenarios, and entire lines could be cut]]></title>
+        <id>https://oaklandside.org/?p=471713</id>
+        <link href="https://www.berkeleyside.org/2026/03/30/ac-transit-service-cuts-sales-tax"/>
+        <updated>2026-03-30T22:48:09.000Z</updated>
+        <summary type="html"><![CDATA[If a new tax doesn’t pass in November, one plan would cut service to two-thirds of pre-pandemic levels. Bus lines that serve fewer people are on the chopping block.]]></summary>
+        <author>
+            <name>Jose Fermoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['You Can't Defeat the Robots!': Baseball's AI Strike Zone Is Must-Watch Television]]></title>
+        <id>69cad50a3bfa1d00012ec227</id>
+        <link href="https://www.404media.co/you-cant-defeat-the-robots-baseballs-mlb-abs-ai-strike-zone-is-must-watch-television/"/>
+        <updated>2026-03-30T20:01:12.000Z</updated>
+        <summary type="html"><![CDATA[MLB's ABS system somehow feels extremely human. It's not human vs robot, it's human vs human as judged by a robot.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The César team is staging a comeback, with help from author Michael Lewis]]></title>
+        <id>https://www.berkeleyside.org/?p=554463</id>
+        <link href="https://www.berkeleyside.org/2026/03/30/cesar-tapas-return-meson-michael-lewis-cameron-mcveigh"/>
+        <updated>2026-03-30T19:20:31.000Z</updated>
+        <summary type="html"><![CDATA[The new restaurant, opening in Westbrae, is named Mesón and will be modeled after the cherished tapas bar that shuttered four years ago.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our AI Will Murder Your Employees, Pleasure Their Spouses, and Raise Their Children]]></title>
         <id>https://www.mcsweeneys.net/articles/our-ai-will-murder-your-employees-pleasure-their-spouses-and-raise-their-children</id>
@@ -118,6 +148,15 @@ Most of the Universe’s stars, however, are contained in the largest, most mass
 This image, acquired with the Hubble Space Telescope in 2018, shows the giant elliptical galaxy NG…]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Solar]]></title>
+        <id>https://xkcd.com/3226/</id>
+        <link href="https://xkcd.com/3226/"/>
+        <updated>2026-03-30T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -635,6 +674,35 @@ There’s also no radiation emerging from it at all, either. It’s an example o
 At least, that’s what some people are saying, in a photographic meme that’s been spreading around the internet for years and refuses to die. Scientifically, though, there’s nothing true about these assertions …]]></summary>
         <author>
             <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy's Defender with WISP in Washington D.C.]]></title>
+        <id>111864 at https://www.eff.org</id>
+        <link href="https://www.eff.org/event/privacys-defender-wisp-washington-dc"/>
+        <updated>2026-03-26T01:10:37.000Z</updated>
+        <summary type="html"><![CDATA[April 14, 2026 - 3:00pm PDT to April 15, 2026 - 5:00pm PDT
+
+
+April 14, 2026 - 6:00pm to 8:00pm EDT
+
+
+Washington, D.C.
+
+
+
+Join Women in Security and Privacy (WISP) and EFF for a conversation featuring American University Senior Professorial Lecturer Chelsea Horne and EFF Executive Director Cindy Cohn in discussion about Cindy's book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance. 
+ Cindy has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet. But can we still have private conversations if we live our lives online?
+
+REGISTER TODAY! 
+This is a FREE event!
+Want your own copy of Privacy's Defender?
+Order online, books will NOT be available onsite
+WHEN:
+Tuesday, April 14th, 2026
+6:0…]]></summary>
+        <author>
+            <name>Melissa Srago</name>
         </author>
     </entry>
     <entry>
@@ -14217,17 +14285,6 @@ All of that changed a little over 100 years ago. From radioactivity to the photo
         <summary type="html"><![CDATA[Once part of a railroad route from Berkeley to Chicago, the three-block-long park is now a weekend destination for those living well beyond Poet’s Corner.]]></summary>
         <author>
             <name>Joanne Furio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why scientists can’t stop searching for alien life]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/science-search-alien-life/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/science-search-alien-life/"/>
-        <updated>2025-12-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite all we’ve learned about ourselves and the physical reality that we all inhabit, the giant question of whether we’re alone in the Universe remains unanswered. We’ve explored the surfaces and atmospheres of many worlds in our own Solar System, but only Earth shows definitive signs of life: past or present. We’ve discovered more than 5,000 exoplanets over the past 30 years, identifying many Earth-sized, potentially inhabited worlds among them. Still, none of them have revealed themselves as actually inhabited, although the prospects for finding extraterrestrial life in the near future are tantalizing.
-And finally, we’ve begun searching directly for any signals from space that might indicate the presence of an intelligent, technologically advanced civilization, through endeavors such a…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

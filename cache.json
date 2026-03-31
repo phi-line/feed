@@ -553,6 +553,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69cad50a3bfa1d00012ec227",
+          "author": "Jason Koebler",
+          "description": "MLB's ABS system somehow feels extremely human. It's not human vs robot, it's human vs human as judged by a robot.",
+          "link": "https://www.404media.co/you-cant-defeat-the-robots-baseballs-mlb-abs-ai-strike-zone-is-must-watch-television/",
+          "publishedOn": "2026-03-30T20:01:12.000Z",
+          "wordCount": 2510,
+          "title": "'You Can't Defeat the Robots!': Baseball's AI Strike Zone Is Must-Watch Television",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-30-at-12.58.01@2x.png"
+        },
+        {
           "id": "69ca7f233bfa1d00012c2f43",
           "author": "Emanuel Maiberg",
           "description": "The incident is yet another example of volunteer Wikipedia editors fighting to keep the world’s largest repository of human knowledge free of AI-generated slop.",
@@ -3555,6 +3565,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3226/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3226/",
+          "publishedOn": "2026-03-30T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Home Solar",
+          "imageUrl": "https://imgs.xkcd.com/comics/home_solar_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3225/",
           "author": null,
           "description": "",
@@ -4305,6 +4325,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=471713",
+          "author": "Jose Fermoso",
+          "description": "If a new tax doesn’t pass in November, one plan would cut service to two-thirds of pre-pandemic levels. Bus lines that serve fewer people are on the chopping block.",
+          "link": "https://www.berkeleyside.org/2026/03/30/ac-transit-service-cuts-sales-tax",
+          "publishedOn": "2026-03-30T22:48:09.000Z",
+          "wordCount": 7681,
+          "title": "AC Transit reveals doomsday budget scenarios, and entire lines could be cut",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-E-Oakland-to-Skyline-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554463",
+          "author": "Momo Chang",
+          "description": "The new restaurant, opening in Westbrae, is named Mesón and will be modeled after the cherished tapas bar that shuttered four years ago.",
+          "link": "https://www.berkeleyside.org/2026/03/30/cesar-tapas-return-meson-michael-lewis-cameron-mcveigh",
+          "publishedOn": "2026-03-30T19:20:31.000Z",
+          "wordCount": 8210,
+          "title": "The César team is staging a comeback, with help from author Michael Lewis",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-IMG_9618.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554381",
           "author": "Alina Ta | CalMatters",
@@ -10359,16 +10399,6 @@
           "wordCount": 3669,
           "title": "10 quantum myths that must die in the new year",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/12/quantum_ill.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/science-search-alien-life/",
-          "author": "Ethan Siegel",
-          "description": "Despite all we’ve learned about ourselves and the physical reality that we all inhabit, the giant question of whether we’re alone in the Universe remains unanswered. We’ve explored the surfaces and atmospheres of many worlds in our own Solar System, but only Earth shows definitive signs of life: past or present. We’ve discovered more than 5,000 exoplanets over the past 30 years, identifying many Earth-sized, potentially inhabited worlds among them. Still, none of them have revealed themselves as actually inhabited, although the prospects for finding extraterrestrial life in the near future are tantalizing.\nAnd finally, we’ve begun searching directly for any signals from space that might indicate the presence of an intelligent, technologically advanced civilization, through endeavors such a…",
-          "link": "https://bigthink.com/starts-with-a-bang/science-search-alien-life/",
-          "publishedOn": "2025-12-31T07:00:00.000Z",
-          "wordCount": 4331,
-          "title": "Why scientists can’t stop searching for alien life",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/https___blogs-images.forbes.com_startswithabang_files_2019_03_NASA-Dana-Berry-e1711556875766.jpg?w=960&h=540&crop=1"
         }
       ]
     },
@@ -12103,6 +12133,22 @@
             "length": "359162"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/fixcopyright-graphic-banner.jpg"
+        },
+        {
+          "id": "111864 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "April 14, 2026 - 3:00pm PDT to April 15, 2026 - 5:00pm PDT\n\n\nApril 14, 2026 - 6:00pm to 8:00pm EDT\n\n\nWashington, D.C.\n\n\n\nJoin Women in Security and Privacy (WISP) and EFF for a conversation featuring American University Senior Professorial Lecturer Chelsea Horne and EFF Executive Director Cindy Cohn in discussion about Cindy's book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance. \n Cindy has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet. But can we still have private conversations if we live our lives online?\n\nREGISTER TODAY! \nThis is a FREE event!\nWant your own copy of Privacy's Defender?\nOrder online, books will NOT be available onsite\nWHEN:\nTuesday, April 14th, 2026\n6:0…",
+          "link": "https://www.eff.org/event/privacys-defender-wisp-washington-dc",
+          "publishedOn": "2026-03-26T01:10:37.000Z",
+          "wordCount": 1428,
+          "title": "Privacy's Defender with WISP in Washington D.C.",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png",
+            "alt": "Book cover for Privacy&#039;s Defender + Cindy Cohn portrait",
+            "type": "image/png",
+            "length": "421523"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
         },
         {
           "id": "111858 at https://www.eff.org",
