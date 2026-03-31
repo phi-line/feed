@@ -7119,26 +7119,6 @@
           "wordCount": 10474,
           "title": "Ashby! Tilden! Ada Rose! Berkeley’s babies are often named after local streets and parks",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/large-Natera_BerkeleyNames_250330_03.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548653",
-          "author": "Joanne Furio",
-          "description": "As hills residents are told to clear vegetation around their homes to prevent wildfires, they are helping develop a new landscape design paradigm for the era of climate change.",
-          "link": "https://www.berkeleyside.org/2025/12/31/can-yards-in-the-berkeley-hills-be-both-fire-safe-and-beautiful",
-          "publishedOn": "2025-12-31T15:00:00.000Z",
-          "wordCount": 10646,
-          "title": "Can yards in the Berkeley Hills be both fire-safe and beautiful?",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/20250617-212333.webp?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=548655",
-          "author": "Joanne Furio",
-          "description": "Once part of a railroad route from Berkeley to Chicago, the three-block-long park is now a weekend destination for those living well beyond Poet’s Corner.",
-          "link": "https://www.berkeleyside.org/2025/12/31/strawberry-creek-park-is-west-berkeleys-hidden-gem-to-picnic-sunbathe-and-splash",
-          "publishedOn": "2025-12-31T14:00:00.000Z",
-          "wordCount": 10566,
-          "title": "Strawberry Creek Park is West Berkeley’s hidden gem to picnic, sunbathe and splash",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Strawberry-Creek-Park-2.jpg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -8230,6 +8210,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/universe-changed-time-finish-sentence/",
+          "author": "Ethan Siegel",
+          "description": "For most of us, the Universe doesn’t appear to change all that much on the scale of even a human lifetime. Sure, the stars move relative to one another, our Sun burns through a little more of its fuel, and the Moon slowly spirals away from the Earth as our rotation rate gradually slows down. Meanwhile, on grander scales, older stars across the Universe run out of fuel and die, new episodes of star-formation are triggered, and the Universe continues to expand, driving individual galaxies, groups of galaxies, and clusters of galaxies mutually apart, faster and faster, as time goes on.\nBut all of these events take time: enormous amounts of time. Stars occasionally pass through our Oort Cloud, but that only happens a couple of times every million years. The Sun will continue burning for 5-7 bi…",
+          "link": "https://bigthink.com/starts-with-a-bang/universe-changed-time-finish-sentence/",
+          "publishedOn": "2026-03-31T06:00:00.000Z",
+          "wordCount": 5149,
+          "title": "The Universe has changed by the time you finish this sentence",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/08/ouli2020-ENGLISH-for-social.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/peculiar-galaxies-beauty-cosmic-violence/",
           "author": "Ethan Siegel",
@@ -12038,6 +12028,32 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111881 at https://www.eff.org",
+          "author": "Jason Kelley",
+          "description": "About EFF\nThe Electronic Frontier Foundation is the leading nonprofit defending civil liberties in the digital world. EFF’s work to protect your rights on the internet is supported by over 30,000 members who have joined our mission by donating just this year.\nFor over 35 years, our lawyers, activists, and technologists have been thinking about the next big thing in tech before anyone else—whether that’s age verification, AI, or Palantir. Whatever causes you fight for, you rely on the internet to do so. And EFF protects the infrastructure of rebellion. \nJOIN EFF TODAY\nTo learn more about our work, follow EFF on social media and subscribe to EFF's EFFector newsletter below to learn about the ways the internet and online rights are changing and what that means for you. And join EFF to support…",
+          "link": "https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender",
+          "publishedOn": "2026-03-31T03:17:47.000Z",
+          "wordCount": 2298,
+          "title": "Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/cindy-daily-show-2.jpg",
+            "alt": "Cindy Cohn talks with Jon Stewart",
+            "type": "image/jpeg",
+            "length": "435566"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/cindy-daily-show-2.jpg"
+        },
+        {
+          "id": "111888 at https://www.eff.org",
+          "author": "Jason Kelley",
+          "description": "Site Banner: \n\n\n\n\nMobile Site Banner: \n\n\n\n\nLink: \n\nhttps://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-abou…\n\n\nMobile Link: \n\nhttps://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-abou…\n\n\nBanner Text: \n\nDaily show viewers: Learn more about cindy cohn and privacy's defender\n\n\nMobile Banner Text: \n\nDaily show viewers: Learn more about cindy cohn and privacy's defender",
+          "link": "https://www.eff.org/node/111888",
+          "publishedOn": "2026-03-30T20:14:43.000Z",
+          "wordCount": 568,
+          "title": "The Daily Show Site Banner",
+          "imageUrl": "https://www.eff.org/files/eff-og.png"
+        },
         {
           "id": "111887 at https://www.eff.org",
           "author": "Jason Kelley",
