@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-01T00:33:49.307Z</updated>
+    <updated>2026-04-01T06:38:09.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The flimsy case for evolving dark energy]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/"/>
+        <updated>2026-04-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a legendary bit of wisdom that applies just as well to theoretical physics as it does to the drug culture from which it arose: “Don’t get high on your own supply.” While theoretical physicists are famous for coming up with extraordinary, creative, exotic scenarios for what may yet be possible in the Universe, there’s a great danger in buying into such an idea, and thinking that it’s likely, before a sufficient amount of supporting evidence has come in in favor of it. This was the fallacy that led to the rise of elegant, beautiful, and compelling scenarios — grand unification, supersymmetry, extra dimensions, and string theory — whose predictions simply don’t appear to match experimental reality in any measurable way.
+The danger isn’t in having and developing an idea that’s speculat…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The history of Golden Gate Fields]]></title>
         <id>https://www.berkeleyside.org/?p=554530</id>
@@ -14508,16 +14519,6 @@ But not so with gravitation. In fact, gravitation is unique in this sense. With 
         <updated>2026-01-02T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashby! Tilden! Ada Rose! Berkeley’s babies are often named after local streets and parks]]></title>
-        <id>https://www.berkeleyside.org/?p=548666</id>
-        <link href="https://www.berkeleyside.org/2026/01/01/ashby-tilden-ada-rose-berkeleys-babies-are-often-named-after-local-streets-and-parks"/>
-        <updated>2026-01-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We found twins named Parker and Addison, a couple who named their three kids after streets and two girls named for the city itself.]]></summary>
-        <author>
-            <name>Joanne Furio</name>
         </author>
     </entry>
     <entry>
