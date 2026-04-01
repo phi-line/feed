@@ -543,6 +543,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69cbfe3e36c2310001b9bc32",
+          "author": "Matthew Gault",
+          "description": "Reddit blamed a technical glitch for the removal of the living legend’s concert footage.",
+          "link": "https://www.404media.co/paul-mccartney-banned-from-reddit-after-promoting-himself-in-paul-mccartney-subreddit/",
+          "publishedOn": "2026-03-31T18:26:14.000Z",
+          "wordCount": 1322,
+          "title": "Paul McCartney Banned From Reddit After Promoting Himself in Paul McCartney Subreddit",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/1920px-McCartneyO2101224_p2_-167_of_191-_-54225060041--1.jpg"
+        },
+        {
           "id": "69cac83d3bfa1d00012ebf86",
           "author": "Joseph Cox",
           "description": "Thomson Reuters’ data, which can include peoples’ addresses and details on their ethnicity, is linked to tools used by ICE.",
@@ -4336,6 +4346,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=554530",
+          "author": "Nick Lozito",
+          "description": "Famed jockeys and horses thrilled race fans from the 1940s until the track's closure in 2024. The land, in Berkley and Albany, could soon become a public park.",
+          "link": "https://www.berkeleyside.org/2026/03/31/the-history-of-golden-gate-fields",
+          "publishedOn": "2026-03-31T20:06:00.000Z",
+          "wordCount": 8833,
+          "title": "The history of Golden Gate Fields",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Golden-Gate-Fields.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554543",
+          "author": "Nico Savidge",
+          "description": "A San Francisco-based nonprofit agreed to buy the former race track for $175 million and transfer it to the East Bay Regional Park District, creating a huge new shoreline park.",
+          "link": "https://www.berkeleyside.org/2026/03/31/golden-gate-fields-sold-park-albany-berkeley",
+          "publishedOn": "2026-03-31T19:36:14.000Z",
+          "wordCount": 8033,
+          "title": "Golden Gate Fields could soon turn into a public park",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Natera_20240420_GGF_-36.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554549",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/03/31/fungi-foods-studio-estepan-tita-beccas-sanaa-opening",
+          "publishedOn": "2026-03-31T19:35:17.000Z",
+          "wordCount": 7396,
+          "title": "Fungi Foods opens brick-and-mortar; plus 2 new cafes, a fresh Filipino option, and a place for egg enthusiasts",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/FungiFoods-Oakland.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=554513",
           "author": "Alex N. Gecan",
           "description": "One person was “assessed for possible medical complaint” but did not end up going to a hospital, according to BFD. There were no other reported injuries.",
@@ -7560,21 +7600,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/darwin-the-witness/osorno.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/darwin-the-man-of-his-times",
-          "author": null,
-          "description": "In His Own Words (Episode 3)",
-          "link": "https://aethermug.com/posts/darwin-the-man-of-his-times?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-01-01T11:21:43.000Z",
-          "wordCount": 11001,
-          "title": "Darwin the Man of His Times",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/darwin-the-man-of-his-times/east_india.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/darwin-the-man-of-his-times/east_india.jpeg"
         }
       ]
     },
@@ -10499,16 +10524,6 @@
           "wordCount": 4246,
           "title": "Ask Ethan: Why is there no such thing as antigravity?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2023/12/Ask-Ethan-Anti-Gravity.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/10-quantum-myths/",
-          "author": "Ethan Siegel",
-          "description": "For centuries, the laws of physics seemed completely deterministic. If you knew where every particle was, how fast it was moving, and what the forces were between them at any one instant, you could know exactly where they’d be and what they’d be doing at any point in the future. From Newton to Maxwell, the rules that governed the Universe had no built-in, inherent uncertainty to them in any form. Your only limits arose from your limited knowledge, measurements, and calculational power.\nAll of that changed a little over 100 years ago. From radioactivity to the photoelectric effect to the behavior of light when you passed it through a double slit, we began realizing that under many circumstances, we could only predict the probability that various outcomes would arise as a consequence of the …",
-          "link": "https://bigthink.com/starts-with-a-bang/10-quantum-myths/",
-          "publishedOn": "2026-01-01T07:00:00.000Z",
-          "wordCount": 3669,
-          "title": "10 quantum myths that must die in the new year",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/12/quantum_ill.jpg?resize=1200,630"
         }
       ]
     },
