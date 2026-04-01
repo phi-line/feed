@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-01T06:38:09.126Z</updated>
+    <updated>2026-04-01T12:22:17.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matzah’s Daily Affirmations]]></title>
+        <id>https://www.mcsweeneys.net/articles/matzahs-daily-affirmations</id>
+        <link href="https://www.mcsweeneys.net/articles/matzahs-daily-affirmations"/>
+        <updated>2026-04-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am proud of how far I’ve come. I started as a Passover food, but now grocery stores display me for all Jewish holidays, even the ones where people fast all day.
+ I am allowed to feel salty. I am allowed to feel bitter, especially when I’m dipped in horseradish. I am allowed to feel gluten-free, though that is less about feelings and more about allergens.
+ I am enough just as I am. I have to be—for eight days and nights, I’m the only option.
+ I attract good things in life, like butter, peanut butter, and cream cheese. Yes, I also attract bitter herbs and saltwater, but I choose to focus on the butter and schmear.
+ I am important both in the Passover story and as one of the top three ingredients in chocolate caramel matzah.
+ I am beautiful just as I am. “What’s with that giant cracker?” so…]]></summary>
+        <author>
+            <name>Sarah Garfinkel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The flimsy case for evolving dark energy]]></title>
         <id>https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/</id>
