@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160237",
+          "author": "Zack Savitsky",
+          "description": "The winning entries in the 2025 Global Physics Photowalk contest showcase the beauty of toil and discovery.            \nThe post A Through-The-Lens Look at the World’s Particle Physics Labs first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
+          "publishedOn": "2026-04-01T14:58:31.000Z",
+          "wordCount": 2407,
+          "title": "A Through-The-Lens Look at the World’s Particle Physics Labs",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2027/04/cropped-Image-gallery-global-physics-photowalk-winners-cr-Marco-Donghia-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160503",
           "author": "Shalma Wegsman",
           "description": "The basic shape that best describes our expanding universe is also the hardest shape for physicists to understand.            \nThe post In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive first appeared on Quanta Magazine",
@@ -542,6 +552,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69cd427a330f63000112687f",
+          "author": "Becky Ferreira",
+          "description": "The proof-of-concept system produces psilocybin, DMT, and other compounds in leaves of the tobacco plant, potentially easing pressure on wild species and preserving Indigenous traditions.",
+          "link": "https://www.404media.co/scientists-create-plant-that-produces-ayahuasca-shrooms-and-toad-psychedelics-all-at-once/",
+          "publishedOn": "2026-04-01T18:00:25.000Z",
+          "wordCount": 1611,
+          "title": "Scientists Create Plant That Produces Ayahuasca, Shrooms, and Toad Psychedelics All At Once",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/image1.jpg"
+        },
+        {
+          "id": "69cd0e27330f6300011001ec",
+          "author": "Samantha Cole",
+          "description": "I spent some time with a new browser-based augmented reality porn app.",
+          "link": "https://www.404media.co/enjoy-me-now-augmented-reality-ar-sex-app/",
+          "publishedOn": "2026-04-01T13:10:17.000Z",
+          "wordCount": 2698,
+          "title": "I Tried to Find the ‘Arousal Intelligence’ In An Animated, Augmented Reality Porn Star",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/Untitled-design--36-.png"
+        },
+        {
+          "id": "69cc105c330f6300010fd5c1",
+          "author": "Joseph Cox",
+          "description": "Iran's AI and LEGO-focused propaganda; drama in the world of baseball; and perhaps one of the worst sex apps ever.",
+          "link": "https://www.404media.co/podcast-inside-the-ai-slop-propaganda-wars/",
+          "publishedOn": "2026-04-01T13:07:19.000Z",
+          "wordCount": 1068,
+          "title": "Podcast: Inside the AI Slop Propaganda Wars",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/7.png"
+        },
+        {
+          "id": "69cc5162330f6300010fe1b7",
+          "author": "Claire Woodcock",
+          "description": "Groups that challenge books have begun using Gemini, ChatGPT, xAI, and other AI tools to try to get books banned.",
+          "link": "https://www.404media.co/blockade-the-right-is-using-ai-content-scanners-to-try-to-supercharge-book-banning/",
+          "publishedOn": "2026-04-01T13:00:00.000Z",
+          "wordCount": 2677,
+          "title": "‘BLOCKADE’: The Right Is Using AI Content Scanners to Try to Supercharge Book Banning",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/jaredd-craig-HH4WBGNyltc-unsplash.jpg"
+        },
         {
           "id": "69cbfe3e36c2310001b9bc32",
           "author": "Matthew Gault",
@@ -3943,16 +3993,6 @@
           "wordCount": 204,
           "title": "Tensegrity",
           "imageUrl": "https://imgs.xkcd.com/comics/tensegrity_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3189/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3189/",
-          "publishedOn": "2026-01-02T05:00:00.000Z",
-          "wordCount": 206,
-          "title": "Conic Sections",
-          "imageUrl": "https://imgs.xkcd.com/comics/conic_sections_2x.png"
         }
       ]
     },
@@ -4345,6 +4385,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=471740",
+          "author": "Darwin BondGraham",
+          "description": "California’s top election official says a ruling to stop election officials from counting late-arriving ballots would “disenfranchise millions.”",
+          "link": "https://www.berkeleyside.org/2026/04/01/mail-in-ballots-election-day-supreme-court-case",
+          "publishedOn": "2026-04-01T13:00:00.000Z",
+          "wordCount": 7715,
+          "title": "Supreme Court could ban counting of late arriving mail-in ballots",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-20_20241016_YouthVoteKickoff_Middleton_224.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554530",
           "author": "Nick Lozito",
@@ -8246,6 +8296,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/strange-maps/aztec-capital-map/",
+          "author": "Frank Jacobs",
+          "description": "For early 16th-century Europeans, this map was a revelation. It showed a previously unknown island metropolis in the recently discovered Americas — an alien Venice, if you will.\nHowever, by the time this first European portrait of the Aztec capital Tenochtitlan was published in 1524, the city, once home to perhaps 200,000 people, was already gone — razed in 1521 by Spanish conquistador Hernán Cortés. In its place, Mexico City would eventually rise.\nYet this is more than the ghost map of a recently deceased city. It is a multi-layered document of first contact, evidence of the hybridization of two clashing cultures as well as the dominance of one over the other.\nCuriously, nobody knows who exactly made this map. The leading theory is that it was based on an indigenous chart of the city. Cor…",
+          "link": "https://bigthink.com/strange-maps/aztec-capital-map/",
+          "publishedOn": "2026-04-01T13:00:00.000Z",
+          "wordCount": 2560,
+          "title": "Ghost map: Europe’s first glimpse of Tenochtitlan shows a city already destroyed",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/tenoch-grande.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
+          "author": "Robert Herjavec",
+          "description": "Most people spend years searching for a mentor who will change their life, never realizing the most valuable lessons are already happening around them. \nShark Tank’s Robert Herjavec breaks down why the traditional idea of mentorship is not only outdated, but actively getting in the way of your growth.\nThis video The hidden reason smart people stop growing is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
+          "publishedOn": "2026-04-01T13:00:00.000Z",
+          "wordCount": 4164,
+          "title": "The hidden reason smart people stop growing",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/A1-Web-Herjavec.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/",
           "author": "Ethan Siegel",
           "description": "There’s a legendary bit of wisdom that applies just as well to theoretical physics as it does to the drug culture from which it arose: “Don’t get high on your own supply.” While theoretical physicists are famous for coming up with extraordinary, creative, exotic scenarios for what may yet be possible in the Universe, there’s a great danger in buying into such an idea, and thinking that it’s likely, before a sufficient amount of supporting evidence has come in in favor of it. This was the fallacy that led to the rise of elegant, beautiful, and compelling scenarios — grand unification, supersymmetry, extra dimensions, and string theory — whose predictions simply don’t appear to match experimental reality in any measurable way.\nThe danger isn’t in having and developing an idea that’s speculat…",
@@ -10957,6 +11027,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/an-oral-history-of-the-us-governments-attempts-to-fake-the-1969-moon-landing",
+          "author": "Carlos Greaves",
+          "description": "The following are excerpts from an unpublished 1971 Rolling Stone exposé that was scuttled by the Nixon administration, but which has recently been made public through a Freedom of Information Act request.\n - - -\nThe Lunar Module. An American flag. Lots and lots of gray rocks. If I didn’t know any better, I’d think I was looking at a photograph of the Moon. But as former NASA head Thomas O. Paine explains, nursing a whiskey soda on his living room sofa, this photograph wasn’t taken on the Moon. It was taken on a soundstage. In Arizona.\n THOMAS O. PAINE: I remember getting a phone call from President Nixon in January 1969, a few days after he’d been sworn in, asking for a progress update on the Apollo program. Which, at the time, was going very badly.\n WERNHER VON BRAUN: It’s very hard to s…",
+          "link": "https://www.mcsweeneys.net/articles/an-oral-history-of-the-us-governments-attempts-to-fake-the-1969-moon-landing",
+          "publishedOn": "2026-04-01T16:40:00.000Z",
+          "wordCount": 2775,
+          "title": "An Oral History of the US Government’s Attempts to Fake the 1969 Moon Landing",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/054c0yfdbh4i56x17lpy5psn3hsc"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/matzahs-daily-affirmations",
           "author": "Sarah Garfinkel",
           "description": "I am proud of how far I’ve come. I started as a Passover food, but now grocery stores display me for all Jewish holidays, even the ones where people fast all day.\n I am allowed to feel salty. I am allowed to feel bitter, especially when I’m dipped in horseradish. I am allowed to feel gluten-free, though that is less about feelings and more about allergens.\n I am enough just as I am. I have to be—for eight days and nights, I’m the only option.\n I attract good things in life, like butter, peanut butter, and cream cheese. Yes, I also attract bitter herbs and saltwater, but I choose to focus on the butter and schmear.\n I am important both in the Passover story and as one of the top three ingredients in chocolate caramel matzah.\n I am beautiful just as I am. “What’s with that giant cracker?” so…",
@@ -12203,6 +12283,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111853 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "This is the second installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings.\nFrom Russia—where wartime censorship and more stringent platform controls have choked dissenting voices—to Nigeria, with its aggressive takedown orders turning social media into political battlegrounds, and to Turkey, where sweeping “disinformation” laws have made platforms heavily policed spaces, freedom of expression online is under attack. Per Freedom House’s 2023 Freedom on the Net Report, 66% of internet users live where political or social sites are blocked, and 78% are in countries where people have been arrested for online posts. New social media regulations have emerged in dozens of countries in the past year alone.\nThe online landscape looks markedly different than …",
+          "link": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation",
+          "publishedOn": "2026-04-01T13:20:13.000Z",
+          "wordCount": 2833,
+          "title": "Digital Hopes, Real Power: From Revolution to Regulation",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/arabspring-banner2.png",
+            "alt": "Hands holding up flowers under the word حرية, Arabic for &quot;freedom&quot;",
+            "type": "image/png",
+            "length": "1396283"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
+        },
         {
           "id": "111881 at https://www.eff.org",
           "author": "Jason Kelley",
