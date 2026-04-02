@@ -3625,6 +3625,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3227/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3227/",
+          "publishedOn": "2026-04-01T04:00:00.000Z",
+          "wordCount": 217,
+          "title": "Creation",
+          "imageUrl": "https://imgs.xkcd.com/comics/creation_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3226/",
           "author": null,
           "description": "",
@@ -4385,6 +4395,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554630",
+          "author": "Nico Savidge",
+          "description": "Four council members have signed onto a proposal for the city to repave Hopkins without the bike lane that sparked an uproar years ago, effectively killing the project for the foreseeable future.",
+          "link": "https://www.berkeleyside.org/2026/04/01/hopkins-street-bike-lane-paving",
+          "publishedOn": "2026-04-01T21:58:14.000Z",
+          "wordCount": 9360,
+          "title": "The Hopkins Street battle is back: Berkeley reopens ‘toxic’ debate over bike lane",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/20260312_BikeProtest-_EG_017.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554616",
+          "author": "Cecilia Seiter",
+          "description": "More restaurants are pivoting to a fast-casual model to survive — and thrive — in an era of skyrocketing food, fuel and labor costs.",
+          "link": "https://www.berkeleyside.org/2026/04/01/lulus-ace-daytrip-counter-service-restaurant-conversion",
+          "publishedOn": "2026-04-01T21:17:04.000Z",
+          "wordCount": 9360,
+          "title": "‘Less crying in the walk-in’: East Bay restaurants switch to counter service to survive",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_NOSH_LULUSKITCHEN-CounterService_260325_010.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=471740",
           "author": "Darwin BondGraham",
@@ -10584,16 +10614,6 @@
           "wordCount": 2790,
           "title": "What does oxygen in JWST’s most distant galaxies really mean?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/eso2507a.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/why-no-antigravity/",
-          "author": "Ethan Siegel",
-          "description": "Although there are four known fundamental forces to the Universe, there’s only one that matters on the largest cosmic scales of all: gravitation. The other three fundamental forces:\nthe strong nuclear force, which holds protons and neutrons together,\nthe weak nuclear force, responsible for radioactive decays and any “species change” among quarks and leptons,\nand the electromagnetic force, which causes neutral atoms to form,\nare all largely irrelevant on cosmic scales. The reason why is simple: the other forces, when you gather large sets of particles together, all balance out at large distances. Matter, under those three forces, appears “neutral” at large scales, and no net force exists.\nBut not so with gravitation. In fact, gravitation is unique in this sense. With gravitation, there are …",
-          "link": "https://bigthink.com/starts-with-a-bang/why-no-antigravity/",
-          "publishedOn": "2026-01-02T07:00:00.000Z",
-          "wordCount": 4246,
-          "title": "Ask Ethan: Why is there no such thing as antigravity?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/12/Ask-Ethan-Anti-Gravity.jpg?resize=1200,630"
         }
       ]
     },
