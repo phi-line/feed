@@ -553,6 +553,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69ce840c0c956700016c06c8",
+          "author": "Matthew Gault",
+          "description": "A Minnesota journalist is challenging a 3,000 foot restriction on flying near DHS assets on First Amendment grounds.",
+          "link": "https://www.404media.co/journalist-sues-faa-over-drone-no-fly-zone-designed-to-prevent-filming-ice/",
+          "publishedOn": "2026-04-02T15:04:11.000Z",
+          "wordCount": 1691,
+          "title": "Journalist Sues FAA Over Drone No Fly Zone Designed to Prevent Filming ICE",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/dec_12_20_lake_st_mpls.jpg"
+        },
+        {
+          "id": "69ce801b0c956700016c039e",
+          "author": "Samantha Cole",
+          "description": "In space, no one can hear you scream at Microsoft’s legacy software.",
+          "link": "https://www.404media.co/artemis-2-astronauts-microsoft-outlook-livestream/",
+          "publishedOn": "2026-04-02T14:50:08.000Z",
+          "wordCount": 990,
+          "title": "Artemis II Astronauts Have ‘Two Microsoft Outlooks’ and Neither Work",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/55183089523_12fca550fa_k.jpg"
+        },
+        {
+          "id": "69ce6ede0c9567000169a955",
+          "author": "Joseph Cox",
+          "description": "TeleGuard is an app downloaded more a million times that markets itself as a secure way to chat. The app uploads users’ private keys to the company’s server, and makes decryption of messages trivial.",
+          "link": "https://www.404media.co/a-secure-chat-apps-encryption-is-so-bad-it-is-meaningless/",
+          "publishedOn": "2026-04-02T13:47:24.000Z",
+          "wordCount": 1144,
+          "title": "A Secure Chat App’s Encryption Is So Bad It Is ‘Meaningless’",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/teleguard.png"
+        },
+        {
           "id": "69cd427a330f63000112687f",
           "author": "Becky Ferreira",
           "description": "The proof-of-concept system produces psilocybin, DMT, and other compounds in leaves of the tobacco plant, potentially easing pressure on wild species and preserving Indigenous traditions.",
@@ -4059,6 +4089,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
+          "author": "Laura J. Martin",
+          "description": "The post Limiting Not Just Screen Time, But Screen Space appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
+          "publishedOn": "2026-04-02T13:09:19.000Z",
+          "wordCount": 6994,
+          "title": "Limiting Not Just Screen Time, But Screen Space",
+          "imageUrl": "https://noemamag.imgix.net/2026/03/2-with-color-4-1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=092c9bc275830eb9230d8db85276ed33"
+        },
+        {
           "id": "https://www.noemamag.com/the-return-of-the-moral-state",
           "author": "Alexandre Lefebvre",
           "description": "The post The Return Of The Moral State appeared first on NOEMA.",
@@ -4395,6 +4435,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554618",
+          "author": "Carly Severn | KQED and Nisa Khan | KQED",
+          "description": "Refugees, asylees, survivors of trafficking and others are no longer eligible to apply for new CalFresh benefits. The changes are among the huge cuts to social safety programs in the U.S. enacted by President Trump’s “Big Beautiful Bill.”",
+          "link": "https://www.berkeleyside.org/2026/04/02/food-stamp-benefits",
+          "publishedOn": "2026-04-02T14:00:00.000Z",
+          "wordCount": 8611,
+          "title": "Thousands of Alameda County immigrants lost access to food stamps this week",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/251031-SFMARINFOODBANK-11-BL-KQED.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554568",
+          "author": "Andrew Gilbert",
+          "description": "Also: Cathy Park Hong, Brandon Shimoda and Divya Victor discuss artist Theresa Hak Kyung Cha at BAMPFA and an author talk on how financial companies police free speech.",
+          "link": "https://www.berkeleyside.org/2026/04/02/berkeley-events-april-2-to-9",
+          "publishedOn": "2026-04-02T13:00:00.000Z",
+          "wordCount": 7947,
+          "title": "Around Berkeley: Sail free on Sunday, Easter egg hunts; ‘Freaky Tales’ cast at La Peña",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/TomLarryGilman-1600x1198-1.webp?fit=780%2C584&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554630",
           "author": "Nico Savidge",
@@ -7513,16 +7573,6 @@
           "wordCount": 4530,
           "title": "Meera Sodha’s vegan recipe for roast swede and purple sprouting broccoli curry | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/4fa594f713fad1b65ef5c42bb08c99ddafc0ed82/0_184_3655_2924/master/3655.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=287a4c0da92763ffbbf78cd3542f73bf"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Bittersweet maroon leaves pair perfectly with juicy red wine in this elegant winter risotto served with a walnut pesto\nBitter ingredients are not to everyone’s taste, but, amid these darkest months, they make me feel alive. I love Seville oranges, grapefruit, brassicas, bitter greens, chicory and, most of all, radicchio. I like the burgundy-spotted castelfranco (great for salad with citrus and cheese) and the long-locked tardivo (best cooked with balsamic vinegar), but radicchio di chioggia is the popular leader of the pack. A chubby little cabbage-y nugget with a middle-of-the-road bitterness that becomes milder, sweeter and more delicious, especially when cooked alongside a large glass of juicy chianti and finished off with a snowy dusting of parmesan.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/jan/03/radicchio-and-chianti-risotto-recipe-meera-sodha",
-          "publishedOn": "2026-01-03T06:00:29.000Z",
-          "wordCount": 4578,
-          "title": "Meera Sodha’s recipe for radicchio and chianti risotto",
-          "imageUrl": "https://i.guim.co.uk/img/media/fb23fd0cef99e2d2d0c1d0a6e753ab0b7723e799/162_1469_3053_2443/master/3053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73b2a9bb7eda61a22669104ca9081730"
         }
       ]
     },
@@ -8315,6 +8365,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/monopsony/",
+          "author": "Arindrajit Dube",
+          "description": "What determines the extent of employers’ wage-setting power? It boils down to how easily — borrowing Beyoncé’s phrase — you can “release your job” when pay isn’t good enough. But how simple is it for someone to quit Walmart if they are dissatisfied with their wage?\nTo answer this question, my collaborators Suresh Naidu and Adam Reich and I surveyed about 10,000 Walmart workers in 2019 using a Facebook-based strategy, similar to the Shift Project. As we saw previously, Walmart, the nation’s largest private employer, has long been associated with low pay. In 2019, its voluntary company-wide minimum wage stood at $11 per hour, lagging behind competitors like Target and Costco. If paying jobs were truly easy to replace, one would expect Walmart jobs to be among the easier to quit and move on f…",
+          "link": "https://bigthink.com/books/monopsony/",
+          "publishedOn": "2026-04-02T14:30:00.000Z",
+          "wordCount": 3043,
+          "title": "Why don’t Walmart workers walk away from low pay? Monopsony.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/wage-standard_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/moon-landing/",
           "author": "Ethan Siegel",
@@ -11037,6 +11097,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-came-to-washington-to-represent-the-people-in-my-walls",
+          "author": "Henry Block",
+          "description": "Let me make something crystal clear to members of the press. I didn’t come to Washington to play games. I didn’t come here to pose for the cameras or rub elbows at some swanky Georgetown cocktail party. I came here for one reason only: to represent the good people who live in my walls. Period.\n The folks back in my home are angry, and it’s high time I stop being the only one who hears them.\n When my constituents in the three inches of space behind my drywall communicate with me through static electricity or the dripping of my faucet, they tell me one thing over and over again: light a post office on fire. Yet when I bring up the issue on the floor, all I get is physically restrained.\n Instead of working toward solutions, it seems like everyone in Washington is more interested in silencing …",
+          "link": "https://www.mcsweeneys.net/articles/i-came-to-washington-to-represent-the-people-in-my-walls",
+          "publishedOn": "2026-04-02T17:41:00.000Z",
+          "wordCount": 2548,
+          "title": "I Came to Washington to Represent the People in My Walls",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/v63x0399iu8euvezysewl1nlayz9"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-dangers-of-sculpting",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/the-dangers-of-sculpting",
+          "publishedOn": "2026-04-02T15:00:00.000Z",
+          "wordCount": 1922,
+          "title": "The Dangers of Sculpting",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/drdm5uvy68lz549k7m55ofnol7q0"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/i-am-the-instagram-algorithm-here-to-explain-why-i-am-showing-you-photos-of-connor-storrie-instead-of-your-best-friend-from-college",
           "author": "Frederic Kerry",
           "description": "Well, my first question is: Why do you care so much about Steve Kim? He was your college roommate? Who cares? When was the last time Steve Kim acted in an era-defining hockey romance that centers queer desire within a relentlessly heteronormative sports milieu, thereby demanding its protagonists urgently ask, maybe for the first time in their lives, what sorts of risks they are willing to take to love themselves fully and love others unguardedly when the cultural and political and economic expectation is to bury those parts of themselves that are the most pleasurable, tender, giving, and vital?\n Because I can’t remember a single damn time Steve Kim was in a small-budget Canadian show like that.\n Way too many rumors flying around about my origins, honestly. So let me reiterate: No, I was no…",
@@ -12303,6 +12383,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111896 at https://www.eff.org",
+          "author": "Betty Gedlu",
+          "description": "In late 2024, we urged Google and Amazon to honor their human rights commitments, to be more transparent with the public, and to take meaningful action to address the risks posed by Project Nimbus, their cloud computing contract that includes Israel’s Ministry of Defense and the Israeli Security Agency. Since then, a stream of additional reporting has reinforced that our concerns were well-founded. Yet despite mounting evidence of serious risk, both companies have refused to take action. \nAmazon has completely ignored our original and follow-up letters. Google, meanwhile, has repeatedly promised to respond to our questions. Yet more than a year and a half later, we have seen no meaningful action by either company. Neither approach is acceptable given the human rights commitments these comp…",
+          "link": "https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities",
+          "publishedOn": "2026-04-02T15:12:50.000Z",
+          "wordCount": 2405,
+          "title": "Google and Amazon: Acknowledged Risks, And Ignored Responsibilities",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/np-logo-banner.png",
+            "alt": "Necessary &amp; Proportionate logo",
+            "type": "image/png",
+            "length": "18895"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/np-logo-banner.png"
+        },
         {
           "id": "111891 at https://www.eff.org",
           "author": "Jillian C. York",
