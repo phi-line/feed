@@ -7659,6 +7659,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lBuHH7WE4yE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lBuHH7WE4yE",
+          "publishedOn": "2026-04-02T09:00:53.000Z",
+          "wordCount": null,
+          "title": "Bush: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ImQ1i1fBEA0",
           "author": null,
           "description": "",
@@ -11027,6 +11037,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-am-the-instagram-algorithm-here-to-explain-why-i-am-showing-you-photos-of-connor-storrie-instead-of-your-best-friend-from-college",
+          "author": "Frederic Kerry",
+          "description": "Well, my first question is: Why do you care so much about Steve Kim? He was your college roommate? Who cares? When was the last time Steve Kim acted in an era-defining hockey romance that centers queer desire within a relentlessly heteronormative sports milieu, thereby demanding its protagonists urgently ask, maybe for the first time in their lives, what sorts of risks they are willing to take to love themselves fully and love others unguardedly when the cultural and political and economic expectation is to bury those parts of themselves that are the most pleasurable, tender, giving, and vital?\n Because I can’t remember a single damn time Steve Kim was in a small-budget Canadian show like that.\n Way too many rumors flying around about my origins, honestly. So let me reiterate: No, I was no…",
+          "link": "https://www.mcsweeneys.net/articles/i-am-the-instagram-algorithm-here-to-explain-why-i-am-showing-you-photos-of-connor-storrie-instead-of-your-best-friend-from-college",
+          "publishedOn": "2026-04-02T11:45:00.000Z",
+          "wordCount": 2568,
+          "title": "I am the Instagram Algorithm, Here to Explain Why I Am Showing You Photos of Connor Storrie Instead of Your Best Friend from College",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/fwi39sb1q2ttdvyvkvvpw5ou02r7"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/an-oral-history-of-the-us-governments-attempts-to-fake-the-1969-moon-landing",
           "author": "Carlos Greaves",
           "description": "The following are excerpts from an unpublished 1971 Rolling Stone exposé that was scuttled by the Nixon administration, but which has recently been made public through a Freedom of Information Act request.\n - - -\nThe Lunar Module. An American flag. Lots and lots of gray rocks. If I didn’t know any better, I’d think I was looking at a photograph of the Moon. But as former NASA head Thomas O. Paine explains, nursing a whiskey soda on his living room sofa, this photograph wasn’t taken on the Moon. It was taken on a soundstage. In Arizona.\n THOMAS O. PAINE: I remember getting a phone call from President Nixon in January 1969, a few days after he’d been sworn in, asking for a progress update on the Apollo program. Which, at the time, was going very badly.\n WERNHER VON BRAUN: It’s very hard to s…",
@@ -12283,6 +12303,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111891 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "Governments around the world are adopting new laws and policies aimed at addressing online harms, including laws intended to curb cybercrime and disinformation, and ostensibly protect user safety. While these efforts are often framed as necessary responses to legitimate concerns, they are increasingly being used in ways that restrict fundamental rights.\nIn a recent submission to the United Nations Office of the High Commissioner for Human Rights, we highlighted how these evolving regulatory approaches are affecting human rights defenders (HRDs) and the broader digital environment in which they operate.\nThreats to Human Rights Defenders\nAcross multiple regions, cybercrime and national security laws are being applied to prosecute lawful expression, restrict access to information, and expand …",
+          "link": "https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age",
+          "publishedOn": "2026-04-02T11:29:13.000Z",
+          "wordCount": 1727,
+          "title": "EFF’s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/eff-work-icons_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "17901"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/eff-work-icons_0.png"
+        },
         {
           "id": "111853 at https://www.eff.org",
           "author": "Jillian C. York",
