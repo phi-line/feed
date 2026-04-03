@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160668",
+          "author": "Charlie Wood",
+          "description": "Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            \nThe post New Advances Bring the Era of Quantum Computers Closer Than Ever first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
+          "publishedOn": "2026-04-03T15:19:16.000Z",
+          "wordCount": 3818,
+          "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/BreakingNewsQuantumComputing-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160237",
           "author": "Zack Savitsky",
           "description": "The winning entries in the 2025 Global Physics Photowalk contest showcase the beauty of toil and discovery.            \nThe post A Through-The-Lens Look at the World’s Particle Physics Labs first appeared on Quanta Magazine",
@@ -552,6 +562,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69cfdd09b054bc0001f5f4bb",
+          "author": "Joseph Cox",
+          "description": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
+          "link": "https://www.404media.co/behind-the-blog-systems-as-designed/",
+          "publishedOn": "2026-04-03T16:55:57.000Z",
+          "wordCount": 1084,
+          "title": "Behind the Blog: Systems As Designed",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/nl4.3.png"
+        },
         {
           "id": "69ce840c0c956700016c06c8",
           "author": "Matthew Gault",
@@ -4099,6 +4119,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
+          "author": "Nathan Gardels",
+          "description": "The post Iran Could Become Like Egypt, Myanmar or Pakistan appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
+          "publishedOn": "2026-04-03T16:50:25.000Z",
+          "wordCount": 2609,
+          "title": "Iran Could Become Like Egypt, Myanmar or Pakistan",
+          "imageUrl": "https://noemamag.imgix.net/2026/04/2.arabian-world.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C690%2C947%2C495&w=1200&wpsize=noema-social-facebook&s=d25adf20be1f3e8f60e24249521b3aa3"
+        },
+        {
           "id": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
           "author": "Laura J. Martin",
           "description": "The post Limiting Not Just Screen Time, But Screen Space appeared first on NOEMA.",
@@ -4445,6 +4475,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554739",
+          "author": "Alex N. Gecan",
+          "description": "In a rare win for the civilian police oversight board, City Attorney Farimah Brown said the City Council — which approved the use-of-force policy in 2020 — needs to sign off on changes.",
+          "link": "https://www.berkeleyside.org/2026/04/03/bpd-use-of-force-policy-update-pab-city-council",
+          "publishedOn": "2026-04-03T14:00:00.000Z",
+          "wordCount": 8762,
+          "title": "Berkeley police tried to loosen use-of-force rules. The city’s top lawyer said not so fast",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Police-Accountability-Board-Mtg.-07.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554741",
           "author": "Katie DeBenedetti | KQED",
@@ -8436,6 +8476,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/starts-with-a-bang/gravitational-waves-redshift-light/",
+          "author": "Ethan Siegel",
+          "description": "Here in our Universe, the light that gets emitted from objects isn’t necessarily the same as the light that arrives in either our eyes or our instruments. Not only are there many intervening effects that can alter a signal on the way — by interacting with fields, by passing through neutral and ionized matter, and by having to compete with sources of noise — but there are kinetic (motion-based) and gravitational (spacetime-based) effects that alter those signals while in transit as well. In particular, three main effects all can systematically shift light of any wavelength toward either redder or bluer wavelengths:\nthe relative motion of the emitting source and the receiving observer,\nthe changes in the gravitational field that the traveling signal experiences during its journey,\nand the ef…",
+          "link": "https://bigthink.com/starts-with-a-bang/gravitational-waves-redshift-light/",
+          "publishedOn": "2026-04-03T16:14:40.000Z",
+          "wordCount": 4948,
+          "title": "Ask Ethan: Do gravitational waves redshift like light does?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/05/ezgif-4-3f0efa1f58.gif?w=880&h=496&crop=1"
+        },
+        {
           "id": "https://bigthink.com/series/full-interview/mdma-therapy-yehuda/",
           "author": "Rachel Yehuda",
           "description": "Trauma doesn’t end when the danger does, and for decades, science couldn’t explain why.\nRachel Yehuda, a leading PTSD researcher, has spent her career inside that question, uncovering the way that trauma can leave impressions on our genes, sometimes passing biological echoes of those events to the next generation.\nNow, she’s focused on MDMA therapy, which could actually break the chain.\nThis video This isn’t a trip, it’s the most challenging therapy session of your life is featured on Big Think.",
@@ -11177,6 +11227,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-still-believe-in-the-inherent-goodness-of-humankind-and-the-literal-existence-of-the-easter-bunny",
+          "author": "John Danek",
+          "description": "Wherever I look, my gaze can find something horrific on which to focus. Whether it be news of atrocities committed by our fascist-leaning governments, obvious acceleration towards environmental collapse, or the Criterion Collection’s glaring omission of the Jackass series, heinous evils are all around us.\n Yet, despite it all, I still believe in the unassailable goodness of humanity.\n I also believe that the Easter Bunny is a real, tangible creature capable of wielding magic and producing plastic eggs filled with individually wrapped candies.\n Throughout human history, righteousness inevitably triumphs over evil. Yes, sometimes the darkness becomes so strong and oppressive that we forget what the light is like. And that darkness can last for so long that people live entire lives in its gri…",
+          "link": "https://www.mcsweeneys.net/articles/i-still-believe-in-the-inherent-goodness-of-humankind-and-the-literal-existence-of-the-easter-bunny",
+          "publishedOn": "2026-04-03T17:00:00.000Z",
+          "wordCount": 2571,
+          "title": "I Still Believe in the Inherent Goodness of Humankind, and the Literal Existence of the Easter Bunny",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/q9tdh5t98dpmaxgniitww61czt79"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-usa-ultimate-masters-championships",
+          "author": "Will McGrath",
+          "description": "- - -\nFEATURES:\n  \nMiddle-aged athletes\n Scoobers\n Coke Slurpees\n The unknowable future\n  \n- - -\nIn July of 2025, I flew out to Aurora, Colorado, with my wife and some friends to see if we were still the best forty-something ultimate frisbee players in the United States of America. We’d been training for months, and for decades. A gold medal from 2024 hung in my closet in Minneapolis, gave a muted clink when I reached for my khakis, but in the meantime, a whole other crop of mid-forties motherfuckers had sprung up or aged into the grand masters division. They wanted to snatch our gold.\n I should clarify some things before I tell you what happened at the USA Ultimate Masters Championships—the national tournament for old heads—because I assume the casual reader is not familiar with the inner…",
+          "link": "https://www.mcsweeneys.net/articles/the-usa-ultimate-masters-championships",
+          "publishedOn": "2026-04-03T13:00:00.000Z",
+          "wordCount": 3301,
+          "title": "Excerpts from The Believer: The USA Ultimate Masters Championships",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qeiu28l9boh44a82etpld9af9835"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/jesus-died-for-our-sin-just-one-sin-and-its-yours-harold",
           "author": "Ross Murray",
           "description": "I hope you’re proud of yourself, Harold. That nice Jesus boy has died, and it’s all your fault. He had prospects, that Jesus, a nice carpentry business going. And that voice! He could climb a mount and give a sermon, and you’d be rapt. Rapt, I tell you! And now, pfffft.\n All because of you, Harold, you and your sin. That one sin.\n Oh, you know perfectly well which one, Harold. Don’t make me spell it out for you. We’ve all seen you. You think we didn’t notice, but a sin like that, how could we not? Any sensible person would tell themself it wasn’t right. A normal person, a good person, would know in his heart that this sin they were doing was bringing on eternal damnation. Not just for you, Harold, but for all of humankind. Such a sin!\n We were all going to go to H-E-L-L, Harold, because of…",
@@ -12473,6 +12543,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111908 at https://www.eff.org",
+          "author": "Aaron Jue",
+          "description": "You’re invited on a journey inside the privacy battles that shaped the internet. EFF’s Executive Director Cindy Cohn has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet.\nJoin Cindy at two events in Washingtion, D.C. on April 13 and 14 discussing her new book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, on sale now. All proceeds from the book benefit EFF. Find the full event details below, and RSVP to let us know if you can make it.\nApril 13 - With Gigi Sohn at Busboys & Poets\nJoin American Association of Public Broadband (AAPB) Executive Director Gigi Sohn, in conversation with EFF Executive Director Cindy Cohn for a discussion about Cindy's work, her new book, and what …",
+          "link": "https://www.eff.org/deeplinks/2026/04/double-shot-privacys-defender-dc",
+          "publishedOn": "2026-04-03T15:58:34.000Z",
+          "wordCount": 940,
+          "title": "Double Shot of Privacy's Defender in D.C.",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg",
+            "alt": "Cindy Cohn wearing a t-shirt that says Let&#039;s Sue the Government",
+            "type": "image/jpeg",
+            "length": "277809"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg"
+        },
         {
           "id": "111900 at https://www.eff.org",
           "author": "David Greene",
