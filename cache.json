@@ -3655,6 +3655,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3228/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3228/",
+          "publishedOn": "2026-04-03T04:00:00.000Z",
+          "wordCount": 219,
+          "title": "Day Counter",
+          "imageUrl": "https://imgs.xkcd.com/comics/day_counter_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3227/",
           "author": null,
           "description": "",
@@ -4435,6 +4445,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554741",
+          "author": "Katie DeBenedetti | KQED",
+          "description": "The controversial 1,100-bed People's Park housing project, set to open next fall, is one of two big new dorms to be completed by 2028.",
+          "link": "https://www.berkeleyside.org/2026/04/03/uc-berkeley-offers-freshmen-2-year-housing-guarantee-with-new-dorms",
+          "publishedOn": "2026-04-03T11:00:00.000Z",
+          "wordCount": 7645,
+          "title": "UC Berkeley offers freshmen 2-year housing guarantee with new dorms",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Peoplespark_EG_04.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554753",
           "author": "Berkeleyside Staff",
@@ -11156,6 +11176,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/jesus-died-for-our-sin-just-one-sin-and-its-yours-harold",
+          "author": "Ross Murray",
+          "description": "I hope you’re proud of yourself, Harold. That nice Jesus boy has died, and it’s all your fault. He had prospects, that Jesus, a nice carpentry business going. And that voice! He could climb a mount and give a sermon, and you’d be rapt. Rapt, I tell you! And now, pfffft.\n All because of you, Harold, you and your sin. That one sin.\n Oh, you know perfectly well which one, Harold. Don’t make me spell it out for you. We’ve all seen you. You think we didn’t notice, but a sin like that, how could we not? Any sensible person would tell themself it wasn’t right. A normal person, a good person, would know in his heart that this sin they were doing was bringing on eternal damnation. Not just for you, Harold, but for all of humankind. Such a sin!\n We were all going to go to H-E-L-L, Harold, because of…",
+          "link": "https://www.mcsweeneys.net/articles/jesus-died-for-our-sin-just-one-sin-and-its-yours-harold",
+          "publishedOn": "2026-04-03T12:00:00.000Z",
+          "wordCount": 2559,
+          "title": "Jesus Died for Our Sin, Just One Sin, and It’s Yours, Harold",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3jps1mj6r3pwp5e39x94mqcuuhln"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/i-came-to-washington-to-represent-the-people-in-my-walls",
           "author": "Henry Block",
