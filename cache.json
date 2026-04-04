@@ -563,6 +563,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69d006b9b054bc0001f8d3de",
+          "author": "Becky Ferreira",
+          "description": "Native Americans were playing dice and other games of chance many millennia before any known cultures elsewhere.",
+          "link": "https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/",
+          "publishedOn": "2026-04-04T13:00:42.000Z",
+          "wordCount": 2149,
+          "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
+          "imageUrl": "https://www.404media.co/content/images/2026/04/image1-1.jpg"
+        },
+        {
           "id": "69cfdd09b054bc0001f5f4bb",
           "author": "Joseph Cox",
           "description": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
@@ -4053,16 +4063,6 @@
           "wordCount": 178,
           "title": "Superstition",
           "imageUrl": "https://imgs.xkcd.com/comics/superstition_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3190/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3190/",
-          "publishedOn": "2026-01-05T05:00:00.000Z",
-          "wordCount": 204,
-          "title": "Tensegrity",
-          "imageUrl": "https://imgs.xkcd.com/comics/tensegrity_2x.png"
         }
       ]
     },
@@ -10832,6 +10832,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=73965",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Bright, chewy, and crackly on the top, these lemon crinkle cookies are like sunshine in the form of a cookie! They’ve got the perfect balance of sweet and tangy, and my version is made without the butter and eggs. If you love lemon desserts as much as I do—hello vegan lemon loaf and lemon bars!—these […]",
+          "link": "https://jessicainthekitchen.com/lemon-crinkle-cookies/",
+          "publishedOn": "2026-04-03T14:00:00.000Z",
+          "wordCount": 9434,
+          "title": "Lemon Crinkle Cookies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Lemon-Crinkle-Cookies_17.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/new/?p=8540",
           "author": "Jessica Hylton",
