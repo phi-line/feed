@@ -4476,6 +4476,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=554775",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/04/03/trumer-pils-sold-firestone-closing",
+          "publishedOn": "2026-04-03T19:00:00.000Z",
+          "wordCount": 6895,
+          "title": "Trumer’s U.S. operation sold, departing Berkeley after 22 years",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/TrumerTaproom-Exterior.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=554739",
           "author": "Alex N. Gecan",
           "description": "In a rare win for the civilian police oversight board, City Attorney Farimah Brown said the City Council — which approved the use-of-force policy in 2020 — needs to sign off on changes.",
@@ -12544,6 +12554,54 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "111910 at https://www.eff.org",
+          "author": "Aaron Jue",
+          "description": "You’re invited on a journey inside the privacy battles that shaped the internet. EFF’s Executive Director Cindy Cohn has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet.\nJoin Cindy at three events in New York discussing her bestselling new book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, on sale now. All proceeds from the book benefit EFF. Find the full event details below, and RSVP to let us know if you can make it.\nApril 20 - With Women in Security and Privacy (WISP)\nJoin Women in Security and Privacy (WISP) and EFF for a conversation featuring American University Senior Professorial Lecturer Chelsea Horne and EFF Executive Director Cindy Cohn as they dive into data s…",
+          "link": "https://www.eff.org/deeplinks/2026/04/triple-header-privacys-defender-new-york",
+          "publishedOn": "2026-04-03T23:15:14.000Z",
+          "wordCount": 994,
+          "title": "Triple Header for Privacy’s Defender in New York",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg",
+            "alt": "Cindy Cohn wearing a t-shirt that says Let&#039;s Sue the Government",
+            "type": "image/jpeg",
+            "length": "277809"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg"
+        },
+        {
+          "id": "111914 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "Legal intern Raj Gambhir was the principal author of this post.\nThe Trump administration has restricted the First Amendment right to record law enforcement by issuing an unprecedented nationwide flight restriction preventing private drone operators, including professional and citizen journalists, from flying drones within half a mile of any ICE or CBP vehicle.\nIn January, EFF and media organizations including The New York Times and The Washington Post responded to this blatant infringement of the First Amendment by demanding that the FAA lift this flight restriction. Over two months later, we’re still waiting for the FAA to respond to our letter.\nThe First Amendment guarantees the right to record law enforcement. As we have seen with the extrajudicial killings of George Floyd, Renée Good, …",
+          "link": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+          "publishedOn": "2026-04-03T22:25:21.000Z",
+          "wordCount": 2030,
+          "title": "The FAA’s “Temporary” Flight Restriction for Drones is a Blatant Attempt to Criminalize Filming ICE",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/drone-banner_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "8448"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/drone-banner_0.png"
+        },
+        {
+          "id": "111912 at https://www.eff.org",
+          "author": "Corynne McSherry",
+          "description": "While the very public fight continues between the Department of Defense and Anthropic over whether the government can punish a company for refusing to allow its technology to be used for mass surveillance, another branch of the U.S. government is quietly working to ensure that this dispute will never happen again. How? By rewriting government procurement rules.\nUsing procurement — meaning, the processes by which governments acquire goods and services — to accomplish policy goals is a time-honored and often appropriate strategy. The government literally expresses its politics and priorities by deciding where and how it spends its money. To that end, governments can and should give our tax dollars to companies and projects that serve the public interest, such as open-source software developm…",
+          "link": "https://www.eff.org/deeplinks/2026/04/tech-nonprofits-feds-dont-weaponize-procurement-undermine-ai-trust-and-safety",
+          "publishedOn": "2026-04-03T17:37:01.000Z",
+          "wordCount": 1718,
+          "title": "Tech Nonprofits to Feds: Don’t Weaponize Procurement to Undermine AI Trust and Safety",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
+            "alt": "robot doing brain surgery on itself",
+            "type": "image/jpeg",
+            "length": "673377"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg"
+        },
+        {
           "id": "111908 at https://www.eff.org",
           "author": "Aaron Jue",
           "description": "You’re invited on a journey inside the privacy battles that shaped the internet. EFF’s Executive Director Cindy Cohn has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet.\nJoin Cindy at two events in Washingtion, D.C. on April 13 and 14 discussing her new book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, on sale now. All proceeds from the book benefit EFF. Find the full event details below, and RSVP to let us know if you can make it.\nApril 13 - With Gigi Sohn at Busboys & Poets\nJoin American Association of Public Broadband (AAPB) Executive Director Gigi Sohn, in conversation with EFF Executive Director Cindy Cohn for a discussion about Cindy's work, her new book, and what …",
@@ -12558,6 +12616,22 @@
             "length": "277809"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg"
+        },
+        {
+          "id": "111909 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "April 16, 2026 - 9:00am to 10:00am PDT\n\n\nApril 16, 2026 - 9:00am to 10:00am PDT\n\n\nOnline\n\n\n\nInternet shutdowns have become a powerful weapon. Years of digital repression in Iran have intensified during the current conflict with Israel and the U.S.. The Iranian government has once again shut down internet access, isolating millions, silencing dissent, and blocking information about human rights abuses. In January 2026, nationwide blackouts were used to conceal violations and suppress the largest protests since the 2022 Woman, Life, Freedom uprising.\nThis is not unique to Iran. Around the world, governments are pulling the plug to control narratives and crush resistance. But access to the internet is a human right—and people continue to find ways to stay connected.\nJoin EFF and Amnesty Inter…",
+          "link": "https://www.eff.org/event/effecting-change-cant-stop-signal",
+          "publishedOn": "2026-04-03T00:36:28.000Z",
+          "wordCount": 1210,
+          "title": "EFFecting Change: Can't Stop the Signal",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effectingchange_banner.png",
+            "alt": "The words &quot;EFFecting Change&quot; on a black background with red, white, and grey ribbons",
+            "type": "image/png",
+            "length": "118140"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effectingchange_banner.png"
         },
         {
           "id": "111900 at https://www.eff.org",
