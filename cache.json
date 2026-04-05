@@ -8477,16 +8477,6 @@
           "wordCount": null,
           "title": "Great Grandpa: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rMWjbb2l5BE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rMWjbb2l5BE",
-          "publishedOn": "2026-01-05T10:01:28.000Z",
-          "wordCount": null,
-          "title": "Daniel Caesar: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10814,16 +10804,6 @@
           "wordCount": 2845,
           "title": "7,000-year-old underwater wall raises questions about ancient engineering — and lost-city legends",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/Cropped-TAF.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/oxygen-jwst-most-distant-galaxies/",
-          "author": "Ethan Siegel",
-          "description": "At the frontiers of science, surprises often appear.\n\nThis image shows a portion of the CEERS survey’s area, viewed with JWST and with NIRCam imagery. Within this field of view lies a galaxy with an active supermassive black hole: CEERS 1019, which weighs in at 9 million solar masses at a time from when the Universe was less than 600 million years old. It was the earliest black hole ever discovered, until that record was broken yet again in November of 2023.\n\nCredit: NASA, ESA, CSA, Steve Finkelstein (UT Austin), Micaela Bagley (UT Austin), Rebecca Larson (UT Austin)\n\n\nJWST’s superior size — and unique infrared capabilities — have broken many cosmic records already.\n\nPreliminary total system throughput for each NIRCam filter, including contributions from the JWST Optical Telescope Element …",
-          "link": "https://bigthink.com/starts-with-a-bang/oxygen-jwst-most-distant-galaxies/",
-          "publishedOn": "2026-01-05T07:00:00.000Z",
-          "wordCount": 2790,
-          "title": "What does oxygen in JWST’s most distant galaxies really mean?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/eso2507a.jpg?resize=1200,630"
         }
       ]
     },
@@ -12573,6 +12553,16 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111915 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Site Banner: \n\n\n\n\nMobile Site Banner: \n\n\n\n\nLink: \n\nEFFecting Change: Can't Stop the Signal on April 16\n\n\nMobile Link: \n\nEFFecting Change: Can't Stop the Signal on April 16\n\n\nBanner Text: \n\nEFFecting Change: Can't Stop the Signal on April 16\n\n\nMobile Banner Text: \n\nEFFecting Change: Can't Stop the Signal on April 16",
+          "link": "https://www.eff.org/node/111915",
+          "publishedOn": "2026-04-04T18:09:18.000Z",
+          "wordCount": 585,
+          "title": "EFFecting Change Site Banner 4.16.26",
+          "imageUrl": "https://www.eff.org/files/eff-og.png"
+        },
         {
           "id": "111910 at https://www.eff.org",
           "author": "Aaron Jue",
