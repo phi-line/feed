@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160679",
+          "author": "Max G. Levy",
+          "description": "A vast meshwork of soil-bound fungi governs life aboveground. In Alaska, and at field sites around the world, researchers are racing to understand exactly how, with essential stores of carbon at stake.            \nThe post An Arctic Road Trip Brings Vital Underground Networks into View first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/",
+          "publishedOn": "2026-04-06T15:08:33.000Z",
+          "wordCount": 5113,
+          "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Dirt-race-cr-Max-Levy-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160668",
           "author": "Charlie Wood",
           "description": "Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            \nThe post New Advances Bring the Era of Quantum Computers Closer Than Ever first appeared on Quanta Magazine",
@@ -552,6 +562,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69d3ee7cb054bc0001008b40",
+          "author": "Emanuel Maiberg",
+          "description": "At least three different people notified the popular app that wants to help men stop watching porn that it was jeopardizing user data.",
+          "link": "https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/",
+          "publishedOn": "2026-04-06T17:36:44.000Z",
+          "wordCount": 1452,
+          "title": "Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months",
+          "imageUrl": "https://images.unsplash.com/photo-1510717029971-27681a0e9da9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBob25lJTIwZGFya3xlbnwwfHx8fDE3NzU0OTY5NzB8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69d3d05ab054bc0001008562",
+          "author": "Samantha Cole",
+          "description": "“I am vetoing this bill in its entirety because I object to this bill's intrusion into the personal privacy of Wisconsin residents,” Governor Tony Evers wrote.",
+          "link": "https://www.404media.co/wisconsin-age-verification-bill-vetoed/",
+          "publishedOn": "2026-04-06T15:30:47.000Z",
+          "wordCount": 1597,
+          "title": "Wisconsinites Can Keep Watching Porn After Governor Vetoes Age Verification Bill",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/photo-1528085141909-3b22d96ee1d7.jpeg"
+        },
+        {
+          "id": "69d3b786b054bc0001fe29bf",
+          "author": "Jason Koebler",
+          "description": "Ron DeSantis has empowered hundreds of Florida conservation police to work directly with ICE.",
+          "link": "https://www.404media.co/floridas-wildlife-cops-are-searching-thousands-of-flock-cameras-for-ice/",
+          "publishedOn": "2026-04-06T13:53:56.000Z",
+          "wordCount": 2379,
+          "title": "Wildlife Conservation Police Are Searching Thousands of Flock Cameras for ICE",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/52390953381_c7509e55b1_k.jpg"
+        },
         {
           "id": "69d006b9b054bc0001f8d3de",
           "author": "Becky Ferreira",
@@ -3216,6 +3256,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/metaphors-evolution",
+          "author": "Asimov Press",
+          "description": "A series of quantitative metaphors on the speeds of representative events in evolutionary biology. The end of our three-part series.",
+          "link": "https://www.asimov.press/p/metaphors-evolution",
+          "publishedOn": "2026-04-06T16:59:46.000Z",
+          "wordCount": null,
+          "title": "Metaphors for Biology: Evolution",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!pl1J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa18bf674-5a11-4be0-b869-b625871e0455_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!pl1J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa18bf674-5a11-4be0-b869-b625871e0455_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/pause",
           "author": "Asimov Press",
           "description": "We're pausing Asimov Press.",
@@ -4038,16 +4094,6 @@
           "wordCount": 187,
           "title": "Planetary Alignment",
           "imageUrl": "https://imgs.xkcd.com/comics/planetary_alignment_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3191/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3191/",
-          "publishedOn": "2026-01-07T05:00:00.000Z",
-          "wordCount": 178,
-          "title": "Superstition",
-          "imageUrl": "https://imgs.xkcd.com/comics/superstition_2x.png"
         }
       ]
     },
@@ -4440,6 +4486,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554054",
+          "author": "Local sponsor",
+          "description": "The Berkeley startup takes some of the backbreaking work out of many labor-intensive jobs.",
+          "link": "https://www.berkeleyside.org/2026/04/06/ambi-robotics-builds-robots-to-do-the-heavy-lifting",
+          "publishedOn": "2026-04-06T16:10:00.000Z",
+          "wordCount": 8078,
+          "title": "Ambi Robotics builds robots to do the heavy lifting",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/McKinley-Horiz.png?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554822",
+          "author": "Colleen Neff",
+          "description": "Here are favorite places to hike, some in Berkeley and some a short drive away,  to experience breathtaking displays of flowers now.",
+          "link": "https://www.berkeleyside.org/2026/04/06/10-spots-bursting-with-wildflowers-in-the-east-bay-and-beyond",
+          "publishedOn": "2026-04-06T14:00:00.000Z",
+          "wordCount": 8893,
+          "title": "10 spots bursting with wildflowers in the East Bay and beyond",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/03/ridge-trail.jpg?fit=1485%2C1114&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554850",
+          "author": "Family of Carol Harte",
+          "description": "She loved hiking, swimming, classical music and her friends, and she showed up for others, especially for those who needed it most.",
+          "link": "https://www.berkeleyside.org/2026/04/06/carol-harte-obituary",
+          "publishedOn": "2026-04-06T11:06:00.000Z",
+          "wordCount": 7157,
+          "title": "Remembering Carol Harte, first social worker at Alta Bates Hospital",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Carol-Harte.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554775",
           "author": "Momo Chang",
@@ -8331,6 +8407,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/books/frames-of-mind/",
+          "author": "Ross Pomeroy",
+          "description": "“Who owns intelligence?”\nHoward Gardner, a developmental psychologist and the John H. and Elisabeth A. Hobbs Research Professor of Cognition and Education at Harvard University, has grappled with this question of late. Who gets to be the arbiter of what intelligence is and who, or what, has it?\nMore than a century ago, psychometricians staked their claim by proposing the almighty g, or general intelligence. They measured it with IQ tests, which assess cognitive abilities such as verbal reasoning, working memory, and visual-spatial skills. Eventually, psychometricians convinced much of Western society that, through IQ, they were the arbiters of intelligence.\nWhile the IQ test has been used nobly — to identify students in need of extra help with reading or writing, for example — it has also …",
+          "link": "https://bigthink.com/books/frames-of-mind/",
+          "publishedOn": "2026-04-06T14:30:00.000Z",
+          "wordCount": 3089,
+          "title": "40 years ago, “Frames of Mind” cracked open the idea of intelligence. It’s not done.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/intelligence-thumbnail.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/something-special-happening-space/",
           "author": "Ethan Siegel",
           "description": "Until April of 2026, only 24 astronauts had ever left low-Earth orbit.\n\nThe Apollo 11 crew, after safely returning to Earth from their historic voyage to the Moon, are shown in the Mobile Quarantine Facility alongside then-President Nixon. All 24 astronauts who journeyed to the Moon as part of the Apollo program, either orbiting or landing on it, were safely returned to Earth.\n\nCredit: NASA/JSC\n\n\nIn 1968, Apollo astronaut Bill Anders — one of the first — captured this iconic photograph.\n\nThis photograph, taken aboard the Apollo 8 mission and simply dubbed “Earthrise,” has often been called the most environmentally impactful photograph in human history. Its taker, Bill Anders, remarked, “When I looked up and saw the Earth coming up on this very stark, beat-up Moon horizon, I was immediately…",
@@ -10598,6 +10684,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73964",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Garlic noodles are the quintessential back pocket dinner recipe, coming together in just 20 minutes and tasting like a restaurant-worthy noodle dish. They’re intensely garlicky, spicy, deeply savoury, and a little bit sweet! Garlic noodles are popular in Vietnamese-American restaurants and after seeing one too many mouthwatering photos on Instagram, I knew it was time […]",
+          "link": "https://jessicainthekitchen.com/garlic-noodles/",
+          "publishedOn": "2026-04-06T14:00:00.000Z",
+          "wordCount": 9583,
+          "title": "Garlic Noodles",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Vegan-Garlic-Noodles-14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73965",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Bright, chewy, and crackly on the top, these lemon crinkle cookies are like sunshine in the form of a cookie! They’ve got the perfect balance of sweet and tangy, and my version is made without the butter and eggs. If you love lemon desserts as much as I do—hello vegan lemon loaf and lemon bars!—these […]",
@@ -11011,6 +11107,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/existfemale",
+          "author": "Rajvi Mittal",
+          "description": "#————————————————\n #File: exist.female\n #Last Updated: Before you were born\n #Status: Auto-enrolled\n #Effective Date: Immediately\n #Opt-Out: Not Available\n #Note: You did not click anything.\n #Note: It’s still your problem.\n #————————————————-\n INIT woman();\n #—————————————————\n #GENERAL HUMAN CONDITIONS\n #—————————————————\n if (human == woman) {\n       human- -;\n       object++;\n       Default.value = “Mom”;\n       store(family_dignity, location = clothing);\n       voting_right = determine(time_period, era, location); #Default value = No\n       sports = harmful; \n       #injury or scar reduces marriageability_factor\n if (sport_status == Yes) {\n       max(official_uniform_length, bikini-esque) #Aesthetic Purposes\n       call(duty.nurturing, return disappointment); \n       marriageability_f…",
+          "link": "https://www.mcsweeneys.net/articles/existfemale",
+          "publishedOn": "2026-04-06T17:00:00.000Z",
+          "wordCount": 2347,
+          "title": "Exist.Female",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/smve8ghxdu4v2puivcy37hd28kzi"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/whats-happened-to-the-party-of-lincoln",
           "author": "Graham Techler",
