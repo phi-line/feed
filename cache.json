@@ -431,16 +431,6 @@
           "wordCount": 4299,
           "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Unstable-Blowup-cr-Samuel-Velasco-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=157734",
-          "author": "Ben Brubaker",
-          "description": "Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.            \nThe post Distinct AI Models Seem To Converge On How They Encode Reality first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/",
-          "publishedOn": "2026-01-07T15:23:04.000Z",
-          "wordCount": 3465,
-          "title": "Distinct AI Models Seem To Converge On How They Encode Reality",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Platonic-Representations-cr-Mark-Belan-Social.jpg"
         }
       ]
     },
@@ -8406,6 +8396,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
+          "author": "Ethan Siegel",
+          "description": "Long ago, far beyond our deepest views of the cosmos, star formed in the Universe for the very first time. It’s not a complete surprise that we haven’t spotted them yet; made almost entirely of hydrogen and helium alone, they were extremely massive and short-lived compared to the stars we see today. However, once those first stars die, their ejecta — depending on your perspective — either “enrich” or “pollute” the interstellar medium around them, meaning that the next generation of stars to form, and all generations thereafter, will be substantially different from that first generation.\nHowever, unlike the first generation of stars, all subsequent generations should have the capability of producing small, red, low-mass stars that burn through their fuel quite slowly: so slowly that even a …",
+          "link": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
+          "publishedOn": "2026-04-07T06:00:00.000Z",
+          "wordCount": 4955,
+          "title": "Astronomers just found the most pristine star of all-time",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/mps.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
           "author": "Frank Jacobs",

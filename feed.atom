@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-07T00:31:25.934Z</updated>
+    <updated>2026-04-07T06:33:58.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astronomers just found the most pristine star of all-time]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/"/>
+        <updated>2026-04-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Long ago, far beyond our deepest views of the cosmos, star formed in the Universe for the very first time. It’s not a complete surprise that we haven’t spotted them yet; made almost entirely of hydrogen and helium alone, they were extremely massive and short-lived compared to the stars we see today. However, once those first stars die, their ejecta — depending on your perspective — either “enrich” or “pollute” the interstellar medium around them, meaning that the next generation of stars to form, and all generations thereafter, will be substantially different from that first generation.
+However, unlike the first generation of stars, all subsequent generations should have the capability of producing small, red, low-mass stars that burn through their fuel quite slowly: so slowly that even a …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Agreeable Gray”: How color vanished from modern life (and why it’s coming back)]]></title>
         <id>https://bigthink.com/strange-maps/grayening-why-everything-is-gray/</id>
@@ -15120,17 +15131,6 @@ Aside from her running exploits, Atalanta was also the inspiration for the first
         <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
         <author>
             <name>Cecilia Seiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distinct AI Models Seem To Converge On How They Encode Reality]]></title>
-        <id>https://www.quantamagazine.org/?p=157734</id>
-        <link href="https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/"/>
-        <updated>2026-01-07T15:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.            
-The post Distinct AI Models Seem To Converge On How They Encode Reality first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
     <entry>
