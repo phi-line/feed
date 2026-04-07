@@ -3726,6 +3726,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3229/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3229/",
+          "publishedOn": "2026-04-06T04:00:00.000Z",
+          "wordCount": 217,
+          "title": "Grammar",
+          "imageUrl": "https://imgs.xkcd.com/comics/grammar_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3228/",
           "author": null,
           "description": "",
@@ -4486,6 +4496,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554856",
+          "author": "Nathan Dalton",
+          "description": "The Alameda brewery's Flow pale ale uses a process pioneered by Aircapture to turn the air around the brewery into bubbles for beer.",
+          "link": "https://www.berkeleyside.org/2026/04/06/almanac-aircapture-flow-beer-co2-environment",
+          "publishedOn": "2026-04-06T19:00:00.000Z",
+          "wordCount": 7763,
+          "title": "Air today, beer tomorrow. Almanac partners with Berkeley company on first air-capture carbonated beer",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/AlmanacxAircaptureFlow-NathanDalton.jpg?fit=2000%2C1405&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554054",
           "author": "Local sponsor",
@@ -7320,16 +7340,6 @@
           "wordCount": 7071,
           "title": "Mamacita now serving pozole and more in Emeryville, plus Square Pie Guys expands to the east",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/mamacita-emeryville-pm.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549926",
-          "author": "Family of Phyllis Carr",
-          "description": "In Berkeley, she founded the group Neighbors of Stanton Street and once picketed City Hall solo until it relented and paved the pothole-ridden street.",
-          "link": "https://www.berkeleyside.org/2026/01/07/remembering-phyllis-carr-flight-attendant-real-estate-broker-who-founded-her-own-company",
-          "publishedOn": "2026-01-07T12:31:00.000Z",
-          "wordCount": 7149,
-          "title": "Remembering Phyllis Carr, flight attendant, real estate broker who founded her own company",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Phyllis-at-65-scaled.jpeg?fit=2560%2C1920&ssl=1"
         }
       ]
     },
@@ -8388,16 +8398,6 @@
           "wordCount": null,
           "title": "Coco Jones: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2h59h8xlaCg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2h59h8xlaCg",
-          "publishedOn": "2026-01-07T10:00:12.000Z",
-          "wordCount": null,
-          "title": "Great Grandpa: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -8406,6 +8406,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
+          "author": "Frank Jacobs",
+          "description": "No, you haven’t suddenly gone colorblind. This map is in color. In fact, it is a map of color — specifically, of each U.S. state’s favorite house paint color. It’s just that those favorites look like a swatch book for a funeral parlor — like fifty shades of gray.\nWell, gray-ish. From Hawaii to Maine, from Alaska to Florida, the most popular shade for your home’s exterior is some variation of gray, off-white, beige, or greige — a hue so existentially undecided that it can’t commit to being either gray or beige, and so ends up neither, and both.\nDipped in a vat of Resigned Indifference®\nBut how can this be? America is anything but monochrome. It contains multitudes of cultures, climates, and landscapes, and people who disagree, loudly and publicly, about nearly everything. So why, when Ameri…",
+          "link": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
+          "publishedOn": "2026-04-06T22:26:25.000Z",
+          "wordCount": 3530,
+          "title": "“Agreeable Gray”: How color vanished from modern life (and why it’s coming back)",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/Grayening_16x9.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/frames-of-mind/",
           "author": "Ross Pomeroy",
@@ -8425,6 +8435,16 @@
           "wordCount": 3059,
           "title": "Something special is happening in space right now",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/art002e008486large.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/manage-your-mind-compilation/",
+          "author": "Steven Kotler, Wendy Suzuki, Robert Waldinger",
+          "description": "When you think about the word “anxiety,” it likely comes with a negative connotation. But anxiety is a normal human emotion that nearly all of us experience. Reframing anxiety as a tool for change, adopting concepts from Zen Buddhism, and striving to live in a ‘flow state’ can quell the negative thoughts we experience and amplify your mind’s abilities.\nOptimizing your brain so that you can work in harmony with your thoughts is entirely possible. These 3 experts explain how we can work with our physiology, rather than try to rebel against it. \nAuthors Steven Kotler and Wendy Suzuki along with psychiatrist Robert Waldinger show us how to optimize our mind, transform anxiety, and drop into ‘flow state’ for a more peaceful life.\nThis video is part of Big Think’s monthly issue The Roots of Resilience.\nThis video Reboot your mind for flow, unanxiousness, and resilience is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/manage-your-mind-compilation/",
+          "publishedOn": "2026-04-05T13:00:00.000Z",
+          "wordCount": 9286,
+          "title": "Reboot your mind for flow, unanxiousness, and resilience",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2024/08/A1-Web-Mind.jpg?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/starts-with-a-bang/gravitational-waves-redshift-light/",
@@ -10665,16 +10685,6 @@
           "wordCount": 4139,
           "title": "Zeno’s Paradox resolved by physics, not by math alone",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2022/02/distance-1200x773-1-e1767825893355.jpg?w=960&h=541&crop=1"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/cosmic-dust-too-much-too-soon/",
-          "author": "Ethan Siegel",
-          "description": "One of the most fascinating things about the Universe is that whenever we look at it in a novel way — in new wavelengths of light, with greater resolution, or with superior sensitivity — we give ourselves the opportunity to be surprised. Instead of merely finding fainter or more distant versions of what we had already established was out there, we often find things that we didn’t even know we ought to be looking for previously. They might include new classes or populations of astronomical objects, an unexpected abundance of what were previously thought to be rare occurrences, or the presence of something that wasn’t expected to exist under the conditions or with the properties we wound up observing.\nThat’s definitely the case when it comes to the James Webb Space Telescope, or JWST, which …",
-          "link": "https://bigthink.com/starts-with-a-bang/cosmic-dust-too-much-too-soon/",
-          "publishedOn": "2026-01-07T07:00:00.000Z",
-          "wordCount": 4620,
-          "title": "Cosmic dust: “too much, too soon” no longer!",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/sextansa.png?resize=1200,630"
         }
       ]
     },
