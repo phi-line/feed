@@ -553,6 +553,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69d526cba8d4d100019fd8a1",
+          "author": "Matthew Gault",
+          "description": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
+          "link": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
+          "publishedOn": "2026-04-07T15:56:48.000Z",
+          "wordCount": 1409,
+          "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/1920px-Amazon_AWS_us-west-2_morrow_east_AZ_01-1.jpg"
+        },
+        {
+          "id": "69d50ae8b054bc000100a835",
+          "author": "Jason Koebler",
+          "description": "Cisco, IBM, and major lobbying groups are trying to exempt \"critical infrastructure\" from an existing Colorado law.",
+          "link": "https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/",
+          "publishedOn": "2026-04-07T13:56:41.000Z",
+          "wordCount": 1690,
+          "title": "Data Center Tech Lobbyists Fearmonger in Attempt to Retroactively Roll Back Right to Repair Law",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/lightsaber-collection-T-IN5o3kxyA-unsplash.jpg"
+        },
+        {
           "id": "69d3ee7cb054bc0001008b40",
           "author": "Emanuel Maiberg",
           "description": "At least three different people notified the popular app that wants to help men stop watching porn that it was jeopardizing user data.",
@@ -3246,6 +3266,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/bioinformatics",
+          "author": "Asimov Press",
+          "description": "How computer scientists on the fringes of biology made sense of sequencing data.",
+          "link": "https://www.asimov.press/p/bioinformatics",
+          "publishedOn": "2026-04-07T16:38:54.000Z",
+          "wordCount": null,
+          "title": "A Brief History of Bioinformatics Software",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!_r-5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F757d1458-2040-4a1f-9ee0-5c03bb47c53f_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_r-5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F757d1458-2040-4a1f-9ee0-5c03bb47c53f_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/metaphors-evolution",
           "author": "Asimov Press",
           "description": "A series of quantitative metaphors on the speeds of representative events in evolutionary biology. The end of our three-part series.",
@@ -4150,6 +4186,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-eradication-of-grief",
+          "author": "Chris Insana",
+          "description": "The post The Eradication Of Grief appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-eradication-of-grief",
+          "publishedOn": "2026-04-07T16:30:20.000Z",
+          "wordCount": 57160,
+          "title": "The Eradication Of Grief",
+          "imageUrl": "https://noemamag.imgix.net/2026/04/IMG_0968-scaled.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C1490%2C2044%2C1069&w=1200&wpsize=noema-social-facebook&s=c366f1605f1050b2e4c4c7b5bc19f58f"
+        },
+        {
           "id": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
           "author": "Nathan Gardels",
           "description": "The post Iran Could Become Like Egypt, Myanmar or Pakistan appeared first on NOEMA.",
@@ -4486,6 +4532,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554623",
+          "author": "Local sponsor",
+          "description": "The iconic 1980s musical won seven Tony Awards and ran on Broadway for decades.",
+          "link": "https://www.berkeleyside.org/2026/04/07/cavorting-cats-come-to-berkeley-playhouse-may-22",
+          "publishedOn": "2026-04-07T15:30:00.000Z",
+          "wordCount": 7414,
+          "title": "Cavorting ‘Cats’ come to Berkeley Playhouse May 22",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/CATS-Berkeleyside-2.png?fit=2000%2C1498&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=472046",
+          "author": "Azucena Rasilla",
+          "description": "Women in vibrant traditional attires, elders soaking in the sun, and dance performances marked the Cambodian new year at Peralta Hacienda.",
+          "link": "https://www.berkeleyside.org/2026/04/07/oakland-cambodian-khmer-new-year-festival-photos",
+          "publishedOn": "2026-04-07T13:00:00.000Z",
+          "wordCount": 7622,
+          "title": "Cambodian community bursts with color, dance and Khmer tradition",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-20260404_KhmerNewYearFestival_EG_004.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554856",
           "author": "Nathan Dalton",
@@ -7290,16 +7356,6 @@
           "wordCount": 7864,
           "title": "Around Berkeley: Tamales karaoke; bike part swap meet; new youth poet laureate",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/AP23031072442726.jpg?fit=1024%2C658&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550064",
-          "author": "Nico Savidge",
-          "description": "“I’ve never seen anything like this,” said the director of the city-owned music camp north of Guerneville. The camp is seeking donations and help clearing toppled redwoods and debris.",
-          "link": "https://www.berkeleyside.org/2026/01/07/berkeleys-cazadero-camp-heavily-damaged-by-winter-storms",
-          "publishedOn": "2026-01-08T01:04:40.000Z",
-          "wordCount": 7186,
-          "title": "Berkeley’s Cazadero camp heavily damaged by winter storms",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/PXL_20251229_214016962-scaled.jpg"
         }
       ]
     },
@@ -8376,6 +8432,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/thinking-sideways/",
+          "author": "Jennifer Shahade",
+          "description": "Sneaky sideways moves that strong chess players swear by are called “intermezzos,” or “in-between moves.” The American chess genius and unofficial World Champion Paul Morphy executed these many times in the New Orleans cafés where he won game after game in the 1800s. Morphy’s move seemed obvious. Why not just recapture the piece that was just taken? But then, BOOM. Morphy interrupted the sequence with a different aggressive move, throwing his opponent’s position into turmoil. Intermezzos are shocking. When Judit Polgár played one against another top grandmaster, he jumped out of his chair. Intermezzos are reminders that instead of looking far in advance, we should search for little surprises that no one else sees.\nThe futility of planning far in advance is nailed in one of my favorite one-…",
+          "link": "https://bigthink.com/books/thinking-sideways/",
+          "publishedOn": "2026-04-07T14:30:00.000Z",
+          "wordCount": 2942,
+          "title": "What chess’s “intermezzo” moves can teach us about making better life decisions",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/thinking-sideways_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
           "author": "Ethan Siegel",
@@ -10674,6 +10740,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73637",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "With jammy strawberries and sweet cream cheese, this decadent vegan stuffed French toast has brunch restaurant vibes, in a recipe that’s easy to make at home!  I won’t deny that I have a weakness for French toast recipes, whether it’s classic vegan French toast or creme brûlée French toast casserole for a crowd. But one […]",
+          "link": "https://jessicainthekitchen.com/stuffed-french-toast/",
+          "publishedOn": "2026-04-07T14:00:00.000Z",
+          "wordCount": 9578,
+          "title": "Stuffed French Toast",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Vegan-Stuffed-French-Toast-16.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73964",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Garlic noodles are the quintessential back pocket dinner recipe, coming together in just 20 minutes and tasting like a restaurant-worthy noodle dish. They’re intensely garlicky, spicy, deeply savoury, and a little bit sweet! Garlic noodles are popular in Vietnamese-American restaurants and after seeing one too many mouthwatering photos on Instagram, I knew it was time […]",
@@ -11097,6 +11173,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/president-nyarlathotep-is-simply-engaging-in-classic-mad-outer-god-negotiating-tactics",
+          "author": "Andrew Paul",
+          "description": "Calm down. I don’t necessarily see what all the fuss is about. In all honesty, I also read the Dread Lord Nyarlathotep’s post this morning and was surprised by it, same as you. We all know he’s the Crawling Chaos, and that title implies a certain degree of unpredictability. But even for him, his vow to “gorge on the carcass of humanity itself” unless his latest (albeit nebulous) demands are met is pretty intense. I can’t remember the last time that an elected US official said something so unconscionable and nightmarish.\n Didn’t Nixon say something similar? No? Hmm.\n Anyway. I’m not endorsing what the Dread Lord uttered in a series of cacophonous, guttural snarls and clicking noises at the press pool yesterday. I don’t think “wholesale existential negation” is a particularly effective geopo…",
+          "link": "https://www.mcsweeneys.net/articles/president-nyarlathotep-is-simply-engaging-in-classic-mad-outer-god-negotiating-tactics",
+          "publishedOn": "2026-04-07T18:00:00.000Z",
+          "wordCount": 2456,
+          "title": "President Nyarlathotep Is Simply Engaging in Classic “Mad Outer God” Negotiating Tactics",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/31ypren3wdkjz1n28m9tr165ukhu"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-johanna-gohmann-and-emily-flakes-new-book-all-toddlers-are-scorpios",
+          "author": "Johanna Gohmann and Emily Flake",
+          "description": "- - -\nMcSweeney’s contributor Johanna Gohmann channels the chaos and charm of life with a toddler into All Toddlers Are Scorpios a hilarious astrology guide illustrated by cartoonist (and McSweeney’s contributor) Emily Flake.\n We’re thrilled to share an excerpt today from the book’s opening chapter. All Toddlers Are Scorpios is out now and available at your nearest bookseller.\n - - -\n\n \n With the fiery planet of Mars as their ruling house, the Aries toddler is known for their high energy and adventurous nature. A bold, fearless child, they can often be found rapidly scaling the nearest Barnes & Noble bookcase or attempting to fit their head into the neighbor’s Dalmatian’s mouth. You, meanwhile, can most often be found struggling to open some Tylenol or cleaning up the hummus the Aries has …",
+          "link": "https://www.mcsweeneys.net/articles/an-excerpt-from-johanna-gohmann-and-emily-flakes-new-book-all-toddlers-are-scorpios",
+          "publishedOn": "2026-04-07T13:00:00.000Z",
+          "wordCount": 3477,
+          "title": "An Excerpt from Johanna Gohmann and Emily Flake’s New Book All Toddlers Are Scorpios",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2uazl0eu9xs6z327o3ar6dka62i1"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/my-country-vs-my-country",
           "author": "Laleh Khadivi",
