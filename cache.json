@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160842",
+          "author": "Charlie Wood",
+          "description": "Decades of weird experimental results appeared to support the existence of the sterile neutrino, a hypothetical particle that would solve multiple mysteries. But recent experiments have killed hope of finding these phantoms, leaving physicists to wonder what might explain their anomalies.            \nThe post Experiments Ring the ‘Death Knell’ for Sterile Neutrinos first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
+          "publishedOn": "2026-04-08T14:20:38.000Z",
+          "wordCount": 4440,
+          "title": "Experiments Ring the ‘Death Knell’ for Sterile Neutrinos",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/MiniBooNE-photomultiplier-tube-cr-Fermilab-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160679",
           "author": "Max G. Levy",
           "description": "A vast meshwork of soil-bound fungi governs life aboveground. In Alaska, and at field sites around the world, researchers are racing to understand exactly how, with essential stores of carbon at stake.            \nThe post An Arctic Road Trip Brings Vital Underground Networks into View first appeared on Quanta Magazine",
@@ -552,6 +562,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69d6663fa8d4d10001a25935",
+          "author": "Joseph Cox",
+          "description": "How Florida conservation police are tapping into Flock for ICE; Wikipedia's AI ban; and how the app TeleGuard uploads users' private keys.",
+          "link": "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
+          "publishedOn": "2026-04-08T14:31:59.000Z",
+          "wordCount": 1100,
+          "title": "Podcast: Wildlife Cops Are Searching AI Cameras for ICE",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/flockflorida.png"
+        },
+        {
+          "id": "69d653cda8d4d100019ff3f0",
+          "author": "Janus Rose",
+          "description": "At a New York party, attendees spent Trans Day of Visibility dancing, DJing, and learning how to become less visible online.",
+          "link": "https://www.404media.co/trans-rights-privacy-online-cybersecurity-workshop-deadname-not-found/",
+          "publishedOn": "2026-04-08T14:18:44.000Z",
+          "wordCount": 2348,
+          "title": "A 'Self-Doxing' Rave Helps Trans People Stay Safe Online",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/cachemeoutside.png"
+        },
+        {
+          "id": "69d54340a8d4d100019fdc67",
+          "author": "Emanuel Maiberg",
+          "description": "Marathon is a great game for uncs. As signs of a crash change the video game industry, there might not be a lot of those left.",
+          "link": "https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/",
+          "publishedOn": "2026-04-08T14:08:37.000Z",
+          "wordCount": 2214,
+          "title": "I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/ss_2c6cd7296eea42d71cf6ca061adf3853393b3a13.1920x1080.jpg"
+        },
+        {
+          "id": "69d65ddea8d4d100019ff4de",
+          "author": "Joseph Cox",
+          "description": "Updates to VeraCrypt, a popular and long-running piece of encryption, are now thrown into doubt because of a seemingly unexplained Microsoft decision.",
+          "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+          "publishedOn": "2026-04-08T13:59:46.000Z",
+          "wordCount": 850,
+          "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/simon-ray-TICJQELFmg4-unsplash.jpg"
+        },
         {
           "id": "69d526cba8d4d100019fd8a1",
           "author": "Matthew Gault",
@@ -3741,6 +3791,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3230/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3230/",
+          "publishedOn": "2026-04-08T04:00:00.000Z",
+          "wordCount": 217,
+          "title": "Overton",
+          "imageUrl": "https://imgs.xkcd.com/comics/overton_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3229/",
           "author": null,
           "description": "",
@@ -4109,16 +4169,6 @@
           "wordCount": 187,
           "title": "Sailing Rigs",
           "imageUrl": "https://imgs.xkcd.com/comics/sailing_rigs_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3192/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3192/",
-          "publishedOn": "2026-01-09T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Planetary Alignment",
-          "imageUrl": "https://imgs.xkcd.com/comics/planetary_alignment_2x.png"
         }
       ]
     },
@@ -4511,6 +4561,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=472120",
+          "author": "Roselyn Romero",
+          "description": "The Board of Supervisors unanimously stands against FCI Dublin’s conversion into an immigration detention center — though the county has no jurisdiction over federal property.",
+          "link": "https://www.berkeleyside.org/2026/04/08/fci-dublin-ice-detention-alameda-board-of-supervisors-resolution",
+          "publishedOn": "2026-04-08T17:57:16.000Z",
+          "wordCount": 7521,
+          "title": "Alameda County leaders oppose ICE jail in former Dublin women’s prison",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/AP25268791192812-scaled-2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554953",
           "author": "Paula Sibulo | KQED",
@@ -7315,16 +7375,6 @@
           "wordCount": 7265,
           "title": "Remembering Nancy Gorrell, artist and activist who helped make Indigenous Peoples Day a holiday in Berkeley",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/IMG_9415.jpg?fit=640%2C440&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550112",
-          "author": "Berkeleyside Staff",
-          "description": "Also: More UC Berkeley students are saving money by graduating in three years.",
-          "link": "https://www.berkeleyside.org/2026/01/08/berkeley-wire-apartment-fire-at-redwood-gardens-arreguin-to-chair-senate-housing-committee",
-          "publishedOn": "2026-01-09T01:48:24.000Z",
-          "wordCount": 6944,
-          "title": "Berkeley Wire: Apartment fire at Redwood Gardens; Arreguín to chair Senate Housing Committee",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Jesse-Arreguin-Watch-Party-02.jpg"
         }
       ]
     },
@@ -8377,6 +8427,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/mini-philosophy/the-rawdogging-trend-a-new-term-for-an-ancient-practice/",
+          "author": "Laura Kennedy",
+          "description": "“Rawdogging” is a deeply unfortunate term that was popularized with fresh connotations a couple of years back, when people started using the word to describe the unmediated friction of sitting through a flight without any distractions. Video after video began to appear on TikTok, each featuring someone engaging in quaint, analogue activities like looking out the window, people watching, or staring vaguely ahead while thinking. There is something confronting about taking a form of introspection — a term formalized by early psychologists Wilhelm Wundt and Edward Titchener to refer to conscious inward focus with a view to self-understanding — and giving it a name that originally described having unprotected sex. A little unfortunate, perhaps, because despite its name, rawdogging is neither ne…",
+          "link": "https://bigthink.com/mini-philosophy/the-rawdogging-trend-a-new-term-for-an-ancient-practice/",
+          "publishedOn": "2026-04-08T15:13:02.000Z",
+          "wordCount": 2757,
+          "title": "The “rawdogging” trend: A new term for an ancient practice",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/rawdogging-philosophy_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/business/design-love-in/",
+          "author": "Marcus Buckingham",
+          "description": "You might think that the best leaders possess a long list of competencies. Perhaps you’ve read books detailing these competencies, or perhaps your company measures its leaders against some required list, using 360-degree surveys or performance ratings.\nNo matter how specific these lists are, or how tightly the ratings are tied to specific behaviors, the overwhelming body of data-based evidence reveals that all of these lists lack validity: We have no reliable way of measuring leader competencies, and so no valid way of proving that the best leaders possess more of them than average leaders.\nThe fact is, the best leaders do not have much in common at all. They do not all possess the same list of competencies. Nor do these leaders get better by identifying and then trying to acquire the comp…",
+          "link": "https://bigthink.com/business/design-love-in/",
+          "publishedOn": "2026-04-08T15:00:00.000Z",
+          "wordCount": 2590,
+          "title": "The best leaders don’t share traits. They do this instead.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/design-love-in_excerpt.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/alien-eyes-earth-peaceful/",
           "author": "Ethan Siegel",
           "description": "Of all the planets, star systems, and galaxies we’ve ever discovered, the only one that displays any yet-detected signals of life is right here: planet Earth which orbits the Sun right here in our own Milky Way. While there are:\nhundreds of known planetary bodies in our own Solar System,\nmore than 6000 known exoplanets detected so far,\napproximately 400 billion stars located within the Milky Way,\nand trillions of galaxies within the observable Universe,\neach one of them only represents a chance for life and living beings here in 2026. At present, only Earth, of all the known worlds, and only our Solar System, out of the 2 × 10²¹ stars suspected to exist in the visible Universe, has been demonstrated to have living organisms thriving upon it.\nBut any world that’s home to life is also, inevi…",
@@ -8395,6 +8465,16 @@
           "wordCount": 2942,
           "title": "What chess’s “intermezzo” moves can teach us about making better life decisions",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/thinking-sideways_excerpt.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/3-ways-to-prove-youre-human-online/",
+          "author": "Andrey Mir",
+          "description": "In 2010, Eric Schmidt, then-CEO of Google, claimed that every two days, humanity was creating as much information as it had generated from the dawn of civilization through 2003 — 48 hours’ worth of texts, photos, articles, tweets, and other content added up to more than five exabytes of data, according to Schmidt. \nSince then, generative AI has helped take our shift from information scarcity to information abundance to a whole new level — as of September 2025, we were generating more than 16 exabytes every hour. \nAI-generated content now accounts for an increasing share of the information we generate — some estimates suggest that it could soon exceed human-generated content. As this trend continues, content made by humans could become relatively scarce, and because scarcity creates value, …",
+          "link": "https://bigthink.com/science-tech/3-ways-to-prove-youre-human-online/",
+          "publishedOn": "2026-04-07T13:30:00.000Z",
+          "wordCount": 3082,
+          "title": "3 ways to prove you’re human online",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/03/3-ways-prove-humanity_compressed.jpg?resize=1200,630"
         },
         {
           "id": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
@@ -11078,6 +11158,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/relax-we-cant-invoke-the-twenty-fifth-amendment-every-time-a-president-threatens-to-murder-millions-of-people",
+          "author": "Carlos Greaves",
+          "description": "Look, we all know it’s been a rough couple of weeks. We’re a month into a war that even the most die-hard MAGA loyalists didn’t want, and things have gotten so bad that it finally broke Tucker Carlson. He’s beginning to say things that almost sound sensible.\n But just because we’re all a little scared and frustrated doesn’t mean it’s time to take drastic action. As members of Trump’s cabinet, we’re not about to invoke the Twenty-Fifth Amendment just because the president has repeatedly threatened to murder millions of people.\n The problem with the Twenty-Fifth Amendment is that it does not provide a clear litmus test for determining when a president is “unable to discharge the powers and duties of his office.” Is it when he’s regularly slurring his speech? When he’s constantly falling asle…",
+          "link": "https://www.mcsweeneys.net/articles/relax-we-cant-invoke-the-twenty-fifth-amendment-every-time-a-president-threatens-to-murder-millions-of-people",
+          "publishedOn": "2026-04-08T17:01:00.000Z",
+          "wordCount": 2519,
+          "title": "Relax, We Can’t Invoke the Twenty-Fifth Amendment Every Time a President Threatens to Murder Millions of People",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/odvjtx4uofz0p41se4ohogx10lyz"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/hormbles-chormbles",
+          "author": "Ethan Loewi",
+          "description": "As a longtime gym-goer, I am the target audience for all manner of protein-packed bullshit. Protein coffee? Can’t start the day without it. Protein salsa? Pass the chips. At the height of my weightlifting fixation, there were years when the friendly snake-oil salesmen at GNC got about half of my disposable income, which I happily traded for products with names like “Dr. Humongo’s Bicep Elixir.”\n I am a world-class mark for the magic-bean vendors of the supplement industry. Ninety-nine out of one hundred people, when presented with a bottle of mysterious powder called “Gorilla Boost MAX” that claims to “supercharge your T levels,” will simply roll their eyes and walk away. I am the hundredth person. I will buy a year’s supply. And if you can pack ten grams of extra protein into a pretzel, a…",
+          "link": "https://www.mcsweeneys.net/articles/hormbles-chormbles",
+          "publishedOn": "2026-04-08T13:00:00.000Z",
+          "wordCount": 2830,
+          "title": "Reviews of New Food: Hormbles Chormbles",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dqp10p632xzbio8w0m9x8wk2ez57"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/the-shocking-truth-about-this-president-that-weve-been-sitting-on-for-months-is-now-available-for-preorder",
           "author": "Jack Loftus",
           "description": "“In a series of Situation Room meetings, President Trump weighed his instincts [about going to war with Iran] against the deep concerns of his vice president and a pessimistic intelligence assessment. Here’s the inside story of how he made the fateful decision.” \n — An excerpt from New York Times White House reporters Jonathan Swan and Maggie Haberman’s forthcoming book, Regime Change: Inside the Imperial Presidency of Donald Trump.\n - - -\nIn recent hours, several unserious actors across the political and media spectrum have raised what they believe to be a profound question: namely, whether it is appropriate for a journalist to possess explosive information concerning presidential decision-making, the possible manufacture of consent for war in Iran, and internal assessments from the natio…",
@@ -12454,6 +12554,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111924 at https://www.eff.org",
+          "author": "Mitch Stoltz",
+          "description": "Another court has ruled that copyright can’t be used to keep our laws behind a paywall. The U.S. Court of Appeals for the Third Circuit upheld a lower court’s ruling that it is fair use to copy and disseminate building codes that have been incorporated into federal and state law, even though those codes are developed by private parties who claim copyright in them. The court followed the suggestions EFF and others presented in an amicus brief, and joined a growing list of courts that have placed public access to the law over private copyright holders’ desire for control.\nUpCodes created a database of building codes—like the National Electrical Code—that includes codes incorporated by reference into law. ASTM, a private organization that coordinated the development of some of those codes, in…",
+          "link": "https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law",
+          "publishedOn": "2026-04-08T18:13:58.000Z",
+          "wordCount": 1970,
+          "title": "Another Court Rules Copyright Can’t Stop People From Reading and Speaking the Law",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/copyright-orange_0.png",
+            "alt": "Copyright Symbol",
+            "type": "image/png",
+            "length": "31474"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/copyright-orange_0.png"
+        },
+        {
+          "id": "111926 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "Time and time again, we've seen police surveillance suffer from 'mission creep'—technology sold as a way to prevent heinous crimes ends up enforcing traffic violations, tracking protestors, and more. In our latest EFFector newsletter, we're diving into this troubling pattern and sharing all the latest in the fight for privacy and free speech online.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This week's issue covers the urgent need to reform NSA spying; a victory for internet access in the Supreme Court; and how license plate readers are normalizing mass surveillance.\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time, we're chatting with EFF Privacy Litigation Director Adam Schwartz about some of the recent technologies we've seen suffer from \"mission creep.\" And don't miss the EFFector news quiz! You can find the episode and subscribe on your podcast platform of choice: \n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F2ff7f80b-1fbe-4013-97b6-43873a6785ac%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to help us push back against mass surveillance? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/04/selling-mass-surveillance-effector-387",
+          "publishedOn": "2026-04-08T16:24:35.000Z",
+          "wordCount": 788,
+          "title": "👁 Selling Mass Surveillance | EFFector 38.7",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "111918 at https://www.eff.org",
           "author": "Sarah Hamid",
