@@ -3266,6 +3266,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/lab-notebooks",
+          "author": "Asimov Press",
+          "description": "How experimental recordings have changed, from the Renaissance through today.",
+          "link": "https://www.asimov.press/p/lab-notebooks",
+          "publishedOn": "2026-04-07T19:30:22.000Z",
+          "wordCount": null,
+          "title": "A Brief History of Lab Notebooks",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!10vo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b08274-6bb7-43fe-99fb-ec9752bad0ac_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!10vo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b08274-6bb7-43fe-99fb-ec9752bad0ac_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/bioinformatics",
           "author": "Asimov Press",
           "description": "How computer scientists on the fringes of biology made sense of sequencing data.",
@@ -4532,6 +4548,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=554953",
+          "author": "Paula Sibulo | KQED",
+          "description": "About 5,400 CalFresh recipients in Alameda County are at risk of losing their benefits, according to a local food bank.",
+          "link": "https://www.berkeleyside.org/2026/04/07/food-stamp-snap-cuts-big-beautiful-bill",
+          "publishedOn": "2026-04-07T21:59:27.000Z",
+          "wordCount": 7309,
+          "title": "Alameda County communities prepare for more hunger amid cuts to food stamps",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/112018_AW_AlamedaCountyFood-Bank_05_qed.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554948",
+          "author": "Berkeleyside Staff",
+          "description": "Our guests: Provost Benjamin Hermalin, law professor Chris Hoofnagle, history professor Ussama Makdisi and Daily Cal editor Ananya Rupanagunta.",
+          "link": "https://www.berkeleyside.org/2026/04/07/free-speech-academic-freedom-uc-berkeley-event-berkeleyside",
+          "publishedOn": "2026-04-07T19:03:24.000Z",
+          "wordCount": 7304,
+          "title": "What’s the state of free speech at UC Berkeley? Join Berkeleyside on April 14 to find out",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_ProPalestinianProtestCal_260318_005.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554893",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/04/07/nudi-blue-cheese-board-sodo-quebrada-opening",
+          "publishedOn": "2026-04-07T19:00:00.000Z",
+          "wordCount": 7266,
+          "title": "Tanzie’s duo open new restaurant, Cheese Board expanded and what’s come to Phở Vy’s old spot",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_240506_135_TANZIES_17.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554623",
           "author": "Local sponsor",
@@ -7346,16 +7392,6 @@
           "wordCount": 7207,
           "title": "Defying a nationwide trend, UC Berkeley enrolled more new international students this year",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/AP22089797873830.jpg?fit=1024%2C683&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=549990",
-          "author": "Andrew Gilbert",
-          "description": "Also: Attend a renewal of vows between a resident living in The Ivy's memory care neighborhood and his wife.",
-          "link": "https://www.berkeleyside.org/2026/01/08/around-berkeley-events-jan-8-jan-15-2025",
-          "publishedOn": "2026-01-08T12:00:00.000Z",
-          "wordCount": 7864,
-          "title": "Around Berkeley: Tamales karaoke; bike part swap meet; new youth poet laureate",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/AP23031072442726.jpg?fit=1024%2C658&ssl=1"
         }
       ]
     },
@@ -7456,16 +7492,6 @@
           "wordCount": 2210,
           "title": "The History of Web Design, 1993–2012: Season 5 Launch",
           "imageUrl": "https://cybercultural.com/assets/images/web-design-feature-season5.jpg"
-        },
-        {
-          "id": "https://cybercultural.com/p/bowienet-2004-2016/",
-          "author": null,
-          "description": "DavidBowie.com, January 8, 2013.\nAfter 2004, the rise of the social web — and especially platforms like MySpace and Facebook — made niche social networks like BowieNet less relevant in the culture. This shift coincided with the slow decline of BowieNet itself. The portal and ISP had launched in 1998 and had two major redesigns (in 2000 and 2003), but when David Bowie suffered a heart attack during the Reality world tour in 2004 — leading to a long period of inactivity in the music industry — his website fell into a kind of stasis too.\nSlowly, BowieNet was dismantled. In 2006, the ISP service was quietly shut down — most likely because UltraStar, its corporate owner (in which Bowie was a shareholder) had pivoted to become an online fan club business. In an April 2006 press release touting a…",
-          "link": "https://cybercultural.com/p/bowienet-2004-2016/",
-          "publishedOn": "2026-01-08T10:35:00.000Z",
-          "wordCount": 2947,
-          "title": "After BowieNet, David Bowie Goes Dark and Shuns Social Media",
-          "imageUrl": "https://cybercultural.com/assets/images/bowie-website-jan2013.png"
         }
       ]
     },
@@ -7762,21 +7788,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/darwin-el-naturalista/Charles_Darwin_Lawrence.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/darwin-the-witness",
-          "author": null,
-          "description": "In His Own Words (Episode 4)",
-          "link": "https://aethermug.com/posts/darwin-the-witness?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-01-08T07:24:24.000Z",
-          "wordCount": 13278,
-          "title": "Darwin the Witness",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/darwin-the-witness/osorno.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/darwin-the-witness/osorno.jpeg"
         }
       ]
     },
@@ -10721,16 +10732,6 @@
           "wordCount": 2859,
           "title": "How AI is making us think short-term",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/ai-think-short-term_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/zenos-paradox/",
-          "author": "Ethan Siegel",
-          "description": "The fastest human in the world, according to the Ancient Greek legend, was the heroine Atalanta. Although she was a famous huntress who joined Jason and the Argonauts in the search for the golden fleece, she was most renowned for the one avenue in which she surpassed all other humans: her speed. While many boasted of how swift or fleet-footed they were, Atalanta outdid them all. No one possessed the capabilities to defeat her in a fair footrace. According to legend, she refused to be wed unless a potential suitor could outrace her, and remained unwed for a very long time. Arguably, if not for the intervention of the Goddess Aphrodite, she would have avoided marriage for the entirety of her life.\nAside from her running exploits, Atalanta was also the inspiration for the first of many simila…",
-          "link": "https://bigthink.com/starts-with-a-bang/zenos-paradox/",
-          "publishedOn": "2026-01-08T07:00:00.000Z",
-          "wordCount": 4139,
-          "title": "Zeno’s Paradox resolved by physics, not by math alone",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/02/distance-1200x773-1-e1767825893355.jpg?w=960&h=541&crop=1"
         }
       ]
     },
@@ -12540,6 +12541,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111919 at https://www.eff.org",
+          "author": "Christoph Schmon",
+          "description": "The EU’s so-called Chat Control plan, which would mandate mass scanning and other encryption breaking measures, has had some good news lately. The most controversial idea, the forced requirement to scan encrypted messages, was given up by EU member states. And now, another win for privacy: the EU Parliament has dealt a real blow to voluntary mass-scanning of chats by voting to not prolong an interim derogation from e-Privacy rules in the EU. These rules allowed service providers, temporarily, to scan private communication.  \nBut no one should celebrate just yet. We said there is more to it, and voluntary scanning is a key part. Unlike in the U.S., where there is no comprehensive federal privacy law, the general and indiscriminate scanning of people’s messages is not legal in the EU without…",
+          "link": "https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next",
+          "publishedOn": "2026-04-07T19:24:13.000Z",
+          "wordCount": 1647,
+          "title": "EU Parliament Blocks Mass-Scanning of Our Chats—What's Next?",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png",
+            "alt": "People communicating on devices with encryption, art by Chelsea Saunders",
+            "type": "image/png",
+            "length": "194039"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png"
+        },
         {
           "id": "111915 at https://www.eff.org",
           "author": "Melissa Srago",
