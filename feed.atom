@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-08T18:28:40.608Z</updated>
+    <updated>2026-04-09T00:26:20.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banning New Foreign Routers Mistargets Products to Fix Real Problem]]></title>
+        <id>111930 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem"/>
+        <updated>2026-04-08T19:24:39.000Z</updated>
+        <summary type="html"><![CDATA[On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), to include all new routers produced in foreign countries unless they are specifically given an exception by the Department of Defense (DoD) or DHS. The Commission cited “security gaps in foreign-made routers” leading to widespread cyberattacks as justification for the ban, mentioning the high-profile attacks by Chinese advanced persistent threat actors Volt, Flax, and Salt Typhoon. Although the stated intention is to stem the very real threat of domestic residential routers being commandeered to initiate attacks and act as residential proxies, this sweeping move serves as a blunt instrument th…]]></summary>
+        <author>
+            <name>Bill Budington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley can clear encampment at 8th and Harrison — with a few caveats, judge rules]]></title>
+        <id>https://www.berkeleyside.org/?p=555018</id>
+        <link href="https://www.berkeleyside.org/2026/04/08/eight-and-harrison-homeless-encampment-west-berkeley"/>
+        <updated>2026-04-08T18:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Homeless advocates cheered the ruling, which stops the city from confining people to a 3-by-3-foot square on the sidewalk or seizing and destroying RVs without due process.]]></summary>
+        <author>
+            <name>Felicia Mello</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another Court Rules Copyright Can’t Stop People From Reading and Speaking the Law]]></title>
         <id>111924 at https://www.eff.org</id>
@@ -15334,17 +15354,6 @@ He reproduced this fatalistic first rule in his book to remind readers that we�
         <summary type="html"><![CDATA[An environmentalist and educator with a deep sense of community, she worked in local after-school programs and illustrated the "Berkeley A to Z" coloring book and other titles.]]></summary>
         <author>
             <name>Anne and Kevin Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Ethan: What does “gravitationally bound” mean in the expanding Universe?]]></title>
-        <id>https://bigthink.com/starts-with-a-bang/gravitationally-bound-expanding-universe/</id>
-        <link href="https://bigthink.com/starts-with-a-bang/gravitationally-bound-expanding-universe/"/>
-        <updated>2026-01-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here in our Universe, as soon as you open your eyes to the vastness of the cosmos beyond our own world, you see just how full of structure — and particularly, light-emitting and light-absorbing structures — it is. But looks can often be deceiving, as points of light that are clustered closely together on the sky aren’t necessarily part of the same system, the same structure, or even close together in three-dimensional space. Sometimes, what appears to be a structure is merely an association, of things that appear nearby when we look at them right now, whereas at other times, there truly is a structure that ties these multiple points of light together.
-One important question we can ask, whenever we see multiple objects located nearby to one another, is whether those objects are bound togeth…]]></summary>
-        <author>
-            <name>Ethan Siegel</name>
         </author>
     </entry>
     <entry>

@@ -4562,6 +4562,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=555018",
+          "author": "Felicia Mello",
+          "description": "Homeless advocates cheered the ruling, which stops the city from confining people to a 3-by-3-foot square on the sidewalk or seizing and destroying RVs without due process.",
+          "link": "https://www.berkeleyside.org/2026/04/08/eight-and-harrison-homeless-encampment-west-berkeley",
+          "publishedOn": "2026-04-08T18:32:27.000Z",
+          "wordCount": 8081,
+          "title": "Berkeley can clear encampment at 8th and Harrison — with a few caveats, judge rules",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/encampementsweepJune4th2025AdahliaCole-22.jpg"
+        },
+        {
           "id": "https://oaklandside.org/?p=472120",
           "author": "Roselyn Romero",
           "description": "The Board of Supervisors unanimously stands against FCI Dublin’s conversion into an immigration detention center — though the county has no jurisdiction over federal property.",
@@ -10705,16 +10715,6 @@
           "wordCount": 3827,
           "title": "Yes, ice cream can be part of a healthy life. Here’s how.",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/2500-yr-helath-secrets_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/gravitationally-bound-expanding-universe/",
-          "author": "Ethan Siegel",
-          "description": "Here in our Universe, as soon as you open your eyes to the vastness of the cosmos beyond our own world, you see just how full of structure — and particularly, light-emitting and light-absorbing structures — it is. But looks can often be deceiving, as points of light that are clustered closely together on the sky aren’t necessarily part of the same system, the same structure, or even close together in three-dimensional space. Sometimes, what appears to be a structure is merely an association, of things that appear nearby when we look at them right now, whereas at other times, there truly is a structure that ties these multiple points of light together.\nOne important question we can ask, whenever we see multiple objects located nearby to one another, is whether those objects are bound togeth…",
-          "link": "https://bigthink.com/starts-with-a-bang/gravitationally-bound-expanding-universe/",
-          "publishedOn": "2026-01-09T07:00:00.000Z",
-          "wordCount": 4462,
-          "title": "Ask Ethan: What does “gravitationally bound” mean in the expanding Universe?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2020_02_Laniakea-2-e1753832684643.jpg?w=960&h=541&crop=1"
         }
       ]
     },
@@ -12554,6 +12554,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111930 at https://www.eff.org",
+          "author": "Bill Budington",
+          "description": "On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), to include all new routers produced in foreign countries unless they are specifically given an exception by the Department of Defense (DoD) or DHS. The Commission cited “security gaps in foreign-made routers” leading to widespread cyberattacks as justification for the ban, mentioning the high-profile attacks by Chinese advanced persistent threat actors Volt, Flax, and Salt Typhoon. Although the stated intention is to stem the very real threat of domestic residential routers being commandeered to initiate attacks and act as residential proxies, this sweeping move serves as a blunt instrument th…",
+          "link": "https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem",
+          "publishedOn": "2026-04-08T19:24:39.000Z",
+          "wordCount": 1189,
+          "title": "Banning New Foreign Routers Mistargets Products to Fix Real Problem",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/smart-home-2b.jpg",
+            "alt": "Person &amp; cat inside home, surrounded by icons for “smart” tech, computers",
+            "type": "image/jpeg",
+            "length": "161786"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/smart-home-2b.jpg"
+        },
         {
           "id": "111924 at https://www.eff.org",
           "author": "Mitch Stoltz",
