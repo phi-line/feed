@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-09T18:22:59.876Z</updated>
+    <updated>2026-04-10T00:30:28.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Habitot Children’s Museum is still searching for a permanent home]]></title>
+        <id>https://www.berkeleyside.org/?p=555118</id>
+        <link href="https://www.berkeleyside.org/2026/04/09/the-wire-habitot-childrens-museum-is-still-searching-for-a-permanent-home"/>
+        <updated>2026-04-10T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: A naked man with a shotgun was arrested after running into the Tesla shop on Fourth Street.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yikes, Encryption’s Y2K Moment is Coming Years Early]]></title>
+        <id>111938 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early"/>
+        <updated>2026-04-09T21:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Google moved up its estimated deadline for quantum preparedness in cryptography to 2029—only 33 months from now. That’s earlier than previous deadlines, and they proposed the new post-quantum migration deadline because of two new papers that comprise a big jump in the state of the technology. It’s ahead of schedule, but not altogether unexpected. Cryptographers and engineers have been working on this for years, and as the deadline gets closer, it’s not surprising to see more precise timeline estimates come up.
+The preparation for the Y2K bug is not a perfect analogy. Like Y2K, if systems are not updated in time, anyone with a powerful enough quantum computer will be able to more easily insert malware into the core systems of a computer and fake authentication to allow impersonation merely …]]></summary>
+        <author>
+            <name>Erica Portnoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las Delicias departs, La Noisette shutters, and more recent East Bay closures]]></title>
+        <id>https://www.berkeleyside.org/?p=554806</id>
+        <link href="https://www.berkeleyside.org/2026/04/09/las-delicias-departs-la-noisette-shutters-and-more-recent-east-bay-closures"/>
+        <updated>2026-04-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Other March restaurant departures included a Hawaiian spot and a juice bar.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Hills fire last month started in a wood pile outside a home]]></title>
+        <id>https://www.berkeleyside.org/?p=555114</id>
+        <link href="https://www.berkeleyside.org/2026/04/09/berkeley-hills-fire-last-month-started-in-a-wood-pile-outside-a-home"/>
+        <updated>2026-04-09T19:49:37.000Z</updated>
+        <summary type="html"><![CDATA[The fire, which burned two houses, rekindled later in the day but was quickly put out. Residents of a dead-end portion of Olympus Avenue have since been given the code to a gate to evacuate by car.]]></summary>
+        <author>
+            <name>Zac Farber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots]]></title>
+        <id>https://www.berkeleyside.org/?p=554803</id>
+        <link href="https://www.berkeleyside.org/2026/04/09/fob-west-tita-beccas-butters-lena-gara-cocinita-nica-open"/>
+        <updated>2026-04-09T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FOB West, Tita Becca's, Butter's Burgers, Leña, GA.RA, and La Cocinita Nica are some of the East Bay restaurants to open in March.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley school district approves new contract with classified workers]]></title>
+        <id>https://www.berkeleyside.org/?p=555100</id>
+        <link href="https://www.berkeleyside.org/2026/04/09/berkeley-unified-school-district-new-contract-bcce"/>
+        <updated>2026-04-09T18:58:36.000Z</updated>
+        <summary type="html"><![CDATA[The district’s custodians, bus drivers and other non-educators will get a 7% raise over two years and full health coverage for families — both benefits slightly more than what teachers won last month.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If life exists on Mars, it’s likely hiding — or maybe sleeping]]></title>
+        <id>https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/</id>
+        <link href="https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/"/>
+        <updated>2026-04-09T18:39:58.000Z</updated>
+        <summary type="html"><![CDATA[With the latest detection of organic compounds by the Curiosity rover, the case for past life on Mars becomes stronger than ever, as suggested in a recent paper by Alexander Pavlov in the journal Astrobiology. And that lends additional credence to an even more exciting idea — that living organisms may still exist on Mars today.
+If that’s true, what form should we expect them to take? And where should we search for them? The planet’s surface is a brutal environment for any known type of organism, with huge temperature swings (from approximately -150 °C to 25 °C), virtually no water, and high doses of radiation. Yet we know from our own planet how resilient and adaptive life can be. Besides, this hostile environment didn’t always exist on Mars.
+So if life once thrived on the Red Planet, wher…]]></summary>
+        <author>
+            <name>Dirk Schulze-Makuch, Tony Reichhardt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World’s Largest Group of Chimps Waging Deadly ‘Civil War,’ Scientists Discover]]></title>
         <id>69d662b5a8d4d100019ff572</id>
@@ -14,6 +87,18 @@
         <summary type="html"><![CDATA[At least 24 chimpanzees have been killed in a war that has split the Ngogo group of wild chimpanzees in two, turning former kin into enemies.]]></summary>
         <author>
             <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison Shopping Is Not a (Computer) Crime]]></title>
+        <id>111934 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime"/>
+        <updated>2026-04-09T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[As long as people have had more than one purchasing option, they’ve been comparing those options and looking for bargains. Online shoppers are no exception; in fact, one of the potential benefits of the internet is that it expands our options for everything from car rentals to airline tickets to dish soap. New AI tools can make the process even easier. These tools could provide some welcome relief for consumers facing sky-high prices that many cannot afford.
+Unfortunately, Amazon is trying to block these helpful new tools, which can steer shoppers towards competitors. Taking a page from Facebook and RyanAir, they are trying to use computer crime laws to do it. 
+Amazon’s target is Perplexity, which makes an AI-enabled web browser, called Comet, that allows users to browse the web as they no…]]></summary>
+        <author>
+            <name>Corynne McSherry</name>
         </author>
     </entry>
     <entry>

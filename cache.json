@@ -4574,6 +4574,56 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=555118",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A naked man with a shotgun was arrested after running into the Tesla shop on Fourth Street.",
+          "link": "https://www.berkeleyside.org/2026/04/09/the-wire-habitot-childrens-museum-is-still-searching-for-a-permanent-home",
+          "publishedOn": "2026-04-10T00:15:00.000Z",
+          "wordCount": 7102,
+          "title": "The Wire: Habitot Children’s Museum is still searching for a permanent home",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/02/Two-toddler-boys-painting-at-Habitot-scaled-e1582658113653.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554806",
+          "author": "Momo Chang",
+          "description": "Other March restaurant departures included a Hawaiian spot and a juice bar.",
+          "link": "https://www.berkeleyside.org/2026/04/09/las-delicias-departs-la-noisette-shutters-and-more-recent-east-bay-closures",
+          "publishedOn": "2026-04-09T21:30:00.000Z",
+          "wordCount": 7310,
+          "title": "Las Delicias departs, La Noisette shutters, and more recent East Bay closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/LasDelicias-Exterior.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555114",
+          "author": "Zac Farber",
+          "description": "The fire, which burned two houses, rekindled later in the day but was quickly put out. Residents of a dead-end portion of Olympus Avenue have since been given the code to a gate to evacuate by car.",
+          "link": "https://www.berkeleyside.org/2026/04/09/berkeley-hills-fire-last-month-started-in-a-wood-pile-outside-a-home",
+          "publishedOn": "2026-04-09T19:49:37.000Z",
+          "wordCount": 7336,
+          "title": "Berkeley Hills fire last month started in a wood pile outside a home",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Fire-1.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=554803",
+          "author": "Momo Chang",
+          "description": "FOB West, Tita Becca's, Butter's Burgers, Leña, GA.RA, and La Cocinita Nica are some of the East Bay restaurants to open in March.",
+          "link": "https://www.berkeleyside.org/2026/04/09/fob-west-tita-beccas-butters-lena-gara-cocinita-nica-open",
+          "publishedOn": "2026-04-09T19:00:00.000Z",
+          "wordCount": 8925,
+          "title": "Spring restaurant superbloom brings new Filipino, burger, Mexican, coffee, and Nicaraguan spots",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/FOBWest-Soup.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555100",
+          "author": "Vanessa Arredondo",
+          "description": "The district’s custodians, bus drivers and other non-educators will get a 7% raise over two years and full health coverage for families — both benefits slightly more than what teachers won last month.",
+          "link": "https://www.berkeleyside.org/2026/04/09/berkeley-unified-school-district-new-contract-bcce",
+          "publishedOn": "2026-04-09T18:58:36.000Z",
+          "wordCount": 7879,
+          "title": "Berkeley school district approves new contract with classified workers",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/IMG_4332-1-scaled.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=555079",
           "author": "Karen Nguyen Vo and Andrew Gilbert",
           "description": "Other events include a health resource fair by the City of Berkeley, Holocaust Remembrance Day and an exhibition on Berkeley's waterfront.",
@@ -8398,6 +8448,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/",
+          "author": "Dirk Schulze-Makuch, Tony Reichhardt",
+          "description": "With the latest detection of organic compounds by the Curiosity rover, the case for past life on Mars becomes stronger than ever, as suggested in a recent paper by Alexander Pavlov in the journal Astrobiology. And that lends additional credence to an even more exciting idea — that living organisms may still exist on Mars today.\nIf that’s true, what form should we expect them to take? And where should we search for them? The planet’s surface is a brutal environment for any known type of organism, with huge temperature swings (from approximately -150 °C to 25 °C), virtually no water, and high doses of radiation. Yet we know from our own planet how resilient and adaptive life can be. Besides, this hostile environment didn’t always exist on Mars.\nSo if life once thrived on the Red Planet, wher…",
+          "link": "https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/",
+          "publishedOn": "2026-04-09T18:39:58.000Z",
+          "wordCount": 3239,
+          "title": "If life exists on Mars, it’s likely hiding — or maybe sleeping",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/life-on-mars-hiding_compressed.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/books/ignorance-better-societies/",
           "author": "George G. Szpiro",
@@ -12546,6 +12606,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111938 at https://www.eff.org",
+          "author": "Erica Portnoy",
+          "description": "Google moved up its estimated deadline for quantum preparedness in cryptography to 2029—only 33 months from now. That’s earlier than previous deadlines, and they proposed the new post-quantum migration deadline because of two new papers that comprise a big jump in the state of the technology. It’s ahead of schedule, but not altogether unexpected. Cryptographers and engineers have been working on this for years, and as the deadline gets closer, it’s not surprising to see more precise timeline estimates come up.\nThe preparation for the Y2K bug is not a perfect analogy. Like Y2K, if systems are not updated in time, anyone with a powerful enough quantum computer will be able to more easily insert malware into the core systems of a computer and fake authentication to allow impersonation merely …",
+          "link": "https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early",
+          "publishedOn": "2026-04-09T21:32:03.000Z",
+          "wordCount": 2412,
+          "title": "Yikes, Encryption’s Y2K Moment is Coming Years Early",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "46254"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png"
+        },
+        {
+          "id": "111934 at https://www.eff.org",
+          "author": "Corynne McSherry",
+          "description": "As long as people have had more than one purchasing option, they’ve been comparing those options and looking for bargains. Online shoppers are no exception; in fact, one of the potential benefits of the internet is that it expands our options for everything from car rentals to airline tickets to dish soap. New AI tools can make the process even easier. These tools could provide some welcome relief for consumers facing sky-high prices that many cannot afford.\nUnfortunately, Amazon is trying to block these helpful new tools, which can steer shoppers towards competitors. Taking a page from Facebook and RyanAir, they are trying to use computer crime laws to do it. \nAmazon’s target is Perplexity, which makes an AI-enabled web browser, called Comet, that allows users to browse the web as they no…",
+          "link": "https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime",
+          "publishedOn": "2026-04-09T17:20:38.000Z",
+          "wordCount": 1752,
+          "title": "Comparison Shopping Is Not a (Computer) Crime",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/amazon-sad-1.png",
+            "alt": "Amazon smile logo with smile upside down",
+            "type": "image/png",
+            "length": "38230"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/amazon-sad-1.png"
+        },
         {
           "id": "111931 at https://www.eff.org",
           "author": "Kenyatta Thomas",
