@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-10T00:30:28.486Z</updated>
+    <updated>2026-04-10T06:39:37.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How did Artemis II break Apollo’s distance record?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/how-artemis-ii-break-apollo-distance-record/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/how-artemis-ii-break-apollo-distance-record/"/>
+        <updated>2026-04-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On April 6, 2026, humanity set an all-time record as part of the Artemis II mission: the distance record for how far a living human has ever traveled away from planet Earth. Traveling farther than any other humans in history, astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen reached a maximum distance of 406,773 km (252,757 miles), breaking the previous record set way back on April 15, 1970 by the Apollo 13 mission. For 56 years, the Apollo 13 record stood, as those astronauts reached a maximum distance of 400,171 km (248,655 miles): a record that has now been extended by an impressive 6602 km (4021 miles), greater than the radius of the Earth.
+But why did this happen? What enabled the Artemis II mission to surpass the Apollo-era distance record? That’s what Daniel …]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over-optimizing your life is making you fragile, not better]]></title>
+        <id>https://bigthink.com/series/full-interview/excellence-stulberg/</id>
+        <link href="https://bigthink.com/series/full-interview/excellence-stulberg/"/>
+        <updated>2026-04-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most people chasing excellence are chasing the wrong thing entirely. Brad Stulberg argues that the 4am routines, optimization stacks, and recovery scores are just elaborate performance passed off as “excellence.”
+Stulberg breaks down the biology, philosophy, and psychology behind genuine excellence and how to reach it.
+This video Over-optimizing your life is making you fragile, not better is featured on Big Think.]]></summary>
+        <author>
+            <name>Brad Stulberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Habitot Children’s Museum is still searching for a permanent home]]></title>
         <id>https://www.berkeleyside.org/?p=555118</id>
