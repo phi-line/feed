@@ -3813,6 +3813,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3231/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3231/",
+          "publishedOn": "2026-04-10T04:00:00.000Z",
+          "wordCount": 217,
+          "title": "Lightning",
+          "imageUrl": "https://imgs.xkcd.com/comics/lightning_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3230/",
           "author": null,
           "description": "",
@@ -4603,6 +4613,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=472088",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/04/10/millenium-crepe-pan-sweet-fingers-tasty-pot-close",
+          "publishedOn": "2026-04-10T21:06:30.000Z",
+          "wordCount": 6861,
+          "title": "Millennium to close in May; downtown Berkeley’s Tasty Pot shutters",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Millenium-dish.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555185",
+          "author": "Berkeleyside Staff",
+          "description": "A message sent to users Friday said the building would be closed through April 20.",
+          "link": "https://www.berkeleyside.org/2026/04/10/north-berkeley-senior-center-closed-maintenance",
+          "publishedOn": "2026-04-10T20:47:30.000Z",
+          "wordCount": 7174,
+          "title": "Rat infestation closes North Berkeley Senior Center",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/North-Berkeley-Senior-Center-Opening-03.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555167",
+          "author": "Kate Darby Rauch",
+          "description": "“We have zero. … It was so quick. … My uncle has no clothes. … Where will I pay the same rent?” They fled their homes on Ninth Street in their pajamas. Now they ask what comes next.",
+          "link": "https://www.berkeleyside.org/2026/04/10/west-berkeley-apartment-fire-displaced-ninth-street",
+          "publishedOn": "2026-04-10T18:42:32.000Z",
+          "wordCount": 9369,
+          "title": "For dozens displaced by West Berkeley apartment fire, it’s been a week of loss and stress",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Raquel-1.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554584",
           "author": "Nathan Dalton",
