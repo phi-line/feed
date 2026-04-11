@@ -563,6 +563,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69d9c6f7a8d4d10001a831ec",
+          "author": "Becky Ferreira",
+          "description": "A re-examination of a 300-million-year-old fossil that was long thought to be the earliest octopus revealed that the animal was actually part of the nautilus family.",
+          "link": "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
+          "publishedOn": "2026-04-11T13:00:06.000Z",
+          "wordCount": 2176,
+          "title": "The Oldest Octopus Fossil Ever Isn’t An Octopus At All, Scientists Discover",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/image2.jpg"
+        },
+        {
           "id": "69d90110a8d4d10001a5366a",
           "author": "Samantha Cole",
           "description": "This week, we discuss gun violence and chatbots and acceptance of depravity.",
@@ -4191,16 +4201,6 @@
           "wordCount": 189,
           "title": "16 Part Epoxy",
           "imageUrl": "https://imgs.xkcd.com/comics/16_part_epoxy_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3193/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3193/",
-          "publishedOn": "2026-01-12T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Sailing Rigs",
-          "imageUrl": "https://imgs.xkcd.com/comics/sailing_rigs_2x.png"
         }
       ]
     },
@@ -7487,16 +7487,6 @@
           "wordCount": 8053,
           "title": "Over 2,000 East Bay residents bought e-bikes with vouchers in the last 6 months",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Natera_E-BIKES_251001_025.jpg?fit=1600%2C1143&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550191",
-          "author": "Sara Martin",
-          "description": "The protests this weekend were part of nationwide wave of resistance following the capture of the Venezuelan president and an ICE officer's fatal shooting of Renee Good.",
-          "link": "https://www.berkeleyside.org/2026/01/11/ice-out-for-good-protests",
-          "publishedOn": "2026-01-12T00:33:13.000Z",
-          "wordCount": 8437,
-          "title": "Protests against ICE and U.S. intervention in Venezuela held in Berkeley at Chevron station and I-80 overpass",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Chevron-protest.jpg"
         }
       ]
     },
@@ -8548,6 +8538,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-128-planet-formation-and-proto-protoplanets/",
+          "author": "Ethan Siegel",
+          "description": "Whenever a new star forms, several processes appear to be nearly universal. A cloud of cold molecular gas contracts, fragments, and rapidly collapses in certain places. The densest, coldest clumps of gas contract first, drawing in larger and larger amounts of matter onto them. A large, massive enough clump will heat up and have a random shape: collapsing along the shortest axis first, forming a protostar at the center surrounded by a disk of material. That’s where the story of planet formation begins.\n\n\n\nAssuming the conditions in the disk are sufficient, clumps will begin to form, and over hundreds of thousands to millions of years, the first protoplanets and then full-fledged planets will arise: a relatively rapid cosmic process, that’s usually all complete within a mere 10 million years: a blink of a cosmic eye in the history of our own 4.5 billion year old Solar System. However, by looking at the youngest stellar and planetary systems, we can uncover many details that are common to planetary systems in general, and in turn, we can learn how our own Solar System grew up.\n\n\n\nThis fantastic episode of the Starts With A Bang podcast features observational astrochemist Dr. Charles Law, and takes us inside one of the most remarkable young stellar systems ever found: the edge-on system known as Gomez’s Hamburger, complete with a first-of-its-kind exoplanet known as GoHam b. Come find out the incredible science behind planet formation, and meet our first-ever proto-protoplanet in the process!\nThis article Starts With A Bang #128 – Planet formation and proto-protoplanets is featured on Big Think.",
+          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-128-planet-formation-and-proto-protoplanets/",
+          "publishedOn": "2026-04-11T17:01:39.000Z",
+          "wordCount": 2047,
+          "title": "Starts With A Bang #128 – Planet formation and proto-protoplanets",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/GoHam_JWST_NIRCam_short-e1775926572106.jpg?w=792&h=483&crop=1"
+        },
         {
           "id": "https://bigthink.com/books/the-future-of-free-speech/",
           "author": "Jacob Mchangama, Jeff Kosseff",
