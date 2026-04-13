@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160931",
+          "author": "Konstantin Kakaes",
+          "description": "AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginning.            \nThe post The AI Revolution in Math Has Arrived first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+          "publishedOn": "2026-04-13T14:54:41.000Z",
+          "wordCount": 6812,
+          "title": "The AI Revolution in Math Has Arrived",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Math-AI-Update-cr-Nash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160892",
           "author": "Amanda Gefter",
           "description": "Our tales of AI developing the will to survive, commandeer resources, and manipulate people say more about us than they do about language models.             \nThe post Why Do We Tell Ourselves Scary Stories About AI? first appeared on Quanta Magazine",
@@ -552,6 +562,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69dd1085c4b6a700015ce088",
+          "author": "Joseph Cox",
+          "description": "Doublespeed uses a phone farm to flood social media with AI-generated influencers. A hacker managed to get into a backend system of the company.",
+          "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+          "publishedOn": "2026-04-13T16:11:30.000Z",
+          "wordCount": 1408,
+          "title": "Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/a16z-meme-collage.png"
+        },
+        {
+          "id": "69d7beada8d4d10001a4ecef",
+          "author": "Emanuel Maiberg",
+          "description": "‘The Ambivalent Internet’ and ‘The Shadow Gospel’ author Whitney Phillips on how online got so bad.",
+          "link": "https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/",
+          "publishedOn": "2026-04-13T14:48:19.000Z",
+          "wordCount": 1239,
+          "title": "How the Internet Became Hell (with Whitney Phillips)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/thisisfine2.png"
+        },
+        {
+          "id": "69d94bb2a8d4d10001a81a89",
+          "author": "Emanuel Maiberg",
+          "description": "WebinarTV scraped and shared 12 steps-based anonymous meetings for people recovering from addiction and other private support groups.",
+          "link": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
+          "publishedOn": "2026-04-13T13:15:01.000Z",
+          "wordCount": 1895,
+          "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
+          "imageUrl": "https://images.unsplash.com/photo-1606770347238-77fcfd29906c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHpvb20lMjBtZWV0aW5nfGVufDB8fHx8MTc3NTg0ODM1OXww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "69d9c6f7a8d4d10001a831ec",
           "author": "Becky Ferreira",
@@ -4125,16 +4165,6 @@
           "wordCount": 187,
           "title": "International Station",
           "imageUrl": "https://imgs.xkcd.com/comics/international_station_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3194/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3194/",
-          "publishedOn": "2026-01-14T05:00:00.000Z",
-          "wordCount": 189,
-          "title": "16 Part Epoxy",
-          "imageUrl": "https://imgs.xkcd.com/comics/16_part_epoxy_2x.png"
         }
       ]
     },
@@ -4537,6 +4567,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555054",
+          "author": "Ana De Almeida Amaral | KQED",
+          "description": "The synthesized voices are part of a robotic text-to-speech system that's been announcing trains to BART passengers for 26 years.",
+          "link": "https://www.berkeleyside.org/2026/04/13/bart-announcement-voices-george-gracie",
+          "publishedOn": "2026-04-13T14:00:00.000Z",
+          "wordCount": 7761,
+          "title": "Why do George and Gracie, the voices making BART announcements, sound so ancient?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-20260219_BART_EG_24.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=554928",
           "author": "Family of Tom Carlson",
@@ -7351,16 +7391,6 @@
           "wordCount": 7881,
           "title": "François Truffaut’s daughter, a Berkeley resident since 1978, will introduce 9 of his films at BAMPFA",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/950-scans_p1.jpg?fit=1400%2C1000&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550323",
-          "author": "Alex N. Gecan",
-          "description": "Berkeley has been trying to sweep the encampment for years. A homeless advocacy group has sued the city, alleging it has shirked its responsibility to provide disability accommodations for residents.",
-          "link": "https://www.berkeleyside.org/2026/01/13/eighth-harrison-lepto-outbreak-northwest-berkeley-bhu",
-          "publishedOn": "2026-01-14T01:53:07.000Z",
-          "wordCount": 7383,
-          "title": "Leptospirosis outbreak detected near Eighth and Harrison encampment",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/webimage-encampementsweepJune4th2025AdahliaCole-19.png"
         }
       ]
     },
@@ -8392,6 +8422,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/4-classics-propaganda/",
+          "author": "Scotty Hendricks",
+          "description": "Authors write novels for many reasons. Anthony Burgess, of A Clockwork Orange fame, was once described as a man “always on a money-fishing expedition.” Ernest Vincent Wright wrote Gadsby, a novel that avoids using the letter E, as a self-imposed challenge. Joan Didion processed her grief following the sudden death of her husband in her memoir The Year of Magical Thinking.\nThe books on this list were basically written as propaganda. Their authors devised them to advance a particular ideology or party line, with the hope that readers would be persuaded to take up the cause. We’ll dive into why they were written, what ideology they promoted, and how effective they were at achieving their goals.\nBefore that, we should note that we aren’t using the term propaganda in a moral or artistic sense. …",
+          "link": "https://bigthink.com/books/4-classics-propaganda/",
+          "publishedOn": "2026-04-13T14:30:00.000Z",
+          "wordCount": 3329,
+          "title": "4 classics that were basically written as propaganda",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/Novels_Propoganda.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/bad-measurement-hubble-tension-explanation/",
           "author": "Ethan Siegel",
@@ -10650,6 +10690,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=69158",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Give your next veggie burger an upgrade with this easy burger sauce! It’s made with pantry staples, which means you can mix it up anytime you need it. This recipe is exactly what you think it is: burger sauce is a sauce for putting on burgers (and Veggie Burgers). But friends, it is so much […]",
+          "link": "https://jessicainthekitchen.com/burger-sauce/",
+          "publishedOn": "2026-04-13T14:00:26.000Z",
+          "wordCount": 10200,
+          "title": "Burger Sauce (5 Minute Recipe!)",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2025/06/Vegan-Burger-Sauce-09.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73790",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Soft, fluffy, and perfect for stuffing with all your favourite fillings, this homemade pita bread is surprisingly easy to make. It’s so much fresher and softer than store-bought! Homemade naan is one of my absolute favourite bread recipes to whip up for a weeknight dinner. It’s that one simple trick that makes any meal feel […]",
@@ -11063,6 +11113,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-finally-got-a-walking-pad-to-store-under-the-bed-and-never-use",
+          "author": "Alexis Pooley",
+          "description": "After weeks of debating, I finally got a walking pad that I can slide right under my bed and never step foot on. It’s so sleek and light, you can store it anywhere and forget you ever bought it. I make health a priority by spending money on things that I’ll use a few times, then put down in the basement for the ghosts.\n The great thing about this walking pad is that it doesn’t have a safety handrail, so if I ever got it out, I could risk my life while sending emails at my desk. Some reviews say the belt gets squeaky over time, but since I’m not going to turn mine on, it should be fine. I would give it a great review if I remembered I owned it.\n I bought a weighted vest to use with the walking pad, which is now hanging over a kitchen chair until I move apartments. I went with the eight-poun…",
+          "link": "https://www.mcsweeneys.net/articles/i-finally-got-a-walking-pad-to-store-under-the-bed-and-never-use",
+          "publishedOn": "2026-04-13T16:46:00.000Z",
+          "wordCount": 2530,
+          "title": "I Finally Got a Walking Pad to Store Under the Bed and Never Use",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/d7al2rkolbl33zoqi3r2wu7sxzu3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/we-have-achieved-our-goal-of-making-everything-worse-than-it-was-before",
           "author": "Joe Viner",
@@ -12530,6 +12590,70 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111945 at https://www.eff.org",
+          "author": "Dave Maass",
+          "description": "When people see Customs & Border Protection's giant, tethered surveillance blimp flying 20 miles outside of Marfa, Texas, lots of them confuse it with an art installation. Elsewhere along the U.S.-Mexico border, surveillance towers get mistaken for cell-phone towers. And that traffic barrel? It's actually a camera. That piece of rusted litter? That's a camera too.\nToday we are publishing a major update to our zine, \"Surveillance Technology at the U.S.-Mexico Border,\" the first since the second Trump administration began. To help people identify the machinery of homeland security, we've added more models of surveillance towers, newly deployed military tech, and a gallery of disguised trail cams and automated license plate readers.\nYou can get this 40-page, full-color guide through EFF's Sho…",
+          "link": "https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border",
+          "publishedOn": "2026-04-13T17:35:21.000Z",
+          "wordCount": 1680,
+          "title": "Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/anduril_rvss_banner.jpg",
+            "alt": "Two CBP surveillance towers along the Rio Grande",
+            "type": "image/jpeg",
+            "length": "250949"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/anduril_rvss_banner.jpg"
+        },
+        {
+          "id": "111946 at https://www.eff.org",
+          "author": "David Greene",
+          "description": "Dr. Jean Linis-Dinco is an activist-researcher working at the intersection of human rights and technology. Born in the Philippines and shaped by firsthand experience with inequality and state violence, Jean has spent her life pushing back against systems that profit from oppression. She refuses to accept a world where tech is just another tool for corporate gain. Instead, she fights for technologies and policies that put people before profit and justice before convenience. Jean earned her PhD in Cybersecurity from the University of New South Wales, Canberra, where she exposed how governments weaponized propaganda and disinformation during the Rohingya crisis in Myanmar. She currently serves as the Digital Rights Advisor for the Manushya Foundation.\nDavid Greene: Welcome. To get started can…",
+          "link": "https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco",
+          "publishedOn": "2026-04-13T16:38:09.000Z",
+          "wordCount": 5469,
+          "title": "Speaking Freely: Dr. Jean Linis-Dinco",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-banner-jean_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "334873"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-banner-jean_0.png"
+        },
+        {
+          "id": "111944 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "War does not only reshape borders. It also reshapes what can be seen, said, and remembered. \nWhen governments invoke “misinformation” during wartime, they often mean something simpler: speech they do not control. Since the escalation of conflict between the United States, Israel, Iran, and related spillover attacks in the Gulf, several governments have intensified efforts to silence dissent and restrict the flow of information.\nJournalism under pressure\nFor journalists, the space to operate—already constrained in much of the Gulf—is narrowing further. Across the region, several countries (including the UAE, Qatar, and Jordan) have restricted access to conflict areas, warned of legal consequences for publishing footage, and drawn red lines around wartime reporting. These measures weaken ind…",
+          "link": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
+          "publishedOn": "2026-04-13T15:29:39.000Z",
+          "wordCount": 2186,
+          "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech—Again",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/icon-2019-international.png",
+            "alt": "Globe icon in bright colors",
+            "type": "image/png",
+            "length": "17591"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/icon-2019-international.png"
+        },
+        {
+          "id": "111942 at https://www.eff.org",
+          "author": "Haley Pedersen",
+          "description": "Interviewer: David Greene\nDr. Jean Linis-Dinco is an activist-researcher working at the intersection of human rights and technology. Born in the Philippines and shaped by firsthand experience with inequality and state violence, Jean has spent her life pushing back against systems that profit from oppression. She refuses to accept a world where tech is just another tool for corporate gain. Instead, she fights for technologies and policies that put people before profit and justice before convenience. Jean earned her PhD in Cybersecurity from the University of New South Wales, Canberra, where she exposed how governments weaponized propaganda and disinformation during the Rohingya crisis in Myanmar. She currently serves as the Digital Rights Advisor for the Manushya Foundation.\nDavid Greene: W…",
+          "link": "https://www.eff.org/pages/speaking-freely-dr-jean-linis-dinco",
+          "publishedOn": "2026-04-10T18:33:31.000Z",
+          "wordCount": 5469,
+          "title": "Speaking Freely: Dr. Jean Linis-Dinco",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/speaking-freely-banner-jean.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "334873"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-banner-jean.png"
+        },
         {
           "id": "111939 at https://www.eff.org",
           "author": "Matthew Guariglia",
