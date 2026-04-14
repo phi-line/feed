@@ -553,6 +553,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69de50455240ff0001e92e0c",
+          "author": "Joseph Cox",
+          "description": "An entire industry of companies offers Airbnb hosts AI to speak to guests on their behalf. 404 Media poked around the industry after one AI tool offered a guest a recipe for French toast.",
+          "link": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
+          "publishedOn": "2026-04-14T14:39:02.000Z",
+          "wordCount": 2043,
+          "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/airbnb-host-ai.png"
+        },
+        {
+          "id": "69dd5c87c4b6a700015cf4ac",
+          "author": "Matthew Gault",
+          "description": "“This is the Strait of Hormuz in the data economy. If you want to make a change, this is where you cut it off. Anything short of that is theatrical political posture.”",
+          "link": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+          "publishedOn": "2026-04-14T13:13:34.000Z",
+          "wordCount": 2078,
+          "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/photo-1613987750911-f768497fb94b.jpeg"
+        },
+        {
           "id": "69dd1085c4b6a700015ce088",
           "author": "Joseph Cox",
           "description": "Doublespeed uses a phone farm to flood social media with AI-generated influencers. A hacker managed to get into a backend system of the company.",
@@ -4189,6 +4209,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-vulnerability-of-the-liberal-neutral-state",
+          "author": "Michael Sandel",
+          "description": "The post The Vulnerability Of The Liberal Neutral State appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-vulnerability-of-the-liberal-neutral-state",
+          "publishedOn": "2026-04-14T16:40:17.000Z",
+          "wordCount": 10902,
+          "title": "The Vulnerability Of The Liberal Neutral State",
+          "imageUrl": "https://noemamag.imgix.net/2026/04/Illustration-2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7b1072b50dee10b0bdf9ed2cd2759085"
+        },
+        {
           "id": "https://www.noemamag.com/quantum-existentialism",
           "author": "Nathan Gardels",
           "description": "The post Quantum Existentialism appeared first on NOEMA.",
@@ -4535,6 +4565,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=547130",
+          "author": "Nico Savidge",
+          "description": "The City Council will take up two proposals Tuesday night that would require preservationists to collect more signatures to start the landmarking process.",
+          "link": "https://www.berkeleyside.org/2026/04/14/berkeley-landmarks-housing-petitions",
+          "publishedOn": "2026-04-14T18:01:29.000Z",
+          "wordCount": 8316,
+          "title": "Tired of ‘frivolous’ landmark attempts, Berkeley council members want to raise bar for petitions",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/House-on-2421-Durant-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555238",
+          "author": "Family of Carl Anthony",
+          "description": "An author, city planner and UC Berkeley professor, he co-founded the Breakthrough Communities project in Oakland, directed a Ford Foundation initiative and served on the Berkeley Planning Commission and other local and national boards.",
+          "link": "https://www.berkeleyside.org/2026/04/14/carl-anthony-obituary",
+          "publishedOn": "2026-04-14T13:00:00.000Z",
+          "wordCount": 7780,
+          "title": "Remembering Carl Anthony, architect who brought racial equity analysis to environmental movement",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/carl_anthony_pic_07_19_15_jt.jpg?fit=1024%2C764&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555162",
           "author": "Nathan Dalton",
@@ -7339,16 +7389,6 @@
           "wordCount": 6779,
           "title": "Remembering Victoria Merl, founder of ad agency, lover of Tinkerbell",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/464336067_10231305847062636_8407286133727028539_n.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550363",
-          "author": "Family and friends of Gale Bach",
-          "description": "He and his wife, Eve, were active in the formation of Berkeley Citizens Action in the 1970s.",
-          "link": "https://www.berkeleyside.org/2026/01/14/gale-bach-obituary",
-          "publishedOn": "2026-01-15T00:57:23.000Z",
-          "wordCount": 7027,
-          "title": "Remembering Gale Bach, planner at Metropolitan Transportation Commission, winemaker, gardener",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Gale-Bach.png"
         }
       ]
     },
@@ -8370,6 +8410,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/books/our-brains-our-selves/",
+          "author": "Masud Husain",
+          "description": "What makes us who we are? Most of us might say that it is our background that creates our identities: our families, where we’ve lived, how we were brought up and educated, the people who have influenced us, the jobs we’ve held. But there is something far more fundamental that makes us who we are, and which transcends social and cultural experiences. This is our brain. Our brains create us. No matter where you are from, where you live or have lived, the language you speak, the color of your skin, it is our brains that give us our identities.\nIn the past, some disagreed, arguing instead as Descartes did that our personal identity — our “self” — is separate from the brain. Most modern views, however, consider the brain to be the basis for all the experiences we have of our selves. Using new s…",
+          "link": "https://bigthink.com/books/our-brains-our-selves/",
+          "publishedOn": "2026-04-14T14:30:00.000Z",
+          "wordCount": 3170,
+          "title": "There is no you in your brain — your identity is a “society of the mind”",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/no-you-in-your-mind.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/history-society/the-great-progression-human-development/",
+          "author": "Peter Leyden",
+          "description": "In the early 1980s, I hitchhiked from London to Cape Town at the tip of South Africa. The overland trip took more than six months, and I traveled about 11,000 miles — almost half the circumference of the Earth. I dropped down through Europe, crossed into Morocco via the Strait of Gibraltar, and then traveled across North Africa. From Egypt, I followed the Nile all the way to its source in East Africa before making my way down to South Africa, which was still under apartheid at the time.\nI was no newbie to hitchhiking. Since high school, I had hitched rides across the United States numerous times, traveling from coast to coast on many of the nation’s major interstate freeways. Hitching was also the main way I moved between my home in the Midwest and my university on the East Coast. I loved …",
+          "link": "https://bigthink.com/history-society/the-great-progression-human-development/",
+          "publishedOn": "2026-04-14T13:30:00.000Z",
+          "wordCount": 4652,
+          "title": "The arc of human history is toward cooperation, not division",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/TGP-19_lead-1.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/roman-triumph-mary-beard/",
+          "author": "Mary Beard",
+          "description": "Mary Beard uncovers the spectacle of the Ancient Roman parade, the Roman Triumph. Simultaneously a declaration of Roman supremacy and an admission that conquest may be theft at scale, these Roman propaganda events were so terrifying that Cleopatra famously chose death over appearing in one.\nThis video Rome’s triumph was the ancient world’s most effective piece of propaganda is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/roman-triumph-mary-beard/",
+          "publishedOn": "2026-04-14T13:00:00.000Z",
+          "wordCount": 7492,
+          "title": "Rome’s triumph was the ancient world’s most effective piece of propaganda",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/C1-Web-Beard.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/everything-changes-adding-mass/",
           "author": "Ethan Siegel",
@@ -10618,6 +10688,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "http://theblog.jessikerbakes.com/?p=5157",
+          "author": "Jessica Hylton",
+          "description": "Parsley pesto adds garlicky, bright flavour to everything from pasta to pizza and even sandwiches. It’s fresh, vibrant, and ready in just 7 minutes! Gardeners, tell me you can relate to this: it’s the end of the season, your herbs are bolting, and you need to use a whole lot of herbs and you need […]",
+          "link": "https://jessicainthekitchen.com/parsley-pesto-recipe/",
+          "publishedOn": "2026-04-14T14:00:00.000Z",
+          "wordCount": 10942,
+          "title": "Parsley Pesto",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2014/04/Parsley-Pesto7212.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=69158",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Give your next veggie burger an upgrade with this easy burger sauce! It’s made with pantry staples, which means you can mix it up anytime you need it. This recipe is exactly what you think it is: burger sauce is a sauce for putting on burgers (and Veggie Burgers). But friends, it is so much […]",
@@ -11041,6 +11121,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/vatican-city-is-overrun-with-crime-thanks-to-its-woke-pope",
+          "author": "Carlos Greaves",
+          "description": "“President Trump lashed out at Pope Leo XIV in a lengthy social media post Sunday night, calling the pontiff ’WEAK on Crime, and terrible for Foreign Policy.” — CBS News\n - - -\nAs Republicans, we were excited when the Catholic Church elected an American pope. America is the greatest country in the history of the world, and it was absurd that it took 250 years for one of our own to finally be put in charge of the Holy See. Unfortunately, it turns out that Pope Leo XIV is the wrong kind of American—a woke liberal who denounces things like “violence” and “wiping out entire civilizations.” There’s no better evidence of Pope Leo’s liberal failings than Vatican City. Like all Blue cities, it’s overrun with crime.\n The Vatican is in desperate need of criminal justice reform. As of today, any crim…",
+          "link": "https://www.mcsweeneys.net/articles/vatican-city-is-overrun-with-crime-thanks-to-its-woke-pope",
+          "publishedOn": "2026-04-14T17:12:00.000Z",
+          "wordCount": 2653,
+          "title": "Vatican City is Overrun with Crime Thanks to Its Woke Pope",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/un7brcbrrvner68h8mq2y6r1zdxk"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-childhood-in-lebanon-in-spite-of-war",
+          "author": "Nana Asfour",
+          "description": "Out of the blue, my childhood friend and former neighbor Rita texted me a while ago to tell me that she had gone back to Lebanon, where we both grew up, for the first time in forty-three years. A few seconds later, she sent me several photos. One showed the building we both lived in in the Beirut neighborhood of Achrafieh, which my family moved out of in 1986 when we immigrated to the U.S. Another showed a set of stairs, with dank and dirty walls and steps. “Our shelter,” Rita, who has lived in Canada since 1980, wrote. It was an innocuous image, but it was loaded with emotions. I could smell the musty, metallic air of those stairs, which led to the basement. At the bottom, to the left, was our past and our life of fear, dread, and threat.\n Rita and I were both five when the Civil War in L…",
+          "link": "https://www.mcsweeneys.net/articles/a-childhood-in-lebanon-in-spite-of-war",
+          "publishedOn": "2026-04-14T15:00:00.000Z",
+          "wordCount": 6074,
+          "title": "A Childhood in Lebanon,  in Spite of War",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2yrcsvli3j1mgvpyv9kpyhddxvb4"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/pregnancy-drinking-games",
           "author": "Rachel Reyes",
@@ -12538,6 +12638,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111936 at https://www.eff.org",
+          "author": "Guest Author",
+          "description": "In September 2024, Amandla Thomas-Johnson was a Ph.D. candidate studying in the U.S. on a student visa when he briefly attended a pro-Palestinian protest. In April 2025, Immigration and Customs Enforcement (ICE) sent Google an administrative subpoena requesting his data. The next month, Google gave Thomas-Johnson's information to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement. \nToday, the Electronic Frontier Foundation sent complaints to the California and New York Attorneys General asking them to investigate Google for deceptive trade practices for breaking that promise. You can read about the complaints here. Below is Thomas-Johnson's account of his ordeal. \nOut of touch but n…",
+          "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+          "publishedOn": "2026-04-14T16:01:48.000Z",
+          "wordCount": 1962,
+          "title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/google-spy-eye.png",
+            "alt": "Google Spying",
+            "type": "image/png",
+            "length": "10115"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/google-spy-eye.png"
+        },
+        {
+          "id": "111947 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "Google's Failure to Warn Users About Law Enforcement Demands for Data Is Deceptive\n\n\n\nSAN FRANCISCO – The Electronic Frontier Foundation sent complaints today to the attorneys general of California and New York urging them to investigate Google for deceptive trade practices, related to the company's broken promise to give users prior notice before disclosing their information to law enforcement. \nThe letters were sent on behalf of Amandla Thomas-Johnson, whose information was disclosed to U.S. Immigration and Customs Enforcement (ICE) without prior notice from Google. \nFor nearly a decade, Google has promised billions of users that it will notify them before disclosing their personal data to law enforcement. Many times, the company has done just that. But through a hidden and systematic pr…",
+          "link": "https://www.eff.org/press/releases/eff-state-ags-investigate-googles-broken-promise-users-targeted-government",
+          "publishedOn": "2026-04-14T16:00:26.000Z",
+          "wordCount": 1823,
+          "title": "EFF to State AGs: Investigate Google's Broken Promise to Users Targeted by the Government",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/google-spy-eye.png",
+            "alt": "Google Spying",
+            "type": "image/png",
+            "length": "10115"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/google-spy-eye.png"
+        },
         {
           "id": "111953 at https://www.eff.org",
           "author": "Cliff Braun",
