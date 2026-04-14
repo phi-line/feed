@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-14T00:36:11.173Z</updated>
+    <updated>2026-04-14T06:39:38.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything in the Universe changes by adding enough mass]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/everything-changes-adding-mass/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/everything-changes-adding-mass/"/>
+        <updated>2026-04-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Out there in the vast depths of space, from our Solar System to the farthest reaches of the Universe, all sorts of objects can be found. There are enormous numbers of small bodies, from tiny moonlets to asteroids to comets and more, that simply aren’t massive enough to pull themselves into hydrostatic equilibrium. Beyond that, there are round planetary bodies — numerous moons, dwarf planets, and even rocky worlds themselves — that have enough mass to get that job done. At still higher masses, we find gas giant planets, brown dwarfs, and stars of all different colors, temperatures, and that will persist in shining for a wide variety of durations.
+Once a star dies, there are a number of possible fates that can ensue as well, as a stellar corpse can remain as a white dwarf, a neutron star, or…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If Every Congressman Facing Credible Rape Allegations Resigned, We’d Have No One Left to Govern the Country]]></title>
         <id>https://www.mcsweeneys.net/articles/if-every-congressman-facing-credible-rape-allegations-resigned-wed-have-no-one-left-to-govern-the-country</id>
@@ -15573,58 +15584,6 @@ But perhaps, most remarkably of all, it was shown in the early 1970s that black 
         <summary type="html"><![CDATA[Following the fatal shooting of Renee Good in Minneapolis, county officials are gearing up to ban ICE agents from certain areas.]]></summary>
         <author>
             <name>Eli Wolfe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do AI models reason or regurgitate?]]></title>
-        <id>https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/</id>
-        <link href="https://bigthink.com/the-present/do-ai-models-reason-or-regurgitate/"/>
-        <updated>2026-01-14T17:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Last month, I wrote a piece here in Big Think suggesting that the public is in denial over the emerging power and associated risks of AI. Many people reacted defensively, insisting that today’s AI systems are nothing more than “stochastic parrots” that regurgitate memorized information and are structurally incapable of emergent reasoning. I appreciate that many people want this to be true, but it is an outdated narrative based on a 2021 paper that was widely misinterpreted. I want to clear up this misconception because I worry it is giving the public a false sense of security that superintelligence is not an urgent risk to society. 
-To address this, let me update our collective mental model: Like it or not, there is increasing evidence that frontier AI systems do not just store text patter…]]></summary>
-        <author>
-            <name>Louis Rosenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mythology Of Conscious AI]]></title>
-        <id>https://www.noemamag.com/the-mythology-of-conscious-ai</id>
-        <link href="https://www.noemamag.com/the-mythology-of-conscious-ai"/>
-        <updated>2026-01-14T17:23:54.000Z</updated>
-        <summary type="html"><![CDATA[The post The Mythology Of Conscious AI appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Anil Seth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String Theory Can Now Describe a Universe That Has Dark Energy]]></title>
-        <id>https://www.quantamagazine.org/?p=157980</id>
-        <link href="https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/"/>
-        <updated>2026-01-14T14:58:37.000Z</updated>
-        <summary type="html"><![CDATA[In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.            
-The post String Theory Can Now Describe a Universe That Has Dark Energy first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Steve Nadis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[François Truffaut’s daughter, a Berkeley resident since 1978, will introduce 9 of his films at BAMPFA]]></title>
-        <id>https://www.berkeleyside.org/?p=550280</id>
-        <link href="https://www.berkeleyside.org/2026/01/14/francois-truffaut-bampfa-film-series"/>
-        <updated>2026-01-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Laura Truffaut moved from Paris to Berkeley at 19. She spoke with Berkeleyside about the city’s cinematic life and the time she took her father and Catherine Deneuve to see a Fritz Lang film at the Pacific Film Archive.]]></summary>
-        <author>
-            <name>Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How “tribology” became a new industrial science]]></title>
-        <id>https://bigthink.com/business/how-tribology-became-a-new-industrial-science/</id>
-        <link href="https://bigthink.com/business/how-tribology-became-a-new-industrial-science/"/>
-        <updated>2026-01-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 1964, spirited debates erupted at a conference in Cardiff, Wales. The source of the consternation was extreme production delays that stemmed from malfunctioning equipment at iron and steel plants across the United Kingdom. Beginning in the twentieth century, the automation of heavy machinery enabled plants to operate continuously, increasing productivity and revenue. The downside was that any small hiccup was acutely felt, cascading through the production line. At first, it was assumed that inadequate lubrication of factory equipment was causing parts to seize up or break apart. And so, the Lubrication and Wear Group of the Institution of Mechanical Engineers, along with the Iron and Steel Institute, called on engineers and representatives from industry to convene and get to the bottom …]]></summary>
-        <author>
-            <name>Jennifer R. Vail</name>
         </author>
     </entry>
     <entry>
