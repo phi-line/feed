@@ -3797,6 +3797,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3232/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3232/",
+          "publishedOn": "2026-04-13T04:00:00.000Z",
+          "wordCount": 219,
+          "title": "Countdown Standard",
+          "imageUrl": "https://imgs.xkcd.com/comics/countdown_standard_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3231/",
           "author": null,
           "description": "",
@@ -4567,6 +4577,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555162",
+          "author": "Nathan Dalton",
+          "description": "In the 1950s, Berkwood Hedge became the city’s first to offer after-school care. In the ’60s, the director was caught up in the Red Scare. And in the ’70s, young Kamala Harris was hit with a rock by a kindergarten classmate, permanently scarring her forehead.",
+          "link": "https://www.berkeleyside.org/2026/04/13/berkeley-private-school-with-a-colorful-and-groundbreaking-past-turns-80",
+          "publishedOn": "2026-04-13T22:09:14.000Z",
+          "wordCount": 8390,
+          "title": "Berkeley private school with a colorful and groundbreaking past turns 80",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Ms-Ellis-class-1950s.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555281",
+          "author": "Kate Darby Rauch",
+          "description": "“No tenemos nada… Fue todo tan rápido… Mi tío no tiene ropa… ¿Dónde voy a pagar el mismo alquiler?” Huyeron de sus casas en Ninth Street en pijama. Ahora se preguntan qué les depara el futuro.",
+          "link": "https://www.berkeleyside.org/2026/04/13/para-decenas-de-personas-desplazadas-por-el-incendio-en-un-edificio-de-apartamentos-en-west-berkeley-fue-una-semana-de-perdidas-y-estres",
+          "publishedOn": "2026-04-13T21:22:52.000Z",
+          "wordCount": 9697,
+          "title": "Para decenas de personas desplazadas por el incendio en un edificio de apartamentos en West Berkeley, fue una semana de pérdidas y estrés",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Raquel-1.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=472345",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/04/13/new-smoothie-spot-oakland",
+          "publishedOn": "2026-04-13T21:12:01.000Z",
+          "wordCount": 6917,
+          "title": "New smoothie spot on Park Blvd; Tay Ho open despite break-in",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/IMG_4044-scaled-1.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555054",
           "author": "Ana De Almeida Amaral | KQED",
@@ -8404,16 +8444,6 @@
           "wordCount": null,
           "title": "John Fogerty: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lPn39VmajSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lPn39VmajSI",
-          "publishedOn": "2026-01-14T10:01:20.000Z",
-          "wordCount": null,
-          "title": "From The Top: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10671,16 +10701,6 @@
           "wordCount": 2037,
           "title": "How “tribology” became a new industrial science",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/friction_excerpt.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/jwst-lens-survey-save-expanding-universe/",
-          "author": "Ethan Siegel",
-          "description": "One of the most difficult thing about being inside our own Universe is that we only get one perspective — from our location, here on Earth — to measure it from. We are stuck within our Solar System, as are all of our measuring tools and instruments, which in turn is stuck within the Milky Way, the Local Group, and our corner of the local Universe. We are stuck living in the now: 13.8 billion years after the Big Bang has occurred. If we want to understand what this Universe is, including what it’s made of, where it came from, and how it came to be the way it is today, this is the only perspective, location, and time at which we’re capable of making observations from. Despite how powerful it is, it’s also extraordinarily limiting.\nThat’s why, from a scientific point-of-view, we’re always att…",
-          "link": "https://bigthink.com/starts-with-a-bang/jwst-lens-survey-save-expanding-universe/",
-          "publishedOn": "2026-01-14T07:00:00.000Z",
-          "wordCount": 4763,
-          "title": "New JWST lens survey: can it save the expanding Universe?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/12/coverVRO.jpg?resize=1200,630"
         }
       ]
     },
@@ -11113,6 +11133,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/if-every-congressman-facing-credible-rape-allegations-resigned-wed-have-no-one-left-to-govern-the-country",
+          "author": "Talia Argondezzi",
+          "description": "“Eric Swalwell, a Democratic congressman from the San Francisco Bay Area, said on Monday that he is resigning after allegations he sexually assaulted a former staff member and engaged in misconduct with other women.” \n — New York Times\n - - -\nI’m sure the many people who called for Eric Swalwell’s expulsion from the House of Representatives had the best intentions. Let’s forbid suspected rapists from running our government, these wide-eyed idealists probably thought. But now that he’s resigned, we need to face the dire consequences: if we kick one suspected rapist out of Congress, we’ll then have to kick out all the suspected rapists.\n It’s naïve to imagine the government can continue to function without the tireless dedication of our best and brightest rapists.\n First of all, purging lawm…",
+          "link": "https://www.mcsweeneys.net/articles/if-every-congressman-facing-credible-rape-allegations-resigned-wed-have-no-one-left-to-govern-the-country",
+          "publishedOn": "2026-04-14T00:15:00.000Z",
+          "wordCount": 2590,
+          "title": "If Every Congressman Facing Credible Rape Allegations Resigned, We’d Have No One Left to Govern the Country",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/lm00xgkzirujzb6xtyo8fgww0wyo"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/i-finally-got-a-walking-pad-to-store-under-the-bed-and-never-use",
           "author": "Alexis Pooley",
@@ -12590,6 +12620,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111953 at https://www.eff.org",
+          "author": "Cliff Braun",
+          "description": "California’s bill, A.B. 2047, will not only mandate censorware — software which exists to bluntly block your speech as a user — on all 3D printers; it will also criminalize the use of open-source alternatives. Repeating the mistakes of Digital Rights Management (DRM) technologies won’t make anyone safer. What it will do is hurt innovation in the state and risk a slew of new consumer harms, ranging from surveillance to platform lock-in. California must stand with creators and reject this legislation before it’s too late.\n3D printing might evoke images of props from blockbuster films, rapid prototyping, medical research, or even affordable repair parts. Yet for a growing number of legislators, the perceived threat of “ghost guns” is a reason to impose restrictions on all 3D printers. Despite…",
+          "link": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+          "publishedOn": "2026-04-13T22:07:09.000Z",
+          "wordCount": 2289,
+          "title": "The Dangers of California’s Legislation to Censor 3D Printing",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/printer-labels-2.png",
+            "alt": "Label printer with sad face",
+            "type": "image/png",
+            "length": "10737"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/printer-labels-2.png"
+        },
+        {
+          "id": "111952 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "April 14, 2026 - 6:00pm to 7:30pm PDT\n\n\nSan Francisco, CA\n\n\n\nKALW (not EFF) will host this event. EFF Senior Staff Technologist William Budington will be speaking.\nFrom the Organizers: \nKALW examines how journalists can protect themselves, their sources and their devices in the current climate, with AHCJ and SPJ NorCal\nThe Bay Area chapter of the Association of Health Care Journalists and Society of Professional Jouralists Northern California come to KALW for a live panel discussion supporting the rights of journalists.\nIn one of the most high-profile recent cases, FBI agents raided the home of Washington Post reporter Hannah Natanson on January 14, confiscating her electronic devices, which they said were tied to a classified documents case. Press freedom groups called the action “a treme…",
+          "link": "https://www.eff.org/event/bay-agenda-security-journalists",
+          "publishedOn": "2026-04-13T21:27:32.000Z",
+          "wordCount": 1198,
+          "title": "The Bay Agenda: Security for Journalists",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/security_journalists.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "792006"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/security_journalists.png"
+        },
+        {
+          "id": "111943 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "Protecting privacy and free speech online takes more than policy work—it takes community. Conferences like HOPE are where that community comes together to learn, connect, and push these ideals forward. That's why EFF is proud to be at HOPE 26.\nJoin us at this year's Hackers On Planet Earth, August 14-16 at the New Yorker Hotel in Manhattan! Get your ticket now and support our work: throughout April EFF will receive 10% of all ticket proceeds for HOPE 26. \nGrab your ticket!\nSee EFF at HOPE 26 in New York\nWhile you're there, be sure to catch talks from EFF's technologists, attorneys, and activists covering a wide range of digital civil liberties topics. You can get a taste of the talks to come by watching last year's EFF presentations at HOPE_16 on YouTube:\nHow a Handful of Location Data Bro…",
+          "link": "https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august",
+          "publishedOn": "2026-04-13T19:21:15.000Z",
+          "wordCount": 910,
+          "title": "EFF 🤝 HOPE: Join Us This August!",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/hope26.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "128585"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/hope26.png"
+        },
         {
           "id": "111945 at https://www.eff.org",
           "author": "Dave Maass",
