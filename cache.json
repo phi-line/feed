@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=160935",
+          "author": "Viviane Callier",
+          "description": "Dozens of new discoveries reveal that defenses evolved by bacteria and viruses billions of years ago still define our own innate immune system.            \nThe post The Ancient Weapons Active in Your Immune System Today first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/",
+          "publishedOn": "2026-04-15T14:47:25.000Z",
+          "wordCount": 4782,
+          "title": "The Ancient Weapons Active in Your Immune System Today",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Our-Bacterial-Immunity-cr-Maggie-Chiang-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=160931",
           "author": "Konstantin Kakaes",
           "description": "AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginning.            \nThe post The AI Revolution in Math Has Arrived first appeared on Quanta Magazine",
@@ -552,6 +562,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69dfcc735240ff0001ebbf61",
+          "author": "Matthew Gault",
+          "description": "Volodymyr Zelenskyy is pitching his country as a global leader in robots for war and defense. Will the world listen?",
+          "link": "https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/",
+          "publishedOn": "2026-04-15T17:43:17.000Z",
+          "wordCount": 1528,
+          "title": "Ukraine Says Russians are Surrendering to Robots",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/HFzPl5eXYAAdYgi-1.jpg"
+        },
+        {
+          "id": "69df8b305240ff0001e95b14",
+          "author": "Joseph Cox",
+          "description": "Internal Space Force emails obtained by 404 Media show the work it takes to have a government agency make a new theme song. A general even wanted to start the whole thing over again.",
+          "link": "https://www.404media.co/emails-reveal-space-forces-hardest-mission-is-writing-a-song/",
+          "publishedOn": "2026-04-15T13:29:56.000Z",
+          "wordCount": 1691,
+          "title": "Emails Reveal Space Force’s Hardest Mission Is Writing a Song",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/space-force-emails.png"
+        },
+        {
+          "id": "69de93a65240ff0001e93da9",
+          "author": "Joseph Cox",
+          "description": "How a phone's notification database can store messages deleted elsewhere; the continued data center pushback; and Marathon, Marathon, Marathon.",
+          "link": "https://www.404media.co/podcast-how-the-fbi-extracted-deleted-signal-messages/",
+          "publishedOn": "2026-04-15T12:50:19.000Z",
+          "wordCount": 1093,
+          "title": "Podcast: How the FBI Extracted Deleted Signal Messages",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/signal-podcast.png"
+        },
         {
           "id": "69de98cb5240ff0001e93ea4",
           "author": "Joseph Cox",
@@ -4116,16 +4156,6 @@
           "wordCount": 187,
           "title": "Aurora Coolness",
           "imageUrl": "https://imgs.xkcd.com/comics/aurora_coolness_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3195/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3195/",
-          "publishedOn": "2026-01-16T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "International Station",
-          "imageUrl": "https://imgs.xkcd.com/comics/international_station_2x.png"
         }
       ]
     },
@@ -4518,6 +4548,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555354",
+          "author": "Nico Savidge",
+          "description": "City warns it could close a fire station, lay off police officers and slash hours at pools and community centers if voters don’t pass a tax increase in November.",
+          "link": "https://www.berkeleyside.org/2026/04/15/berkeley-budget-deficit-sales-tax-layoffs",
+          "publishedOn": "2026-04-15T17:29:28.000Z",
+          "wordCount": 8107,
+          "title": "Layoffs, service cuts, sales tax hike: How Berkeley plans to close a nearly $30M budget deficit",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-JPS_7255-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555334",
           "author": "Alex N. Gecan",
@@ -7302,16 +7342,6 @@
           "wordCount": 7113,
           "title": "Remembering Debbie Berne, who designed the Berkeley Bowl Cookbook and books by Thich Nhat Hanh",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/image-1.png?fit=1600%2C1188&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550438",
-          "author": "Berkeleyside Staff",
-          "description": "Also: New data show how BART outages snarled commutes and a spike in catalytic converter thefts to start the year.",
-          "link": "https://www.berkeleyside.org/2026/01/15/the-wire-get-cash-from-kaiser-after-46m-settlement-cal-scientists-search-for-extraterrestrial-life",
-          "publishedOn": "2026-01-16T01:15:00.000Z",
-          "wordCount": 6963,
-          "title": "The Wire: Get cash from Kaiser after $46M settlement; Cal scientists’ search for extraterrestrial life",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/04/04_20_20_random_oakland-12.jpg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -10562,16 +10592,6 @@
           "wordCount": 4431,
           "title": "Ask Ethan: Why do gravitational lenses make crosses, not rings?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Lensed_quasar_and_its_surroundings-e1768509282160.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/science-of-aging/",
-          "author": "Morgan Levine",
-          "description": "Most of us measure age by birthdays, but what if the number on your ID tells only half the story? \nDr. Morgan Levine explores the hidden clock inside our cells, unraveling how the biological age that reveals how fast our bodies are really aging is calculated.\nThis video The biggest myth about aging, according to science is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/science-of-aging/",
-          "publishedOn": "2026-01-16T05:00:00.000Z",
-          "wordCount": 9712,
-          "title": "The biggest myth about aging, according to science",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Screenshot-2026-01-15-at-1.57.42-PM.png?resize=1200,630"
         }
       ]
     },
@@ -11004,6 +11024,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/transcript-from-the-meeting-where-they-invented-the-mammogram-machine",
+          "author": "Casey Rand",
+          "description": "April 1965\n Meeting to Discuss \n Boob Cancer Problem\n CARL: Gentlemen, I have some unfortunate news: We’ve just discovered that cancer can grow in women’s breasts.\n TED: Oh no. That is going to ruin breasts for me.\n FRANK: Me too.\n CARL: As medical professionals, it’s incumbent upon us to invent an early detection system so this disease doesn’t ravage perfectly perky gazongas.\n JOE: Couldn’t we just, you know, feel for it?\n CARL: Unfortunately, not all cancers can be detected with a good honka honka.\n JOE: I hear the Germans are doing great things with x-rays. Maybe we can get women to take off their clothes for electromagnetic radiation.\n FRANK: Hmm, I like the “take off their clothes” part, but not doing something tactile feels like a missed opportunity.\n TED: Ooh, what about a machine t…",
+          "link": "https://www.mcsweeneys.net/articles/transcript-from-the-meeting-where-they-invented-the-mammogram-machine",
+          "publishedOn": "2026-04-15T17:00:00.000Z",
+          "wordCount": 2390,
+          "title": "Transcript from the Meeting Where They Invented the Mammogram Machine",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/erpsnsm4t8079xpyoccyqkyn3xnu"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/the-five-stages-of-millennial-wedding-planning",
           "author": "Andrew Patrick Clark",
@@ -12531,6 +12561,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111954 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "EFF calls on the Kuwaiti government to immediately release journalist Ahmed Shihab-Eldin. An award-winning journalist and television host who worked for Al Jazeera for many years, Shihab-Eldin—a dual American-Kuwaiti citizen—was arrested in Kuwait on March 3 while visiting family. The Committee to Protect Journalists (CPJ) reported yesterday that it is believed he has been charged with spreading false information, harming national security, and misusing his mobile phone.\nAccording to the Guardian, Shihab-Eldin published footage of a U.S. Air Force F-15 E Strike Eagle crash, and posted to his Substack about the incident, noting that video circulating online showed local residents assisting the crash survivors. \nKuwait is one of several countries that has recently cracked down on reporting a…",
+          "link": "https://www.eff.org/deeplinks/2026/04/eff-calls-kuwait-release-journalist-ahmed-shihab-eldin",
+          "publishedOn": "2026-04-15T15:04:21.000Z",
+          "wordCount": 1613,
+          "title": "EFF Calls on Kuwait to Release Journalist Ahmed Shihab-Eldin",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/offline-general.png",
+            "alt": "Offline General",
+            "type": "image/png",
+            "length": "18239"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/offline-general.png"
+        },
         {
           "id": "111932 at https://www.eff.org",
           "author": "Jillian C. York",
