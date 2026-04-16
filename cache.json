@@ -456,6 +456,26 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+          "author": null,
+          "description": "Acetaminophen, ibuprofen, and what doctors probably want you to know.",
+          "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+          "publishedOn": "2026-04-15T00:00:00.000Z",
+          "wordCount": 4451,
+          "title": "The Mystery in the Medicine Cabinet",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/the-mystery-in-the-medicine-cabinet/e71f2c3954-1776281832/dynomight-social-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/14/risk-adjusted-return",
+          "author": null,
+          "description": "What are we afraid of?",
+          "link": "https://asteriskmag.com/issues/14/risk-adjusted-return",
+          "publishedOn": "2026-04-15T00:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Risk-Adjusted Return",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/3c4391b75f-1776192592/risk_cover-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/13/merchants-of-certainty",
           "author": null,
           "description": "We can’t predict the full impact of climate change. Why did the climate movement stop pushing the world to accept this fact and start trying to deny it?",
@@ -562,6 +582,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69dfcf3e5240ff0001ebc006",
+          "author": "Joseph Cox",
+          "description": "The shareholders explicitly cited multiple 404 Media investigations, including one that showed Thomson Reuters' CLEAR is integrated with a tool ICE uses to find neighborhoods to target.",
+          "link": "https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/",
+          "publishedOn": "2026-04-16T00:09:26.000Z",
+          "wordCount": 1633,
+          "title": "Thomson Reuters Shareholders Demand Investigation into ICE Contracts",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/8771272935_b5fdedffc7_k.jpg"
+        },
         {
           "id": "69dfcc735240ff0001ebbf61",
           "author": "Matthew Gault",
@@ -2530,6 +2560,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8377742",
+          "author": "Jacob Sullum",
+          "description": "After withdrawing a summons in the face of a legal challenge, the government is seeking a grand jury subpoena.",
+          "link": "https://reason.com/2026/04/15/ice-is-determined-to-unmask-a-reddit-user-whose-only-crime-seems-to-be-criticizing-ice/",
+          "publishedOn": "2026-04-15T20:00:14.000Z",
+          "wordCount": null,
+          "title": "ICE Is Determined To Unmask a Reddit User Whose Only Crime Seems To Be Criticizing ICE",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8373719",
           "author": "Jacob Sullum",
           "description": "Trump and his underlings seem less inclined to worry about the Second Amendment when it protects people outside the MAGA coalition.",
@@ -3788,6 +3829,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3233/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3233/",
+          "publishedOn": "2026-04-15T04:00:00.000Z",
+          "wordCount": 189,
+          "title": "Make It Myself",
+          "imageUrl": "https://imgs.xkcd.com/comics/make_it_myself_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3232/",
           "author": null,
           "description": "",
@@ -4548,6 +4599,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555394",
+          "author": "Elize Manoukian",
+          "description": "Eastbound lanes are scheduled to close from 11 p.m. on April 17 to 6 a.m. on April 20 for planned construction work, with detours in place during the closure.",
+          "link": "https://www.berkeleyside.org/2026/04/15/i-80-closure-what-to-know-about-travel-through-san-francisco-this-weekend",
+          "publishedOn": "2026-04-15T23:50:51.000Z",
+          "wordCount": 8458,
+          "title": "I-80 closure: What to know about travel through San Francisco this weekend",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/260408-I80Closure-11-BL_qed.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555374",
+          "author": "Alex N. Gecan",
+          "description": "The Idaho Street shooting, on April 9, is the first time since October 2024 that non-police gunfire has injured anyone in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/04/15/bpd-investigates-idaho-street-shooting-april-9",
+          "publishedOn": "2026-04-15T22:17:00.000Z",
+          "wordCount": 7466,
+          "title": "Southwest Berkeley shooting leaves 21-year-old man in critical condition",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7402.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555354",
           "author": "Nico Savidge",
@@ -8364,6 +8435,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
+          "author": "Mike Taylor",
+          "description": "Marketers wake up every morning convinced nobody cares about what they’re selling. Most learning and development (L&D) pros assume the opposite, that attention comes with the job title, or at least with the mandatory completion requirement.\nThat gap explains a lot.\nMandatory Doesn’t Mean Engaged\nThink about the last compliance course you clicked through. You showed up. You moved the slider. You passed the quiz. And three days later, you remembered almost nothing.\nThe training counted as “done.” Nobody asked whether it worked.\nMarketers don’t get that grace period. If they lose your attention, they lose the sale, and they know it in real time. That pressure changes how they think. It should change how we think, too.\nRelevance Is Rocket Fuel\nThe fastest path to attention is relevance. Not “h…",
+          "link": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
+          "publishedOn": "2026-04-15T20:11:34.000Z",
+          "wordCount": 2309,
+          "title": "How to get employees to actually care about your L&D program",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-16.01.21.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/viral-saturn-real-ai-slop/",
           "author": "Ethan Siegel",
           "description": "Back in 1997, a joint venture between NASA, ESA, and the Italian Space Agency (ASI) was launched with the explicit purpose of studying the most distant naked eye planet of the Solar System: Saturn. The Cassini-Huygens mission, unlike the predecessor missions that visited Saturn — Pioneer 11, Voyager 1, and Voyager 2 — wasn’t simply a fly-by mission, but rather flew to Saturn with the intention of remaining there. After a seven year journey to get there, Cassini arrived, where it had many close encounters with Saturn’s rings, a large number of Saturn’s moons, and of course, the planet itself.\nIt didn’t just fly around Saturn, but rather above and below it as well, capturing views from 2004-2017 that maximized what we could learn about this prominent planet. One of the most surprising finds …",
@@ -10582,16 +10663,6 @@
           "wordCount": 1840,
           "title": "The Oprah Rule: What everyone wants you to say in a conversation",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/oprah-rule_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/",
-          "author": "Ethan Siegel",
-          "description": "One of the most amazing properties of gravity in the context of Einstein’s General Relativity is that mass, wherever it’s concentrated, is capable of curving the very fabric of space. This leads to a number of vital effects:\nother nearby objects, from gas to galaxies, get attracted to and drawn into those massive clumps,\nall particles in motion, including massless particles, get gravitationally attracted to that region when they pass by it,\nand the light from background objects gets deflected, bent, magnified, and distorted by that curved space as it passes through it.\nThat last effect is known as gravitational lensing, and it plays many important roles on cosmological scales.\nYou might think, then, that a large, massive clump of matter — one that behaves as a gravitational lens — would co…",
-          "link": "https://bigthink.com/starts-with-a-bang/gravitational-lenses-make-crosses-not-rings/",
-          "publishedOn": "2026-01-16T07:00:00.000Z",
-          "wordCount": 4431,
-          "title": "Ask Ethan: Why do gravitational lenses make crosses, not rings?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Lensed_quasar_and_its_surroundings-e1768509282160.jpg?resize=1200,630"
         }
       ]
     },
