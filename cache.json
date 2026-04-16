@@ -3306,46 +3306,6 @@
           "title": "'We Are Not Investigating' the Shooting of Renee Good, the Deputy Attorney General Says",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?post_type=podcast&p=8364565",
-          "author": "Robby Soave",
-          "description": "A delightfully chaotic episode of Freed Up where the hosts discuss how Minnesota wine moms have taken to the streets and the Star Wars prequels somehow end up on trial—again",
-          "link": "https://reason.com/podcast/2026/01/16/ice-vs-wine-moms-rogan-on-faucis-crimes-and-the-star-wars-prequels/",
-          "publishedOn": "2026-01-16T21:55:32.000Z",
-          "wordCount": null,
-          "title": "ICE vs. Wine Moms, Rogan on Fauci's Crimes, and the Star Wars Prequels",
-          "itunes": {
-            "duration": "1:31:07"
-          },
-          "enclosure": {
-            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/FreedUp9.mp3",
-            "length": "87735412",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8364465",
-          "author": "Jacob Sullum",
-          "description": "DHS tells officers to use \"de-escalation tactics,\" employ \"a verbal warning\" instead of force when feasible, and avoid \"placing themselves in positions\" that trigger the use of deadly force.",
-          "link": "https://reason.com/2026/01/16/ice-agents-flouted-dhs-policies-that-could-have-prevented-renee-goods-death/",
-          "publishedOn": "2026-01-16T21:15:22.000Z",
-          "wordCount": null,
-          "title": "ICE Agents Flouted DHS Policies That Could Have Prevented Renee Good's Death",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8364536",
-          "author": "Autumn Billings",
-          "description": "The incident raises more questions about federal agents' use-of-force policies and training.",
-          "link": "https://reason.com/2026/01/16/video-shows-feds-shooting-ice-protester-with-nonlethal-round-at-point-blank-range-blinding-him-in-one-eye/",
-          "publishedOn": "2026-01-16T20:51:51.000Z",
-          "wordCount": null,
-          "title": "Video Shows Feds Shooting ICE Protester With Nonlethal Round at Point-Blank Range, Blinding Him in One Eye",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -7333,16 +7293,6 @@
           "wordCount": 7668,
           "title": "How I relearned to love Berkeley as a blind person",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Dirk-Neyhart_As-Told_Sara-Martin-5.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=467647",
-          "author": "Roselyn Romero",
-          "description": "A proposed ban on federal immigration agents from using county property and a coordinated response plan will be considered by the Board of Supervisors later this month.",
-          "link": "https://www.berkeleyside.org/2026/01/16/ice-free-zones-alameda-county-oakland",
-          "publishedOn": "2026-01-16T20:40:04.000Z",
-          "wordCount": 7881,
-          "title": "‘ICE-free zones’ plan moves forward in Alameda County",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Protests-Supporting-Renee-Good.jpg"
         }
       ]
     },
@@ -8345,16 +8295,6 @@
           "publishedOn": "2026-01-20T10:00:36.000Z",
           "wordCount": null,
           "title": "Guitarricadelafuente: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H4uzympZPx0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H4uzympZPx0",
-          "publishedOn": "2026-01-16T10:00:29.000Z",
-          "wordCount": null,
-          "title": "John Fogerty: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11015,6 +10955,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/henry-viiis-dating-app-profiles",
+          "author": "Rebecca Lehmann",
+          "description": "Harry, 18\n Only son, set to inherit a great fortune: land, absolute power, direct connection to God, and more. Seeking a slightly older woman, preferably of Spanish royal blood, willing to testify to papal court that she hasn’t already slept with my (deceased) older brother to whom she was previously, if briefly, married. Let’s keep it in the family! If you’re not into walking five paces behind me in public, keep scrolling. Am excellent at hunting: I’ll bring home the hart meat, you cook it up (or get a servant to do it for you—I’ve got plenty). Thine maidenhead must be intact.\n - - -\nHenry, 34\n If I were stranded on a desert island with only one book to read for the rest of my life, it would be William Tyndale’s Obedience of a Christian Man. “The higher powers are the temporal kings and p…",
+          "link": "https://www.mcsweeneys.net/articles/henry-viiis-dating-app-profiles",
+          "publishedOn": "2026-04-16T11:20:00.000Z",
+          "wordCount": 2724,
+          "title": "Henry VIII’s Dating App Profiles",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sjv06kichcb40q5udjcsfcuvarna"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/transcript-from-the-meeting-where-they-invented-the-mammogram-machine",
           "author": "Casey Rand",
