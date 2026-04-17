@@ -2541,16 +2541,6 @@
           "wordCount": 1127,
           "title": "ICE’s Facial Recognition App Misidentified a Woman. Twice",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/54977911914_4995b93005_k.jpg"
-        },
-        {
-          "id": "696a684a61ff700001d3c679",
-          "author": "Becky Ferreira",
-          "description": "Scientists sequenced the genome of an extinct woolly rhinoceros that was found in a wolf belly that lived 14,400 years ago.",
-          "link": "https://www.404media.co/scientists-make-stunning-find-inside-prehistoric-wolfs-stomach/",
-          "publishedOn": "2026-01-17T14:00:31.000Z",
-          "wordCount": 2088,
-          "title": "Scientists Make Stunning Find Inside Prehistoric Wolf’s Stomach",
-          "imageUrl": "https://www.404media.co/content/images/2026/01/image3-1.jpg"
         }
       ]
     },
@@ -8405,6 +8395,36 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/how-long-take-planets-form/",
+          "author": "Ethan Siegel",
+          "description": "Here in our Universe, there were many profound steps that needed to occur in order for creatures like humans to be able to arise. We needed to forge heavy elements in previous generations of stars: elements that the Universe wasn’t born with, but that are required to enable molecules that can link up to form complex bonds and macroscopic structures. We needed enough of those elements so that when new stars formed, rocky planets could arise around them. And we needed enough time to pass so that life could not only arise, but thrive and evolve to give rise to highly differentiated organisms. Some 4.5 billion years after the formation of planet Earth, here we are, asking and answering many profound aspects of one of the grandest questions of all: how did we get here?\nMany variants of these gr…",
+          "link": "https://bigthink.com/starts-with-a-bang/how-long-take-planets-form/",
+          "publishedOn": "2026-04-17T06:00:00.000Z",
+          "wordCount": 5219,
+          "title": "Ask Ethan: How long does it take planets to form?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f4e9558bdfe347880de396e_An-illustration-of-the-young-solar-system-at-the-end-of-its-protoplanetary-disk_960x0.jpg?resize=960,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/true-happiness-maturity/",
+          "author": "Steph McClain",
+          "description": "Most people are trying to solve the wrong problem, optimizing for happiness when happiness isn’t actually a goal, it’s a byproduct. \nMark Manson, author of The Subtle Art of Not Giving a F*ck, argues that the entire self-help industry has been selling ephemeral highs: affirmations, visualizations, the relentless pursuit of feeling good. The research doesn’t support it, and more importantly, neither does lived experience.\nThis video Your suffering is a compass. Here’s how to read it. is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/true-happiness-maturity/",
+          "publishedOn": "2026-04-17T04:00:00.000Z",
+          "wordCount": 25561,
+          "title": "Your suffering is a compass. Here’s how to read it.",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-10.39.53-AM.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/jan-morris/",
+          "author": "Sara Wheeler",
+          "description": "“I think it could be claimed,” Morris wrote in a late unpublished fragment, “that during the second half of the twentieth century I wrote about more places than anyone else, and I was in a position to witness, and to reflect in my writing, many of the great historical events of the time. As I experienced all this first as a man, then as a woman, it might also be said (although I wouldn’t want to make much of this) that my viewpoint was unique.”\nThe contradictions and anomalies that kept on coming only made her life more alluring. She preached the virtues of kindness, but after she died her daughter revealed unspeakable parental cruelty; she was a famous chronicler of the British Empire (some say an apologist for it) and a card-carrying Welsh nationalist. She was singular and contrary, yet …",
+          "link": "https://bigthink.com/books/jan-morris/",
+          "publishedOn": "2026-04-17T02:30:00.000Z",
+          "wordCount": 2820,
+          "title": "Jan Morris, and the struggle between coherence and uncovering another’s inner life",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/jan-morris_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/perception-box/how-your-brain-builds-and-edits-your-identity/",
           "author": "Ethan Kross, Heather Berlin, Nicole Vignola",
