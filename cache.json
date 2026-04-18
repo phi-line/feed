@@ -3830,6 +3830,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3234/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3234/",
+          "publishedOn": "2026-04-17T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Europa Missions",
+          "imageUrl": "https://imgs.xkcd.com/comics/europa_missions_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3233/",
           "author": null,
           "description": "",
@@ -4610,6 +4620,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555514",
+          "author": "Vanessa Arredondo",
+          "description": "The school’s relocation was originally slated to last through this school year, but Berkeley Unified said more structural problems were found.",
+          "link": "https://www.berkeleyside.org/2026/04/17/berkeley-longfellow-project-delayed-2028-reopening",
+          "publishedOn": "2026-04-17T19:28:07.000Z",
+          "wordCount": 7546,
+          "title": "Longfellow Middle School rebuild delayed to 2028 as costs rise to $80M",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Natera_240624_007_Longfellow-02.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=472499",
           "author": "Roselyn Romero and Darwin BondGraham",
@@ -12783,6 +12803,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111973 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "May 5, 2026 - 1:00am PDT to May 8, 2026 - 11:00pm PDT\n\n\nMay 5, 2026 - 10:00am CAT to May 8, 2026 - 6:00pm CAT\n\n\nLusaka, Zambia and Online\n\n\n\nEFF is excited to be attending RightsCon for another year—this time in Lusaka, Zambia from May 5 to May 8!\nRightsCon provides an opportunity for human rights experts, technologists, activists, and government representatives to discuss pressing human rights challenges and their potential solutions. \nEFF staff are heading to Zambia and are delighted to be participating in panels, leading sessions, and are available to network and talk about the latest in fighting for privacy and free speech online. \nEFF staff going to RightsCon includes:\nJillian C. York - Director for International Freedom of Expression\nBabette Ngene - Public Interest Technology Directo…",
+          "link": "https://www.eff.org/event/eff-rightscon-1",
+          "publishedOn": "2026-04-17T19:33:48.000Z",
+          "wordCount": 1023,
+          "title": "EFF at RightsCon",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/rightscon.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "76949"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/rightscon.jpg"
+        },
+        {
+          "id": "111975 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "In a dramatic middle-of-the-night stand off, a bipartisan set of lawmakers pushing for true reform and privacy protections for Americans bought us some more time to fight! They are holding out for, at a minimum, the requirement of an actual probable cause warrant for FBI access to information collected under the mass spying program known as 702.\n\nA reauthorization with virtually no changes was defeated because a core group of lawmakers held strong; they know that people are hungry for real reform that protects the privacy of our communications. We now have a 10-day extension to continue to push Congress to pass a real reform bill. \n\nThe Lawmakers rallied late Thursday night to reject a proposed amendment that made gestures at privacy protections, but it would not have improved on the statu…",
+          "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+          "publishedOn": "2026-04-17T19:26:27.000Z",
+          "wordCount": 1781,
+          "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "61481"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png"
+        },
         {
           "id": "111970 at https://www.eff.org",
           "author": "Rory Mir",
