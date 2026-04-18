@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-18T00:31:44.186Z</updated>
+    <updated>2026-04-18T06:28:11.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for sweetheart cabbage and caramelised onion spaghetti | The new veganMeera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/apr/18/sweetheart-cabbage-caramelised-onion-spaghetti-vegan-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/apr/18/sweetheart-cabbage-caramelised-onion-spaghetti-vegan-recipe-meera-sodha"/>
+        <updated>2026-04-18T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[An intriguing, punchy fusion of Taiwanese and Italian noodle dishes
+Last year, the comedian Nish Kumar accused me of being in the pocket of “big cabbage”, because I was waxing lyrical about it. But look here, Nish, everyone is cabbage obsessed. It’s not just the Guardian; the internet is awash with “best cabbage” recipes and there’s a lot to love: it’s cheap, generous and genuinely delicious cooked and wilted down with onions (or shallots), as in this spaghetti. The inspiration behind the dish was a jar of Taiwanese Bullshead shallot sauce, a sweet, smoky and savoury sauce that I love to dollop into and on to all things eggs, noodles, vegetables and rice, but that I ran out of recently, prompting me to make a simple, store-cupboard alternative.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EFF at RightsCon]]></title>
         <id>111973 at https://www.eff.org</id>
@@ -15999,16 +16011,6 @@ This almost-perfectly-aligned image composite shows the first JWST deep field’
         <summary type="html"><![CDATA[As federal research funding shrinks, scientists are looking to other sources of support. Can they learn to sell their work without selling out?]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mystery of the Head Activator]]></title>
-        <id>https://www.asimov.press/p/head-activator</id>
-        <link href="https://www.asimov.press/p/head-activator"/>
-        <updated>2026-01-18T18:06:31.000Z</updated>
-        <summary type="html"><![CDATA[A biological puzzle that made one researcher and ruined another might never be solved.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
     <entry>

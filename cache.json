@@ -3758,22 +3758,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!A3Au!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4015a60e-154b-4658-bad5-d07fc5da635c_1920x1080.gif"
-        },
-        {
-          "id": "https://www.asimov.press/p/head-activator",
-          "author": "Asimov Press",
-          "description": "A biological puzzle that made one researcher and ruined another might never be solved.",
-          "link": "https://www.asimov.press/p/head-activator",
-          "publishedOn": "2026-01-18T18:06:31.000Z",
-          "wordCount": null,
-          "title": "Mystery of the Head Activator",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!4UjX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66790c3-4bb8-48ff-b811-c3aa433de593_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!4UjX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66790c3-4bb8-48ff-b811-c3aa433de593_2000x1260.jpeg"
         }
       ]
     },
@@ -7629,6 +7613,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/apr/18/sweetheart-cabbage-caramelised-onion-spaghetti-vegan-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "An intriguing, punchy fusion of Taiwanese and Italian noodle dishes\nLast year, the comedian Nish Kumar accused me of being in the pocket of “big cabbage”, because I was waxing lyrical about it. But look here, Nish, everyone is cabbage obsessed. It’s not just the Guardian; the internet is awash with “best cabbage” recipes and there’s a lot to love: it’s cheap, generous and genuinely delicious cooked and wilted down with onions (or shallots), as in this spaghetti. The inspiration behind the dish was a jar of Taiwanese Bullshead shallot sauce, a sweet, smoky and savoury sauce that I love to dollop into and on to all things eggs, noodles, vegetables and rice, but that I ran out of recently, prompting me to make a simple, store-cupboard alternative.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/apr/18/sweetheart-cabbage-caramelised-onion-spaghetti-vegan-recipe-meera-sodha",
+          "publishedOn": "2026-04-18T05:00:04.000Z",
+          "wordCount": 4429,
+          "title": "Meera Sodha’s vegan recipe for sweetheart cabbage and caramelised onion spaghetti | The new veganMeera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/d49271f120ee102bc0b4791f1b567ef46865a45a/0_0_3516_2812/master/3516.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d438b74bbb0ad2b4f28a7265a2ae3d8"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/apr/11/noodles-rose-beancurd-spring-greens-egg-recipe-meera-sodha",
           "author": "Meera Sodha",
