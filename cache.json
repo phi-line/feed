@@ -573,6 +573,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69e2724a5240ff0001f15294",
+          "author": "Becky Ferreira",
+          "description": "Reproductive technologies have enabled children to be posthumously conceived from the frozen eggs and sperm of deceased parents, raising legal, ethical, and practical questions.",
+          "link": "https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/",
+          "publishedOn": "2026-04-18T13:00:34.000Z",
+          "wordCount": 2384,
+          "title": "Babies Born from Dead Parents Will Increase with New Tech. Are We Ready?",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/Ivf.png"
+        },
+        {
           "id": "69e253825240ff0001ee7e32",
           "author": "Matthew Gault",
           "description": "You won’t go to jail for filming ICE with a drone, but the government may still shoot it down and it expanded the list of protected agencies to include the Department of Justice.",
@@ -4182,16 +4192,6 @@
           "wordCount": 187,
           "title": "Cost Savings",
           "imageUrl": "https://imgs.xkcd.com/comics/cost_savings_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3196/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3196/",
-          "publishedOn": "2026-01-19T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Aurora Coolness",
-          "imageUrl": "https://imgs.xkcd.com/comics/aurora_coolness_2x.png"
         }
       ]
     },
