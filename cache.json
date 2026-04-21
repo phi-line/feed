@@ -563,6 +563,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69e65bcc5240ff0001f93322",
+          "author": "Emanuel Maiberg",
+          "description": "Malus, which is a piece of satire but also fully functional, performs a \"clean room\" clone of open source software, meaning users could then sell software without crediting the original developers.",
+          "link": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+          "publishedOn": "2026-04-21T13:00:44.000Z",
+          "wordCount": 2764,
+          "title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
+          "imageUrl": "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fG9wZW4lMjBzb3VyY2V8ZW58MHx8fHwxNzc2NzA1MTc0fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "69e680ae5240ff0001f9428c",
           "author": "Becky Ferreira",
           "description": "Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, raising alarms about drug pollution in aquatic ecosystems.",
@@ -4177,6 +4187,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/emergence-is-not-engineering",
+          "author": "Stuart Kauffman",
+          "description": "The post Emergence Is Not Engineering appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/emergence-is-not-engineering",
+          "publishedOn": "2026-04-21T16:18:46.000Z",
+          "wordCount": 8025,
+          "title": "Emergence Is Not Engineering",
+          "imageUrl": "https://noemamag.imgix.net/2026/04/Noema_Lascaux_FINAL_LR-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=85d0d1facfd5a10dbdf7aa84f40eadd6"
+        },
+        {
           "id": "https://www.noemamag.com/openai-proposes-a-social-contract-for-the-intelligence-age",
           "author": "Nathan Gardels",
           "description": "The post OpenAI Proposes A ‘Social Contract’ For The Intelligence Age appeared first on NOEMA.",
@@ -4523,6 +4543,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555656",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/04/21/homemade-cafe-dinner-causa-jiams-qargo-open",
+          "publishedOn": "2026-04-21T17:15:00.000Z",
+          "wordCount": 7154,
+          "title": "Homemade Cafe now serving dinner, plus new Peruvian, Southeast Asian, and coffee options",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/homemadecafe-ext.jpg?fit=1092%2C802&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555462",
+          "author": "Janelle Hessig",
+          "description": "From the Rubik’s Cube craze to many waves of Dungeons and Dragons fandom, the Southside game shop has navigated countless fads and passions and built a legacy of table-top togetherness.",
+          "link": "https://www.berkeleyside.org/2026/04/21/games-of-berkeley",
+          "publishedOn": "2026-04-21T16:20:07.000Z",
+          "wordCount": 8159,
+          "title": "Games of Berkeley has been on a roll for 46 years. What’s its secret?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/GOB_gamingroom-scaled.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555623",
           "author": "Felicia Mello",
@@ -8339,6 +8379,36 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/series/the-big-think-interview/terraform-industries/",
+          "author": "Casey Handmer",
+          "description": "Could solar energy be the key to unlocking a future free from fossil fuels and extreme poverty? Casey Handmer, founder and CEO of Terraform Industries, believes so. His company is pioneering technology that could revolutionize how we produce and consume energy, potentially solving climate change and global energy inequality in one fell swoop.\nTerraform Industries is developing machines that create synthetic natural gas from sunlight and air. It sounds like science fiction, but the technology is rooted in simple chemistry and powered by the rapidly advancing field of solar energy.\nBut Handmer’s vision extends beyond just replacing fossil fuels. He sees solar energy as the catalyst for a new era of human progress. By providing cheap, abundant energy to every corner of the globe, we could potentially eliminate extreme poverty within our lifetimes. It’s an ambitious goal, but one that Handmer believes we have a responsibility to pursue.\nThis video The solar revolution turning sunlight into synthetic fuel is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/terraform-industries/",
+          "publishedOn": "2026-04-21T15:52:19.000Z",
+          "wordCount": 5797,
+          "title": "The solar revolution turning sunlight into synthetic fuel",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/B1-Web-Handmer.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/why-we-talk-funny/",
+          "author": "Valerie Fridland",
+          "description": "The most pivotal turning point of what would become known as the General American accent was the willingness of the Quakers to share the New World with others from the outset. Early on, the Quakers settled the Delaware Valley alongside a community of Swedes and Finns, who had been part of the New Sweden colony, which had been captured by the Dutch and absorbed into the New Netherland colony. That colony, in turn, ended up being taken over by the British in 1664, who also stuck a “new” moniker (as in New York) on their recently acquired piece of New World heaven.\nAs settlement of the middle colonies hit its full stride, the diversity of new arrivals and the contact among them appears to have led to a leveling of features to an even greater degree than that occurring elsewhere. Why? Brotherl…",
+          "link": "https://bigthink.com/books/why-we-talk-funny/",
+          "publishedOn": "2026-04-21T14:30:00.000Z",
+          "wordCount": 2699,
+          "title": "The surprising reason why Americans sound, well, American",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/american-accent.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/the-well/your-ancestors-arent-who-you-think-they-are/",
+          "author": "David Reich",
+          "description": "Over the last 15 years, data on ancient DNA has upended the old story of human history. In this full-length interview, geneticist David Reich explains how new findings have challenged the family tree model of ancestry and revealed a past shaped by migration, interbreeding, disappearance, and constant change. \nFrom Neanderthals and Denisovans to the myths of purity that still shape modern identity, Reich shows how the last decade of research has rewritten what we thought we knew about human origins. The result is a much stranger, more dynamic picture of the human story, one that forces us to rethink ancestry, evolution, and the deep history of who we are.\nThis video Your ancestors aren’t who you think they are is featured on Big Think.",
+          "link": "https://bigthink.com/the-well/your-ancestors-arent-who-you-think-they-are/",
+          "publishedOn": "2026-04-21T13:00:00.000Z",
+          "wordCount": 18901,
+          "title": "Your ancestors aren’t who you think they are",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/The-Well-David-Reich-Full-Interview-Web.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/dark-matter-new-cosmic-test-mond-fails/",
           "author": "Ethan Siegel",
           "description": "If you take everything we know of and can directly observe in the Universe — stars, stellar remnants, galaxies, gas, dust, plasma, and black holes — we find that it’s insufficient to explain what we see on the grandest of all cosmic scales. Unless you hypothesize some novel form of matter, something that’s not included in the Standard Model of elementary particles, you cannot explain a whole suite of evidence. This includes:\nthe abundances of the light elements and isotopes found in the most pristine environments,\nthe temperature (and polarization) fluctuation patterns found in the cosmic microwave background,\nthe correlations between distant galaxies imprinted in the Universe’s large-scale structure,\nand astrophysical systems, like colliding galaxies and galaxy clusters at high speeds, wh…",
@@ -10546,6 +10616,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=74107",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "No cloying cherry flavour here! This cherry coffee syrup is made with REAL cherries for a taste that’s true to the actual fruit. Use this homemade syrup to sweeten coffee and so much more. In my ongoing quest to upgrade my home barista game (because buying a daily latte is expensive!), I’ve started to make […]",
+          "link": "https://jessicainthekitchen.com/cherry-coffee-syrup/",
+          "publishedOn": "2026-04-21T14:00:00.000Z",
+          "wordCount": 10350,
+          "title": "Cherry Coffee Syrup",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Cherry-Syrup3412.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73638",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "This vegan hashbrown casserole is even better than the classic version because it’s LOADED with all the good stuff! Joining the hashbrowns, melty cheese, crispy topping, and creamy sauce is a rainbow of veggies to add extra flavour and colour. Whether it’s for a weekend brunch or a holiday potluck, it’s a universal truth: hashbrown […]",
@@ -10959,6 +11039,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/you-dont-really-think-every-member-of-trumps-cabinet-gets-off-on-being-unaccountable-do-you",
+          "author": "Carlos Greaves",
+          "description": "“Kash Patel has filed a defamation lawsuit against The Atlantic, accusing the magazine and its reporter Sarah Fitzpatrick of defamation over an article that alleged the FBI director… has a habit of ‘excessive drinking and unexplained absences,’ among other recurring behavioral patterns.” — Politico\n - - -\nThe fake news media is once again smearing a hard-working member of our administration. The recent hit piece accusing FBI Director Kash Patel of excessive drinking is (much like the Epstein files hoax) a pathetic attempt to distract Americans from the greatest period of economic growth in our country’s history. If you haven’t noticed how cheap everything is and how much money everyone has now, then congratulations—you’ve fallen for the lying press’s elaborate ruse.\n All of the accusations…",
+          "link": "https://www.mcsweeneys.net/articles/you-dont-really-think-every-member-of-trumps-cabinet-gets-off-on-being-unaccountable-do-you",
+          "publishedOn": "2026-04-21T17:04:00.000Z",
+          "wordCount": 2780,
+          "title": "You Don’t Really Think Every Member of Trump’s Cabinet Gets Off on Being Unaccountable, Do You?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8u4jgnug1b40r0cxpfk3mzjbgehf"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/how-to-baby-proof-your-home",
           "author": "Mary Heitkamp",
