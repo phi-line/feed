@@ -573,6 +573,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69e680ae5240ff0001f9428c",
+          "author": "Becky Ferreira",
+          "description": "Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, raising alarms about drug pollution in aquatic ecosystems.",
+          "link": "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
+          "publishedOn": "2026-04-20T19:40:33.000Z",
+          "wordCount": 1832,
+          "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/04/image1-2.jpg"
+        },
+        {
           "id": "69e64e255240ff0001f92e0d",
           "author": "Matthew Gault",
           "description": "Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.",
@@ -2570,6 +2580,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8378534",
+          "author": "Autumn Billings",
+          "description": "The platform creators filed a lawsuit claiming their First Amendment rights were violated after the Trump administration convinced Apple and Facebook to remove their content.",
+          "link": "https://reason.com/2026/04/20/judge-says-doj-and-dhs-likely-coerced-tech-firms-to-censor-ice-tracking-platforms/",
+          "publishedOn": "2026-04-20T20:44:22.000Z",
+          "wordCount": null,
+          "title": "Judge Says DOJ and DHS Likely Coerced Tech Firms To Censor ICE-Tracking Platforms",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8377909",
           "author": "Jacob Sullum",
           "description": "The city has created a network of nearly 500 cameras that routinely monitor innocent people as they go about their daily lives.",
@@ -4532,6 +4553,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555623",
+          "author": "Felicia Mello",
+          "description": "The remains were found by crews building a beach volleyball court at Bancroft Way and Fulton Street. Cal is likely to now work with the Confederated Villages of Lisjan.",
+          "link": "https://www.berkeleyside.org/2026/04/20/native-american-remains-found-at-uc-berkeley-construction-site-what-happens-next",
+          "publishedOn": "2026-04-21T00:03:22.000Z",
+          "wordCount": 7532,
+          "title": "Native American remains found at UC Berkeley construction site. What happens next?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/IMG_1259-preview-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555365",
           "author": "Local sponsor",
@@ -10576,16 +10607,6 @@
           "wordCount": 6115,
           "title": "Why even the healthiest people hit a wall at age 70",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/C1-Web-Steele.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/solar-radiation-storm-2026-aurora/",
-          "author": "Ethan Siegel",
-          "description": "Starting on the night of January 19, 2026, planet Earth was treated to a global show that had only been seen once before in the 21st century: a spectacular auroral display that wasn’t triggered by a solar flare or by a coronal mass ejection, but instead by a completely different form of space weather known as a solar radiation storm. Whereas solar flares normally involve the ejection of plasma from the Sun’s photosphere and coronal mass ejections typically involve accelerated plasma particles from the Sun’s corona, a solar radiation storm is simply an intensification of the charged ions normally emitted by the Sun as part of the solar wind. Only, in a radiation storm, both the density and speed of the emitted particles get greatly enhanced.\nWe’re currently still in the peak years of our cu…",
-          "link": "https://bigthink.com/starts-with-a-bang/solar-radiation-storm-2026-aurora/",
-          "publishedOn": "2026-01-21T07:00:00.000Z",
-          "wordCount": 4690,
-          "title": "How a solar radiation storm created January 2026’s aurora",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Loch-Calder-1-19.jpg?resize=1200,630"
         }
       ]
     },
@@ -12635,6 +12656,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111981 at https://www.eff.org",
+          "author": "Kimberly Carlson",
+          "description": "Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information. \nReddit is one of the largest user-generated content platforms on the internet, built around thousands of independent communities known as subreddits. Some subreddits cover everyday interests, while others host discussions about specialized or controversial topics. These communities are created and moderated by volunteers, and the site’s decentralized model means that Reddit h…",
+          "link": "https://www.eff.org/pages/internet-still-works-reddit-empowers-community-moderation",
+          "publishedOn": "2026-04-20T21:51:57.000Z",
+          "wordCount": 1988,
+          "title": "The Internet Still Works: Reddit Empowers Community Moderation",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-banner-lee.png",
+            "alt": "cartoon of a figure holding a megaphone for another + photo of Ben Lee",
+            "type": "image/png",
+            "length": "318815"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-banner-lee.png"
+        },
+        {
+          "id": "111979 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information. \nReddit is one of the largest user-generated content platforms on the internet, built around thousands of independent communities known as subreddits. Some subreddits cover everyday interests, while others host discussions about specialized or controversial topics. These communities are created and moderated by volunteers, and the site’s decentralized model means that Reddit h…",
+          "link": "https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation",
+          "publishedOn": "2026-04-20T21:35:21.000Z",
+          "wordCount": 1988,
+          "title": "The Internet Still Works: Reddit Empowers Community Moderation",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-banner-lee.png",
+            "alt": "cartoon of a figure holding a megaphone for another + photo of Ben Lee",
+            "type": "image/png",
+            "length": "318815"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-banner-lee.png"
+        },
         {
           "id": "111973 at https://www.eff.org",
           "author": "Christian Romero",
