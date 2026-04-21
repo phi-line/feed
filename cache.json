@@ -7327,26 +7327,6 @@
           "wordCount": 8178,
           "title": "Around Berkeley: Extreme music, letter writing club, climbing competition",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-benchmark-3-4.webp?fit=780%2C585&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550648",
-          "author": "Nico Savidge",
-          "description": "The change aims to provide less expensive opportunities for homeownership in a city with a famously fearsome real estate market.",
-          "link": "https://www.berkeleyside.org/2026/01/21/berkeley-adu-sale-ab1033-accessory-dwelling-unit",
-          "publishedOn": "2026-01-21T23:40:10.000Z",
-          "wordCount": 7762,
-          "title": "Would you buy a backyard cottage? Berkeley legalizes sales of ADUs",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/TypeFive_ADU_1-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=550642",
-          "author": "Cecilia Seiter",
-          "description": "The Laurel District’s lauded breakfast spot is in escrow, with plans to change ownership in mid to late February.",
-          "link": "https://www.berkeleyside.org/2026/01/21/sequoia-diner-sold-new-owners-breakfast",
-          "publishedOn": "2026-01-21T20:00:00.000Z",
-          "wordCount": 7216,
-          "title": "New owners of Sequoia Diner vow to preserve what customers ‘already love’",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/BreakfastSando-Sequoia-Lapan.jpg?fit=2000%2C1573&ssl=1"
         }
       ]
     },
@@ -7731,6 +7711,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M34D3Ktovfw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M34D3Ktovfw",
+          "publishedOn": "2026-04-21T09:00:27.000Z",
+          "wordCount": null,
+          "title": "Noah Kahan: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DQ2EwQ2B5bc",
           "author": null,
@@ -10969,6 +10959,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/how-to-baby-proof-your-home",
+          "author": "Mary Heitkamp",
+          "description": "1. Install Baby Gates\n Baby gates are great for keeping babies out of places you don’t want them to go, like inside your home. String several gates together with zip ties to form a barrier around the perimeter of your property. Most babies aren’t smart enough to figure out how to open the gates, and neither are you, but you’re probably tall enough to step over.\n 2. Affix Safety Latches to Lower Cabinets\n Babies love opening cabinets to rifle through your cookware, cleaning supplies, and the collection of half-used batteries you keep in your junk drawer. If word gets out that you’re the kind of household that keeps things securely locked away, they won’t bother swinging by.\n 3. Put Wedge Locks on Every Sash Window\n If there’s one thing all babies have in common, it’s that they are exception…",
+          "link": "https://www.mcsweeneys.net/articles/how-to-baby-proof-your-home",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": 2623,
+          "title": "How to Baby-Proof Your Home",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0usbg348olr4l1rzi5f539zo3qai"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/frequently-asked-questions-about-our-innovative-new-edtech-collaboration",
           "author": "Richard Amesbury",
