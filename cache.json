@@ -2590,6 +2590,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8378909",
+          "author": "Jacob Sullum",
+          "description": "The governor is threatening to defund the police because of an ordinance noting that an ICE administrative warrant \"does not justify a stop, arrest, or continued detention\" by city officers.",
+          "link": "https://reason.com/2026/04/22/houston-irks-texas-gov-greg-abbott-by-reminding-cops-to-comply-with-the-fourth-amendment/",
+          "publishedOn": "2026-04-22T20:55:54.000Z",
+          "wordCount": null,
+          "title": "Houston Irks Texas Gov. Greg Abbott by Reminding Cops To Comply With the Fourth Amendment",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8377975",
           "author": "Joe Lancaster",
           "description": "The government is selling the policy with the same arguments you’d expect for subsidized factories or sports stadiums.",
@@ -3345,17 +3356,6 @@
           "title": "Vance Goes to Minnesota",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8365385",
-          "author": "J.D. Tuccille",
-          "description": "The right to keep and bear arms is about resisting tyranny.",
-          "link": "https://reason.com/2026/01/23/ice-demonstrates-why-we-need-the-second-amendment/",
-          "publishedOn": "2026-01-23T12:00:39.000Z",
-          "wordCount": null,
-          "title": "ICE Demonstrates Why We Need the Second Amendment",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3802,6 +3802,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3236/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3236/",
+          "publishedOn": "2026-04-22T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Border Message",
+          "imageUrl": "https://imgs.xkcd.com/comics/border_message_2x.png"
+        },
         {
           "id": "https://xkcd.com/3235/",
           "author": null,
@@ -4563,6 +4573,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=472781",
+          "author": "Darwin BondGraham",
+          "description": "In a sprawling complaint, a prosecutor claims the Alameda County DA’s office “extorts” welfare fraud defendants and badly mishandled a conflict of interest.",
+          "link": "https://www.berkeleyside.org/2026/04/22/alameda-county-district-attorney-whistleblower-complaint-ursula-jones-dickson-alexandra-grayner",
+          "publishedOn": "2026-04-22T23:08:04.000Z",
+          "wordCount": 11233,
+          "title": "Deputy district attorney says she was retaliated against for whistleblowing",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-2026.01.15_KaiserArtsCenter_Middleton_29-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555576",
+          "author": "Jessica Golden Edberg",
+          "description": "Grizzly Peak resident Jessica Edberg describes the emotional weight of taking down her camellias and Japanese maples — and what she's found on the other side of grief.",
+          "link": "https://www.berkeleyside.org/2026/04/22/grieving-trees-in-berkeley-hills-zone-0",
+          "publishedOn": "2026-04-22T21:44:42.000Z",
+          "wordCount": 8134,
+          "title": "As a scientist, I see why the trees near my Berkeley Hills home had to go for wildfire safety. And yet I grieve.",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/DSC06082-scaled.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555611",
           "author": "Felicia Mello",
@@ -8324,6 +8354,16 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
+          "author": "Jonny Thomson",
+          "description": "Sometimes, great writing makes me angry.\nIt’s nothing to do with the ideas inside, of course. Poets and bestselling authors are good at their game. What bothers me is when those ideas are expressed with such perfect beauty that I cannot hope to match them.\nThere might be a degree of professional pride to this. When I gawp at an old poet like T.S. Eliot or a modern writer like Samantha Harvey, I’m just jealous. Yes, they might be better trained than I am. Yes, they likely took more time on their writing than I did on this article. But, in the main, I’m left bitterly squinting at how someone can be so damn good.\nThere’s more to it, though. It’s often said that the joy of great literature lies in poets and writers expressing feelings and thoughts in ways we couldn’t imagine. They name emotion…",
+          "link": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
+          "publishedOn": "2026-04-22T18:35:54.000Z",
+          "wordCount": 2981,
+          "title": "Philip Pullman: The thing every writer needs to overcome",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/every-writer-needs-2-overcome_compressed.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/collections/the-energy-transition/",
           "author": "Big Think",
           "description": "In this monthly issue, we examine how our understanding of energy — and how we source and use it — is evolving.",
@@ -10602,16 +10642,6 @@
           "wordCount": 13988,
           "title": "How the Industrial Revolution invented modern computing",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-12.14.58-PM.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/where-are-blueshifted-galaxies/",
-          "author": "Ethan Siegel",
-          "description": "Here in the Universe, there’s a fascinating property that nearly every galaxy beyond our own Milky Way seems to possess: the light that we observe from it seems to be shifted towards redder, longer wavelengths than the light that’s emitted from within our own galaxy. Within the context of General Relativity, there are a number of possible explanations for an observed redshift: it could be due to the relative motion of the source and the observer, it could be due to a different in the curvature of space between the source and the observer, or it could be due to the fabric of space itself stretching and expanding as light travels through it.\nYet, if it were the effects of gravitational masses (like galaxies) tugging on other masses (like other galaxies) that dominated the Universe, you’d exp…",
-          "link": "https://bigthink.com/starts-with-a-bang/where-are-blueshifted-galaxies/",
-          "publishedOn": "2026-01-23T07:00:00.000Z",
-          "wordCount": 4683,
-          "title": "Ask Ethan: Where are all the blueshifted galaxies?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/08/RaisinBread-Universe-Expanding-16x9-816.png?resize=1200,630"
         }
       ]
     },
@@ -12701,6 +12731,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "111994 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "When we use the internet, we're entrusting tech companies with some of our most private information. These companies have promised they'll keep our data safe. But what happens when the government comes knocking at their doors? In our latest EFFector newsletter, we hear from an EFF client whose data was given to ICE after Google broke its promise to him.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This latest issue covers the ongoing fight to reform NSA surveillance, the many attempts to censor 3D printing, and the cost of Google's broken promise to its users.\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time, we're chatting with EFF Senior Staff Attorney F. Mario Trujillo about how state attorneys general can hold Google accountable for failing to protect users targeted by the government. You can find the episode and subscribe on your podcast platform of choice:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Feb78b9d6-fbcf-453f-b55e-77c575b638ef%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to help us hold companies accountable? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388",
+          "publishedOn": "2026-04-22T18:25:51.000Z",
+          "wordCount": 805,
+          "title": "📁 How ICE Got My Data | EFFector 38.8",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "111991 at https://www.eff.org",
           "author": "Hudson Hongo",
