@@ -2571,16 +2571,6 @@
           "wordCount": 2096,
           "title": "How Right Wing Influencers Used AI Slop to Turn Renee Good Into a Meme",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/01/55035094664_94ca9f62e0_k.jpg"
-        },
-        {
-          "id": "6973bac6420e3a000197433a",
-          "author": "Becky Ferreira",
-          "description": "Veronika, a brown cow in Austria, uses sticks and brushes as multipurpose tools to scratch hard-to-reach spots",
-          "link": "https://www.404media.co/scientists-discovered-a-cow-that-uses-tools-like-a-chimpanzee/",
-          "publishedOn": "2026-01-24T14:00:33.000Z",
-          "wordCount": 2163,
-          "title": "Scientists Discovered a Cow That Uses Tools Like a Chimpanzee",
-          "imageUrl": "https://www.404media.co/content/images/2026/01/image1-4.jpg"
         }
       ]
     },
@@ -8331,6 +8321,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/",
+          "author": "Ethan Siegel",
+          "description": "Anytime you try and learn something beyond your current understanding, it isn’t as simple as pouring “new knowledge” into an otherwise empty vessel. We come into any new endeavor with a pre-existing foundation: things we’ve learned, been taught, or have put together for ourselves previously. When that new knowledge arrives, we inevitably attempt to integrate it into our pre-existing framework, and that isn’t always a smooth process. Sometimes, our foundation is riddled with misconceptions, misunderstandings, or prior teaching that were outright wrong; we have to correct and “unlearn” those ways of thinking before we can progress. At other times, that knowledge arrives in an incomplete fashion, and so our brains fill-in-the-blanks with whatever makes sense to us: with a story that’s often e…",
+          "link": "https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/",
+          "publishedOn": "2026-04-24T06:00:00.000Z",
+          "wordCount": 5502,
+          "title": "Ask Ethan: What’s the biggest misconception in astronomy?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/windout.jpg?resize=1069,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/childhood-wounds/",
+          "author": "Steph McClain",
+          "description": "Dr. Nicole LePera, the holistic psychologist and NYT bestselling author behind Reparenting the Inner Child, breaks down the 6 archetypes of childhood trauma.\nLePera explains why insight alone never produces lasting change and walks through the science of reparenting: The practice of stepping in as the adult presence you may never have had.\nThis video How to recognize when you’re reacting from childhood wounds is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/childhood-wounds/",
+          "publishedOn": "2026-04-24T04:00:00.000Z",
+          "wordCount": 19829,
+          "title": "How to recognize when you’re reacting from childhood wounds",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-10.59.35-AM.png?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/mini-philosophy/persian-empire-contributions/",
           "author": "Jonny Thomson",
