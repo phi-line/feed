@@ -2610,6 +2610,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8379364",
+          "author": "Autumn Billings",
+          "description": "The feds have been demanding that tech companies identify the administration's anonymous online critics. That violates the First Amendment.",
+          "link": "https://reason.com/2026/04/24/civil-liberties-groups-sue-for-information-on-ices-speech-chilling-subpoenas/",
+          "publishedOn": "2026-04-24T18:29:21.000Z",
+          "wordCount": null,
+          "title": "ICE Wants Tech Companies To Identify Anonymous Online Critics. Civil Liberties Groups Are Demanding More Info.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8378997",
           "author": "Matthew Petti",
           "description": "The State Department and ICE claimed to have caught Islamic Republic nepo babies “enjoying a lavish lifestyle.” Instead, they tore apart an innocent family.",
@@ -4601,6 +4612,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555899",
+          "author": "Elise Proulx",
+          "description": "The popular neighborhood bar has been taken over by new owners who want to build on the loyal following cultivated over a dozen years.",
+          "link": "https://www.berkeleyside.org/2026/04/24/the-lodge-piedmont-ave-reopens",
+          "publishedOn": "2026-04-24T22:21:19.000Z",
+          "wordCount": 7832,
+          "title": "The Lodge (including deer heads) is back, but some things have changed",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/TheLodge-TheBar.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=555874",
+          "author": "Jacob Simas",
+          "description": "Berkeleyside hosted an urgent discussion about the First Amendment and academic freedom in the age of Trump, bringing together Cal’s provost, the Daily Cal’s editor and a pair of professors with sharply divergent views.",
+          "link": "https://www.berkeleyside.org/2026/04/24/watch-a-lively-debate-over-the-state-of-free-speech-at-uc-berkeley",
+          "publishedOn": "2026-04-24T18:52:48.000Z",
+          "wordCount": 8409,
+          "title": "Watch: A lively debate over the state of free speech at UC Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Berkeleyside-event_-The-State-of-Free-Speech-at-UC-Berkeley-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555866",
           "author": "Momo Chang",
@@ -7503,6 +7534,16 @@
       "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=96029",
+          "author": "deb",
+          "description": "Porch Swings, I wanted you to as well. Ditto for Blood Orange Margaritas (but only when in season), a Perfect Manhattan era that spanned over a decade, Boulevardier that has been woven into almost every year since, and a Slushy Paper Plane phase last year. This past winter and spring still, it’s been Sidecars, 1920s-era cocktails with about as many conflicting stories as my kids regale us with when they didn’t do their homework.\nRead more »",
+          "link": "https://smittenkitchen.com/2026/04/sidecar/",
+          "publishedOn": "2026-04-24T17:56:49.000Z",
+          "wordCount": 5212,
+          "title": "sidecar",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/04/sidecar-7-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
         {
           "id": "https://smittenkitchen.com/?p=95953",
           "author": "deb",
@@ -12869,6 +12910,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112004 at https://www.eff.org",
+          "author": "Molly Buckley",
+          "description": "California lawmakers are fast-tracking A.B. 1709—a sweeping bill that would ban anyone under 16 from using social media and force every user, regardless of age, to verify their identity before accessing social platforms.\nThat means that under this bill, all Californians would be required to submit highly sensitive government-issued ID or biometric information to private companies simply to participate in the modern public square. In the name of “safety,” this bill would destroy online anonymity, expose sensitive personal data to breach and abuse, and replace parental decision-making with state-mandated censorship.\nA.B. 1709 has already passed out of the Assembly Privacy and Judiciary Committees with nearly unanimous support. Its next stop is the Assembly Appropriations Committee, followed …",
+          "link": "https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban",
+          "publishedOn": "2026-04-24T23:11:32.000Z",
+          "wordCount": 2548,
+          "title": "Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "1249014"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
+        },
+        {
+          "id": "112005 at https://www.eff.org",
+          "author": "Betty Gedlu",
+          "description": "Clinic students Emily Ko and Zoe Lee at the Technology Law and Policy Clinic at the NYU School of Law were the principal authors of this post.\nCourts are not private forums for business disputes. They are public institutions, and their records belong to the public. But too often, courts forget that and allow for massive over-sealing, especially in patent cases. \nEFF recently discovered another case of this in the Eastern District of Texas, where key court filings about Wi-Fi technology used by billions of people every day were hidden entirely from public view. The public could not see the parties’ arguments about patent ownership, the plaintiff’s standing in court, or licensing obligations tied to standardized technologies.\nEFF Seeks to Uncover Sealed Information in Wilus \nThe case Wilus I…",
+          "link": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case",
+          "publishedOn": "2026-04-24T22:57:05.000Z",
+          "wordCount": 2329,
+          "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/patents-2.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "31203"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/patents-2.png"
+        },
+        {
+          "id": "112002 at https://www.eff.org",
+          "author": "Dave Maass",
+          "description": "Customs and Border Protection (CBP) is seeking permission from the California city of San Clemente to install an Anduril Industries surveillance tower on a cliff that would allow for constant monitoring of entire coastal neighborhoods. \nThe proposed tower is Anduril's Sentry, part of the Autonomous Surveillance Tower (AST) program. While CBP says it will primarily monitor the coastline for boats carrying migrants, it will actually be installed 1.5 miles inland, overlooking the bulk of the 62,000-resident city. By CBP's own public statement, the system–which combines video, radar, and computer vision–is \"constantly scanning\" for movement and identifying and tracking objects an AI algorithm decides are of interest. Depending on the model–the photos provided by CBP indicate it is a long range…",
+          "link": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+          "publishedOn": "2026-04-24T20:04:30.000Z",
+          "wordCount": 2289,
+          "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/andurilthroughfence.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "301406"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/andurilthroughfence.jpg"
+        },
         {
           "id": "112001 at https://www.eff.org",
           "author": "Sophia Cope",
