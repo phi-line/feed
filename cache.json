@@ -573,6 +573,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69ebc0e65914410001777506",
+          "author": "Becky Ferreira",
+          "description": "The discovery of a bizarre golden object two miles under Alaskan waters flummoxed scientists, but a new study pins down the true nature of the “orb.”",
+          "link": "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
+          "publishedOn": "2026-04-25T13:00:48.000Z",
+          "wordCount": 2215,
+          "title": "A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is.",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/image2-1.jpg"
+        },
+        {
           "id": "69eb8e875914410001748d2c",
           "author": "Samantha Cole",
           "description": "This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.",
@@ -4168,16 +4178,6 @@
           "wordCount": 187,
           "title": "Chemical Formula",
           "imageUrl": "https://imgs.xkcd.com/comics/chemical_formula_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3199/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3199/",
-          "publishedOn": "2026-01-26T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Early Arthropods",
-          "imageUrl": "https://imgs.xkcd.com/comics/early_arthropods_2x.png"
         }
       ]
     },
