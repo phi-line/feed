@@ -573,6 +573,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69efdf6a8e59a200013b2199",
+          "author": "Samantha Cole",
+          "description": "ASU Atomic, a new tool in beta at Arizona State University, takes faculty lectures and chops them into extremely short clips, that AI then attempts to turn into learning materials.",
+          "link": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+          "publishedOn": "2026-04-27T22:29:33.000Z",
+          "wordCount": 2539,
+          "title": "University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/photo-1678913845350-07b0bc5d2987.jpeg"
+        },
+        {
+          "id": "69efb47a8e59a200013b1a5c",
+          "author": "Emanuel Maiberg",
+          "description": "More people having access to the courts is potentially good, but it’s not clear how the system can handle this increase in cases.",
+          "link": "https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/",
+          "publishedOn": "2026-04-27T19:12:09.000Z",
+          "wordCount": 1900,
+          "title": "People Using AI to Represent Themselves in Court Are Clogging the System",
+          "imageUrl": "https://images.unsplash.com/photo-1676181739859-08330dea8999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvdXJ0fGVufDB8fHx8MTc3NzMwOTkxM3ww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69efaa7c8e59a200013b17df",
+          "author": "Jason Koebler",
+          "description": "Exploring the origins of an incredibly dumb, Magic Eye-themed WHCD conspiracy theory.",
+          "link": "https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/",
+          "publishedOn": "2026-04-27T18:38:55.000Z",
+          "wordCount": 2125,
+          "title": "Did a Time Traveling Superintelligent AI Try to Warn About White House Correspondents Dinner Shooting? An Investigation",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/CleanShot-2026-04-27-at-11.28.27@2x-1.png"
+        },
+        {
           "id": "69ef775e8e59a200013b02b8",
           "author": "Matthew Gault",
           "description": "Researchers found the internet is becoming aggressively positive as AI-generated text floods the web.",
@@ -3220,17 +3250,6 @@
           "title": "Trump Says States Are Required To Enforce Federal Immigration Laws. He's Wrong.",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8366290",
-          "author": "J.D. Tuccille",
-          "description": "Wider reform is needed in the way the government enforces its laws.",
-          "link": "https://reason.com/2026/01/28/after-alex-prettis-death-the-administration-signals-a-shift-on-immigration-enforcement/",
-          "publishedOn": "2026-01-28T12:00:38.000Z",
-          "wordCount": null,
-          "title": "After Alex Pretti's Death, the Administration Signals a Shift on Immigration Enforcement",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4422,6 +4441,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=555968",
+          "author": "Mikhail Zinshteyn | CalMatters",
+          "description": "At its three most popular campuses, UC agreed to admit more California students and reduce the number of out-of-state students. The state covered the loss of revenue from non-resident students, who pay three times what in-state students pay.",
+          "link": "https://www.berkeleyside.org/2026/04/27/why-getting-more-california-students-into-uc-berkeley-carries-a-big-cost-to-taxpayers",
+          "publishedOn": "2026-04-27T21:54:50.000Z",
+          "wordCount": 8712,
+          "title": "Why getting more California students into UC Berkeley carries a big cost to taxpayers",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/032522_UC-BERKELEY_MHN_CM_03.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=555861",
           "author": "Joanne Furio",
@@ -8154,16 +8183,6 @@
           "wordCount": 2034,
           "title": "@DanielCaesar reflects on returning to the Desk and doing something different this time around.⁠",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7sIJ1IRE8SE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7sIJ1IRE8SE",
-          "publishedOn": "2026-01-28T10:00:11.000Z",
-          "wordCount": null,
-          "title": "FORAGER: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10431,16 +10450,6 @@
           "wordCount": 2625,
           "title": "Three questions to ask about your AI partnership",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/3-qs-assess-ai-partnership12.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/jwst-nine-objects-platypus/",
-          "author": "Ethan Siegel",
-          "description": "In the animal kingdom, one of the most bizarre discoveries of all-time was the platypus. When reports of the platypus reached the western hemisphere, most leading naturalists at the time assumed it was a hoax, including the first European scientists to examine a specimen in 1799. It was an animal that laid eggs, yet it was a mammal. It had the bill of a duck, but the tail of a beaver. It had (at least, the males do) venomous spurs on their hind legs, but also the ability to locate other creatures in the water through a specialized sense known as electroreception, common in sharks but very rare among mammals. And yet, the platypus exists with all of these properties, even if it would take decades (or more than a century) before we understood how such a creature could come to exist.\nAstronom…",
-          "link": "https://bigthink.com/starts-with-a-bang/jwst-nine-objects-platypus/",
-          "publishedOn": "2026-01-28T07:00:00.000Z",
-          "wordCount": 4505,
-          "title": "JWST finds nine category-defying objects. Have astronomers found their “platypus?”",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/coverCEERSplatypus.jpg?resize=1200,630"
         }
       ]
     },
@@ -12540,6 +12549,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112012 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "Speaker Johnson has introduced a new fig leaf over the American surveillance state, the Foreign Intelligence Accountability Act. Introduced with only days to go before Section 702 of the Foreign Intelligence Surveillance Act (FISA) expires and the U.S. government loses one of its most invasive surveillance programs, the bill does nothing to make any of the substantial changes privacy advocates have been asking for --- most notably, it fails to give us a real warrant requirement for the FBI to snoop through the private conversations of people on U.S. soil.  \nSection 702 needs to be reauthorized by Congress every few years. These reauthorizations give us a chance to tinker with the language of the law and introduce some much-needed reforms. This attempt at reauthorization has been particular…",
+          "link": "https://www.eff.org/deeplinks/2026/04/congress-must-reject-new-insufficient-702-reauthorization-bill",
+          "publishedOn": "2026-04-27T21:55:28.000Z",
+          "wordCount": 1669,
+          "title": "Congress Must Reject New Insufficient 702 Reauthorization Bill",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/og-nsa-1.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "197469"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/og-nsa-1.png"
+        },
+        {
+          "id": "111980 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "SmugMug is a family-owned photo hosting and e-commerce platform that helps professional photographers run their businesses online. Founded in 2002, the company provides tools for photographers to show their work, deliver client galleries, sell prints, and manage payments. \nIn 2018, SmugMug purchased Flickr, the long-running photo-sharing community, which added tens of millions of active hobbyist photographers to the company’s user base. \nBen MacAskill is President and COO of SmugMug’s parent company, Awesome, which he co-founded with his family. Awesome also includes the media network This Week in Photo and the nonprofit Flickr Foundation, which focuses on preserving publicly available photography. MacAskill has been an active voice in policy discussions around Section 230 and online platf…",
+          "link": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
+          "publishedOn": "2026-04-27T17:44:01.000Z",
+          "wordCount": 2440,
+          "title": "The Internet Still Works: SmugMug Powers Online Photography",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-2c.png",
+            "alt": "One person holds a megaphone for another, with rainbow stripes",
+            "type": "image/png",
+            "length": "403304"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-2c.png"
+        },
         {
           "id": "112004 at https://www.eff.org",
           "author": "Molly Buckley",
@@ -14813,22 +14854,6 @@
             "length": "130379"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/effector_banner_5.jpeg"
-        },
-        {
-          "id": "111683 at https://www.eff.org",
-          "author": "Karen Gullo",
-          "description": "The Digital Services Act (DSA) Human Rights Alliance has, since its founding by EFF and Access Now in 2021, worked to ensure that the European Union follows a human rights-based approach to platform governance by integrating a wide range of voices and perspectives to contextualise DSA enforcement and examining the DSA’s effect on tech regulations around the world.\nAs the DSA moves from legislation to enforcement, it has become increasingly clear that its impact depends not only on the text of the Act but also how it’s interpreted and enforced in practice. This is why the Alliance has created a set of recommendations to include civil society organizations and rights-defending stakeholders in the enforcement process. \n The Principles for a Human Rights-Centred Application of the DSA: A Globa…",
-          "link": "https://www.eff.org/deeplinks/2026/01/dsa-human-rights-alliance-publishes-principles-calling-dsa-enforcement-1",
-          "publishedOn": "2026-01-28T07:16:27.000Z",
-          "wordCount": 1269,
-          "title": "DSA Human Rights Alliance Publishes Principles Calling for DSA Enforcement to Incorporate Global Perspectives",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/banner-dsaprinciples-1200x600.jpg",
-            "alt": "",
-            "type": "image/jpeg",
-            "length": "262504"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/banner-dsaprinciples-1200x600.jpg"
         }
       ]
     }
