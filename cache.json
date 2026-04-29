@@ -446,6 +446,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
+          "author": null,
+          "description": "We all know they’re casinos. It’s time to look at the data behind the froth.",
+          "link": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
+          "publishedOn": "2026-04-29T00:00:00.000Z",
+          "wordCount": 5718,
+          "title": "Are Prediction Markets Good for Anything?",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/are-prediction-markets-good-for-anything/d248692542-1777393260/dan-schwarz-prediction-markets-asterisk-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
           "author": null,
           "description": "Historian Jon Peterson traces the route from Prussian military headquarters to Gary Gygax’s basement.",
@@ -4365,6 +4375,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://oaklandside.org/?p=473054",
+          "author": "Eli Wolfe",
+          "description": "Port of Oakland and San Francisco leaders agreed to settle a bitter lawsuit over OAK's name change.",
+          "link": "https://www.berkeleyside.org/2026/04/28/oakland-san-francisco-bay-airport-why-is-it-named-that",
+          "publishedOn": "2026-04-28T23:37:18.000Z",
+          "wordCount": 7210,
+          "title": "It’s official: The ‘Oakland San Francisco Bay Airport’ name stays",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/AP24319173295014-1-scaled-2.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=473039",
+          "author": "Darwin BondGraham",
+          "description": "California governor, congressional seats and key local races like Alameda County district attorney are on the ballot.",
+          "link": "https://www.berkeleyside.org/2026/04/28/california-june-2-primary-election-berkele-alameda-county-how-to-vote",
+          "publishedOn": "2026-04-28T18:56:23.000Z",
+          "wordCount": 8128,
+          "title": "What Berkeley voters should know about the June 2 primary election",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Polling-Place-Novemeber-Election-2022-1.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=555996",
           "author": "Momo Chang",
           "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
@@ -7434,21 +7464,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/year-two/506787ldsdl.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/nsoott",
-          "author": null,
-          "description": "Looking back on how I've been looking back",
-          "link": "https://aethermug.com/posts/nsoott?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-01-29T11:52:07.000Z",
-          "wordCount": 7512,
-          "title": "Never Slide Out of the Day",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/nsoott/yanhao-fang-rNpxTNTsOjw-unsplash.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/nsoott/yanhao-fang-rNpxTNTsOjw-unsplash.jpg"
         }
       ]
     },
@@ -10283,16 +10298,6 @@
           "wordCount": 3871,
           "title": "7 must-read books for mastering essential life skills",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/7-must-read-books_compressed.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/dark-matter-nightmare-scenario/",
-          "author": "Ethan Siegel",
-          "description": "There’s an enormous puzzle to the Universe, and it’s one that might be doomed to remain puzzling for a long time: dark matter. For generations, it has been recognized that the known law of gravity, Einstein’s general relativity, combined with the matter and radiation that’s known to exist in the Universe — including all the particles and antiparticles described by the Standard Model of physics — doesn’t add up to describe what we see. Instead, on a variety of cosmic scales, from the insides of individual galaxies to groups and clusters of galaxies all the way up to the largest filamentary structures of all, an additional source of gravity is required.\nIt’s possible that we’ve got the law of gravity wrong, but if that’s the problem, it’s wrong in an extremely complicated way that also seems…",
-          "link": "https://bigthink.com/starts-with-a-bang/dark-matter-nightmare-scenario/",
-          "publishedOn": "2026-01-29T07:00:00.000Z",
-          "wordCount": 5224,
-          "title": "Dark matter’s “nightmare scenario” looks more likely than ever",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2022/11/STAR-TPC.jpg?resize=1200,630"
         }
       ]
     },
@@ -10725,6 +10730,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/why-do-people-keep-trying-to-assassinate-caesar",
+          "author": "Louie Aronowitz",
+          "description": "I’m confused, maybe someone can help me. This is like the third assassination attempt on Julius Caesar, but things are going great in Rome. The value of silver is strong, the liberti/bad homines immigration is under control, and we’ve bounced back from the bubonic pandemic.\n So why do people keep trying to assassinate our leader?!\n I heard one person say it’s because he’s trying to seize power from the Senate and become an all-powerful dictator, but like, just because he refused to concede power when his term as governor ended and then sent his military across the Rubicon, essentially doing an insurrection on Rome, doesn’t indicate any of that. If that were the case, wouldn’t the Senate say something? Haven’t heard anything from Brutus or Cassius yet, so that’s a non-starter.\n Some are als…",
+          "link": "https://www.mcsweeneys.net/articles/why-do-people-keep-trying-to-assassinate-caesar",
+          "publishedOn": "2026-04-29T00:01:00.000Z",
+          "wordCount": 2547,
+          "title": "Why Do People Keep Trying to Assassinate Caesar?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/bha9pdoa9ofppypuk41qfofm111z"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/ap-english-students-arent-thirsting-after-holden-caulfield-like-they-used-to",
           "author": "Kailey Broussard",
@@ -12412,6 +12427,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112013 at https://www.eff.org",
+          "author": "Rory Mir",
+          "description": "If you want to overthrow Big Tech, you’ll need Section 230. The paradigm shift being built with the Open Social Web can put communities back in control of social media infrastructure, and finally end our dependency on enshitified corporate giants. But while these incumbents can overcome multimillion-dollar lawsuits, the small host revolution could be picked off one by one without the protections offered by 230.\nThe internet as we know it is built on Section 230, a law from the 90s that generally says internet users are legally responsible for their own speech — not the services hosting their speech. The purpose of 230 was to enable diverse forums for speech online, which defined the early internet. These scattered online communities have since been largely captured by a handful of multi-bi…",
+          "link": "https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive",
+          "publishedOn": "2026-04-28T20:59:06.000Z",
+          "wordCount": 2437,
+          "title": "The Open Social Web Needs Section 230 to Survive",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/decentralization-banner.png",
+            "alt": "Personified mushrooms communicating from underground homes",
+            "type": "image/png",
+            "length": "594967"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/decentralization-banner.png"
+        },
         {
           "id": "112014 at https://www.eff.org",
           "author": "Joe Mullin",
