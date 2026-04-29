@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-04-29T00:41:22.520Z</updated>
+    <updated>2026-04-29T06:52:32.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dark matter in the Bullet Cluster celebrates 20 years]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/dark-matter-bullet-cluster-595214/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/dark-matter-bullet-cluster-595214/"/>
+        <updated>2026-04-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[20 years ago, the story of our Universe took an unexpected turn, when dark matter’s existence was confirmed empirically within the natural lab of the Universe: through the science of colliding galaxy clusters. Previously, we could only look at physical systems — individual galaxies, large clusters of galaxies, or the grand cosmic web on large-scales — and infer that something was missing. There were two plausible explanations: either the law of gravity was wrong and needed modifying on large cosmic scales, or there was a missing ingredient that was present and gravitated, but that defied direct detection.
+That second explanation, known as dark matter, was initially favored because the addition of that one ingredient could explain all of the observed physical phenomena on a variety of scale…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Do People Keep Trying to Assassinate Caesar?]]></title>
         <id>https://www.mcsweeneys.net/articles/why-do-people-keep-trying-to-assassinate-caesar</id>
@@ -15761,82 +15772,6 @@ With that in mind, this article highlights seven books that offer timeless guida
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Encrypt It Already]]></title>
-        <id>111678 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already"/>
-        <updated>2026-01-29T18:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re launching Encrypt It Already, our push to get companies to offer stronger privacy protections to our data and communications by implementing end-to-end encryption. If that name sounds a little familiar, it’s because this is a spiritual successor to our 2019 campaign, Fix It Already, a campaign where we pushed companies to fix longstanding issues.
-End-to-end encryption is the best way we have to protect our conversations and data. It ensures the company that provides a service cannot access the data or messages you store on it. So, for secure chat apps like WhatsApp and Signal, that means the company that makes those apps cannot see the contents of your messages, and they’re only accessible on your and your recipients. When it comes to data, like what’s stored using Apple’s Adv…]]></summary>
-        <author>
-            <name>Thorin Klosowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signature gathering begins for multi-billion-dollar Bay Area transit measure]]></title>
-        <id>https://oaklandside.org/?p=468246</id>
-        <link href="https://www.berkeleyside.org/2026/01/29/bart-connect-bay-area-transit-ballot-measure-signatures"/>
-        <updated>2026-01-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If advocates gather 186,000 signatures across the Bay Area, a half-cent sales tax proposal will appear on the November ballot. Passage would mean an infusion of cash for BART, AC Transit, and other mass transit agencies.]]></summary>
-        <author>
-            <name>Jose Fermoso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stephen Miller's Hardline Immigration Tactics Are Backfiring]]></title>
-        <id>https://reason.com/?p=8366537</id>
-        <link href="https://reason.com/2026/01/29/stephen-millers-hardline-immigration-tactics-are-backfiring/"/>
-        <updated>2026-01-29T17:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Miller says he’s waging a war for America. Americans see a brutal war on them.]]></summary>
-        <author>
-            <name>Peter Suderman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinder Hasn’t Worked, So I’m Putting Myself on Zillow]]></title>
-        <id>https://www.mcsweeneys.net/articles/tinder-hasnt-worked-so-im-putting-myself-on-zillow</id>
-        <link href="https://www.mcsweeneys.net/articles/tinder-hasnt-worked-so-im-putting-myself-on-zillow"/>
-        <updated>2026-01-29T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After a decade on dating apps, I’ve decided to enter a different market. This is why I’m listing myself on Zillow until I find a good match—which, to my understanding, will be about forty-eight hours.
- I realize that my late-’80s construction might not land me in the “trending” section right away, but I asked my friend Shelly—who hosts occasional RE/MAX open houses now that she’s accepted that her remaining doTerra stock will never sell—to vouch for me as “having a lot of character.” And let’s be real, even if I did have the personality of a McMansion, in this economy, lots of people would still put on brave smiles and call me “aspirational.”
- Shelly was concerned for me at first: “Aren’t you worried about getting messages with intrusive questions?” But she met her husband at a Mumford & S…]]></summary>
-        <author>
-            <name>Hannah Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex Pretti's Earlier Scuffle With ICE Doesn't Justify His Death 11 Days Later]]></title>
-        <id>https://reason.com/?p=8366557</id>
-        <link href="https://reason.com/2026/01/29/alex-prettis-earlier-scuffle-with-ice-doesnt-justify-his-death-11-days-later/"/>
-        <updated>2026-01-29T17:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Video of that scuffle does show that federal agents can manage to not shoot even violent protestors.]]></summary>
-        <author>
-            <name>Christian Britschgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Settlement May Bring New Privacy Controls for Real-Time Bidding]]></title>
-        <id>111688 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding"/>
-        <updated>2026-01-29T17:11:08.000Z</updated>
-        <summary type="html"><![CDATA[EFF has long warned about the dangers of the “real-time bidding” (RTB) system powering nearly every ad you see online. A proposed class-action settlement with Google over their RTB system is a step in the right direction towards giving people more control over their data. Truly curbing the harms of RTB, however, will require stronger legislative protections.
-What Is Real-Time Bidding?
-RTB is the process by which most websites and apps auction off their ad space. Unfortunately, the milliseconds-long auctions that determine which ads you see also expose your personal information to thousands of companies a day. At a high-level, here’s how RTB works:
-The moment you visit a website or app with ad space, it asks an ad tech company to determine which ads to display for you. This involves sending…]]></summary>
-        <author>
-            <name>Lena Cohen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Group Chats About ICE Whereabouts Are Protected Speech. The FBI Is Investigating Anyway.]]></title>
-        <id>https://reason.com/?p=8366544</id>
-        <link href="https://reason.com/2026/01/29/group-chats-about-ice-whereabouts-are-protected-speech-the-fbi-is-investigating-anyway/"/>
-        <updated>2026-01-29T16:45:05.000Z</updated>
-        <summary type="html"><![CDATA[FBI Director Kash Patel pays lip service to the First and Second Amendments while casting suspicion on people who exercise their First or Second Amendment rights.]]></summary>
-        <author>
-            <name>Elizabeth Nolan Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​@GuitarricadelafuenteOficial reflects on how his music is made to be experienced from the gut.⁠]]></title>
         <id>https://www.youtube.com/shorts/2nLZfk862J4</id>
         <link href="https://www.youtube.com/shorts/2nLZfk862J4"/>
@@ -15847,46 +15782,6 @@ The moment you visit a website or app with ad space, it asks an ad tech company 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Counts As A Mind?]]></title>
-        <id>https://www.noemamag.com/what-counts-as-a-mind</id>
-        <link href="https://www.noemamag.com/what-counts-as-a-mind"/>
-        <updated>2026-01-29T15:20:34.000Z</updated>
-        <summary type="html"><![CDATA[The post What Counts As A Mind? appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Natalie Lawrence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley raises parking meter rates, could charge on evenings and Sundays]]></title>
-        <id>https://www.berkeleyside.org/?p=551057</id>
-        <link href="https://www.berkeleyside.org/2026/01/29/berkeley-parking-meter-rate-extended-hours-sunday"/>
-        <updated>2026-01-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The city says the rate hikes and other potential changes will address a deficit in its parking fund, driven in part by debt taken on to build Berkeley’s Center Street garage.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive AI Chat App Leaked Millions of Users Private Conversations]]></title>
-        <id>697b71eb851c1800010a1031</id>
-        <link href="https://www.404media.co/massive-ai-chat-app-leaked-millions-of-users-private-conversations/"/>
-        <updated>2026-01-29T14:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Chat & Ask AI, which claims 50 million users, exposed private chats about suicide and making meth.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ice, ICE…Maybe?]]></title>
-        <id>https://reason.com/?p=8366521</id>
-        <link href="https://reason.com/2026/01/29/ice-icemaybe/"/>
-        <updated>2026-01-29T14:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Trump accounts, Klobuchar runs for governor, and who wants to buy CNN now?]]></summary>
-        <author>
-            <name>Peter Suderman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[@DestinConrad introduces his alter-ego and explains how he lets intuition guide his music.⁠]]></title>
         <id>https://www.youtube.com/shorts/bQQrvKytX50</id>
         <link href="https://www.youtube.com/shorts/bQQrvKytX50"/>
@@ -15894,30 +15789,6 @@ The moment you visit a website or app with ad space, it asks an ad tech company 
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Heated Rivalry parties, earthquake talk, women composers]]></title>
-        <id>https://www.berkeleyside.org/?p=551007</id>
-        <link href="https://www.berkeleyside.org/2026/01/29/around-berkeley-heated-rivalry-parties-earthquake-talk-women-composers"/>
-        <updated>2026-01-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a film noir screening with discounted pinot noir, a monthly bike workshop and the annual Fungus Fair.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes, I am Wearing a Henley at the Grocery Store]]></title>
-        <id>https://www.mcsweeneys.net/articles/yes-i-am-wearing-a-henley-at-the-grocery-store</id>
-        <link href="https://www.mcsweeneys.net/articles/yes-i-am-wearing-a-henley-at-the-grocery-store"/>
-        <updated>2026-01-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m obviously acting the same as I’ve always acted, and nothing about me has changed.
- I FEEL FINE WEARING A HENLEY, SO THERE IS NO NEED TO LOOK AT ME.
- I’m confident enough to wear it. I just have to feel confident, and I’ll be confident. Does my right shoulder seem lower than my left shoulder, like medically?
- I’m in the vegetable aisle, and everyone can tell I’m taking way too long to make up my mind about what salad stuff to get. All of the terrible things going on in the world today, and all these people can do is undermine me? Wow.
- Oh, fucking WORLD NEWS ALERT, EVERYONE: The guy in the oatmeal Henley is taking way longer than usual to make up his mind! And he looks like the kind of guy who usually just wears a black T-shirt. He looks like he’s been wearing black T-shirts for the las…]]></summary>
-        <author>
-            <name>Dan Kennedy</name>
         </author>
     </entry>
     <entry>
