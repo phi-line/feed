@@ -43,6 +43,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=161363",
+          "author": "Gregory Barber",
+          "description": "Zermelo-Fraenkel set theory is so widely accepted that modern mathematicians hardly think about it. But believing in its core principles didn’t come easily.            \nThe post Why Math’s Final Axiom Proved So Controversial first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/",
+          "publishedOn": "2026-04-29T14:54:31.000Z",
+          "wordCount": 2788,
+          "title": "Why Math’s Final Axiom Proved So Controversial",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/ZFCExplainer-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=161331",
+          "author": "Gregory Barber",
+          "description": "Ultrafinitism, a philosophy that rejects the infinite, has long been dismissed as mathematical heresy. But it is also producing new insights in math and beyond.            \nThe post What Can We Gain by Losing Infinity? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+          "publishedOn": "2026-04-29T14:50:04.000Z",
+          "wordCount": 5592,
+          "title": "What Can We Gain by Losing Infinity?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Anti-Infinity-cr-Kristina-Armitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=161272",
           "author": "Shalma Wegsman",
           "description": "Scientists keep detecting new forms of ice. According to simulations, there could be many more left to find.            \nThe post Physicists Discover the Most Complex Forms of Ice Yet first appeared on Quanta Magazine",
@@ -572,6 +592,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69f235068e59a20001405b11",
+          "author": "Matthew Gault",
+          "description": "RightsCon was delayed by Zambia's Ministry of Information for \"thematic issues\" and problems with speakers.",
+          "link": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+          "publishedOn": "2026-04-29T16:54:33.000Z",
+          "wordCount": 1369,
+          "title": "World’s Largest Digital Human Rights Conference Suddenly 'Postponed'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/Screenshot-2026-04-29-125059-1.png"
+        },
+        {
+          "id": "69f216aa8e59a20001404e7a",
+          "author": "Joseph Cox",
+          "description": "CBP is spending hundreds of millions of dollars on more high-powered surveillance drones, and other components of DHS may start their own fleet of MQ-9 drones as well.",
+          "link": "https://www.404media.co/dhs-plans-to-buy-more-predator-style-drones/",
+          "publishedOn": "2026-04-29T14:35:14.000Z",
+          "wordCount": 1358,
+          "title": "DHS Plans to Buy More Predator-Style Drones",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/17492555561_e5df452138_k.jpg"
+        },
+        {
+          "id": "69f0b0848e59a200013b4494",
+          "author": "Joseph Cox",
+          "description": "The move comes directly in response to 404 Media’s coverage about how the FBI was able to recover incoming Signal messages from an iPhone because the messages were saved in the device’s notification storage.",
+          "link": "https://www.404media.co/apple-fixes-bug-that-let-fbi-extract-deleted-signal-messages-after-404-media-coverage/",
+          "publishedOn": "2026-04-29T13:01:22.000Z",
+          "wordCount": 1601,
+          "title": "Apple Fixes Bug That Let FBI Extract Deleted Signal Messages After 404 Media Coverage",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/appshunter-io-BuPiOZN5DOQ-unsplash-1.jpg"
+        },
+        {
+          "id": "69f0f39a8e59a200013db4bf",
+          "author": "Samantha Cole",
+          "description": "A magic eye that isn't, an AI learning tool that sucks, and more in this week's podcast.",
+          "link": "https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/",
+          "publishedOn": "2026-04-29T12:56:30.000Z",
+          "wordCount": 1110,
+          "title": "Podcast: How This Trippy Image Started A Massive Conspiracy Theory",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/CAN-YOU-SEE-IT--1-.png"
+        },
         {
           "id": "69f0eaeb8e59a200013db2c9",
           "author": "Becky Ferreira",
@@ -3521,6 +3581,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3239/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3239/",
+          "publishedOn": "2026-04-29T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Simple Machines",
+          "imageUrl": "https://imgs.xkcd.com/comics/simple_machines_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3238/",
           "author": null,
           "description": "",
@@ -3889,16 +3959,6 @@
           "wordCount": 189,
           "title": "Groundhog Day Meaning",
           "imageUrl": "https://imgs.xkcd.com/comics/groundhog_day_meaning_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3201/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3201/",
-          "publishedOn": "2026-01-30T05:00:00.000Z",
-          "wordCount": 189,
-          "title": "Proof Without Content",
-          "imageUrl": "https://imgs.xkcd.com/comics/proof_without_content_2x.png"
         }
       ]
     },
@@ -3944,6 +4004,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/when-the-eternity-glaciers-disappear",
+          "author": "Klaus Thymann",
+          "description": "The post When The ‘Eternity Glaciers’ Disappear appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/when-the-eternity-glaciers-disappear",
+          "publishedOn": "2026-04-29T16:39:06.000Z",
+          "wordCount": 5820,
+          "title": "When The ‘Eternity Glaciers’ Disappear",
+          "imageUrl": "https://noemamag.imgix.net/2026/04/2025_Papua_DJI_20251101070731_0507-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c6d61774052339274a47add816db44e8"
+        },
         {
           "id": "https://www.noemamag.com/the-humility-of-bioscientists",
           "author": "Nathan Gardels",
@@ -6965,16 +7035,6 @@
           "wordCount": 7850,
           "title": "Berkeley teen helps fund children’s library for families in Turkey displaced by 2023 earthquake",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/Ayla-and-grandmother.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551151",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Hundreds protest ICE at UC Berkeley, and dangerous conditions in a student housing co-op.",
-          "link": "https://www.berkeleyside.org/2026/01/29/berkeley-wire-warehouse-fire-uc-protest-ice",
-          "publishedOn": "2026-01-30T01:30:00.000Z",
-          "wordCount": 7126,
-          "title": "The Wire: Huge fire destroys West Berkeley warehouse",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/01/large-Natera_230313_016_PacificSteel_001.jpg?fit=1600%2C1200&ssl=1"
         }
       ]
     },
@@ -7329,6 +7389,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=p7YpVl35pac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p7YpVl35pac",
+          "publishedOn": "2026-04-29T14:04:53.000Z",
+          "wordCount": null,
+          "title": "Milo J: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wdeWKd9rjt4",
           "author": null,
@@ -7876,6 +7946,46 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/work-wise/the-career-question-that-too-few-people-ask/",
+          "author": "Danny Kenny",
+          "description": "Three years into a consulting career that looked successful on paper, I was staring out a plane window at nothing in particular, asking, What is this actually for?\nAlabama on Tuesday. Ohio on Thursday. Good firm with good people to work with, meaningful and intellectually stimulating work, satisfied and not-overly-obnoxious clients. By all measures, things were going well. And yet, I was profoundly unsatisfied.\nIt wasn’t the only time I’ve felt that. Whether it was securing a fully funded scholarship for my PhD or landing my dream job, I just could not find sustained satisfaction. The signs pointed back to me and what I was valuing in those situations. I knew what the next step for my career was, but none of it felt meaningful. As a behavioral scientist, I started asking questions and runn…",
+          "link": "https://bigthink.com/work-wise/the-career-question-that-too-few-people-ask/",
+          "publishedOn": "2026-04-29T17:15:49.000Z",
+          "wordCount": 2699,
+          "title": "The career question that too few people ask",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/image.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/protagonist-classic-literature/",
+          "author": "Tim Brinkhof",
+          "description": "Many of world literature’s most unlikable protagonists start unlikeable and end unlikeable. From the very beginning of Oscar Wilde’s The Picture of Dorian Gray, it is clear that the titular Gray is a narcissist who’ll do anything to inflate his already monstrous ego. The same goes for Humbert Humbert from Vladimir Nabokov’s controversial novel Lolita, a pedophile with a silver tongue who conjures up excuses for his inexcusable actions.\nBut these characters form only the tip of the iceberg. A different yet equally interesting species of unlikable protagonist is the protagonist who starts off sympathetic but becomes more and more unsympathetic as the story develops. Though they appear similar, this type of character is not to be confused with other archetypes such as the tragic hero or antih…",
+          "link": "https://bigthink.com/books/protagonist-classic-literature/",
+          "publishedOn": "2026-04-29T16:27:06.000Z",
+          "wordCount": 3259,
+          "title": "4 literary masterpieces that make you despise the protagonist by the end",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/07/hero.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/the-hidden-costs-of-scientists-obsession-with-acronyms/",
+          "author": "Clarissa Brincat",
+          "description": "Europeans and North Americans are WEIRD. No, I’m not trying to start a culture war. I’m just quoting behavioural scientists. A little over a decade ago, they began to realize that most psychological studies did not paint an accurate picture of the global population. More often than not, participants lived in countries that were Western, Educated, Industrialized, Rich, and Democratic. The acronym WEIRD was born.\nWEIRD is not a one-off. Scientific papers are filled with acronyms — some little more than strings of letters, others carefully constructed to form recognizable words, like GANDALF (Gas AND Absorption Line Fitting) and MIAOW (Minimum Inertia Adaptive Optics Widget). Acronyms can save space and occasionally inject humor into otherwise technical writing. But when left undefined, as of…",
+          "link": "https://bigthink.com/science-tech/the-hidden-costs-of-scientists-obsession-with-acronyms/",
+          "publishedOn": "2026-04-29T16:07:36.000Z",
+          "wordCount": 3136,
+          "title": "ABRACADABRA, HEART, and FART: Why are scientists so acronym-obsessed?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/acronym-obsessed_compressed-1.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/the-big-think-interview/live-your-values/",
+          "author": "Mark Manson",
+          "description": "What you actually care about shows up in your calendar and your bank statement, not your intentions. Mark Manson walks through the Stoic practice of Memento Mori, his own “law of avoidance,” explaining why people sabotage good relationships as readily as bad ones, and why generations with the most options are often the most adrift.\nThis video The real reason you’re always thinking about what other people think is featured on Big Think.",
+          "link": "https://bigthink.com/series/the-big-think-interview/live-your-values/",
+          "publishedOn": "2026-04-29T13:00:00.000Z",
+          "wordCount": 2144,
+          "title": "The real reason you’re always thinking about what other people think",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/C1-Web-Mason.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/plus/what-we-should-be-teaching-managers/",
           "author": "Scott J. Allen, Ph.D., Alexis Zahner, Martin Gutmann",
@@ -10045,16 +10155,6 @@
           "wordCount": 5113,
           "title": "Ask Ethan: How much damage could a cosmic ray do to a human?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2021/11/Cosmic_image-e1766077817289.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/series/full-interview/game-theory-steven-pinker/",
-          "author": "Steven Pinker",
-          "description": "What happens when everyone knows the same thing, and knows that everyone else knows it?\nSteven Pinker adventures into the subtle but powerful concept of common knowledge, revealing how it shapes money, power, and everyday life.\nThis video Steven Pinker: The mechanics of trust in money and relationships is featured on Big Think.",
-          "link": "https://bigthink.com/series/full-interview/game-theory-steven-pinker/",
-          "publishedOn": "2026-01-30T05:00:00.000Z",
-          "wordCount": 11320,
-          "title": "Steven Pinker: The mechanics of trust in money and relationships",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/A1-Web-Pinker.jpg?resize=1200,630"
         }
       ]
     },
@@ -10487,6 +10587,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-know-vorgarg-the-kazoo-playing-robot-tried-to-kill-us-all-but-thats-not-going-to-stop-me-from-going-to-his-concert",
+          "author": "Leslie Gaar",
+          "description": "“After canceled gigs in the U.K., France, Switzerland, and Poland, Kanye West’s upcoming concert in Italy is sparking an uproar due to the rapper’s antisemitic remarks.” — Variety\n - - -\nLike everyone else who enjoys robot kazoo music, I was shocked to learn the truth about my favorite artist, Vorgarg. I had always assumed he was a fun-loving robot who knew his way around a kazoo, not a ruthless killing machine hell-bent on the destruction of humankind. I read his manifesto vowing to extinguish all human life, and I’ll be honest, it was disturbing. It is hard to reconcile the image of one of the top-ten kazoo-playing robots of all time with one who could write such vile things.\n But when Vorgarg announced his upcoming tour, I knew I had to go.\n Look, did Vorgarg decimate entire cities, lea…",
+          "link": "https://www.mcsweeneys.net/articles/i-know-vorgarg-the-kazoo-playing-robot-tried-to-kill-us-all-but-thats-not-going-to-stop-me-from-going-to-his-concert",
+          "publishedOn": "2026-04-29T16:52:00.000Z",
+          "wordCount": 2697,
+          "title": "I Know Vorgarg the Kazoo-Playing Robot Tried to Kill Us All, but That’s Not Going to Stop Me from Going to His Concert",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3fp63wf2dxpu8rik91b2r1b0m7vy"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/this-divorce",
           "author": "Valerie Nies",
