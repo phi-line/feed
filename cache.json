@@ -7904,6 +7904,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/starts-with-a-bang/how-galaxies-move-fast/",
+          "author": "Ethan Siegel",
+          "description": "When it comes to the distant galaxies in the Universe, one of the most profound discoveries in all of history is also one of the most puzzling: the fact that they’re almost all mutually receding from one another. It was only in 1923 that we firmly established that extragalactic objects — objects beyond our own Milky Way — even existed, with Hubble’s detailed measurements of Andromeda placing its distance far beyond the Milky Way itself. Just a few years later, from 1927-1929, enough evidence had accumulated for scientists to establish the redshift-distance relation, also known as Hubble’s Law: where a distant galaxy’s observed recession speed is proportional to its distance from us.\nIf you think about that in detail, however, something puzzling emerges. If you look to great enough distance…",
+          "link": "https://bigthink.com/starts-with-a-bang/how-galaxies-move-fast/",
+          "publishedOn": "2026-05-01T06:00:00.000Z",
+          "wordCount": 5466,
+          "title": "Ask Ethan: How can ultra-distant galaxies move so fast?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/05/squarecover.jpg?resize=1185,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/music-human-body/",
+          "author": "Michael Spitzer",
+          "description": "Music is at least a million years older than language, yet we still see it solely through the lens of entertainment. Professor Michael Spitzer argues it’s something closer to a biological system, one that was shaping the human body long before we had words for what we were feeling.\nWhy does a chord you’ve never heard before make you want to cry? Why do babies respond to rhythm before they’ve heard a single song? Why does the same part of your brain that processes mortal danger also process musical beauty? The answers reach back 4 million years, and forward into a future where music may be prescribed like medicine.\nThis video How music rewires the human body, in 59 minutes is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/music-human-body/",
+          "publishedOn": "2026-05-01T04:00:00.000Z",
+          "wordCount": 17515,
+          "title": "How music rewires the human body, in 59 minutes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-11.55.24-AM.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/perception-box/the-most-transformative-brain-activity/",
           "author": "Wendy Suzuki, Gary Small, Sam Wang",
           "description": "Neuroscientists Wendy Suzuki, PhD, Samuel Wang, PhD, and Gary Small, MD explain how movement increases blood flow, boosts growth factors like BDNF, and floods the brain with mood-lifting neurochemicals. The brain and body are in constant conversation, and plasticity means your wiring is never fixed. According to Suzuki, even ten minutes of walking can shift your brain’s chemistry immediately, flooding it in a ‘bubble bath’ of positive neurochemicals.\nWe created this video for Brain Briefs, a Big Think interview series created in partnership with Unlikely Collaborators. As a creative non-profit organization, they’re on a mission to help people challenge their perceptions and expand their thinking. Often, that growth can start with just a single unlikely question that makes you rethink your convictions and adjust your vantage point. Visit Perception Box to see more in this series.\nThis video The most transformative thing you can do for your brain isn’t mental is featured on Big Think.",
@@ -12298,6 +12318,22 @@
             "length": "1396283"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
+        },
+        {
+          "id": "111971 at https://www.eff.org",
+          "author": "Mario Trujillo",
+          "description": "The First Amendment protects the public's right to document and share information about law enforcement performing their duties in public. It also protects developers who curate that information online. These rights are more important now than ever.\nICEBlock is a popular iPhone app that allows the public to report immigration activity in their communities. In June 2025, high-ranking federal officials began threatening to investigate and prosecute the person who created ICEBlock, Joshua Aaron. In October 2025, the U.S. Attorney General demanded Apple remove ICEBlock from the App Store, and the company complied. The government's prosecution threats against Aaron and coercion of Apple violate the Constitution. \nAaron and his company, ALL U CHART, INC., have sued these federal officials under the First Amendment for retaliating against him and for coercing Apple into suppressing the speech of more than a million ICEBlock users. The lawsuit names the U.S. Attorney General, the Secretary of the Department of Homeland Security (DHS), the director of Immigration and Customs Enforcement (ICE), and the White House Border Czar. The lawsuit was filed in the U.S. District Court of the District of Columbia.\nAlong with the law firm Sher Tremonte, EFF is helping represent Aaron and his company in their First Amendment lawsuit.",
+          "link": "https://www.eff.org/cases/aaron-v-bondi",
+          "publishedOn": "2026-04-30T07:00:00.000Z",
+          "wordCount": 791,
+          "title": "Aaron v. Bondi",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/iceblock-banner.jpg",
+            "alt": "hands hold a phone with IceBlock screen",
+            "type": "image/jpeg",
+            "length": "305877"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/iceblock-banner.jpg"
         },
         {
           "id": "112018 at https://www.eff.org",

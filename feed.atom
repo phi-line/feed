@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-01T00:43:31.967Z</updated>
+    <updated>2026-05-01T06:57:33.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask Ethan: How can ultra-distant galaxies move so fast?]]></title>
+        <id>https://bigthink.com/starts-with-a-bang/how-galaxies-move-fast/</id>
+        <link href="https://bigthink.com/starts-with-a-bang/how-galaxies-move-fast/"/>
+        <updated>2026-05-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the distant galaxies in the Universe, one of the most profound discoveries in all of history is also one of the most puzzling: the fact that they’re almost all mutually receding from one another. It was only in 1923 that we firmly established that extragalactic objects — objects beyond our own Milky Way — even existed, with Hubble’s detailed measurements of Andromeda placing its distance far beyond the Milky Way itself. Just a few years later, from 1927-1929, enough evidence had accumulated for scientists to establish the redshift-distance relation, also known as Hubble’s Law: where a distant galaxy’s observed recession speed is proportional to its distance from us.
+If you think about that in detail, however, something puzzling emerges. If you look to great enough distance…]]></summary>
+        <author>
+            <name>Ethan Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How music rewires the human body, in 59 minutes]]></title>
+        <id>https://bigthink.com/series/full-interview/music-human-body/</id>
+        <link href="https://bigthink.com/series/full-interview/music-human-body/"/>
+        <updated>2026-05-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Music is at least a million years older than language, yet we still see it solely through the lens of entertainment. Professor Michael Spitzer argues it’s something closer to a biological system, one that was shaping the human body long before we had words for what we were feeling.
+Why does a chord you’ve never heard before make you want to cry? Why do babies respond to rhythm before they’ve heard a single song? Why does the same part of your brain that processes mortal danger also process musical beauty? The answers reach back 4 million years, and forward into a future where music may be prescribed like medicine.
+This video How music rewires the human body, in 59 minutes is featured on Big Think.]]></summary>
+        <author>
+            <name>Michael Spitzer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Owners of big empty buildings by Aquatic Park hope AI industry will be their savior]]></title>
         <id>https://www.berkeleyside.org/?p=556251</id>
@@ -198,6 +221,19 @@ Back in 2011, the term “digital rights” was still fairly new. While in the d
 In 2011, we observed that there were only a few organizations…]]></summary>
         <author>
             <name>Jillian C. York</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron v. Bondi]]></title>
+        <id>111971 at https://www.eff.org</id>
+        <link href="https://www.eff.org/cases/aaron-v-bondi"/>
+        <updated>2026-04-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The First Amendment protects the public's right to document and share information about law enforcement performing their duties in public. It also protects developers who curate that information online. These rights are more important now than ever.
+ICEBlock is a popular iPhone app that allows the public to report immigration activity in their communities. In June 2025, high-ranking federal officials began threatening to investigate and prosecute the person who created ICEBlock, Joshua Aaron. In October 2025, the U.S. Attorney General demanded Apple remove ICEBlock from the App Store, and the company complied. The government's prosecution threats against Aaron and coercion of Apple violate the Constitution. 
+Aaron and his company, ALL U CHART, INC., have sued these federal officials under the First Amendment for retaliating against him and for coercing Apple into suppressing the speech of more than a million ICEBlock users. The lawsuit names the U.S. Attorney General, the Secretary of the Department of Homeland Security (DHS), the director of Immigration and Customs Enforcement (ICE), and the White House Border Czar. The lawsuit was filed in the U.S. District Court of the District of Columbia.
+Along with the law firm Sher Tremonte, EFF is helping represent Aaron and his company in their First Amendment lawsuit.]]></summary>
+        <author>
+            <name>Mario Trujillo</name>
         </author>
     </entry>
     <entry>
