@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-02T00:39:44.880Z</updated>
+    <updated>2026-05-02T06:41:57.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s recipe for spring rice with feta, harissa and pine nut sauce | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha"/>
+        <updated>2026-05-02T05:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Basmati rice tossed with sweet onions and chickpeas, then mixed with green herbs and salty feta, and dotted with a spicy, lemony, pine nut sauce
+Spring has a split personality. The idea of it is nice: frolicking through carpets of bluebells while wearing pastel-coloured trousers, etcetera. But the reality is that it’s often dicey and unreliable: hot one minute, cold and/or tipping down with rain the next. This is a recipe that has a foot in both sides of spring. There’s the warm comfort of basmati rice woven through with sweet onions, harissa and chickpeas, as well as the light frivolity of green herbs and the salty freshness of feta. All the flavour and freshness of spring with none of the unpredictability.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photos: Hundreds attend Berkeley May Day rallies]]></title>
         <id>https://www.berkeleyside.org/?p=556308</id>
@@ -15963,16 +15975,6 @@ This tiny fraction of the JADES survey a…]]></summary>
         <summary type="html"><![CDATA[Waymos and Cybercabs see the world through very different sensors. Which technology wins out will determine the future of self-driving vehicles.]]></summary>
         <author>
             <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What It's Like To Be A Worm]]></title>
-        <id>https://www.asimov.press/p/sentience</id>
-        <link href="https://www.asimov.press/p/sentience"/>
-        <updated>2026-02-01T17:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Finding evidence of “sentience” is fraught, whether in a comatose patient, an animal, or a neural net.]]></summary>
-        <author>
-            <name>Asimov Press</name>
         </author>
     </entry>
     <entry>

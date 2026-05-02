@@ -3456,22 +3456,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9d7d2c40-628b-4d31-b631-7bda7146ce39_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/sentience",
-          "author": "Asimov Press",
-          "description": "Finding evidence of “sentience” is fraught, whether in a comatose patient, an animal, or a neural net.",
-          "link": "https://www.asimov.press/p/sentience",
-          "publishedOn": "2026-02-01T17:02:34.000Z",
-          "wordCount": null,
-          "title": "What It's Like To Be A Worm",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!YZw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5249b54-e607-4f80-8cad-9d17aa411a4b_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!YZw7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5249b54-e607-4f80-8cad-9d17aa411a4b_2000x1260.jpeg"
         }
       ]
     },
@@ -7237,6 +7221,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Basmati rice tossed with sweet onions and chickpeas, then mixed with green herbs and salty feta, and dotted with a spicy, lemony, pine nut sauce\nSpring has a split personality. The idea of it is nice: frolicking through carpets of bluebells while wearing pastel-coloured trousers, etcetera. But the reality is that it’s often dicey and unreliable: hot one minute, cold and/or tipping down with rain the next. This is a recipe that has a foot in both sides of spring. There’s the warm comfort of basmati rice woven through with sweet onions, harissa and chickpeas, as well as the light frivolity of green herbs and the salty freshness of feta. All the flavour and freshness of spring with none of the unpredictability.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha",
+          "publishedOn": "2026-05-02T05:00:18.000Z",
+          "wordCount": 4637,
+          "title": "Meera Sodha’s recipe for spring rice with feta, harissa and pine nut sauce | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/fb3c18a1c1f76f53c004c457254b890b5c095e7d/0_0_3618_2892/master/3618.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=422f7f9b74542121d3a936738d99549d"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/apr/25/leek-potato-and-coconut-curry-vegan-recipe-meera-sodha",
           "author": "Meera Sodha",
