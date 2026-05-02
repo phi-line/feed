@@ -583,6 +583,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69f509088e59a20001461f79",
+          "author": "Becky Ferreira",
+          "description": "Scientists analyzed thousands of self-reported dreams and discovered that our sleeping visions are influenced by personality traits and external events, such as the pandemic.",
+          "link": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
+          "publishedOn": "2026-05-02T13:00:40.000Z",
+          "wordCount": 2215,
+          "title": "This Personality Trait Makes Dreams More Bizarre, Scientists Discover",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image3.jpg"
+        },
+        {
           "id": "69f4f12c8e59a20001460f83",
           "author": "Matthew Gault",
           "description": "RightCon's organizers said Beijing was upset over over the inclusion of speakers from Taiwain.",
@@ -3880,16 +3890,6 @@
           "wordCount": 187,
           "title": "Binary Star",
           "imageUrl": "https://imgs.xkcd.com/comics/binary_star_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3202/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3202/",
-          "publishedOn": "2026-02-02T05:00:00.000Z",
-          "wordCount": 189,
-          "title": "Groundhog Day Meaning",
-          "imageUrl": "https://imgs.xkcd.com/comics/groundhog_day_meaning_2x.png"
         }
       ]
     },
