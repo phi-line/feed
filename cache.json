@@ -593,6 +593,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69f4f12c8e59a20001460f83",
+          "author": "Matthew Gault",
+          "description": "RightCon's organizers said Beijing was upset over over the inclusion of speakers from Taiwain.",
+          "link": "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
+          "publishedOn": "2026-05-01T18:32:53.000Z",
+          "wordCount": 1418,
+          "title": "China Pressure Canceled World’s Largest Digital Human Rights Conference",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/Screenshot-2026-04-29-125059-1.png"
+        },
+        {
           "id": "69f4cb3e8e59a20001432eb6",
           "author": "Samantha Cole",
           "description": "This week, we discuss a wild message, a new anthology, and a visit to a museum.",
@@ -3518,6 +3528,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3240/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3240/",
+          "publishedOn": "2026-05-01T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Bottle",
+          "imageUrl": "https://imgs.xkcd.com/comics/bottle_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3239/",
           "author": null,
           "description": "",
@@ -4288,6 +4308,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556308",
+          "author": "Nico Savidge",
+          "description": "While labor leaders and public officials rallied at Civic Center Park, high school students marched to a demonstration at UC Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/05/01/berkeley-may-day-protest-photos",
+          "publishedOn": "2026-05-01T22:59:37.000Z",
+          "wordCount": 6733,
+          "title": "Photos: Hundreds attend Berkeley May Day rallies",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/May-Day-rallies-Berkeley.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556285",
+          "author": "Madeline Taub",
+          "description": "The coffee company’s first East Bay location, and first new cafe in six years, now has an opening date.",
+          "link": "https://www.berkeleyside.org/2026/05/01/sightglass-coffee-downtown-berkeley",
+          "publishedOn": "2026-05-01T20:16:57.000Z",
+          "wordCount": 8548,
+          "title": "Exclusive first look at Berkeley’s new Sightglass cafe",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-Sightglass-Coffee-11.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556274",
           "author": "Momo Chang",
