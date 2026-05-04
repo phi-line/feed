@@ -6897,26 +6897,6 @@
           "wordCount": 7977,
           "title": "Remembering Martha Hudson, whose literary salon inspired UC Berkeley’s women’s studies program",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Brown.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551399",
-          "author": "Nico Savidge",
-          "description": "While official Super Bowl events are happening elsewhere, Berkeley is getting some of the shine from the Bay Area’s turn hosting the game.",
-          "link": "https://www.berkeleyside.org/2026/02/03/celebrity-flag-football-berkeley-super-bowl",
-          "publishedOn": "2026-02-03T22:50:31.000Z",
-          "wordCount": 7688,
-          "title": "Star-studded flag football game will be Berkeley’s taste of Super Bowl glitz",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AP26031819562971.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551376",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/02/03/anahuac-saints-smokehouse-lulus-tease-openings",
-          "publishedOn": "2026-02-03T20:00:00.000Z",
-          "wordCount": 7434,
-          "title": "On Solano, Lulu’s revamps and a new Mexican restaurant opens; plus a fresh matcha option in Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/LulusLittleKitchen.jpg"
         }
       ]
     },
@@ -10410,6 +10390,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system",
+          "author": "Jack Loftus",
+          "description": "\"We spoke with voters who cast their ballots for Mr. Trump and said they were disappointed with his second term. A few said they even regretted their votes. \n — New York Times\n - - -\nMODERATOR: In one or two words, finish this sentence: “I’m feeling ‘blank’ about the Empire these days, now that the galactic superweapon I willingly supported hovers overhead.”\n TALLIS, 44: Concerned.\n MIRA, 29: Confused yet hopeful.\n BRENN: Annoyed.\n KELAN, 38: Surprised.\n OOLA, 61: Worried.\n DARO, 24: Betrayed.\n LYSA, 47: Frustrated.\n JOREN, 63: Apathetic.\n CEN, 35: Discouraged.\n PAVA, 19: Anxious.\n RINN, 56: Disappointed.\n HASK, 41: Steady.\n MODERATOR: Mira, you said, “confused yet hopeful.” Tell me more.\n MIRA: I think a lot has happened very quickly. There were promises about stability, about restoring o…",
+          "link": "https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system",
+          "publishedOn": "2026-05-04T12:00:00.000Z",
+          "wordCount": 3008,
+          "title": "“They Would Never Use the Death Star on Us”: Alderaan Residents Reflect on Their Support for the Empire as a Large Imperial Installation Enters the System",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6i2dl79m3tc5ovl8vmqk6i4cof0q"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/book-of-revelations-chapter-6-revised-2026",
           "author": "Jason Gremillion",
           "description": "And when the trumpets sounded, behold, the lamb opened the first four seals, letting forth four horsemen upon the world of man. The first horse, signifying War, was adorned with golden, ill-fitting hair. He was recognized immediately as the great protector of Macaulay Culkin in Home Alone 2 and as a ’90s rap euphemism for wealth.\n “You’re fired!” proclaimed the first horse. “Remember me? That was kind of my catchphrase in the early aughts.” He then remarked on the beauty of his daughters, thus bumming the vibe for all who heard.\n And a second horse then approached, signifying Famine. The horse spoke thusly, with a gravelly voice, similar to his father’s, but lacking in charisma and clarity, “We’re going to end the war on red meat and bring back measles,” he said, clothed in the finest jean…",
@@ -12096,6 +12086,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112020 at https://www.eff.org",
+          "author": "Christoph Schmon",
+          "description": "Digital Fairness in the EU\nThe next few years will be decisive for EU digital policymaking. With major laws like the Digital Services Act, the Digital Markets Act, and the AI Act now in place, the EU is entering an enforcement era that will show whether these rules are rights-respecting or drift toward overreach and corporate control. With the proposed EU’s Digital Fairness Act (DFA), the Commission is now turning to increasingly visible risks for users, such as dark patterns and exploitative personalization. Its “Digital Fairness Fitness Check” makes clear that existing consumer rules need updating to reflect how digital markets operate today. \nBut not all proposed solutions point in the right direction. Regulators are already flirting with measures that rely on expanded surveillance, suc…",
+          "link": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
+          "publishedOn": "2026-05-04T15:33:51.000Z",
+          "wordCount": 2166,
+          "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/dsa-principle-4.png",
+            "alt": "European Union flag with icon of person with a heart in center",
+            "type": "image/png",
+            "length": "56017"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/dsa-principle-4.png"
+        },
         {
           "id": "112021 at https://www.eff.org",
           "author": "Thorin Klosowski",
