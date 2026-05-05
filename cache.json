@@ -4193,6 +4193,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://oaklandside.org/?p=473355",
+          "author": "Eli Wolfe",
+          "description": "Pamela Price is trying to stage a comeback after being recalled in 2024. Prosecutors are financially backing her rival.",
+          "link": "https://www.berkeleyside.org/2026/05/04/ursula-jones-dickson-pamela-price-fundraising-district-attorney-election",
+          "publishedOn": "2026-05-04T22:56:28.000Z",
+          "wordCount": 7730,
+          "title": "Jones Dickson has raised far more money in Alameda County District Attorney race than Price and Krishan",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-Alameda-County-DA-Candidate-Forum-14.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=556358",
           "author": "Nathan Dalton",
           "description": "Gene Agress, co-founder of the nearly 40-year-old furniture shop, was recovering from heart surgery as Berkeley Mills collapsed. Then a longtime client made a big investment, and now he’s back in charge.",
@@ -10046,16 +10056,6 @@
           "wordCount": 1274,
           "title": "What happens when we admit we don’t know?",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Kelly-Corrigan-QA-Thumbnail.gif?w=700&h=394&crop=1"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/jwst-deepest-deep-field-image/",
-          "author": "Ethan Siegel",
-          "description": "Each time we’ve looked at the Universe in a fundamentally new way, we didn’t just see more of what we already knew was out there. In addition, those novel capabilities allowed the Universe to surprise us, breaking records, revolutionizing our view of what was out there, and teaching us information that we never could have learned without collecting that key data. It’s happened many times before, including:\nwith the invention of the telescope,\nwith the development of astrophotography (astronomical photography),\nwith the birth of multiwavelength astronomy,\nwith the advent of space telescopes,\nwith the technique of deep-field imaging, \nand with the improvements of larger-aperture, longer-wavelength observatories.\nWe gained, in each instance, a better appreciation for what the Universe was mad…",
-          "link": "https://bigthink.com/starts-with-a-bang/jwst-deepest-deep-field-image/",
-          "publishedOn": "2026-02-04T07:00:00.000Z",
-          "wordCount": 5167,
-          "title": "Yes, JWST should take the deepest deep-field image ever",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2025/07/cover_a37a1c.jpg?resize=1200,630"
         }
       ]
     },
@@ -12165,6 +12165,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112038 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "Last September, the United Kingdom’s Prime Minister Keir Starmer announced plans to introduce a new digital ID scheme in the country. The scheme aims to make it easier for people to prove their identities by creating a virtual ID on personal devices with information like names, date of birth, nationality or residency status, and a photo to verify their right to live and work in the country. \nSince then, EFF has joined UK-based civil society organizations in urging the government to reconsider this proposal. In one joint letter from December, ahead of Parliament’s debate around a petition signed by 2.9 million people calling for an end to the government’s plans to roll out a national digital ID, EFF and 12 other civil society organizations wrote to politicians in the country urging MPs to r…",
+          "link": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
+          "publishedOn": "2026-05-04T18:35:53.000Z",
+          "wordCount": 1575,
+          "title": "EFF Submission to UK Consultation on Digital ID",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "23559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png"
+        },
         {
           "id": "112020 at https://www.eff.org",
           "author": "Christoph Schmon",
