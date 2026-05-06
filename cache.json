@@ -466,6 +466,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/rust-in-numbers",
+          "author": null,
+          "description": "Why do manure spreaders have life cycles?",
+          "link": "https://asteriskmag.com/issues/14/rust-in-numbers",
+          "publishedOn": "2026-05-06T00:00:00.000Z",
+          "wordCount": 5101,
+          "title": "Rust in Numbers",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/rust-in-numbers/37be968d18-1777850636/dan-bouk-rust-in-numbers-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
           "author": null,
           "description": "We all know they’re casinos. It’s time to look at the data behind the froth.",
@@ -2471,16 +2481,6 @@
           "wordCount": 1200,
           "title": "Inspector General Investigating Whether ICE's Surveillance Tech Breaks the Law",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-06-at-08.07.15@2x.png"
-        },
-        {
-          "id": "69850d0bd227740001f14364",
-          "author": "Samantha Cole",
-          "description": "While Epstein’s victims endure the fallout of their photos and names being exposed in the Department of Justice’s latest tranche of files, investigators redacted a photo of the Mona Lisa. Now we know why.",
-          "link": "https://www.404media.co/the-doj-redacted-a-photo-of-the-mona-lisa-in-the-epstein-files/",
-          "publishedOn": "2026-02-05T21:40:42.000Z",
-          "wordCount": 1330,
-          "title": "The DOJ Redacted a Photo of the Mona Lisa in the Epstein Files",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/monalisaepstein.png"
         }
       ]
     },
@@ -2489,6 +2489,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8380588",
+          "author": "J.D. Tuccille",
+          "description": "U.S. citizens are being monitored and punished with technology meant to battle illegal immigration.",
+          "link": "https://reason.com/2026/05/06/surveillance-tools-intended-for-border-control-are-being-used-against-americans/",
+          "publishedOn": "2026-05-06T11:00:36.000Z",
+          "wordCount": null,
+          "title": "Surveillance Tools Intended for Border Control Are Being Used Against Americans",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8379364",
           "author": "Autumn Billings",
@@ -2947,28 +2958,6 @@
           "publishedOn": "2026-02-06T14:35:24.000Z",
           "wordCount": null,
           "title": "ICE Funding Freeze",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8367412",
-          "author": "Jacob Sullum",
-          "description": "The federal case against the former CNN anchor hinges on conduct that can plausibly be viewed as part of a journalist's work, combined with the obvious partiality of that work.",
-          "link": "https://reason.com/2026/02/05/don-lemon-may-be-a-hack-but-that-does-not-make-him-a-felon/",
-          "publishedOn": "2026-02-05T22:15:41.000Z",
-          "wordCount": null,
-          "title": "Don Lemon May Be a Hack, but That Does Not Make Him a Felon",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8367458",
-          "author": "Autumn Billings",
-          "description": "Cooperation may get more ICE agents off the street, but it could make it harder for the state to enforce its laws.",
-          "link": "https://reason.com/2026/02/05/trumps-border-czar-tom-homan-demands-local-minnesota-jails-cooperate-with-ice/",
-          "publishedOn": "2026-02-05T21:48:04.000Z",
-          "wordCount": null,
-          "title": "Trump's Border Czar Tom Homan Demands Local Minnesota Jails Cooperate with ICE",
           "itunes": {},
           "imageUrl": null
         }
@@ -4120,6 +4109,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556459",
+          "author": "Azul Dahlstrom-Eckman",
+          "description": "Car ownership, essential to many, has gotten more expensive in recent years, and the rising costs have strained many Bay Area drivers who are already stretched thin.",
+          "link": "https://www.berkeleyside.org/2026/05/06/driving-in-the-bay-area-is-only-getting-more-expensive",
+          "publishedOn": "2026-05-06T11:34:00.000Z",
+          "wordCount": 8735,
+          "title": "Driving in the Bay Area is only getting more expensive",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/image.png?fit=2000%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556450",
           "author": "Alex N. Gecan",
@@ -6834,16 +6833,6 @@
           "wordCount": 7383,
           "title": "UC Berkeley will reopen multicultural center that it abruptly closed last year",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Screenshot-2026-02-05-at-4.00.09-PM.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551501",
-          "author": "Alix Wall",
-          "description": "Madeline Schapiro, known online as Bean Supporter, says beans have solved her health issues. Her over 70,000 social media followers eat up all the bean propaganda she can dish out.",
-          "link": "https://www.berkeleyside.org/2026/02/05/bean-supporter-madeline-schapiro",
-          "publishedOn": "2026-02-05T20:00:00.000Z",
-          "wordCount": 9065,
-          "title": "Can it with the flatulence jokes! Berkeley’s No. 1 bean fan spreads legume gospel on happy stomach",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-Bean-Supporter-07.jpg"
         }
       ]
     },
@@ -7183,6 +7172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1XQtMnPz1AQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1XQtMnPz1AQ",
+          "publishedOn": "2026-05-06T09:00:04.000Z",
+          "wordCount": null,
+          "title": "Ragtime: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p7YpVl35pac",
           "author": null,
@@ -9919,16 +9918,6 @@
           "wordCount": 18916,
           "title": "Why the search for alien life is about patience, not belief",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/Screenshot-2026-02-05-at-2.10.05-PM.png?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/mini-philosophy/which-of-the-5-philosophical-archetypes-best-describes-you/",
-          "author": "Jonny Thomson",
-          "description": "We are all philosophers. I don’t mean this in the “What do you make of Quine’s ‘Two Dogmas’?” sense. No, we are all philosophers in that we all do philosophy.\nPhilosophy is a practice of wonder and logic; curiosity and introspection; dialectic and meditation; criticism and advocacy. We all do some of these things, some of the time. We all philosophize, but we do so in different ways.\nSo, without any empirical rigor whatsoever — another favorite characteristic of philosophy — I present here five different ways to be a philosopher. Of course, this isn’t definitive. Of course, this isn’t universal. It’s just an inductive hypothesis based on my reading of thousands of philosophical texts. It’s a playful heuristic to question our own questioning — an “aide-philosophie.”\nWhich philosophical arch…",
-          "link": "https://bigthink.com/mini-philosophy/which-of-the-5-philosophical-archetypes-best-describes-you/",
-          "publishedOn": "2026-02-05T21:36:35.000Z",
-          "wordCount": 2801,
-          "title": "Which of the 5 philosophical archetypes best describes you?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/5-philosophical-types_compressed.jpg?resize=1200,630"
         }
       ]
     },
@@ -10351,6 +10340,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/lines-ranked",
+          "author": "Luca Clark and Luke Herzog",
+          "description": "1. Conga. It literally cannot get better than this.\n 2. Assembly. It’s not glamorous, but hot damn is it effective.\n 3. Waist. Awooooga!\n 4. Jaw. Hubba Hubba!\n 5. Hair. Yowie!\n 6. Blood. Define your legacy.\n 7. On. How you’re reading this, probably.\n 8. Shore. She sells seashells here.\n 9. Under. A little bench for your letters.\n 10. Time. 2026: read this list, 2030: millionaire.\n 11. Life. I like “phone a friend.”\n 12. Bottom. Understand, bub?\n 13. Bread. What your grandma thinks Zohran wants.\n 14. Zip. Is my harness secure? Is my harness secure? Is my harness secure? Is my harness secure? Is my harness secure? Is my harness—OOOOWOOOOOOOHOOOOOO!\n 15. Border. I’m a little on the fence about this one.\n 16. Bee. Get there quick.\n 17. Pipe. Cool when Mario, not cool when school-to-prison.\n 18…",
+          "link": "https://www.mcsweeneys.net/articles/lines-ranked",
+          "publishedOn": "2026-05-06T12:00:00.000Z",
+          "wordCount": 2370,
+          "title": "Lines, Ranked",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mvo7ikut6w2sxbgvrnulz0bj8swp"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/you-can-complete-our-online-degree-program-in-the-time-it-would-take-you-to-read-this-article",
           "author": "Talia Argondezzi",
@@ -14413,22 +14412,6 @@
             "length": "421523"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
-        },
-        {
-          "id": "111707 at https://www.eff.org",
-          "author": "Adam Schwartz",
-          "description": "Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) have descended into utter lawlessness, most recently in Minnesota. The violence is shocking. So are the intrusions on digital rights and civil liberties. For example, immigration agents are routinely scanning faces of people they suspect of unlawful presence in the country – 100,000 times, according to the Wall Street Journal. The technology has already misidentified at least one person, according to 404 Media.\nFace recognition technology is so dangerous that government should not use it at all—least of all these out-of-control immigration agencies.\nTo combat these abuses, EFF is proud to support the “ICE Out of My Face Act.” This new federal bill would ban ICE and CBP agents, and some local police working wi…",
-          "link": "https://www.eff.org/deeplinks/2026/02/yes-ice-out-my-face-act",
-          "publishedOn": "2026-02-05T22:46:36.000Z",
-          "wordCount": 904,
-          "title": "Yes to the “ICE Out of My Face Act”",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/whyfacebanner.png",
-            "alt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
-            "type": "image/png",
-            "length": "864443"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png"
         }
       ]
     }
