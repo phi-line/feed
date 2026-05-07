@@ -4140,6 +4140,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=556542",
+          "author": "Alex N. Gecan",
+          "description": "On the eve of a City Council vote to expand the police department’s tech arsenal to include drones, cameras and new software, oversight officials have also said BPD ignored competitive bidding rules.",
+          "link": "https://www.berkeleyside.org/2026/05/06/berkeley-flock-surveillance-contract-memo-confidential",
+          "publishedOn": "2026-05-07T00:12:30.000Z",
+          "wordCount": 8402,
+          "title": "Berkeley’s Flock surveillance expansion has ‘legal risks’: Leaked memo",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/flockcamera_030426_AP.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=553304",
+          "author": "Nico Savidge",
+          "description": "Berkeley commissions will weigh in on the hotly debated proposal to raise height limits along portions of College, Solano and northern Shattuck avenues.",
+          "link": "https://www.berkeleyside.org/2026/05/06/berkeley-corridors-zoning-update-planning-commission-solano-college-shattuck-elmwood",
+          "publishedOn": "2026-05-06T22:49:07.000Z",
+          "wordCount": 8871,
+          "title": "Key meetings set this week for plan to rezone wealthy Berkeley neighborhoods for more housing",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-CA-Reopening-Berkeley.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556484",
+          "author": "Josh Cayetano and Leah Wilson",
+          "description": "The chair and vice chair of Berkeley's civilian police oversight board explain why they oppose expanding the city's Flock Safety network ahead of a Thursday vote.",
+          "link": "https://www.berkeleyside.org/2026/05/06/opinion-berkeley-does-not-need-flock-surveillance-tech-to-stay-safe",
+          "publishedOn": "2026-05-06T22:25:27.000Z",
+          "wordCount": 7634,
+          "title": "Opinion: Berkeley does not need Flock surveillance tech to stay safe",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556439",
+          "author": "Momo Chang",
+          "description": "Berkeley welcomed a variety of new food businesses in April.",
+          "link": "https://www.berkeleyside.org/2026/05/06/starline-sable-lounge-lodge-sanaa-shake-shack-open",
+          "publishedOn": "2026-05-06T19:00:00.000Z",
+          "wordCount": 7483,
+          "title": "Milk Cloud launches pre-orders, Cheese Board wraps renovation, SoDo hits Hammering, and more openings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/milkcloudbakery.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=556459",
           "author": "Azul Dahlstrom-Eckman",
           "description": "Car ownership, essential to many, has gotten more expensive in recent years, and the rising costs have strained many Bay Area drivers who are already stretched thin.",
@@ -9918,16 +9958,6 @@
           "wordCount": 2820,
           "title": "The profound life lesson at the heart of chaos theory",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/Chaos_Theory.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/longest-lived-star-shine/",
-          "author": "Ethan Siegel",
-          "description": "If there’s one thing we can be certain of when we look out at the glittering canopy of the night sky, it’s this: that someday, all of those luminous points of light, including every star and every galaxy, will someday fade away and cease to shine. The stars and stellar remnants, the primary sources of light and heat and energy that propagate throughout the Universe, are only powered by finite sources of fuel: whether through nuclear fusion, gravitation, or any other mechanism. At some point, those fuel sources will be exhausted, no further energy will be naturally extracted from what remains within them, and those once-brilliant objects will fade away into darkness. Some stars live only briefly, others will continue to shine long into the future, with lifetimes far exceeding our Universe’s…",
-          "link": "https://bigthink.com/starts-with-a-bang/longest-lived-star-shine/",
-          "publishedOn": "2026-02-06T07:00:00.000Z",
-          "wordCount": 5023,
-          "title": "Ask Ethan: How long can the longest-lived star shine?",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2023/10/browndwarfs-e1760992930175.png?w=840&h=473&crop=1"
         }
       ]
     },
@@ -12047,6 +12077,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112054 at https://www.eff.org",
+          "author": "Bill Budington",
+          "description": "Last week, we released apkeep version 1.0.0, the latest edition of our command-line Android package downloading software. Rather than indicating major changes for the project, this milestone instead signifies arriving at a relatively stable and mature place after gradual iteration on the project over the course of over four years.\nWhat’s New in 1.0.0\nWe do have a few fresh features we’ve packed into this latest release, though—all focused on the Google Play Store: \nYou can now download a dex metadata file associated with an app containing a Cloud Profile, which provides information on app performance based on real usage. \nYou can now provide a token generated by the Aurora Store’s dispenser to log in anonymously for app downloads. \nUsers can specify their own device profiles when downloadi…",
+          "link": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+          "publishedOn": "2026-05-06T22:44:48.000Z",
+          "wordCount": 1062,
+          "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/apkeep-logo-final-banner_0.jpg",
+            "alt": "File folder with two bugs and a magnifying glass",
+            "type": "image/jpeg",
+            "length": "172948"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/apkeep-logo-final-banner_0.jpg"
+        },
         {
           "id": "112044 at https://www.eff.org",
           "author": "Christian Romero",
