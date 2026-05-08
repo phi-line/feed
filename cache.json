@@ -2501,16 +2501,6 @@
           "wordCount": 1397,
           "title": "Watch 404 Media’s Super Bowl Ad",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-08-at-18.12.32@2x.png"
-        },
-        {
-          "id": "69862d23e724d100016dce90",
-          "author": "Becky Ferreira",
-          "description": "“The question of whether humanity should reproduce beyond Earth is no longer hypothetical—it is a pressing ethical frontier,” researchers said.",
-          "link": "https://www.404media.co/as-space-tourism-looms-scientists-ask-should-we-have-sex-in-orbit/",
-          "publishedOn": "2026-02-07T14:00:21.000Z",
-          "wordCount": 2055,
-          "title": "As Space Tourism Looms, Scientists Ask: Should We Have Sex In Orbit?",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/image1.jpg"
         }
       ]
     },
@@ -7750,6 +7740,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/starts-with-a-bang/how-empty-depths-space/",
+          "author": "Ethan Siegel",
+          "description": "Here on Earth, there are enormous variations in the densities of what we commonly encounter. Solid, dense metals, like gold or tungsten, have very high densities. If you had a cube that was one meter (3 feet and 3.39 inches) on a side — a cubic meter — made of gold, it would weigh approximately 19 metric tonnes: over 42,000 pounds. If that cube were instead made of water, it would weigh only 1 metric tonne, or 2205 pounds. Make that same cube out of air at room temperature and at sea level, and it weighs in at just around 1.2 kilograms, or 2.6 pounds. And even though it’s a struggle to create a vacuum on Earth, a volume of space as devoid of particles as possible, we’ve created apparatuses that reduce densities to less than one-trillionth of the air density normally found on Earth.\nBut we …",
+          "link": "https://bigthink.com/starts-with-a-bang/how-empty-depths-space/",
+          "publishedOn": "2026-05-08T06:00:00.000Z",
+          "wordCount": 5336,
+          "title": "Ask Ethan: How empty are the depths of space?",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/05/ZS7_environment_NIRcam_image.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/series/full-interview/productivity-goals-bailey/",
+          "author": "Chris Bailey",
+          "description": "Most productivity advice costs more time than it returns. The fix isn’t a better system. It’s understanding why some goals feel effortless and others feel like homework, and learning to close that distance. \nAuthor Chris Bailey breaks down the “intention stack” and the underrated role of values alignment in follow-through.\nThis video How to set better goals and actually follow-through, in 65 minutes is featured on Big Think.",
+          "link": "https://bigthink.com/series/full-interview/productivity-goals-bailey/",
+          "publishedOn": "2026-05-08T04:00:00.000Z",
+          "wordCount": 22744,
+          "title": "How to set better goals and actually follow-through, in 65 minutes",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-3.07.52-PM.png?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/the-long-game/how-helping-your-rivals-makes-you-harder-to-beat/",
           "author": "Eric Markowitz",
           "description": "On the morning of May 23, 1925, a 6.8-magnitude earthquake struck the small hot spring town of Kinosaki, near the coast of the Sea of Japan.\nThe timing was catastrophic. It was late morning, and nearly every household in the village was cooking lunch over an open flame. Within minutes, fires leapt from kitchen to kitchen across the dense wooden architecture, consuming everything. By the time the ground stopped shaking and the fires burned out, 283 people were dead and virtually every building in Kinosaki was rubble.\nAfter the earthquake, the surviving ryokan (inn) owners sat down together — competitors, all of them — and held over 100 meetings to decide, collectively, how to rebuild.\nWhat emerged from those meetings was a radical idea. The owners agreed to treat the entire town as a single…",
@@ -9958,26 +9968,6 @@
           "wordCount": 3770,
           "title": "All claims of extraterrestrial life must pass these 7 hurdles",
           "imageUrl": "https://bigthink.com/wp-content/uploads/2024/10/eclip1.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-126-the-origin-of-dust/",
-          "author": "Ethan Siegel",
-          "description": "Out there in the Universe, we’re most aware of what we see: of all the forms of light that arrive in our eyes, instruments, telescopes, and detectors. Much more difficult to see, as well as understand and make sense of, is the wide array of “stuff” that’s present, but that isn’t readily apparent to the apparatuses we normally use to reveal the Universe. From the dark bands of the Milky Way to the light-blocking materials in nebulae and clouds, all the way to lining the arms of spiral galaxies and the heavy, long-chained molecules found in protoplanetary disks, cosmic dust is perhaps our most enduring mystery.\n\n\n\nSure, it gives absorption signatures that we can leverage, and at long enough infrared wavelengths, dust that gets heated has its own emission signatures, but we can generally only observe it in detail up close: within our own galaxy or in the nearest galaxies of all. That poses a huge challenge, because the origin of dust, including from a cosmic perspective, remains only very poorly understood. We may have identified many dust-producing sources in the Universe, and we may understand that the young Universe was a lot less dusty than our modern cosmos, but we still lack an understanding of how this has come to be the case. Thankfully, we have scientists on the case, like this month’s guest: Dr. Elizabeth Tarantino of the Space Telescope Science Institute.\n\n\n\nIn this fascinating interview, she takes us on a journey spanning gently dying stars, the formation of new stellar systems, the outskirts of our cosmic backyard, and to the farthest reaches of JWST as we try and piece this mysterious cosmic story together. Buckle up for an exciting and informative ride; you’ll be glad you tuned in!\nThis article Starts With A Bang Podcast #126 – The origin of dust is featured on Big Think.",
-          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-126-the-origin-of-dust/",
-          "publishedOn": "2026-02-07T18:09:51.000Z",
-          "wordCount": 2017,
-          "title": "Starts With A Bang Podcast #126 – The origin of dust",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/02/weic2216f.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://bigthink.com/books/how-the-dark-forest-theory-helps-us-understand-the-internet/",
-          "author": "Bogna Konior",
-          "description": "Beside their shared modern origins, of the many similarities between the internet and ufology, both concern communication: between humans, between humans and aliens, between humans and machines, between machines themselves. Communication concerns the known and the unknown, the impulsive and the intentional, and the sayable and the obscure, which cannot be put into words. On the surface, digital communication concerns signals, with humans, in the language of cybernetics, that function like nodes caught up in feedback loops across biotic and machinic networks. It happens at vast distances but also in immediate and visceral spaces, right in our minds, where other people, and increasingly also artificial agents, are experienced as stimuli.\nYet, in a more profound sense, digital communication a…",
-          "link": "https://bigthink.com/books/how-the-dark-forest-theory-helps-us-understand-the-internet/",
-          "publishedOn": "2026-02-07T13:00:00.000Z",
-          "wordCount": 2512,
-          "title": "How the “dark forest theory” helps us understand the internet",
-          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/01/personal-branding-introverts_excerpt.jpg?resize=1200,630"
         }
       ]
     },
