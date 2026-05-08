@@ -7203,6 +7203,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yuvecwa9y7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yuvecwa9y7I",
+          "publishedOn": "2026-05-08T11:01:52.000Z",
+          "wordCount": null,
+          "title": "KestheBand: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1XQtMnPz1AQ",
           "author": null,
           "description": "",
@@ -10380,6 +10390,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/math-problems-for-moms",
+          "author": "Sara White and Lindsey Smith",
+          "description": "1. You have two children, ages two and five. You must take them to the dentist at 10 a.m. tomorrow, which is five miles from home, and you’ll be driving at thirty miles per hour. When should you start getting your children ready to leave?\n ANSWER: Yesterday. This allows for one roadside stop to find a lost teddy bear, a second to break up a sibling fight that includes a bloody nose, and a third to clean up vomit. In other words, just pay that appointment no-show fee now and let their teeth rot.\n 2. You cook spaghetti and meatballs for your family, which they have enjoyed at least two hundred times in the past. What is the statistical probability that all of your kids will inexplicably say this is the most disgusting meal ever and refuse to eat it?\n ANSWER: 100 percent.\n 3. One of your chil…",
+          "link": "https://www.mcsweeneys.net/articles/math-problems-for-moms",
+          "publishedOn": "2026-05-08T12:00:00.000Z",
+          "wordCount": 3039,
+          "title": "Math Problems for Moms",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/twmnrpb819ei9hkly5gg7zbd3gar"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/excerpts-from-chief-justice-john-roberts-high-school-english-essays",
           "author": "Mark Paglia",
