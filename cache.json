@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=161806",
+          "author": "Robin George Andrews",
+          "description": "It should be possible, but getting there will require a greater understanding of subsurface physics.            \nThe post Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
+          "publishedOn": "2026-05-08T14:50:43.000Z",
+          "wordCount": 4362,
+          "title": "Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Qualia-Predictimg-Volcanoes-cr-Celsius-Pictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=161688",
           "author": "Charlie Wood",
           "description": "Armed with a slew of new instruments, physicists are closing in on one of nature’s oldest mysteries — and finding that storm clouds are seething with violent and unexpected phenomena.            \nThe post What Causes Lightning? The Answer Keeps Getting More Interesting. first appeared on Quanta Magazine",
@@ -592,6 +602,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "69fe149fda5f39000180ea64",
+          "author": "Matthew Gault",
+          "description": "The University promised “to pursue all rights and claims for necessary relief” if a small Michigan community won’t pump water into a data center.",
+          "link": "https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/",
+          "publishedOn": "2026-05-08T16:57:36.000Z",
+          "wordCount": 1578,
+          "title": "University Claims Withholding Water From Nuclear Weapons Data Center Is 'Unlawfully Discriminatory' to Data Centers",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/Ypsilanti.jpeg"
+        },
+        {
+          "id": "69fe066fda5f3900017e22c5",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss storage, RSS, and a big reporting project.",
+          "link": "https://www.404media.co/behind-the-blog-storage-woes-and-rss/",
+          "publishedOn": "2026-05-08T16:03:52.000Z",
+          "wordCount": 1092,
+          "title": "Behind the Blog: Storage Woes and RSS",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/nl5.8-1.png"
+        },
+        {
+          "id": "69fe053bda5f3900017e226e",
+          "author": "Jason Koebler",
+          "description": "Messages could include \"medical circumstances, accessibility accommodations, disputes, sexual assault allegations,\" and more.",
+          "link": "https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/",
+          "publishedOn": "2026-05-08T15:50:03.000Z",
+          "wordCount": 1620,
+          "title": "'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/CleanShot-2026-05-08-at-08.46.27@2x.png"
+        },
         {
           "id": "69fcfd3bda5f3900017df10e",
           "author": "Joseph Cox",
@@ -3389,6 +3429,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3243/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3243/",
+          "publishedOn": "2026-05-08T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Crystal Gazing",
+          "imageUrl": "https://imgs.xkcd.com/comics/crystal_gazing_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3242/",
           "author": null,
           "description": "",
@@ -3793,6 +3843,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/virtual-civil-society-is-coming-to-china",
+          "author": "Nathan Gardels",
+          "description": "The post Virtual Civil Society Is Coming To China appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/virtual-civil-society-is-coming-to-china",
+          "publishedOn": "2026-05-08T16:45:43.000Z",
+          "wordCount": 3772,
+          "title": "Virtual Civil Society Is Coming To China",
+          "imageUrl": "https://noemamag.imgix.net/2026/05/2_color.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=88911bac9add9c5d9fb5cfb23d489288"
+        },
+        {
           "id": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness",
           "author": "Carlo Rovelli",
           "description": "The post There Is No ‘Hard Problem Of Consciousness’ appeared first on NOEMA.",
@@ -4139,6 +4199,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556614",
+          "author": "Heather Hollingsworth",
+          "description": "The online platform manages exams, course notes, lecture videos and grades. The attack has affected schools and colleges across the nation.",
+          "link": "https://www.berkeleyside.org/2026/05/08/uc-berkeley-peralta-cyberattack-canvas",
+          "publishedOn": "2026-05-08T18:27:29.000Z",
+          "wordCount": 7322,
+          "title": "UC Berkeley and Peralta system disrupted by cyberattack on Canvas learning platform",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/Campanile-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556587",
+          "author": "Felicia Mello",
+          "description": "The National Science Foundation froze at least 18 grants to the university last month, shortly before President Trump fired the board of scientists overseeing the agency, an attorney representing researchers said.",
+          "link": "https://www.berkeleyside.org/2026/05/08/donald-trump-uc-berkeley-research-grants-national-science-foundation",
+          "publishedOn": "2026-05-08T18:02:23.000Z",
+          "wordCount": 7768,
+          "title": "Trump administration again suspends UC Berkeley research grants",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/3f4ac9f6-3773-40c7-9275-b24c9fae3cdc-scaled.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556232",
+          "author": "Joanne Furio",
+          "description": "Zack Rogow’s “The Kama Sutra for Senior Citizens” is his 10th book of poems. Other new Berkeley books include a look at punk culture and history by a UC Berkeley professor who hung around 924 Gilman when he was 12.",
+          "link": "https://www.berkeleyside.org/2026/05/08/kama-sutra-for-senior-citizens-tom-mcenaney-and-judith-a-peraino-were-having-much-more-fun-punk-archives-for-the-present-from-cbgb-to-gilman-and-beyond-how-to-watch-soccer-like-a-genius-by",
+          "publishedOn": "2026-05-08T13:00:00.000Z",
+          "wordCount": 8705,
+          "title": "Berkeley poet explores sex, love and the Kama Sutra after age 65",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Rogow-Kama-Sutra.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556578",
           "author": "Berkeleyside Staff",
@@ -6952,6 +7042,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=96164",
+          "author": "deb",
+          "description": "pastry creams, chocolate pudding, and stellar coffee cakes — I married into one, which means that even though this site’s cheesecake archives are very well-populated, not a single peep of protest could be heard as far as my apartment walls reach (to be fair, a short distance) as I tinkered with these bars over the last few weeks. \nRead more »",
+          "link": "https://smittenkitchen.com/2026/05/raspberry-swirl-cheesecake-bars/",
+          "publishedOn": "2026-05-08T16:46:31.000Z",
+          "wordCount": 5298,
+          "title": "raspberry swirl cheesecake bars",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/05/raspberry-swirl-cheesecake-bars-12-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=96029",
           "author": "deb",
           "description": "Porch Swings, I wanted you to as well. Ditto for Blood Orange Margaritas (but only when in season), a Perfect Manhattan era that spanned over a decade, Boulevardier that has been woven into almost every year since, and a Slushy Paper Plane phase last year. This past winter and spring still, it’s been Sidecars, 1920s-era cocktails with about as many conflicting stories as my kids regale us with when they didn’t do their homework.\nRead more »",
@@ -7749,6 +7849,26 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/mind-behavior/3-small-habits-that-make-a-big-difference/",
+          "author": "Daniel Coyle",
+          "description": "“We are what we repeatedly do.”\nAristotle said it first, and a century of scientific research has confirmed it: The patterns of our lives — good and bad — are carved by our habits.\nBut there’s something we tend to miss. We instinctively think of habits as tools for individual improvement, as levers to make us more disciplined, more efficient, more in control. But the moments that matter most — the ones that create trust, build relationships, and spark ideas — don’t happen inside us; they happen between us. They’re not individual; they’re social.\nTake active listening. When you make it a habit to let someone finish what they are saying, to value what matters to them, and to check your understanding before responding, something subtle but important shifts. You don’t just communicate more eff…",
+          "link": "https://bigthink.com/mind-behavior/3-small-habits-that-make-a-big-difference/",
+          "publishedOn": "2026-05-08T17:43:26.000Z",
+          "wordCount": 2914,
+          "title": "3 small habits that make a big difference",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/3-small-habits_compressed.png?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/books/the-creatures-guide-to-caring/",
+          "author": "Elizabeth Preston",
+          "description": "One of the world’s most cooperative mammals is also one of its most warlike. I’m not talking about us.\nThe banded mongoose lives in sub-Saharan Africa. It has a long, bulky body and a pointed face, kind of like a ferret on steroids. There are many species of mongoose, but this one has dark stripes across its lower back and haunches.\nThe other distinctive trait of banded mongooses (not “mon-geese,” sadly) is their groups. In western Uganda, where University of Exeter evolutionary biologist Michael Cant studies them, the banded mongooses live in extended families of 10 to 20 adults, plus their children. These families are highly cooperative when it comes to raising the pups.\nAmong other cooperatively breeding species, such as the marmosets and tamarins, it’s common for a group to include an …",
+          "link": "https://bigthink.com/books/the-creatures-guide-to-caring/",
+          "publishedOn": "2026-05-08T14:30:00.000Z",
+          "wordCount": 2873,
+          "title": "The surprising reason female mongooses start wars — and what it reveals about group survival",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/05/creatures-guide_excerpt.jpg?resize=1200,630"
+        },
         {
           "id": "https://bigthink.com/starts-with-a-bang/how-empty-depths-space/",
           "author": "Ethan Siegel",
@@ -9987,6 +10107,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=10026",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Sweet, juicy summer fruit and fluffy quinoa come together in this beautiful quinoa stone fruit salad. It’s ready in just 20 minutes and a maple lime dressing make it delectable! This quinoa stone fruit salad might just be the perfect summer lunch. Or side dish. Or dinner. Contribution to a potluck? Definitely that too. Basically, […]",
+          "link": "https://jessicainthekitchen.com/quinoa-stone-fruit-salad/",
+          "publishedOn": "2026-05-08T14:00:00.000Z",
+          "wordCount": 10314,
+          "title": "Quinoa Stone Fruit Salad",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2017/08/Quinoa-Stone-Fruit-Salad5665.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=74650",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "This vegan sugar cream pie is the definition of old-fashioned comfort food! Rich, silky, and topped with a crackly cinnamon sugar finish, I’ve figured out how to make it vegan with just a handful of pantry ingredients. If you’ve never had sugar cream pie before, it’s a classic Midwestern dessert known for its velvety custard […]",
@@ -10390,6 +10520,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/after-the-baby-i-didnt-just-bounce-back-i-catapulted",
+          "author": "Amanda Bachman and Jane Helpern",
+          "description": "In the days following my return from the hospital, I have gained agility, speed, and mass. I feel physically better postpartum than I have ever felt in my entire life. I didn’t just bounce back—I double-bounced, and then snapped all the way back around again.\n Now, I pirouette out of bed and flounce into rooms. Just the other day, my husband asked if I could cook him dinner, and I cartwheeled into the kitchen to make a beef bourguignon from scratch. Before giving birth, I did not know how to make beef bourguignon or even how to spell it. But these things, a mother knows.\n My birthing experience didn’t hamper me at all; in fact, it fueled me. It felt like finally eating a nasty cheeseburger after nine months on tofu. I did it completely naturally, and in under five minutes. As I left the ma…",
+          "link": "https://www.mcsweeneys.net/articles/after-the-baby-i-didnt-just-bounce-back-i-catapulted",
+          "publishedOn": "2026-05-08T17:00:00.000Z",
+          "wordCount": 2882,
+          "title": "After the Baby, I Didn’t Just Bounce Back—I Catapulted",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/560twi28gylzt15laiv421enxso8"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/math-problems-for-moms",
           "author": "Sara White and Lindsey Smith",
@@ -12087,6 +12227,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112055 at https://www.eff.org",
+          "author": "Allison Morris",
+          "description": "EFF friend Guy Kawasaki has written a book: Everybody Has Something to Hide: Why and How to Use Signal to Preserve Your Privacy, Security, and Well-Being. This guide is now available in Spanish and English as an ebook in the EPUB format that you can download here. Take a look and consider sharing it with anyone who you know who uses (or should use) Signal. \nAnd don't forget: EFF has two short guides on using Signal on our Surveillance Self-Defense site. An intro How to Use Signal guide, and a guide on Managing Signal Groups. \nEverybody Has Something to Hide: Why and How to Use Signal to Preserve Your Privacy, Security, and Well-Being courtesy of Guy Kawasaki.",
+          "link": "https://www.eff.org/deeplinks/2026/05/free-sginal-guide",
+          "publishedOn": "2026-05-08T17:23:00.000Z",
+          "wordCount": 1277,
+          "title": "Free Signal Guide",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "35296"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png"
+        },
         {
           "id": "112054 at https://www.eff.org",
           "author": "Bill Budington",
