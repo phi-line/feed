@@ -593,6 +593,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "69fe5b12da5f3900018109da",
+          "author": "Becky Ferreira",
+          "description": "Scientists analyzed over 900 marriages within the ’Ndrangheta, one of the most infamous mafia syndicates, to understand how “matrimonial ties relate to power and cohesion within the organization.”",
+          "link": "https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/",
+          "publishedOn": "2026-05-09T13:00:26.000Z",
+          "wordCount": 2134,
+          "title": "Scientists Studied 906 Mafia Marriages and Found Something Surprising",
+          "imageUrl": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxtYXJyaWFnZXxlbnwwfHx8fDE3NzgyNzc0NDh8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "69fe149fda5f39000180ea64",
           "author": "Matthew Gault",
           "description": "The University promised “to pursue all rights and claims for necessary relief” if a small Michigan community won’t pump water into a data center.",
@@ -2521,16 +2531,6 @@
           "wordCount": 1753,
           "title": "Chatbots Make Terrible Doctors, New Study Finds",
           "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGRvY3RvcnxlbnwwfHx8fDE3NzA2NDg0NjR8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "698941dae724d1000175a485",
-          "author": "Jason Koebler",
-          "description": "WE BOUGHT A SUPER BOWL AD.",
-          "link": "https://www.404media.co/watch-404-medias-super-bowl-ad/",
-          "publishedOn": "2026-02-09T02:32:01.000Z",
-          "wordCount": 1397,
-          "title": "Watch 404 Media’s Super Bowl Ad",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/CleanShot-2026-02-08-at-18.12.32@2x.png"
         }
       ]
     },
@@ -3808,16 +3808,6 @@
           "wordCount": 185,
           "title": "Installation",
           "imageUrl": "https://imgs.xkcd.com/comics/installation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3205/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3205/",
-          "publishedOn": "2026-02-09T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Carbon Dating",
-          "imageUrl": "https://imgs.xkcd.com/comics/carbon_dating_2x.png"
         }
       ]
     },
@@ -7900,6 +7890,16 @@
       "feedUrl": "https://bigthink.com/feed",
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
+        {
+          "id": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-129-triton-and-the-outer-solar-system/",
+          "author": "Ethan Siegel",
+          "description": "We often think about the Solar System as being our own cosmic backyard, and in many ways, it is: these are the closest objects to us in all the Universe, and our only opportunity to study lunar and planetary systems in situ. However, when it comes to the objects beyond Saturn, including the Uranian and Neptunian systems, as well as everything that lies in the Kuiper belt and beyond, the only probes we’ve ever sent their way are Voyager 2, which flew by Uranus and Neptune in the late 1980s, and New Horizons, which flew past Pluto in 2015.\n\n\n\nThat means, unlike Jupiter and Saturn, we’ve never had a dedicated orbiter, lander, or atmospheric probe around the outermost planets or lunar systems even in our own backyard. Moreover, there are no such planned missions that are funded and slated to fly, which is really too bad, as there’s so much to learn about these planets and worlds that are so well-represented in exoplanet analogues all across the galaxy and Universe. In particular, one moon stands out as the largest body with a solid surface: Triton, the 7th largest moon in the Solar System and which represents more than 98% of the mass of all the moons that orbit Neptune.\n\n\n\nHere to guide us through the far reaches of our Solar System, I’m so pleased to welcome PhD candidate Lana Tilke to the program. There’s a whole lot of ground that we cover, and the conversation left me inspired with the questions that we’re asking today, and brimming with hope that we take the steps we needed to answer them. If you’d like to know where we are and where we’re headed next, you just might love this episode too!\nThis article Starts With A Bang podcast #129 – Triton and the outer solar system is featured on Big Think.",
+          "link": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-129-triton-and-the-outer-solar-system/",
+          "publishedOn": "2026-05-09T16:57:29.000Z",
+          "wordCount": 2128,
+          "title": "Starts With A Bang podcast #129 – Triton and the outer solar system",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/05/triton-from-voyager-2.jpg?resize=1000,630"
+        },
         {
           "id": "https://bigthink.com/mind-behavior/3-small-habits-that-make-a-big-difference/",
           "author": "Daniel Coyle",
