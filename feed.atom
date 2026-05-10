@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-10T06:57:18.686Z</updated>
+    <updated>2026-05-10T12:21:50.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He's a U.S. Citizen and Combat Veteran. ICE Tear-Gassed, Jailed, and Falsely Accused Him.]]></title>
+        <id>https://reason.com/?p=8378341</id>
+        <link href="https://reason.com/2026/05/10/why-this-u-s-citizen-was-arrested-and-jailed-during-an-ice-raid/"/>
+        <updated>2026-05-10T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA["I didn't do anything wrong," George Retes, a U.S. citizen imprisoned for three days, tells Reason.]]></summary>
+        <author>
+            <name>Autumn Billings</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starts With A Bang podcast #129 – Triton and the outer solar system]]></title>
         <id>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-129-triton-and-the-outer-solar-system/</id>
@@ -15691,107 +15701,6 @@ This isn’t a problem that’s new here in 2026; this is a problem as old as hu
         <summary type="html"><![CDATA[As negotiations continue, hundreds of educators packed Berkeley’s school board meeting last week, asking for more pay and benefits and smaller classes. Teachers have voted to strike in San Francisco and at other districts across the state.]]></summary>
         <author>
             <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFFecting Change: Get the Flock Out of Our City]]></title>
-        <id>111720 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city"/>
-        <updated>2026-02-09T22:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Flock contracts have quietly spread to cities across the country. But Flock ALPR (Automated License Plate Readers) erode civil liberties from the moment they're installed. While officials claim these cameras keep neighborhoods safe, the evidence tells a different story. The data reveals how Flock has enabled surveillance of people seeking abortions, protesters exercising First Amendment rights, and communities targeted by discriminatory policing.
-This is exactly why cities are saying no. From Austin to Cambridge to small towns across Texas, jurisdictions are rejecting Flock contracts altogether, proving that surveillance isn't inevitable—it's a choice.
-Join EFF's Sarah Hamid and Andrew Crocker along with Reem Suleiman from Fight for the Future and Kate Bertash from Rural Privacy Coalition …]]></summary>
-        <author>
-            <name>Melissa Srago</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley is defying the will of voters to hold police accountable]]></title>
-        <id>https://www.berkeleyside.org/?p=551721</id>
-        <link href="https://www.berkeleyside.org/2026/02/09/berkeley-police-accountability-board-resignations"/>
-        <updated>2026-02-09T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The resignation last month of two members of the city's civilian police oversight board should alarm everyone in Berkeley.]]></summary>
-        <author>
-            <name>Sharon Goldfarb, Christine Wenrich, Kandea Gandhi and Linda Carothers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFFecting Change Site Banner 2.19.26]]></title>
-        <id>111719 at https://www.eff.org</id>
-        <link href="https://www.eff.org/node/111719"/>
-        <updated>2026-02-09T22:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Site Banner: 
-
-
-
-
-Mobile Site Banner: 
-
-
-
-
-Link: 
-
-EFFecting Change: Get the Flock Out of Our City on February 19
-
-
-Mobile Link: 
-
-EFFecting Change: Get the Flock Out of Our City on February 19
-
-
-Banner Text: 
-
-EFFecting Change: Get the Flock Out of Our City on February 19
-
-
-Mobile Banner Text: 
-
-EFFecting Change: Get the Flock Out of Our City on February 19]]></summary>
-        <author>
-            <name>Melissa Srago</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet Still Works: Yelp Protects Consumer Reviews]]></title>
-        <id>111718 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews"/>
-        <updated>2026-02-09T22:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information.
-Yelp hosts millions of reviews written by internet users about local businesses. Most reviews are positive, but over the years, some businesses have tried to pressure Yelp to remove negative reviews, including through legal threats. Since its founding more than two decades ago, Yelp has fought major legal battles to defend reviewers’ rights and preserve the legal protections t…]]></summary>
-        <author>
-            <name>Joe Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet Still Works: Wikipedia Defends Its Editors]]></title>
-        <id>111716 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors"/>
-        <updated>2026-02-09T21:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Section 230 helps make it possible for online communities to host user speech: from restaurant reviews, to fan fiction, to collaborative encyclopedias. But recent debates about the law often overlook how it works in practice. To mark its 30th anniversary, EFF is interviewing leaders of online platforms about how they handle complaints, moderate content, and protect their users’ ability to speak and share information. 
-A decade ago, Wikimedia Foundation, the nonprofit that operates Wikipedia, received 304 requests to alter or remove content over a two-year period, not including copyright complaints. In 2024 alone, it received 664 such takedown requests. Only four were granted. As complaints over user speech have grown, Wikimedia has expanded its legal team to defend the volunteer editors wh…]]></summary>
-        <author>
-            <name>Joe Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 East Bay desserts to share with your sweetie this Valentine’s Day]]></title>
-        <id>https://www.berkeleyside.org/?p=551759</id>
-        <link href="https://www.berkeleyside.org/2026/02/09/best-desserts-to-share-east-bay-restaurants"/>
-        <updated>2026-02-09T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nosh shares its favorite creative, decadent desserts perfect for splitting with a special someone.]]></summary>
-        <author>
-            <name>Madeline Taub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Screen Time Panic Sets Parents Up to Fail]]></title>
-        <id>69863325e724d100016fed57</id>
-        <link href="https://www.404media.co/the-screen-time-panic-sets-parents-up-to-fail/"/>
-        <updated>2026-02-09T19:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Patrick Klepek on the reality of parenting in the age of Roblox and YouTube.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
         </author>
     </entry>
     <entry>
