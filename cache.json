@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=161859",
+          "author": "Ben Brubaker",
+          "description": "A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography.            \nThe post How Unknowable Math Can Help Hide Secrets first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+          "publishedOn": "2026-05-11T14:15:13.000Z",
+          "wordCount": 3698,
+          "title": "How Unknowable Math Can Help Hide Secrets",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/GodelCryptography-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=161806",
           "author": "Robin George Andrews",
           "description": "It should be possible, but getting there will require a greater understanding of subsurface physics.            \nThe post Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather? first appeared on Quanta Magazine",
@@ -582,6 +592,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a00906dda5f3900018658f1",
+          "author": "Emanuel Maiberg",
+          "description": "The logic behind Polymarket, Kalshi and sports betting apps can be traced back to the inner workings of the slot machine.",
+          "link": "https://www.404media.co/how-the-world-became-a-casino/",
+          "publishedOn": "2026-05-11T15:09:42.000Z",
+          "wordCount": 1199,
+          "title": "How the World Became a Casino",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/HOW-THE-WORLD-BECAME-A-CASINO--1-.png"
+        },
+        {
+          "id": "6a01da2eda5f390001868aef",
+          "author": "Jason Koebler",
+          "description": "AI writing is impossible to avoid, is making everything sound the same, and is driving us crazy.",
+          "link": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+          "publishedOn": "2026-05-11T13:57:35.000Z",
+          "wordCount": 1935,
+          "title": "Your AI Use Is Breaking My Brain",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/lovely-n-bfIEGq-JmSY-unsplash-2-1.jpg"
+        },
+        {
+          "id": "6a01d2f2da5f390001868981",
+          "author": "Samantha Cole",
+          "description": "A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, \"AI SUCKS!\"",
+          "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+          "publishedOn": "2026-05-11T13:03:56.000Z",
+          "wordCount": 1041,
+          "title": "Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/ucf.png"
+        },
         {
           "id": "69fe5b12da5f3900018109da",
           "author": "Becky Ferreira",
@@ -3715,16 +3755,6 @@
           "wordCount": 193,
           "title": "Bad Map Projection: Zero Declination",
           "imageUrl": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3206/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3206/",
-          "publishedOn": "2026-02-11T05:00:00.000Z",
-          "wordCount": 185,
-          "title": "Installation",
-          "imageUrl": "https://imgs.xkcd.com/comics/installation_2x.png"
         }
       ]
     },
@@ -4097,6 +4127,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556471",
+          "author": "Sara Hayden",
+          "description": "Her landmark book “Babies,” which broke barriers in 1963, is now available to check out from the Berkeley library.",
+          "link": "https://www.berkeleyside.org/2026/05/11/gyo-fujikawa-babies-berkeely",
+          "publishedOn": "2026-05-11T14:00:00.000Z",
+          "wordCount": 9261,
+          "title": "Berkeley-born Gyo Fujikawa was among first picture book authors to draw kids of multiple races",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Gyo-Fujikawa.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556522",
           "author": "Kimia Azadpur",
@@ -7678,6 +7718,26 @@
       "siteUrl": "https://bigthink.com//feed/all",
       "articles": [
         {
+          "id": "https://bigthink.com/books/historys-lost-voices-pompeii/",
+          "author": "Tim Brinkhof",
+          "description": "“The bittersweet memory of that day, eighteen years ago, had never left him. It was the second time he had been sold in his short lifetime, reduced to nothing more than a name and number scratched on a wax tablet, and still no one came to save him. He sometimes saw Poppaea in the streets. He always made sure to avoid her eye.”\nThis moment is from The Lost Voices of Pompeii, a new book that follows seven historical figures in the hours leading up to the eruption of Mount Vesuvius in 79 A.D. Contrary to what its novelistic style suggests, it is a work of history, not historical fiction. Its author, the historian and archeologist Jess Venner, relies on an increasingly popular research method known as critical fabulation to bring the ruins of Pompeii to life. \nAs she discussed with Big Think, …",
+          "link": "https://bigthink.com/books/historys-lost-voices-pompeii/",
+          "publishedOn": "2026-05-11T14:30:00.000Z",
+          "wordCount": 3247,
+          "title": "The power of story to find history’s lost voices — starting with Pompeii",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/04/lost-voices-of-pompeii.jpg?resize=1200,630"
+        },
+        {
+          "id": "https://bigthink.com/science-tech/the-real-cost-of-logging-the-boreal-forest-may-be-buried-in-the-soil/",
+          "author": "Jasna Hodžić",
+          "description": "From space, the boreal forest appears as a near-continuous pine-green band stretching across the Northern Hemisphere, just beneath the Arctic — from Europe through Russia and Asia, and again across Alaska and Canada.\nUp close, the forest resolves into a patchwork of species. Conifers like spruce, pine, and fir dominate, while deciduous trees such as birch, aspen, and poplar appear in warmer regions. It is easy to imagine the boreal as distant, austere, and resilient: rows of looming trees growing slowly over long winters and short summers.\nThe numbers reinforce that sense of scale and endurance. The boreal covers roughly 17% of Earth’s land surface and stores about one-third of the carbon held in forests worldwide. While some of this carbon is stored in the boreal’s large trees, much of it…",
+          "link": "https://bigthink.com/science-tech/the-real-cost-of-logging-the-boreal-forest-may-be-buried-in-the-soil/",
+          "publishedOn": "2026-05-11T14:02:20.000Z",
+          "wordCount": 3202,
+          "title": "The real cost of logging the boreal forest may be buried in the soil",
+          "imageUrl": "https://bigthink.com/wp-content/uploads/2026/05/boreal-carbon_lead.jpg?resize=1200,630"
+        },
+        {
           "id": "https://bigthink.com/starts-with-a-bang/brief-history-cosmic-distance-record/",
           "author": "Ethan Siegel",
           "description": "In 1675, Newton famously wrote, “If I have seen further it is by standing on the shoulders of Giants.”\n\nBehind the dome of a series of European Southern Observatory telescopes, the Milky Way towers in the southern skies, flanked by the Large and Small Magellanic Clouds, at right. Although there are several thousand stars and the plane of the Milky Way all visible to human eyes, there are only four galaxies beyond our own that the typical unaided human eye can detect. We did not know they were located outside of the Milky Way until the 1920s: after Einstein’s general relativity had already superseded Newtonian gravity, demonstrating how significantly we stand on the shoulders of the giants that have come before us.\nCredit: ESO/Z. Bardon (www.bardon.cz)/ProjectSoft (www.projectsoft.cz)\n\n\n\nBu…",
@@ -9885,6 +9945,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=74758",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This soy curl “chicken” is one of those easy vegan recipes you’ll keep coming back to! It’s packed with protein and works so well as a building block for delicious plant-based meals. If you’re looking for a plant-based chicken substitute that doesn’t cost a fortune, that’s packed with protein, and that has a pleasing texture, […]",
+          "link": "https://jessicainthekitchen.com/soy-curl-chicken/",
+          "publishedOn": "2026-05-11T14:00:00.000Z",
+          "wordCount": 11531,
+          "title": "Soy Curl “Chicken”",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/04/Soy-Curls-3417.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/new/?p=10026",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Sweet, juicy summer fruit and fluffy quinoa come together in this beautiful quinoa stone fruit salad. It’s ready in just 20 minutes and a maple lime dressing make it delectable! This quinoa stone fruit salad might just be the perfect summer lunch. Or side dish. Or dinner. Contribution to a potluck? Definitely that too. Basically, […]",
@@ -10278,6 +10348,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/were-diversifying-the-university-by-hiring-more-crackpots",
+          "author": "Richard Amesbury",
+          "description": "“Harvard is quietly asking donors for $10 million gifts to establish new endowed professorships in a sweeping bid to reshape its faculty under the banner of ‘viewpoint diversity,’ according to two people familiar with the initiative.” \n — The Harvard Crimson\n - - -\nOn behalf of the university, I’m pleased to announce our earnest and long-overdue commitment to diversifying our faculty. No, not the reckoning we broadcast to great fanfare in 2020, which we have repudiated in exchange for federal funding. No, I refer instead to “viewpoint” diversity.\n For too long, the university has ignored the wisdom of the donor class and hired based on academic excellence. Regrettably, this has led to the underrepresentation of discredited viewpoints in elite higher education. Many ideas that enjoy enormou…",
+          "link": "https://www.mcsweeneys.net/articles/were-diversifying-the-university-by-hiring-more-crackpots",
+          "publishedOn": "2026-05-11T17:01:00.000Z",
+          "wordCount": 2621,
+          "title": "We’re Diversifying the University by Hiring More Crackpots",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8z4x950c1u3rpfmhqjz7bo4otc0g"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-review-of-director-ka-h-patels-fbi-bourbon",
           "author": "Tyler Gray and Sean Evans",
