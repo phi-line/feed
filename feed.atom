@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-12T12:43:35.365Z</updated>
+    <updated>2026-05-12T18:39:00.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[California colleges went big on online learning tools. Then came the cyberattack]]></title>
+        <id>https://www.berkeleyside.org/?p=556774</id>
+        <link href="https://www.berkeleyside.org/2026/05/12/uc-berkeley-berkeley-city-college-peralta-cyberattack"/>
+        <updated>2026-05-12T17:46:32.000Z</updated>
+        <summary type="html"><![CDATA[A massive hack of education platform Canvas hit the University of California and Peralta systems hard. What happens next?]]></summary>
+        <author>
+            <name>Colin Lecher | CalMatters and Mikhail Zinshteyn | CalMatters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Will Buy from Quince, and You Will Fucking Like It]]></title>
+        <id>https://www.mcsweeneys.net/articles/you-will-buy-from-quince-and-you-will-fucking-like-it</id>
+        <link href="https://www.mcsweeneys.net/articles/you-will-buy-from-quince-and-you-will-fucking-like-it"/>
+        <updated>2026-05-12T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, it’s your subconscious here. Quince speaking.
+ Having spent years gently occupying your favorite Dharma & Greg rewatch podcast with tales of our top-notch Mongolian cashmere, we are thrilled to move our direct-to-consumer approach into Phase Two: full integration into your implicit mind.
+ For years now, you have thought, “Huh? Are their 100 percent European linen tunics as good as the character actress who played Jenna Elfman’s mother suggests?” And yet—and yet!—our data suggests a good many of you have yet to place an order. Which upsets Dharma, to say nothing of Greg. Which upsets Quince.
+ Did you think we saturated the audio landscape for fun? No. We did it for you, dear consumer. And yet you still—still!—have not used promo code WhyDontYouRememberThatShowItRanForFiveSeasons to s…]]></summary>
+        <author>
+            <name>Jeremy Hooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats]]></title>
+        <id>112065 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats"/>
+        <updated>2026-05-12T16:48:16.000Z</updated>
+        <summary type="html"><![CDATA[This week, Apple released iOS 26.5, an update that supports end-to-end encryption for Rich Communication Services (RCS), meaning conversations between Android and iPhone will soon be encrypted in the default chat apps. This has been a long time coming, and is a welcome delivery on a promise both Google and Apple made.
+With this update, conversations that take place between Apple’s Messages app and Google Messages on Android will be end-to-end encrypted by default, as long as the carrier supports both RCS and encrypted messages (you can find a list of carriers here). RCS messages are a replacement for SMS, and in 2024 Apple started supporting it, making for a marked improvement in the quality of images and other media shared between Android and iPhones. 
+Now, those conversations can also be…]]></summary>
+        <author>
+            <name>Thorin Klosowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid]]></title>
+        <id>112064 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid"/>
+        <updated>2026-05-12T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Osama Khalid was just twelve years old when he began contributing to Wikipedia Arabic. In the height of the blogging era, he became a prolific blogger, publishing writings on his home country of Saudi Arabia, meetups he attended, and his opinions and observations about open source technology and freedom of expression. He advocated for internet freedom, contributed time and translations to various projects—including EFF’s HTTPS Everywhere—and was a thoughtful presence at the conferences he attended around the world…all while training to become a pediatrician.
+In July of 2020, he was detained amid a wave of arbitrary arrests carried out by the Saudi authorities during the Covid-19 lockdown and initially given a five-year prison sentence. That sentence was later increased on appeal to 32 year…]]></summary>
+        <author>
+            <name>Jillian C. York</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley homebuyers are evaluating natural disaster risks like never before]]></title>
+        <id>https://www.berkeleyside.org/?p=556409</id>
+        <link href="https://www.berkeleyside.org/2026/05/12/berkeley-homebuyers-are-evaluating-natural-disaster-risks-like-never-before"/>
+        <updated>2026-05-12T16:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Insurance availability, new city ordinances, and concern for climate hazards are factoring into how buyers assess the full cost of home ownership.]]></summary>
+        <author>
+            <name>Local sponsor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda County DA’s race: Supporters weigh in on the candidates]]></title>
+        <id>https://www.berkeleyside.org/?p=556719</id>
+        <link href="https://www.berkeleyside.org/2026/05/12/alameda-county-district-attorney-2026"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We asked crime victims, mayors, business owners and other supporters of Ursula Jones Dickson, Pamela Price and Gopal Krishan why their candidate is the right choice.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hackers Guide to Circumventing Internet Shutdowns]]></title>
+        <id>112063 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/hackers-guide-circumventing-internet-shutdowns"/>
+        <updated>2026-05-12T15:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Internet shutdowns are devastating for human rights. When people are disconnected from the internet and digital services, it impacts all aspects of their life—from accessing essential information, to seeking medical care, or communicating with loved ones, both in that country and externally. But on January 8th, 2026, the government of Iran shut down internet communications for the entire country as a rebellion threatened to topple the authoritarian government. The government then proceeded to execute as many as 656 dissidents over the next 3 months, though the actual number could be much higher. Which is part of the point: shutdowns often precede government acts of violence. 
+Iran’s shutdown was hardly an isolated incident. Earlier this month, the U.S. military invaded Venezuela and kidnap…]]></summary>
+        <author>
+            <name>Cooper Quintin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasselback Potatoes With Fresh Herbs]]></title>
+        <id>https://jessicainthekitchen.com/?p=74392</id>
+        <link href="https://jessicainthekitchen.com/hasselback-potatoes/"/>
+        <updated>2026-05-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hasselback potatoes add a little elegance to classic baked potatoes! The edges get crispy, the insides are tender, and vegan garlic herb butter makes them irresistible. If you’ve never made Hasselback potatoes before, they’re essentially thinly sliced potatoes that fan out as they bake, creating tons of crispy edges. They’re good with just a little […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We May Be Entering A Second Axial Age]]></title>
+        <id>https://www.noemamag.com/we-may-be-entering-a-second-axial-age</id>
+        <link href="https://www.noemamag.com/we-may-be-entering-a-second-axial-age"/>
+        <updated>2026-05-12T13:12:26.000Z</updated>
+        <summary type="html"><![CDATA[The post We May Be Entering A Second Axial Age appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Otto Scharmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir]]></title>
+        <id>6a0202ffda5f390001890b17</id>
+        <link href="https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/"/>
+        <updated>2026-05-12T13:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The comments made by a senior ICE official at a trade show highlight how Palantir is increasing the speed at which ICE operates. Most people detained by ICE have no criminal conviction.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Excerpt from Maeve Dunigan’s New Book, Read This to Look Cool]]></title>
+        <id>https://www.mcsweeneys.net/articles/an-excerpt-from-maeve-dunigans-new-book-read-this-to-look-cool</id>
+        <link href="https://www.mcsweeneys.net/articles/an-excerpt-from-maeve-dunigans-new-book-read-this-to-look-cool"/>
+        <updated>2026-05-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- - -
+Writer and McSweeney’s contributor Maeve Dunigan has poured a lifetime of effort into seeming effortlessly chill. The results have been… mixed. Nonetheless, Maeve still believes she’s one pair of leather pants, one perfect use of the word “bespoke,” and one jar of expensive olives away from self-actualization. She’ll never stop trying, no matter how bespoke things get (was that right?).
+ With sharp wit and unflinching honesty, Maeve shares her own misadventures—like the time she quietly endured a ruptured appendix at McDonald’s so she wouldn’t come off as dramatic—and explores the universal desire to belong. She invites readers into her world of One Direction fanfiction authorship and passive-aggressive yogurt mind games, detailing the anxieties that come with living in an age of con…]]></summary>
+        <author>
+            <name>Maeve Dunigan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Cholesterol Looks Good, but Also Quite Bad]]></title>
         <id>https://www.mcsweeneys.net/articles/your-cholesterol-looks-good-but-also-quite-bad</id>
@@ -15388,16 +15507,6 @@ Boole was born on November 2, 1815, at four o’clock in the afternoon, in Linco
         <summary type="html"><![CDATA[Perhaps the most commonly told myth in all of science is that of the lone genius. The blueprint for it goes something like this. Once upon a time in history, someone with a towering intellect but no formal training wades into a field that’s new to them for the first time. Upon considering the field’s issues, they immediately see things that no one else has ever seen before. With just a little bit of hard work, they find solutions to puzzles that have stymied all of the greatest minds in the field that approached those problems previously. They wind up revolutionizing their field, and the world is never the same. It leaves one with a strong take-home message: that if you were that inexperienced person with a similarly towering intellect, and you had the good fortune of coming into a field j…]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Culture Is the Mass-Synchronization of Framings]]></title>
-        <id>https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings</id>
-        <link href="https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings?utm_source=rss&amp;utm_campaign=rss"/>
-        <updated>2026-02-12T04:26:37.000Z</updated>
-        <summary type="html"><![CDATA[What exists is a matter of public opinion]]></summary>
-        <author>
-            <name>Aether Mug</name>
         </author>
     </entry>
     <entry>
