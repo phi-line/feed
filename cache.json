@@ -2451,16 +2451,6 @@
           "wordCount": 2020,
           "title": "Cops Are Buying ‘GeoSpy’, an AI That Geolocates Photos in Seconds",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/geospy-header.png"
-        },
-        {
-          "id": "698ce9c589867e000110ae08",
-          "author": "Joseph Cox",
-          "description": "The tool presents users with a 3D model they can then manipulate to, the creator says, bypass Discord's age verification system.",
-          "link": "https://www.404media.co/free-tool-says-it-can-bypass-discords-age-verification-check-with-a-3d-model/",
-          "publishedOn": "2026-02-11T20:53:57.000Z",
-          "wordCount": 1101,
-          "title": "Free Tool Says it Can Bypass Discord's Age Verification Check With a 3D Model",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/discord-bypass-2.png"
         }
       ]
     },
@@ -3325,6 +3315,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3244/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3244/",
+          "publishedOn": "2026-05-11T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Pullback Drive",
+          "imageUrl": "https://imgs.xkcd.com/comics/pullback_drive_2x.png"
+        },
         {
           "id": "https://xkcd.com/3243/",
           "author": null,
@@ -6740,26 +6740,6 @@
           "wordCount": 8294,
           "title": "Around Berkeley: Valentine’s crafts, noon concerts, dance company anniversary",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/cal-performances-martha-graham-dance-company-appalachian-spring-by-melissa-sherwood-35.jpg?fit=1800%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551977",
-          "author": "Alex N. Gecan",
-          "description": "Claudel Moore pleaded no contest to the voluntary manslaughter of Anthony Joshua “Josh” Fisher III over a $600 debt. Fisher's family said they were “shattered” and that the eight-year prison sentence was not enough.",
-          "link": "https://www.berkeleyside.org/2026/02/11/josh-fisher-claudel-moore-sentencing",
-          "publishedOn": "2026-02-12T00:42:44.000Z",
-          "wordCount": 8301,
-          "title": "Killer gets 8-year sentence in plea deal over 2022 fatal shooting in Southwest Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Moore.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=551941",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/02/11/as-kneaded-duck-donuts-gold-bean-opening",
-          "publishedOn": "2026-02-11T20:00:00.000Z",
-          "wordCount": 7311,
-          "title": "As Kneaded expands with cafe, plus new Mediterranean, Thai and donut options hit the East Bay",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AsKneadedCafe.jpg"
         }
       ]
     },
@@ -10257,6 +10237,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/your-cholesterol-looks-good-but-also-quite-bad",
+          "author": "Adam Greenspan",
+          "description": "You might want to sit down for this. Or at least part of this. Your cholesterol looks good, but also quite bad.\n Your good cholesterol is 45. That’s good.\n But your bad cholesterol is 141. That’s bad.\n Your total cholesterol adds up to 222, because doctor math. That is also high and bad (well, the bad part is bad).\n You might remember that when you were a kid, 160 was high (bad). You did an admirable job, never eating eggs ever (good), and getting down to 141 (good). But now 100 is high (bad). You have high cholesterol again (bad). It’s probably all those eggs (bad).\n Luckily, there are all sorts of medicines that you can take to lower your cholesterol further, and we are happy to sell them to you.\n We understand it may seem like we’re moving the goalposts, but these drugs were really expe…",
+          "link": "https://www.mcsweeneys.net/articles/your-cholesterol-looks-good-but-also-quite-bad",
+          "publishedOn": "2026-05-12T12:00:00.000Z",
+          "wordCount": 2508,
+          "title": "Your Cholesterol Looks Good, but Also Quite Bad",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/br5yb7zg8twhj869ovg2phnte7gy"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/were-diversifying-the-university-by-hiring-more-crackpots",
           "author": "Richard Amesbury",
