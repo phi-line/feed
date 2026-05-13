@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=161921",
+          "author": "Yasemin Saplakoglu",
+          "description": "The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.            \nThe post How the Bird Eye Was Pushed to an Evolutionary Extreme first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+          "publishedOn": "2026-05-13T14:04:30.000Z",
+          "wordCount": 3490,
+          "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/MacawEye-crLeonardoRamos-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=161859",
           "author": "Ben Brubaker",
           "description": "A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography.            \nThe post How Unknowable Math Can Help Hide Secrets first appeared on Quanta Magazine",
@@ -592,6 +602,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a04abe35752c30001040127",
+          "author": "Jason Koebler",
+          "description": "Jeff Bezos learns being good at YouTube is not so easy.",
+          "link": "https://www.404media.co/washington-post-make-it-make-sense-opinion-podcast/",
+          "publishedOn": "2026-05-13T17:02:59.000Z",
+          "wordCount": 2148,
+          "title": "At Least We Know the Washington Post Isn't Buying Views",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/CleanShot-2026-05-13-at-09.55.02@2x.png"
+        },
+        {
+          "id": "6a04876daa51dd0001983cb1",
+          "author": "Matthew Gault",
+          "description": "Spools of cable are critical for internet infrastructure and jam-proof drones but skyrocketing costs are making it hard to field them.",
+          "link": "https://www.404media.co/war-and-data-centers-are-driving-up-the-cost-of-fiber-optic-cable/",
+          "publishedOn": "2026-05-13T14:24:03.000Z",
+          "wordCount": 1782,
+          "title": "War and Data Centers Are Driving Up the Cost of Fiber-Optic Cable",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/Gw9cyxwXsAA-Sw4-1.jpeg"
+        },
+        {
+          "id": "6a047750aa51dd0001982336",
+          "author": "Joseph Cox",
+          "description": "We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.",
+          "link": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
+          "publishedOn": "2026-05-13T13:10:19.000Z",
+          "wordCount": 1063,
+          "title": "Podcast: The Chinese Deepfake Software Powering Scams",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/SCAMMERS-HAVE-THIS-NOW--1-.png"
+        },
+        {
+          "id": "6a038630cc8fdd00017fa228",
+          "author": "Emanuel Maiberg",
+          "description": "“It's making me dumber for sure.”",
+          "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+          "publishedOn": "2026-05-13T13:00:48.000Z",
+          "wordCount": 1495,
+          "title": "Software Developers Say AI Is Rotting Their Brains",
+          "imageUrl": "https://images.unsplash.com/photo-1611890798517-07b0fcb4a811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ5fHxjb21wdXRlciUyMHNjcmVlbiUyMGJyb2tlbnxlbnwwfHx8fDE3Nzg2MTU5NTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6a0202ffda5f390001890b17",
           "author": "Joseph Cox",
@@ -3268,6 +3318,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3245/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3245/",
+          "publishedOn": "2026-05-13T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Results Age",
+          "imageUrl": "https://imgs.xkcd.com/comics/results_age_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3244/",
           "author": null,
           "description": "",
@@ -3636,16 +3696,6 @@
           "wordCount": 185,
           "title": "SNEWS",
           "imageUrl": "https://imgs.xkcd.com/comics/snews_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3207/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3207/",
-          "publishedOn": "2026-02-13T05:00:00.000Z",
-          "wordCount": 193,
-          "title": "Bad Map Projection: Zero Declination",
-          "imageUrl": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination_2x.png"
         }
       ]
     },
@@ -4018,6 +4068,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556834",
+          "author": "Nico Savidge",
+          "description": "A proposal now headed to the City Council would set height limits of five to seven stories for certain properties on College, Solano and North Shattuck.",
+          "link": "https://www.berkeleyside.org/2026/05/13/berkeley-corridors-zoning-update-elmwood-shattuck-solano",
+          "publishedOn": "2026-05-13T18:20:33.000Z",
+          "wordCount": 8163,
+          "title": "Hotly debated plans to add housing in the Elmwood and North Berkeley are a step closer to approval",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Elmwood-zoning-protest-sign.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556811",
+          "author": "Nathan Dalton",
+          "description": "The 36-year-old company, long based in the Berkeley City Club, will close its curtains after this season.",
+          "link": "https://www.berkeleyside.org/2026/05/13/central-works-berkeley-city-club",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": 7439,
+          "title": "It’s a wrap for Central Works — fourth Berkeley theater to close since 2023",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/Battista-Zenobia.jpeg?fit=1800%2C1093&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556806",
           "author": "Nathan Dalton",
@@ -6692,16 +6762,6 @@
           "wordCount": 7857,
           "title": "Many Berkeley teachers spend over $500 of their own money on student basics. That’s just wrong",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-blue.png?fit=720%2C480&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552029",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Why fewer Cal students are taking computer science and why two Cal students who developed an app to sell extra meal swipes were shut down by the university.",
-          "link": "https://www.berkeleyside.org/2026/02/12/the-wire-why-jeffrey-epstein-lied-about-being-a-uc-berkeley-lecturer",
-          "publishedOn": "2026-02-13T01:08:00.000Z",
-          "wordCount": 7343,
-          "title": "The Wire: Why Jeffrey Epstein lied about being a UC Berkeley lecturer",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AP22178580324663.jpg?fit=1024%2C666&ssl=1"
         }
       ]
     },
@@ -10185,6 +10245,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/honey-im-sorry-i-messed-up-our-moment-on-the-kiss-cam",
+          "author": "Mary Spencer",
+          "description": "Honey, I’m sorry I messed up our moment on the kiss cam.\n I’m sorry I mouthed “That’s my sister!” and made a face like yuck while jerking my thumb at you, my loving wife of thirty-one years. I’m sorry I couldn’t look you in the eye and, instead, doubled-down and began talking loudly about our shared childhood, even though there is no audio on the kiss cam.\n When you kicked my foot, and I realized you were mad, I’m sorry that I tried to make it up to you with a tongue-forward kiss, forgetting that the crowd believed you to be my sister. I’m sorry you had to hear 14,000 people make a collective noise of shock and disgust while your beautiful face was projected on the largest possible screen.\n I’m sorry that this all happened after the screen was expanded in 2024.\n I’m sorry that I stood up t…",
+          "link": "https://www.mcsweeneys.net/articles/honey-im-sorry-i-messed-up-our-moment-on-the-kiss-cam",
+          "publishedOn": "2026-05-13T16:40:00.000Z",
+          "wordCount": 2509,
+          "title": "Honey, I’m Sorry I Messed Up Our Moment on the Kiss Cam",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/skn5ny823aze0ib2gwbpbwrb8a4b"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/exploremores-girl-scout-cookie",
+          "author": "Alice M. Phillips",
+          "description": "A few months ago, I was tending to my newborn when across the room my phone pinged. I ignored it. Within a few minutes, however, continuing to do so became impossible, not just because of my compulsive urge to touch my phone every four seconds, but also because the device was seized by such a frenzy of notifications it threatened to buzz right off my dresser.\n A wave of anxiety swept over me as I opened the kindergarten moms’ exploding group text—please, not more head lice.\n But no! This was a good group-text freak-out. It was the call of America’s most beloved (nonprofit) multi-level marketing scheme.\n One of my son’s classmates was selling Girl Scout cookies.\n I loaded the order form and promptly set aside all New Year’s resolutions. It had been years since I’d had Girl Scout cookies, an…",
+          "link": "https://www.mcsweeneys.net/articles/exploremores-girl-scout-cookie",
+          "publishedOn": "2026-05-13T12:59:00.000Z",
+          "wordCount": 2768,
+          "title": "Reviews of New Food: Exploremores Girl Scout Cookie",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8t1b7nipexago8o0jfuako3dads6"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/great-american-novels-the-college-years",
           "author": "Adam Dietz",
           "description": "The Catcher in the Rye: The College Years\n If you thought Holden Caulfield was insufferable before, you’ll find that expulsion from prep school was a mere warm-up for the incessant grousing and myriad of beefs inherent in life as an English undergrad. Armed with the perceived moral high ground and loads of what he calls “lived experience,” this sequel sees the creative writing major crafting some pretty bad fiction while clashing with a dean intent on his demise.\n Moby-Dick: The College Years\n Having survived the sinking of the Pequod and documented the events in more detail than was necessary, Ishmael attempts to reinvent himself, trading in the high seas for higher ed, and asking classmates to call him “Ish.” Not unlike the jock who peaked in high school, our narrator struggles with navi…",
@@ -11851,6 +11931,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112056 at https://www.eff.org",
+          "author": "Lena Cohen",
+          "description": "Millions of people around the world use EFF's Privacy Badger. This browser extension blocks the hidden trackers that twist your web browsing into a commodity for Big Tech, advertisers, scammers, and data brokers. But did you know that we’re trying to solve an issue that’s even bigger than creepy ads and user profiling? You can help.\nJOIN EFF\nOnline tracking isn't just creepy and unethical. It also enables government surveillance. Widespread commercial surveillance and weak privacy laws allow data brokers to harvest your data and sell it to law enforcement agencies including the FBI, CBP, and ICE. The government exploits this system to buy sensitive information about you that they would ordinarily need a warrant to collect, like your location over time. \nWith your help, EFF is fighting back…",
+          "link": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
+          "publishedOn": "2026-05-13T17:10:44.000Z",
+          "wordCount": 1626,
+          "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate.png",
+            "alt": "An orange cat climbs an ALPR camera to swat at surveillance drones in a blue night sky.",
+            "type": "image/png",
+            "length": "212563"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate.png"
+        },
+        {
+          "id": "112068 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "As statehouses ramp up for 2026, we’re seeing a familiar and concerning trend of lawmakers rushing to regulate the internet based on shockingly shaky science. From the California State Assembly to the Massachusetts and Minnesota legislatures, a wave of bills is crashing against the digital lives of young people, with proponents of these measures framing social media access as a \"public health epidemic,\" or a \"mental health crisis,\" even though we have yet to see any of the settled science that those labels usually invoke.\nAs a digital rights organization dedicated to the civil liberties of all users, EFF’s expertise lies in reminding lawmakers that young people enjoy largely the same free speech and privacy rights as adults. EFF is not a social science research shop, but we can read the em…",
+          "link": "https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth",
+          "publishedOn": "2026-05-13T16:48:05.000Z",
+          "wordCount": 3057,
+          "title": "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
+            "alt": "two kids on a huge laptop, spied on by an eye in magnifying glass",
+            "type": "image/png",
+            "length": "1249014"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
+        },
         {
           "id": "112067 at https://www.eff.org",
           "author": "Thorin Klosowski",
