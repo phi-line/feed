@@ -4087,6 +4087,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=556806",
+          "author": "Nathan Dalton",
+          "description": "He’s emceed Woodstock, lived with Bob Dylan, clowned for the Grateful Dead, co-founded a summer camp and saved the eyesight of millions. A resident of Berkeley since the ’70s, he’s being feted this weekend.",
+          "link": "https://www.berkeleyside.org/2026/05/12/wavy-gravy-90th-birthday",
+          "publishedOn": "2026-05-12T21:18:33.000Z",
+          "wordCount": 9308,
+          "title": "Wavy Gravy, most famous counterculture icon alive in Berkeley, turns 90",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/online-0360_041321_dg_0083.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556799",
+          "author": "Vanessa Arredondo",
+          "description": "The Berkeley school board has rescinded 330 layoff and reduction notices, but there are 21 non-teacher positions that remain on the list.",
+          "link": "https://www.berkeleyside.org/2026/05/12/berkeley-unified-budget-layoffs-after-school-coordinators",
+          "publishedOn": "2026-05-12T20:30:59.000Z",
+          "wordCount": 7072,
+          "title": "Berkeley’s after-school coordinators still set to lose jobs after most other layoff notices are rescinded",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Natera_AfterschoolProgram_Washington_250515_11.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=556775",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/05/12/zengs-family-kitchen-kitava-neighborhood-sports-club-open",
+          "publishedOn": "2026-05-12T19:00:00.000Z",
+          "wordCount": 7018,
+          "title": "New addition to Swan’s Market, Kitava expands to the east, and more openings",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/ZengsFamilyKitchen-OakWok-Swans.jpg?fit=2000%2C1435&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=556774",
           "author": "Colin Lecher | CalMatters and Mikhail Zinshteyn | CalMatters",
           "description": "A massive hack of education platform Canvas hit the University of California and Peralta systems hard. What happens next?",
@@ -7622,16 +7652,6 @@
           "publishedOn": "2026-02-14T00:23:32.000Z",
           "wordCount": null,
           "title": "Jill Scott: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q-NDZ31pXmM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q-NDZ31pXmM",
-          "publishedOn": "2026-02-12T10:01:17.000Z",
-          "wordCount": null,
-          "title": "Sarah McLachlan: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11969,6 +11989,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112067 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "Last week, Instagram ended its opt-in, and therefore rarely used, end-to-end encryption feature. Years after publicly promising to provide the privacy protections of end-to-end encryption across its platforms by default, it instead gave up on that technical challenge. Now, we've all lost an option for safer conversations on one of the biggest social media platforms in the world.\nIn an announcement in 2023, Meta bragged about how it had successfully encrypted Messenger, and teased that Instagram was in progress. Even before then, they’d talked about how important encryption was in Messenger and Instagram in a white paper published in 2022, stating: \nWe want people to have a trusted private space that’s safe and secure, which is why we’re taking our time to thoughtfully build and implement e…",
+          "link": "https://www.eff.org/deeplinks/2026/05/broken-promises-rip-instagrams-end-end-encrypted-dms",
+          "publishedOn": "2026-05-12T22:11:00.000Z",
+          "wordCount": 1597,
+          "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "35296"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png"
+        },
         {
           "id": "112065 at https://www.eff.org",
           "author": "Thorin Klosowski",
