@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-13T00:43:56.998Z</updated>
+    <updated>2026-05-13T07:05:24.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[These Wild Young People]]></title>
+        <id>https://asteriskmag.com/issues/14/these-wild-young-people</id>
+        <link href="https://asteriskmag.com/issues/14/these-wild-young-people"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gen Z are a bunch of cowards…or are they risking it all on crypto? The editors of The New Critic report on their generation’s Risk-geist.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broken Promises: RIP Instagram’s End-to-End Encrypted DMs]]></title>
         <id>112067 at https://www.eff.org</id>
@@ -15408,29 +15418,6 @@ Beginning in early March, users who are either (a) estimated by Discord to be un
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Give Us Access to Your Ring Camera and Maybe We’ll Find Your Dog]]></title>
-        <id>https://www.mcsweeneys.net/articles/give-us-access-to-your-ring-camera-and-maybe-well-find-your-dog</id>
-        <link href="https://www.mcsweeneys.net/articles/give-us-access-to-your-ring-camera-and-maybe-well-find-your-dog"/>
-        <updated>2026-02-12T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“A new feature from Ring Camera is causing a stir online. The AI-powered ‘search party’ feature helps locate lost pets, but some are questioning its impact on privacy.” — NBC News
- - - -
-Oh no, did Buster get out again? Because your white-picket-fence suburban dream doesn’t actually include a physical fence? That’s terrible. Hopefully, he doesn’t run in the direction of the freeway right over there. Time is of the essence to get him back—let us help you; give us access to your Ring camera. Give us access to every Ring camera in your neighborhood.
- We at Ring believe dogs are part of the family. And family is more important than silly, abstract, constitutional things like a citizen’s “right to privacy.” Ring’s Search Party is a one-of-a-kind AI tool that is for finding dogs, and totally not…]]></summary>
-        <author>
-            <name>Madeline Goetz and Will Lampe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHS Said It Was Targeting the 'Worst of the Worst' in Maine. It Swept Up Asylum Seekers and Noncriminals.]]></title>
-        <id>https://reason.com/?p=8368367</id>
-        <link href="https://reason.com/2026/02/12/dhs-said-it-was-targeting-the-worst-of-the-worst-in-maine-it-swept-up-asylum-seekers-and-noncriminals/"/>
-        <updated>2026-02-12T17:21:56.000Z</updated>
-        <summary type="html"><![CDATA[News outlets, civil rights groups, and court records tell a much different story than the government's claims about "Operation Catch of the Day."]]></summary>
-        <author>
-            <name>C.J. Ciaramella</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The man who transposed human thought into algebra]]></title>
         <id>https://bigthink.com/books/george-boole/</id>
         <link href="https://bigthink.com/books/george-boole/"/>
@@ -15439,97 +15426,6 @@ Oh no, did Buster get out again? Because your white-picket-fence suburban dream 
 Boole was born on November 2, 1815, at four o’clock in the afternoon, in Lincoln, England. He was the first child of John Boole, a shoemaker, and his wife Mary Ann. But John was no ordinary shoemaker — he was an enthusiast of science and mathematics, as likely to be making telescopes as shoes. Appropriately, his son George received a quality education, studying the classics as well as mathematics and learning to play the flute and piano. He quickly became fluent in Latin and Greek, a…]]></summary>
         <author>
             <name>Tom Griffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making the Vortex Mixer]]></title>
-        <id>https://www.asimov.press/p/vortex</id>
-        <link href="https://www.asimov.press/p/vortex"/>
-        <updated>2026-02-12T15:11:40.000Z</updated>
-        <summary type="html"><![CDATA[The forgotten story of an invention found in every biology lab.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5-Ingredient Mango Basil Salsa]]></title>
-        <id>https://jessicainthekitchen.com/new/?p=13113</id>
-        <link href="https://jessicainthekitchen.com/easy-mango-basil-salsa-10-minutes-vegan/"/>
-        <updated>2026-02-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This easy mango basil salsa is a sweet-and-spicy crowd-pleaser, perfect for parties or for snacking at home. You only need 5 ingredients and a few minutes to make it! I grow my own basil—three different varieties, in fact!—so it goes without saying that I am always looking for new ways to use it. Somehow, I’ve never thought […]]]></summary>
-        <author>
-            <name>Jessica Hylton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cops Are Buying ‘GeoSpy’, an AI That Geolocates Photos in Seconds]]></title>
-        <id>698dda773d89a700015fbfea</id>
-        <link href="https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/"/>
-        <updated>2026-02-12T14:14:48.000Z</updated>
-        <summary type="html"><![CDATA[404 Media has obtained a cache of internal police emails showing at least two agencies have bought access to GeoSpy, an AI tool that analyzes architecture, soil, and other features to near instantly geolocate photos.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Human Intuition Is Still Science’s Greatest Tool In The Age Of AI]]></title>
-        <id>https://www.noemamag.com/why-human-intuition-is-still-sciences-greatest-tool-in-the-age-of-ai</id>
-        <link href="https://www.noemamag.com/why-human-intuition-is-still-sciences-greatest-tool-in-the-age-of-ai"/>
-        <updated>2026-02-12T14:13:13.000Z</updated>
-        <summary type="html"><![CDATA[The post Why Human Intuition Is Still Science’s Greatest Tool In The Age Of AI appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Conor Feehly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City Council approves 8-story North Shattuck housing proposal]]></title>
-        <id>https://www.berkeleyside.org/?p=551975</id>
-        <link href="https://www.berkeleyside.org/2026/02/12/berkeley-housing-shattuck-virginia-poulet-patrick-kennedy"/>
-        <updated>2026-02-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some nearby residents wanted to block the 110-unit apartment complex, calling it a "behemoth" and “monstrosity.” But council members said they want more housing in North Berkeley.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock license plate scanner contract postponed by Alameda County leaders]]></title>
-        <id>https://oaklandside.org/?p=469023</id>
-        <link href="https://www.berkeleyside.org/2026/02/12/flock-contract-alameda-county-ice-federal"/>
-        <updated>2026-02-12T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The Board of Supervisors has questions for the sheriff about the controversial surveillance company.]]></summary>
-        <author>
-            <name>Eli Wolfe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Valentine’s crafts, noon concerts, dance company anniversary]]></title>
-        <id>https://www.berkeleyside.org/?p=551955</id>
-        <link href="https://www.berkeleyside.org/2026/02/12/around-berkeley-valentines-crafts-noon-concerts-dance-company-anniversary"/>
-        <updated>2026-02-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a Bridgerton and Indonesian-inspired tea experience, as well as a children's book fair celebrating Black authors.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviews of New Food: Trolli Gummi Pops]]></title>
-        <id>https://www.mcsweeneys.net/articles/trolli-gummi-pops</id>
-        <link href="https://www.mcsweeneys.net/articles/trolli-gummi-pops"/>
-        <updated>2026-02-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a child, my secret “cool kid” skill was the ability to eat the sourest candy—the kind that children only pop into their mouths when dared by the neighborhood bully—and shrug it off like it was absolutely nothing. The mean kids would encourage me to eat yet another Warhead or Tear Jerker, but I’d wolf it and stare back at their surprised faces without so much as an eye twitch. I not only tolerated the sourness well, I reveled in it. Warheads, sour gummies of any shape, entire lemons: If it had that puckering taste, I would demolish it.
- No sour confection is safe when I am near. So when my friend Wyatt first introduced me to Trolli sour gummies years ago, I promptly asked him to hide the bag from me. Because for me, there was only eating Trolli sour gummies until I burned away all my tas…]]></summary>
-        <author>
-            <name>Erica Lies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will You Be My Situation-tine?]]></title>
-        <id>https://www.mcsweeneys.net/articles/will-you-be-my-situation-tine</id>
-        <link href="https://www.mcsweeneys.net/articles/will-you-be-my-situation-tine"/>
-        <updated>2026-02-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For people in relationships, February 14 is a day to celebrate love and romance with a heart-shaped box of chocolates and a thoughtfully written card. But for those in less clear-cut dynamics, Valentine’s Day creates a difficult quandary: How to acknowledge your insignificant other without jeopardizing the carefully crafted gray area of your situationship. They’re definitely not your Valentine, but they’re still… something. And surely that something deserves a card too?]]></summary>
-        <author>
-            <name>Anne Marie Wonder and Madeleine Trebenski</name>
         </author>
     </entry>
     <entry>
