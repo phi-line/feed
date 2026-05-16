@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-16T00:40:41.118Z</updated>
+    <updated>2026-05-16T06:49:08.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s recipe for cauliflower and parmesan risotto with lemon breadcrumbs | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/may/16/cauliflower-parmesan-risotto-recipe-lemon-breadcrumbs-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/may/16/cauliflower-parmesan-risotto-recipe-lemon-breadcrumbs-meera-sodha"/>
+        <updated>2026-05-16T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[A lighter risotto made with whizzed cauliflower as well as rice, but with a reassuringly rich cheese sauce
+In series eight of Peep Show, Mark (David Mitchell) is working as a salesman in a bathroom shop when a customer asks him for a “modern but traditional” bathroom. Aghast, he tells the customer that these opposing styles can’t be married when his boss, Super Hans, swoops in to say they can: “Fancy taps but a rainforest shower head?” I was reminded of this silliness because here I’ve tried to create a risotto of opposing styles: lighter than a traditional one, because I’m using some blitzed cauliflower, while maintaining that richness you get from a cauliflower cheese. I think it works, but I’ll let you be the judge.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tech Companies to Discuss Iran's Future During 'Private Conference' at Uber HQ]]></title>
         <id>6a0789ed08d1d400011ff932</id>
@@ -191,6 +203,15 @@ US Army’s core values, traditions, and ethics
         <updated>2026-05-15T09:00:35.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speedrun]]></title>
+        <id>https://xkcd.com/3246/</id>
+        <link href="https://xkcd.com/3246/"/>
+        <updated>2026-05-15T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
