@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-18T18:39:01.046Z</updated>
+    <updated>2026-05-19T00:46:53.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley could extend parking meter hours, hike cost of tickets and permits]]></title>
+        <id>https://www.berkeleyside.org/?p=551057</id>
+        <link href="https://www.berkeleyside.org/2026/05/18/berkeley-parking-meter-rate-extended-hours-sunday"/>
+        <updated>2026-05-18T22:55:53.000Z</updated>
+        <summary type="html"><![CDATA[The City Council is expected to vote Tuesday on a package of changes to parking rules that could generate nearly $5 million amid a budget crunch.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to go for last-minute camping near Berkeley this Memorial Day weekend]]></title>
+        <id>https://www.berkeleyside.org/?p=494549</id>
+        <link href="https://www.berkeleyside.org/2026/05/18/camping-bay-area-northern-california-sierra-no-reservation"/>
+        <updated>2026-05-18T21:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Didn’t plan ahead? We’ve got tips for finding a scenic spot to sleep under the stars — even when traditional campsites are already reserved.]]></summary>
+        <author>
+            <name>Ally Markovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFFecting Change: LGBTQ+ Solidarity Against the Tide of Surveillance]]></title>
+        <id>112078 at https://www.eff.org</id>
+        <link href="https://www.eff.org/event/effecting-change-lgbtq-solidarity-against-tide-surveillance"/>
+        <updated>2026-05-18T20:20:36.000Z</updated>
+        <summary type="html"><![CDATA[June 17, 2026 - 9:00am to 10:00am PDT
+
+
+June 17, 2026 - 9:00am to 10:00am PDT
+
+
+Online
+
+
+
+LGBTQ+ communities are facing an escalating wave of censorship and targeted surveillance, but we can push back through mutual solidarity. Join us live to learn how safer virtual spaces get built, how platform policies and government pressure are reshaping the digital landscape, and what platform accountability actually looks like. Our panel will share ideas for direct action and concrete strategies you can bring back to your community. Whether you’re an activist, an ally, or just paying attention, this conversation is for you. Join the livestream online followed by live Q&A.
+EFFecting Change Livestream Series:
+LGBTQ+ Solidarity Against the Tide of Surveillance
+Wednesday, June 17th
+9:00 am - 10:00 am P…]]></summary>
+        <author>
+            <name>Melissa Srago</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The FBI Wants to Buy Nationwide Access to License Plate Readers]]></title>
         <id>6a0b5726ae17c4000147e77b</id>
@@ -14,6 +58,19 @@
         <summary type="html"><![CDATA[Only a couple vendors could likely fulfill what the FBI is after, namely Flock and Motorola.]]></summary>
         <author>
             <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Updated Our Privacy Policy. Here's What Changed and Why.]]></title>
+        <id>112077 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why"/>
+        <updated>2026-05-18T18:03:04.000Z</updated>
+        <summary type="html"><![CDATA[We recently updated our privacy policy for the first time since 2022. Most of the changes are clarifications, reorganizations, and improvements in transparency, particularly around how third-party tools that run parts of our site operate. But one change is substantive enough that we want to address it directly.
+The Change You Should Know About: Opt-In Email Tracking
+We want to know how we’re doing with our advocacy: which campaigns get your attention and which do not, which topics you are very interested in, which less so, and which not at all. It helps us to do our work better and to prioritize or rethink our strategies as we push to build support for freedom, justice and innovation around the world.
+So, to give us a rough picture of how we’re doing, we are introducing the option for you …]]></summary>
+        <author>
+            <name>Lena Gunn</name>
         </author>
     </entry>
     <entry>
@@ -111,12 +168,31 @@ These lists, along with everything McSweeney’s publishes on this site, are off
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[El brutal ciclo anual de despidos en escuelas de Berkeley deja a trabajadores en limbo]]></title>
+        <id>https://www.berkeleyside.org/?p=557065</id>
+        <link href="https://www.berkeleyside.org/2026/05/18/el-brutal-ciclo-anual-de-despidos-en-escuelas-de-berkeley-deja-a-trabajadores-en-limbo"/>
+        <updated>2026-05-18T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Los empleados afectados por el ciclo de notificaciones de despido del distrito escolar de BUSD afirman que esto les genera estrés, falta de sueño y temor por su sustento.]]></summary>
+        <author>
+            <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vince Gill: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=Cg6E3lppn0I</id>
         <link href="https://www.youtube.com/watch?v=Cg6E3lppn0I"/>
         <updated>2026-05-18T09:00:27.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Particle Census]]></title>
+        <id>https://xkcd.com/3247/</id>
+        <link href="https://xkcd.com/3247/"/>
+        <updated>2026-05-18T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -15349,25 +15425,6 @@ The post The Biophysical World Inside a Jam-Packed Cell first appeared on Quanta
         <summary type="html"><![CDATA[Linda Galijan will be the center’s third leader in its 59-year history.]]></summary>
         <author>
             <name>Nathan Dalton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trump Administration's War Against ICE Critics]]></title>
-        <id>https://reason.com/?p=8368969</id>
-        <link href="https://reason.com/2026/02/18/the-trump-administrations-war-against-ice-critics/"/>
-        <updated>2026-02-18T12:00:48.000Z</updated>
-        <summary type="html"><![CDATA[By conflating opposition with terrorism, federal officials go down a dangerous path.]]></summary>
-        <author>
-            <name>J.D. Tuccille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ganavya: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=e-YIKQTdWPY</id>
-        <link href="https://www.youtube.com/watch?v=e-YIKQTdWPY"/>
-        <updated>2026-02-18T10:01:05.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
