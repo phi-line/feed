@@ -456,6 +456,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/chinas-last-bus",
+          "author": null,
+          "description": "China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.",
+          "link": "https://asteriskmag.com/issues/14/chinas-last-bus",
+          "publishedOn": "2026-05-20T00:00:00.000Z",
+          "wordCount": 5461,
+          "title": "Boarding China’s Last Bus",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/chinas-last-bus/ab04fc51b8-1779212603/chinas-last-bus-zilan-qian-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/these-wild-young-people",
           "author": null,
           "description": "Gen Z are a bunch of cowards…or are they risking it all on crypto? The editors of The New Critic report on their generation’s Risk-geist.",
@@ -4017,6 +4027,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557109",
+          "author": "Felicia Mello",
+          "description": "A first-of-its-kind collaboration between Ohlone youth and UC Berkeley’s Lawrence Hall of Science almost fell apart when a federal grant was axed. Then researchers took the Trump administration to court — and won.",
+          "link": "https://www.berkeleyside.org/2026/05/19/lawrence-hall-of-science-yuutka-the-place-of-the-acorn",
+          "publishedOn": "2026-05-20T00:04:38.000Z",
+          "wordCount": 9273,
+          "title": "The Indigenous exhibit that Trump failed to stop",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-Yuutka-Experience-at-Lawrence-Hall-of-Science-12.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557089",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/05/19/there-there-marufuku-ramen-west-coast-sourdough",
+          "publishedOn": "2026-05-19T19:45:00.000Z",
+          "wordCount": 6585,
+          "title": "There/There, where Friends & Family was, will follow in celebrated queer bar’s legacy",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/FriendsAndFamily-Bar.jpg?fit=2000%2C1408&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557078",
+          "author": "Nastia Voynovskaya | KQED",
+          "description": "Artist Space Trust, launched in 2023, wants to make sure the Bay Area can remain a creative hub.",
+          "link": "https://www.berkeleyside.org/2026/05/19/artist-space-trust-berkeley",
+          "publishedOn": "2026-05-19T19:01:24.000Z",
+          "wordCount": 8560,
+          "title": "Berkeley land trust aims to keep artists housed in the Bay Area",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/image-18.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557052",
           "author": "Tony Hicks",
@@ -11910,6 +11950,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112082 at https://www.eff.org",
+          "author": "Betty Gedlu",
+          "description": "For years, civil society organizations, workers, journalists, and human rights experts have warned that major technology companies risk enabling grave human rights abuses when they provide cloud computing, AI, and surveillance infrastructure to governments implicated in violations of international and humanitarian law. While many companies pay lip service to evaluating customers and contracts for human rights implications (lip service Exhibit A: Palantir!), too often those processes fail to provide any meaningful accountability when their standards are not met or are simply ignored. But recent developments at Microsoft suggest that accountability for failing to uphold the human rights standards that a company itself sets, even if incomplete, is possible. \nAccording to recent reporting, Mic…",
+          "link": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+          "publishedOn": "2026-05-19T21:03:40.000Z",
+          "wordCount": 2257,
+          "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/np-logo-banner.png",
+            "alt": "Necessary &amp; Proportionate logo",
+            "type": "image/png",
+            "length": "18895"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/np-logo-banner.png"
+        },
         {
           "id": "112076 at https://www.eff.org",
           "author": "Mario Trujillo",
