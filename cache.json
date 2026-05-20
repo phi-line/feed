@@ -2481,36 +2481,6 @@
           "wordCount": 1040,
           "title": "Man Opposing Data Center Arrested for Speaking Slightly Too Long",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/Screenshot-2026-02-19-140649-1.png"
-        },
-        {
-          "id": "6997462202276e000162898b",
-          "author": "Emanuel Maiberg",
-          "description": "“Looksmaxxers” are losers and freaks, but we let them steer the culture when we adopt their terminology.",
-          "link": "https://www.404media.co/we-have-learned-nothing-about-amplifying-morons/",
-          "publishedOn": "2026-02-19T17:38:18.000Z",
-          "wordCount": 2003,
-          "title": "We Have Learned Nothing About Amplifying Morons",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/piers.jpg"
-        },
-        {
-          "id": "6997260502276e0001627502",
-          "author": "Noelle Perdue",
-          "description": "In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
-          "link": "https://www.404media.co/grok-doxing-real-names-birthdates-siri-dahl/",
-          "publishedOn": "2026-02-19T16:01:50.000Z",
-          "wordCount": 1689,
-          "title": "Grok Exposed a Porn Performer’s Legal Name and Birthdate—Without Even Being Asked",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/IMG_3604-1.jpeg"
-        },
-        {
-          "id": "6994821802276e00015b0a5d",
-          "author": "Matthew Gault",
-          "description": "Users are exhausted fighting AI moderation, AI-generated art, and AI-first features.",
-          "link": "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/",
-          "publishedOn": "2026-02-19T14:24:44.000Z",
-          "wordCount": 2093,
-          "title": "Pinterest Is Drowning in a Sea of AI Slop and Auto-Moderation",
-          "imageUrl": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFBpbnRlcmVzdHxlbnwwfHx8fDE3NzEzNDAzNzJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
@@ -2519,6 +2489,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8382475",
+          "author": "Jacob Sullum",
+          "description": "That defense applies only when an officer \"reasonably\" believed he was acting within his federal authority.",
+          "link": "https://reason.com/2026/05/20/a-state-assault-case-against-an-ice-agent-could-illustrate-the-limits-of-supremacy-clause-immunity/",
+          "publishedOn": "2026-05-20T04:01:26.000Z",
+          "wordCount": null,
+          "title": "A State Assault Case Against an ICE Agent Could Illustrate the Limits of Supremacy Clause Immunity",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8382295",
           "author": "Jacob Sullum",
@@ -3185,22 +3166,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce70d617-52b4-4a2a-b3cc-efcac796d964_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/baseline-drift",
-          "author": "Asimov Press",
-          "description": "A eulogy to the reference human.",
-          "link": "https://www.asimov.press/p/baseline-drift",
-          "publishedOn": "2026-02-19T15:54:12.000Z",
-          "wordCount": null,
-          "title": "Baseline Drift",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!fCAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05e84766-9161-4fde-ae0e-2952d80a3386_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!fCAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05e84766-9161-4fde-ae0e-2952d80a3386_2000x1260.jpeg"
         }
       ]
     },
@@ -4009,16 +3974,6 @@
           "wordCount": 3388,
           "title": "The Climate Won’t Bend To Trump’s Will To Power",
           "imageUrl": "https://noemamag.imgix.net/2026/02/Noema_color_v1-17-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9ded16e3f7245bb07bf1d2640d6c8777"
-        },
-        {
-          "id": "https://www.noemamag.com/the-quest-for-clean-cargo",
-          "author": "Julian Sayarer",
-          "description": "The post The Quest For Clean Cargo appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-quest-for-clean-cargo",
-          "publishedOn": "2026-02-19T14:42:10.000Z",
-          "wordCount": 18770,
-          "title": "The Quest For Clean Cargo",
-          "imageUrl": "https://noemamag.imgix.net/2026/02/Final-5.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=148d064e2afce712106eb2425d9dce6f"
         }
       ]
     },
@@ -6766,26 +6721,6 @@
           "wordCount": 7555,
           "title": "Cal’s and Mt. Agni go dark, plus the last East Bay outpost of a classic Italian deli has closed",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CalsFriedChickenBurgers.jpg?fit=1920%2C1079&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552417",
-          "author": "Nico Savidge",
-          "description": "Berkeley spent tens of millions of dollars on non-competitive contracts for deals that should have gone out to bid, the city’s auditor found, though there was no evidence of corruption or favoritism.",
-          "link": "https://www.berkeleyside.org/2026/02/19/berkeley-contract-audit-non-competitive",
-          "publishedOn": "2026-02-19T18:02:16.000Z",
-          "wordCount": 7873,
-          "title": "No-bid city contracts could be giving Berkeley a bad deal, audit finds",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2019/11/DSC_0805-e1573533967862.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552349",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include an author talk by antifascist and sex activist Kitty Stryker and a musical featuring two lovers bonding through music.",
-          "link": "https://www.berkeleyside.org/2026/02/19/around-berkeley-lunar-new-year-youth-orchestra-concert-free-wood-chips",
-          "publishedOn": "2026-02-19T14:00:00.000Z",
-          "wordCount": 8216,
-          "title": "Around Berkeley: Lunar New Year, youth orchestra concert, free wood chips",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/teance-lunar-new-year.png?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -11922,26 +11857,6 @@
           "wordCount": 2565,
           "title": "I Am the “Kid” in Kid Rock’s Name and I Officially Quit",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/n8ru4kj5ro7w6svof9xbu4kthgyv"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/our-mission-at-the-environmental-protection-agency-is-simple-destroy-the-environment",
-          "author": "Luke Strom",
-          "description": "“President Trump announced he was erasing the scientific finding that climate change endangers human health and the environment, ending the federal government’s legal authority to control the pollution that is dangerously heating the planet.” — New York Times\n - - -\nThe EPA was founded in 1970 to protect public health and the environment. But now, as a result of President Trump’s forward-thinking leadership, our mission at the Environmental Protection Agency is simple: Destroy the environment.\n The threats posed by the environment are far-reaching: sunsets, strawberries, and a climate capable of sustaining human life, to name only a few. Immediate action must be taken before these risks become full-fledged catastrophes.\n With the president’s approval, we have officially terminated Obama-er…",
-          "link": "https://www.mcsweeneys.net/articles/our-mission-at-the-environmental-protection-agency-is-simple-destroy-the-environment",
-          "publishedOn": "2026-02-19T18:15:00.000Z",
-          "wordCount": 2460,
-          "title": "Our Mission at the Environmental Protection Agency Is Simple: Destroy the Environment",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/c541c1f2qq5srotm30teiwslzevy"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/an-old-west-duel-narrated-by-the-guy-that-named-the-ten-gallon-hat",
-          "author": "Tyler Gooch",
-          "description": "The lawman, Emmett Bransky, stands with his back to the outlaw “Coyote” Roscoe Higgins in the middle of Main Street mere minutes before high noon. Emmett gently adjusts his modest 6-Gallon hat. His 36-Pint vest is buttoned up to the collar, and his 4-Teaspoon belt buckle sparkles in the near-midday sun. Roscoe snarls beneath his standard 10-Gallon cowboy hat. His 50-Pint overcoat flaps in the wind, revealing an 8-Liter wool shirt with a 1-Big-Soup-Ladle chest pocket.\n The two men take their paces. Their 5-Pint boots dig into the dry, Arizona dirt road. Onlookers line Main Street wearing hats ranging from 4 to an absurd 12 gallons. “Shotgun” Dakota Devlin is clearly compensating for something with that hat.\n Della Hayes, Roscoe Higgins’ rumored lover, watches from the spacious 60-Laundry-Ba…",
-          "link": "https://www.mcsweeneys.net/articles/an-old-west-duel-narrated-by-the-guy-that-named-the-ten-gallon-hat",
-          "publishedOn": "2026-02-19T13:01:00.000Z",
-          "wordCount": 2449,
-          "title": "An Old West Duel Narrated by the Guy That Named the Ten-Gallon Hat",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1dqepgxw47hd1hby4k6spkf2dyd4"
         }
       ]
     },
