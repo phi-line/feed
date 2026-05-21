@@ -593,6 +593,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a0f00c01a02e70001edd69f",
+          "author": "Matthew Gault",
+          "description": "The Library of Leng contains old usenet posts and forgotten articles from Magic: the Gathering's long history.",
+          "link": "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
+          "publishedOn": "2026-05-21T13:08:47.000Z",
+          "wordCount": 1831,
+          "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/29384756667_e09f5698bc_k-1.jpg"
+        },
+        {
+          "id": "6a0e4f8c466db00001549d1d",
+          "author": "Becky Ferreira",
+          "description": "Fossils unearthed in the Northwest Territories push the origins of animal sex back by 5-10 million years and reveal the earliest examples of locomotion in the fossil record.",
+          "link": "https://www.404media.co/the-oldest-evidence-of-animal-sex-has-been-found-and-its-mind-boggling/",
+          "publishedOn": "2026-05-21T13:00:28.000Z",
+          "wordCount": 1904,
+          "title": "The Oldest Evidence of Animal Sex Has Been Found, and It’s Mind-Boggling",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image2.jpg"
+        },
+        {
           "id": "6a0db875466db0000152079b",
           "author": "Matthew Gault",
           "description": "\"I can’t take it anymore. The threats,\" the treasurer said. The planned data center is part of OpenAI and Oracle's Stargate initiative.",
@@ -2500,6 +2520,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8378389",
+          "author": "C.J. Ciaramella",
+          "description": "An armed IRS agent roaming the streets should send shivers down the spine of any freedom-loving American.",
+          "link": "https://reason.com/2026/05/21/beware-the-blob-of-federal-police/",
+          "publishedOn": "2026-05-21T10:00:17.000Z",
+          "wordCount": null,
+          "title": "It's Not Just ICE Stockpiling Weapons—the IRS, EPA, and Other Feds Are Arming Up Too",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8382475",
           "author": "Jacob Sullum",
           "description": "That defense applies only when an officer \"reasonably\" believed he was acting within his federal authority.",
@@ -3212,26 +3243,6 @@
           "publishedOn": "2026-03-24T16:49:43.000Z",
           "wordCount": 1611,
           "title": "Protected: The Buffalo Raiders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=51879",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: Master and Commander appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2026/sea-shanty-labor-investigation",
-          "publishedOn": "2026-02-20T21:50:13.000Z",
-          "wordCount": 1671,
-          "title": "Protected: Master and Commander",
-          "imageUrl": null
-        },
-        {
-          "id": "https://magazine.atavist.com/?p=51879",
-          "author": "Ed Johnson",
-          "description": "There is no excerpt because this is a protected post.\nThe post Protected: Master and Commander appeared first on The Atavist Magazine.",
-          "link": "https://magazine.atavist.com/2026/sea-shanty-slavery",
-          "publishedOn": "2026-02-20T21:50:13.000Z",
-          "wordCount": 1649,
-          "title": "Protected: Master and Commander",
           "imageUrl": null
         }
       ]
@@ -3982,6 +3993,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557203",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a Bay Area foraging class, a lecture on house music and the Berkeley Community Chorus and Orchestra’s 60th anniversary.",
+          "link": "https://www.berkeleyside.org/2026/05/21/around-berkeley-shakespeare-in-john-hinkel-park-free-but-chancy-haircuts",
+          "publishedOn": "2026-05-21T13:00:00.000Z",
+          "wordCount": 8354,
+          "title": "Around Berkeley: Shakespeare in John Hinkel Park, free but chancy haircuts",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Loves-Labour-Lost.png?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557199",
           "author": "Nico Savidge",
@@ -6711,16 +6732,6 @@
           "wordCount": 10047,
           "title": "What isn’t Berkeley flash fiction master Grant Faulkner doing next?",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/grant-faulkner.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552488",
-          "author": "Felicia Mello",
-          "description": "It is one of 31 colleges that the Education Department says have ended relationships with The PhD Project, a nonprofit that for decades has helped Black, Latino and Native American students get business doctorates.",
-          "link": "https://www.berkeleyside.org/2026/02/20/uc-berkeley-phd-project-trump-department-of-education",
-          "publishedOn": "2026-02-20T19:40:40.000Z",
-          "wordCount": 8177,
-          "title": "UC Berkeley cuts ties with nonprofit focused on diversity amid Trump administration pressure",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/AP25115700441572.jpg"
         }
       ]
     },
@@ -10178,6 +10189,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/epidurals-for-him",
+          "author": "Ginny Hogan",
+          "description": "You’ve had a long, hard nine months. Your wife’s been pregnant, and in month nine, she was so uncomfortable in bed that she made you sleep on the futon. Twice.\n And yet, you survived. At long last, the big day is upon you. A baby’s birth is a significant medical event, and pain management is critical. It takes two people to make a baby, which is why we’ve designed Epidurals, for Him.\n The Labor Room Is a Hostile Environment\n The labor and delivery market has long been characterized by a significant pain management gap. While existing clinical infrastructure reliably serves one demographic—namely, the birthing person—it systematically neglects another: you, the person who drove her there. The medical system is famously biased in favor of women: indeed, over 90 percent of pregnancy-related e…",
+          "link": "https://www.mcsweeneys.net/articles/epidurals-for-him",
+          "publishedOn": "2026-05-21T12:00:00.000Z",
+          "wordCount": 2757,
+          "title": "Epidurals, for Him",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/7hc2301cz7hyhmg3m8liqrfg687d"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/easier-way-to-win-a-million-dollars-going-on-survivor-or-storming-the-capitol",
           "author": "Rachel Levit Ades",
