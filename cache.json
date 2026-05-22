@@ -7104,6 +7104,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CEHm9LK9vtU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CEHm9LK9vtU",
+          "publishedOn": "2026-05-22T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Laurie Anderson: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2OotD-iJO80",
           "author": null,
           "description": "",
@@ -10261,6 +10271,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/ill-take-this-costco-sample-but-only-so-i-can-make-an-informed-purchasing-decision",
+          "author": "Tyler Gooch",
+          "description": "Oh, hello—sorry, almost didn’t see you here at the end of the aisle with your hairnet and your alluring toaster oven full of mysterious, cost-free delicacies. I was just passing by, shopping for things that cost money. That’s what I do when I come here. I participate in the bulk-purchase economy.\n My stumbling upon your cart of treats just as you took them out of the toaster oven was a mere happenstance. I wasn’t loitering, watching you like a hungry lioness crouched in the grass, eyeing a decrepit gazelle straggling at the back of the herd. I was just standing here, seriously considering purchasing this $4,000 massage chair, which just so happens to be displayed between the eighty-four-packs of Dr Pepper and your sample stand with its scrumptious aroma.\n Oh, I suppose if you insist (by si…",
+          "link": "https://www.mcsweeneys.net/articles/ill-take-this-costco-sample-but-only-so-i-can-make-an-informed-purchasing-decision",
+          "publishedOn": "2026-05-22T12:00:00.000Z",
+          "wordCount": 2898,
+          "title": "I’ll Take This Costco Sample, but Only So I Can Make an Informed Purchasing Decision",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/drx90z00i7978utxj6i8raip28u8"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/thirteen-ways-of-looking-at-ai",
           "author": "Kristina Grob",
