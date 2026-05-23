@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-23T06:57:51.454Z</updated>
+    <updated>2026-05-23T12:23:27.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -78,6 +78,16 @@ Today’s recipe is based on the famous spaghetti all’assassina, a dish native
         <summary type="html"><![CDATA[BUSD leaders’ budget woes were eased somewhat last week when they learned they can count on at least $2.7 million in state money the governor had threatened to withdraw.]]></summary>
         <author>
             <name>Vanessa Arredondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banana Chocolate Chip Muffins]]></title>
+        <id>https://jessicainthekitchen.com/?p=74226</id>
+        <link href="https://jessicainthekitchen.com/banana-chocolate-chip-muffins/"/>
+        <updated>2026-05-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you need something sweet to start your day and these banana chocolate chip muffins are here to make it happen. Moist, fluffy, and lightly spiced with cinnamon, this recipe tastes just like the classic version, but it’s entirely vegan! My peanut butter banana muffins and vegan banana bread are on frequent rotation in my […]]]></summary>
+        <author>
+            <name>Jessica from Jessica in the Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -15473,26 +15483,6 @@ It used to be thought, more than 2500 years ago, that there were fundamental “
         <updated>2026-02-23T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of the History of Science]]></title>
-        <id>https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science</id>
-        <link href="https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science"/>
-        <updated>2026-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What do Works in Progress and Social Text have in common?]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Origins of Agar]]></title>
-        <id>https://www.asimov.press/p/agar</id>
-        <link href="https://www.asimov.press/p/agar"/>
-        <updated>2026-02-22T18:59:32.000Z</updated>
-        <summary type="html"><![CDATA[First introduced into laboratories in 1881, agar remains indispensable as a culture medium.]]></summary>
-        <author>
-            <name>Corrado Nai</name>
         </author>
     </entry>
     <entry>

@@ -594,16 +594,6 @@
           "wordCount": 7203,
           "title": "Factory Logic",
           "imageUrl": "https://asteriskmag.com/media/pages/issues/13/factory-logic/4790e158ff-1772229030/afrawang-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science",
-          "author": null,
-          "description": "What do Works in Progress and Social Text have in common?",
-          "link": "https://asteriskmag.com/issues/13/a-brief-history-of-the-history-of-science",
-          "publishedOn": "2026-02-23T00:00:00.000Z",
-          "wordCount": 6555,
-          "title": "A Brief History of the History of Science",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/13/a-brief-history-of-the-history-of-science/61f93bd789-1771612812/matthewjordan-1600x900-crop-sharpen50.png"
         }
       ]
     },
@@ -3264,22 +3254,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!ezte!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bb038e-36d7-4ac7-9543-1567b44b3a43_1714x1080.gif"
-        },
-        {
-          "id": "https://www.asimov.press/p/agar",
-          "author": "Corrado Nai",
-          "description": "First introduced into laboratories in 1881, agar remains indispensable as a culture medium.",
-          "link": "https://www.asimov.press/p/agar",
-          "publishedOn": "2026-02-22T18:59:32.000Z",
-          "wordCount": null,
-          "title": "The Origins of Agar",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ce70d617-52b4-4a2a-b3cc-efcac796d964_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce70d617-52b4-4a2a-b3cc-efcac796d964_2000x1260.jpeg"
         }
       ]
     },
@@ -9968,6 +9942,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=74226",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "Sometimes you need something sweet to start your day and these banana chocolate chip muffins are here to make it happen. Moist, fluffy, and lightly spiced with cinnamon, this recipe tastes just like the classic version, but it’s entirely vegan! My peanut butter banana muffins and vegan banana bread are on frequent rotation in my […]",
+          "link": "https://jessicainthekitchen.com/banana-chocolate-chip-muffins/",
+          "publishedOn": "2026-05-22T14:00:00.000Z",
+          "wordCount": 10771,
+          "title": "Banana Chocolate Chip Muffins",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/04/Banana-Chocolate-Chip-Muffins_17.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=74649",
           "author": "Jessica from Jessica in the Kitchen",
