@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-22T18:39:24.468Z</updated>
+    <updated>2026-05-23T00:45:18.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake]]></title>
+        <id>6a10bf351a02e70001f35f12</id>
+        <link href="https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/"/>
+        <updated>2026-05-22T21:03:03.000Z</updated>
+        <summary type="html"><![CDATA[“Obviously I wasn’t thinking at all,” the driver told police, according to the footage.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Florida Detention Center Was the Harshest in the Country. Then ICE Stopped Tracking Details on Use of Force.]]></title>
+        <id>https://reason.com/?p=8383368</id>
+        <link href="https://reason.com/2026/05/22/a-florida-detention-center-was-the-harshest-in-the-country-then-ice-stopped-tracking-details-on-use-of-force/"/>
+        <updated>2026-05-22T20:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Leaked reports showed troubling uses of force and restraint chairs at the Krome North Service Processing Center—until the details disappeared.]]></summary>
+        <author>
+            <name>C.J. Ciaramella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley stands by strict rules for fire-safe homes as inspections ramp up]]></title>
         <id>https://www.berkeleyside.org/?p=557251</id>
@@ -90,6 +110,15 @@
         <updated>2026-05-22T09:00:12.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutrino Project]]></title>
+        <id>https://xkcd.com/3249/</id>
+        <link href="https://xkcd.com/3249/"/>
+        <updated>2026-05-22T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

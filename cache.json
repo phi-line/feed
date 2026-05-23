@@ -613,6 +613,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a10bf351a02e70001f35f12",
+          "author": "Matthew Gault",
+          "description": "“Obviously I wasn’t thinking at all,” the driver told police, according to the footage.",
+          "link": "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
+          "publishedOn": "2026-05-22T21:03:03.000Z",
+          "wordCount": 1351,
+          "title": "Here's the Bodycam Footage of the Cybertruck That Drove Into a Lake",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/cybertruck-art.png"
+        },
+        {
           "id": "6a1061491a02e70001f05a03",
           "author": "Samantha Cole",
           "description": "This week, we discuss Spencer Pratt, bricking phones, and the FTC.",
@@ -2550,6 +2560,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8383368",
+          "author": "C.J. Ciaramella",
+          "description": "Leaked reports showed troubling uses of force and restraint chairs at the Krome North Service Processing Center—until the details disappeared.",
+          "link": "https://reason.com/2026/05/22/a-florida-detention-center-was-the-harshest-in-the-country-then-ice-stopped-tracking-details-on-use-of-force/",
+          "publishedOn": "2026-05-22T20:10:15.000Z",
+          "wordCount": null,
+          "title": "A Florida Detention Center Was the Harshest in the Country. Then ICE Stopped Tracking Details on Use of Force.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8383012",
           "author": "C.J. Ciaramella",
           "description": "Arizona Democrats are calling for a full investigation and transparency after a medical examiner concluded Emmanuel Damas died from a severe tooth infection.",
@@ -3304,6 +3325,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3249/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3249/",
+          "publishedOn": "2026-05-22T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Neutrino Project",
+          "imageUrl": "https://imgs.xkcd.com/comics/neutrino_project_2x.png"
+        },
         {
           "id": "https://xkcd.com/3248/",
           "author": null,
