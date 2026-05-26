@@ -3192,6 +3192,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=53342",
+          "author": "Barry Meier",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: You Can Run appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+          "publishedOn": "2026-05-25T18:41:16.000Z",
+          "wordCount": 1762,
+          "title": "Protected: You Can Run",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=52949",
           "author": "Ed Johnson",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: A Hollywood Ending appeared first on The Atavist Magazine.",
@@ -3228,6 +3238,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3250/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3250/",
+          "publishedOn": "2026-05-25T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Flag Design",
+          "imageUrl": "https://imgs.xkcd.com/comics/flag_design_2x.png"
+        },
         {
           "id": "https://xkcd.com/3249/",
           "author": null,

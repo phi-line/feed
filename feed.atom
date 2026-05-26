@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-25T18:35:49.404Z</updated>
+    <updated>2026-05-26T00:46:17.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Protected: You Can Run]]></title>
+        <id>https://magazine.atavist.com/?p=53342</id>
+        <link href="https://magazine.atavist.com/2026/mccann-cocaine-fugitives"/>
+        <updated>2026-05-25T18:41:16.000Z</updated>
+        <summary type="html"><![CDATA[There is no excerpt because this is a protected post.
+The post Protected: You Can Run appeared first on The Atavist Magazine.]]></summary>
+        <author>
+            <name>Barry Meier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Incomplete List of Successful Anti-Data Center Legislation]]></title>
         <id>6a0c9b09ae17c400014a89d3</id>
@@ -14,6 +25,15 @@
         <summary type="html"><![CDATA[No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.]]></summary>
         <author>
             <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flag Design]]></title>
+        <id>https://xkcd.com/3250/</id>
+        <link href="https://xkcd.com/3250/"/>
+        <updated>2026-05-25T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
