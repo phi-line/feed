@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162338",
+          "author": "Evan Howell",
+          "description": "Earth’s largest volcanic system, hidden in mountain chains under the sea, has long been assumed to erupt only quietly. The shallow seafloor off Iceland tells another story.            \nThe post When Quiet Undersea Volcanoes Turn Disruptive first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
+          "publishedOn": "2026-05-26T15:29:26.000Z",
+          "wordCount": 3505,
+          "title": "When Quiet Undersea Volcanoes Turn Disruptive",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Volcanic-Ridges-cr-Jonas-Preine-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162299",
           "author": "Marlowe Starling",
           "description": "Evolutionary biologists are uncovering genomic mechanisms that allow populations to adapt quickly to different, hyperlocal habitats without splitting into new species.            \nThe post How Ecotypes Harbor the Genetic Memory of a Species’ Past first appeared on Quanta Magazine",
@@ -572,6 +582,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a15be945ab5740001bb3b24",
+          "author": "Joseph Cox",
+          "description": "Joseph talks to Zack Whittaker all about stalkerware, the pervasive malware that ordinary people install on their partners' phones.",
+          "link": "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+          "publishedOn": "2026-05-26T15:41:49.000Z",
+          "wordCount": 1091,
+          "title": "Millions of People Are Installing Malware on Their Partners’ Phones (with Zack Whittaker)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/reading-messages.png"
+        },
+        {
+          "id": "6a159c4d5ab5740001b8bb7f",
+          "author": "Joseph Cox",
+          "description": "BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.",
+          "link": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+          "publishedOn": "2026-05-26T13:49:22.000Z",
+          "wordCount": 1117,
+          "title": "‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/trac-vu-1T1LDgQOCl4-unsplash.jpg"
+        },
         {
           "id": "6a0c9b09ae17c400014a89d3",
           "author": "Matthew Gault",
@@ -3564,6 +3594,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/how-ais-see-our-world",
+          "author": "Chenoe Hart",
+          "description": "The post How AIs See Our World appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-ais-see-our-world",
+          "publishedOn": "2026-05-26T16:36:32.000Z",
+          "wordCount": 9935,
+          "title": "How AIs See Our World",
+          "imageUrl": "https://noemamag.imgix.net/2026/05/mast_connectedarchives.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4789aefc9c4c3514aeec3ec314681300"
+        },
+        {
           "id": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly",
           "author": "Anthea Roberts",
           "description": "The post To Understand AI, Think Like A Dragonfly appeared first on NOEMA.",
@@ -3900,6 +3940,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557102",
+          "author": "Joanne Furio",
+          "description": "Single-family homes may be converted into co-living near the 36-unit Moshav cohousing condo now rising on San Pablo Avenue. And veterans of Oakland’s Radish are building a compound of their own in the Lorin District.",
+          "link": "https://www.berkeleyside.org/2026/05/26/5-cohousing-projects-in-the-works-in-berkeley",
+          "publishedOn": "2026-05-26T14:00:00.000Z",
+          "wordCount": 9114,
+          "title": "5 cohousing projects in the works in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/03/002_BerkeleyMoshav-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557251",
           "author": "Alex N. Gecan",
@@ -6835,21 +6885,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/ae-mug-chat-2-experience-computer-interview/526666ldsdl.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves",
-          "author": null,
-          "description": "I'll be posting less often and more in depth",
-          "link": "https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-02-26T02:38:16.000Z",
-          "wordCount": 2007,
-          "title": "AeMug Chat #1 / Aether Mug Evolves",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/ae-mug-chat-1-aether-mug-evolves/527898ldsdl.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/ae-mug-chat-1-aether-mug-evolves/527898ldsdl.jpg"
         }
       ]
     },
@@ -9633,6 +9668,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=74651",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "A little bit crispy, a whole lot saucy, and packed with bold, smoky flavour, these BBQ soy curls are the kind of vegan staple you’ll make again and again. Protein-packed and satisfying, they’re perfect for everything from sandwiches to grain bowls! If you’ve never cooked with soy curls before, this is the recipe to start […]",
+          "link": "https://jessicainthekitchen.com/bbq-soy-curls/",
+          "publishedOn": "2026-05-25T14:00:00.000Z",
+          "wordCount": 11903,
+          "title": "BBQ Soy Curls",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/04/BBQ-Soy-Curls6423.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=74226",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Sometimes you need something sweet to start your day and these banana chocolate chip muffins are here to make it happen. Moist, fluffy, and lightly spiced with cinnamon, this recipe tastes just like the classic version, but it’s entirely vegan! My peanut butter banana muffins and vegan banana bread are on frequent rotation in my […]",
@@ -10000,6 +10045,16 @@
       "siteUrl": "https://zserge.com/",
       "articles": [
         {
+          "id": "https://zserge.com/posts/socreates/",
+          "author": null,
+          "description": "We love coding agents. They can build a full-featured SaaS and potentially make you a millionaire if you leave them running overnight with the right prompt. They will burn your GPU or your budget, include a few unprompted vulnerabilities, will bloat your code risking your sanity once you start debugging it, will put emojis in your comments, and will ultimately make you question your life choices.\nSo I thought, if they are so cool — it must be interesting to build one myself and steal the fame of Anthropic.",
+          "link": "https://zserge.com/posts/socreates/",
+          "publishedOn": "2026-05-25T00:00:00.000Z",
+          "wordCount": 2352,
+          "title": "A non-coding coding agent",
+          "imageUrl": "https://zserge.com/logo.png"
+        },
+        {
           "id": "https://zserge.com/posts/visicalc/",
           "author": null,
           "description": "VisiCalc Spreadsheets rule the world for almost half of a century. I strongly believe that it’s one of the best UXs ever created. Being fairly minimal and easy to learn, it allows users to quickly manipulate data, describe logic, visualise results, or even create art and run GameBoy games.\nIt all started in 1979 when Dan Bricklin and Bob Frankston created VisiCalc, the first spreadsheet software. With a few thousand lines of hand-written 6502 assembly, VisiCalc could successfully run on 16K RAM machines.",
@@ -10016,6 +10071,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-sisyphus-am-ninety-five-percent-of-the-way-there",
+          "author": "Jack Loftus",
+          "description": "“Insider reporting from an unnamed White House official says the Iran deal is ‘95% done.’ The remaining 5% of negotiations are focused on Iran opening the Strait of Hormuz and turning over all nuclear material.” – Conservative pollster Frank Luntz, writing on X.\n - - -\nI, Sisyphus, the legendary King of Corinth, bring encouraging news from the mountain.\n After several thousand years of constructive engagement with the boulder and every muscle in my posterior chain, I am pleased to report we are 95 percent of the way up the tenacious little hill here in Tartarus. Honestly, folks, we are so, so close. The summit is largely visible. It is nearly visible. There is a concept of visibility at play here that is impossible to ignore.\n And, thank the gods, I am fairly certain the grade has leveled …",
+          "link": "https://www.mcsweeneys.net/articles/i-sisyphus-am-ninety-five-percent-of-the-way-there",
+          "publishedOn": "2026-05-26T16:47:00.000Z",
+          "wordCount": 2959,
+          "title": "I, Sisyphus, Am Ninety-Five Percent of the Way There",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/4dgf9trmjwx1h2ka415k0nq7a7fj"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/can-you-avoid-an-old-high-school-friend-at-the-bus-stop-a-decision-tree",
           "author": "Ioan Marc Jones",
