@@ -466,6 +466,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/selling-abstraction",
+          "author": null,
+          "description": "What global financial markets have in common with necromancers.",
+          "link": "https://asteriskmag.com/issues/14/selling-abstraction",
+          "publishedOn": "2026-05-27T00:00:00.000Z",
+          "wordCount": 5575,
+          "title": "Selling Abstraction",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/selling-abstraction/e8cec1af35-1779820727/selling-abstraction-leah-libresco-sargeant-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/chinas-last-bus",
           "author": null,
           "description": "China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.",
@@ -2431,36 +2441,6 @@
           "wordCount": 1433,
           "title": "Lawmakers Demand DHS Define ‘Domestic Terrorist’ As It Uses Vast Array of Surveillance Tools",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/54977663606_074404d0ae_k.jpg"
-        },
-        {
-          "id": "69a07b1ed04ba9000186706f",
-          "author": "Emanuel Maiberg",
-          "description": "“We just want to take down posts about people who are being defamed,\" the company's founder said. “And when I say defamed, it means like, ‘this guy has a small penis,’ or ‘this guy smells.’\"",
-          "link": "https://www.404media.co/company-helps-men-scrub-negative-posts-about-them-from-tea-app/",
-          "publishedOn": "2026-02-26T17:02:16.000Z",
-          "wordCount": 1785,
-          "title": "Company Helps Men Scrub Negative Posts About Them from Tea App",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/teaappremoval.jpg"
-        },
-        {
-          "id": "69a06593d04ba900018416df",
-          "author": "Joseph Cox",
-          "description": "On Wednesday, the government stopped supporting FPDS.gov, an indispensable resource for finding what ICE, the FBI, and every other agency is buying. Its replacement site completely sucks.",
-          "link": "https://www.404media.co/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys/",
-          "publishedOn": "2026-02-26T15:48:40.000Z",
-          "wordCount": 1637,
-          "title": "The Government Just Made it Harder to See What Spy Tech it Buys",
-          "imageUrl": "https://www.404media.co/content/images/2026/02/54976776717_af7ef78d66_c.jpg"
-        },
-        {
-          "id": "69a0692dd04ba900018417f2",
-          "author": "Matthew Gault",
-          "description": "The group is talking about Epstein and filming propaganda videos in Roblox as a form of 'digital Jihad,' researchers say.",
-          "link": "https://www.404media.co/the-islamic-state-is-using-ai-to-resurrect-dead-leaders-and-platforms-are-failing-to-moderate-it/",
-          "publishedOn": "2026-02-26T15:45:29.000Z",
-          "wordCount": 2032,
-          "title": "The Islamic State Is Using AI to Resurrect Dead Leaders and Platforms Are Failing to Moderate It",
-          "imageUrl": "https://www.404media.co/content/images/2026/02/Screenshot-2026-02-26-104050-1.png"
         }
       ]
     },
@@ -3129,22 +3109,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!TIDP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da51221-8a5a-4720-a29d-a9ebd50dcedc_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/dna-sequencing",
-          "author": "Asimov Press",
-          "description": "How to “read” nucleic acids, from Sanger to nanopores.",
-          "link": "https://www.asimov.press/p/dna-sequencing",
-          "publishedOn": "2026-02-26T18:12:49.000Z",
-          "wordCount": null,
-          "title": "A Visual Guide to DNA Sequencing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!ezte!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bb038e-36d7-4ac7-9543-1567b44b3a43_1714x1080.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ezte!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bb038e-36d7-4ac7-9543-1567b44b3a43_1714x1080.gif"
         }
       ]
     },
@@ -3922,16 +3886,6 @@
           "wordCount": 3502,
           "title": "Not Yet ‘Game Over’ In Iran",
           "imageUrl": "https://noemamag.imgix.net/2026/03/iran-final-scaled.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=bd4e68f2ac82be4598c764b540486bd4"
-        },
-        {
-          "id": "https://www.noemamag.com/saving-the-life-we-cannot-see",
-          "author": "Moira Donovan",
-          "description": "The post Saving The Life We Cannot See appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/saving-the-life-we-cannot-see",
-          "publishedOn": "2026-02-26T14:52:42.000Z",
-          "wordCount": 8817,
-          "title": "Saving The Life We Cannot See",
-          "imageUrl": "https://noemamag.imgix.net/2026/02/NOEMA_card.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=a1b0208e09a80481ba0cc2bfbd488a4b"
         }
       ]
     },
@@ -6609,36 +6563,6 @@
           "wordCount": 6843,
           "title": "Alley Yokocho Kitchens and Vietnam House shutter in Berkeley; Gus’s World Famous says goodbye to Oakland",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/AlleyYokochoKitchens.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552431",
-          "author": "Local sponsor",
-          "description": "What homebuyers and sellers should know about locally based firms vs. national giants.",
-          "link": "https://www.berkeleyside.org/2026/02/26/the-real-estate-brokerage-behind-your-agent-matters-more-than-you-might-think",
-          "publishedOn": "2026-02-26T17:04:50.000Z",
-          "wordCount": 7920,
-          "title": "The real estate brokerage behind your agent matters more than you might think",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/Berkeley-Camp_Sunset.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552838",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a talk with the author of \"Orange is the New Black,\" a workshop to analyze music anatomy and a Lunar New Year festival.",
-          "link": "https://www.berkeleyside.org/2026/02/26/around-berkeley-all-my-sons-e-bike-class-fix-it-fest",
-          "publishedOn": "2026-02-26T14:00:00.000Z",
-          "wordCount": 8228,
-          "title": "Around Berkeley: ‘All My Sons’ at Berkeley Rep, e-bike class, Fix-it Fest",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/IMG_2048-scaled.jpg?fit=2560%2C1707&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552803",
-          "author": "Ken Pimlott",
-          "description": "He built a steam locomotive —Number 7 — from the ground up and mentored and delighted generations of train enthusiasts.",
-          "link": "https://www.berkeleyside.org/2026/02/26/ray-pimlott-tilden-steam-train-chief-engineer-obituary",
-          "publishedOn": "2026-02-26T13:00:00.000Z",
-          "wordCount": 7499,
-          "title": "Remembering Ray Pimlott, Tilden steam train engineer for over 40 years",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/88-Mar.4-Ray-scaled.jpg?fit=2560%2C1707&ssl=1"
         }
       ]
     },
@@ -7441,16 +7365,6 @@
           "publishedOn": "2026-02-27T10:01:20.000Z",
           "wordCount": null,
           "title": "Buddy Guy: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/7w_JMpZ8Mgs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/7w_JMpZ8Mgs",
-          "publishedOn": "2026-02-26T15:16:50.000Z",
-          "wordCount": 2058,
-          "title": "#DeskOfTheDay: \"KIRA,\" Lisa Chiodo",
           "imageUrl": null
         }
       ]
@@ -11750,36 +11664,6 @@
           "wordCount": 11629,
           "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: January 2026:  Atrocities 658-730",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/9i9s1463b960h60tgrknu8j87wtv"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/i-am-dyeing-my-hair-brown",
-          "author": "Caroline Ulwick",
-          "description": "I have an announcement: I am dyeing my hair brown—deep, thick, chocolatey brown. I do this to signal I am entering a period of mental and emotional darkness. I am embracing the winter. I am welcoming in the gloom.\n Gone are the halcyon days of being a “bronde.” Bronde me said, “I live in LA.” But brunette me will declare, “I’m thinking of moving back to New York.”\n Bronde was a denial of my true self.\n With my new dark hair, I declare to the world that I will not go hiking anymore. I will no longer enjoy sunshine and fresh food. I will lurk in my cave and eat dirt from between my toes. I will clutch my black cat to my chest as we watch Melancholia in bed seven times in a row. My hair is brown.\n I will no longer wear my nighttime mouth guard prescribed to me by the dentist. I will grind my …",
-          "link": "https://www.mcsweeneys.net/articles/i-am-dyeing-my-hair-brown",
-          "publishedOn": "2026-02-26T18:00:00.000Z",
-          "wordCount": 2595,
-          "title": "I Am Dyeing My Hair Brown",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/oz2l2xgr6pqnm7539jld10oak4tv"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/open-hearted-in-minneapolis",
-          "author": "Megan Giddings",
-          "description": "In the winter here, it’s not unusual to see a car on the side of I-35. Minneapolis is the first place I’ve ever lived that, when I described a recent-ish car accident I was in, multiple people said, “Now, you live here.” The first time I heard someone say it, I was too grumpy to laugh. The second time, I had my oh-it-feels-good-to-laugh-again moment. Now, the empty cars along the highway, on residential streets, at gas stations with their doors open, make people wait to see if anyone’s coming back or if another person has been taken.\n My neighborhood is mostly quiet. It’s often quiet-ish in January. Snow, ice storms, and negative-twenty windchill do that. The elementary school in the neighborhood doesn’t let students go outside for recess, and the park nearby is far more popular for pickle…",
-          "link": "https://www.mcsweeneys.net/articles/open-hearted-in-minneapolis",
-          "publishedOn": "2026-02-26T15:57:00.000Z",
-          "wordCount": 3539,
-          "title": "Open-Hearted in Minneapolis",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/jfs7qiot6zv2h4s70bkd2jeky93a"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/you-think-new-york-is-bad-try-living-in-roku-city",
-          "author": "Tim Latterner",
-          "description": "I read the news. I hear the cries for help. “New York has a housing crisis.” “The cost of food is too high in New York.” “Crime is too high in New York.” “Crime is too low in New York.” “Zohran will save us.” “Zohran will kill us all.” And to this I say: “You have no fucking idea.” I recently saw a place wracked with so much pain, destruction, corruption, and unease that it makes our home here look like a shining city on a hill. It’s not too far either—so close in fact that traveling there feels as simple as traveling to one’s own living room. The citizens of this town have something real to fear. Their issues aren’t mired in political discourse, but live on the surface of their streets every waking moment.\n That is because they live in Roku City.\n Some of you are familiar. You have seen t…",
-          "link": "https://www.mcsweeneys.net/articles/you-think-new-york-is-bad-try-living-in-roku-city",
-          "publishedOn": "2026-02-26T13:00:00.000Z",
-          "wordCount": 2718,
-          "title": "You Think New York is Bad? Try Living in Roku City",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/iktrcu477zqejefjgz5x9dxrnspk"
         }
       ]
     },

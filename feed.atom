@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-27T00:47:44.895Z</updated>
+    <updated>2026-05-27T07:29:43.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selling Abstraction]]></title>
+        <id>https://asteriskmag.com/issues/14/selling-abstraction</id>
+        <link href="https://asteriskmag.com/issues/14/selling-abstraction"/>
+        <updated>2026-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What global financial markets have in common with necromancers.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fired Berkeley police watchdog sues city, mayor]]></title>
         <id>https://www.berkeleyside.org/?p=557376</id>
@@ -14667,81 +14677,6 @@ In pursuing its agenda of security theater, the U.S. government has turned the b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Visual Guide to DNA Sequencing]]></title>
-        <id>https://www.asimov.press/p/dna-sequencing</id>
-        <link href="https://www.asimov.press/p/dna-sequencing"/>
-        <updated>2026-02-26T18:12:49.000Z</updated>
-        <summary type="html"><![CDATA[How to “read” nucleic acids, from Sanger to nanopores.]]></summary>
-        <author>
-            <name>Asimov Press</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Am Dyeing My Hair Brown]]></title>
-        <id>https://www.mcsweeneys.net/articles/i-am-dyeing-my-hair-brown</id>
-        <link href="https://www.mcsweeneys.net/articles/i-am-dyeing-my-hair-brown"/>
-        <updated>2026-02-26T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I have an announcement: I am dyeing my hair brown—deep, thick, chocolatey brown. I do this to signal I am entering a period of mental and emotional darkness. I am embracing the winter. I am welcoming in the gloom.
- Gone are the halcyon days of being a “bronde.” Bronde me said, “I live in LA.” But brunette me will declare, “I’m thinking of moving back to New York.”
- Bronde was a denial of my true self.
- With my new dark hair, I declare to the world that I will not go hiking anymore. I will no longer enjoy sunshine and fresh food. I will lurk in my cave and eat dirt from between my toes. I will clutch my black cat to my chest as we watch Melancholia in bed seven times in a row. My hair is brown.
- I will no longer wear my nighttime mouth guard prescribed to me by the dentist. I will grind my …]]></summary>
-        <author>
-            <name>Caroline Ulwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The real estate brokerage behind your agent matters more than you might think]]></title>
-        <id>https://www.berkeleyside.org/?p=552431</id>
-        <link href="https://www.berkeleyside.org/2026/02/26/the-real-estate-brokerage-behind-your-agent-matters-more-than-you-might-think"/>
-        <updated>2026-02-26T17:04:50.000Z</updated>
-        <summary type="html"><![CDATA[What homebuyers and sellers should know about locally based firms vs. national giants.]]></summary>
-        <author>
-            <name>Local sponsor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company Helps Men Scrub Negative Posts About Them from Tea App]]></title>
-        <id>69a07b1ed04ba9000186706f</id>
-        <link href="https://www.404media.co/company-helps-men-scrub-negative-posts-about-them-from-tea-app/"/>
-        <updated>2026-02-26T17:02:16.000Z</updated>
-        <summary type="html"><![CDATA[“We just want to take down posts about people who are being defamed," the company's founder said. “And when I say defamed, it means like, ‘this guy has a small penis,’ or ‘this guy smells.’"]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Hearted in Minneapolis]]></title>
-        <id>https://www.mcsweeneys.net/articles/open-hearted-in-minneapolis</id>
-        <link href="https://www.mcsweeneys.net/articles/open-hearted-in-minneapolis"/>
-        <updated>2026-02-26T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[In the winter here, it’s not unusual to see a car on the side of I-35. Minneapolis is the first place I’ve ever lived that, when I described a recent-ish car accident I was in, multiple people said, “Now, you live here.” The first time I heard someone say it, I was too grumpy to laugh. The second time, I had my oh-it-feels-good-to-laugh-again moment. Now, the empty cars along the highway, on residential streets, at gas stations with their doors open, make people wait to see if anyone’s coming back or if another person has been taken.
- My neighborhood is mostly quiet. It’s often quiet-ish in January. Snow, ice storms, and negative-twenty windchill do that. The elementary school in the neighborhood doesn’t let students go outside for recess, and the park nearby is far more popular for pickle…]]></summary>
-        <author>
-            <name>Megan Giddings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Government Just Made it Harder to See What Spy Tech it Buys]]></title>
-        <id>69a06593d04ba900018416df</id>
-        <link href="https://www.404media.co/the-government-just-made-it-harder-to-see-what-spy-tech-it-buys/"/>
-        <updated>2026-02-26T15:48:40.000Z</updated>
-        <summary type="html"><![CDATA[On Wednesday, the government stopped supporting FPDS.gov, an indispensable resource for finding what ICE, the FBI, and every other agency is buying. Its replacement site completely sucks.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Islamic State Is Using AI to Resurrect Dead Leaders and Platforms Are Failing to Moderate It]]></title>
-        <id>69a0692dd04ba900018417f2</id>
-        <link href="https://www.404media.co/the-islamic-state-is-using-ai-to-resurrect-dead-leaders-and-platforms-are-failing-to-moderate-it/"/>
-        <updated>2026-02-26T15:45:29.000Z</updated>
-        <summary type="html"><![CDATA[The group is talking about Epstein and filming propaganda videos in Roblox as a form of 'digital Jihad,' researchers say.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside Wall Street’s 2008 meltdown, through the eyes of an FBI informant]]></title>
         <id>https://bigthink.com/books/wired-on-wall-street/</id>
         <link href="https://bigthink.com/books/wired-on-wall-street/"/>
@@ -14751,58 +14686,6 @@ Sue’s dad, Bob, tipped us off about a new build in Westwood. We drove out one 
 The down payment came from our savings and what w…]]></summary>
         <author>
             <name>Tom Hardin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#DeskOfTheDay: "KIRA," Lisa Chiodo]]></title>
-        <id>https://www.youtube.com/shorts/7w_JMpZ8Mgs</id>
-        <link href="https://www.youtube.com/shorts/7w_JMpZ8Mgs"/>
-        <updated>2026-02-26T15:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving The Life We Cannot See]]></title>
-        <id>https://www.noemamag.com/saving-the-life-we-cannot-see</id>
-        <link href="https://www.noemamag.com/saving-the-life-we-cannot-see"/>
-        <updated>2026-02-26T14:52:42.000Z</updated>
-        <summary type="html"><![CDATA[The post Saving The Life We Cannot See appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Moira Donovan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: ‘All My Sons’ at Berkeley Rep, e-bike class, Fix-it Fest]]></title>
-        <id>https://www.berkeleyside.org/?p=552838</id>
-        <link href="https://www.berkeleyside.org/2026/02/26/around-berkeley-all-my-sons-e-bike-class-fix-it-fest"/>
-        <updated>2026-02-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a talk with the author of "Orange is the New Black," a workshop to analyze music anatomy and a Lunar New Year festival.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Ray Pimlott, Tilden steam train engineer for over 40 years]]></title>
-        <id>https://www.berkeleyside.org/?p=552803</id>
-        <link href="https://www.berkeleyside.org/2026/02/26/ray-pimlott-tilden-steam-train-chief-engineer-obituary"/>
-        <updated>2026-02-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[He built a steam locomotive —Number 7 — from the ground up and mentored and delighted generations of train enthusiasts.]]></summary>
-        <author>
-            <name>Ken Pimlott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Think New York is Bad? Try Living in Roku City]]></title>
-        <id>https://www.mcsweeneys.net/articles/you-think-new-york-is-bad-try-living-in-roku-city</id>
-        <link href="https://www.mcsweeneys.net/articles/you-think-new-york-is-bad-try-living-in-roku-city"/>
-        <updated>2026-02-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I read the news. I hear the cries for help. “New York has a housing crisis.” “The cost of food is too high in New York.” “Crime is too high in New York.” “Crime is too low in New York.” “Zohran will save us.” “Zohran will kill us all.” And to this I say: “You have no fucking idea.” I recently saw a place wracked with so much pain, destruction, corruption, and unease that it makes our home here look like a shining city on a hill. It’s not too far either—so close in fact that traveling there feels as simple as traveling to one’s own living room. The citizens of this town have something real to fear. Their issues aren’t mired in political discourse, but live on the surface of their streets every waking moment.
- That is because they live in Roku City.
- Some of you are familiar. You have seen t…]]></summary>
-        <author>
-            <name>Tim Latterner</name>
         </author>
     </entry>
     <entry>
