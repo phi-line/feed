@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-26T18:50:13.217Z</updated>
+    <updated>2026-05-27T00:47:44.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fired Berkeley police watchdog sues city, mayor]]></title>
+        <id>https://www.berkeleyside.org/?p=557376</id>
+        <link href="https://www.berkeleyside.org/2026/05/26/hansel-aguilar-civil-suit-berkeley-police"/>
+        <updated>2026-05-26T23:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Hansel Aguilar, who was director of police accountability until February, warned that the tide is turning against civilian oversight of police agencies everywhere.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints]]></title>
+        <id>112085 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background"/>
+        <updated>2026-05-26T21:23:43.000Z</updated>
+        <summary type="html"><![CDATA[An EFF analysis of millions of searches of Flock Safety automated license plate reader (ALPR) data by police has uncovered a troubling pattern: in the absence of a warrant requirement to search ALPR databases, law enforcement agencies have moved beyond specific investigations to use these surveillance networks for virtually any whim.
+Our findings suggest that the absence of a warrant requirement has fostered a culture of unrestricted access to sensitive location data, allowing agencies to leverage that data beyond the scope of specific criminal investigations.
+As a refresher: Law enforcement agencies lease or purchase camera systems from Flock Safety and then mount them by the side of the road and at intersections to document every vehicle that passes, including the plate, make, model, col…]]></summary>
+        <author>
+            <name>Dave Maass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular ramen chain lands in Berkeley, Dera Cafe opens on Shattuck, and fresh choices for dumplings, tacos and more]]></title>
+        <id>https://www.berkeleyside.org/?p=557332</id>
+        <link href="https://www.berkeleyside.org/2026/05/26/hinodeya-dera-dh-noodles-doppio-zero-trompudo-perla-tapatia-mensho"/>
+        <updated>2026-05-26T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I, Sisyphus, Am Ninety-Five Percent of the Way There]]></title>
         <id>https://www.mcsweeneys.net/articles/i-sisyphus-am-ninety-five-percent-of-the-way-there</id>

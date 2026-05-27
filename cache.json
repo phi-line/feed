@@ -3941,6 +3941,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=557376",
+          "author": "Alex N. Gecan",
+          "description": "Hansel Aguilar, who was director of police accountability until February, warned that the tide is turning against civilian oversight of police agencies everywhere.",
+          "link": "https://www.berkeleyside.org/2026/05/26/hansel-aguilar-civil-suit-berkeley-police",
+          "publishedOn": "2026-05-26T23:27:38.000Z",
+          "wordCount": 7955,
+          "title": "Fired Berkeley police watchdog sues city, mayor",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Aguilar-1.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557332",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/05/26/hinodeya-dera-dh-noodles-doppio-zero-trompudo-perla-tapatia-mensho",
+          "publishedOn": "2026-05-26T19:00:00.000Z",
+          "wordCount": 7516,
+          "title": "Popular ramen chain lands in Berkeley, Dera Cafe opens on Shattuck, and fresh choices for dumplings, tacos and more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Hinodeya-Ramen.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=557102",
           "author": "Joanne Furio",
           "description": "Single-family homes may be converted into co-living near the 36-unit Moshav cohousing condo now rising on San Pablo Avenue. And veterans of Oakland’s Radish are building a compound of their own in the Lorin District.",
@@ -11768,6 +11788,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112085 at https://www.eff.org",
+          "author": "Dave Maass",
+          "description": "An EFF analysis of millions of searches of Flock Safety automated license plate reader (ALPR) data by police has uncovered a troubling pattern: in the absence of a warrant requirement to search ALPR databases, law enforcement agencies have moved beyond specific investigations to use these surveillance networks for virtually any whim.\nOur findings suggest that the absence of a warrant requirement has fostered a culture of unrestricted access to sensitive location data, allowing agencies to leverage that data beyond the scope of specific criminal investigations.\nAs a refresher: Law enforcement agencies lease or purchase camera systems from Flock Safety and then mount them by the side of the road and at intersections to document every vehicle that passes, including the plate, make, model, col…",
+          "link": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+          "publishedOn": "2026-05-26T21:23:43.000Z",
+          "wordCount": 2607,
+          "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png",
+            "alt": "Photograph of an automated license plate reader ",
+            "type": "image/png",
+            "length": "161449"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png"
+        },
         {
           "id": "112080 at https://www.eff.org",
           "author": "Christian Romero",
