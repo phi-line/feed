@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162417",
+          "author": "Simon Frantz",
+          "description": "Over hundreds of years, increasingly sophisticated instruments have revealed — and continue to reveal — the secrets of our star.            \nThe post How We See the Beautiful, Violent Sun first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
+          "publishedOn": "2026-05-28T14:16:52.000Z",
+          "wordCount": 2481,
+          "title": "How We See the Beautiful, Violent Sun",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Mid-level-solar-flare-2014-cr-NASAs-Goddard-Space-Flight-Center-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162338",
           "author": "Evan Howell",
           "description": "Earth’s largest volcanic system, hidden in mountain chains under the sea, has long been assumed to erupt only quietly. The shallow seafloor off Iceland tells another story.            \nThe post When Quiet Undersea Volcanoes Turn Disruptive first appeared on Quanta Magazine",
@@ -582,6 +592,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a186921724c2b00016b928b",
+          "author": "Jason Koebler",
+          "description": "Regretful cities aren't sure how to cancel their surveillance contracts, so they are literally covering their cameras.",
+          "link": "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+          "publishedOn": "2026-05-28T16:18:52.000Z",
+          "wordCount": 1301,
+          "title": "Cities Are Covering Flock Cameras With Trash Bags",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/IMG_0552.jpg"
+        },
+        {
+          "id": "6a185ead724c2b00016b8e1b",
+          "author": "Becky Ferreira",
+          "description": "Astronomers discovered that magnetic activity in the Sun is being squeezed into a more tightly confined area under its surface, which has implications for space weather forecasts and heliophysics.",
+          "link": "https://www.404media.co/sun-magnetic-activity-changes-study/",
+          "publishedOn": "2026-05-28T15:28:47.000Z",
+          "wordCount": 1673,
+          "title": "The Sun Is Undergoing a Mysterious Change and Nobody Knows Why",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/Screenshot-2026-05-28-at-11.28.06---AM.png"
+        },
+        {
+          "id": "6a1851b4724c2b00016b843c",
+          "author": "Joseph Cox",
+          "description": "On Thursday Oura announced the nearly $500 Ring 5. But what if you don't want to pay a monthly subscription to access your health data?",
+          "link": "https://www.404media.co/cracked-oura-can-you-use-oura-without-monthly-subscription/",
+          "publishedOn": "2026-05-28T14:40:07.000Z",
+          "wordCount": 1057,
+          "title": "‘Cracked Oura’ Is an App For Using the Oura Ring Without the Monthly Subscription",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/cracked-oura.png"
+        },
+        {
+          "id": "6a184344724c2b0001692a25",
+          "author": "Samantha Cole",
+          "description": "A popular virtual therapy platform is telling providers and patients they'll have to do facial scanning soon, forcing some to choose between handing over their data and continuing care.",
+          "link": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+          "publishedOn": "2026-05-28T13:53:25.000Z",
+          "wordCount": 2426,
+          "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/venlier-anh-9hvajxl0NSc-unsplash.jpg"
+        },
         {
           "id": "6a16fab26874380001afff23",
           "author": "Jason Koebler",
@@ -3868,6 +3918,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=557184",
+          "author": "Local sponsor",
+          "description": "Nearly 400 authors will appear in mostly free events at the annual festival in Downtown Berkeley, May 29–31.",
+          "link": "https://www.berkeleyside.org/2026/05/28/bay-area-book-festival-returns-to-berkeley-with-future-focused-vision",
+          "publishedOn": "2026-05-28T15:30:00.000Z",
+          "wordCount": 7723,
+          "title": "Bay Area Book Festival returns to Berkeley with future-focused vision",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/2025-Bookworm-Block-Party-cropped.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557362",
+          "author": "Katie DeBenedetti | KQED and Nico Savidge",
+          "description": "The number of unhoused people in Berkeley ticked upward in this year's count. Local officials called it a \"fluctuation\" and said they want to see more data.",
+          "link": "https://www.berkeleyside.org/2026/05/28/berkeley-homeless-population-alameda-county",
+          "publishedOn": "2026-05-28T14:00:00.000Z",
+          "wordCount": 7802,
+          "title": "Homelessness is down in Alameda County. Can it maintain that progress?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/06/DSC_2378-1.jpg?fit=1620%2C1080&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=557436",
           "author": "Andrew Gilbert and Karen Nguyen Vo",
           "description": "Other events include a lecture on the state of journalism, a free furniture exchange program and an artist meetup at the UC Botanical Garden.",
@@ -6740,16 +6810,6 @@
           "wordCount": 4658,
           "title": "Meera Sodha’s vegan recipe for Arya’s birthday udon | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/04fc28b62e00fb0fca05dee15ee30ac03941a45b/242_378_3168_2535/master/3168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=134d75210ada92233139a67e0e066158"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/feb/28/vegetarian-quinoa-chickpea-salad-recipe-red-cabbage-pomegranate-pistachios-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Tender jarred chickpeas make this colourful vegetarian dish a bit of a breeze to bring together\nEvery now and then, something comes along in the food industry that is “better than sliced bread”, and right now I would say that thing is jarred chickpeas. Due to the way they’re processed, cooked at a lower temperature and for a shorter time, they tend to be softer than tinned and ready to eat in salads (a tinned chickpea, on the other hand, might need a five-minute boil to get to the same degree of softness). In any case, it’s safe to say that this innovation has led to an increase in my eating of chickpeas in salads, and today’s dish is a recent favourite.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/feb/28/vegetarian-quinoa-chickpea-salad-recipe-red-cabbage-pomegranate-pistachios-meera-sodha",
-          "publishedOn": "2026-02-28T06:00:07.000Z",
-          "wordCount": 4399,
-          "title": "Meera Sodha’s vegetarian recipe for quinoa and chickpea salad with red cabbage, pomegranate and pistachios | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/180dffbc8fbde996fd81f5941191ac3e6fa167d2/0_1444_4295_3432/master/4295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec573738503f44102ba3449bd30e4d9e"
         }
       ]
     },
@@ -9535,6 +9595,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=74225",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "If you love a hearty, savoury breakfast, this vegan breakfast crunchwrap is about to become your new obsession! It’s loaded with hash browns, tofu scramble, plant-based bacon, and creamy jalapeño sauce, all wrapped in a warm and toasty tortilla. Taco Bell is one of the rare fast food restaurants that does a pretty awesome job […]",
+          "link": "https://jessicainthekitchen.com/breakfast-crunchwrap/",
+          "publishedOn": "2026-05-26T14:00:00.000Z",
+          "wordCount": 11614,
+          "title": "Vegan Breakfast Crunchwrap",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/04/Vegan-Breakfast-Crunchwrap-22.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=74651",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "A little bit crispy, a whole lot saucy, and packed with bold, smoky flavour, these BBQ soy curls are the kind of vegan staple you’ll make again and again. Protein-packed and satisfying, they’re perfect for everything from sandwiches to grain bowls! If you’ve never cooked with soy curls before, this is the recipe to start […]",
@@ -9928,6 +9998,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/being-the-black-main-character-in-a-destination-rom-com-a-choose-your-own-adventure",
+          "author": "Nashae Jones",
+          "description": "Your life is a mess, an absolute Level 10 disaster. You’ve lost your job, and there might be pending charges after you borrowed your employer’s Hermes silk dress and Prada pumps. You’ve got no place to live after your thirteenth-floor walk-up Hell’s Kitchen sublet has decided you aren’t worth the trouble after you miss rent for the third time. But that’s beside the point. This is the perfect opportunity to change your life. So you book a trip to Tuscany even though you only have $38.62 in your bank account. It’s cool, you’re gonna Klarna it. When else are you gonna have the opportunity to go to Italy and live your best soft-girl life?\n Turn to Page 1.\n - - -\n\n Page 1: Arrival\n You’ve made it safe and sound. The flight wasn’t too bad if you ignore the fourteen hours in coach where an eighty…",
+          "link": "https://www.mcsweeneys.net/articles/being-the-black-main-character-in-a-destination-rom-com-a-choose-your-own-adventure",
+          "publishedOn": "2026-05-28T17:55:00.000Z",
+          "wordCount": 2902,
+          "title": "Being the Black Main Character in a Destination Rom-Com: A Choose Your Own Adventure",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qbqf5i56ej4fxedjfsqf9ih4j9fk"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/affable-insects",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/affable-insects",
+          "publishedOn": "2026-05-28T16:03:00.000Z",
+          "wordCount": 2206,
+          "title": "Affable Insects",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/tqy1c3hirf4ck43eg6r63fbcl01v"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/what-may-follow-when-you-are-slacked-hey",
           "author": "Jesse Kubanet",
@@ -11595,6 +11685,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112079 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "In the rush to block young people from certain parts of the internet, lawmakers are creating a privacy and security nightmare for everyone. This scenario is already playing out globally. Help us stop it and keep the web open and accessible for all.\nJOIN EFF\nProtect the web for everyone\nEven with the best intentions, every online age verification scheme has the same result: users are forced to reveal sensitive personal information to third parties simply to access the web. Once that valuable data is centralized, it becomes an immediate target for leaks, hacks, and misuse. This isn’t hypothetical: it has already happened several times.\nBy age gating the web, we serve up a honeypot of private info ripe for bad actors. But you can help us stop this when you join EFF.\n\n\n\nSupport digital rights in EFF's new Claw Back member t-shirt and Privacy Badger Crewneck.\n\n\n\nThanks to our members, EFF is on the front lines fighting against online age gating and identity verification online. We’re working with lawmakers to pass better policies, educating the public, and fighting the wildfire of age verification proposals around the world. Now all we need is you.\n🐝 No, It’s Not a Bug\nWe all want young people to be safe online, but we don’t need to trade everyone's digital rights to achieve it. These new restrictive mandates are used to justify government-led censorship and expanded surveillance. That's no accident.\nWhether you trust today’s lawmakers or not, handing anyone keys to new forms of censorship and surveillance is a serious risk. Because history shows us that these powers are always abused. It’s time to demand better.\nJoin EFF today\nHelp us claw back your privacy\n____________________\nEFF is a member-supported U.S. 501(c)(3) organization. We've received top ratings from the nonprofit watchdog Charity Navigator since 2013! Your donation is tax-deductible as allowed by law.",
+          "link": "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
+          "publishedOn": "2026-05-28T16:37:42.000Z",
+          "wordCount": 884,
+          "title": "Age Verification is a Privacy Nightmare",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate.png",
+            "alt": "An orange cat climbs an ALPR camera to swat at surveillance drones in a blue night sky.",
+            "type": "image/png",
+            "length": "212563"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate.png"
+        },
         {
           "id": "112085 at https://www.eff.org",
           "author": "Dave Maass",
