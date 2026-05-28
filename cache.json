@@ -3868,6 +3868,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=557436",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include a lecture on the state of journalism, a free furniture exchange program and an artist meetup at the UC Botanical Garden.",
+          "link": "https://www.berkeleyside.org/2026/05/28/around-berkeley-ballet-costumes-bay-area-book-fest-bike-repairs",
+          "publishedOn": "2026-05-28T12:00:00.000Z",
+          "wordCount": 8317,
+          "title": "Around Berkeley: Ballet costumes, Bay Area Book Fest, bike repairs",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-lacis-3-4.jpg?fit=780%2C585&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=557430",
           "author": "Vanessa Arredondo and Jana Kadah",
           "description": "School finance is a mystery to many. We explain how districts can and cannot raise funds and how the problem stems from systemic issues statewide.",
@@ -6496,26 +6506,6 @@
           "wordCount": 7938,
           "title": "Remembering Todd Walker, Berkeley street outreach worker and youth football coach",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/large-2026.01.12_Middleton_LiveFreeBerkeley_05.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552950",
-          "author": "Alex N. Gecan",
-          "description": "The scammers say they just happened to notice a problem they can fix quickly and cheaply, then tear chunks out of roofs so they can press victims to hire them to repair, police say.",
-          "link": "https://www.berkeleyside.org/2026/02/27/berkeley-elder-scam-roof-chimney-repairs",
-          "publishedOn": "2026-02-27T23:40:59.000Z",
-          "wordCount": 7486,
-          "title": "Police warn of ‘aggressive’ door-to-door contractor scam targeting older Berkeleyans",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/webimage-03-01-2021-Berkeley-Residential-Stock.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=552941",
-          "author": "Nico Savidge",
-          "description": "Terrance Davis, praised for his “steady hand” after taking over an embattled department reeling from high-profile departures, will be deputy city manager in Brentwood.",
-          "link": "https://www.berkeleyside.org/2026/02/27/terrance-davis-public-works-berkeley-resignation",
-          "publishedOn": "2026-02-27T22:43:46.000Z",
-          "wordCount": 7238,
-          "title": "Berkeley’s public works chief leaving for East Contra Costa County",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/01/large-IMG_9881.jpeg"
         }
       ]
     },
@@ -6790,6 +6780,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3azRJPBhZLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3azRJPBhZLU",
+          "publishedOn": "2026-05-28T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Cure For Paranoia, 2026 Tiny Desk Contest Winner: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YUhWCGUVp4A",
           "author": null,
@@ -9928,6 +9928,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/what-may-follow-when-you-are-slacked-hey",
+          "author": "Jesse Kubanet",
+          "description": "You’re fired.\n You are getting a promotion.\n You are getting a demotion.\n You are now in charge.\n The person you hate here the most is now in charge, and they told me to tell you that you are fired.\n No paychecks this week, cool?\n Could I borrow you for a sec?\n Could I borrow you for a quick sec?\n I’ve always loved you.\n We’re doubling your salary.\n We’re taking your salary and cutting it in half.\n We’re taking your salary, cutting it in half, and giving that half to the person here you hate the most.\n The Christmas gift this year is a donation to the charity of someone else’s choice.\n Layoffs are coming, and you’re safe.\n Layoffs are coming. We’re safe.\n Layoffs are coming. You’re safe, I’m not.\n Layoffs are coming. I’m safe, you’re not.\n Layoffs are coming. We’re both fucked.\n Lunch?\n Guess who’s fucked?\n Guess who fucked?\n Coffee?\n Can you open this doc?\n Nevermind.",
+          "link": "https://www.mcsweeneys.net/articles/what-may-follow-when-you-are-slacked-hey",
+          "publishedOn": "2026-05-28T12:00:00.000Z",
+          "wordCount": 2194,
+          "title": "What May Follow When You Are Slacked “Hey”",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/cqo1aftlg8rmzm400z3sl61c77ho"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/ai-writing-jobs-you-should-apply-to-today",
           "author": "Miles Kahn",
