@@ -3174,6 +3174,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3251/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3251/",
+          "publishedOn": "2026-05-27T04:00:00.000Z",
+          "wordCount": 189,
+          "title": "Time Machine Conversation",
+          "imageUrl": "https://imgs.xkcd.com/comics/time_machine_conversation_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3250/",
           "author": null,
           "description": "",
@@ -3903,6 +3913,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557430",
+          "author": "Vanessa Arredondo and Jana Kadah",
+          "description": "School finance is a mystery to many. We explain how districts can and cannot raise funds and how the problem stems from systemic issues statewide.",
+          "link": "https://www.berkeleyside.org/2026/05/27/berkeley-unified-school-district-structural-budget-challenges",
+          "publishedOn": "2026-05-27T20:04:58.000Z",
+          "wordCount": 9513,
+          "title": "Why do school districts like BUSD struggle to increase revenue to avoid budget cuts?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Firsdayof-school_EG_021.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557432",
+          "author": "Madeline Taub",
+          "description": "A half dozen Oakland entrepreneurs and hospitality professionals are reviving and refreshing the Uptown sports bar just in time for the World Cup.",
+          "link": "https://www.berkeleyside.org/2026/05/27/athletic-club-sports-bar-uptown-new-ownership",
+          "publishedOn": "2026-05-27T19:00:00.000Z",
+          "wordCount": 8061,
+          "title": "The Athletic Club is back with a new team betting on Oakland",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/12/World-Cup-2022-Mexico-vs-Argentina-3-scaled-1.jpg?fit=2560%2C1707&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=556787",
           "author": "Local sponsor",
