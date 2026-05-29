@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162533",
+          "author": "Kevin Hartnett",
+          "description": "Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.            \nThe post Key Chemistry Question Answered, No Quantum Computer Required first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+          "publishedOn": "2026-05-29T13:54:11.000Z",
+          "wordCount": 3668,
+          "title": "Key Chemistry Question Answered, No Quantum Computer Required",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162417",
           "author": "Simon Frantz",
           "description": "Over hundreds of years, increasingly sophisticated instruments have revealed — and continue to reveal — the secrets of our star.            \nThe post How We See the Beautiful, Violent Sun first appeared on Quanta Magazine",
@@ -592,6 +602,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a18b896724c2b00016ba5b5",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss going deeper and Google's search changes.",
+          "link": "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
+          "publishedOn": "2026-05-29T16:06:59.000Z",
+          "wordCount": 1052,
+          "title": "Behind the Blog: Being New and Some Numbers",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/nl-5.29-1.png"
+        },
+        {
+          "id": "6a1880ff724c2b00016b97a5",
+          "author": "Samantha Cole",
+          "description": "A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.",
+          "link": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+          "publishedOn": "2026-05-29T13:16:21.000Z",
+          "wordCount": 2012,
+          "title": "New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots",
+          "imageUrl": "https://images.unsplash.com/photo-1762330467475-a565d04e1808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI5fHxjaGF0Ym90c3xlbnwwfHx8fDE3Nzk5OTE2MjJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6a186921724c2b00016b928b",
           "author": "Jason Koebler",
@@ -3189,6 +3219,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3252/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3252/",
+          "publishedOn": "2026-05-29T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Ancestral Genomes",
+          "imageUrl": "https://imgs.xkcd.com/comics/ancestral_genomes_2x.png"
+        },
         {
           "id": "https://xkcd.com/3251/",
           "author": null,
@@ -10065,6 +10105,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/writers",
+          "author": "Rebecca Schiff and Sam Axelrod",
+          "description": "Writers have problems. Writers win prizes. Writers play ping-pong, think other writers are their friends. Writers write baseball novels. Writers write war novels. Writers write about the South.\n Writers make music. Writers draw. Writers take pictures of their desks. Writers should stop. When writers start a band together, nobody is happy.\n Writers teach. Writers collect watches. Writers deliver mail for a year, write about delivering it. Writers have babies. Writers have agents. Writers are bald.\n Writers move upstate, start literary journals. There aren’t enough journals to ignore on tables. Writers make more.\n Writers can’t sell their second book. Writers can’t sell their first book. Writers quit jobs to concentrate on writing. Writers quit social media. Writers reactivate, announce new …",
+          "link": "https://www.mcsweeneys.net/articles/writers",
+          "publishedOn": "2026-05-29T17:01:00.000Z",
+          "wordCount": 2919,
+          "title": "Writers",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ka7jbvxizkmgh7f8ai2q8i7n8h62"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-short-interview-with-rafia-zakaria",
           "author": "Ginger Greene",

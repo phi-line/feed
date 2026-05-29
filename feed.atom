@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-05-29T13:08:42.502Z</updated>
+    <updated>2026-05-29T18:54:17.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Writers]]></title>
+        <id>https://www.mcsweeneys.net/articles/writers</id>
+        <link href="https://www.mcsweeneys.net/articles/writers"/>
+        <updated>2026-05-29T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Writers have problems. Writers win prizes. Writers play ping-pong, think other writers are their friends. Writers write baseball novels. Writers write war novels. Writers write about the South.
+ Writers make music. Writers draw. Writers take pictures of their desks. Writers should stop. When writers start a band together, nobody is happy.
+ Writers teach. Writers collect watches. Writers deliver mail for a year, write about delivering it. Writers have babies. Writers have agents. Writers are bald.
+ Writers move upstate, start literary journals. There aren’t enough journals to ignore on tables. Writers make more.
+ Writers can’t sell their second book. Writers can’t sell their first book. Writers quit jobs to concentrate on writing. Writers quit social media. Writers reactivate, announce new …]]></summary>
+        <author>
+            <name>Rebecca Schiff and Sam Axelrod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: Being New and Some Numbers]]></title>
+        <id>6a18b896724c2b00016ba5b5</id>
+        <link href="https://www.404media.co/behind-the-blog-being-new-and-some-numbers/"/>
+        <updated>2026-05-29T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[This week, we discuss going deeper and Google's search changes.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Chemistry Question Answered, No Quantum Computer Required]]></title>
+        <id>https://www.quantamagazine.org/?p=162533</id>
+        <link href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/"/>
+        <updated>2026-05-29T13:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.            
+The post Key Chemistry Question Answered, No Quantum Computer Required first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots]]></title>
+        <id>6a1880ff724c2b00016b97a5</id>
+        <link href="https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/"/>
+        <updated>2026-05-29T13:16:21.000Z</updated>
+        <summary type="html"><![CDATA[A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where Berkeley’s water supply stands after spring heat wiped out our ‘frozen reservoir’]]></title>
         <id>https://www.berkeleyside.org/?p=557543</id>
@@ -58,6 +103,15 @@ THE BELIEVER: You won a National Magazine Award last night in New York for your 
  “Just an eagle screaming for a few seconds.”]]></summary>
         <author>
             <name>Caleb Coy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancestral Genomes]]></title>
+        <id>https://xkcd.com/3252/</id>
+        <link href="https://xkcd.com/3252/"/>
+        <updated>2026-05-29T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
