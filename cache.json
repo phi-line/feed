@@ -2471,16 +2471,6 @@
           "wordCount": 1052,
           "title": "How to Detect Phone Spying Tech (with Cooper Quintin)",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/imsi-pod.png"
-        },
-        {
-          "id": "69a353b7d04ba90001899b20",
-          "author": "Becky Ferreira",
-          "description": "A new genetic analysis reveals that human females and Neanderthal males interbred far more than the reverse, for reasons that remain mysterious.",
-          "link": "https://www.404media.co/scientists-reveal-the-surprising-sex-lives-of-neanderthals-and-early-humans/",
-          "publishedOn": "2026-02-28T20:48:27.000Z",
-          "wordCount": 2217,
-          "title": "Scientists Reveal the Surprising Sex Lives of Neanderthals and Early Humans",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/image2.jpg"
         }
       ]
     },
@@ -3939,6 +3929,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557543",
+          "author": "Nico Savidge",
+          "description": "The snowpack melted much earlier than normal in the Sierra Nevada watershed that supplies Berkeley and much of the East Bay.",
+          "link": "https://www.berkeleyside.org/2026/05/29/berkeley-reservoir-rain-water-supply-east-bay-mud-ebmud",
+          "publishedOn": "2026-05-29T13:00:00.000Z",
+          "wordCount": 7482,
+          "title": "Where Berkeley’s water supply stands after spring heat wiped out our ‘frozen reservoir’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Briones-reservoir.jpg?fit=1600%2C1200&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557548",
           "author": "Berkeleyside Staff",
@@ -10065,6 +10065,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-short-interview-with-rafia-zakaria",
+          "author": "Ginger Greene",
+          "description": "Last week, Rafia Zakaria won the 2026 National Magazine Award in the category of Columns and Essays. The winning piece, “Water Pressure,” was published in Issue 150 of The Believer and is available to read in full on their website. It follows Zakaria’s father on his search for clean water in Karachi, Pakistan, where the mounting climate crisis has crept into all aspects of daily life. Zakaria discussed the prize and the celebrated essay with The Believer’s managing editor, Ginger Greene.\n - - -\nTHE BELIEVER: You won a National Magazine Award last night in New York for your essay, “Water Pressure.” What did it feel like to see this piece recognized in that way?\n RAFIA ZAKARIA: It was a tremendous surprise… It is very difficult to place personal essays, but it is the personal story that can …",
+          "link": "https://www.mcsweeneys.net/articles/a-short-interview-with-rafia-zakaria",
+          "publishedOn": "2026-05-29T13:00:00.000Z",
+          "wordCount": 3551,
+          "title": "A Short Interview  with Rafia Zakaria",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/eowqwlo6j8mc9wua6sw0s1w6rta9"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-only-opening-songs-on-an-album",
+          "author": "Caleb Coy",
+          "description": "“This here banger should grab your attention.”\n “This semi-banger should alert your attention before the second track really grabs your attention.”\n “Slowwwwwww fade in.”\n “Honestly, this is the only track worth listening to, but it’s the pre-digital age, and we just forced you to buy a whole CD.”\n “This is not the single you heard on the radio. We didn’t like that one as much, so we made it the ninth track, and we think you’ll be pleased to find we’re actually better than just the one radio hit.”\n “One of our musicians is warming up.”\n “How about a little HORN SECTION / CHOIR SECTION / ROBOT VOICE / ATMOSPHERIC NOISE before we get started?”\n “These first five seconds will change history forever.\"\n “Look at us, adjusting the volume for you. Too loud? Too bad.”\n “We boldly announce that we are clearly doing something quite different than on our last three albums, regardless of whether that holds true for the rest of this album.”\n “Our lead singer has just a couple things to say to a woman while he diddles on a piano.”\n “Yes, this is a concept album, and this is the theme-setting once-upon-a-time song.”\n “Part 3 of the eleventh track, as the eleventh track is just parts 1&2.”\n “Everything is in its right place, and you should have mixed feelings about that.”\n “Here’s a tune that will sound familiar later when we reprise it toward the end, and you’ll be like, ’Wow, that’s neat how they wrapped it all up tidy like that.’”\n “We got into a scuff with our producer, who threatened to scrap the entire project if we didn’t crank out a catchy opener in two days, so this one was his idea.”\n “Just the first couple bars from track seven.”\n “We’re just gonna come right out and say it: Our lyrics are weird and off-putting.”\n “A short poem, set to music or background noise.”\n “While we are not an a capella band, nor have we or will we ever record an a capella track, here is a full minute of a capella stuff.”\n “I am trying to break your heart, specifically with antique cymbals.”\n “Just an eagle screaming for a few seconds.”",
+          "link": "https://www.mcsweeneys.net/articles/the-only-opening-songs-on-an-album",
+          "publishedOn": "2026-05-29T12:00:00.000Z",
+          "wordCount": 2535,
+          "title": "The Only Opening Songs On an Album",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dc69h76j421r2sbl8a3ygf3h597r"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/being-the-black-main-character-in-a-destination-rom-com-a-choose-your-own-adventure",
           "author": "Nashae Jones",
