@@ -593,6 +593,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a19b3f0a1725b0001c67585",
+          "author": "Becky Ferreira",
+          "description": "A new study suggests that bacteria dispersed through space on dust grains could potentially arrive intact and alive on Jupiter’s moon Europa.",
+          "link": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+          "publishedOn": "2026-05-30T13:00:00.000Z",
+          "wordCount": 2355,
+          "title": "‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/europa.jpg"
+        },
+        {
           "id": "6a18b896724c2b00016ba5b5",
           "author": "Samantha Cole",
           "description": "This week, we discuss going deeper and Google's search changes.",
@@ -3588,16 +3598,6 @@
           "wordCount": 187,
           "title": "Solar Warning",
           "imageUrl": "https://imgs.xkcd.com/comics/solar_warning_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3214/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3214/",
-          "publishedOn": "2026-03-02T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Electric Vehicles",
-          "imageUrl": "https://imgs.xkcd.com/comics/electric_vehicles_2x.png"
         }
       ]
     },
