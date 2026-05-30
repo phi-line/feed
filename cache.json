@@ -2510,6 +2510,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8384640",
+          "author": "C.J. Ciaramella",
+          "description": "Mullin's latest idea is to stop processing international arrivals at airports in sanctuary cities.",
+          "link": "https://reason.com/2026/05/29/markwayne-mullins-less-flashy-dhs-is-using-the-same-thuggish-tactics/",
+          "publishedOn": "2026-05-29T19:08:56.000Z",
+          "wordCount": null,
+          "title": "Markwayne Mullin's Less 'Flashy' DHS Is Using the Same Thuggish Tactics",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8384470",
           "author": "Autumn Billings",
           "description": "It's President Donald Trump's latest attempt to restrict a form of humanitarian relief sought by millions.",
@@ -2920,17 +2931,6 @@
           "publishedOn": "2026-03-03T11:00:13.000Z",
           "wordCount": null,
           "title": "Trump Ordered Using 'All Lawful Means' To Remove Immigrants. Many ICE Arrests Go Beyond the Law.",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8368759",
-          "author": "Katherine Mangu-Ward",
-          "description": "Population control is technocratic hubris at its most intimate and brutal.",
-          "link": "https://reason.com/2026/03/01/no-one-knows-the-right-number-of-people/",
-          "publishedOn": "2026-03-01T11:30:36.000Z",
-          "wordCount": null,
-          "title": "What the ICE Crackdown and China's One-Child Policy Have in Common",
           "itunes": {},
           "imageUrl": null
         }
@@ -3969,6 +3969,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557603",
+          "author": "Felicia Mello",
+          "description": "The National Science Foundation cited funding from U.S. allies like Australia and Switzerland in suspending millions of dollars of research, including studies on autonomous driving and the skin color of poison frogs.",
+          "link": "https://www.berkeleyside.org/2026/05/29/donald-trump-uc-berkeley-research-grants-national-science-foundation-foreign-funding",
+          "publishedOn": "2026-05-30T00:05:36.000Z",
+          "wordCount": 8549,
+          "title": "Trump admin suspended UC Berkeley grants over ‘foreign funding.’ Some researchers say they didn’t take any.",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-Yuutka-Experience-at-Lawrence-Hall-of-Science-09.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=473039",
+          "author": "Darwin BondGraham",
+          "description": "California governor, congressional seats and key local races like Alameda County district attorney are on the ballot.",
+          "link": "https://www.berkeleyside.org/2026/05/29/california-june-2-primary-election-berkele-alameda-county-how-to-vote",
+          "publishedOn": "2026-05-29T22:44:41.000Z",
+          "wordCount": 8281,
+          "title": "What Berkeley voters should know about the June 2 primary election",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Polling-Place-Novemeber-Election-2022-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557583",
+          "author": "Alex N. Gecan",
+          "description": "A man who witnessed the shooting at the homeless shelter known as Harrison House testified the dispute started with an argument over music.",
+          "link": "https://www.berkeleyside.org/2026/05/29/marcel-dupree-jones-harrison-house-ursula-sherman-village-mark-christopher-dowling",
+          "publishedOn": "2026-05-29T21:00:20.000Z",
+          "wordCount": 8211,
+          "title": "Berkeley shelter murder suspect threatened Black neighbors, witness says",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Jones.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557566",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/05/29/house-curries-special-noodle-planted-table-closed",
+          "publishedOn": "2026-05-29T19:00:00.000Z",
+          "wordCount": 7251,
+          "title": "Berkeley curry spot quickly replaced, a plant-based meal service shutters, and more closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/HouseofCurries.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557543",
           "author": "Nico Savidge",
@@ -11822,6 +11862,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112095 at https://www.eff.org",
+          "author": "Molly Buckley",
+          "description": "After public outrage, California lawmakers are moving closer to exempting open-source operating systems from the sweeping age-bracketing regime mandated by last year’s Digital Age Assurance Act (AB 1043). Nonetheless, the current bill still jeopardizes internet users’ speech, privacy, and security.\nWhile the open source exemption, if passed, would improve the law, the remaining amendments proposed by AB 1856 would require all web browsers and websites to request and collect users’ ages. This is an expansion of last year's AB 1043's age-bracketing system that compounds its constitutional harms to users’ speech, privacy, and security. As AB 1856 moves on to the Senate, EFF will continue fighting for amendments that reduce those harms.\nAB 1856 Extends AB 1043’s Age-Gating Regime\nLast year, Ca…",
+          "link": "https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating",
+          "publishedOn": "2026-05-29T20:15:43.000Z",
+          "wordCount": 2120,
+          "title": "One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png",
+            "alt": "A concerned parent and child stand on a large laptop keyboard, while a shadowy hand reaches out from the screen with social media icons and a magnifying glass to scan them.",
+            "type": "image/png",
+            "length": "1146559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png"
+        },
+        {
+          "id": "112091 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "November 3, 2026 (All day) to November 5, 2026 (All day)\n\n\nMay 26, 2026 - 2:15pm PDT\n\n\nBarcelona - Gran Via Venue | Hall 2\n\n\n\nEFF is excited to support this year's Barcelona Cybersecurity Congress! This year's event features a full Congress to learn about cybersecurity and risk prevention strategies; an exhibition area to connect with new organizations; and other attractions like the Hacking Village. This global event brings together industry leaders, innovators, and cybersecurity professionals to shape the future of digital security.\nEFF supporters can get a 54% discount for the full Cybersecurity Congress pass with code MNHCGBUR or a 100% discount for the Expo+ pass with code YWW1D5CR.\nMore about the Barcelona Cybersecurity Congress: Join your peers, stakeholder, industry players and providers at the Barcelona Cybersecurity Congress to find real solutions to the challenges and needs of the sector and discover new ways of collaboration to build a better digital world. \n\n\nCalendar",
+          "link": "https://www.eff.org/event/barcelona-cybersecurity-congress-0",
+          "publishedOn": "2026-05-29T18:48:24.000Z",
+          "wordCount": 705,
+          "title": "Barcelona Cybersecurity Congress",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/bcc26-visual-digital-2048x1152.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "138510"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/bcc26-visual-digital-2048x1152.jpg"
+        },
         {
           "id": "112079 at https://www.eff.org",
           "author": "Rindala Alajaji",
