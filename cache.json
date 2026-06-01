@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162566",
+          "author": "Siddhant Pusdekar",
+          "description": "Lifelike biochemistry continued to unfold in sterilized soil for six years, pointing to a metabolic theory for how biology began.            \nThe post The Dirt That Refused To Die first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+          "publishedOn": "2026-06-01T14:44:57.000Z",
+          "wordCount": 3141,
+          "title": "The Dirt That Refused To Die",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Abiotic-metabolism-cr-Samuel-Velasco-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162533",
           "author": "Kevin Hartnett",
           "description": "Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.            \nThe post Key Chemistry Question Answered, No Quantum Computer Required first appeared on Quanta Magazine",
@@ -582,6 +592,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a1db9086613850001979bbb",
+          "author": "Emanuel Maiberg",
+          "description": "Employees admitted to 404 Media they had cheated to climb the leaderboard's ranks.",
+          "link": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
+          "publishedOn": "2026-06-01T17:15:20.000Z",
+          "wordCount": 1605,
+          "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
+          "imageUrl": "https://images.unsplash.com/photo-1753044346424-1ba619c33dc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxhbWF6fGVufDB8fHx8MTc4MDMzMjc5Mnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a1db87d6613850001979bab",
+          "author": "Jason Koebler",
+          "description": "The exploit shows the extreme risk of offloading technical support to AI.",
+          "link": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+          "publishedOn": "2026-06-01T17:03:36.000Z",
+          "wordCount": 1193,
+          "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-01-at-09.55.09@2x.png"
+        },
+        {
+          "id": "6a1d874966138500019542dc",
+          "author": "Joseph Cox",
+          "description": "Paragon's software is capable of remotely breaking into phones and accessing messages from encrypted messaging apps. Our lawsuit aims to pry records about it from ICE.",
+          "link": "https://www.404media.co/we-sued-ice-to-get-its-spyware-contract-the-agency-is-redacting-essentially-everything/",
+          "publishedOn": "2026-06-01T13:57:48.000Z",
+          "wordCount": 1250,
+          "title": "We Sued ICE to Get Its Spyware Contract. The Agency Is Redacting Essentially Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "6a1d8b90661385000195439d",
+          "author": "Matthew Gault",
+          "description": "There are hundreds of anti-data center Facebook pages churning out AI-generated slopaganda.",
+          "link": "https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/",
+          "publishedOn": "2026-06-01T13:49:15.000Z",
+          "wordCount": 1411,
+          "title": "AI Grifters Are Making Anti-Data Center Slop With AI",
+          "imageUrl": null
+        },
         {
           "id": "6a19b3f0a1725b0001c67585",
           "author": "Becky Ferreira",
@@ -3092,6 +3142,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3253/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3253/",
+          "publishedOn": "2026-06-01T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Sunbeam",
+          "imageUrl": "https://imgs.xkcd.com/comics/sunbeam_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3252/",
           "author": null,
           "description": "",
@@ -3460,16 +3520,6 @@
           "wordCount": 185,
           "title": "Bazookasaurus",
           "imageUrl": "https://imgs.xkcd.com/comics/bazookasaurus_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3215/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3215/",
-          "publishedOn": "2026-03-04T05:00:00.000Z",
-          "wordCount": 187,
-          "title": "Solar Warning",
-          "imageUrl": "https://imgs.xkcd.com/comics/solar_warning_2x.png"
         }
       ]
     },
@@ -3821,6 +3871,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=474488",
+          "author": "Roselyn Romero",
+          "description": "As East Bay communities raise concerns about civil liberties and immigration enforcement, the license plate camera company is seeking support from its customers — law enforcement officers.",
+          "link": "https://www.berkeleyside.org/2026/06/01/flock-training-police-city-councils-webinar",
+          "publishedOn": "2026-06-01T15:00:00.000Z",
+          "wordCount": 8613,
+          "title": "Flock is quietly training Bay Area police to sway city leaders to buy surveillance tech",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/flockcamera_030426_AP-1.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557458",
           "author": "Rachael Myrow | KQED",
@@ -9887,6 +9947,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/your-body-is-now-considered-vintage",
+          "author": "Ruyi Wen",
+          "description": "Dear Human,\n We are pleased to inform you that after several decades of constant (if often subpar) operation, you have finally crossed the threshold from “garage sale junk” to “retro memorabilia.” Your body is no longer considered a worn-out, high-mileage clunker, but a heritage artifact in fair to salvageable condition.\n Congratulations on this status upgrade. But it’s important not to rest on those laurels—the leaves are prickly and offer no lumbar support for your delicate relic of a body. Now that you are a vintage human, you’ll need to elevate your care routine from basic annual maintenance to an expensive hobby that takes up most of the space in your house and on your calendar.\n First, revamp your fueling system. Once upon a time, your diet consisted of leftover pizza from student cl…",
+          "link": "https://www.mcsweeneys.net/articles/your-body-is-now-considered-vintage",
+          "publishedOn": "2026-06-01T17:01:00.000Z",
+          "wordCount": 2549,
+          "title": "Your Body Is Now Considered Vintage",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rh0i4eh7dp0m27pa2393g3j6en9q"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/what-i-will-give-to-access-this-airport-wi-fi",
           "author": "Andrew Patrick Clark",
           "description": "Welcome to the wireless high-speed Intranet and Internet access system (“Wi-Fi System”) at Chicago O’Hare International Airport (“ORD”). Please read the following information, terms, and conditions carefully before using the ORD Free Wi-Fi. This agreement (“Agreement”) governs your rights and responsibilities, as well as our rights and responsibilities, relating to the use of the Wi-Fi System. In using the Wi-Fi System, you hereby check “yes” to the following terms and conditions:\n  \nI agree to share my device’s location data.\n I agree to allow access to my camera roll.\n I agree to allow access to my mother’s camera roll.\n I agree to allow access to the problematic MySpace photos that will torpedo my chances of holding elected office.\n I agree to allow access to my calls, text messages, an…",
@@ -11573,6 +11643,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112094 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "EFF welcomes our new Executive Director Nicole Ozer today! \nNicole is a legal expert on privacy and surveillance, artificial intelligence, and digital speech who previously served as the inaugural executive director of the Center for Constitutional Democracy at UC Law San Francisco. From 2004-2025, she was founding director of the Technology and Civil Liberties Program at the American Civil Liberties Union of Northern California. \nNicole has long been a partner of EFF’s in the fight to defend civil liberties in the digital world. Many of us already know her, and she’s basically as close to EFF “family” as someone can be without actually having worked here.   \nOver her more than two decades leading public interest technology work, Nicole has:  \nspearheaded passage of the California Electron…",
+          "link": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
+          "publishedOn": "2026-06-01T14:25:05.000Z",
+          "wordCount": 1024,
+          "title": "Welcome New EFF Executive Director Nicole Ozer",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/welcomenicky-banner.jpg",
+            "alt": "EFF Executive Director Nicole Ozer",
+            "type": "image/jpeg",
+            "length": "369075"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/welcomenicky-banner.jpg"
+        },
         {
           "id": "112095 at https://www.eff.org",
           "author": "Molly Buckley",
