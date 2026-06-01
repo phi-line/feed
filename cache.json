@@ -2411,26 +2411,6 @@
           "wordCount": 2022,
           "title": "AI Translations Are Adding ‘Hallucinations’ to Wikipedia Articles",
           "imageUrl": "https://images.unsplash.com/photo-1566396223585-c8fbf7fa6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHdpa2lwZWRpYXxlbnwwfHx8fDE3NzI1NTU0OTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "69a743d1271b6100011c3243",
-          "author": "Becky Ferreira",
-          "description": "Scientists studied tiny, abnormal vibrations—called “glitches”—to discover what happens inside the Sun while it undergoes phases of low activity.",
-          "link": "https://www.404media.co/the-sun-is-glitching-scientists-investigated-and-solved-a-cosmic-mystery/",
-          "publishedOn": "2026-03-04T00:01:04.000Z",
-          "wordCount": 1732,
-          "title": "The Sun Is 'Glitching.' Scientists Investigated and Solved a Cosmic Mystery",
-          "imageUrl": "https://www.404media.co/content/images/2026/03/low-res-1.jpg"
-        },
-        {
-          "id": "69a73b09271b6100011c3003",
-          "author": "Joseph Cox",
-          "description": "AI is a “game changer” for what the FBI calls remote access operations, an FBI official said in response to a 404 Media question on Tuesday.",
-          "link": "https://www.404media.co/the-fbi-is-using-ai-to-hack-targets/",
-          "publishedOn": "2026-03-03T19:57:20.000Z",
-          "wordCount": 1361,
-          "title": "The FBI Is Using AI to Hack Targets",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/david-trinks-Vvh_9ooeEZ0-unsplash-2.jpg"
         }
       ]
     },
@@ -2839,17 +2819,6 @@
           "publishedOn": "2026-03-04T20:25:46.000Z",
           "wordCount": null,
           "title": "In Senate Testimony on DHS Shootings, Kristi Noem Lies About Her Lies",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8370926",
-          "author": "C.J. Ciaramella",
-          "description": "Residents of Brooklyn Park, Minnesota, say in interviews with Reason that encounters with ICE left them afraid and angry.",
-          "link": "https://reason.com/2026/03/03/a-minnesota-police-chief-said-ice-was-harassing-residents-here-are-some-of-their-stories/",
-          "publishedOn": "2026-03-03T21:00:21.000Z",
-          "wordCount": null,
-          "title": "A Minnesota Police Chief Said ICE Was Harassing Residents. Here Are Some of Their Stories.",
           "itunes": {},
           "imageUrl": null
         }
@@ -3852,6 +3821,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557458",
+          "author": "Rachael Myrow | KQED",
+          "description": "The Bay Area is generating enormous wealth and growing impossibly unaffordable. Mark Wogulis and Melanie Bowden recently sold their Berkeley house after a layoff and moved to Santa Fe.",
+          "link": "https://www.berkeleyside.org/2026/06/01/even-some-berkeley-tech-workers-cant-afford-to-stay-in-their-homes",
+          "publishedOn": "2026-06-01T13:00:00.000Z",
+          "wordCount": 8411,
+          "title": "Even some Berkeley tech workers can’t afford to stay in their homes",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/image-22.png?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557577",
+          "author": "Family of Iraj Navid",
+          "description": "Born in Tehran, he earned a Ph.D. in city planning and lived many years in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/06/01/remembering-iraj-navid-architecture-enthusiast-passionate-about-tango-and-travel",
+          "publishedOn": "2026-06-01T11:04:00.000Z",
+          "wordCount": 6594,
+          "title": "Remembering Iraj Navid, architecture enthusiast passionate about tango and travel",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Navid.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557653",
           "author": "Alex N. Gecan",
@@ -6516,46 +6505,6 @@
           "wordCount": 7660,
           "title": "Remembering Bill Samsel, Berkeley attorney and activist",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/William-Michael-Samsel.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=553155",
-          "author": "Alex N. Gecan",
-          "description": "The person was found at the intersection of Shattuck and University avenues Friday evening. Investigators have said little about the death four days later.",
-          "link": "https://www.berkeleyside.org/2026/03/03/shattuck-university-berkeley-death",
-          "publishedOn": "2026-03-04T00:41:05.000Z",
-          "wordCount": 7354,
-          "title": "Person found at busy downtown Berkeley intersection dies, police investigating",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-BS_Natera_220607_Macdonalds002.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=553112",
-          "author": "Alex N. Gecan",
-          "description": "Police said a dispute that began in San Francisco led to gunfire at a Berkeley apartment building.",
-          "link": "https://www.berkeleyside.org/2026/03/03/south-berkeley-shooting-attempted-murder",
-          "publishedOn": "2026-03-03T23:16:58.000Z",
-          "wordCount": 7565,
-          "title": "Attempted murder charge filed in January South Berkeley shooting",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/05/IMG_2499-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=553116",
-          "author": "Alex N. Gecan",
-          "description": "Los estafadores dicen notar un problema en las casas y que pueden arreglar de manera rápida y económica, para luego arrancar pedazos de los techos y presionar a las víctimas para que los contraten para repararlos, afirma la policía.",
-          "link": "https://www.berkeleyside.org/2026/03/03/la-policia-advierte-sobre-agresiva-estafa-de-contratistas-de-puerta-en-puerta-dirigida-a-adultos-mayores-de-berkeley",
-          "publishedOn": "2026-03-03T21:28:49.000Z",
-          "wordCount": 7631,
-          "title": "La policía advierte sobre ‘agresiva’ estafa de contratistas de puerta en puerta dirigida a adultos mayores de Berkeley",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/webimage-03-01-2021-Berkeley-Residential-Stock.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=553081",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/03/03/ox-9-cafe-bolita-fob-west-rice-dynasty-open",
-          "publishedOn": "2026-03-03T20:00:00.000Z",
-          "wordCount": 7569,
-          "title": "Ox 9, Cafe Bolita, Rice Dynasty openings deliver new flavors to Berkeley; FOB West soft opens at Prescott",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/OX9-handpulled-noodles.jpg?fit=1122%2C981&ssl=1"
         }
       ]
     },
@@ -9937,6 +9886,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/what-i-will-give-to-access-this-airport-wi-fi",
+          "author": "Andrew Patrick Clark",
+          "description": "Welcome to the wireless high-speed Intranet and Internet access system (“Wi-Fi System”) at Chicago O’Hare International Airport (“ORD”). Please read the following information, terms, and conditions carefully before using the ORD Free Wi-Fi. This agreement (“Agreement”) governs your rights and responsibilities, as well as our rights and responsibilities, relating to the use of the Wi-Fi System. In using the Wi-Fi System, you hereby check “yes” to the following terms and conditions:\n  \nI agree to share my device’s location data.\n I agree to allow access to my camera roll.\n I agree to allow access to my mother’s camera roll.\n I agree to allow access to the problematic MySpace photos that will torpedo my chances of holding elected office.\n I agree to allow access to my calls, text messages, an…",
+          "link": "https://www.mcsweeneys.net/articles/what-i-will-give-to-access-this-airport-wi-fi",
+          "publishedOn": "2026-06-01T12:00:00.000Z",
+          "wordCount": 2475,
+          "title": "What I Will Give to Access This Airport Wi-Fi",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r3lu49v090z56vozw2u1y4je1wns"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/writers",
           "author": "Rebecca Schiff and Sam Axelrod",
@@ -13727,86 +13686,6 @@
             "length": "172670"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-shin-lynx-banner.png"
-        },
-        {
-          "id": "111790 at https://www.eff.org",
-          "author": "Sophia Cope",
-          "description": "EFF, along with the national ACLU and the ACLU affiliates in Pennsylvania, Delaware, and New Jersey, filed an amicus brief in the U.S. Court of Appeals for the Third Circuit urging the court to require a warrant for border searches of electronic devices, an argument EFF has been making in the courts and Congress for nearly a decade.\nThe case, U.S. v. Roggio, involves a man who had been under ongoing criminal investigation for illegal exports when he returned to the United States from an international trip via JFK airport. Border officers used the opportunity to bypass the Fourth Amendment’s warrant requirement when they seized several of his electronic devices (laptop, tablet, cell phone, and flash drive) and conducted forensic searches of them. As the district court explained, “investigat…",
-          "link": "https://www.eff.org/deeplinks/2026/03/eff-third-circuit-electronic-device-searches-border-require-warrant",
-          "publishedOn": "2026-03-03T23:56:33.000Z",
-          "wordCount": 2291,
-          "title": "EFF to Third Circuit: Electronic Device Searches at the Border Require a Warrant",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/border-agents-blue_0.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "59605"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/border-agents-blue_0.png"
-        },
-        {
-          "id": "111788 at https://www.eff.org",
-          "author": "Matthew Guariglia",
-          "description": "The U.S. military has officially ended its $200 million contract with AI company Anthropic and has ordered all other military contractors to cease use of their products. Why? Because of a dispute over what the government could and could not use Anthropic’s technology to do. Anthropic had made it clear since it first signed the contract with the Pentagon in 2025 that it did not want its technology to be used for mass surveillance of people in the United States or for fully autonomous weapons systems. Starting in January, that became a problem for the Department of Defense, which ordered Anthropic to give them unrestricted use of the technology. Anthropic refused, and the DoD retaliated.\nThere is a lot we could learn from this conflict, but the biggest take away is this: the state of your pr…",
-          "link": "https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful",
-          "publishedOn": "2026-03-03T21:35:50.000Z",
-          "wordCount": 1917,
-          "title": "The Anthropic-DOD Conflict: Privacy Protections Shouldn’t Depend On the Decisions of a Few Powerful People",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg",
-            "alt": "US flag with spying eyes for stars",
-            "type": "image/jpeg",
-            "length": "98960"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg"
-        },
-        {
-          "id": "111787 at https://www.eff.org",
-          "author": "Melissa Srago",
-          "description": "March 18, 2026 - 11:30am to 12:30pm CDT\n\n\nMarch 18, 2026 - 9:30am to 10:30am PDT\n\n\nAustin, TX\n\n\n\nSXSW (not EFF) will host this event. EFF Director of Cybersecurity Eva Galperin will be speaking.\nFrom the Organizers: \nAs authoritarian regimes globally expand digital control through AI-powered surveillance, censorship algorithms, and language policing, free expression faces coordinated attacks. These systems now share tools of repression across borders. In response, youth resist in whispers—through creativity and digital dexterity, they craft encrypted defiance. This panel explores how coded memes, slang, guerrilla art, and diaspora networks fuel encrypted defiance, reshaping protest through cracks in the digital firewall—online and on the ground.\n\nFIND OUT MORE\n\n When:\nWednesday, March 18\nT…",
-          "link": "https://www.eff.org/event/encrypted-resistance-youth-revolt-memes-art-metadata",
-          "publishedOn": "2026-03-03T20:34:49.000Z",
-          "wordCount": 910,
-          "title": "Encrypted Resistance: Youth Revolt in Memes, Art & Metadata",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/sxsw_banner.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "577764"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/sxsw_banner.png"
-        },
-        {
-          "id": "111786 at https://www.eff.org",
-          "author": "Melissa Srago",
-          "description": "April 23, 2026 - 9:00am to 10:00am CEST\n\n\nApril 23, 2026 - 12:00pm to 1:00pm PDT\n\n\nPrague, Czech Republic\n\n\n\nBSides Prague (not EFF) will host this event. EFF Director of Cybersecurity Eva Galperin will be speaking.\nFrom the Organizers: \nWe're at the edge of The Next Frontier, where technology isn't just advancing it's truly taking off. Just like the ancient legend of the Golem, brought to life to protect but challenging its creator, today's smart systems are striving for autonomous self-improvement. This isn't merely evolution, it's a revolutionary leap towards a profound, perhaps singular, change where our creations gain unprecedented autonomy. As powerful systems become omnipresent, vigilance is critical. This frontier demands we anticipate and fix problems before they begin. BSides Pra…",
-          "link": "https://www.eff.org/event/bsides-prague",
-          "publishedOn": "2026-03-03T20:27:10.000Z",
-          "wordCount": 985,
-          "title": "BSides Prague: Eva Galperin Keynote",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/bsides_prague_banner.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "262135"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/bsides_prague_banner.png"
-        },
-        {
-          "id": "111785 at https://www.eff.org",
-          "author": "Melissa Srago",
-          "description": "March 5, 2026 - 9:00am to 10:00am EST\n\n\nMarch 5, 2026 - 6:00am to 7:00am PST\n\n\nIndianapolis, IN\n\n\n\nInvestigative Reporters & Editors (IRE) (not EFF) will host this event. EFF Senior Investigative Researcher Beryl Lipton will be speaking.\nFrom the Organizers: \nAround the world, shadowy firms are siphoning location data from apps, telecom networks, and rogue brokers to track people with chilling precision. Whether it’s journalists, Silicon Valley executives, or visitors to Jeffrey Epstein’s island, no one is off-limits. This panel brings together journalists who have exposed how invisible surveillance infrastructure is being used to follow people worldwide—and how little stands in the way. The journalists will explain how they uncovered these stories, how they obtained covert datasets throug…",
-          "link": "https://www.eff.org/event/using-data-investigate-global-surveillance-industry",
-          "publishedOn": "2026-03-03T20:15:09.000Z",
-          "wordCount": 973,
-          "title": "Using data to investigate the global surveillance industry",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/nicar-2026-logo.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "69357"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/nicar-2026-logo.png"
         }
       ]
     }
