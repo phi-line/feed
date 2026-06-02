@@ -583,6 +583,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a1f238f356a62000115cb79",
+          "author": "Jason Koebler",
+          "description": "Planning documents for \"Scout\" say the plan is to \"make people addicted\" to the tool before adding new features.",
+          "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+          "publishedOn": "2026-06-02T18:46:10.000Z",
+          "wordCount": 1868,
+          "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-11.41.47@2x.png"
+        },
+        {
+          "id": "6a1ed9cb931bfd0001b63e6a",
+          "author": "Matthew Gault",
+          "description": "The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stumbling through dangerous situations.",
+          "link": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
+          "publishedOn": "2026-06-02T15:03:17.000Z",
+          "wordCount": 1969,
+          "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
+          "imageUrl": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJsaW5kJTIwcm9ib3R8ZW58MHx8fHwxNzgwNDA3NTYxfDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a1ee17d356a6200011341e4",
+          "author": "Joseph Cox",
+          "description": "The API would make IRS data available to any app the agency wishes. The Criminal Investigation arm of the IRS is also modernizing its own systems.",
+          "link": "https://www.404media.co/here-is-the-contract-for-palantirs-super-api-for-the-irs/",
+          "publishedOn": "2026-06-02T14:08:52.000Z",
+          "wordCount": 1444,
+          "title": "Here is the Contract for Palantir’s Super API for the IRS",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/salvador-rios-U9y_TCFO9TA-unsplash.jpg"
+        },
+        {
           "id": "6a1db9086613850001979bbb",
           "author": "Emanuel Maiberg",
           "description": "Employees admitted to 404 Media they had cheated to climb the leaderboard's ranks.",
@@ -3468,6 +3498,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/this-is-not-financial-advice",
+          "author": "James O'Sullivan",
+          "description": "The post ‘This Is Not Financial Advice’ appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/this-is-not-financial-advice",
+          "publishedOn": "2026-06-02T16:20:05.000Z",
+          "wordCount": 13374,
+          "title": "‘This Is Not Financial Advice’",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/EleniDebo-EconomyOfDesperation-V2-RGB.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C280%2C1419%2C742&w=1200&wpsize=noema-social-facebook&s=551cbbf9f65636a3a3509316fcfbfb8d"
+        },
+        {
           "id": "https://www.noemamag.com/pope-leo-xiv-ai-wealth-must-be-universally-shared",
           "author": "Nathan Gardels",
           "description": "The post Pope Leo XIV: AI Wealth Must Be Universally Shared appeared first on NOEMA.",
@@ -3804,6 +3844,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557760",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/06/02/chahalo-glom-hopkins-cafe-gurkha-kitchen-open",
+          "publishedOn": "2026-06-02T19:00:00.000Z",
+          "wordCount": 7207,
+          "title": "New milk tea, Thai, Nepali, and cafe options arrive in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/ChaHalo-Lapan.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557737",
+          "author": "Berkeleyside Staff",
+          "description": "In the June 2 primary, appointed DA Ursula Jones Dickson faces a challenge from former DA Pamela Price and Gopal Krishan. State and federal races are also on the ballot. Live results at 8 p.m.",
+          "link": "https://www.berkeleyside.org/2026/06/02/2026-california-primary-election-results-alameda-county-district-attorney",
+          "publishedOn": "2026-06-02T17:49:06.000Z",
+          "wordCount": 7058,
+          "title": "Election results: Alameda County district attorney, California governor and more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/image.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557663",
           "author": "Steve Wasserman",
@@ -9456,6 +9516,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=73791",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "This vegan steak is everything you want in a plant-based swap, with a hearty texture and smoky, deeply savoury flavour. Made with marinated seitan, it’s far tastier than store-bought options! If you’ve made my vegan chicken before, good news: you’re already familiar with how to make this vegan steak! That’s because both are made with […]",
+          "link": "https://jessicainthekitchen.com/vegan-steak/",
+          "publishedOn": "2026-06-01T14:00:00.000Z",
+          "wordCount": 12217,
+          "title": "Vegan Steak",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Vegan-Steak_21.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=74394",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "Creamy and comforting, this vegan “chicken” Alfredo is made with budget-friendly soy curls to replace the meat. It’s rich and garlicky, with an easy cream sauce (no soaking cashews needed!). Lately I’ve been rediscovering some of the OG vegan proteins in dishes like my vegan cheeseburger bowl and vegan grinder sandwiches. And today, we’re working […]",
@@ -9849,6 +9919,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/lgb-nbsp-is-no-longer-my-four-le-nbsp-nbsp-er-word",
+          "author": "J Brooke",
+          "description": "Yeah, I’m  rans, bu  mos  people can’     ell.\n Maybe  hey can  ell I’m nonbinary, bu  mos  days \n  hey jus misgender me “hey ma’am” (  hough I’m no ).\n I was born  his way, I always knew I was a boy\n growing up, bu  back  hen I was called “ omboy,”\n which a  leas  had “boy” in  he name. Puber y\n blockers weren’  a  hing  hen, bu  sex-change\n surgery was and I  ried every angle bu  my paren s\n wouln’  buy i , so I s opped asking and grew up\n wi h  he wrong hormones coursing  hrough me.\n I looked like a sor  of girl, bu  fel  s ill so much\n like a guy, bu   hen over  ime, I admi  I grew  o\n apprecia e my female  hink bu s  ill, I never did\n adjus   o my body, so I wear loose clo hing. \n I wear a  rucker cap a lo  (mos  of  he  ime backwards)\n and have never been a fan of mirrors bu  I don’  \n wan  surgery anymore because i ’s surgery … and\n I have already been  hrough  oo much. I ’s a personal\n decision  o live (as I do, a “ hey /  hem) and I was glad\n when  hose pronouns became ubiqui ous\n because  hen I defini ely fel  more seen. Bu , of course,\n “ hey/ hem” since  he las  elec  on isn’  qui e as\n accep ed, jus  like I’m no  qui e as accep ed…\n Presiden   rump said in his inaugura ion speech\n I don’  even exis ! I was in Canada during  ha \n momen , so I didn’  hear him, bu  he said  here are\n only  wo genders and  hey are dic a ed by your body\n a  bir h.  rump is mis aken on  his, jus  like he is\n abou  so many  hings. He go  rid of our  ans flag\n and he go  rid of our le  er “   ” in LGB bu  he can’  \n ge  rid of me no ma  er wha  he  akes away\n or how he spells ha e.\n - - -\nJ Brooke’s debut collection, I Can Tell You the Version That Will Make You Take My Side (Driftwood Press) is out today.",
+          "link": "https://www.mcsweeneys.net/articles/lgb-nbsp-is-no-longer-my-four-le-nbsp-nbsp-er-word",
+          "publishedOn": "2026-06-02T17:00:00.000Z",
+          "wordCount": 2402,
+          "title": "LGB&nbsp; Is No Longer  My Four-Le&nbsp;&nbsp;er Word",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hplwiqv9nx29bsk8dl5jwxzbfor4"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/im-sorry-sweetie-you-cant-have-a-cell-phone-because-i-dont-know-how-to-add-you-to-grandmas-family-plan",
+          "author": "Emily Bressler",
+          "description": "Sweetie, sit down. I know you’ve been asking for a cell phone for a while now. And though your father and I both agree that you’re ready for the responsibility, we unfortunately can’t get you one just yet, or maybe ever, because we don’t know how to add you to Grandma’s family plan.\n You see, when I was your age, my mother (Grammie, to you) added me to a family plan, which meant that my phone costs were included in her bill. Your father’s mother, Nana, did the same with Dad. So now we’re stuck, lest we start paying for phone usage ourselves. This all happened long before you were born, and has been going on for quite literally decades.\n You’re probably thinking “family plan”? But am I not part of this family? And yes, honey, of course you are. But Verizon used to consider only five lines t…",
+          "link": "https://www.mcsweeneys.net/articles/im-sorry-sweetie-you-cant-have-a-cell-phone-because-i-dont-know-how-to-add-you-to-grandmas-family-plan",
+          "publishedOn": "2026-06-02T12:00:00.000Z",
+          "wordCount": 2685,
+          "title": "I’m Sorry, Sweetie, You Can’t Have a Cell Phone Because I Don’t Know How to Add You to Grandma’s Family Plan",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r52u9ror84p3jupiyr3040kg5rjo"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/im-sorry-sweetie-you-cant-have-a-cellphone-because-i-dont-know-how-to-add-you-to-grandmas-family-plan",
           "author": "Emily Bressler",
@@ -11536,6 +11626,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112096 at https://www.eff.org",
+          "author": "Dave Maass",
+          "description": "EFF is on the front lines of the fight against tech-enabled tyranny, but we aren't alone. Our team depends on your help to fight back against the surveillance state.\nJOIN EFF\nPeople around the world are pushing back against the mass surveillance that undermines privacy and free expression for everyone. You can help during EFF's spring membership drive.\nOne of the people who joined the fight for digital rights is EFF client Will Freeman. Will created the website DeFlock.me to reveal the dangers of automated license plate readers (ALPRs)—cameras that collect location data on every vehicle they see and upload that to a massive nationwide police database. Deflock.me turns the tables by enlisting ordinary people to track the locations of tens of thousands of ALPR cameras.\nBut when the police sp…",
+          "link": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
+          "publishedOn": "2026-06-02T16:41:54.000Z",
+          "wordCount": 1496,
+          "title": "We're Fighting Mass Surveillance Tech—and Winning",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate-frame2.png",
+            "alt": "The words &quot;Mass Surveillance&quot; with red claw marks through them.",
+            "type": "image/png",
+            "length": "18618"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/2026-membership-campaign-mobile-donate-frame2.png"
+        },
         {
           "id": "112094 at https://www.eff.org",
           "author": "Josh Richman",
