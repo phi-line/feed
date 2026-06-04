@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162645",
+          "author": "Simon Frantz",
+          "description": "The podcast returns with 12 all-new episodes that explore the biggest questions in basic science and mathematics.            \nThe post More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/",
+          "publishedOn": "2026-06-04T14:12:35.000Z",
+          "wordCount": 1747,
+          "title": "More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/JOW-S5-Trailer-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162658",
           "author": "Charlie Wood",
           "description": "In holographic theories, physicists may have traced the pliability of space-time to its quantum roots: a measure of quantumness known as “magic.”            \nThe post Entanglement Builds Space-Time. Now “Magic” Gives It Gravity. first appeared on Quanta Magazine",
@@ -592,6 +602,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a21c41aeddd960001ea42f7",
+          "author": "Joseph Cox",
+          "description": "Just Futures Law is seeking a wealth of documents related to the tech Palantir provides to ICE.",
+          "link": "https://www.404media.co/immigrant-rights-lawyers-file-lawsuit-over-palantirs-elite/",
+          "publishedOn": "2026-06-04T18:34:16.000Z",
+          "wordCount": 1388,
+          "title": "Immigrant Rights Lawyers File Lawsuit Over Palantir’s ELITE",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/54976786882_98468da678_k.jpg"
+        },
+        {
+          "id": "6a21898ce854690001c06e88",
+          "author": "Samantha Cole",
+          "description": "“It's striking, concerning, disappointing, and saddening to think that members of the bar would forward cases to a court that don't exist, and to think that the lawyers on the other side of that didn’t read it for whatever reason, didn’t check it.”",
+          "link": "https://www.404media.co/new-york-court-ai-citations-landberg-case/",
+          "publishedOn": "2026-06-04T14:33:57.000Z",
+          "wordCount": 2522,
+          "title": "Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/courtai.png"
+        },
+        {
+          "id": "6a205d186f1afa000127ca9f",
+          "author": "Emanuel Maiberg",
+          "description": "Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.",
+          "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+          "publishedOn": "2026-06-04T13:30:13.000Z",
+          "wordCount": 940,
+          "title": "Google Employees Internally Share Memes About How Its AI Sucks",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/doubt-meme.jpg"
+        },
         {
           "id": "6a206cc46f1afa000127d0d4",
           "author": "Jason Koebler",
@@ -3477,13 +3517,34 @@
       "title": "Stephen Wolfram Writings",
       "feedUrl": "https://writings.stephenwolfram.com/feed/",
       "siteUrl": "https://writings.stephenwolfram.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writings.stephenwolfram.com/?p=73889",
+          "author": "Stephen Wolfram",
+          "description": "The Basic Setup Whether one’s dealing with biology, economics, politics or a host of other fields, it’s common to encounter situations that can be modeled as involving two agents that repeatedly compete with each other. One imagines that at each step each agent can take one of a certain set of actions, and that then—in […]",
+          "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+          "publishedOn": "2026-06-04T15:16:14.000Z",
+          "wordCount": 8204,
+          "title": "Games between Programs: The Ruliology of Competition",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/06/gbp-tweet-hero-v3-FINAL.png"
+        }
+      ]
     },
     {
       "title": "NOEMA",
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/why-conflict-feels-constant-now",
+          "author": "John Last",
+          "description": "The post Why Conflict Feels Constant Now appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/why-conflict-feels-constant-now",
+          "publishedOn": "2026-06-04T13:25:34.000Z",
+          "wordCount": 7728,
+          "title": "Why Conflict Feels Constant Now",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/005_01.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=06981bf73cd3afb74f7db793050d5b65"
+        },
         {
           "id": "https://www.noemamag.com/this-is-not-financial-advice",
           "author": "James O'Sullivan",
@@ -3821,6 +3882,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=556840",
+          "author": "Nico Savidge",
+          "description": "Critics called the campaign a “farce” aimed at thwarting an effort underway to add housing along the wealthy neighborhood’s shopping strip.",
+          "link": "https://www.berkeleyside.org/2026/06/04/berkeley-elmwood-historic-district-corridors-zoning-housing",
+          "publishedOn": "2026-06-04T17:52:41.000Z",
+          "wordCount": 8740,
+          "title": "Elmwood ‘historic district’ campaign returns to Landmarks Commission",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/NATERA_MiddleHousing_250423_12.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557900",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include art studios across the East Bay opening their doors, the play \"A Few Good Men\" and Pride in the Park.",
+          "link": "https://www.berkeleyside.org/2026/06/04/around-berkeley-library-fiber-mascot-contest-cheese-board-alumni-reunion-maren-hassinger-at-bampfa",
+          "publishedOn": "2026-06-04T13:35:00.000Z",
+          "wordCount": 8439,
+          "title": "Around Berkeley: Library fiber mascot contest Cheese Board alumni reunion, Maren Hassinger at BAMPFA",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/maren_hassinger_bampfa-1.png?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557866",
           "author": "Family and friends of Ramona Galindez",
@@ -6698,16 +6779,6 @@
           "wordCount": 4666,
           "title": "Meera Sodha’s recipe for pav bhaji | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/126fcde7c1e5171ccd30528cd4580ae0f5a1c1c1/296_685_2690_2152/master/2690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4dacd7f91bfab40c807ef640b1fb1c72"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe",
-          "author": "Meera Sodha",
-          "description": "A classic fried tofu stir-fry that’s bang-full of flavour\nMy funny, curious, panda-loving daughter, Arya, is turning nine this week. So I wanted to write a recipe to celebrate her and some of her favourite things to eat. Arya adores the chewiness of udon, the bounciness of tofu, the sweet, sour saltiness of sweet soy and tamarind, the crunch of cabbage and she’d put chilli (in any form) over her breakfast cereal if she could (although it’s optional in this recipe). Happy birthday, Arya.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/mar/07/udon-noodles-meera-sodha-vegan-recipe",
-          "publishedOn": "2026-03-07T06:00:45.000Z",
-          "wordCount": 4658,
-          "title": "Meera Sodha’s vegan recipe for Arya’s birthday udon | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/04fc28b62e00fb0fca05dee15ee30ac03941a45b/242_378_3168_2535/master/3168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=134d75210ada92233139a67e0e066158"
         }
       ]
     },
@@ -9856,6 +9927,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-cant-fix-your-life-im-just-a-bodega-cat-stretching",
+          "author": "Louie Aronowitz",
+          "description": "Hey, thanks for reaching out. I get that you are having an existential crisis of self, facing the realities of aging, and accepting your social and economic circumstances, but listen, there is nothing I can do; I’m just a cat stretching in a bodega.\n And no, it doesn’t matter that it’s a BIG stretch either.\n I can’t do anything about your unaffordable rent or exorbitant student loans; I have no expenses in my life. I live in a potato chip display and sleep twenty-three hours a day. I can’t fix your general lack of purpose. The most I can offer is startling you as you reach for a bag of Sun Chips, but that’ll only make you feel alive for a split second. Then it’s back to pondering the pointlessness of everything.\n That tuxedo cat, spending her days crawling into the fresh vegetable display?…",
+          "link": "https://www.mcsweeneys.net/articles/i-cant-fix-your-life-im-just-a-bodega-cat-stretching",
+          "publishedOn": "2026-06-04T17:08:00.000Z",
+          "wordCount": 2546,
+          "title": "I Can’t Fix Your Life; I’m Just a Bodega Cat Stretching",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/j4o501s570xi78so9x30ysywx863"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/engorged-by-criticism",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/engorged-by-criticism",
+          "publishedOn": "2026-06-04T16:01:00.000Z",
+          "wordCount": 1935,
+          "title": "Engorged by Criticism",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qpfjqw1slg72ng333xukdi7h52dc"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-queer-writers-survival-guide-to-the-literary-agent-hypocrisy-circus-pretend-vs-actual",
           "author": "Justin Taroli",
