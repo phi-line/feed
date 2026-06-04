@@ -3123,6 +3123,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3254/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3254/",
+          "publishedOn": "2026-06-03T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Detector",
+          "imageUrl": "https://imgs.xkcd.com/comics/detector_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3253/",
           "author": null,
           "description": "",
@@ -6564,6 +6574,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=96419",
+          "author": "deb",
+          "description": "Read more »",
+          "link": "https://smittenkitchen.com/2026/06/snow-pea-salad-with-avocado/",
+          "publishedOn": "2026-06-03T20:05:49.000Z",
+          "wordCount": 5071,
+          "title": "snow pea salad with avocado",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/06/snow-pea-salad-with-avocado-6-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=96270",
           "author": "deb",
           "description": "not sorry), and animated conversations on the best pillows (I hate mine) — but I’ve found over the last year that I have very strong opinions on chicken salad and the correct way to make it, which, naturally, is my way. I hope I’m in the right place to release them into the world.\nRead more »",
@@ -9494,6 +9514,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=74843",
+          "author": "Jessica from Jessica in the Kitchen",
+          "description": "There's not much better than a warm muffin in the morning, and these bakery-style vegan strawberry muffins are top-notch. Tender, fluffy, and loaded with fresh fruit, they're the perfect way to start the day.",
+          "link": "https://jessicainthekitchen.com/strawberry-muffins/",
+          "publishedOn": "2026-06-02T14:00:00.000Z",
+          "wordCount": 12319,
+          "title": "Strawberry Muffins",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/04/Vegan-Strawberry-Muffins_19.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=73791",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "This vegan steak is everything you want in a plant-based swap, with a hearty texture and smoky, deeply savoury flavour. Made with marinated seitan, it’s far tastier than store-bought options! If you’ve made my vegan chicken before, good news: you’re already familiar with how to make this vegan steak! That’s because both are made with […]",
@@ -9897,6 +9927,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/news-man-bad-a-personnel-memo-from-animal-your-editor-in-chief",
+          "author": "Jack Loftus",
+          "description": "“‘The leadership of 60 Minutes is no longer recognizable,’ Scott Pelley said late Tuesday, just hours after being fired from CBS News after almost 40 years at the network. ‘The principles I hold dear are gone, and so I must leave as well.’” \n — Variety\n - - -\nPreviously, in the Animal Newsroom.\n - - -\nTO: NEWSROOM\n FROM: ANIMAL, EDITOR-IN-CHIEF\n SUBJECT: NEWS MAN TOO ANIMAL\n NEWS TEAM,\n ANIMAL WRITE MEMO WITH HEAVY HEART AND LIGHT HR OVERSIGHT.\n MONDAY MEETING WITH NEWS MAN GO BAD. NEWS MAN SPEAK LOUD. NEWS MAN SAY THINGS. NEWS MAN DEFEND JOURNALISM LIKE JOURNALISM CAN BE SAVED FROM ANIMAL’S LARRY ELLISON MONEY.\n THIS MAKE ANIMAL THINK: WHOA. NEWS MAN TOO MUCH ANIMAL EVEN FOR ANIMAL.\n THIS HARD FOR ANIMAL TO SAY. ANIMAL RESPECT PASSION. ANIMAL LOVE YELLING. ANIMAL ONCE ATE THREE MICROPHONE…",
+          "link": "https://www.mcsweeneys.net/articles/news-man-bad-a-personnel-memo-from-animal-your-editor-in-chief",
+          "publishedOn": "2026-06-03T23:30:00.000Z",
+          "wordCount": 2730,
+          "title": "“NEWS MAN BAD”: A Personnel Memo from Animal, Your Editor-In-Chief",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/oh1zni8vmq08nv8nl1uswbbsi15v"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/descartes-against-humanity-and-other-games-designed-by-famous-philosophers",
           "author": "Ryan Weber",
