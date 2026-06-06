@@ -603,6 +603,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a24216fd0bc050001418d1c",
+          "author": "Becky Ferreira",
+          "description": "The north-south albedo symmetry may be fading as both hemispheres get darker.",
+          "link": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+          "publishedOn": "2026-06-06T13:36:56.000Z",
+          "wordCount": 2136,
+          "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/image1-1.jpg"
+        },
+        {
           "id": "6a22f77fd0bc0500014128de",
           "author": "Joseph Cox",
           "description": "ICE plans to give potentially more than a thousand agencies access to a facial recognition app that verifies a person's immigration status.",
@@ -3555,16 +3565,6 @@
           "wordCount": 187,
           "title": "Subduction Retrieval",
           "imageUrl": "https://imgs.xkcd.com/comics/subduction_retrieval_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3217/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3217/",
-          "publishedOn": "2026-03-09T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Home Remedies",
-          "imageUrl": "https://imgs.xkcd.com/comics/home_remedies_2x.png"
         }
       ]
     },
