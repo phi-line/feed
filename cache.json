@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162849",
+          "author": "Kevin Hartnett",
+          "description": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.            \nThe post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+          "publishedOn": "2026-06-08T15:17:08.000Z",
+          "wordCount": 6464,
+          "title": "How Terry Tao Became an Evangelist for AI in Math",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162774",
           "author": "Claire L. Evans",
           "description": "In the 1960s, worm-training experiments and their strange implications captivated the nation. Columnist Claire L. Evans follows the neuroscientists who attempted to recapture the magic.            \nThe post Are Memories Transferable — or Edible? first appeared on Quanta Magazine",
@@ -592,6 +602,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a26e41316645500018fdaad",
+          "author": "Joseph Cox",
+          "description": "Microsoft took the highly unusual step of shutting down more than 70 of its own GitHub repositories after hackers pushed malware that would steal credentials from AI coding agent users.",
+          "link": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+          "publishedOn": "2026-06-08T15:50:35.000Z",
+          "wordCount": 1274,
+          "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/simon-ray-TICJQELFmg4-unsplash.jpg"
+        },
+        {
+          "id": "6a26cc1316645500018fc97b",
+          "author": "Emanuel Maiberg",
+          "description": "Emanuel talks to Devindra Hardawar about AI in Hollywood and the state of the movie industry.",
+          "link": "https://www.404media.co/its-so-not-over-for-hollywood-with-devindra-hardawar/",
+          "publishedOn": "2026-06-08T14:11:05.000Z",
+          "wordCount": 1080,
+          "title": "It’s So Not Over for Hollywood (with Devindra Hardawar)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/hollywoodsace.png"
+        },
         {
           "id": "6a218d58e854690001c07371",
           "author": "Matthew Gault",
@@ -2520,6 +2550,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8385912",
+          "author": "C.J. Ciaramella",
+          "description": "A Homeland Security official's testimony that ICE agents couldn't rely on REAL IDs as proof of citizenship led a federal judge to reply, \"Help me understand how that makes sense.\"",
+          "link": "https://reason.com/2026/06/08/in-lawsuit-over-construction-raids-dhs-official-testifies-ice-agents-cant-trust-real-ids/",
+          "publishedOn": "2026-06-08T15:41:40.000Z",
+          "wordCount": null,
+          "title": "In Lawsuit Over Construction Raids, DHS Official Testifies ICE Agents Can't Trust REAL IDs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8385450",
           "author": "Liz Wolfe",
           "description": "Plus: Graham Platner scandal, L.A. can't get all their votes counted, Gowanus rezoned, and more...",
@@ -3461,16 +3502,6 @@
           "wordCount": 191,
           "title": "Planets and Bright Stars",
           "imageUrl": "https://imgs.xkcd.com/comics/planets_and_bright_stars_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3218/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3218/",
-          "publishedOn": "2026-03-11T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Subduction Retrieval",
-          "imageUrl": "https://imgs.xkcd.com/comics/subduction_retrieval_2x.png"
         }
       ]
     },
@@ -3833,6 +3864,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557957",
+          "author": "Nathan Dalton",
+          "description": "ThriftyCat’s owner says he wouldn’t have signed a lease had he known he couldn't use the parking lot for retail like the last tenant did. The city says that tenant just “never got caught.”",
+          "link": "https://www.berkeleyside.org/2026/06/08/berkeley-thrift-shop-blames-city-for-closure",
+          "publishedOn": "2026-06-08T16:00:00.000Z",
+          "wordCount": 7757,
+          "title": "Berkeley thrift shop blames city for closure",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/02/20250221-225125.webp?fit=1600%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557948",
+          "author": "Wendy Fry | CalMatters",
+          "description": "The Trump administration is sending conflicting signals about a policy that would make most immigrants return to their home countries while applying for green cards.",
+          "link": "https://www.berkeleyside.org/2026/06/08/5-things-to-know-about-the-trump-administrations-new-green-card-policy",
+          "publishedOn": "2026-06-08T14:00:00.000Z",
+          "wordCount": 8517,
+          "title": "5 things to know about the Trump administration’s new green card policy",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/AP23046706596808.jpg?fit=1024%2C683&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557876",
           "author": "Family of Richard Duane",
@@ -9475,6 +9526,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=75517",
+          "author": "Jessica Hylton",
+          "description": "There’s something unbelievably comforting about this vegan chicken and rice dish simmering in the oven! This delivers all the cozy, savoury goodness of the classic, no chicken required.",
+          "link": "https://jessicainthekitchen.com/dutch-oven-chicken-and-rice/",
+          "publishedOn": "2026-06-05T14:00:00.000Z",
+          "wordCount": 12852,
+          "title": "Dutch Oven “Chicken” and Rice",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Dutch-Oven-Chicken-and-Rice-12.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=74843",
           "author": "Jessica from Jessica in the Kitchen",
           "description": "There's not much better than a warm muffin in the morning, and these bakery-style vegan strawberry muffins are top-notch. Tender, fluffy, and loaded with fresh fruit, they're the perfect way to start the day.",
@@ -9858,6 +9919,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-press-has-finally-been-freed-from-journalism",
+          "author": "Eli Grober",
+          "description": "“[Scott] Pelley’s firing came after [Bari] Weiss dismissed several of his colleagues and hired a new 60 Minutes boss, Nick Bilton, whom Pelley then clashed with in a staff meeting. Pelley, along with a number of other 60 Minutes correspondents who were fired, have now accused Weiss of editorial interference and bias, charges that CBS News and Weiss deny.” — New York Times\n - - -\nWhen I first started out in the news, there was far too much reporting. Barely anyone was just making stuff up. It was as if nobody even wanted to put their thumb on the scale on behalf of the powerful. As you know, I’ve made it my life’s goal to change that. And now, at long last, the press has been freed from journalism.\n I come from an opinion background. That means I have never been shackled by “facts.” The tru…",
+          "link": "https://www.mcsweeneys.net/articles/the-press-has-finally-been-freed-from-journalism",
+          "publishedOn": "2026-06-08T16:45:00.000Z",
+          "wordCount": 2569,
+          "title": "The Press Has Finally Been Freed from Journalism",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/n45so7kvtusg3rb60ug6gt3h88dg"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-few-explanations-before-i-give-you-grays-sports-almanac",
           "author": "Pat Cassels",

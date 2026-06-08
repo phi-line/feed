@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-08T13:30:17.931Z</updated>
+    <updated>2026-06-08T18:51:55.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Press Has Finally Been Freed from Journalism]]></title>
+        <id>https://www.mcsweeneys.net/articles/the-press-has-finally-been-freed-from-journalism</id>
+        <link href="https://www.mcsweeneys.net/articles/the-press-has-finally-been-freed-from-journalism"/>
+        <updated>2026-06-08T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[“[Scott] Pelley’s firing came after [Bari] Weiss dismissed several of his colleagues and hired a new 60 Minutes boss, Nick Bilton, whom Pelley then clashed with in a staff meeting. Pelley, along with a number of other 60 Minutes correspondents who were fired, have now accused Weiss of editorial interference and bias, charges that CBS News and Weiss deny.” — New York Times
+ - - -
+When I first started out in the news, there was far too much reporting. Barely anyone was just making stuff up. It was as if nobody even wanted to put their thumb on the scale on behalf of the powerful. As you know, I’ve made it my life’s goal to change that. And now, at long last, the press has been freed from journalism.
+ I come from an opinion background. That means I have never been shackled by “facts.” The tru…]]></summary>
+        <author>
+            <name>Eli Grober</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley thrift shop blames city for closure]]></title>
+        <id>https://www.berkeleyside.org/?p=557957</id>
+        <link href="https://www.berkeleyside.org/2026/06/08/berkeley-thrift-shop-blames-city-for-closure"/>
+        <updated>2026-06-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ThriftyCat’s owner says he wouldn’t have signed a lease had he known he couldn't use the parking lot for retail like the last tenant did. The city says that tenant just “never got caught.”]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Hacked to Deliver Malware to Claude and Gemini Users]]></title>
+        <id>6a26e41316645500018fdaad</id>
+        <link href="https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/"/>
+        <updated>2026-06-08T15:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft took the highly unusual step of shutting down more than 70 of its own GitHub repositories after hackers pushed malware that would steal credentials from AI coding agent users.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Lawsuit Over Construction Raids, DHS Official Testifies ICE Agents Can't Trust REAL IDs]]></title>
+        <id>https://reason.com/?p=8385912</id>
+        <link href="https://reason.com/2026/06/08/in-lawsuit-over-construction-raids-dhs-official-testifies-ice-agents-cant-trust-real-ids/"/>
+        <updated>2026-06-08T15:41:40.000Z</updated>
+        <summary type="html"><![CDATA[A Homeland Security official's testimony that ICE agents couldn't rely on REAL IDs as proof of citizenship led a federal judge to reply, "Help me understand how that makes sense."]]></summary>
+        <author>
+            <name>C.J. Ciaramella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Terry Tao Became an Evangelist for AI in Math]]></title>
+        <id>https://www.quantamagazine.org/?p=162849</id>
+        <link href="https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/"/>
+        <updated>2026-06-08T15:17:08.000Z</updated>
+        <summary type="html"><![CDATA[With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.            
+The post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s So Not Over for Hollywood (with Devindra Hardawar)]]></title>
+        <id>6a26cc1316645500018fc97b</id>
+        <link href="https://www.404media.co/its-so-not-over-for-hollywood-with-devindra-hardawar/"/>
+        <updated>2026-06-08T14:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Emanuel talks to Devindra Hardawar about AI in Hollywood and the state of the movie industry.]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 things to know about the Trump administration’s new green card policy]]></title>
+        <id>https://www.berkeleyside.org/?p=557948</id>
+        <link href="https://www.berkeleyside.org/2026/06/08/5-things-to-know-about-the-trump-administrations-new-green-card-policy"/>
+        <updated>2026-06-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trump administration is sending conflicting signals about a policy that would make most immigrants return to their home countries while applying for green cards.]]></summary>
+        <author>
+            <name>Wendy Fry | CalMatters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remembering Dick Duane, longtime Berkeley attorney, rock climber, bluegrass banjo player]]></title>
         <id>https://www.berkeleyside.org/?p=557876</id>
@@ -271,6 +345,16 @@ Hollywood is once again deliberately undermining Western civilization, this time
 The post Are Memories Transferable — or Edible? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Claire L. Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutch Oven “Chicken” and Rice]]></title>
+        <id>https://jessicainthekitchen.com/?p=75517</id>
+        <link href="https://jessicainthekitchen.com/dutch-oven-chicken-and-rice/"/>
+        <updated>2026-06-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s something unbelievably comforting about this vegan chicken and rice dish simmering in the oven! This delivers all the cozy, savoury goodness of the classic, no chicken required.]]></summary>
+        <author>
+            <name>Jessica Hylton</name>
         </author>
     </entry>
     <entry>
@@ -14151,15 +14235,6 @@ The post Where Some See Strings, She Sees a Space-Time Made of Fractals first ap
 Not all wavelengths have received equal attention, however, and some wavelengths have been woefully neglected in recent years. In particular, the…]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subduction Retrieval]]></title>
-        <id>https://xkcd.com/3218/</id>
-        <link href="https://xkcd.com/3218/"/>
-        <updated>2026-03-11T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
