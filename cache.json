@@ -603,6 +603,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a2710c116645500018feca4",
+          "author": "Joseph Cox",
+          "description": "SignalTrace “links devices that regularly travel together, correlating them to license plate.” It is a surveillance product that will sweep up and add all sorts of Bluetooth and other data to license plate readers, linking specific devices—and people—to cars.",
+          "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+          "publishedOn": "2026-06-08T19:08:01.000Z",
+          "wordCount": 1145,
+          "title": "This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/signaltrace-art.png"
+        },
+        {
           "id": "6a26e41316645500018fdaad",
           "author": "Joseph Cox",
           "description": "Microsoft took the highly unusual step of shutting down more than 70 of its own GitHub repositories after hackers pushed malware that would steal credentials from AI coding agent users.",
@@ -3134,6 +3144,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3256/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3256/",
+          "publishedOn": "2026-06-08T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Nostalgia Content",
+          "imageUrl": "https://imgs.xkcd.com/comics/nostalgia_content_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3255/",
           "author": null,
           "description": "",
@@ -3864,6 +3884,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=557980",
+          "author": "Momo Chang",
+          "description": "Dumpling Day, Sightglass, Hinodeya, El Trompudo, and Glom are just a few of the recent East Bay restaurant openings.",
+          "link": "https://www.berkeleyside.org/2026/06/08/teni-east-sightglass-dave-busters-ramen-openings",
+          "publishedOn": "2026-06-08T19:00:00.000Z",
+          "wordCount": 8687,
+          "title": "May delivers new options for dumplings, coffee, ramen, tacos and Thai food to Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/DumplingDay-Berkeley.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=557957",
           "author": "Nathan Dalton",
@@ -11598,16 +11628,6 @@
           "wordCount": 2493,
           "title": "Next Season on  David Ellison’s  The Pitt",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ofao4985vl5g2gcf9z2cs30yr2uc"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-woodland-dystopian-writers-guild",
-          "author": "Ali Fitzgerald",
-          "description": "The Woodland Dystopian Writers Guild",
-          "link": "https://www.mcsweeneys.net/articles/the-woodland-dystopian-writers-guild",
-          "publishedOn": "2026-03-11T12:00:00.000Z",
-          "wordCount": 1755,
-          "title": "The Woodland Dystopian Writers Guild",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/jjwvqp1vrq5xjxlgd6imjw9u1pbs"
         }
       ]
     },
@@ -11616,6 +11636,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112116 at https://www.eff.org",
+          "author": "Cooper Quintin",
+          "description": "Just days after a damning WIRED report exposed that Meta had quietly embedded facial recognition technology (FRT) code into millions of phones, the tech giant has quietly acquiesced in demands to reverse course.\nLast week, researchers identified code in Meta AI, a companion app for its line of smart glasses, that could convert images of faces into unique biometric signatures to identify strangers in public. EFF’s Threat Lab verified these findings through static analysis, and reminded consumers to think twice before buying or using Meta’s surveillance glasses. \nJust as quietly as Meta embedded this code, the app’s June 5th app update appears to have quietly removed all those features and systems. Gone is the face-recognition technology, the code meant to trigger “Person recognized” alerts,…",
+          "link": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
+          "publishedOn": "2026-06-08T23:32:38.000Z",
+          "wordCount": 1583,
+          "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/vrarxr-rainbowbeams.png",
+            "alt": "Two people wearing a VR and AR headsets, each emitting a rainbow beam crossing",
+            "type": "image/png",
+            "length": "971303"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/vrarxr-rainbowbeams.png"
+        },
+        {
+          "id": "112113 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "On a warm June evening in San Francisco, attorneys and other legally-minded friends of EFF gathered for our 18th Annual Cyberlaw Trivia Night, an annual test of tech-related legal knowledge, and the ability to remember some deeply obscure facts under pressure. \nReturning Quizmaster Kurt Opsahl once again guided competitors through six rounds of trivia covering everything from intellectual property and free speech to privacy, security, and artificial intelligence. Teams wrestled with questions about geofence warrants, AI copyright disputes, the SOPA/PIPA internet blackout, Section 230, and even a Senate hearing featuring a contestant who was herself present at cyberlaw trivia. \nThe judges’ table made it obvious that 2026 was a notable year. Weighing in on the toughest close calls were three…",
+          "link": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
+          "publishedOn": "2026-06-08T19:12:02.000Z",
+          "wordCount": 1223,
+          "title": "Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/cyberlaw_banner.png",
+            "alt": "Cindy Cohn, Mike Masnick, and Nicole Ozer wear judge robes and white wigs, smiling and holding a giant gavel.",
+            "type": "image/png",
+            "length": "1214013"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/cyberlaw_banner.png"
+        },
         {
           "id": "112110 at https://www.eff.org",
           "author": "Melissa Srago",
