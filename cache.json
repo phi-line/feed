@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/06/love-story",
+          "author": null,
+          "description": "Tracking 1,000+ people through the ups and downs of their relationships",
+          "link": "https://pudding.cool/2026/06/love-story",
+          "publishedOn": "2026-06-09T04:00:00.000Z",
+          "wordCount": 2098,
+          "title": "A Love Story",
+          "imageUrl": "https://pudding.cool/2026/06/love-story/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://pudding.cool/2026/05/kpop-generations",
           "author": null,
           "description": "Two friends tell the story of their friendship through every generation of K-pop",
@@ -592,6 +602,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a282b5c86b6e0000114ad44",
+          "author": "Joseph Cox",
+          "description": "The FCC wants to legally force telecoms to collect new and renewing customers’ government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors. “We never thought that would happen here.”",
+          "link": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+          "publishedOn": "2026-06-09T15:11:17.000Z",
+          "wordCount": 1338,
+          "title": "FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers’ IDs",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/robin-worrall-FPt10LXK0cg-unsplash.jpg"
+        },
+        {
+          "id": "6a2822c386b6e0000114a583",
+          "author": "Jason Koebler",
+          "description": "When two AIs argue against each other, the legal system loses.",
+          "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+          "publishedOn": "2026-06-09T14:30:13.000Z",
+          "wordCount": 1391,
+          "title": "Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.png"
+        },
+        {
+          "id": "6a27216a16645500018ff2d5",
+          "author": "Emanuel Maiberg",
+          "description": "Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.",
+          "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+          "publishedOn": "2026-06-09T13:44:03.000Z",
+          "wordCount": 990,
+          "title": "'Sloppenheimer:' Amazon Employees Mock the Company’s AI on Slack",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/oppen-2.jpg"
+        },
         {
           "id": "6a2710c116645500018feca4",
           "author": "Joseph Cox",
@@ -2520,6 +2560,28 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8386151",
+          "author": "C.J. Ciaramella",
+          "description": "A medical examiner ruled Geraldo Lunas Campos' death a homicide by asphyxiation. Witnesses say guards choked him to death. Now a government report says evidence is missing.",
+          "link": "https://reason.com/2026/06/09/evidence-destroyed-or-lost-in-death-of-ice-detainee-that-was-ruled-a-homicide/",
+          "publishedOn": "2026-06-09T18:29:02.000Z",
+          "wordCount": null,
+          "title": "Evidence Destroyed or Lost in Death of ICE Detainee That Was Ruled a Homicide",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8386103",
+          "author": "Autumn Billings",
+          "description": "Protesters continue to clash with law enforcement outside the Delaney Hall immigration detention facility, but questions remain over whether DHS policies comply with First Amendment law.",
+          "link": "https://reason.com/2026/06/09/dhs-says-it-has-zero-tolerance-for-protesters-verbal-assaults-heres-what-the-law-says/",
+          "publishedOn": "2026-06-09T15:36:17.000Z",
+          "wordCount": null,
+          "title": "DHS Says It Has 'Zero Tolerance' for Protesters' 'Verbal Assaults.' Here's What the Law Says.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8385912",
           "author": "C.J. Ciaramella",
           "description": "A Homeland Security official's testimony that ICE agents couldn't rely on REAL IDs as proof of citizenship led a federal judge to reply, \"Help me understand how that makes sense.\"",
@@ -3491,6 +3553,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/the-next-us-presidential-election-will-be-about-ai",
+          "author": "Nathan Gardels",
+          "description": "The post The Next US Presidential Election Will Be About AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-next-us-presidential-election-will-be-about-ai",
+          "publishedOn": "2026-06-09T16:08:56.000Z",
+          "wordCount": 6324,
+          "title": "The Next US Presidential Election Will Be About AI",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/Noema_color_v1-24-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1097b7219d73de0b4e4d944b24745221"
+        },
         {
           "id": "https://www.noemamag.com/what-might-the-next-axial-age-look-like",
           "author": "Nathan Gardels",
@@ -9450,6 +9522,26 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=22436",
+          "author": "Jessica Hylton",
+          "description": "Weeknight comfort food doesn’t get much better than this cheesy vegan pasta bake. It’s rich, saucy, and packed with veggies. Plus, it comes together in just 40 minutes. Gotta love that!",
+          "link": "https://jessicainthekitchen.com/vegan-cheese-pasta-bake/",
+          "publishedOn": "2026-06-09T14:00:00.000Z",
+          "wordCount": 13162,
+          "title": "Vegan Cheesy Pasta Bake",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Cheese-Pasta-Bake0965.jpg"
+        },
+        {
+          "id": "https://jessicainthekitchen.com/?p=75876",
+          "author": "Jessica Hylton",
+          "description": "These vegan blueberry cookies are summer in dessert form. Loaded with jammy pockets of fresh berries and topped with a mouth-puckering lemon glaze, you won't be able to stop at one.",
+          "link": "https://jessicainthekitchen.com/blueberry-cookies/",
+          "publishedOn": "2026-06-08T14:00:00.000Z",
+          "wordCount": 13066,
+          "title": "Blueberry Cookies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Blueberry-Cookies_16.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=75517",
           "author": "Jessica Hylton",
           "description": "There’s something unbelievably comforting about this vegan chicken and rice dish simmering in the oven! This delivers all the cozy, savoury goodness of the classic, no chicken required.",
@@ -9843,6 +9935,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-am-emperor-caligula-and-even-i-think-the-white-house-ufc-event-is-a-bit-much",
+          "author": "Patrick Coyne",
+          "description": "I am Emperor Gaius Julius Caesar Augustus Germanicus Caligula, successor of Tiberius, Son of the Divine Germanicus, and Supreme Commander and Holder of Tribunician Power, Pontifex Maximus. And I decree, in regard to the upcoming White House UFC event…\n It’s a bit much, right? Like even for me. Pretty gauche, no?\n Caged brutes pummeling one another bloody on the historic lawn of the Executive Mansion? All to celebrate President Trump’s birthday?\n Come on, what are we doing here?\n I might have been guilty of some runaway self-indulgence from time to time. I mean, I used to literally drink pearls and once declared war on Neptune.\n But is America really going to sully its iconic symbol of democracy with Dana White’s CTE speedrun machine? Why can’t Trump keep his bloodsport / ego strokefest in …",
+          "link": "https://www.mcsweeneys.net/articles/i-am-emperor-caligula-and-even-i-think-the-white-house-ufc-event-is-a-bit-much",
+          "publishedOn": "2026-06-09T17:00:00.000Z",
+          "wordCount": 2555,
+          "title": "I am Emperor Caligula, and Even I Think the White House UFC Event Is a Bit Much",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2bk2vh4s71wgmb5ia8mxcp8vzela"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/this-is-all-completely-unprecedented",
           "author": "Ginny Hogan",
@@ -11535,6 +11637,22 @@
             "length": "971303"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/vrarxr-rainbowbeams.png"
+        },
+        {
+          "id": "112115 at https://www.eff.org",
+          "author": "Molly Buckley",
+          "description": "Several U.S. states are pushing to ban young people from social media entirely. This marks the latest wave of censorship bills masquerading as “children’s online safety” measures, with states like Massachusetts, Idaho, Minnesota, North Carolina, South Carolina, Illinois, and EFF’s home state of California leading the charge.\nJust a few years ago, lawmakers supporting age-gating laws insisted their efforts were narrowly targeted at limiting young people’s access to adult content. At the time, we warned that they would not stop there: once the government established the authority and built the infrastructure to collect and “verify” massive troves of user data, it would inevitably sweep broader and broader categories of lawful speech into this mass surveillance and censorship system. \nUnfortu…",
+          "link": "https://www.eff.org/deeplinks/2026/06/how-and-why-fight-back-against-social-media-bans",
+          "publishedOn": "2026-06-08T23:28:43.000Z",
+          "wordCount": 2847,
+          "title": "How and Why to Fight Back Against Social Media Bans",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
+            "alt": "two kids on a huge laptop, spied on by an eye in magnifying glass",
+            "type": "image/png",
+            "length": "1249014"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
         },
         {
           "id": "112113 at https://www.eff.org",
