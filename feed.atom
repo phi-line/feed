@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-09T07:17:30.988Z</updated>
+    <updated>2026-06-09T13:03:10.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Stuart Kelman, founding rabbi of Berkeley’s Netivot Shalom]]></title>
+        <id>https://www.berkeleyside.org/?p=558106</id>
+        <link href="https://www.berkeleyside.org/2026/06/09/stuart-kelman-obituary"/>
+        <updated>2026-06-09T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The congregation broke ground in recognizing same-sex marriage within Conservative Jewry, and Kelman was instrumental in the creation of the nation's first environmentally focused Jewish cemetery, in Marin County.]]></summary>
+        <author>
+            <name>Sue Fishkoff | J. The Jewish News of California</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is All Completely Unprecedented]]></title>
+        <id>https://www.mcsweeneys.net/articles/this-is-all-completely-unprecedented</id>
+        <link href="https://www.mcsweeneys.net/articles/this-is-all-completely-unprecedented"/>
+        <updated>2026-06-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing is for sure: we’ve never seen anything like it. The actions of this president and his administration are completely and utterly unprecedented.
+ - - -
+In an unprecedented move, the president chose to boost the inflation rate. That isn’t typically his job, although, in his defense, the framers of the Constitution were deliberately vague. Many interpret the Eighth Amendment as giving the president power to tank the economy.
+ - - -
+Normally, the president doesn’t try to oust lawmakers from his own party because they disagreed with him one time. Or in John Cornyn’s case, less than one time. But this president has always had a quirky, unprecedented way of keeping the coalition together.
+ - - -
+It’s definitely unusual to see a president pardon himself for crimes he has not yet committed…]]></summary>
+        <author>
+            <name>Ginny Hogan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry]]></title>
         <id>112116 at https://www.eff.org</id>
@@ -14076,65 +14102,6 @@ I didn’t know this at the time, of course. I just thought it was one of those 
         <summary type="html"><![CDATA[From your own experiential perspective, the laws of physics are stacked against you if you ever hope to achieve immortality. From a thermodynamic perspective, every system tends toward increasing entropy-and-disorder, and the only way you can combat that is by constantly inputting an external source of energy. In other words, everything about you, including your body and mind, is destined to eventually break down. Although you might try to leverage the power of relativity to dilate time and slow its passage, that will never work from your individual perspective; time only dilates or slows relative to an observer in a different reference frame from your own. No matter how quickly you move or how deep of a gravitational field you enter, you’ll still experience the passage of time as normal: …]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley cuts pepper spray reporting requirements for police]]></title>
-        <id>https://www.berkeleyside.org/?p=553553</id>
-        <link href="https://www.berkeleyside.org/2026/03/11/berkeley-pepper-spray-use-reports"/>
-        <updated>2026-03-11T23:53:10.000Z</updated>
-        <summary type="html"><![CDATA[The City Council vote, rescinding a nearly three-decade-old directive, comes amidst broader changes to BPD’s access to surveillance technology and other hardware.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Despite This Terrible War, We Must Never Lose Sight of the Value of Each and Every Precious Shipping Container]]></title>
-        <id>https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container</id>
-        <link href="https://www.mcsweeneys.net/articles/despite-this-terrible-war-we-must-never-lose-sight-of-the-value-of-each-and-every-precious-shipping-container"/>
-        <updated>2026-03-11T23:31:00.000Z</updated>
-        <summary type="html"><![CDATA[“Three cargo vessels have been hit by ‘unknown projectiles’ in the Strait of Hormuz, maritime authorities say, as pressure intensifies on one of the world’s most important shipping lanes. Traffic through the strait, a vital corridor for oil, has fallen sharply since Israel and the US attacked Iran in late February.” — BBC
- - - -
-As the United States unleashes the destructive force of our incredible military power on our longtime enemy (and anyone else who happens to be around), we must remain mindful that Iran is not some abstract boogeyman. Iran is a real place. It is full of real people. And those people and that place are adjacent to a narrow seaway that is vital to international trade. And that seaway is full of real, beautiful, complex, fragile shipping containers.
- In the fog of war,…]]></summary>
-        <author>
-            <name>Talia Argondezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certbot and Let's Encrypt Now Support IP Address Certificates]]></title>
-        <id>111820 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates"/>
-        <updated>2026-03-11T22:32:56.000Z</updated>
-        <summary type="html"><![CDATA[(Note: This post is also cross-posted on the Let's Encrypt blog)
-As announced earlier this year, Let's Encrypt now issues IP address and six-day certificates to the general public. The Certbot team here at the Electronic Frontier Foundation has been working on two improvements to support these features: the --preferred-profile flag released last year in Certbot 4.0, and the --ip-address flag, new in Certbot 5.3. With these improvements together, you can now use Certbot to get those IP address certificates!
-If you want to try getting an IP address certificate using Certbot, install version 5.4 or higher (for webroot support with IP addresses), and run this command:
-sudo certbot certonly --staging \
-  --preferred-profile shortlived \
-  --webroot \
-  --webroot-path <filesystem path to webserv…]]></summary>
-        <author>
-            <name>Jacob Hoffman-Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘First lady’ of Iranian film to speak in Berkeley during BAMPFA series]]></title>
-        <id>https://www.berkeleyside.org/?p=553531</id>
-        <link href="https://www.berkeleyside.org/2026/03/11/berkeley-events-movies-bampfa-iranian-film"/>
-        <updated>2026-03-11T21:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Berkeley Art Museum and Pacific Film Archive is hosting a two-month series of Iranian films, offering a layered look at life in the country with a focus on the stories of women.]]></summary>
-        <author>
-            <name>Pendarvis Harshaw | KQED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13K immigrant truck drivers lose California licenses]]></title>
-        <id>https://oaklandside.org/?p=470532</id>
-        <link href="https://www.berkeleyside.org/2026/03/11/immigrant-truck-drivers-lose-california-commercial-licenses-trump"/>
-        <updated>2026-03-11T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The DMV’s decision follows a new federal rule that limits immigrants’ license eligibility to a much narrower set of legal statuses.]]></summary>
-        <author>
-            <name>Jose Fermoso</name>
         </author>
     </entry>
     <entry>
