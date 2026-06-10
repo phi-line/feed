@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=162920",
+          "author": "Carrie Arnold",
+          "description": "An ancient lineage of cyanobacteria is helping biologists uncover an early evolutionary stage of the mind-boggling process that turns light into life.            \nThe post An Early Step on the Long, Strange Road to Photosynthesis first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
+          "publishedOn": "2026-06-10T14:57:19.000Z",
+          "wordCount": 3817,
+          "title": "An Early Step on the Long, Strange Road to Photosynthesis",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Basal-Photosynthesis-cr-Son-of-Alan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=162849",
           "author": "Kevin Hartnett",
           "description": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.            \nThe post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine",
@@ -612,6 +622,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a29686986b6e00001179a18",
+          "author": "Becky Ferreira",
+          "description": "Researchers report a \"serendipitous\" discovery while watching videos of crowds: an inexplicable bias toward counterclockwise turning that may be rooted in biology.",
+          "link": "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
+          "publishedOn": "2026-06-10T13:39:58.000Z",
+          "wordCount": 1545,
+          "title": "Scientists Just Accidentally Discovered a Strange, Hidden Rule of Human Nature",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/image1.png"
+        },
+        {
+          "id": "6a29677586b6e000011798ab",
+          "author": "Joseph Cox",
+          "description": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
+          "link": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
+          "publishedOn": "2026-06-10T13:36:16.000Z",
+          "wordCount": 1078,
+          "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/google-AI-meme.png"
+        },
+        {
+          "id": "6a2912fc86b6e00001151bab",
+          "author": "Jason Koebler",
+          "description": "There have been more than a dozen cases around the country where police use Flock to obsessively and illegally stalk people.",
+          "link": "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
+          "publishedOn": "2026-06-10T13:22:29.000Z",
+          "wordCount": 1141,
+          "title": "Cops Keep Getting Arrested for Using Flock to Stalk People",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-10-at-00.45.35@2x.png"
+        },
         {
           "id": "6a282b5c86b6e0000114ad44",
           "author": "Joseph Cox",
@@ -3497,16 +3537,6 @@
           "wordCount": 187,
           "title": "Rotational Gravity",
           "imageUrl": "https://imgs.xkcd.com/comics/rotational_gravity_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3219/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3219/",
-          "publishedOn": "2026-03-13T04:00:00.000Z",
-          "wordCount": 191,
-          "title": "Planets and Bright Stars",
-          "imageUrl": "https://imgs.xkcd.com/comics/planets_and_bright_stars_2x.png"
         }
       ]
     },
@@ -3532,6 +3562,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/democracy-needs-friction-to-function",
+          "author": "HennyGe Wichers",
+          "description": "The post Democracy Needs Friction To Function appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/democracy-needs-friction-to-function",
+          "publishedOn": "2026-06-10T16:17:20.000Z",
+          "wordCount": 7043,
+          "title": "Democracy Needs Friction To Function",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/01_okazz.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1252b8e74a632513b866d599e6369202"
+        },
         {
           "id": "https://www.noemamag.com/the-next-us-presidential-election-will-be-about-ai",
           "author": "Nathan Gardels",
@@ -9905,6 +9945,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/welcome-soccer-fans-were-monetizing-the-oxygen",
+          "author": "Nathan Cowley",
+          "description": "Welcome, soccer fans from around the globe, to the 2026 FIFA World Cup in the United States, Mexico, and Canada. We hope you have a pleasant stay with us and enjoy all the exciting experiences North America has to offer.\n Oh, and by the way, we’re monetizing the oxygen.\n Yes, we know it’s a bummer. However, due to low ticket sales, low hotel bookings, and generally low enthusiasm, oxygen is the only necessity left for us to exploit. Thanks to European disdain for endless commercial breaks and the universal objection to using the center circle to advertise Bud Light, oxygen is now our last avenue for profit. We hope you can understand.\n FAQ\n How do we access the oxygen?\n Thousands of O-Two anti-suffocation stations will be installed in every host city at the low cost of just $0.20 per minut…",
+          "link": "https://www.mcsweeneys.net/articles/welcome-soccer-fans-were-monetizing-the-oxygen",
+          "publishedOn": "2026-06-10T16:44:00.000Z",
+          "wordCount": 2611,
+          "title": "Welcome, Soccer Fans. We’re Monetizing the Oxygen",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ele0yoc7x29385zihvx7z8fsveaa"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/to-fold-the-superstroller-you-must-first-earn-an-engineering-degree",
           "author": "Megan Rogers",
           "description": "At SuperStrollers, we’re here for you, new parents. That’s why we’ve designed the world’s safest stroller with effortless steering and ample storage that’ll take you from the playground to the grocery store with ease. The best part? It’s super easy to fold as long as you have an advanced STEM degree.\n To fold the stroller so it fits in your trunk, unbuckle your little one. Then, using the hand that isn’t holding your baby, execute the press and twist. Simply click the button that’s hidden under the seat cover while simultaneously twisting the handlebar that’s an arm’s length away by understanding and relying on angular momentum.\n Seriously? How can you not figure this out?\n It’s probably because you’re not a good parent. A good mom or dad would intuitively know how to maneuver the two-hand…",
@@ -11571,6 +11621,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112114 at https://www.eff.org",
+          "author": "Cory Doctorow",
+          "description": "Enshittification isn't just a sweary word to describe the accelerating decay of the online platforms, apps, and services that we rely on.  \nIt's a framework for understanding the structural incentives that make tech companies enemies of their own users over time—the surveillance business model, the erosion of privacy, the monopoly power that eliminates alternatives, the regulatory capture that prevents accountability.  \nSUPPORT EFF\nGET LimITED EDITION MERCH + FIGHT ENSHITTIFICATION\nThese are some of EFF's core fights and have been for over 35 years. EFF sues. EFF advocates. EFF codes. And EFF wins. EFF is the most profound and powerful disenshittifying force on the planet Earth, and I’ve been proud to fight alongside them for nearly 25 of those years.  \nOne of the lessons you learn in batt…",
+          "link": "https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification",
+          "publishedOn": "2026-06-10T17:34:12.000Z",
+          "wordCount": 1785,
+          "title": "Enshittification Merch That Actually Fights Enshittification",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/enshittification-forstore-banner-4.jpg",
+            "alt": "A die-cut sticker of an angry poop emoji. A black banner reads &quot;&amp;$!#%&quot; in white text. In the top left corner is a blurry EFF sticker, indicating this sticker is in good company.",
+            "type": "image/jpeg",
+            "length": "123656"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/enshittification-forstore-banner-4.jpg"
+        },
+        {
+          "id": "112120 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "Across the country, surveillance companies have spun a vast web of tens of thousands of license plate cameras. The people selling this tech want you to believe that it's for your safety, but how are authorities really using automated license plate readers (ALPR)? In this week's EFFector newsletter, we're looking at how these powerful surveillance networks have become universal people-trackers used for noise complaints and other low-level investigations.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This week's issue covers a victory for facial privacy, EFF's testimony to Congress about AI and surveillance, and troubling new examples of ALPR mission creep.\nPrefer to listen in? EFFector is now available on all major podcast platforms. This week, we're chatting with EFF Associate Director of State Affairs Rindala Alajaji about what she uncovered about police use of ALPR. And don't miss the EFFector news quiz. You can find the episode and subscribe on your podcast platform of choice:\n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F733a5637-dec4-4949-8c0f-976a5222c48a%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n\n   \nWant to stay in the fight for privacy and free speech online? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight against online surveillance when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/06/mass-surveillance-loud-music-effector-3811",
+          "publishedOn": "2026-06-10T17:29:08.000Z",
+          "wordCount": 796,
+          "title": "🔊 Mass Surveillance for… Loud Music? | EFFector 38.11",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "112118 at https://www.eff.org",
           "author": "Katharine Trendacosta",
