@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-09T18:46:19.622Z</updated>
+    <updated>2026-06-10T00:52:18.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aurora Theatre is back, with new leadership but no space — yet]]></title>
+        <id>https://www.berkeleyside.org/?p=558184</id>
+        <link href="https://www.berkeleyside.org/2026/06/09/aurora-theatre-berkeley"/>
+        <updated>2026-06-09T23:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Nearly a year after laying off its entire staff and going dark, the nonprofit Berkeley theater that was housed downtown says it will return for a 2027-28 season.]]></summary>
+        <author>
+            <name>Hope Muñoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell Congress: Just Say No to NO FAKES]]></title>
+        <id>112118 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/06/tell-congress-just-say-no-no-fakes"/>
+        <updated>2026-06-09T21:00:35.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Judiciary Committee is set to consider and vote on the Nurture Originals, Foster Art, and Keep Entertainment Safe Act (NO FAKES). Instead of targeting the real privacy harms posed by AI-generated replicas, this law would create another layer of internet censorship on top of the already existing legal and voluntary takedown systems. Congress should reject NO FAKES.
+Take action
+Tell Congress to Say No to NO FAKES
+As currently written, NO FAKES proposes to tackle the problems of misleading AI-generated replicas by creating a broad property right in someone's look, voice, and general style. However, there are all kinds of First Amendment-protected expression that would be swept under the NO FAKES regime—think about parody, news, criticism.
+NO FAKES also does a laughable job of protecting artists from use of their image in misleading ways. It doesn’t create a privacy right, but rather a property right that can easily be signed away—as major studios and record labels are almost certain to require in their contracts with artists. As a result, NO FAKES actually creates a new avenue for the exploitation of artists by companies instead of protection from misleading replicas. 
+The bill also makes it trivially easy for protected speech to be censored. It is a supercharged version of the already flawed copyright takedown regime. It would essentially require platforms to institute filters that don't just look for exact matches of copyrighted material, as current filters do, but anything that might be a digital replica. Even though the latest version of this bill adds some forms of redress for bad faith takedowns, those provisions lack the teeth required to deter a malicious actor. 
+NO FAKES targets speech, tools, and innovation instead of focusing on the real concern posed by these replicas: privacy. This bill was a bad idea when it was introduced, and got even worse when it was amended last year. Tell Congress to just say no to NO FAKES.
+Take action
+Tell Congress to Say No to NO FAKES]]></summary>
+        <author>
+            <name>Katharine Trendacosta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley animal shelter fire ‘intentionally lit,’ police say]]></title>
+        <id>https://www.berkeleyside.org/?p=558144</id>
+        <link href="https://www.berkeleyside.org/2026/06/09/berkeley-animal-shelter-fire"/>
+        <updated>2026-06-09T20:14:18.000Z</updated>
+        <summary type="html"><![CDATA[All animals were evacuated and the facility will be closed for weeks, if not months, officials said. Berkeley police have opened an arson investigation.]]></summary>
+        <author>
+            <name>Zac Farber and Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat and wind could raise East Bay fire danger this week]]></title>
+        <id>https://www.berkeleyside.org/?p=558137</id>
+        <link href="https://www.berkeleyside.org/2026/06/09/berkeley-red-flag-warning-wildfire-weather"/>
+        <updated>2026-06-09T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Berkeley was included in a Red Flag Warning for dangerous fire weather, but a meteorologist said our side of the hills was not likely to see those conditions.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gwyneth’s goop launches ‘Berkeley’ location in Oakland, and a crossing-the-bridge noodles specialist comes to town]]></title>
+        <id>https://www.berkeleyside.org/?p=558113</id>
+        <link href="https://www.berkeleyside.org/2026/06/09/goop-berkeley-ten-seconds-dropo-shucos-magi-open"/>
+        <updated>2026-06-09T19:07:16.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evidence Destroyed or Lost in Death of ICE Detainee That Was Ruled a Homicide]]></title>
         <id>https://reason.com/?p=8386151</id>
@@ -7291,6 +7349,16 @@ These lists, along with everything McSweeney’s publishes on this site, are off
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Long Until AI Doesn’t Need Humans?]]></title>
+        <id>https://asteriskmag.com/issues/14/how-long-until-ai-doesn-t-need-humans</id>
+        <link href="https://asteriskmag.com/issues/14/how-long-until-ai-doesn-t-need-humans"/>
+        <updated>2026-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[She thinks it’s nearly imminent. He doesn’t.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shall We Play a Game?]]></title>
         <id>https://asteriskmag.com/issues/14/shall-we-play-a-game</id>
         <link href="https://asteriskmag.com/issues/14/shall-we-play-a-game"/>
@@ -14182,33 +14250,6 @@ I didn’t know this at the time, of course. I just thought it was one of those 
         <summary type="html"><![CDATA[The Berkeley Federation of Teachers said the new 2-year agreement pushes BUSD as far as it can go on pay and benefits without causing a “fiscal emergency.” The school board is expected to review and sign off later in March.]]></summary>
         <author>
             <name>Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Couple Tries to Get a Mortgage Approval in an Equal Parts Plausible, Dystopian, and Not-So-Distant Future]]></title>
-        <id>https://www.mcsweeneys.net/articles/a-couple-tries-to-get-a-mortgage-approval-in-an-equal-parts-plausible-dystopian-and-not-so-distant-future</id>
-        <link href="https://www.mcsweeneys.net/articles/a-couple-tries-to-get-a-mortgage-approval-in-an-equal-parts-plausible-dystopian-and-not-so-distant-future"/>
-        <updated>2026-03-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TO: Jordan, Mortgage Underwriter
- FROM: Greg and Janice, Home Buyers
- Good morning,
- Please see the responses to your questions below and in italics. Greg and I are looking forward to getting this process done so we can move forward on the house.
- Sincerely,
- Greg and Janice
- 1. Our analysis showed that the commute for your jobs would be a little bit longer for you both: ten minutes for Greg, twelve minutes for Janice. We were wondering what your motivation is for moving if you have to drive longer to get to work?
- We thought that the neighborhood was nicer than our current one, and the schools there would be better for our child.
- 2. There was a little bit of a downturn in Greg’s income between 2024 and 2025 ($200,000 to $197,000). I know it’s not a big change to some people, but I’m sure…]]></summary>
-        <author>
-            <name>Jason Wilt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madi Diaz: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=-VwcJdXJoxs</id>
-        <link href="https://www.youtube.com/watch?v=-VwcJdXJoxs"/>
-        <updated>2026-03-12T09:00:00.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>

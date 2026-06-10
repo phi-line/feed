@@ -546,6 +546,16 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/14/are-prediction-markets-good-for-anything/d248692542-1777393260/dan-schwarz-prediction-markets-asterisk-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/14/how-long-until-ai-doesn-t-need-humans",
+          "author": null,
+          "description": "She thinks it’s nearly imminent. He doesn’t.",
+          "link": "https://asteriskmag.com/issues/14/how-long-until-ai-doesn-t-need-humans",
+          "publishedOn": "2026-04-22T00:00:00.000Z",
+          "wordCount": 5648,
+          "title": "How Long Until AI Doesn’t Need Humans?",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/how-long-until-ai-doesn-t-need-humans/b55a07a382-1781034882/how-long-until-ai-doesn-t-need-humans-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
           "author": null,
           "description": "Historian Jon Peterson traces the route from Prussian military headquarters to Gary Gygax’s basement.",
@@ -3900,6 +3910,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558184",
+          "author": "Hope Muñoz",
+          "description": "Nearly a year after laying off its entire staff and going dark, the nonprofit Berkeley theater that was housed downtown says it will return for a 2027-28 season.",
+          "link": "https://www.berkeleyside.org/2026/06/09/aurora-theatre-berkeley",
+          "publishedOn": "2026-06-09T23:56:35.000Z",
+          "wordCount": 7876,
+          "title": "Aurora Theatre is back, with new leadership but no space — yet",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/image-3-scaled-1.webp"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558144",
+          "author": "Zac Farber and Alex N. Gecan",
+          "description": "All animals were evacuated and the facility will be closed for weeks, if not months, officials said. Berkeley police have opened an arson investigation.",
+          "link": "https://www.berkeleyside.org/2026/06/09/berkeley-animal-shelter-fire",
+          "publishedOn": "2026-06-09T20:14:18.000Z",
+          "wordCount": 7544,
+          "title": "Berkeley animal shelter fire ‘intentionally lit,’ police say",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0136-2-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558137",
+          "author": "Nico Savidge",
+          "description": "Berkeley was included in a Red Flag Warning for dangerous fire weather, but a meteorologist said our side of the hills was not likely to see those conditions.",
+          "link": "https://www.berkeleyside.org/2026/06/09/berkeley-red-flag-warning-wildfire-weather",
+          "publishedOn": "2026-06-09T19:27:00.000Z",
+          "wordCount": 7198,
+          "title": "Heat and wind could raise East Bay fire danger this week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/large-Mokri-FirePrevention-21.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558113",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/06/09/goop-berkeley-ten-seconds-dropo-shucos-magi-open",
+          "publishedOn": "2026-06-09T19:07:16.000Z",
+          "wordCount": 7113,
+          "title": "Gwyneth’s goop launches ‘Berkeley’ location in Oakland, and a crossing-the-bridge noodles specialist comes to town",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/GoopKitchen.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558106",
           "author": "Sue Fishkoff | J. The Jewish News of California",
@@ -7275,16 +7325,6 @@
           "publishedOn": "2026-03-12T13:57:36.000Z",
           "wordCount": 2018,
           "title": "#DeskOfTheDay: \"Phoebe,\" Elora",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-VwcJdXJoxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-VwcJdXJoxs",
-          "publishedOn": "2026-03-12T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Madi Diaz: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11604,16 +11644,6 @@
           "wordCount": 2388,
           "title": "Party Games for  Fifty-Somethings",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r0p0zg4lm4pgsd2whf9j2lveigy0"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/a-couple-tries-to-get-a-mortgage-approval-in-an-equal-parts-plausible-dystopian-and-not-so-distant-future",
-          "author": "Jason Wilt",
-          "description": "TO: Jordan, Mortgage Underwriter\n FROM: Greg and Janice, Home Buyers\n Good morning,\n Please see the responses to your questions below and in italics. Greg and I are looking forward to getting this process done so we can move forward on the house.\n Sincerely,\n Greg and Janice\n 1. Our analysis showed that the commute for your jobs would be a little bit longer for you both: ten minutes for Greg, twelve minutes for Janice. We were wondering what your motivation is for moving if you have to drive longer to get to work?\n We thought that the neighborhood was nicer than our current one, and the schools there would be better for our child.\n 2. There was a little bit of a downturn in Greg’s income between 2024 and 2025 ($200,000 to $197,000). I know it’s not a big change to some people, but I’m sure…",
-          "link": "https://www.mcsweeneys.net/articles/a-couple-tries-to-get-a-mortgage-approval-in-an-equal-parts-plausible-dystopian-and-not-so-distant-future",
-          "publishedOn": "2026-03-12T12:00:00.000Z",
-          "wordCount": 2581,
-          "title": "A Couple Tries to Get a Mortgage Approval in an Equal Parts Plausible, Dystopian, and Not-So-Distant Future",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/tblvqjpf9rjfjlcfwa0ezd1h1ur1"
         }
       ]
     },
@@ -11622,6 +11652,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112118 at https://www.eff.org",
+          "author": "Katharine Trendacosta",
+          "description": "The Senate Judiciary Committee is set to consider and vote on the Nurture Originals, Foster Art, and Keep Entertainment Safe Act (NO FAKES). Instead of targeting the real privacy harms posed by AI-generated replicas, this law would create another layer of internet censorship on top of the already existing legal and voluntary takedown systems. Congress should reject NO FAKES.\nTake action\nTell Congress to Say No to NO FAKES\nAs currently written, NO FAKES proposes to tackle the problems of misleading AI-generated replicas by creating a broad property right in someone's look, voice, and general style. However, there are all kinds of First Amendment-protected expression that would be swept under the NO FAKES regime—think about parody, news, criticism.\nNO FAKES also does a laughable job of protecting artists from use of their image in misleading ways. It doesn’t create a privacy right, but rather a property right that can easily be signed away—as major studios and record labels are almost certain to require in their contracts with artists. As a result, NO FAKES actually creates a new avenue for the exploitation of artists by companies instead of protection from misleading replicas. \nThe bill also makes it trivially easy for protected speech to be censored. It is a supercharged version of the already flawed copyright takedown regime. It would essentially require platforms to institute filters that don't just look for exact matches of copyrighted material, as current filters do, but anything that might be a digital replica. Even though the latest version of this bill adds some forms of redress for bad faith takedowns, those provisions lack the teeth required to deter a malicious actor. \nNO FAKES targets speech, tools, and innovation instead of focusing on the real concern posed by these replicas: privacy. This bill was a bad idea when it was introduced, and got even worse when it was amended last year. Tell Congress to just say no to NO FAKES.\nTake action\nTell Congress to Say No to NO FAKES",
+          "link": "https://www.eff.org/deeplinks/2026/06/tell-congress-just-say-no-no-fakes",
+          "publishedOn": "2026-06-09T21:00:35.000Z",
+          "wordCount": 1588,
+          "title": "Tell Congress: Just Say No to NO FAKES",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/icon-2019-innovation.png",
+            "alt": "Innovation",
+            "type": "image/png",
+            "length": "16801"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/icon-2019-innovation.png"
+        },
         {
           "id": "112116 at https://www.eff.org",
           "author": "Cooper Quintin",
