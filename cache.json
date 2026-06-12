@@ -2600,6 +2600,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8387083",
+          "author": "Jeremiah Alondra",
+          "description": "The legal team of Salah Sarsour alleges that he risks death from being denied basic diabetes care after two months in detention.",
+          "link": "https://reason.com/2026/06/11/dhs-says-hes-a-terrorist-his-lawyers-say-hes-being-punished-for-palestinian-advocacy/",
+          "publishedOn": "2026-06-11T20:55:57.000Z",
+          "wordCount": null,
+          "title": "DHS Says He's a Terrorist. His Lawyers Say He's Being Punished for Palestinian Advocacy.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8386151",
           "author": "C.J. Ciaramella",
           "description": "A medical examiner ruled Geraldo Lunas Campos' death a homicide by asphyxiation. Witnesses say guards choked him to death. Now a government report says evidence is missing.",
@@ -3933,6 +3944,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558342",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Some UC Berkeley humanities professors say they're cutting down the amount of reading they assign to students.",
+          "link": "https://www.berkeleyside.org/2026/06/11/the-wire-tom-hanks-bought-a-1930s-royal-standard-typewriter-at-berkeley-typewriter-last-week",
+          "publishedOn": "2026-06-12T00:15:00.000Z",
+          "wordCount": 7233,
+          "title": "The Wire: Tom Hanks bought a 1930s Royal standard typewriter at Berkeley Typewriter last week",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Tom-Hanks.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558367",
+          "author": "Tovin Lapan",
+          "description": "The Society of Features Journalism honored Richmondside reporting intern Thomas Lyons for his piece on the  pre-dawn hours at the Richmond institution.",
+          "link": "https://www.berkeleyside.org/2026/06/11/andys-donut-nosh-society-features-journalism-award",
+          "publishedOn": "2026-06-11T23:50:01.000Z",
+          "wordCount": 6931,
+          "title": "Nosh wins national award for story on Andy’s Donut Shop",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/AndysDonuts-WelcomeSign-CarlaHRamirez.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558365",
+          "author": "Alex N. Gecan",
+          "description": "Police said they identified the man via surveillance footage and arrested him Thursday around downtown. They are also investigating a flood at the shelter.",
+          "link": "https://www.berkeleyside.org/2026/06/11/bacs-shelter-arson-arrest-bpd-investigate-flooding",
+          "publishedOn": "2026-06-11T23:45:57.000Z",
+          "wordCount": 7699,
+          "title": "Man suspected of torching Berkeley animal shelter arrested",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0113-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=550794",
+          "author": "Alex N. Gecan",
+          "description": "Despite its spread from the Northwest Berkeley camp where the outbreak began, health officials say the risk to the general public remains low. Here’s what to know about symptoms, transmission and treatment.",
+          "link": "https://www.berkeleyside.org/2026/06/11/eighth-harrison-encampment-lepto-outbreak-treatment-prevention-precaution",
+          "publishedOn": "2026-06-11T22:08:40.000Z",
+          "wordCount": 8693,
+          "title": "Leptospirosis outbreak in Berkeley: What’s the risk to people and pets?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/encampementsweepJune4th2025AdahliaCole-22.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558220",
           "author": "Calliope Arkilic",
@@ -11625,6 +11676,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112125 at https://www.eff.org",
+          "author": "Adam Schwartz",
+          "description": "Corporations harvest and monetize ever-growing amounts of our personal data, such as our browsing history and physical location. One bitter fruit of this poisonous tree is known as “surveillance pricing”: corporations offer the same product to two different people at two different prices, based on scrutiny of these people’s respective personal data.\nSurveillance pricing is bad for privacy, equity, and price transparency. So EFF supports a California bill, S.B. 2564, which would ban this creepy practice.\nHow Surveillance Pricing Works\nIn 2025, the Federal Trade Commission (FTC) published a report about the practices of six companies that provide surveillance pricing services to hundreds of other companies, including grocery stores and apparel retailers. The report found that surveillance pr…",
+          "link": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
+          "publishedOn": "2026-06-11T19:56:39.000Z",
+          "wordCount": 2979,
+          "title": "Yes to California's Bill to Ban Surveillance Pricing",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ca-privacy-general-2.png",
+            "alt": "lock icon with CA state map &amp; vintage colors",
+            "type": "image/png",
+            "length": "486510"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ca-privacy-general-2.png"
+        },
         {
           "id": "112126 at https://www.eff.org",
           "author": "Josh Richman",
