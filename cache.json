@@ -3925,6 +3925,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=558222",
+          "author": "Karen Nguyen Vo",
+          "description": "A queer film series at BAMPFA. Mortifying stories read aloud from teen journals. Heated Rivalry trivia. Quilt making. And Berkeley’s Pride festival, now in Civic Center Park.",
+          "link": "https://www.berkeleyside.org/2026/06/12/pride-berkeley-lgbtq-2026",
+          "publishedOn": "2026-06-12T13:00:00.000Z",
+          "wordCount": 8150,
+          "title": "Pride summer in Berkeley: 13 festivals, parades, concerts and events celebrating LGBTQ+ communities",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/DSCF0102.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=558342",
           "author": "Berkeleyside Staff",
           "description": "Also: Some UC Berkeley humanities professors say they're cutting down the amount of reading they assign to students.",
@@ -6952,6 +6962,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nkG2SSzPUns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nkG2SSzPUns",
+          "publishedOn": "2026-06-12T09:00:22.000Z",
+          "wordCount": null,
+          "title": "The Paradox: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YCbFsAwwyyg",
           "author": null,
           "description": "",
@@ -9951,16 +9971,6 @@
           "wordCount": 2352,
           "title": "A non-coding coding agent",
           "imageUrl": "https://zserge.com/logo.png"
-        },
-        {
-          "id": "https://zserge.com/posts/visicalc/",
-          "author": null,
-          "description": "VisiCalc Spreadsheets rule the world for almost half of a century. I strongly believe that it’s one of the best UXs ever created. Being fairly minimal and easy to learn, it allows users to quickly manipulate data, describe logic, visualise results, or even create art and run GameBoy games.\nIt all started in 1979 when Dan Bricklin and Bob Frankston created VisiCalc, the first spreadsheet software. With a few thousand lines of hand-written 6502 assembly, VisiCalc could successfully run on 16K RAM machines.",
-          "link": "https://zserge.com/posts/visicalc/",
-          "publishedOn": "2026-03-15T00:00:00.000Z",
-          "wordCount": 2545,
-          "title": "VisiCalc reconstructed",
-          "imageUrl": "https://zserge.com/logo.png"
         }
       ]
     },
@@ -9969,6 +9979,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/good-luck-proving-were-competent-enough-to-knowingly-commit-war-crimes",
+          "author": "Talia Argondezzi",
+          "description": "“It is unclear if the U.S. intentionally struck [Iran’s] water facilities, or knew what was in the buildings. Deliberately targeting civilian infrastructure could constitute a war crime under international law.” – The New York Times\n - - -\nA few crybabies are claiming the United States’ recent bombing of Iran’s water storage and distribution facilities constitutes a war crime. But listen to the criteria for proving it was a war crime: we need to have known which buildings our missiles were going to strike and what was in those buildings.\n How can anyone expect our military leaders to know what’s inside the buildings we’re bombing? Do you have any idea how similar weapons storage warehouses look to water treatment facilities and girls’ volleyball games?\n What about the words “indiscriminate…",
+          "link": "https://www.mcsweeneys.net/articles/good-luck-proving-were-competent-enough-to-knowingly-commit-war-crimes",
+          "publishedOn": "2026-06-12T12:00:00.000Z",
+          "wordCount": 2520,
+          "title": "Good Luck Proving We’re Competent Enough to Knowingly Commit War Crimes",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gtv0o62nhky79cultz789mtwkifz"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
           "author": "Andrew Singleton",
