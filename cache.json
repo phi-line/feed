@@ -3184,6 +3184,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3258/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3258/",
+          "publishedOn": "2026-06-12T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Plate Flip",
+          "imageUrl": "https://imgs.xkcd.com/comics/plate_flip_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3257/",
           "author": null,
           "description": "",
@@ -3954,6 +3964,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558333",
+          "author": "Tovin Lapan and Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/06/12/xocolate-malibus-burgers-koja-kitchen-84-viet-milyar",
+          "publishedOn": "2026-06-12T19:00:00.000Z",
+          "wordCount": 7635,
+          "title": "Xocolate announces final day, plus Milyar, 84 Viet, and Malibu’s Burgers close",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-XocolateBar_Nosh-3.jpg?fit=1600%2C1068&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558393",
           "author": "Michael Burke | EdSource",
@@ -11736,6 +11756,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112127 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "Section 702 of the Foreign Intelligence Surveillance Act lets US intelligence agencies collect communications from foreigners abroad without a warrant, and routinely sweeps in Americans’ emails, messages, and calls in the process.\nThe authority for this program is set to expire Friday, June 12th, 2026, at midnight. As we wrote earlier this week, Congress has been kicking the ball down the road for months now—temporarily postponing the expiration of the mass surveillance authority Section 702 of FISA in hopes that some consensus on a longer reauthorization could be reached. \nEFF has said for decades, every time this program is up for renewal: Section 702 should require a warrant before the Federal Bureau of Investigation can look at digital communications collected from Americans. If not, w…",
+          "link": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
+          "publishedOn": "2026-06-12T23:49:27.000Z",
+          "wordCount": 1584,
+          "title": "Victory! 702 has Expired!",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "61481"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/NSA-eagle-2_0.png"
+        },
         {
           "id": "112125 at https://www.eff.org",
           "author": "Adam Schwartz",

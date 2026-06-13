@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-12T18:42:09.929Z</updated>
+    <updated>2026-06-13T00:53:56.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victory! 702 has Expired!]]></title>
+        <id>112127 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/06/victory-702-has-expired"/>
+        <updated>2026-06-12T23:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Section 702 of the Foreign Intelligence Surveillance Act lets US intelligence agencies collect communications from foreigners abroad without a warrant, and routinely sweeps in Americans’ emails, messages, and calls in the process.
+The authority for this program is set to expire Friday, June 12th, 2026, at midnight. As we wrote earlier this week, Congress has been kicking the ball down the road for months now—temporarily postponing the expiration of the mass surveillance authority Section 702 of FISA in hopes that some consensus on a longer reauthorization could be reached. 
+EFF has said for decades, every time this program is up for renewal: Section 702 should require a warrant before the Federal Bureau of Investigation can look at digital communications collected from Americans. If not, w…]]></summary>
+        <author>
+            <name>India McKinney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xocolate announces final day, plus Milyar, 84 Viet, and Malibu’s Burgers close]]></title>
+        <id>https://www.berkeleyside.org/?p=558333</id>
+        <link href="https://www.berkeleyside.org/2026/06/12/xocolate-malibus-burgers-koja-kitchen-84-viet-milyar"/>
+        <updated>2026-06-12T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Tovin Lapan and Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[University of California to consider bringing back SAT, ACT requirement in admissions]]></title>
         <id>https://www.berkeleyside.org/?p=558393</id>
@@ -110,6 +132,15 @@ A few crybabies are claiming the United States’ recent bombing of Iran’s wat
         <updated>2026-06-12T09:00:22.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plate Flip]]></title>
+        <id>https://xkcd.com/3258/</id>
+        <link href="https://xkcd.com/3258/"/>
+        <updated>2026-06-12T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
