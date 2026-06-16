@@ -34,16 +34,6 @@
           "wordCount": 1969,
           "title": "Comparisons as Predictable as the Sunrise",
           "imageUrl": "https://pudding.cool/2026/05/similes/assets/social.png"
-        },
-        {
-          "id": "https://pudding.cool/2026/03/ivf",
-          "author": null,
-          "description": "An interactive journey about IVF, told from two perspectives.",
-          "link": "https://pudding.cool/2026/03/ivf",
-          "publishedOn": "2026-03-19T05:00:00.000Z",
-          "wordCount": 463,
-          "title": "A Journey Through Infertility",
-          "imageUrl": "https://pudding.cool/2026/03/ivf/assets/social.jpg"
         }
       ]
     },
@@ -612,6 +602,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a31554c13d7c700016876b2",
+          "author": "Joseph Cox",
+          "description": "The data contains a list of \"talent,\" including former Knicks players and coaches, and whether other celebrities are considered \"Low Risk\" or \"High Risk.\" The data also contains emails between customers and MSG.",
+          "link": "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
+          "publishedOn": "2026-06-16T14:00:38.000Z",
+          "wordCount": 1122,
+          "title": "Hackers Publish Knicks and Madison Square Garden Data Online",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/Copy-of-Screenshot-as-Lede-Image-27.png"
+        },
         {
           "id": "6a300d8f2162ed000167eff7",
           "author": "Joseph Cox",
@@ -3465,6 +3465,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=73402",
+          "author": "Stephen Wolfram",
+          "description": "June 23, 1988 is when we launched Version 1.0 of Mathematica. Today—almost 38 years later—we’re launching Version 15 of what—in recognition of how far it’s expanded beyond “math”—we now call Wolfram Language. It’s an impressive release, with a lot of new core functionality. It might perhaps seem surprising that after 38 years there’d still be more to add. But it’s like the typical arc of intellectual history: the more one’s figured out, the further one can see, and the more one becomes able to do. And for all of us working on it, it’s been a very satisfying process: year after year building an ever taller tower of ideas and technology, with which we can reach ever further—today to all the functionality of Version 15.",
+          "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+          "publishedOn": "2026-06-16T18:59:59.000Z",
+          "wordCount": 18916,
+          "title": "Launching Version 15 of Wolfram Language & Mathematica: Built-in (Useful) AI & Lots of New Core Functionality",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/06/v15-tile-wolframblog.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=73889",
           "author": "Stephen Wolfram",
           "description": "The Basic Setup Whether one’s dealing with biology, economics, politics or a host of other fields, it’s common to encounter situations that can be modeled as involving two agents that repeatedly compete with each other. One imagines that at each step each agent can take one of a certain set of actions, and that then—in […]",
@@ -3481,6 +3491,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare",
+          "author": "Eric Schmidt",
+          "description": "The post AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare",
+          "publishedOn": "2026-06-16T14:08:54.000Z",
+          "wordCount": 5143,
+          "title": "AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare",
+          "imageUrl": "https://noemamag.imgix.net/2026/05/hiresOnline-Post.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=a71eb1ce2b09e7ab12a5742a857dd0d8"
+        },
         {
           "id": "https://www.noemamag.com/heritage-exists-beyond-humankind",
           "author": "Ryan Huling",
@@ -3838,6 +3858,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558495",
+          "author": "Tony Hicks",
+          "description": "WriterCoach Connection, launched at Berkeley High in 2000 and spread to schools from Oakland to El Sobrante. Former volunteers are working toward a revival.",
+          "link": "https://www.berkeleyside.org/2026/06/16/nonprofit-closes-that-brought-volunteer-writing-coaches-to-tens-of-thousands-of-east-bay-students",
+          "publishedOn": "2026-06-16T18:29:53.000Z",
+          "wordCount": 8261,
+          "title": "Nonprofit closes that brought volunteer writing coaches to tens of thousands of East Bay students",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/image-9-scaled.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558437",
+          "author": "Local sponsor",
+          "description": "Young actors journey through Grimms' fairy tales in Sondheim classic.",
+          "link": "https://www.berkeleyside.org/2026/06/16/berkeley-playhouse-teen-cast-treks-into-the-woods",
+          "publishedOn": "2026-06-16T15:00:00.000Z",
+          "wordCount": 7255,
+          "title": "Berkeley Playhouse teen cast treks ‘Into the Woods’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/ITW-Berkeleyside-1.png?fit=2000%2C1498&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558400",
           "author": "Momo Chang",
@@ -6792,23 +6832,7 @@
       "title": "Aether Mug",
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
-      "articles": [
-        {
-          "id": "https://aethermug.com/posts/ae-mug-chat-2-experience-computer-interview",
-          "author": null,
-          "description": "Scientific or Manifest or...?",
-          "link": "https://aethermug.com/posts/ae-mug-chat-2-experience-computer-interview?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-03-19T01:54:56.000Z",
-          "wordCount": 2966,
-          "title": "AeMug Chat #2 / Experience.Computer Interview",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/ae-mug-chat-2-experience-computer-interview/526666ldsdl.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/ae-mug-chat-2-experience-computer-interview/526666ldsdl.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NPR Music",
@@ -9400,6 +9424,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=14037",
+          "author": "Jessica Hylton",
+          "description": "In a breakfast rut? These strawberry pancakes are the perfect solution. Gluten-free (and vegan), they're incredibly fluffy and jam-packed with fresh strawberries. Don't forget the maple syrup!",
+          "link": "https://jessicainthekitchen.com/gluten-free-strawberry-pancakes/",
+          "publishedOn": "2026-06-15T14:00:00.000Z",
+          "wordCount": 11714,
+          "title": "Gluten-Free Vegan Strawberry Pancakes",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Gluten-Free-Strawberry-Pancakes2102.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=20208",
           "author": "Jessica Hylton",
           "description": "This Cajun tofu salad is modelled after my absolute favourite salad from TGI Fridays, but it’s vegan-friendly. I've spent years perfecting it and as a Jamaican who grow up eating tons of seasoned and flavourful meals, this salad is SURE to satisfy! Loaded with crunchy veggies and topped with crispy Cajun fried tofu and creamy, tangy dressing, it’s a must make.",
@@ -9783,6 +9817,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/our-war-against-the-romulans-was-an-overwhelming-success",
+          "author": "Louie Aronowitz",
+          "description": "“The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!” — President Donald Trump, in a Truth Social post.\n - - -\nCitizens of the United Federation of Planets, as Starfleet’s Commander in Chief, I am pleased to announce: The war against the Romulans that I launched recently was an overwhelming success.\n Now, to be fair, we did NOT topple the regime, we did NOT free the oppressed citizens of Romulus, and we did nothing to ensure Romulan leadership would stop developing tricobalt torpedoes. We did, however, reinstate the terrible treaty I canceled, except now the terms are even worse. We also reopened the Bajoran wormhole shipping route that was only closed because of the war in the first place. And of course, the price of dilithium crystals is skyrocketing, whic…",
+          "link": "https://www.mcsweeneys.net/articles/our-war-against-the-romulans-was-an-overwhelming-success",
+          "publishedOn": "2026-06-16T17:02:00.000Z",
+          "wordCount": 2830,
+          "title": "Our War Against the Romulans Was an Overwhelming Success",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nmy49mzpjq3la6qu5kfo9t1jvzge"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/trader-joes-strawberry-corn-flake-muffin-loaf-cake-mix",
           "author": "Sarah Schmelling",
