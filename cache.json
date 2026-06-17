@@ -486,6 +486,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/engineering-peace",
+          "author": null,
+          "description": "The development community treats war as inevitable. We’re learning how to pay to prevent it.",
+          "link": "https://asteriskmag.com/issues/14/engineering-peace",
+          "publishedOn": "2026-06-16T00:00:00.000Z",
+          "wordCount": 3123,
+          "title": "Engineering Peace",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/engineering-peace/34bffa9a58-1781632529/engineering-peace-josh-martin-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/we-re-all-one-crisis-away-from-taking-unlicensed-research-peptides",
           "author": null,
           "description": "For health hackers, the risk is not experimenting.",
@@ -3859,6 +3869,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=558554",
+          "author": "Alex N. Gecan",
+          "description": "The counselor, who is 27, is facing eight felony counts. University officials said the camp was run by a third party but did not identify which program.",
+          "link": "https://www.berkeleyside.org/2026/06/16/cal-camp-counselor-charged",
+          "publishedOn": "2026-06-16T22:46:03.000Z",
+          "wordCount": 7607,
+          "title": "Camp counselor charged with molesting 11-year-old girl at UC Berkeley dorm",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/06/IMG_5217.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558499",
+          "author": "Hope Muñoz",
+          "description": "Guinness still needs to verify before awarding Holly Reese — also known as the Lavender Legend — the women’s record she's held twice before.",
+          "link": "https://www.berkeleyside.org/2026/06/16/holly-reese-world-record-pushups",
+          "publishedOn": "2026-06-16T21:08:00.000Z",
+          "wordCount": 8534,
+          "title": "1,682 pushups in 1 hour: 64-year-old health coach may have set new world record in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Holly-Reese-04-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558525",
+          "author": "Alex N. Gecan",
+          "description": "The shooter fled toward the South Berkeley transit station, police said. Officials are seeking leads from the public.",
+          "link": "https://www.berkeleyside.org/2026/06/16/south-berkeley-shooting-june-14-2026",
+          "publishedOn": "2026-06-16T20:35:12.000Z",
+          "wordCount": 6919,
+          "title": "Woman shot in face Sunday near Ashby BART station",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/09/Ashby-BART-aerial.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=558495",
           "author": "Tony Hicks",
           "description": "WriterCoach Connection, launched at Berkeley High in 2000 and spread to schools from Oakland to El Sobrante. Former volunteers are working toward a revival.",
@@ -7178,16 +7218,6 @@
           "wordCount": 2061,
           "title": "#DeskOfTheDay: \"Love A Woman,\" Hana Fleur",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J1vTi9ycpiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J1vTi9ycpiA",
-          "publishedOn": "2026-03-19T09:00:25.000Z",
-          "wordCount": null,
-          "title": "Caamp: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9818,6 +9848,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/introducing-peace-10",
+          "author": "Kate Chrisman",
+          "description": "“President Trump said he hoped the war with Iran would soon be in the ‘rearview mirror’ on Tuesday, even as the terms of a cease-fire he signed remained secret and Vice President JD Vance acknowledged that it was ‘a very general document’ with few details.” – New York Times\n - - -\nAfter several profitable quarters from our line of War Mongering products, which include blowing up water facilities and a school, as well as temporarily disrupting one-fifth of the world’s oil shipments, we’re excited to announce the rollout of our new product: Peace 1.0.\n Peace 1.0 is a revolutionary conflict-reduction platform that leverages diplomacy, reduced bombing, and reopened shipping lanes to create value for shareholders, with potential benefits for people living throughout the region.\n We’re starting …",
+          "link": "https://www.mcsweeneys.net/articles/introducing-peace-10",
+          "publishedOn": "2026-06-16T23:30:00.000Z",
+          "wordCount": 2652,
+          "title": "Introducing Peace 1.0™",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/7qj8nkd0yp1hqdoosm4uhqqoj0p6"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/our-war-against-the-romulans-was-an-overwhelming-success",
           "author": "Louie Aronowitz",
           "description": "“The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!” — President Donald Trump, in a Truth Social post.\n - - -\nCitizens of the United Federation of Planets, as Starfleet’s Commander in Chief, I am pleased to announce: The war against the Romulans that I launched recently was an overwhelming success.\n Now, to be fair, we did NOT topple the regime, we did NOT free the oppressed citizens of Romulus, and we did nothing to ensure Romulan leadership would stop developing tricobalt torpedoes. We did, however, reinstate the terrible treaty I canceled, except now the terms are even worse. We also reopened the Bajoran wormhole shipping route that was only closed because of the war in the first place. And of course, the price of dilithium crystals is skyrocketing, whic…",
@@ -11476,16 +11516,6 @@
           "wordCount": 3015,
           "title": "The Odds of Me Being Mauled by a Bear This Weekend Keep Going Up on Kalshi",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3boikgf9c5zzchh5wufi7q57up8o"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/plantmaxxing",
-          "author": "Ali Fitzgerald",
-          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
-          "link": "https://www.mcsweeneys.net/articles/plantmaxxing",
-          "publishedOn": "2026-03-19T12:00:00.000Z",
-          "wordCount": 1869,
-          "title": "Plantmaxxing",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nsa4idwmweigrku91ifk66jt7tak"
         }
       ]
     },
@@ -11494,6 +11524,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112131 at https://www.eff.org",
+          "author": "Cindy Cohn",
+          "description": "After 26 years, today is my last day at EFF. It's been a terrific and wild ride — the organization has grown from a tiny band of fighty people trying to plant a flag for freedom and justice in the coming digital world into a large, established band of fighty people doing, well, much the same. The world around us has changed enormously. Our core values haven't budged.\n\nI'm proud of what we've achieved: freeing encryption, defending coders, pushing to rein in government and corporate surveillance and ensure the right to have a private conversation online, standing up for free speech and anonymous speech, fighting for network neutrality and safe voting machines, busting stupid patents, and making sure copyright didn't become the one law that rules the internet. That's only the start. We've st…",
+          "link": "https://www.eff.org/deeplinks/2026/06/farewell-now-friends",
+          "publishedOn": "2026-06-16T18:56:00.000Z",
+          "wordCount": 1232,
+          "title": "Onward, Friends",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg",
+            "alt": "Cindy Cohn wearing a t-shirt that says Let&#039;s Sue the Government",
+            "type": "image/jpeg",
+            "length": "277809"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg"
+        },
         {
           "id": "112130 at https://www.eff.org",
           "author": "Melissa Srago",
