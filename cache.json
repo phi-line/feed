@@ -3862,6 +3862,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=558656",
+          "author": "Vanessa Arredondo",
+          "description": "There are 348 students still on the waitlist for LEARNS, the district-run aftercare program. Officials outlined steps to increase access.",
+          "link": "https://www.berkeleyside.org/2026/06/18/berkeley-afterschool-program-restructure-will-take-time",
+          "publishedOn": "2026-06-18T23:07:07.000Z",
+          "wordCount": 8268,
+          "title": "BUSD’s afterschool program is getting an overhaul, but change will ‘take time’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Natera_AfterschoolProgram_Washington_250515_03.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=558428",
           "author": "Risa Nye",
           "description": "The chef-owner of alaMar and Sobre Mesa co-authored the recently released \"Caribbean Cocktails\" which includes small bite recipes in addition to drinks inspired by the Afro-Latino diaspora.",
@@ -11523,6 +11533,118 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112147 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "With no serious debate, including on proposed amendments, Canada is blazing full speed ahead with Bill C-22, which would threaten encryption and increase surveillance. Also known as the Lawful Access Bill, Bill C-22 is currently moving forward quickly to a vote despite the many, many criticisms civil liberty groups and the tech industry have hurled at it.\nAs we’ve discussed before, Bill C-22 is dangerous on multiple levels. It pushes for requirements for metadata retention, expands information sharing with foreign governments, and establishes a mechanism that allows Canada’s Ministry of Public Safety to demand that companies create backdoors, effectively breaking encryption. That mechanism was a key facet of Part 2 in Bill C-22, and the government prevented it from being independently debated.\nIn a deep analysis of the bill, Citizen Lab and the Canadian Civil Liberties Association detail every one of flaws of this proposal, concluding that most elements are unsalvageable. \nA wide range of tech companies agree. Signal, Apple, Google, and several VPN providers oppose the bill, and some have said they’d likely be forced to either cut Canadians off from certain features or shut down services in Canada altogether.\nThe Canadian government wants this dangerous, complicated, overreaching bill passed before June 19. Bill C-22 is riddled with privacy problems that affect millions of people. It should be debated and studied fully, not jammed through on an arbitrary deadline. \nOpenMedia is offering a tool for Canadians to contact their elected representatives about the bill. Actions taken on OpenMedia's website are governed by OpenMedia's privacy policy, not EFF's.",
+          "link": "https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill",
+          "publishedOn": "2026-06-18T22:34:07.000Z",
+          "wordCount": 1431,
+          "title": "Canada Is Forging Ahead with Its Dangerous Surveillance Bill",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/banner-encrypttheweb2.png",
+            "alt": "Encrypt the Web (security hole)",
+            "type": "image/png",
+            "length": "9573"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/banner-encrypttheweb2.png"
+        },
+        {
+          "id": "112146 at https://www.eff.org",
+          "author": "Tierney Hamilton",
+          "description": "EFF is grateful for SerpApi’s generous support, helping us fight for your rights to speak and access information online. SerpApi has been giving to EFF every year since 2018, and alongside our 32,000 individual donors, their gift is critical to keeping up the fight.\nWhether in the courts, halls of power, or broader policy debates, we appreciate the work this support has made possible over the years. Some examples:\nWe sued the U.S. Department of Homeland Security and Department of State to stop an unconstitutional social media surveillance program to identify and punish individuals who express viewpoints the government disagrees with.\nWe helped develop the Santa Clara Principles, a framework to reign in overbroad content moderation so that all users are treated fairly and offered consistent tools for recourse if their speech is censored by tech companies.\nIn the whitepaper Unfiltered: How YouTube’s Content ID Discourages Fair Use and Dictates What We See Online, we pushed back on YouTube for silencing individual creators in the interest of protecting a small number of giant copyright holders.\nWe stood with whistleblowers and dissidents persecuted for their online speech.\nWe continued the fight to protect Section 230.\nWe live in an era when lawful speech and the right to access information are being targeted by Big Tech and governments around the world that are hostile to dissent. Free speech online is core to EFF’s mission, and SerpApi’s support will help us continue the fight to protect everyone’s right to free expression.",
+          "link": "https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online",
+          "publishedOn": "2026-06-18T21:56:22.000Z",
+          "wordCount": 1435,
+          "title": "EFF Thanks SerpApi For Helping Us Protect Free Speech Online",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/free-speech-cat3.jpg",
+            "alt": "EFF Cat Speaking Freely",
+            "type": "image/jpeg",
+            "length": "46271"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/free-speech-cat3.jpg"
+        },
+        {
+          "id": "112134 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "This Pride season, join EFF and the Queer Arts Collective in building a creative space at the intersection of digital justice and artistic expression. \nWe’re looking for fresh, untold, historically censored takes on digital liberation. \nWhether it’s pointing the lens towards an issue you feel is underrepresented in digital justice efforts; sharing personal accounts of joy, pleasure, or sorrow under surveillance; painting your widest imagination for our communities using technology for good instead of carcerality and doom—we want to see it and we want it to expand our own understanding of what’s important and beautiful. \nWe’re going to be curating between five and nine art pieces across writing (fiction, nonfiction, poetry) and visual arts (photography, drawing, painting). We welcome fluidi…",
+          "link": "https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride",
+          "publishedOn": "2026-06-18T19:46:02.000Z",
+          "wordCount": 1824,
+          "title": "Call for Submissions: Digital Pride",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/09_pride.png",
+            "alt": "An orange tabby cat with yellow lightning markings in a blue spacesuit, wearing a jetpack, flying through pink and purple space. There are planets in the sky with colors representing a variety of pride flags.",
+            "type": "image/png",
+            "length": "1051271"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/09_pride.png"
+        },
+        {
+          "id": "112142 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "Last week, Senators Ted Cruz and Ron Wyden introduced the Justice Against Weaponized Bureaucratic Overreach to Networked Expression, or JAWBONE Act. The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.\nWe thank the Senators for their leadership on this important issue. Jawboning occurs when the government pressures private companies to censor speech protected by the First Amendment, and it’s not always obvious to the public or to the victims what has actually happened. Deleting …",
+          "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+          "publishedOn": "2026-06-18T19:38:21.000Z",
+          "wordCount": 1152,
+          "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/intermediary-4.jpg",
+            "alt": "A person holding a megaphone that another person speaks through",
+            "type": "image/jpeg",
+            "length": "90260"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/intermediary-4.jpg"
+        },
+        {
+          "id": "112143 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a barrier that makes it hard, especially for low income people, to see and understand the work produced by our own public servants. \nThat's why EFF joined a broad group of organizations supporting the Open Courts Act of 2026, legislation that would modernize the federal courts' electronic filing systems and eliminate PACER fees. \nThe bill would replace the aging PACER and CM/ECF systems with a modern, unified platform designed to improve public access, strengthen cybersecurity, and reduce long-term costs. Supporters note that PACER currently collects more than $150 million annually in fees from the public, despite court records being public documents.\nThe Open Courts Act would also make court records easier to find, access, and understand. The legislation builds on a similar proposal, also supported by EFF, that previously won bipartisan support in the Senate Judiciary Committee but did not become law before the end of the congressional session.\nThis is not a new issue for EFF. More than a decade ago, we criticized PACER's paywalls and the removal of some court records from online access, arguing that the public should not have to pay to read the law and the judicial decisions that shape it. The Open Courts Act would move U.S. courts a big step closer to that goal. \nIn addition to EFF, the bill is supported by Fix the Court, the group pushing this bill forward, as well as civil society groups, open government watchdogs, and media groups. \nPublic access to the courts is a cornerstone of democratic accountability. Let’s eliminate unnecessary barriers to court records, and bring the federal judiciary’s tech into the modern era. \nRead the full letter supporting the Open Courts Act of 2026",
+          "link": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "publishedOn": "2026-06-18T19:36:10.000Z",
+          "wordCount": 1565,
+          "title": "Court Records Should Be Free",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/supreme-court-3b.jpg",
+            "alt": "Supreme Court",
+            "type": "image/jpeg",
+            "length": "206874"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/supreme-court-3b.jpg"
+        },
+        {
+          "id": "112137 at https://www.eff.org",
+          "author": "Daly Barnett",
+          "description": "Late last year, as part of our annual “Year in Review” series, we summarized our efforts providing digital privacy and security advice to at-risk communities. OPSEC trainings (short for operational security, a catch-all term we use to describe any kind of workshop, advising session, assessment, or presentation about operational security for individuals and organization) are something we've long provided, but until recently, something we’ve never broadcasted.\nThis has become a critical aspect of our work over the years, keeping us grounded and in touch with the realities of tech-enabled violence as well as evolving resistance strategies used by movement workers. Hoping other security trainers and organizers copy our homework, here’s a more thorough breakdown.\nNOT TRADITIONAL PENTESTING\nTo b…",
+          "link": "https://www.eff.org/deeplinks/2026/06/field-notes-year-opsec-training",
+          "publishedOn": "2026-06-18T19:00:21.000Z",
+          "wordCount": 3285,
+          "title": "Field Notes from a Year of OPSEC Training",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg",
+            "alt": "A child and two women cultivate a community garden of wifi poppies -- the raised bed is a neighborhood block of businesses like markets and community centers.",
+            "type": "image/jpeg",
+            "length": "901248"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg"
+        },
+        {
+          "id": "112141 at https://www.eff.org",
+          "author": "Tori Noble",
+          "description": "The Trump administration’s approach to AI safety, particularly the generative AI models that regularly grab headlines, has been haphazard at best. At worst, it’s unconstitutional. As EFF and our allies explained in an amicus brief, the Pentagon’s actions against one company, Anthropic, violate the First Amendment because they were motivated by the administration’s desire to punish an uncooperative company, not legitimate concerns about national security.\nBy and large, the Trump administration’s AI strategy has minimized regulation in the name of “winning” the global “race” to develop leading frontier models. It has pared back regulations intended to address even the most serious AI threats—like AI-enabled cyberattacks on government systems—to protect AI innovation.\nYet it has repeatedly si…",
+          "link": "https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory",
+          "publishedOn": "2026-06-18T18:45:40.000Z",
+          "wordCount": 2078,
+          "title": "AI Regulation Should Be Rational, Not Retaliatory",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
+            "alt": "robot doing brain surgery on itself",
+            "type": "image/jpeg",
+            "length": "673377"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg"
+        },
         {
           "id": "112136 at https://www.eff.org",
           "author": "Tori Noble",
