@@ -9837,6 +9837,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood",
+          "author": "Wendi Aarons and Johanna Gohmann",
+          "description": "Brandon Jackson, who not only found his wallet without blaming his entire family for losing it, but also found it in the pants he was wearing.\n Eric Hughes, who, while listening to his wife’s entire twenty-two-minute story about how rude Lauren always is at book club, did not offer a suggestion for how to fix the problem. He just nodded and said, “Wow, unbelievable,” at all the right moments.\n Jeff Hanover, who, after witnessing his wife receive breakfast in bed, a dozen roses, several handmade cards, and a satin robe for Mother’s Day, was given an expired coupon to Dick’s Sporting Goods and a mug bearing the likeness of The Rock for Father’s Day\n Brad Fisher, who parked a full half block away when dropping his daughter off at volleyball practice so that her peers would not see his “lame f…",
+          "link": "https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood",
+          "publishedOn": "2026-06-19T12:00:00.000Z",
+          "wordCount": 2728,
+          "title": "Unsung Heroes of Fatherhood",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gmevh4p92xm63x3xkuuah2ihw9jl"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/dad-band-dad-jokes",
           "author": "Julia McCloy, Kevin Lutz, Patrick Barb, and Sam Allemang",
           "description": "What band is always in a hurry? \n Rush\n Which guitarist had the sauciest riffs? \n Spagh-Eddie Van Halen\n Why did AC/DC cancel their pool party? \n Thunder struck.\n What is Dark Side of the Moon about? \n It’s about forty-three minutes.\n Bon Jovi has a new diet where you eat one fruit a day. \n It’s called “living on a pear.”\n How much dental work did the members of Boston need? \n More than a filling.\n What did Freddie Mercury say when he saw an ocean of soda? \n “Is this the real life or is this Fanta-sea?”\n Duran Duran: “I’m hungry like the wolf.” \n Dad: Hi, “Hungry Like The Wolf.” I’m Dad.\n Why does Bono never take his glasses off? \n He still hasn’t found what he’s looking for.\n Why can’t you trust Stairway to Heaven? \n It’s clearly up to something.\n What did the lead singer of Kansas tell his estranged child that the vultures were eating? \n Carrion, my wayward son.\n Why does Home Depot let its employees drop acid? \n It helps them appreciate the Doors.\n Son: Is that Neil Young?\n Dad: No, that Neil old.\n Which Talking Heads’ song was re-recorded for the Irish market? \n Psych O’Killer.\n We had a hair band once… \n But we had to cut it.",
@@ -11523,6 +11533,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112148 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. \nThe UK government continues to falsely characterize this policy as a necessary response to growing concerns about online harms for young people. In reality, much like the Online Safety Act, it will cause more harm than it will prevent. \nUsers of all ages are burdened with proving their age before accessing content, with social media platforms such as Snapchat, TikTok, YouTube, Instagram, Facebook, and X included in the ban. There remains no reliable, privacy-preserving method of verifying the age of every internet user and methods vary from one platform to the next.\nYoung people wi…",
+          "link": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
+          "publishedOn": "2026-06-19T09:45:31.000Z",
+          "wordCount": 1934,
+          "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
+            "alt": "two kids on a huge laptop, spied on by an eye in magnifying glass",
+            "type": "image/png",
+            "length": "1249014"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
+        },
+        {
+          "id": "112139 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "This week, EFF joined Foxglove, Human Rights Watch, and 60 other organizations in writing to the UK’s Minister of State for Border Security and Asylum, Alex Norris, raising serious concern about the Home Office’s decision to deploy Facial Age Estimation (FAE) to assess asylum-seeking children from 2027. \nThe letter points to four key concerns:\nDiscrimination \nAs with most face estimation and recognition tools, there is ongoing bias in the deployment of these technologies. With FAE, many have highlighted its baked-in failures and discrimination, particularly in relation to women and people of color. Evidence shows that FAE is most accurate for estimating the ages of Eastern European men, but even then it consistently produces errors. The Home Office itself noted “that FAE performance can va…",
+          "link": "https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border",
+          "publishedOn": "2026-06-19T09:35:31.000Z",
+          "wordCount": 1617,
+          "title": "EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/whyfacebanner.png",
+            "alt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
+            "type": "image/png",
+            "length": "864443"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png"
+        },
         {
           "id": "112147 at https://www.eff.org",
           "author": "Thorin Klosowski",
