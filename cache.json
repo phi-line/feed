@@ -623,6 +623,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a357aaff426330001dd337e",
+          "author": "Becky Ferreira",
+          "description": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
+          "link": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
+          "publishedOn": "2026-06-20T13:00:39.000Z",
+          "wordCount": 2253,
+          "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/NASA-SNR0519690-ChandraXRayObservatory-20150122.jpg"
+        },
+        {
           "id": "6a3555ae08b8ef0001744f46",
           "author": "Samantha Cole",
           "description": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
@@ -3460,16 +3470,6 @@
           "wordCount": 187,
           "title": "Centimeter Wavelengths",
           "imageUrl": "https://imgs.xkcd.com/comics/centimeter_wavelengths_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3223/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3223/",
-          "publishedOn": "2026-03-23T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Inflation Timeline",
-          "imageUrl": "https://imgs.xkcd.com/comics/inflation_timeline_2x.png"
         }
       ]
     },
