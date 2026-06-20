@@ -3082,6 +3082,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3261/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3261/",
+          "publishedOn": "2026-06-19T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Side Effect",
+          "imageUrl": "https://imgs.xkcd.com/comics/side_effect_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3260/",
           "author": null,
           "description": "",
@@ -6740,6 +6750,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "This cool summer dish can be easily enhanced with a range of store-cupboard staples\nWhat’s your favourite hot weather food? Mine’s gazpacho. I’m joking – gazpacho’s lovely, but cold noodles are my top pick because, in the summer, they meet me exactly where I am in both the cooking and the eating. They don’t need much by way of cooking, and they can be dressed and paired with many a store-cupboard ingredient – in today’s case, tahini, miso and sesame oil. Best of all, cooling the noodles shocks the starches, which makes them firmer and gorgeously “QQ”, a Taiwanese term used to describe food that’s delightfully bouncy and springy. Which personally, is how I’d like to feel all summer long.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha",
+          "publishedOn": "2026-06-20T05:00:53.000Z",
+          "wordCount": 4432,
+          "title": "Meera Sodha’s vegan recipe for lime and sesame cold noodles with miso meatballs | The new vegan",
+          "imageUrl": "https://i.guim.co.uk/img/media/f7555c2ec55e978633d4cde2b94e859f69de0c25/242_1131_3234_2588/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d6fb59ca7df83dbb232ab9bcb372fa6"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/jun/13/fried-courgette-taco-recipe-black-bean-goats-cheese-meera-sodha",
           "author": "Meera Sodha",

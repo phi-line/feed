@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-20T00:49:52.989Z</updated>
+    <updated>2026-06-20T07:22:56.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegan recipe for lime and sesame cold noodles with miso meatballs | The new vegan]]></title>
+        <id>https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha"/>
+        <updated>2026-06-20T05:00:53.000Z</updated>
+        <summary type="html"><![CDATA[This cool summer dish can be easily enhanced with a range of store-cupboard staples
+What’s your favourite hot weather food? Mine’s gazpacho. I’m joking – gazpacho’s lovely, but cold noodles are my top pick because, in the summer, they meet me exactly where I am in both the cooking and the eating. They don’t need much by way of cooking, and they can be dressed and paired with many a store-cupboard ingredient – in today’s case, tahini, miso and sesame oil. Best of all, cooling the noodles shocks the starches, which makes them firmer and gorgeously “QQ”, a Taiwanese term used to describe food that’s delightfully bouncy and springy. Which personally, is how I’d like to feel all summer long.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICE Largely Abandons Plan To Turn Warehouses Into Migrant Detention Facilities]]></title>
         <id>https://reason.com/?p=8389418</id>
@@ -73,6 +85,15 @@ Discrimination 
 As with most face estimation and recognition tools, there is ongoing bias in the deployment of these technologies. With FAE, many have highlighted its baked-in failures and discrimination, particularly in relation to women and people of color. Evidence shows that FAE is most accurate for estimating the ages of Eastern European men, but even then it consistently produces errors. The Home Office itself noted “that FAE performance can va…]]></summary>
         <author>
             <name>Paige Collings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Side Effect]]></title>
+        <id>https://xkcd.com/3261/</id>
+        <link href="https://xkcd.com/3261/"/>
+        <updated>2026-06-19T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
