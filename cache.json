@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=163336",
+          "author": "Steve Nadis",
+          "description": "Recent observations suggest that dark energy is changing over time. Theorists wonder if dark matter is, too.            \nThe post A Dark Dimension Could Link Two of the Universe’s Great Unknowns first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
+          "publishedOn": "2026-06-22T14:52:52.000Z",
+          "wordCount": 3242,
+          "title": "A Dark Dimension Could Link Two of the Universe’s Great Unknowns",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/DarkInteractions-cr-Ada-Zejun-Shen-Social-2.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=163261",
           "author": "Philip Ball",
           "description": "Our genetic heritage is not a blueprint or an algorithm, as many biologists have imagined, but something else entirely.            \nThe post Why the Human Genome’s Tangled Physicality May Confound AI first appeared on Quanta Magazine",
@@ -602,6 +612,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a394e0df426330001e57272",
+          "author": "Matthew Gault",
+          "description": "Michigan Governor Gretchen Whitmer and a proposed nuclear weapons AI data center in Michigan have earned the ire of community leaders.",
+          "link": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+          "publishedOn": "2026-06-22T15:24:09.000Z",
+          "wordCount": 2014,
+          "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/714383615_18595233802029538_4062009972024566939_n-1.jpg"
+        },
+        {
+          "id": "6a394544f426330001e56975",
+          "author": "Joseph Cox",
+          "description": "Joseph speaks to Jake Hanrahan all about Patreon, YouTube, and getting journalism in front of people.",
+          "link": "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
+          "publishedOn": "2026-06-22T14:27:48.000Z",
+          "wordCount": 1028,
+          "title": "Stopping Tech Company Censorship (with Jake Hanrahan)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/maxresdefault.jpg"
+        },
+        {
+          "id": "6a3045e02162ed0001681146",
+          "author": "Claire Woodcock",
+          "description": "Books written for younger audiences are being relocated to adult sections at alarming rates. We asked experts to predict what that means for the rest of us.",
+          "link": "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
+          "publishedOn": "2026-06-22T14:00:24.000Z",
+          "wordCount": 2713,
+          "title": "Are Public Libraries Becoming Children’s Libraries?",
+          "imageUrl": "https://images.unsplash.com/photo-1607823477653-e2c3980acb86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGNoaWxkcmVuJTIwbGlicmFyeXxlbnwwfHx8fDE3ODE1NDg1NzV8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6a357aaff426330001dd337e",
           "author": "Becky Ferreira",
@@ -3322,16 +3362,6 @@
           "wordCount": 187,
           "title": "Satellite Pollution",
           "imageUrl": "https://imgs.xkcd.com/comics/satellite_pollution_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3224/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3224/",
-          "publishedOn": "2026-03-25T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Centimeter Wavelengths",
-          "imageUrl": "https://imgs.xkcd.com/comics/centimeter_wavelengths_2x.png"
         }
       ]
     },
@@ -3744,6 +3774,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558689",
+          "author": "Nico Savidge",
+          "description": "Tenants who have lived at a Sacramento Street apartment complex for decades fear what might happen as their property goes on the market. Mayor Adena Ishii wants to put $1.3 million toward a program that could turn it into permanently affordable housing.",
+          "link": "https://www.berkeleyside.org/2026/06/22/berkeley-affordable-housing-small-sites-land-trust",
+          "publishedOn": "2026-06-22T18:32:52.000Z",
+          "wordCount": 9143,
+          "title": "Should the city of Berkeley help buy these affordable apartments?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Sac-St-16.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558593",
+          "author": "Local sponsor",
+          "description": "Herndon's boutique firm takes a limited number of cases each year, putting a great deal of research into each one.",
+          "link": "https://www.berkeleyside.org/2026/06/22/berkeley-lawyer-scott-herndon-defends-victims-of-serious-injury-accidents-and-sexual-abuse",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 7336,
+          "title": "Berkeley lawyer Scott Herndon defends victims of serious-injury accidents and sexual abuse",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/ScottHerndon.70-1.jpg?fit=1514%2C1002&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558656",
           "author": "Vanessa Arredondo",
@@ -9639,6 +9689,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/this-is-the-part-of-your-babys-cochlear-implant-procedure-where-i-show-them-angine-de-poitrine",
+          "author": "Eric Hague",
+          "description": "In a moment, I will activate your baby’s cochlear implants. For the first time since she was born, she will be able to hear the world around her. You’ve probably thought a lot about the first thing you’d like to say to her. Maybe it’s her name, or that you love her very much. And there’ll be time for that later. First, I need to show her this YouTube video of the band Angine de Poitrine playing in France in 2025.\n Seriously, have you seen this yet? It just came on my TikTok one day. It’s fucking sick.\n They’re these two dudes, and they wear these wild polka-dot outfits and these weird masks with floppy noses, and it’s all instrumental music, but it’s, like, microtonal or whatever. I’m not doing it justice. It sounds like it’ll suck big time, but somehow it absolutely slaps.\n Now, it can be…",
+          "link": "https://www.mcsweeneys.net/articles/this-is-the-part-of-your-babys-cochlear-implant-procedure-where-i-show-them-angine-de-poitrine",
+          "publishedOn": "2026-06-22T17:00:00.000Z",
+          "wordCount": 2570,
+          "title": "This Is the Part of Your Baby’s Cochlear Implant Procedure Where I Show Them Angine de Poitrine",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1cg9qzcapkadbc4wx9e2kpjq0hkw"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/clarence-thomas-offers-an-originalist-reading-of-the-tgi-fridays-menu",
           "author": "Andrew Martin",
