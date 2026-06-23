@@ -2560,6 +2560,24 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?post_type=podcast&p=8389693",
+          "author": "Peter Suderman",
+          "description": "Plus: the rise of Democratic Socialists, Trump's Iran negotiations, and ICE abandons detention center plans",
+          "link": "https://reason.com/podcast/2026/06/22/why-u-k-socialism-could-soon-be-americas-problem/",
+          "publishedOn": "2026-06-22T21:47:41.000Z",
+          "wordCount": null,
+          "title": "Why U.K. Socialism Could Soon Be America's Problem",
+          "itunes": {
+            "duration": "1:08:25"
+          },
+          "enclosure": {
+            "url": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8389693.mp3",
+            "length": "100235124",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8389418",
           "author": "Joe Lancaster",
           "description": "The Department of Homeland Security plans to sell or offload seven warehouses it originally purchased to house migrants.",
@@ -3774,6 +3792,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558725",
+          "author": "Daniel Ekonde",
+          "description": "The new shop on Ashby Avenue, where vendors sell goods during the week, is part of a broader effort to bring more attention to South Berkeley's long-running weekend market.",
+          "link": "https://www.berkeleyside.org/2026/06/22/berkeley-flea-market-consignment-shop",
+          "publishedOn": "2026-06-22T23:49:39.000Z",
+          "wordCount": 7872,
+          "title": "Berkeley Flea Market now has a weekday storefront",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Berkeley-Flea-Market-consignment-shop.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558689",
           "author": "Nico Savidge",
@@ -7059,16 +7087,6 @@
           "publishedOn": "2026-03-25T14:10:50.000Z",
           "wordCount": 2020,
           "title": "#DeskOfTheDay: \"Multiform,\" Coco Smith",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_La9NC90oCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_La9NC90oCk",
-          "publishedOn": "2026-03-25T09:00:47.000Z",
-          "wordCount": null,
-          "title": "Mumford & Sons: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11328,16 +11346,6 @@
           "wordCount": 2677,
           "title": "The Merlin Bird ID App Is Now the Merlin Fight ID App",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/66yv398i9enemc14an5aj793dgov"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/theseus-files-a-boat-insurance-claim",
-          "author": "Alexander B. Joy",
-          "description": "To: cutthebull@Ɣmail.com\n From: panta.rhei@eristikosinsurance.com\n Subject: Your pending boat insurance claim – more information needed\n Hi Mr. Theseus,\n Thanks for submitting your claim.\n We’re sorry to hear that your ship sank in the localized typhoon that recently demolished the Athenian harbor. Poseidon must have been feeling cranky about someone failing to properly honor him again. Were you all flying the correct sails? (This is not meant as snark. I hear he has a thing against wool nowadays after a shepherd blinded one of his kids.)\n In any event, we need you to answer a few routine questions before we can process your submission. The information you provide will help us determine the extent of your reimbursement.\n Please answer the questions below, making sure your responses are as …",
-          "link": "https://www.mcsweeneys.net/articles/theseus-files-a-boat-insurance-claim",
-          "publishedOn": "2026-03-25T12:00:00.000Z",
-          "wordCount": 2501,
-          "title": "Theseus Files a  Boat Insurance Claim",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/519aohq3k2tvncrg1sjojy4lw1xk"
         }
       ]
     },
@@ -11346,6 +11354,16 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112150 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "Site Banner: \n\n\n\n\nMobile Site Banner: \n\n\n\n\nLink: \n\nEFFecting Change: If You Own It, Why Can't You Fix It? on July 23\n\n\nMobile Link: \n\nEFFecting Change: If You Own It, Why Can't You Fix It? on July 23\n\n\nBanner Text: \n\nEFFecting Change: If You Own It, Why Can't You Fix It? on July 23\n\n\nMobile Banner Text: \n\nEFFecting Change: If You Own It, Why Can't You Fix It? on July 23",
+          "link": "https://www.eff.org/node/112150",
+          "publishedOn": "2026-06-22T19:22:39.000Z",
+          "wordCount": 606,
+          "title": "EFFecting Change Site Banner 7.23.26",
+          "imageUrl": "https://www.eff.org/files/eff-og.png"
+        },
         {
           "id": "112148 at https://www.eff.org",
           "author": "Paige Collings",
@@ -13641,22 +13659,6 @@
             "length": "78242"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
-        },
-        {
-          "id": "111852 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "This is the first installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings.\nA new generation of protesters, raised on social media and often fluent in the tools of digital dissent, has taken to the streets in recent months and years. In Bangladesh, Iran, Togo, France, Uganda, Nepal, and more than a dozen other countries, young people have harnessed digital tools to mobilize at scale, shape political narratives, and sustain movements that might once have been easier to ignore or suppress.\nThe tools at their disposal are vast, allowing them to coordinate quickly and turn local grievances into visible, transnational moments of dissent. But each new tactic is met in turn: governments now implement draconian regulations and deploy sophisticated surveillanc…",
-          "link": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-reflecting-legacy-arab-spring-0",
-          "publishedOn": "2026-03-25T11:07:48.000Z",
-          "wordCount": 2244,
-          "title": "Digital Hopes, Real Power: Reflecting on the Legacy of the Arab Spring",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/arabspring-banner2.png",
-            "alt": "Hands holding up flowers under the word حرية, Arabic for &quot;freedom&quot;",
-            "type": "image/png",
-            "length": "1396283"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
         }
       ]
     }
