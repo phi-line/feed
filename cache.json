@@ -496,6 +496,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/the-doomers-are-all-right",
+          "author": null,
+          "description": "What is it like to live in a world you believe is about to end?",
+          "link": "https://asteriskmag.com/issues/14/the-doomers-are-all-right",
+          "publishedOn": "2026-06-23T00:00:00.000Z",
+          "wordCount": 3150,
+          "title": "The Doomers Are All Right",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/the-doomers-are-all-right/7b8d10f08d-1782162159/the-doomers-are-all-right-ozy-brennan-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/engineering-peace",
           "author": null,
           "description": "The development community treats war as inevitable. We’re learning how to pay to prevent it.",
@@ -3765,6 +3775,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558810",
+          "author": "Skylla Mumana",
+          "description": "From tangy jollof rice to gooey, vegan cinnamon rolls, 15 food vendors spiced up the annual celebration.",
+          "link": "https://www.berkeleyside.org/2026/06/23/foods-berkeley-juneteenth-festival-jollof-lobster-bbq-cinnamon-roll",
+          "publishedOn": "2026-06-23T23:34:47.000Z",
+          "wordCount": 7849,
+          "title": "Everything we ate at the Berkeley Juneteenth Festival",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Featured-image.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558823",
+          "author": "Vanessa Arredondo",
+          "description": "The board is opting not to hold a special election as Vasudeo leaves next week for a seat she ran unopposed for on the Alameda County Board of Education.",
+          "link": "https://www.berkeleyside.org/2026/06/23/berkeley-school-board-to-appoint-new-director-as-ana-vasudeo-steps-down",
+          "publishedOn": "2026-06-23T22:56:28.000Z",
+          "wordCount": 7967,
+          "title": "Berkeley school board to appoint new director as Ana Vasudeo steps down",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/DSC14332.webp"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558793",
           "author": "Tovin Lapan",
@@ -11329,16 +11359,6 @@
           "wordCount": 2022,
           "title": "Swamp Dreams",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1yzld6hxl966k7gdib5fxc8g6u8u"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/february-2026-atrocities-731-779",
-          "author": "Emily Greenberg and Cliff Mayotte",
-          "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
-          "link": "https://www.mcsweeneys.net/articles/february-2026-atrocities-731-779",
-          "publishedOn": "2026-03-26T11:30:00.000Z",
-          "wordCount": 8333,
-          "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: February 2026:  Atrocities 731-779",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ai3lls52ugeb0ww5fs0l1rj8dkxv"
         }
       ]
     },
