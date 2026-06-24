@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=163304",
+          "author": "Simon Frantz",
+          "description": "The hunt for these ghostly particles has required some of the most audacious experiment setups ever built.            \nThe post How Physicists Track and Trap the Elusive Neutrino first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+          "publishedOn": "2026-06-24T16:04:32.000Z",
+          "wordCount": 3191,
+          "title": "How Physicists Track and Trap the Elusive Neutrino",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2055/06/SuperKamiokandeObservatoryInKamiokaJapan-crKamioka-Observatory_ICRR_UniversityOfTokyo-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=163336",
           "author": "Steve Nadis",
           "description": "Recent observations suggest that dark energy is changing over time. Theorists wonder if dark matter is, too.            \nThe post A Dark Dimension Could Link Two of the Universe’s Great Unknowns first appeared on Quanta Magazine",
@@ -622,6 +632,66 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a3be6f05476f60001deb3fa",
+          "author": "Becky Ferreira",
+          "description": "Physicists have discovered that the dark matter structures that scaffold the universe—known as the “cosmic web”—are far larger and more persistent than expected, challenging a core assumption about the universe.",
+          "link": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+          "publishedOn": "2026-06-24T15:00:43.000Z",
+          "wordCount": 1718,
+          "title": "Vast ‘Structures’ In Space Reveal the Universe Isn't What We Thought",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/image1-1.png"
+        },
+        {
+          "id": "6a3be2815476f60001deafc1",
+          "author": "Samantha Cole",
+          "description": "The new policy, which forbids \"noise infusion\" as a technique for anonymizing data, will \"handcuff\" the Census Bureau and limit what information becomes public, data experts say.",
+          "link": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+          "publishedOn": "2026-06-24T14:39:21.000Z",
+          "wordCount": 2135,
+          "title": "The Trump Administration’s New Census Data Rules Are a Policy Disaster",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/ioann-mark-kuznietsov-gtCWBwbZNpM-unsplash.jpg"
+        },
+        {
+          "id": "6a3bda855476f60001dea363",
+          "author": "Jason Koebler",
+          "description": "Snap's AR Specs glasses are indeed very heavy, very dorky.",
+          "link": "https://www.404media.co/snaps-ai-ar-specs-lol/",
+          "publishedOn": "2026-06-24T13:34:14.000Z",
+          "wordCount": 1631,
+          "title": "Snap's AI Specs: LOL",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-24-at-06.24.50@2x.png"
+        },
+        {
+          "id": "6a3bd4545476f60001de9bbf",
+          "author": "Joseph Cox",
+          "description": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
+          "link": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+          "publishedOn": "2026-06-24T13:03:21.000Z",
+          "wordCount": 1124,
+          "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/maxresdefault-1.jpg"
+        },
+        {
+          "id": "6a3ab0107acb2d00011cb6e4",
+          "author": "Joseph Cox",
+          "description": "Hackers stole more than 45GB of data from Madison Square Garden, including data related to “talent” and the Knicks. Clues in the data point to how the hackers got in.",
+          "link": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
+          "publishedOn": "2026-06-24T13:00:25.000Z",
+          "wordCount": 1072,
+          "title": "How Hackers Broke into Madison Square Garden",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/7639202774_d53d738763_k.jpg"
+        },
+        {
+          "id": "6a3ab1f27acb2d00011cb80c",
+          "author": "Joseph Cox",
+          "description": "Leaked audio from Accenture says a big source of AI token ‘chewing’ is people just converting PDFs to presentation slides.",
+          "link": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+          "publishedOn": "2026-06-24T12:50:56.000Z",
+          "wordCount": 1242,
+          "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/token-chewer.png"
+        },
         {
           "id": "6a3aa79a7acb2d00011cb3fc",
           "author": "Emanuel Maiberg",
@@ -3323,16 +3393,6 @@
           "wordCount": 187,
           "title": "Home Solar",
           "imageUrl": "https://imgs.xkcd.com/comics/home_solar_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3225/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3225/",
-          "publishedOn": "2026-03-27T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Satellite Pollution",
-          "imageUrl": "https://imgs.xkcd.com/comics/satellite_pollution_2x.png"
         }
       ]
     },
@@ -3368,6 +3428,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
+          "author": "Nathan Gardels",
+          "description": "The post Trump’s Iran War: The Midwife To A Renewable Energy Future appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
+          "publishedOn": "2026-06-24T16:20:45.000Z",
+          "wordCount": 3132,
+          "title": "Trump’s Iran War: The Midwife To A Renewable Energy Future",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/Noema_color_v2-10-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=5f0c2e51c3e386f2ca45f559dd2466f6"
+        },
         {
           "id": "https://www.noemamag.com/what-comes-after-the-refugee-camp",
           "author": "Joshua Craze",
@@ -9621,6 +9691,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/vandalizing-washington-dc-is-a-crime-unless-youre-overturning-an-election",
+          "author": "Carlos Greaves",
+          "description": "“President Donald Trump called Monday for those he accused of vandalizing the newly renovated, and now quickly deteriorating, Reflecting Pool on the National Mall to face serious criminal charges that could result in lengthy prison sentences.” — CNN\n - - -\nPresident Trump’s second term continues to be a smashing success. He has single-handedly curbed inflation (with the exception of a few minor categories like food, housing, and transportation) and completely denuclearized Iran (if you don’t count the measly half-ton of near-weapons-grade uranium they still possess).\n It seemed as though the president’s $14 million effort to renovate the Lincoln Memorial Reflecting Pool would be yet another feather in his already feather-filled cap. But just a few days after the work was complete, the pool…",
+          "link": "https://www.mcsweeneys.net/articles/vandalizing-washington-dc-is-a-crime-unless-youre-overturning-an-election",
+          "publishedOn": "2026-06-24T18:00:00.000Z",
+          "wordCount": 2715,
+          "title": "Vandalizing Washington, DC, Is a Crime—Unless You’re Overturning an Election",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hb6j3m6ktw19jxfdmns2l7ax5t26"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/human-visibility-scale",
+          "author": "Lisa Zucker",
+          "description": "15-Year-Old Girl: Fully visible\n 15-Year-Old Boy: In your face!\n 25-Year-Old Woman: Lookin’ good\n 25-Year-Old Man: Bro!\n 35-Year-Old Woman: Partially obscured\n 35-Year-Old Man: BRO!\n 45-Year-Old Woman: Oops, sorry, I didn’t see you there\n 45-Year-Old Man: Loud and clear\n 55-Year-Old Woman: Foggy\n 55-Year-Old Man: Still hangin’ in there!\n 65-Year-Old Woman: Translucent\n 65-Year-Old Man: How ’bout them Cubs?\n 75-Year-Old Woman: Invisible\n 75-Year-Old Man: You’re still around? Looking dapper, bro!",
+          "link": "https://www.mcsweeneys.net/articles/human-visibility-scale",
+          "publishedOn": "2026-06-24T15:01:00.000Z",
+          "wordCount": 2094,
+          "title": "Human Visibility Scale",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mrt1tmdy32ppycseah5p2an8vc9a"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/the-seven-meanings-of-fine-in-descending-order-of-plausible-deniability",
           "author": "Oskar Milton",
           "description": "1. Excellent.\n Fine as in cabernet. Fine as in dovetail joinery. Fine as in your mother’s china. The original meaning is still technically available. At a dinner party, when Margaret uses fine this way—\"the duck was fine\"—the table pauses, scans her for irony, finds none, and spends the next forty minutes working out whether they have been complimented or insulted by a person who appears to be operating out of 1873.\n 2. Adequate.\n The workhorse. The pad thai was fine. The fourth season of Community was fine. The flight to Cleveland was fine. This fine carries no particular charge—it is fine the way Pantone 7527 is fine, the way the hold music at Geico is fine. It’s neither an endorsement nor a complaint. The fine only becomes a problem when applied to a noun that requires more than fine. “…",
@@ -11267,6 +11357,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112153 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "Sold to the public as a foreign surveillance tool, Section 702 is the law has let intelligence agencies spy on millions of Americans’ private conversations without a warrant. Despite years of revelations about this law's misuse, Congress has repeatedly reauthorized Section 702 without meaningful reform. Until this month, that is, when it finally lapsed in a major victory for privacy. In our latest EFFector newsletter, we're covering the expiration of Section 702 and what happens next.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers a disastrous plan to overhaul the U.S. Copyright Office, why the UK's social media ban will cause more harm than it prevents, and a new Senate bill taking aim at government pressure to silence lawful speech online.\n\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time, we're chatting with EFF Senior Policy Analyst Matthew Guariglia on what the expiration of Section 702 means for warrantless domestic spying. You can find the episode and subscribe on your podcast platform of choice:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Faa8b6660-bde6-466d-80e3-156cddad0e95%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to protect your private conversations? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812",
+          "publishedOn": "2026-06-24T16:20:33.000Z",
+          "wordCount": 804,
+          "title": "🦅 Domestic Spying Takes an L | EFFector 38.12",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "112150 at https://www.eff.org",
           "author": "Melissa Srago",
