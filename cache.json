@@ -3787,6 +3787,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=558883",
+          "author": "Friends and family of Deanna Niebuhr",
+          "description": "She was a leading voice in community school development, helping craft legislation behind a $4.1 billion state grant program funding a vision of public schools as community hubs.",
+          "link": "https://www.berkeleyside.org/2026/06/25/deanna-niebuhr-obituary",
+          "publishedOn": "2026-06-25T12:00:00.000Z",
+          "wordCount": 8483,
+          "title": "Remembering Deanna Niebuhr, a champion for California’s children and community schools",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Deanna-Niebuhr.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=558931",
           "author": "Nico Savidge",
           "description": "Twenty city workers face layoffs, and more than 100 vacant positions will be eliminated.",
@@ -6734,6 +6744,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fEqGjypP5qY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fEqGjypP5qY",
+          "publishedOn": "2026-06-25T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Shaboozey: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ClFp8yqfokk",
           "author": null,
           "description": "",
@@ -9641,6 +9661,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-manic-pixie-dream-femme-fatale",
+          "author": "Dan McCoy",
+          "description": "Her legs went all the way up to the fringe of her babydoll dress. Presumably further than that, but that’s where the bright polka dots distracted me from theorizing. They clashed with her fuchsia parasol, still open indoors, and her bottle-tangerine hair, which cascaded from her scalp like a Muppet in a blender. She made my eyes hurt. But it was the good kind of hurt, like you’d get from fourteen fingers of Scotch, or a giraffe stepping on your testicles.\n “Mr. Mallet, I need a detective. And I also need you to listen to this mixtape I made for you. It’ll change your life.” She handed me a plastic cartridge, and—like the fool I am—I took it.\n I muttered back. “I don’t have a cassette player.”\n “Good, because that’s not a cassette. I use 8-Track for all my mixes. It’s a quirky little format…",
+          "link": "https://www.mcsweeneys.net/articles/my-manic-pixie-dream-femme-fatale",
+          "publishedOn": "2026-06-25T12:03:00.000Z",
+          "wordCount": 3305,
+          "title": "My Manic Pixie Dream  Femme Fatale",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2qv47yocl4zowcsie2gqycsbh9ls"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/vandalizing-washington-dc-is-a-crime-unless-youre-overturning-an-election",
           "author": "Carlos Greaves",
@@ -13487,22 +13517,6 @@
             "length": "421523"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/privacys-defender-cindy-1.png"
-        },
-        {
-          "id": "111867 at https://www.eff.org",
-          "author": "Josh Richman",
-          "description": "Cisco Systems Case Has Major Implications for Global Human Rights\n\n\n\nSAN FRANCISCO – U.S. technology companies should be legally accountable in U.S. courts for building tools that purposefully and actively facilitate human rights abuses by foreign governments, the Electronic Frontier Foundation argued in a brief filed Friday to the U.S. Supreme Court. \nThe brief filed in the case of Cisco Systems, Inc., et al., v. Doe I, et al. urges the high court to uphold the U.S. Court of Appeals for the 9th Circuit’s 2023 ruling that U.S. corporations can be held liable under the Alien Tort Statute (ATS) – a law that lets noncitizens bring claims in U.S. federal court for international law violations – for taking actions in the U.S. that aided and abetted persecution and torture abroad. \n“This is not …",
-          "link": "https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture",
-          "publishedOn": "2026-03-27T22:07:56.000Z",
-          "wordCount": 1933,
-          "title": "US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/china-eye-2.png",
-            "alt": "China Spying",
-            "type": "image/png",
-            "length": "36332"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/china-eye-2.png"
         }
       ]
     }
