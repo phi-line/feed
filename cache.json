@@ -2600,6 +2600,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8390166",
+          "author": "Layal Bou Harfouch",
+          "description": "Rapid transfers are cutting detainees off from their lawyers and families.",
+          "link": "https://reason.com/2026/06/24/ice-transfers-shouldnt-be-leaving-families-in-the-dark/",
+          "publishedOn": "2026-06-24T19:20:11.000Z",
+          "wordCount": null,
+          "title": "ICE Transfers Shouldn't Be Leaving Families in the Dark",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?post_type=podcast&p=8389693",
           "author": "Peter Suderman",
           "description": "Plus: the rise of Democratic Socialists, Trump's Iran negotiations, and ICE abandons detention center plans",
@@ -3805,6 +3816,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558931",
+          "author": "Nico Savidge",
+          "description": "Twenty city workers face layoffs, and more than 100 vacant positions will be eliminated.",
+          "link": "https://www.berkeleyside.org/2026/06/24/berkeley-budget-sales-tax-firefighters",
+          "publishedOn": "2026-06-24T21:47:41.000Z",
+          "wordCount": 8782,
+          "title": "Berkeley approves budget with cuts and layoffs; jobs in fire department spared for now",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_8505.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558872",
+          "author": "Madeline Taub",
+          "description": "The Arab street food restaurant with California sensibility returns to Oakland after its first restaurant in Fruitvale closed in 2021.",
+          "link": "https://www.berkeleyside.org/2026/06/24/reems-california-jack-london-square",
+          "publishedOn": "2026-06-24T19:00:00.000Z",
+          "wordCount": 8232,
+          "title": "Reem’s ready to debut worker-owned flagship in Jack London Square",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-Reems_JLS-10.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=475862",
           "author": "Darwin BondGraham",
@@ -7050,16 +7081,6 @@
           "publishedOn": "2026-04-02T09:00:53.000Z",
           "wordCount": null,
           "title": "Bush: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ImQ1i1fBEA0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ImQ1i1fBEA0",
-          "publishedOn": "2026-03-27T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Militarie Gun: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
