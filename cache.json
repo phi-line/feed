@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "http://pudding.cool/2026/06/mow/game",
+          "author": null,
+          "description": "Mow a series of lawns as efficiently as you can. We will publish the analysis in a few weeks.",
+          "link": "http://pudding.cool/2026/06/mow/game",
+          "publishedOn": "2026-06-25T04:00:00.000Z",
+          "wordCount": 156,
+          "title": "The Lawn Mowing Experiment",
+          "imageUrl": "https://pudding.cool/2026/06/mow/assets/og.png"
+        },
+        {
           "id": "https://pudding.cool/2026/06/menu-collection",
           "author": null,
           "description": "Explore the Buttolph Collection from the New York Public Library's archive of historic menus",
@@ -62,6 +72,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=163520",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Lauren Williams tells 'The Joy of Why' how studying a fundamental object in algebraic combinatorics led to a career full of surprises.            \nThe post What Is the Positive Grassmannian and Why Does It Show Up Everywhere? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
+          "publishedOn": "2026-06-25T13:54:27.000Z",
+          "wordCount": 10789,
+          "title": "What Is the Positive Grassmannian and Why Does It Show Up Everywhere?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/JOW-Episode-2-Lauren-Williams-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=163304",
           "author": "Simon Frantz",
@@ -622,6 +642,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a3bf11f5476f60001debccd",
+          "author": "Matthew Gault",
+          "description": "We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.",
+          "link": "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
+          "publishedOn": "2026-06-25T13:47:00.000Z",
+          "wordCount": 1093,
+          "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/vlcsnap-2026-06-24-11h08m49s233-1.png"
+        },
         {
           "id": "6a3be6f05476f60001deb3fa",
           "author": "Becky Ferreira",
@@ -3420,6 +3450,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/how-ai-will-change-us",
+          "author": "Houda Nait El Barj",
+          "description": "The post How AI Will Change Us appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-ai-will-change-us",
+          "publishedOn": "2026-06-25T13:36:16.000Z",
+          "wordCount": 8303,
+          "title": "How AI Will Change Us",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/Claude-Design-for-Noema-Twitter-Card-Vertical-Template-16.png?fm=png&ixlib=php-3.3.1&s=3fe0117b96e929ea101c68eaf0623c4d"
+        },
+        {
           "id": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
           "author": "Nathan Gardels",
           "description": "The post Trump’s Iran War: The Midwife To A Renewable Energy Future appeared first on NOEMA.",
@@ -3786,6 +3826,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558935",
+          "author": "Alix Wall",
+          "description": "Alumni of the collective gathered at the Berkeley Hillside Club to share wild and surprising stories of the influential shop’s founding and evolution.",
+          "link": "https://www.berkeleyside.org/2026/06/25/cheese-board-reunion-founding-history",
+          "publishedOn": "2026-06-25T18:21:06.000Z",
+          "wordCount": 8726,
+          "title": "Recounting The Cheese Board’s early days: Manure-cured cheese, 25-hour work weeks, and bungled bread",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-CheeseBoard_Reunion-4.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558913",
+          "author": "Hope Muñoz",
+          "description": "It’s part of a suite of changes to the corner of Adeline and MLK, including a new Miyawaki micro-forest, decorative fencing, boulders and benches.",
+          "link": "https://www.berkeleyside.org/2026/06/25/new-dog-park-opens-in-south-berkeley-at-site-of-former-here-there-encampment",
+          "publishedOn": "2026-06-25T15:00:00.000Z",
+          "wordCount": 8060,
+          "title": "New dog park opens in South Berkeley at site of former ‘Here There’ encampment",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Ribbon-cutting-on-Adeline-9-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558759",
+          "author": "Local sponsor",
+          "description": "For 18 years, the Oakland clinic has provided medical care — more than 62,000 office visits —  free of cost.",
+          "link": "https://www.berkeleyside.org/2026/06/25/for-the-uninsured-the-order-of-malta-clinic-is-a-lifeline",
+          "publishedOn": "2026-06-25T15:00:00.000Z",
+          "wordCount": 7483,
+          "title": "For the uninsured, the Order of Malta Clinic is a lifeline",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/OrderofMaltaClinic-mrz-1123.jpg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=558844",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a clothing swap meet at BAMPFA, Disaster Preparedness Family Game Day and a Midsummer Market at Donkey and Goat Winery.",
+          "link": "https://www.berkeleyside.org/2026/06/25/around-berkeley-free-rpg-day-at-games-of-berkeley-trapeze-at-the-lawrence-the-marsh-turns-21",
+          "publishedOn": "2026-06-25T14:00:00.000Z",
+          "wordCount": 8057,
+          "title": "Around Berkeley: Free RPG Day at Games of Berkeley, trapeze at the Lawrence, the Marsh turns 21",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/GOB_exterior_day-scaled.jpeg?fit=2560%2C1778&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558883",
           "author": "Friends and family of Deanna Niebuhr",
@@ -6703,16 +6783,6 @@
           "wordCount": 4168,
           "title": "Meera Sodha’s vegan recipe for Sichuan-style braised aubergines with tofu | The new vegan",
           "imageUrl": "https://i.guim.co.uk/img/media/a378aa915d0ed0366227571eaed1665019847f16/0_745_3518_2813/master/3518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d3dc0e12eb655017c9d9cca4fe2c915"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/mar/28/vegetarian-eggs-potato-tomato-chutney-recipe-malabar-hill-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "This is simply some deliciously spicy, baked grated potatoes, with an egg on top and a moreish chutney to go with it – you can thank us later\nEggs are very Easter-appropriate, and some of my favourite egg recipes come from the egg-obsessed Parsis (descendants of Persian Zoroastrians, who emigrated to India thousands of years ago). Their obsession extends beyond the kitchen, too: achoo-meechoo, for example, is a custom where an egg is waved around a person’s head (six times clockwise, once anti-clockwise), then broken to ward off evil. When it comes to cooking, meanwhile, Parsis will put an egg on anything, and one favourite dish is kanda papeta par eeda, or eggs on potatoes, which I ate when staying with friends in Mumbai’s Malabar Hill and which inspired today’s recipe.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/mar/28/vegetarian-eggs-potato-tomato-chutney-recipe-malabar-hill-meera-sodha",
-          "publishedOn": "2026-03-28T06:00:23.000Z",
-          "wordCount": 4658,
-          "title": "Meera Sodha’s vegetarian recipe for Malabar Hill eggs with tomato chutney | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/d45aeba72ee6d433c0f923932c17d3c1d970eeca/0_676_2729_2183/master/2729.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d946fd38a08282f1af302b6683f775ab"
         }
       ]
     },
@@ -9278,6 +9348,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "http://theblog.jessikerbakes.com/?p=5941",
+          "author": "Jessica Hylton",
+          "description": "This 5-ingredient cheesy quinoa casserole is a busy home cook's dream. Easy to throw together in under 30 minutes, it's made with homemade tomato sauce and topped with bubbly vegan cheese. Amazing!",
+          "link": "https://jessicainthekitchen.com/cheesy-quinoa-casserole/",
+          "publishedOn": "2026-06-23T14:00:00.000Z",
+          "wordCount": 11739,
+          "title": "Cheesy Quinoa Casserole",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Cheesy-Quinoa-Casserole-.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=34770",
           "author": "Jessica Hylton",
           "description": "Whether you know it as Tuscan white bean soup or ribollita, this hearty soup recipe is guaranteed to keep you warm and cozy! It’s creamy, flavourful, and you only need 15 minutes of prep time to make it. I love a thick and creamy soup, but I also want a soup with stuff in it—you […]",
@@ -9661,6 +9741,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/thank-you-for-experiencing-ego-death-at-the-hands-of-our-digital-ai-fueled-panopticon-application-software",
+          "author": "Sebastian Petrou Griffith",
+          "description": "Dear applicant,\n After five rounds of interviews, three personality evaluations, a lie-detector test, electroshock therapy, and a metaphysical ascension into the unconscious plane, we’ve decided to go with a candidate whose experience more closely aligns with the listed position.\n To be honest, the job you applied for was what we in the HR section of Dante’s third circle of hell (Gluttony Division) would refer to as a “ghost posting.” Not in the sense that the job you applied for wasn’t real, but that we would prefer a candidate who is willing to dedicate not only their living flesh vessel to the position but also at least five to ten years of their ethereal form in purgatory limbo towards furthering our business’s growth. Per your question about benefits and upward mobility, there was a p…",
+          "link": "https://www.mcsweeneys.net/articles/thank-you-for-experiencing-ego-death-at-the-hands-of-our-digital-ai-fueled-panopticon-application-software",
+          "publishedOn": "2026-06-25T18:01:00.000Z",
+          "wordCount": 2727,
+          "title": "Thank You for Experiencing Ego Death at the Hands of Our Digital AI-Fueled Panopticon Application Software",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/okpyl1r7djovp713l09b1birh403"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/persona-hatching",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/persona-hatching",
+          "publishedOn": "2026-06-25T16:00:00.000Z",
+          "wordCount": 2150,
+          "title": "Persona Hatching",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gbj1e7s27g02c7wvhv3u7pmvsq88"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/my-manic-pixie-dream-femme-fatale",
           "author": "Dan McCoy",
@@ -11308,6 +11408,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112151 at https://www.eff.org",
+          "author": "Chao Liu",
+          "description": "The Federal Communications Commission wants to require telecommunications providers to collect vast amounts of personal information from every person who wants a phone number in the name of combatting scam and spam calls. This plan will fail to combat the deluge of unwanted calls people in the United States receive every day while giving untrustworthy companies a gold mine of information that would harm everyday consumer’s privacy, access to communications, and ability to speak freely. \nThe requirement to provide ID and an address would completely cut off the ability to have an anonymous phone line, which would mean many people in the most precarious situations imaginable: domestic violence and human trafficking survivors, unhoused people, and children without stable homes, would not be ab…",
+          "link": "https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme",
+          "publishedOn": "2026-06-25T17:28:13.000Z",
+          "wordCount": 1781,
+          "title": "The FCC’s Spam Call Proposal Is Just a Data Collection Scheme",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "23559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png"
+        },
+        {
+          "id": "112156 at https://www.eff.org",
+          "author": "Dave Maass",
+          "description": "When a car passes an automated license plate reader (ALPR), its plate is captured and instantly compared against a list of vehicles that police are actively looking for or that police have identified for real-time surveillance. These are called “hotlists,” and EFF has learned that one used by agencies across the country targets immigrants on behalf of Immigration and Customs Enforcement (ICE). \nAgencies using Flock Safety ALPR systems commonly allow the plates their cameras collect to be compared against the FBI's National Crime Information Center (NCIC) hotlists. These hotlists are broken into \"topics,\" such as \"Gang or Suspected Terrorist,\" \"Stolen Vehicle,\" and \"Missing Person.\" \nFlock Safety told EFF via email: \"Local agencies add/remove license plates from the NCIC list. The FBI curat…",
+          "link": "https://www.eff.org/deeplinks/2026/06/are-your-local-police-using-flock-safety-alprs-scan-immigrants",
+          "publishedOn": "2026-06-25T16:00:37.000Z",
+          "wordCount": 2699,
+          "title": "Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/truck_passing_flock.jpg",
+            "alt": "A red truck carrying a lawnmower passes two Flock Safety automated license plate readers attached to poles.",
+            "type": "image/jpeg",
+            "length": "156412"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/truck_passing_flock.jpg"
+        },
         {
           "id": "112158 at https://www.eff.org",
           "author": "Joe Mullin",
