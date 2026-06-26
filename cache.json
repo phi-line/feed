@@ -2600,6 +2600,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8390411",
+          "author": "Autumn Billings",
+          "description": "Eight of the Prairieland Detention Center protesters were sentenced to a combined 450 years in prison.",
+          "link": "https://reason.com/2026/06/25/texas-man-gets-30-years-in-prison-for-transporting-anti-government-pamphlets/",
+          "publishedOn": "2026-06-25T21:15:17.000Z",
+          "wordCount": null,
+          "title": "Texas Man Gets 30 Years in Prison for Transporting 'Anti-Government' Pamphlets",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8390166",
           "author": "Layal Bou Harfouch",
           "description": "Rapid transfers are cutting detainees off from their lawyers and families.",
@@ -3826,6 +3837,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558993",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A man was in critical condition after a motorcycle crash at Channing and Fulton Sunday night.",
+          "link": "https://www.berkeleyside.org/2026/06/25/__trashed-4",
+          "publishedOn": "2026-06-26T00:15:00.000Z",
+          "wordCount": 6959,
+          "title": "The Wire: Cartoon museum curator out of job after police say he filmed party guests in Berkeley bathroom",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Andrew-Farago.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://richmondside.org/?p=466693",
+          "author": "Kari Hulac",
+          "description": "Victims, including 399 Alameda County households, have lost more than $211,000 so far this year.",
+          "link": "https://www.berkeleyside.org/2026/06/25/pge-scamming-customers-qr-codes",
+          "publishedOn": "2026-06-25T23:28:26.000Z",
+          "wordCount": 7104,
+          "title": "PG&E warns customers of a new scam involving QR codes",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/PG-E_20220124_9363-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=558935",
           "author": "Alix Wall",
@@ -11408,6 +11439,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112161 at https://www.eff.org",
+          "author": "Karen Gullo",
+          "description": "Seeking transparency and accountability in Paraguay’s use of facial recognition, EFF, the Association of Technology, Education, Development, Research, Communication (TEDIC), and the Centre for Justice and International Law (CEJIL) filed a complaint  with the Inter-American Commission on Human Rights against the state for arbitrarily denying access to information about its implementation and use of the technology as a tool for mass surveillance that erodes people’s privacy rights. \nThe case involves the Ministry of the Interior and National Police’s installation in 2019 of surveillance cameras with facial recognition technology in Asunción. Maricarmen Sequera, a lawyer and executive director of TEDIC, filed an information request with the ministry seeking details and protocols about the imp…",
+          "link": "https://www.eff.org/deeplinks/2026/06/eff-tedic-and-cejil-challenge-secrecy-use-face-recognition-paraguay",
+          "publishedOn": "2026-06-25T21:15:53.000Z",
+          "wordCount": 1792,
+          "title": "EFF, TEDIC and CEJIL Challenge Secrecy in the Use of Face Recognition in Paraguay",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/inter-american_court_of_human_rights_columbia_ruling_spying_eye.png",
+            "alt": "Spying eye with surrounding blue rays ",
+            "type": "image/png",
+            "length": "915612"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/inter-american_court_of_human_rights_columbia_ruling_spying_eye.png"
+        },
+        {
+          "id": "112160 at https://www.eff.org",
+          "author": "Lisa Femia",
+          "description": "This week marks four years since Dobbs v. Jackson Women’s Health Organization overturned Roe v. Wade’s constitutional protections for people seeking abortion care. Anniversaries are a moment to take stock, and over the last four years, EFF has seen firsthand how digital rights and reproductive rights have become increasingly intertwined. One major way this has happened: the fight over abortion has also become a fight over online speech and government censorship as a steady stream of proposed laws, cease-and-desist letters, lawsuits, and government investigations have targeted the websites and online resources that help people find and learn about reproductive healthcare.\nThis is an effort by anti-abortion government officials to mold the information ecosystem, restrict what people can read…",
+          "link": "https://www.eff.org/deeplinks/2026/06/four-years-after-dobbs-anti-abortion-lawmakers-keep-coming-online-speech",
+          "publishedOn": "2026-06-25T20:49:25.000Z",
+          "wordCount": 2595,
+          "title": "Four Years After Dobbs, Anti-Abortion Lawmakers Keep Coming for Online Speech",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/repro-rights-hd-3b.jpg",
+            "alt": "a female figure with ultrasound revealing security icon",
+            "type": "image/jpeg",
+            "length": "364225"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/repro-rights-hd-3b.jpg"
+        },
         {
           "id": "112151 at https://www.eff.org",
           "author": "Chao Liu",
