@@ -2581,16 +2581,6 @@
           "wordCount": 1095,
           "title": "The Journalist Who Tracked Epstein Island Visitors’ Phones (with Dhruv Mehrotra)",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/dhruv-pod.png"
-        },
-        {
-          "id": "69c6be4f3bfa1d000126999a",
-          "author": "Becky Ferreira",
-          "description": "Earth’s magnetic field has created a huge void of galactic cosmic rays in space, which could help protect astronauts from radiation exposure.",
-          "link": "https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist/",
-          "publishedOn": "2026-03-28T13:00:27.000Z",
-          "wordCount": 2019,
-          "title": "Scientists Discover Giant ‘Cavity’ Beyond Earth That Isn’t Supposed to Exist",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/03/197_2015197212209.png"
         }
       ]
     },
@@ -6571,16 +6561,6 @@
           "wordCount": 8478,
           "title": "This new California law will offer college students rehab before discipline for overdosing",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/012324_Opioid-Safety_JY_CM_10.webp?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554397",
-          "author": "Associated Press and Berkeleyside Staff",
-          "description": "At least four events are planned in Berkeley and another big march is set for Oakland during the next No Kings Day mobilization on Saturday, March 28.",
-          "link": "https://www.berkeleyside.org/2026/03/28/no-kings-berkeley-oakland-march-28",
-          "publishedOn": "2026-03-28T15:12:57.000Z",
-          "wordCount": 7937,
-          "title": "Big ‘No Kings’ rallies and marches set for Berkeley, Oakland today",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/SKM_1174.jpg"
         }
       ]
     },
@@ -11439,6 +11419,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112163 at https://www.eff.org",
+          "author": "Alexis Hancock",
+          "description": "Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers must make a corresponding systemic and intentional effort to stop these devices from entering people’s homes and ultimately their networks.\nAs a refresher: Last year, Google wrote that one major campaign, deemed BADBOX, affected 10 million uncertified devices that were running Android’s open-source software (Android Open Source Project or AOSP). These devices span from TVs and streaming devices to digital picture frames. Even now, someone can go on Amazon and Walmart and buy one of these device…",
+          "link": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
+          "publishedOn": "2026-06-25T23:39:34.000Z",
+          "wordCount": 1718,
+          "title": "Primed for Malware: Stop Selling Compromised Android Devices",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/malware-shark.png",
+            "alt": "malware-shark",
+            "type": "image/png",
+            "length": "8301"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/malware-shark.png"
+        },
         {
           "id": "112161 at https://www.eff.org",
           "author": "Karen Gullo",

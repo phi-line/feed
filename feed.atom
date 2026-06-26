@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-26T00:50:25.829Z</updated>
+    <updated>2026-06-26T07:21:08.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[Also: A man was in critical condition after a motorcycle crash at Channing and Fulton Sunday night.]]></summary>
         <author>
             <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primed for Malware: Stop Selling Compromised Android Devices]]></title>
+        <id>112163 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices"/>
+        <updated>2026-06-25T23:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers must make a corresponding systemic and intentional effort to stop these devices from entering people’s homes and ultimately their networks.
+As a refresher: Last year, Google wrote that one major campaign, deemed BADBOX, affected 10 million uncertified devices that were running Android’s open-source software (Android Open Source Project or AOSP). These devices span from TVs and streaming devices to digital picture frames. Even now, someone can go on Amazon and Walmart and buy one of these device…]]></summary>
+        <author>
+            <name>Alexis Hancock</name>
         </author>
     </entry>
     <entry>
@@ -13650,26 +13661,6 @@ This image, acquired with the Hubble Space Telescope in 2018, shows the giant el
         <updated>2026-03-30T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big ‘No Kings’ rallies and marches set for Berkeley, Oakland today]]></title>
-        <id>https://www.berkeleyside.org/?p=554397</id>
-        <link href="https://www.berkeleyside.org/2026/03/28/no-kings-berkeley-oakland-march-28"/>
-        <updated>2026-03-28T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[At least four events are planned in Berkeley and another big march is set for Oakland during the next No Kings Day mobilization on Saturday, March 28.]]></summary>
-        <author>
-            <name>Associated Press and Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Discover Giant ‘Cavity’ Beyond Earth That Isn’t Supposed to Exist]]></title>
-        <id>69c6be4f3bfa1d000126999a</id>
-        <link href="https://www.404media.co/scientists-discover-giant-cavity-beyond-earth-that-isnt-supposed-to-exist/"/>
-        <updated>2026-03-28T13:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Earth’s magnetic field has created a huge void of galactic cosmic rays in space, which could help protect astronauts from radiation exposure.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
         </author>
     </entry>
     <entry>
