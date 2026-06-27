@@ -3858,6 +3858,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=559086",
+          "author": "Tovin Lapan",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/06/26/true-burger-line-51-townhouse-kuboba-saga-close",
+          "publishedOn": "2026-06-26T19:00:00.000Z",
+          "wordCount": 7589,
+          "title": "Kuboba Spot closes, Townhouse shutters after a century, and Line 51 announces final day",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Kubobaspot_bobaempanada.jpg?fit=800%2C545&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=559054",
           "author": "Sara Hossaini | KQED",
           "description": "Nine years after a lawsuit spurred a reckoning around literacy education in the Berkeley Unified School District, a new curriculum and culture have taken hold.",
@@ -9419,6 +9429,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=75039",
+          "author": "Jessica Hylton",
+          "description": "This easy aglio e olio features al dente spaghetti coated in a velvety garlic-infused sauce with a touch of heat from red pepper flakes. It's a gloriously simple Italian classic you'll want to make again and again.",
+          "link": "https://jessicainthekitchen.com/aglio-e-olio/",
+          "publishedOn": "2026-06-26T14:00:00.000Z",
+          "wordCount": 12177,
+          "title": "Aglio e Olio",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Spaghetti-Aglio-e-Olio-13.jpg"
+        },
+        {
           "id": "http://theblog.jessikerbakes.com/?p=5941",
           "author": "Jessica Hylton",
           "description": "This 5-ingredient cheesy quinoa casserole is a busy home cook's dream. Easy to throw together in under 30 minutes, it's made with homemade tomato sauce and topped with bubbly vegan cheese. Amazing!",
@@ -11499,6 +11519,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112167 at https://www.eff.org",
+          "author": "Lena Cohen",
+          "description": "This Pride month, we’re calling on the dating app Grindr to prioritize LGBTQ+ user safety by making privacy the default across its platform. That means no more sharing personal data with advertisers or training AI on private information without users’ opt-in consent.\nGrindr is a dating app for the LGBTQ+ community; and for queer people, privacy violations can have life-altering consequences. Information that reveals someone’s sexual orientation, gender identity, or HIV status can be used by employers, governments, family members, scammers, or bad actors to inflict harassment, discrimination, arrest, or violence. For example, data from Grindr and other gay dating apps was sold by data brokers and used to 'out' (the act of disclosing someone's sexual orientation without permission) a gay pri…",
+          "link": "https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits",
+          "publishedOn": "2026-06-26T16:18:00.000Z",
+          "wordCount": 2396,
+          "title": "EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/online-dating-1.jpg",
+            "alt": "A person scrolls on a phone, viewing a spying heart",
+            "type": "image/jpeg",
+            "length": "84268"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/online-dating-1.jpg"
+        },
         {
           "id": "112165 at https://www.eff.org",
           "author": "Thorin Klosowski",
