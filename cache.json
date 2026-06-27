@@ -3067,6 +3067,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3264/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3264/",
+          "publishedOn": "2026-06-26T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "720 Ollie",
+          "imageUrl": "https://imgs.xkcd.com/comics/720_ollie_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3263/",
           "author": null,
           "description": "",
@@ -6745,6 +6755,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "An easy cheese, peas and egg dish, enhanced with leeks and greens, makes a crowdpleasing summer meal\nWhenever I think of cheese and peas together, I think of “Cheesy peas!”, a fictional food advertised to “northern types” by Paul Whitehouse as part of a comedy sketch on The Fast Show, a television series broadcast in the UK in the 1990s. The advert went like this: “Think cheese! Think peas! Think cheesy peas! They’re great for your teas. It’s easy-peasy with cheesy peas, please!” I couldn’t agree more, and I couldn’t think of a better way to introduce today’s recipe for a simple, summery frittata, except to say: think about eggs and spinach too.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha",
+          "publishedOn": "2026-06-27T05:00:36.000Z",
+          "wordCount": 4354,
+          "title": "Meera Sodha’s recipe for spinach, pea and cheddar frittata | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/1577adafba5281d4885fd5d52e0a362329c035db/245_0_3467_2771/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b53a1b57537dafafa323b638c9170dfa"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha",
           "author": "Meera Sodha",

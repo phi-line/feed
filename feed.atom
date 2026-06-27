@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-27T00:47:35.384Z</updated>
+    <updated>2026-06-27T07:07:38.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s recipe for spinach, pea and cheddar frittata | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha"/>
+        <updated>2026-06-27T05:00:36.000Z</updated>
+        <summary type="html"><![CDATA[An easy cheese, peas and egg dish, enhanced with leeks and greens, makes a crowdpleasing summer meal
+Whenever I think of cheese and peas together, I think of “Cheesy peas!”, a fictional food advertised to “northern types” by Paul Whitehouse as part of a comedy sketch on The Fast Show, a television series broadcast in the UK in the 1990s. The advert went like this: “Think cheese! Think peas! Think cheesy peas! They’re great for your teas. It’s easy-peasy with cheesy peas, please!” I couldn’t agree more, and I couldn’t think of a better way to introduce today’s recipe for a simple, summery frittata, except to say: think about eggs and spinach too.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kuboba Spot closes, Townhouse shutters after a century, and Line 51 announces final day]]></title>
         <id>https://www.berkeleyside.org/?p=559086</id>
@@ -173,6 +185,15 @@ Since we first wrote about AB  2047, a bill targeting 3D printers for the rare,
  “The Only Spoon You’ll Ever Need for the Rest of Your Life Because We Didn’t Overthrow the Monarchy Just to Become Tyrannized by Consumerism”]]></summary>
         <author>
             <name>JiJi Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[720 Ollie]]></title>
+        <id>https://xkcd.com/3264/</id>
+        <link href="https://xkcd.com/3264/"/>
+        <updated>2026-06-26T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
