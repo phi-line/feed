@@ -653,6 +653,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a3ec3465476f60001e4efca",
+          "author": "Becky Ferreira",
+          "description": "Recordings of laughter from humans and other great apes suggest that the distinctive rhythm of \"ha ha ha\" emerged in a common ancestor that lived at least 15 million years ago.",
+          "link": "https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/",
+          "publishedOn": "2026-06-27T17:02:33.000Z",
+          "wordCount": 2039,
+          "title": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/Screenshot-2026-06-26-at-2.25.23---PM.png"
+        },
+        {
           "id": "6a3e9e395476f60001e1eb26",
           "author": "Samantha Cole",
           "description": "This week, we discuss talking aloud to computers, Cannes, and “Engineering Creativity: Guac Is Extra.\"",
@@ -3445,16 +3455,6 @@
           "wordCount": 217,
           "title": "Creation",
           "imageUrl": "https://imgs.xkcd.com/comics/creation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3226/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3226/",
-          "publishedOn": "2026-03-30T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Home Solar",
-          "imageUrl": "https://imgs.xkcd.com/comics/home_solar_2x.png"
         }
       ]
     },
