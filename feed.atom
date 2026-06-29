@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-28T18:26:58.050Z</updated>
+    <updated>2026-06-29T00:50:54.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -14,6 +14,15 @@
         <summary type="html"><![CDATA[Recordings of laughter from humans and other great apes suggest that the distinctive rhythm of "ha ha ha" emerged in a common ancestor that lived at least 15 million years ago.]]></summary>
         <author>
             <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bow Wow: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=AzgbNvW793Q</id>
+        <link href="https://www.youtube.com/watch?v=AzgbNvW793Q"/>
+        <updated>2026-06-27T15:04:16.000Z</updated>
+        <author>
+            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
@@ -13633,19 +13642,6 @@ We’ve encountered this paradox before, with CRISPR gene editing, gain-of-funct
         <summary type="html"><![CDATA[Thomson Reuters’ data, which can include peoples’ addresses and details on their ethnicity, is linked to tools used by ICE.]]></summary>
         <author>
             <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Loyalty Program Is Now a Fealty Program]]></title>
-        <id>https://www.mcsweeneys.net/articles/our-loyalty-program-is-now-a-fealty-program</id>
-        <link href="https://www.mcsweeneys.net/articles/our-loyalty-program-is-now-a-fealty-program"/>
-        <updated>2026-03-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear Customer,
- We wanted to give you a heads-up about upcoming changes to Marshmallow Puffer’s loyalty program. Starting next month, this is no longer a loyalty program. It’s a fealty program. It is no longer about transactional points where you get a birthday keychain in the form of a tiny little puffer coat that everyone raves about, and a transparent discount that depends on how much you spend. It is a relationship based on a moral and binding oath whereby, in offering puffer coat investments, you swear fealty to us, forsaking all other puffer coats, and you promise us military service to defend the good Marshmallow Puffer name.
- And in exchange, you can wear (but not own) our Puffer coats.
- We heard you, and we’ve streamlined enrollment. It takes approximately two minutes and involves…]]></summary>
-        <author>
-            <name>Anne Reiner</name>
         </author>
     </entry>
     <entry>
