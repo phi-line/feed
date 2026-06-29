@@ -11461,6 +11461,22 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "112174 at https://www.eff.org",
+          "author": "Hayley Tsukayama",
+          "description": "The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabled hardware, operating systems, and online services. This well-intentioned but deeply flawed piece of legislation will harm young people who rely on the internet to access essential information and find community. That’s why we’re urging the Illinois governor to veto the measure. \nUnder this new regime, digital platforms are forced to collect and share users' ages to platforms and websites. It also strips away basic, everyday features like personalized content feeds and overnight notifications for young people unless they can secure \"verifiable parental consent.\"\nH.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. \nMuch of H.B. 5511 is modeled after controversial legislation passed in California (A.B. 1043) and New York’s Stop Addictive Feeds Exploitation (SAFE) for Kids Act, both of which have already drawn immense blowback from open-source communities, privacy advocates, and tech stakeholders. For Illinois to copy this suspect age-bracketing regime before either law has even gone into effect, been tested in court, or proven functional is premature, economically risky, and legally wasteful.\nH.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. Far from protecting children, the bill will effectively dismantle online anonymity, jeopardize data security, and severely restrict access to constitutionally protected speech for young people and adults alike. Finally, these schemes cut off vital lifelines for vulnerable youth in non-traditional families and pose an existential threat to the open-source ecosystem that underpins the modern internet.\nFor a deeper look at the constitutional, policy, and technological concerns with H.B. 5511, you can read our full letter here.",
+          "link": "https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511",
+          "publishedOn": "2026-06-29T18:23:38.000Z",
+          "wordCount": 1585,
+          "title": "EFF to Gov. Pritzker: Veto Illinois’ HB 5511",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverificationbanner.png",
+            "alt": "Purple padlock with an 18+ only symbol and a combination lock requiring Day, Month, and Year. Surrounded by abstract purple dashed lines.",
+            "type": "image/png",
+            "length": "1291379"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner.png"
+        },
+        {
           "id": "112172 at https://www.eff.org",
           "author": "Andrew Crocker",
           "description": "You have an expectation of privacy in location data that reveals your movements in the physical world, and even short-term surveillance of these movements is a search subject to the Fourth Amendment, the U.S. Supreme Court ruled today in Chatrie v. United States.  \nThe case involved geofence warrants, a form of dragnet surveillance police have used to vacuum up location data from electronic devices of people who happen to be in the vicinity of a crime. EFF had joined the American Civil Liberties Union, the ACLU of Virginia, and the Center on Privacy & Technology at Georgetown Law in filing an amicus brief in the case. \nThe decision in Chatrie is important: It is the first digital surveillance decision by the Court since its landmark 2018 ruling Carpenter v. United States, which involved pr…",
@@ -13787,6 +13803,283 @@
             "length": "1396283"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
+        }
+      ]
+    },
+    {
+      "title": "Works in Progress RSS Feed",
+      "feedUrl": "https://worksinprogress.co/rss.xml",
+      "siteUrl": "https://worksinprogress.co/",
+      "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+          "author": null,
+          "description": "Drinking one beer a night for a year is a lot less harmful than drinking 365 beers in one go. The same applies to radiation exposure, but regulation doesn’t agree.",
+          "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+          "publishedOn": "2026-06-29T12:04:29.000Z",
+          "wordCount": 3528,
+          "title": "How to lie about radiation",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/How-to-lie-about-radiation-share-card.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/why-the-west-stopped-making-land/",
+          "author": null,
+          "description": "Large swaths of America’s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
+          "link": "https://worksinprogress.co/issue/why-the-west-stopped-making-land/",
+          "publishedOn": "2026-06-23T13:39:50.000Z",
+          "wordCount": 4070,
+          "title": "Why the West stopped making land",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/why-the-west-stopped-producing-land-share-card.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/",
+          "author": null,
+          "description": "The AI buildout is bottlenecked by energy. But America has the electricity to power its data centers; the problem is getting it to them.",
+          "link": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/",
+          "publishedOn": "2026-06-22T12:20:56.000Z",
+          "wordCount": 5044,
+          "title": "Why American data centers can’t plug in",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/grids_option_1-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+          "author": null,
+          "description": "Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.",
+          "link": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+          "publishedOn": "2026-06-18T15:16:09.000Z",
+          "wordCount": 2130,
+          "title": "Epidurals are a miracle technology",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/website-image-size-epidurals-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+          "author": null,
+          "description": "In 1688, England swept away the encrusted vetocracy that had held back economic growth for centuries. Could we do the same today?",
+          "link": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+          "publishedOn": "2026-06-18T08:39:30.000Z",
+          "wordCount": 5293,
+          "title": "How smashing the NIMBYs created modern capitalism",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/glorious_revolution_website_image-1-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/why-we-should-vaccinate-wild-animals/",
+          "author": null,
+          "description": "Vaccinating wild animals can protect human health, and spare animals from extinction and suffering.",
+          "link": "https://worksinprogress.co/issue/why-we-should-vaccinate-wild-animals/",
+          "publishedOn": "2026-06-16T14:40:38.000Z",
+          "wordCount": 3081,
+          "title": "Why we should vaccinate wild animals",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/Why-we-should-vaccinate-wild-animals-share-card.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+          "author": null,
+          "description": "Rats have conquered nearly every place on earth where humans live. Only Alberta soldiers on.",
+          "link": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+          "publishedOn": "2026-06-15T12:19:32.000Z",
+          "wordCount": 3141,
+          "title": "How Alberta eradicated rats",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/alberta-rats-share-card-.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/",
+          "author": null,
+          "description": "Europe’s housing shortages are even worse than America’s. So why does nobody there talk about zoning?",
+          "link": "https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/",
+          "publishedOn": "2026-06-09T21:52:55.000Z",
+          "wordCount": 2493,
+          "title": "Should European housing politics be Americanized?",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/american_and_european_housing-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/how-the-squamish-struck-gold-in-vancouver/",
+          "author": null,
+          "description": "Just beyond central Vancouver, the Squamish Nation is building one of the most ambitious and unusual housing developments in the world, and getting rich in the process. How they did it has lessons for the whole world.",
+          "link": "https://worksinprogress.co/issue/how-the-squamish-struck-gold-in-vancouver/",
+          "publishedOn": "2026-06-09T10:31:55.000Z",
+          "wordCount": 4405,
+          "title": "How the Squamish struck gold in Vancouver",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/squamish_website_image-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-flag-stranglers/",
+          "author": null,
+          "description": "Most flags used to be ugly. They were probably better that way.",
+          "link": "https://worksinprogress.co/issue/the-flag-stranglers/",
+          "publishedOn": "2026-06-05T03:30:17.000Z",
+          "wordCount": 2020,
+          "title": "The flag stranglers",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/the-flag-strangers-sharecard-1.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-blood-cancer-that-became-solvable/",
+          "author": null,
+          "description": "Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.",
+          "link": "https://worksinprogress.co/issue/the-blood-cancer-that-became-solvable/",
+          "publishedOn": "2026-06-04T09:54:30.000Z",
+          "wordCount": 3771,
+          "title": "The blood cancer that became solvable",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/screenshot_2026-06-04_at_10.25.17.png"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/samurai-city/",
+          "author": null,
+          "description": "For three hundred years, Japan enjoyed enviable stability and peace. All it took was locking up its warlike samurai elite in the world’s least efficient city.",
+          "link": "https://worksinprogress.co/issue/samurai-city/",
+          "publishedOn": "2026-06-02T02:00:12.000Z",
+          "wordCount": 2890,
+          "title": "Samurai city",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/how-bacteria-solved-the-mystery-of-inheritance/",
+          "author": null,
+          "description": "In the 1940s, scientists made a discovery now fundamental to biology: genes are encoded in DNA. The story involves bacteria, dead mice, and a kitchen cream separator.",
+          "link": "https://worksinprogress.co/issue/how-bacteria-solved-the-mystery-of-inheritance/",
+          "publishedOn": "2026-05-28T14:04:20.000Z",
+          "wordCount": 2741,
+          "title": "How bacteria solved the mystery of inheritance",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/WIP_i24-How-bacteria-solved-the-mystery-of-inheritance.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/review-recession-the-real-reasons-economies-shrink-and-what-to-do-about-it/",
+          "author": null,
+          "description": "How a grasshopper caused the 1873 panic, and why recessions are usually just bad luck.",
+          "link": "https://worksinprogress.co/issue/review-recession-the-real-reasons-economies-shrink-and-what-to-do-about-it/",
+          "publishedOn": "2026-05-26T13:39:46.000Z",
+          "wordCount": 2755,
+          "title": "Review: Recession",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/mark_koyama_.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/a-washington-diary/",
+          "author": null,
+          "description": "What Americans take to be a borrowed European tradition turns out to be a national style all of their own.",
+          "link": "https://worksinprogress.co/issue/a-washington-diary/",
+          "publishedOn": "2026-05-22T10:37:16.000Z",
+          "wordCount": 1598,
+          "title": "Washington diary",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/A-washington-diary-Share_Cards-.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/losing-my-religion/",
+          "author": null,
+          "description": "How Works in Progress editor Ben Southwood learned to stop worrying and love democracy.",
+          "link": "https://worksinprogress.co/issue/losing-my-religion/",
+          "publishedOn": "2026-05-20T10:25:46.000Z",
+          "wordCount": 4545,
+          "title": "Losing my religion",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/losing-my-religion-share-card-v1.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/why-spain-has-the-worlds-greatest-cities/",
+          "author": null,
+          "description": "The traditional European apartment city has declined almost everywhere. There is one big exception.",
+          "link": "https://worksinprogress.co/issue/why-spain-has-the-worlds-greatest-cities/",
+          "publishedOn": "2026-05-14T15:05:56.000Z",
+          "wordCount": 4682,
+          "title": "Triumph of the Spanish city",
+          "imageUrl": null
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-slippery-protein-problem/",
+          "author": null,
+          "description": "A disease that was once a death sentence is increasingly treatable.",
+          "link": "https://worksinprogress.co/issue/the-slippery-protein-problem/",
+          "publishedOn": "2026-05-12T22:37:09.000Z",
+          "wordCount": 2722,
+          "title": "The slippery protein problem",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/Pancreatic-Cancer-Share_Cards-copy.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/",
+          "author": null,
+          "description": "‘Artificial’ didn’t scare Americans in the 19th century. Why does it scare them now?",
+          "link": "https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/",
+          "publishedOn": "2026-05-08T03:25:37.000Z",
+          "wordCount": 1524,
+          "title": "Artificial used to be a compliment",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/Artificial-Ice-Flavoring-Share_Cards-copy.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/engineering-the-disposable-diaper/",
+          "author": null,
+          "description": "Benjamin Spock told mothers in the mid-twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.",
+          "link": "https://worksinprogress.co/issue/engineering-the-disposable-diaper/",
+          "publishedOn": "2026-04-24T06:18:13.000Z",
+          "wordCount": 2901,
+          "title": "Engineering the disposable diaper",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/Engineering-the-disposable-diaper-1.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/modern-hindu-temples/",
+          "author": null,
+          "description": "Most ancient architectural traditions have withered, but one is enjoying a golden age: Hindu temple architecture.",
+          "link": "https://worksinprogress.co/issue/modern-hindu-temples/",
+          "publishedOn": "2026-04-23T20:32:38.000Z",
+          "wordCount": 2697,
+          "title": "Modern Hindu temples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-invention-of-buses/",
+          "author": null,
+          "description": "Wheeled vehicles existed for 5,000 years before someone thought of running a bus service.",
+          "link": "https://worksinprogress.co/issue/the-invention-of-buses/",
+          "publishedOn": "2026-04-23T20:32:12.000Z",
+          "wordCount": 2078,
+          "title": "The invention of buses",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/buses-website-image-scaled.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+          "author": null,
+          "description": "By betting on extreme ultraviolet lithography long before it worked, ASML became the chokepoint for cutting-edge chips.",
+          "link": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+          "publishedOn": "2026-04-23T20:18:37.000Z",
+          "wordCount": 4636,
+          "title": "The world’s most complex machine",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/WIP_i23-Share_Cards-asml.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/how-the-uk-learned-and-unlearned-nuclear/",
+          "author": null,
+          "description": "Britain gave an elite group of engineers sweeping power and massive resources to deliver a nuclear power revolution. But their nuclear dreams crumbled.",
+          "link": "https://worksinprogress.co/issue/how-the-uk-learned-and-unlearned-nuclear/",
+          "publishedOn": "2026-04-22T14:28:31.000Z",
+          "wordCount": 6616,
+          "title": "How Britain learned and unlearned nuclear",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/WIP_i23-Share_Cards-copy.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/",
+          "author": null,
+          "description": "Many countries want to copy Australia’s immigration rules. But its most-copied border policy is not the one that worked.",
+          "link": "https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/",
+          "publishedOn": "2026-04-17T12:37:06.000Z",
+          "wordCount": 4394,
+          "title": "How Australia really stopped the boats",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/WIP_i23-Share_Cards-australia-boats-line-in-the-sand-copy.jpg"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/were-freezing-our-eggs-maybe-you-should-too/",
+          "author": null,
+          "description": "Science has largely solved the problem of reproductive ageing for women, but they have to prepare while they’re young.",
+          "link": "https://worksinprogress.co/issue/were-freezing-our-eggs-maybe-you-should-too/",
+          "publishedOn": "2026-04-14T13:01:56.000Z",
+          "wordCount": 3322,
+          "title": "We’re freezing our eggs; maybe you should too",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/wip_i23_share_cards_eg_freezing_no_type.png"
+        },
+        {
+          "id": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+          "author": null,
+          "description": "Japan’s railways are the finest in the world. Other countries can copy its formula.",
+          "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+          "publishedOn": "2026-04-07T14:36:00.000Z",
+          "wordCount": 4760,
+          "title": "Why Japan has such good railways",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/WIP_i23-Share_Cards-japanese-railways.jpg"
         }
       ]
     }

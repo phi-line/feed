@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-06-29T18:43:05.743Z</updated>
+    <updated>2026-06-29T18:57:58.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -14,6 +14,21 @@
         <summary type="html"><![CDATA[Federal law can punish true threats, and doxing intended to facilitate violence. But this woman simply named a government agent, which is not a crime.]]></summary>
         <author>
             <name>Reem Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF to Gov. Pritzker: Veto Illinois’ HB 5511]]></title>
+        <id>112174 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511"/>
+        <updated>2026-06-29T18:23:38.000Z</updated>
+        <summary type="html"><![CDATA[The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabled hardware, operating systems, and online services. This well-intentioned but deeply flawed piece of legislation will harm young people who rely on the internet to access essential information and find community. That’s why we’re urging the Illinois governor to veto the measure. 
+Under this new regime, digital platforms are forced to collect and share users' ages to platforms and websites. It also strips away basic, everyday features like personalized content feeds and overnight notifications for young people unless they can secure "verifiable parental consent."
+H.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. 
+Much of H.B. 5511 is modeled after controversial legislation passed in California (A.B. 1043) and New York’s Stop Addictive Feeds Exploitation (SAFE) for Kids Act, both of which have already drawn immense blowback from open-source communities, privacy advocates, and tech stakeholders. For Illinois to copy this suspect age-bracketing regime before either law has even gone into effect, been tested in court, or proven functional is premature, economically risky, and legally wasteful.
+H.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. Far from protecting children, the bill will effectively dismantle online anonymity, jeopardize data security, and severely restrict access to constitutionally protected speech for young people and adults alike. Finally, these schemes cut off vital lifelines for vulnerable youth in non-traditional families and pose an existential threat to the open-source ecosystem that underpins the modern internet.
+For a deeper look at the constitutional, policy, and technological concerns with H.B. 5511, you can read our full letter here.]]></summary>
+        <author>
+            <name>Hayley Tsukayama</name>
         </author>
     </entry>
     <entry>
@@ -106,6 +121,16 @@ The post What Breaks a Cell’s Ribs Can Make It Stronger first appeared on Quan
  But in honor of the…]]></summary>
         <author>
             <name>Kelley Greene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to lie about radiation]]></title>
+        <id>https://worksinprogress.co/issue/how-to-lie-about-radiation/</id>
+        <link href="https://worksinprogress.co/issue/how-to-lie-about-radiation/"/>
+        <updated>2026-06-29T12:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Drinking one beer a night for a year is a lot less harmful than drinking 365 beers in one go. The same applies to radiation exposure, but regulation doesn’t agree.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -890,6 +915,16 @@ Dear Duck,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why the West stopped making land]]></title>
+        <id>https://worksinprogress.co/issue/why-the-west-stopped-making-land/</id>
+        <link href="https://worksinprogress.co/issue/why-the-west-stopped-making-land/"/>
+        <updated>2026-06-23T13:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Large swaths of America’s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Madison Square Garden Made Dossier on Activists Who Opposed Facial Recognition]]></title>
         <id>6a3a85b37acb2d00011a3782</id>
         <link href="https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/"/>
@@ -1134,6 +1169,16 @@ The post A Dark Dimension Could Link Two of the Universe’s Great Unknowns firs
         <summary type="html"><![CDATA[Whether you know it as Tuscan white bean soup or ribollita, this hearty soup recipe is guaranteed to keep you warm and cozy! It’s creamy, flavourful, and you only need 15 minutes of prep time to make it. I love a thick and creamy soup, but I also want a soup with stuff in it—you […]]]></summary>
         <author>
             <name>Jessica Hylton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why American data centers can’t plug in]]></title>
+        <id>https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/</id>
+        <link href="https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/"/>
+        <updated>2026-06-22T12:20:56.000Z</updated>
+        <summary type="html"><![CDATA[The AI buildout is bottlenecked by energy. But America has the electricity to power its data centers; the problem is getting it to them.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1428,6 +1473,16 @@ Yet it has repeatedly si…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Epidurals are a miracle technology]]></title>
+        <id>https://worksinprogress.co/issue/the-wonder-of-epidurals/</id>
+        <link href="https://worksinprogress.co/issue/the-wonder-of-epidurals/"/>
+        <updated>2026-06-18T15:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sir Ernest Shackleton’s Journal Entries from the Week He Stayed Home with His Sick Kids]]></title>
         <id>https://www.mcsweeneys.net/articles/sir-ernest-shackletons-journal-entries-from-the-week-he-stayed-home-with-his-sick-kids</id>
         <link href="https://www.mcsweeneys.net/articles/sir-ernest-shackletons-journal-entries-from-the-week-he-stayed-home-with-his-sick-kids"/>
@@ -1512,6 +1567,16 @@ These lists, along with everything McSweeney’s publishes on this site, are off
         <updated>2026-06-18T09:00:22.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How smashing the NIMBYs created modern capitalism]]></title>
+        <id>https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/</id>
+        <link href="https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/"/>
+        <updated>2026-06-18T08:39:30.000Z</updated>
+        <summary type="html"><![CDATA[In 1688, England swept away the encrusted vetocracy that had held back economic growth for centuries. Could we do the same today?]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1814,6 +1879,16 @@ Citizens of the United Federation of Planets, as Starfleet’s Commander in Chie
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why we should vaccinate wild animals]]></title>
+        <id>https://worksinprogress.co/issue/why-we-should-vaccinate-wild-animals/</id>
+        <link href="https://worksinprogress.co/issue/why-we-should-vaccinate-wild-animals/"/>
+        <updated>2026-06-16T14:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Vaccinating wild animals can protect human health, and spare animals from extinction and suffering.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare]]></title>
         <id>https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare</id>
         <link href="https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare"/>
@@ -2058,6 +2133,16 @@ The post How Many Elementary Particles Are There, Really? first appeared on Quan
         <summary type="html"><![CDATA[We get into how platforms have tried to make surveillance cute, why that damn Duolingo owl emotionally manipulates you, and why learning about privacy best practices when surrounded by community works.]]></summary>
         <author>
             <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Alberta eradicated rats]]></title>
+        <id>https://worksinprogress.co/issue/albertas-war-on-rats/</id>
+        <link href="https://worksinprogress.co/issue/albertas-war-on-rats/"/>
+        <updated>2026-06-15T12:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Rats have conquered nearly every place on earth where humans live. Only Alberta soldiers on.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -2703,6 +2788,16 @@ The post An Early Step on the Long, Strange Road to Photosynthesis first appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Should European housing politics be Americanized?]]></title>
+        <id>https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/</id>
+        <link href="https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/"/>
+        <updated>2026-06-09T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s housing shortages are even worse than America’s. So why does nobody there talk about zoning?]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tell Congress: Just Say No to NO FAKES]]></title>
         <id>112118 at https://www.eff.org</id>
         <link href="https://www.eff.org/deeplinks/2026/06/tell-congress-just-say-no-no-fakes"/>
@@ -2859,6 +2954,16 @@ Normally, the president doesn’t try to oust lawmakers from his own party becau
 It’s definitely unusual to see a president pardon himself for crimes he has not yet committed…]]></summary>
         <author>
             <name>Ginny Hogan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Squamish struck gold in Vancouver]]></title>
+        <id>https://worksinprogress.co/issue/how-the-squamish-struck-gold-in-vancouver/</id>
+        <link href="https://worksinprogress.co/issue/how-the-squamish-struck-gold-in-vancouver/"/>
+        <updated>2026-06-09T10:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Just beyond central Vancouver, the Squamish Nation is building one of the most ambitious and unusual housing developments in the world, and getting rich in the process. How they did it has lessons for the whole world.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -3344,6 +3449,16 @@ I must apologize.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The flag stranglers]]></title>
+        <id>https://worksinprogress.co/issue/the-flag-stranglers/</id>
+        <link href="https://worksinprogress.co/issue/the-flag-stranglers/"/>
+        <updated>2026-06-05T03:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Most flags used to be ugly. They were probably better that way.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EFF at TechCrunch Disrupt]]></title>
         <id>112107 at https://www.eff.org</id>
         <link href="https://www.eff.org/event/eff-techcrunch-disrupt-2"/>
@@ -3587,6 +3702,16 @@ The post More Conversations, Complex Questions, and Bold Ideas in Season Five of
  ACTUAL: “Unless it’s w…]]></summary>
         <author>
             <name>Justin Taroli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The blood cancer that became solvable]]></title>
+        <id>https://worksinprogress.co/issue/the-blood-cancer-that-became-solvable/</id>
+        <link href="https://worksinprogress.co/issue/the-blood-cancer-that-became-solvable/"/>
+        <updated>2026-06-04T09:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -3999,6 +4124,16 @@ But when the police sp…]]></summary>
         <updated>2026-06-02T09:00:00.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samurai city]]></title>
+        <id>https://worksinprogress.co/issue/samurai-city/</id>
+        <link href="https://worksinprogress.co/issue/samurai-city/"/>
+        <updated>2026-06-02T02:00:12.000Z</updated>
+        <summary type="html"><![CDATA[For three hundred years, Japan enjoyed enviable stability and peace. All it took was locking up its warlike samurai elite in the world’s least efficient city.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -4549,6 +4684,16 @@ The post How We See the Beautiful, Violent Sun first appeared on Quanta Magazine
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How bacteria solved the mystery of inheritance]]></title>
+        <id>https://worksinprogress.co/issue/how-bacteria-solved-the-mystery-of-inheritance/</id>
+        <link href="https://worksinprogress.co/issue/how-bacteria-solved-the-mystery-of-inheritance/"/>
+        <updated>2026-05-28T14:04:20.000Z</updated>
+        <summary type="html"><![CDATA[In the 1940s, scientists made a discovery now fundamental to biology: genes are encoded in DNA. The story involves bacteria, dead mice, and a kitchen cream separator.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Homelessness is down in Alameda County. Can it maintain that progress?]]></title>
         <id>https://www.berkeleyside.org/?p=557362</id>
         <link href="https://www.berkeleyside.org/2026/05/28/berkeley-homeless-population-alameda-county"/>
@@ -4860,6 +5005,16 @@ The post When Quiet Undersea Volcanoes Turn Disruptive first appeared on Quanta 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Review: Recession]]></title>
+        <id>https://worksinprogress.co/issue/review-recession-the-real-reasons-economies-shrink-and-what-to-do-about-it/</id>
+        <link href="https://worksinprogress.co/issue/review-recession-the-real-reasons-economies-shrink-and-what-to-do-about-it/"/>
+        <updated>2026-05-26T13:39:46.000Z</updated>
+        <summary type="html"><![CDATA[How a grasshopper caused the 1873 panic, and why recessions are usually just bad luck.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can You Avoid an Old High School Friend at the Bus Stop? A Decision Tree]]></title>
         <id>https://www.mcsweeneys.net/articles/can-you-avoid-an-old-high-school-friend-at-the-bus-stop-a-decision-tree</id>
         <link href="https://www.mcsweeneys.net/articles/can-you-avoid-an-old-high-school-friend-at-the-bus-stop-a-decision-tree"/>
@@ -5077,6 +5232,16 @@ Today’s recipe is based on the famous spaghetti all’assassina, a dish native
  Oh, I suppose if you insist (by si…]]></summary>
         <author>
             <name>Tyler Gooch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Washington diary]]></title>
+        <id>https://worksinprogress.co/issue/a-washington-diary/</id>
+        <link href="https://worksinprogress.co/issue/a-washington-diary/"/>
+        <updated>2026-05-22T10:37:16.000Z</updated>
+        <summary type="html"><![CDATA[What Americans take to be a borrowed European tradition turns out to be a national style all of their own.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -5506,6 +5671,16 @@ The post How Alexander Grothendieck Revolutionized 20th-Century Mathematics firs
  POE stops walking. A meaty pop rings out as he cracks a…]]></summary>
         <author>
             <name>Sarah Totton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Losing my religion]]></title>
+        <id>https://worksinprogress.co/issue/losing-my-religion/</id>
+        <link href="https://worksinprogress.co/issue/losing-my-religion/"/>
+        <updated>2026-05-20T10:25:46.000Z</updated>
+        <summary type="html"><![CDATA[How Works in Progress editor Ben Southwood learned to stop worrying and love democracy.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -6228,6 +6403,16 @@ US Army’s core values, traditions, and ethics
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Triumph of the Spanish city]]></title>
+        <id>https://worksinprogress.co/issue/why-spain-has-the-worlds-greatest-cities/</id>
+        <link href="https://worksinprogress.co/issue/why-spain-has-the-worlds-greatest-cities/"/>
+        <updated>2026-05-14T15:05:56.000Z</updated>
+        <summary type="html"><![CDATA[The traditional European apartment city has declined almost everywhere. There is one big exception.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Internet of Shit: AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops]]></title>
         <id>6a05ca0d5752c300010441df</id>
         <link href="https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/"/>
@@ -6504,6 +6689,16 @@ The post How the Bird Eye Was Pushed to an Evolutionary Extreme first appeared o
         <summary type="html"><![CDATA[Gen Z are a bunch of cowards…or are they risking it all on crypto? The editors of The New Critic report on their generation’s Risk-geist.]]></summary>
         <author>
             <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The slippery protein problem]]></title>
+        <id>https://worksinprogress.co/issue/the-slippery-protein-problem/</id>
+        <link href="https://worksinprogress.co/issue/the-slippery-protein-problem/"/>
+        <updated>2026-05-12T22:37:09.000Z</updated>
+        <summary type="html"><![CDATA[A disease that was once a death sentence is increasingly treatable.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -7264,6 +7459,16 @@ Author Chris Bailey breaks down the “intention stack” and the underrated ro
 This video How to set better goals and actually follow-through, in 65 minutes is featured on Big Think.]]></summary>
         <author>
             <name>Chris Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial used to be a compliment]]></title>
+        <id>https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/</id>
+        <link href="https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/"/>
+        <updated>2026-05-08T03:25:37.000Z</updated>
+        <summary type="html"><![CDATA[‘Artificial’ didn’t scare Americans in the 19th century. Why does it scare them now?]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -9475,6 +9680,16 @@ The post A New Type of Neuroplasticity Rewires the Brain After a Single Experien
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Engineering the disposable diaper]]></title>
+        <id>https://worksinprogress.co/issue/engineering-the-disposable-diaper/</id>
+        <link href="https://worksinprogress.co/issue/engineering-the-disposable-diaper/"/>
+        <updated>2026-04-24T06:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin Spock told mothers in the mid-twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask Ethan: What’s the biggest misconception in astronomy?]]></title>
         <id>https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/</id>
         <link href="https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/"/>
@@ -9551,6 +9766,26 @@ Social casino apps are online games where users can buy virtual chips with real 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Modern Hindu temples]]></title>
+        <id>https://worksinprogress.co/issue/modern-hindu-temples/</id>
+        <link href="https://worksinprogress.co/issue/modern-hindu-temples/"/>
+        <updated>2026-04-23T20:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Most ancient architectural traditions have withered, but one is enjoying a golden age: Hindu temple architecture.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The invention of buses]]></title>
+        <id>https://worksinprogress.co/issue/the-invention-of-buses/</id>
+        <link href="https://worksinprogress.co/issue/the-invention-of-buses/"/>
+        <updated>2026-04-23T20:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Wheeled vehicles existed for 5,000 years before someone thought of running a bus service.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Community Votes to Deny Water to Nuclear Weapons Data Center]]></title>
         <id>69ea7b8e59144100017467ae</id>
         <link href="https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/"/>
@@ -9558,6 +9793,16 @@ Social casino apps are online games where users can buy virtual chips with real 
         <summary type="html"><![CDATA[America’s nuclear scientists plan to break ground on an AI data center next week, but the Township where it’s being constructed just put a 365 day hold on providing it with water.]]></summary>
         <author>
             <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world’s most complex machine]]></title>
+        <id>https://worksinprogress.co/issue/the-worlds-most-complex-machine/</id>
+        <link href="https://worksinprogress.co/issue/the-worlds-most-complex-machine/"/>
+        <updated>2026-04-23T20:18:37.000Z</updated>
+        <summary type="html"><![CDATA[By betting on extreme ultraviolet lithography long before it worked, ASML became the chokepoint for cutting-edge chips.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -9981,6 +10226,16 @@ But a false sense of urgency is never a positive, because it’s false. It’s b
 The post A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Erica Klarreich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Britain learned and unlearned nuclear]]></title>
+        <id>https://worksinprogress.co/issue/how-the-uk-learned-and-unlearned-nuclear/</id>
+        <link href="https://worksinprogress.co/issue/how-the-uk-learned-and-unlearned-nuclear/"/>
+        <updated>2026-04-22T14:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Britain gave an elite group of engineers sweeping power and massive resources to deliver a nuclear power revolution. But their nuclear dreams crumbled.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -10646,6 +10901,16 @@ The post Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Natu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Australia really stopped the boats]]></title>
+        <id>https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/</id>
+        <link href="https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/"/>
+        <updated>2026-04-17T12:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Many countries want to copy Australia’s immigration rules. But its most-copied border policy is not the one that worked.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I’d Love to Pass Through the Strait of Hormuz, but No Worries If Not]]></title>
         <id>https://www.mcsweeneys.net/articles/id-love-to-pass-through-the-strait-of-hormuz-but-no-worries-if-not</id>
         <link href="https://www.mcsweeneys.net/articles/id-love-to-pass-through-the-strait-of-hormuz-but-no-worries-if-not"/>
@@ -11281,6 +11546,16 @@ I was no newbie to hitchhiking. Since high school, I had hitched rides across th
         <summary type="html"><![CDATA[“This is the Strait of Hormuz in the data economy. If you want to make a change, this is where you cut it off. Anything short of that is theatrical political posture.”]]></summary>
         <author>
             <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’re freezing our eggs; maybe you should too]]></title>
+        <id>https://worksinprogress.co/issue/were-freezing-our-eggs-maybe-you-should-too/</id>
+        <link href="https://worksinprogress.co/issue/were-freezing-our-eggs-maybe-you-should-too/"/>
+        <updated>2026-04-14T13:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Science has largely solved the problem of reproductive ageing for women, but they have to prepare while they’re young.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -12459,6 +12734,16 @@ But no one should celebrate just yet. We said there is more to it, and voluntary
         <summary type="html"><![CDATA[The iconic 1980s musical won seven Tony Awards and ran on Broadway for decades.]]></summary>
         <author>
             <name>Local sponsor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Japan has such good railways]]></title>
+        <id>https://worksinprogress.co/issue/why-japan-has-such-good-railways/</id>
+        <link href="https://worksinprogress.co/issue/why-japan-has-such-good-railways/"/>
+        <updated>2026-04-07T14:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan’s railways are the finest in the world. Other countries can copy its formula.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
         </author>
     </entry>
     <entry>
