@@ -6542,26 +6542,6 @@
           "wordCount": 7947,
           "title": "Around Berkeley: Sail free on Sunday, Easter egg hunts; ‘Freaky Tales’ cast at La Peña",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/TomLarryGilman-1600x1198-1.webp?fit=780%2C584&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554630",
-          "author": "Nico Savidge",
-          "description": "Four council members have signed onto a proposal for the city to repave Hopkins without the bike lane that sparked an uproar years ago, effectively killing the project for the foreseeable future.",
-          "link": "https://www.berkeleyside.org/2026/04/01/hopkins-street-bike-lane-paving",
-          "publishedOn": "2026-04-01T21:58:14.000Z",
-          "wordCount": 9360,
-          "title": "The Hopkins Street battle is back: Berkeley reopens ‘toxic’ debate over bike lane",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/20260312_BikeProtest-_EG_017.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554616",
-          "author": "Cecilia Seiter",
-          "description": "More restaurants are pivoting to a fast-casual model to survive — and thrive — in an era of skyrocketing food, fuel and labor costs.",
-          "link": "https://www.berkeleyside.org/2026/04/01/lulus-ace-daytrip-counter-service-restaurant-conversion",
-          "publishedOn": "2026-04-01T21:17:04.000Z",
-          "wordCount": 9360,
-          "title": "‘Less crying in the walk-in’: East Bay restaurants switch to counter service to survive",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_NOSH_LULUSKITCHEN-CounterService_260325_010.jpg"
         }
       ]
     },
@@ -9774,6 +9754,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/democrats-need-to-win-back-voters-by-becoming-republicans",
+          "author": "Ginny Hogan and Carlos Greaves",
+          "description": "The following is an excerpt from our upcoming book, Obey In Advance: How to Survive and Thrive Under Authoritarianism by longtime McSweeney’s writer Ginny Hogan and McSweeney’s resident satirist Carlos Greaves. From how to stick your head in the sand to avoid thinking about your dictator, to the most effective ways to reeducate the masses, this hilarious (and oddly reassuring?) guide has you covered—whether you want to Make Authoritarianism Great Again or not.\n - - -\nDemocrats Need to Win Back Voters by Becoming Republicans\n “Sen. John Fetterman (D-Pa.) is offering a warning about the rise of a ‘dirtbag left’ within the Democratic Party, a reference to candidates on the left who have run and won primaries while identifying themselves as democratic socialists.” — The Hill\n - - -\nThe Democra…",
+          "link": "https://www.mcsweeneys.net/articles/democrats-need-to-win-back-voters-by-becoming-republicans",
+          "publishedOn": "2026-06-30T11:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Democrats Need to Win Back Voters by Becoming Republicans",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/m1qsubuk371z0ud1ckzbxgztkwuz"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/how-to-hustle-like-a-tech-founder",
           "author": "Andrew Patrick Clark",
           "description": "Mind on the Grind\n Founders know how to grind. Grind on the job. Grind at the gym. Grind your spices in an authentic molcajete. Grind your own meat for a perfect blend of Chuck, Skirt, and Sirloin. Grind your teeth as you lie in bed at night. When your dentist gives you a retainer to protect your teeth, grind right through it to prove your hustle.\n Hit the Ground Running\n You can’t hustle alone. Move to a city where founders thrive and get to work. Head to Miami if you want to scam people with crypto, or San Francisco if you want to scam people with AI. If you’re scamming people the old-fashioned way, stick with New York.\n Optimize Everything\n Set yourself up for success with an efficient morning routine. Wake up and go for a jog, followed by light yoga and meditation. Hit the sauna, then …",
@@ -11430,6 +11420,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112175 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: I live in the UK, and we have age verification now on a bunch of websites (including Reddit) and now on iPhones. Can you explain what sort of data companies are actually collecting when they check for age and whether there are any real threats to my safety? \nEFF’s Answer: Age verification is a process where a website or service checks your age to determine whether a user is over a certain age, in the UK this age is 18. \nAs of July 2025, all platforms in the UK that host content considered by the UK government and the country’s telecommunications regulator Ofcom to be harmful are legally obligated to check that their users are over the age of 18. If not, users cannot access t…",
+          "link": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age",
+          "publishedOn": "2026-06-30T08:08:47.000Z",
+          "wordCount": 2492,
+          "title": "LGBT Q&A: What Data Are Companies in the UK Collecting When Verifying My Age?",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/pride-banner.jpg",
+            "alt": "EFF&#039;s LGBT Q&amp;A, cat in a spacesuit surrounded by planets with pride flag colors",
+            "type": "image/jpeg",
+            "length": "169538"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/pride-banner.jpg"
+        },
         {
           "id": "112174 at https://www.eff.org",
           "author": "Hayley Tsukayama",
