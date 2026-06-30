@@ -653,6 +653,56 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a4405a479d2b20001b5fccb",
+          "author": "Samantha Cole",
+          "description": "Meta's new Starfire AI glasses, made in partnership with Kylie Jenner, are giving me the creeps.",
+          "link": "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
+          "publishedOn": "2026-06-30T18:19:17.000Z",
+          "wordCount": 2232,
+          "title": "I Have Thoughts About That Kylie Jenner Meta Glasses Ad",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/Screenshot-2026-06-30-at-2.12.33---PM.png"
+        },
+        {
+          "id": "6a43e21079d2b20001b5f23d",
+          "author": "Matthew Gault",
+          "description": "Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.",
+          "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+          "publishedOn": "2026-06-30T15:49:10.000Z",
+          "wordCount": 1639,
+          "title": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg"
+        },
+        {
+          "id": "6a43c32179d2b20001b5d6b8",
+          "author": "Emanuel Maiberg",
+          "description": "Ebay, Amazon, and Etsy are unable to stop the flood of AI-generated seed scams.",
+          "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+          "publishedOn": "2026-06-30T13:48:27.000Z",
+          "wordCount": 1800,
+          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don’t Exist",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/81Yo6iR0o7L._AC_SL1500_.jpg"
+        },
+        {
+          "id": "6a43c2c979d2b20001b5d64d",
+          "author": "Joseph Cox",
+          "description": "A senior OpenAI employee has contributed code to the project, simply called 'caveman.'",
+          "link": "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
+          "publishedOn": "2026-06-30T13:33:16.000Z",
+          "wordCount": 1111,
+          "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/Copy-of-Screenshot-as-Lede-Image-28-1.png"
+        },
+        {
+          "id": "6a3a5f767acb2d00011a3303",
+          "author": "Jason Koebler",
+          "description": "My journey inside the world of LARPing, where hustlebros pretend to be rich for TikTok.",
+          "link": "https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/",
+          "publishedOn": "2026-06-30T13:01:06.000Z",
+          "wordCount": 3614,
+          "title": "How I Bought a Private Jet By Selling $10 Subscriptions to 404 Media",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-23-at-03.29.52@2x.png"
+        },
+        {
           "id": "6a42c4013343140001e10b2f",
           "author": "Matthew Gault",
           "description": "Spotify competitor Tidal built a reputation by collaborating with musicians and focusing on audio quality. How will it handle the era of AI-generated slop?",
@@ -2973,6 +3023,16 @@
         {
           "id": "https://magazine.atavist.com/?p=53957",
           "author": "Alex Ronan",
+          "description": "The Kerrs were devoted to one another and to their faith. But when one of their own rejected modern medicine in the name of God, they faced a dire question: What if her children ever needed a doctor to save their lives?\nThe post The Extremist in the Family appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/pilands-michigan-child-death",
+          "publishedOn": "2026-06-26T16:19:01.000Z",
+          "wordCount": 17160,
+          "title": "The Extremist in the Family",
+          "imageUrl": "https://magazine.atavist.com/wp-content/uploads/2026/06/KerrFamily_RMorton-123-scaled.jpg"
+        },
+        {
+          "id": "https://magazine.atavist.com/?p=53957",
+          "author": "Alex Ronan",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Extremist in the Family appeared first on The Atavist Magazine.",
           "link": "https://magazine.atavist.com/2026/piland-child-abuse",
           "publishedOn": "2026-06-26T16:19:01.000Z",
@@ -3432,6 +3492,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online",
+          "author": "Renée DiResta",
+          "description": "The post We Need A Way To Prove Personhood Online appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online",
+          "publishedOn": "2026-06-30T16:03:15.000Z",
+          "wordCount": 12498,
+          "title": "We Need A Way To Prove Personhood Online",
+          "imageUrl": "https://noemamag.imgix.net/2026/06/Personhood-Online-Card-Option-C.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=5a0403f2a64cdbb7b58b778ca2270c26"
+        },
+        {
           "id": "https://www.noemamag.com/how-ai-will-change-us",
           "author": "Houda Nait El Barj",
           "description": "The post How AI Will Change Us appeared first on NOEMA.",
@@ -3798,6 +3868,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558964",
+          "author": "Local sponsor",
+          "description": "With help from Bayer and others, the nonprofit will soon move into its own kitchen.",
+          "link": "https://www.berkeleyside.org/2026/06/30/dandelion-kitchen-turns-rescued-food-into-meals-for-people-in-need",
+          "publishedOn": "2026-06-30T17:49:30.000Z",
+          "wordCount": 8103,
+          "title": "Dandelion Kitchen turns rescued food into meals for people in need",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Dand-Kit-male-cook.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=557097",
+          "author": "Joanne Furio",
+          "description": "With city restrictions soon to expire on income and sale price after 30 years, residents of a 14-unit communal living group in Poet’s Corner wonder if its founding values will survive the open market.",
+          "link": "https://www.berkeleyside.org/2026/06/30/berkeley-cohousing",
+          "publishedOn": "2026-06-30T13:58:00.000Z",
+          "wordCount": 9485,
+          "title": "Can Berkeley’s oldest cohousing community remain an all-ages idyll if residents cash out?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-Sacramento-St.-Cohousing-11.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=494549",
           "author": "Ally Markovich",
@@ -9360,6 +9450,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=75353",
+          "author": "Jessica Hylton",
+          "description": "I have been baking for 17 years and know for a fact that there are few things are more rewarding than pulling these vegan sourdough cinnamon rolls from the oven. They're pillowy soft, packed with cinnamon sugar filling, and finished with a luscious dairy-free cream cheese glaze.",
+          "link": "https://jessicainthekitchen.com/sourdough-cinnamon-rolls/",
+          "publishedOn": "2026-06-30T14:00:00.000Z",
+          "wordCount": 14522,
+          "title": "Sourdough Cinnamon Rolls",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Sourdough-Cinnamon-Rolls_08.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=75618",
           "author": "Jessica Hylton",
           "description": "These Marinated Beans are so good that I made them 3 times in one week for my family! They are low-effort, high-reward, and absolutely bursting with summer flavour! Soaked in a bright lemon-Dijon marinade with fresh herbs and aromatics, every bite is packed with mouthwatering flavour.",
@@ -9753,6 +9853,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-gen-z-sitcom",
+          "author": "Teddy Wayne",
+          "description": "INT. LIVING ROOM – NIGHT\n We are in a hip neighborhood that is like Williamsburg circa 2003. The roommates are a “three-person couple polycule,” although in this case, there is no polyamory, because young people these days never have sex.\n TONY enters on his skateboard. He has “’tis” (slang for “magnetism”).\n TONY: Hey, “chosen fam.” Have you seen the video that went viral today on TikTok.com?\n SAM (ambiguous gender) crochets. NAOMI (ambiguous ethnicity) wears virtual reality glasses to “doomsday scroll.”\n SAM: No, because I am not “extremely World Wide Web–logged on” like you two.\n Tony boots up his Gateway desktop computer and surfs the ’net to show them.\n NAOMI: That is so “afire”!\n TONY: I made it with computer software I programmed myself that I am now selling in “The Apple Applicatio…",
+          "link": "https://www.mcsweeneys.net/articles/my-gen-z-sitcom",
+          "publishedOn": "2026-06-30T16:43:00.000Z",
+          "wordCount": 2541,
+          "title": "My Gen-Z Sitcom",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/r8cntmhs59f2k4xrxswv8td5cjy9"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/democrats-need-to-win-back-voters-by-becoming-republicans",
           "author": "Ginny Hogan and Carlos Greaves",
