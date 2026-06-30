@@ -663,6 +663,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a42c4013343140001e10b2f",
+          "author": "Matthew Gault",
+          "description": "Spotify competitor Tidal built a reputation by collaborating with musicians and focusing on audio quality. How will it handle the era of AI-generated slop?",
+          "link": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
+          "publishedOn": "2026-06-29T19:33:49.000Z",
+          "wordCount": 1558,
+          "title": "Tidal Says It Won’t Pay Royalties for AI-Generated Music",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/pexels-adanvdo-42038771-8852269.jpg"
+        },
+        {
           "id": "6a426fa35476f60001eabf75",
           "author": "Jason Koebler",
           "description": "Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.",
@@ -3838,6 +3848,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=476100",
+          "author": "Esther Kaplan",
+          "description": "Seven activists, all with Berkeley ties, blocked the span in 2024, protesting genocide in Gaza. Jurors resume deliberations Monday in the nationally watched felony trial.",
+          "link": "https://www.berkeleyside.org/2026/06/29/golden-gate-bridge-protest-gaza-a15-felony-trial-san-francisco",
+          "publishedOn": "2026-06-29T22:21:21.000Z",
+          "wordCount": 10230,
+          "title": "Will a jury send the Golden Gate Bridge protesters away for 15 years?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-A15-Golden-Gate-Bridge-protest-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559172",
+          "author": "Felicia Mello",
+          "description": "University of California leaders and scientists had supported the bill, which they called critical to securing the future of science in the state.",
+          "link": "https://www.berkeleyside.org/2026/06/29/12b-science-bond-to-offset-trump-research-cuts-misses-california-ballot-deadline",
+          "publishedOn": "2026-06-29T21:19:43.000Z",
+          "wordCount": 7912,
+          "title": "$12B science bond to offset Trump research cuts misses California ballot deadline",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-science-saves-lives_2026_01_26_FG23699.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559152",
+          "author": "Tovin Lapan",
+          "description": "Masala y Maiz, a Mexico City restaurant whose founders met in Oakland, is championing a worldwide pay-what-you-can day on Aug. 26. with more than 75 participants.",
+          "link": "https://www.berkeleyside.org/2026/06/29/pay-what-you-can-day-restaurants-bombera-reems-understory-sfizio",
+          "publishedOn": "2026-06-29T19:16:33.000Z",
+          "wordCount": 8466,
+          "title": "Global ‘pay-what-you-can’ restaurant day has Oakland roots",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/1_Norma-Listman-and-Saqib-Keval_Photo-Credit-Ana-Lorenzana-crop.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559109",
           "author": "Kevin Freking",
@@ -11442,16 +11482,6 @@
           "wordCount": 2775,
           "title": "An Oral History of the US Government’s Attempts to Fake the 1969 Moon Landing",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/054c0yfdbh4i56x17lpy5psn3hsc"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/matzahs-daily-affirmations",
-          "author": "Sarah Garfinkel",
-          "description": "I am proud of how far I’ve come. I started as a Passover food, but now grocery stores display me for all Jewish holidays, even the ones where people fast all day.\n I am allowed to feel salty. I am allowed to feel bitter, especially when I’m dipped in horseradish. I am allowed to feel gluten-free, though that is less about feelings and more about allergens.\n I am enough just as I am. I have to be—for eight days and nights, I’m the only option.\n I attract good things in life, like butter, peanut butter, and cream cheese. Yes, I also attract bitter herbs and saltwater, but I choose to focus on the butter and schmear.\n I am important both in the Passover story and as one of the top three ingredients in chocolate caramel matzah.\n I am beautiful just as I am. “What’s with that giant cracker?” so…",
-          "link": "https://www.mcsweeneys.net/articles/matzahs-daily-affirmations",
-          "publishedOn": "2026-04-01T12:00:00.000Z",
-          "wordCount": 2363,
-          "title": "Matzah’s Daily Affirmations",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ghvghm6zzfw7ulum72af0oysk2wj"
         }
       ]
     },
@@ -13811,6 +13841,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/on-the-origin-of-continents/",
+          "author": null,
+          "description": "Continental drift is as fundamental to geology as natural selection is to biology. Why did it take us hundreds of years to discover it?",
+          "link": "https://worksinprogress.co/issue/on-the-origin-of-continents/",
+          "publishedOn": "2026-06-29T21:01:55.000Z",
+          "wordCount": 3657,
+          "title": "On the origin of continents",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/06/geologys-theory-of-everything.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
           "author": null,
