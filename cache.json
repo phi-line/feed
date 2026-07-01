@@ -526,6 +526,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+          "author": null,
+          "description": "Everyone knows RCTs are the gold standard of evidence. ….Right?",
+          "link": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+          "publishedOn": "2026-06-30T00:00:00.000Z",
+          "wordCount": 5372,
+          "title": "In Praise of Observational Evidence",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/in-praise-of-observational-evidence/a697a19981-1782768020/rcts-lennart-finke-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/the-doomers-are-all-right",
           "author": null,
           "description": "What is it like to live in a world you believe is about to end?",
@@ -3869,6 +3879,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=559242",
+          "author": "Daniel Ekonde",
+          "description": "The Lawrence Hall of Science, the UC Botanical Garden and the Tilden Steam Train will also be closed. Fireworks remain banned in Berkeley, Oakland and in East Bay parks.",
+          "link": "https://www.berkeleyside.org/2026/06/30/berkeley-road-closures-independence-day-july-4",
+          "publishedOn": "2026-06-30T20:36:39.000Z",
+          "wordCount": 7239,
+          "title": "Berkeley will close streets in the hills on the Fourth of July to reduce fire risk",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-July-3rd-city-of-Richmond-.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=476164",
+          "author": "Jose Fermoso",
+          "description": "Prices are going up for AC Transit fares. Again.",
+          "link": "https://www.berkeleyside.org/2026/06/30/ac-transit-cost-goes-up-july-1",
+          "publishedOn": "2026-06-30T19:35:21.000Z",
+          "wordCount": 7428,
+          "title": "AC Transit fares go up on Wednesday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-BRT-Bus-Rapid-Transit_20220124_9269-1-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559232",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/06/30/el-barrio-mile-limit-jjamppong-zizon",
+          "publishedOn": "2026-06-30T19:19:25.000Z",
+          "wordCount": 7277,
+          "title": "Mile Limit evolves into wine bar, downtown Berkeley has a new açaí option, and a popular South Korean noodle chain lands in the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/MileLimit-winedisplay.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=558964",
           "author": "Local sponsor",
           "description": "With help from Bayer and others, the nonprofit will soon move into its own kitchen.",
@@ -7203,16 +7243,6 @@
           "publishedOn": "2026-04-07T09:00:59.000Z",
           "wordCount": null,
           "title": "Aterciopelados: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lBuHH7WE4yE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lBuHH7WE4yE",
-          "publishedOn": "2026-04-02T09:00:53.000Z",
-          "wordCount": null,
-          "title": "Bush: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11512,16 +11542,6 @@
           "wordCount": 1922,
           "title": "The Dangers of Sculpting",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/drdm5uvy68lz549k7m55ofnol7q0"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/i-am-the-instagram-algorithm-here-to-explain-why-i-am-showing-you-photos-of-connor-storrie-instead-of-your-best-friend-from-college",
-          "author": "Frederic Kerry",
-          "description": "Well, my first question is: Why do you care so much about Steve Kim? He was your college roommate? Who cares? When was the last time Steve Kim acted in an era-defining hockey romance that centers queer desire within a relentlessly heteronormative sports milieu, thereby demanding its protagonists urgently ask, maybe for the first time in their lives, what sorts of risks they are willing to take to love themselves fully and love others unguardedly when the cultural and political and economic expectation is to bury those parts of themselves that are the most pleasurable, tender, giving, and vital?\n Because I can’t remember a single damn time Steve Kim was in a small-budget Canadian show like that.\n Way too many rumors flying around about my origins, honestly. So let me reiterate: No, I was no…",
-          "link": "https://www.mcsweeneys.net/articles/i-am-the-instagram-algorithm-here-to-explain-why-i-am-showing-you-photos-of-connor-storrie-instead-of-your-best-friend-from-college",
-          "publishedOn": "2026-04-02T11:45:00.000Z",
-          "wordCount": 2568,
-          "title": "I am the Instagram Algorithm, Here to Explain Why I Am Showing You Photos of Connor Storrie Instead of Your Best Friend from College",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/fwi39sb1q2ttdvyvkvvpw5ou02r7"
         }
       ]
     },
@@ -13841,38 +13861,6 @@
             "length": "18895"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/np-logo-banner.png"
-        },
-        {
-          "id": "111891 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "Governments around the world are adopting new laws and policies aimed at addressing online harms, including laws intended to curb cybercrime and disinformation, and ostensibly protect user safety. While these efforts are often framed as necessary responses to legitimate concerns, they are increasingly being used in ways that restrict fundamental rights.\nIn a recent submission to the United Nations Office of the High Commissioner for Human Rights, we highlighted how these evolving regulatory approaches are affecting human rights defenders (HRDs) and the broader digital environment in which they operate.\nThreats to Human Rights Defenders\nAcross multiple regions, cybercrime and national security laws are being applied to prosecute lawful expression, restrict access to information, and expand …",
-          "link": "https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age",
-          "publishedOn": "2026-04-02T11:29:13.000Z",
-          "wordCount": 1727,
-          "title": "EFF’s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/eff-work-icons_0.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "17901"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/eff-work-icons_0.png"
-        },
-        {
-          "id": "111859 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "Interviewer: Jillian York\nJacob Mchangama is a Danish lawyer, human-rights advocate, and public commentator. He is the founder and director of Justitia, a Copenhagen-based think tank focusing on human rights, freedom of speech, and the rule of law. His new book with Jeff Kosseff, The Future of Free Speech: Reversing the Global Decline of Democracy's Most Essential Freedom, comes out on April 7th.\nJillian York: Welcome, Jacob. I'm just going to kick off with a question that I ask everyone, which is: what does free speech mean to you?\nJacob Mchangama: I like to use the definition that Spinoza, the famous Dutch renegade philosopher, used. He said something along the lines, and I'm paraphrasing here, that free speech is the right of everyone to think what they want and say what they think, or …",
-          "link": "https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama",
-          "publishedOn": "2026-04-02T09:17:24.000Z",
-          "wordCount": 5428,
-          "title": "Speaking Freely: Jacob Mchangama",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/speaking-freely-jacob-blog.png",
-            "alt": "Jacob Mchangama",
-            "type": "image/png",
-            "length": "202132"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/speaking-freely-jacob-blog.png"
         }
       ]
     },
