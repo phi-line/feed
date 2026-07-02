@@ -511,16 +511,6 @@
           "wordCount": 5113,
           "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Dirt-race-cr-Max-Levy-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=160668",
-          "author": "Charlie Wood",
-          "description": "Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            \nThe post New Advances Bring the Era of Quantum Computers Closer Than Ever first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
-          "publishedOn": "2026-04-03T15:19:16.000Z",
-          "wordCount": 3818,
-          "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/BreakingNewsQuantumComputing-crKristinaArmitage-Social.jpg"
         }
       ]
     },
@@ -2601,16 +2591,6 @@
           "wordCount": 2149,
           "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
           "imageUrl": "https://www.404media.co/content/images/2026/04/image1-1.jpg"
-        },
-        {
-          "id": "69cfdd09b054bc0001f5f4bb",
-          "author": "Joseph Cox",
-          "description": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
-          "link": "https://www.404media.co/behind-the-blog-systems-as-designed/",
-          "publishedOn": "2026-04-03T16:55:57.000Z",
-          "wordCount": 1084,
-          "title": "Behind the Blog: Systems As Designed",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/nl4.3.png"
         }
       ]
     },
@@ -3119,6 +3099,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3266/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3266/",
+          "publishedOn": "2026-07-01T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Holes",
+          "imageUrl": "https://imgs.xkcd.com/comics/holes_2x.png"
+        },
         {
           "id": "https://xkcd.com/3265/",
           "author": null,
@@ -3882,16 +3872,6 @@
           "wordCount": 57160,
           "title": "The Eradication Of Grief",
           "imageUrl": "https://noemamag.imgix.net/2026/04/IMG_0968-scaled.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C1490%2C2044%2C1069&w=1200&wpsize=noema-social-facebook&s=c366f1605f1050b2e4c4c7b5bc19f58f"
-        },
-        {
-          "id": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
-          "author": "Nathan Gardels",
-          "description": "The post Iran Could Become Like Egypt, Myanmar or Pakistan appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
-          "publishedOn": "2026-04-03T16:50:25.000Z",
-          "wordCount": 2609,
-          "title": "Iran Could Become Like Egypt, Myanmar or Pakistan",
-          "imageUrl": "https://noemamag.imgix.net/2026/04/2.arabian-world.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C690%2C947%2C495&w=1200&wpsize=noema-social-facebook&s=d25adf20be1f3e8f60e24249521b3aa3"
         }
       ]
     },
@@ -6654,26 +6634,6 @@
           "wordCount": 7157,
           "title": "Remembering Carol Harte, first social worker at Alta Bates Hospital",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Carol-Harte.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554775",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/04/03/trumer-pils-sold-firestone-closing",
-          "publishedOn": "2026-04-03T19:00:00.000Z",
-          "wordCount": 6895,
-          "title": "Trumer’s U.S. operation sold, departing Berkeley after 22 years",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/TrumerTaproom-Exterior.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554739",
-          "author": "Alex N. Gecan",
-          "description": "In a rare win for the civilian police oversight board, City Attorney Farimah Brown said the City Council — which approved the use-of-force policy in 2020 — needs to sign off on changes.",
-          "link": "https://www.berkeleyside.org/2026/04/03/bpd-use-of-force-policy-update-pab-city-council",
-          "publishedOn": "2026-04-03T14:00:00.000Z",
-          "wordCount": 8762,
-          "title": "Berkeley police tried to loosen use-of-force rules. The city’s top lawyer said not so fast",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Police-Accountability-Board-Mtg.-07.jpg"
         }
       ]
     },
@@ -6935,6 +6895,21 @@
       "feedUrl": "https://aethermug.com/rss.xml",
       "siteUrl": "https://aethermug.com/",
       "articles": [
+        {
+          "id": "https://aethermug.com/posts/the-bestiary-grows",
+          "author": null,
+          "description": "Control, meaning, purpose, goals, recursion, and Water Lilies join the catalog",
+          "link": "https://aethermug.com/posts/the-bestiary-grows?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-07-02T06:35:12.000Z",
+          "wordCount": 1258,
+          "title": "The Bestiary Grows",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/the-bestiary-grows/pv_bestiary.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/the-bestiary-grows/pv_bestiary.jpg"
+        },
         {
           "id": "https://aethermug.com/posts/aat",
           "author": null,
@@ -9860,16 +9835,6 @@
           "wordCount": 9583,
           "title": "Garlic Noodles",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Vegan-Garlic-Noodles-14.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=73965",
-          "author": "Jessica from Jessica in the Kitchen",
-          "description": "Bright, chewy, and crackly on the top, these lemon crinkle cookies are like sunshine in the form of a cookie! They’ve got the perfect balance of sweet and tangy, and my version is made without the butter and eggs. If you love lemon desserts as much as I do—hello vegan lemon loaf and lemon bars!—these […]",
-          "link": "https://jessicainthekitchen.com/lemon-crinkle-cookies/",
-          "publishedOn": "2026-04-03T14:00:00.000Z",
-          "wordCount": 9434,
-          "title": "Lemon Crinkle Cookies",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/03/Lemon-Crinkle-Cookies_17.jpg"
         }
       ]
     },
@@ -11534,26 +11499,6 @@
           "wordCount": 2446,
           "title": "What’s Happened to the Party of Lincoln?",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/wqp0htztbze1ygx5n9873syxs4eg"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/i-still-believe-in-the-inherent-goodness-of-humankind-and-the-literal-existence-of-the-easter-bunny",
-          "author": "John Danek",
-          "description": "Wherever I look, my gaze can find something horrific on which to focus. Whether it be news of atrocities committed by our fascist-leaning governments, obvious acceleration towards environmental collapse, or the Criterion Collection’s glaring omission of the Jackass series, heinous evils are all around us.\n Yet, despite it all, I still believe in the unassailable goodness of humanity.\n I also believe that the Easter Bunny is a real, tangible creature capable of wielding magic and producing plastic eggs filled with individually wrapped candies.\n Throughout human history, righteousness inevitably triumphs over evil. Yes, sometimes the darkness becomes so strong and oppressive that we forget what the light is like. And that darkness can last for so long that people live entire lives in its gri…",
-          "link": "https://www.mcsweeneys.net/articles/i-still-believe-in-the-inherent-goodness-of-humankind-and-the-literal-existence-of-the-easter-bunny",
-          "publishedOn": "2026-04-03T17:00:00.000Z",
-          "wordCount": 2571,
-          "title": "I Still Believe in the Inherent Goodness of Humankind, and the Literal Existence of the Easter Bunny",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/q9tdh5t98dpmaxgniitww61czt79"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-usa-ultimate-masters-championships",
-          "author": "Will McGrath",
-          "description": "- - -\nFEATURES:\n  \nMiddle-aged athletes\n Scoobers\n Coke Slurpees\n The unknowable future\n  \n- - -\nIn July of 2025, I flew out to Aurora, Colorado, with my wife and some friends to see if we were still the best forty-something ultimate frisbee players in the United States of America. We’d been training for months, and for decades. A gold medal from 2024 hung in my closet in Minneapolis, gave a muted clink when I reached for my khakis, but in the meantime, a whole other crop of mid-forties motherfuckers had sprung up or aged into the grand masters division. They wanted to snatch our gold.\n I should clarify some things before I tell you what happened at the USA Ultimate Masters Championships—the national tournament for old heads—because I assume the casual reader is not familiar with the inner…",
-          "link": "https://www.mcsweeneys.net/articles/the-usa-ultimate-masters-championships",
-          "publishedOn": "2026-04-03T13:00:00.000Z",
-          "wordCount": 3301,
-          "title": "Excerpts from The Believer: The USA Ultimate Masters Championships",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qeiu28l9boh44a82etpld9af9835"
         }
       ]
     },
@@ -13697,38 +13642,6 @@
             "length": "8448"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/drone-banner_0.png"
-        },
-        {
-          "id": "111912 at https://www.eff.org",
-          "author": "Corynne McSherry",
-          "description": "While the very public fight continues between the Department of Defense and Anthropic over whether the government can punish a company for refusing to allow its technology to be used for mass surveillance, another branch of the U.S. government is quietly working to ensure that this dispute will never happen again. How? By rewriting government procurement rules.\nUsing procurement — meaning, the processes by which governments acquire goods and services — to accomplish policy goals is a time-honored and often appropriate strategy. The government literally expresses its politics and priorities by deciding where and how it spends its money. To that end, governments can and should give our tax dollars to companies and projects that serve the public interest, such as open-source software developm…",
-          "link": "https://www.eff.org/deeplinks/2026/04/tech-nonprofits-feds-dont-weaponize-procurement-undermine-ai-trust-and-safety",
-          "publishedOn": "2026-04-03T17:37:01.000Z",
-          "wordCount": 1718,
-          "title": "Tech Nonprofits to Feds: Don’t Weaponize Procurement to Undermine AI Trust and Safety",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
-            "alt": "robot doing brain surgery on itself",
-            "type": "image/jpeg",
-            "length": "673377"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg"
-        },
-        {
-          "id": "111908 at https://www.eff.org",
-          "author": "Aaron Jue",
-          "description": "You’re invited on a journey inside the privacy battles that shaped the internet. EFF’s Executive Director Cindy Cohn has tangled with the feds, fought for your data security, and argued before judges to protect our access to science and knowledge on the internet.\nJoin Cindy at two events in Washingtion, D.C. on April 13 and 14 discussing her new book: Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, on sale now. All proceeds from the book benefit EFF. Find the full event details below, and RSVP to let us know if you can make it.\nApril 13 - With Gigi Sohn at Busboys & Poets\nJoin American Association of Public Broadband (AAPB) Executive Director Gigi Sohn, in conversation with EFF Executive Director Cindy Cohn for a discussion about Cindy's work, her new book, and what …",
-          "link": "https://www.eff.org/deeplinks/2026/04/double-shot-privacys-defender-dc",
-          "publishedOn": "2026-04-03T15:58:34.000Z",
-          "wordCount": 940,
-          "title": "Double Shot of Privacy's Defender in D.C.",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg",
-            "alt": "Cindy Cohn wearing a t-shirt that says Let&#039;s Sue the Government",
-            "type": "image/jpeg",
-            "length": "277809"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/letssuethegovernment-banner-photocredit-scottrkline1200.jpg"
         }
       ]
     },
