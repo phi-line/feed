@@ -673,6 +673,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a46b1cb13809c0001f23451",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss the Supreme Court, the private jet, and AI on the TV.",
+          "link": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
+          "publishedOn": "2026-07-03T10:00:02.000Z",
+          "wordCount": 1151,
+          "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/nl7.3-1.png"
+        },
+        {
           "id": "6a456d6a79d2b20001b8d547",
           "author": "Joseph Cox",
           "description": "Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.",
@@ -9930,6 +9940,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/usa-we-go-together-like",
+          "author": "Tucker Nichols",
+          "description": "- - -\nTucker Nichols’s latest book, “Mostly Everything: The Art of Tucker Nichols” is available in our store.",
+          "link": "https://www.mcsweeneys.net/articles/usa-we-go-together-like",
+          "publishedOn": "2026-07-03T12:00:00.000Z",
+          "wordCount": 2095,
+          "title": "USA:  We Go Together Like…",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sfelq9kewmt0711ofa39fdif581q"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/survival-tips-for-anyone-currently-being-hunted-by-joey-chestnut",
           "author": "Tyler Gooch",

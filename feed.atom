@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-03T09:14:20.233Z</updated>
+    <updated>2026-07-03T13:58:38.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USA:  We Go Together Like…]]></title>
+        <id>https://www.mcsweeneys.net/articles/usa-we-go-together-like</id>
+        <link href="https://www.mcsweeneys.net/articles/usa-we-go-together-like"/>
+        <updated>2026-07-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- - -
+Tucker Nichols’s latest book, “Mostly Everything: The Art of Tucker Nichols” is available in our store.]]></summary>
+        <author>
+            <name>Tucker Nichols</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: With Blogs Like These, Who Needs a Private Jet]]></title>
+        <id>6a46b1cb13809c0001f23451</id>
+        <link href="https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/"/>
+        <updated>2026-07-03T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[This week, we discuss the Supreme Court, the private jet, and AI on the TV.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BUSD balanced its budget, but deficits remain in the forecast]]></title>
         <id>https://www.berkeleyside.org/?p=559433</id>
