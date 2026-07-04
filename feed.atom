@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-04T02:42:20.523Z</updated>
+    <updated>2026-07-04T08:33:35.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegetarian recipe for Beijing-style courgette pancakes with hot honey cucumbers | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha"/>
+        <updated>2026-07-04T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[A spicy, umami-rich salad provides sweetness and crunch alongside these simple Chinese-style courgette pancakes
+This week marks nine years since I started writing this column, and here’s something I’m excited by: that we’ve only just scratched the surface when it comes to our collective knowledge about Asian cuisine. When it comes to Chinese food, for example, we might know a fair bit about, for example, Cantonese or Sichuan food, but what about Fujian or Hunanese? There are still so many riches to discover and excellent meals to be had. Today’s offering is a small token in that vein: a simple vegetable pancake made with courgette, known as hutazi and straight from the homes of Beijing. I’ve taken the liberty of embellishing it with some hot and sweet cucumbers.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USA:  We Go Together Like…]]></title>
         <id>https://www.mcsweeneys.net/articles/usa-we-go-together-like</id>
@@ -25,6 +37,15 @@ Tucker Nichols’s latest book, “Mostly Everything: The Art of Tucker Nichols�
         <summary type="html"><![CDATA[This week, we discuss the Supreme Court, the private jet, and AI on the TV.]]></summary>
         <author>
             <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Tornado Alert]]></title>
+        <id>https://xkcd.com/3267/</id>
+        <link href="https://xkcd.com/3267/"/>
+        <updated>2026-07-03T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

@@ -3120,6 +3120,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3267/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3267/",
+          "publishedOn": "2026-07-03T04:00:00.000Z",
+          "wordCount": 191,
+          "title": "Types of Tornado Alert",
+          "imageUrl": "https://imgs.xkcd.com/comics/types_of_tornado_alert_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3266/",
           "author": null,
           "description": "",
@@ -6838,6 +6848,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "A spicy, umami-rich salad provides sweetness and crunch alongside these simple Chinese-style courgette pancakes\nThis week marks nine years since I started writing this column, and here’s something I’m excited by: that we’ve only just scratched the surface when it comes to our collective knowledge about Asian cuisine. When it comes to Chinese food, for example, we might know a fair bit about, for example, Cantonese or Sichuan food, but what about Fujian or Hunanese? There are still so many riches to discover and excellent meals to be had. Today’s offering is a small token in that vein: a simple vegetable pancake made with courgette, known as hutazi and straight from the homes of Beijing. I’ve taken the liberty of embellishing it with some hot and sweet cucumbers.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha",
+          "publishedOn": "2026-07-04T05:00:06.000Z",
+          "wordCount": 4684,
+          "title": "Meera Sodha’s vegetarian recipe for Beijing-style courgette pancakes with hot honey cucumbers | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/a71814bf4fa27cf4cd5a272b6c5b434ed5fdf1f1/0_996_3690_2951/master/3690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ed3c2e647825a6c50413c08b9f9a25e"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/jun/27/spinach-pea-cheddar-frittata-recipe-meera-sodha",
           "author": "Meera Sodha",
