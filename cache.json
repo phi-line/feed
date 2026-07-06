@@ -663,6 +663,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a3a58f57acb2d00011a323a",
+          "author": "Jason Koebler",
+          "description": "A Florida police officer met a woman on a TV set, surveilled her for weeks, stalked her, and nearly caused a head-on collision while chasing her to pull her over.",
+          "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+          "publishedOn": "2026-07-06T10:00:54.000Z",
+          "wordCount": 2431,
+          "title": "Footage Shows Cop Stalking Woman He Met on a TV Set After Surveilling Her With a License Plate Reader",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-23-at-03.02.23@2x-1.png"
+        },
+        {
           "id": "6a480cf313809c0001f56e1f",
           "author": "Becky Ferreira",
           "description": "A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.",
@@ -2561,16 +2571,6 @@
           "wordCount": 850,
           "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/simon-ray-TICJQELFmg4-unsplash.jpg"
-        },
-        {
-          "id": "69d526cba8d4d100019fd8a1",
-          "author": "Matthew Gault",
-          "description": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
-          "link": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
-          "publishedOn": "2026-04-07T15:56:48.000Z",
-          "wordCount": 1409,
-          "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/1920px-Amazon_AWS_us-west-2_morrow_east_AZ_01-1.jpg"
         }
       ]
     },
@@ -2955,40 +2955,7 @@
       "title": "Asimov Press",
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
-      "articles": [
-        {
-          "id": "https://www.asimov.press/p/lab-notebooks",
-          "author": "Asimov Press",
-          "description": "How experimental recordings have changed, from the Renaissance through today.",
-          "link": "https://www.asimov.press/p/lab-notebooks",
-          "publishedOn": "2026-04-07T19:30:22.000Z",
-          "wordCount": null,
-          "title": "A Brief History of Lab Notebooks",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!10vo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b08274-6bb7-43fe-99fb-ec9752bad0ac_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!10vo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b08274-6bb7-43fe-99fb-ec9752bad0ac_2000x1260.jpeg"
-        },
-        {
-          "id": "https://www.asimov.press/p/bioinformatics",
-          "author": "Asimov Press",
-          "description": "How computer scientists on the fringes of biology made sense of sequencing data.",
-          "link": "https://www.asimov.press/p/bioinformatics",
-          "publishedOn": "2026-04-07T16:38:54.000Z",
-          "wordCount": null,
-          "title": "A Brief History of Bioinformatics Software",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!_r-5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F757d1458-2040-4a1f-9ee0-5c03bb47c53f_2000x1260.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_r-5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F757d1458-2040-4a1f-9ee0-5c03bb47c53f_2000x1260.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Atavist Magazine",
@@ -3825,16 +3792,6 @@
           "wordCount": 8762,
           "title": "Why A Liberal Arts Education Will Soon Be More Valuable Than Ever",
           "imageUrl": "https://noemamag.imgix.net/2026/04/blackout_no4_julesjulien-scaled.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=cd6ba90e416ec88e68cffe17b5a3e80f"
-        },
-        {
-          "id": "https://www.noemamag.com/the-eradication-of-grief",
-          "author": "Chris Insana",
-          "description": "The post The Eradication Of Grief appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-eradication-of-grief",
-          "publishedOn": "2026-04-07T16:30:20.000Z",
-          "wordCount": 57160,
-          "title": "The Eradication Of Grief",
-          "imageUrl": "https://noemamag.imgix.net/2026/04/IMG_0968-scaled.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C1490%2C2044%2C1069&w=1200&wpsize=noema-social-facebook&s=c366f1605f1050b2e4c4c7b5bc19f58f"
         }
       ]
     },
@@ -6557,46 +6514,6 @@
           "wordCount": 7521,
           "title": "Alameda County leaders oppose ICE jail in former Dublin women’s prison",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/AP25268791192812-scaled-2.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554953",
-          "author": "Paula Sibulo | KQED",
-          "description": "About 5,400 CalFresh recipients in Alameda County are at risk of losing their benefits, according to a local food bank.",
-          "link": "https://www.berkeleyside.org/2026/04/07/food-stamp-snap-cuts-big-beautiful-bill",
-          "publishedOn": "2026-04-07T21:59:27.000Z",
-          "wordCount": 7309,
-          "title": "Alameda County communities prepare for more hunger amid cuts to food stamps",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/112018_AW_AlamedaCountyFood-Bank_05_qed.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554948",
-          "author": "Berkeleyside Staff",
-          "description": "Our guests: Provost Benjamin Hermalin, law professor Chris Hoofnagle, history professor Ussama Makdisi and Daily Cal editor Ananya Rupanagunta.",
-          "link": "https://www.berkeleyside.org/2026/04/07/free-speech-academic-freedom-uc-berkeley-event-berkeleyside",
-          "publishedOn": "2026-04-07T19:03:24.000Z",
-          "wordCount": 7304,
-          "title": "What’s the state of free speech at UC Berkeley? Join Berkeleyside on April 14 to find out",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_ProPalestinianProtestCal_260318_005.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554893",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/04/07/nudi-blue-cheese-board-sodo-quebrada-opening",
-          "publishedOn": "2026-04-07T19:00:00.000Z",
-          "wordCount": 7266,
-          "title": "Tanzie’s duo open new restaurant, Cheese Board expanded and what’s come to Phở Vy’s old spot",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_240506_135_TANZIES_17.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=554623",
-          "author": "Local sponsor",
-          "description": "The iconic 1980s musical won seven Tony Awards and ran on Broadway for decades.",
-          "link": "https://www.berkeleyside.org/2026/04/07/cavorting-cats-come-to-berkeley-playhouse-may-22",
-          "publishedOn": "2026-04-07T15:30:00.000Z",
-          "wordCount": 7414,
-          "title": "Cavorting ‘Cats’ come to Berkeley Playhouse May 22",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/CATS-Berkeleyside-2.png?fit=2000%2C1498&ssl=1"
         }
       ]
     },
@@ -11422,16 +11339,6 @@
           "wordCount": 2761,
           "title": "The Shocking Truth About This President That We’ve Been Sitting on for Months Is Now Available for Preorder",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6mfzq5rr5qrca9ml57gpbmj9qtmt"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/president-nyarlathotep-is-simply-engaging-in-classic-mad-outer-god-negotiating-tactics",
-          "author": "Andrew Paul",
-          "description": "Calm down. I don’t necessarily see what all the fuss is about. In all honesty, I also read the Dread Lord Nyarlathotep’s post this morning and was surprised by it, same as you. We all know he’s the Crawling Chaos, and that title implies a certain degree of unpredictability. But even for him, his vow to “gorge on the carcass of humanity itself” unless his latest (albeit nebulous) demands are met is pretty intense. I can’t remember the last time that an elected US official said something so unconscionable and nightmarish.\n Didn’t Nixon say something similar? No? Hmm.\n Anyway. I’m not endorsing what the Dread Lord uttered in a series of cacophonous, guttural snarls and clicking noises at the press pool yesterday. I don’t think “wholesale existential negation” is a particularly effective geopo…",
-          "link": "https://www.mcsweeneys.net/articles/president-nyarlathotep-is-simply-engaging-in-classic-mad-outer-god-negotiating-tactics",
-          "publishedOn": "2026-04-07T18:00:00.000Z",
-          "wordCount": 2456,
-          "title": "President Nyarlathotep Is Simply Engaging in Classic “Mad Outer God” Negotiating Tactics",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/31ypren3wdkjz1n28m9tr165ukhu"
         }
       ]
     },
@@ -13533,38 +13440,6 @@
             "length": "1396283"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
-        },
-        {
-          "id": "111920 at https://www.eff.org",
-          "author": "Melissa Srago",
-          "description": "April 9, 2026 - 9:00am to 10:30am PDT\n\n\nApril 9, 2026 - 5:00pm to 6:30pm BST\n\n\nLondon, UK\n\n\n\nlumka (not EFF) will host this event. EFF Director for International Freedom of Expression Jillian C. York will be speaking.\nFrom the Organizers: \nThe discussion will feature Ruby Chen, Ana Luisa Cubas (Sound Surveillance Archive Researcher), Jillian C. York (Director for International Freedom of Expression), and Jake Hurfurt (Head of Research and Investigations at Big Brother Watch), to provoke horizontal communication where our community can gather to contemplate, learn, and discuss these ideas of surveillance non-compliance further.\n\nFIND OUT MORE\n\n When:\nThursday, April 9\nTime: 5:00 PM - 6:30 PM BST\nWhere:\nRefer to website\nCost:\nRefer to website\n Event Requirements:\nRefer to website\nAbout the Speaker:\nJillian C. York is EFF's Director for International Freedom of Expression and is based in London. Her work examines state and corporate censorship and its impact on culture and human rights, with a focus on historically marginalized communities. At EFF, she leads coalitions, writes about state and corporate censorship, conducts the Speaking Freely interview series, and contributes to various other areas of the organization's work. Jillian is the author of Silicon Values: The Future of Free Speech Under Surveillance Capitalism (Verso, 2021) and has written for Motherboard, MIT Technology Review, and WIRED, among others. She is a visiting professor at the College of Europe Natolin in Warsaw. She is also a regular speaker at global events.\nAbout lumka: \nA gallery exhibiting the works of artists who specialize in interdisciplinary and experimental media. Exploring site specificity and consumer/artwork relationships, LUmkA’s program emphasizes the environments we inhabit.\nThis event is organized not by EFF, but by lumka.\n\n\nCalendar",
-          "link": "https://www.eff.org/event/privacy-index-workshop",
-          "publishedOn": "2026-04-07T20:45:35.000Z",
-          "wordCount": 859,
-          "title": "Privacy Index Workshop",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/lumka_banner.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "809572"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/lumka_banner.png"
-        },
-        {
-          "id": "111919 at https://www.eff.org",
-          "author": "Christoph Schmon",
-          "description": "The EU’s so-called Chat Control plan, which would mandate mass scanning and other encryption breaking measures, has had some good news lately. The most controversial idea, the forced requirement to scan encrypted messages, was given up by EU member states. And now, another win for privacy: the EU Parliament has dealt a real blow to voluntary mass-scanning of chats by voting to not prolong an interim derogation from e-Privacy rules in the EU. These rules allowed service providers, temporarily, to scan private communication.  \nBut no one should celebrate just yet. We said there is more to it, and voluntary scanning is a key part. Unlike in the U.S., where there is no comprehensive federal privacy law, the general and indiscriminate scanning of people’s messages is not legal in the EU without…",
-          "link": "https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next",
-          "publishedOn": "2026-04-07T19:24:13.000Z",
-          "wordCount": 1647,
-          "title": "EU Parliament Blocks Mass-Scanning of Our Chats—What's Next?",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png",
-            "alt": "People communicating on devices with encryption, art by Chelsea Saunders",
-            "type": "image/png",
-            "length": "194039"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png"
         }
       ]
     },
