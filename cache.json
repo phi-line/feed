@@ -3398,16 +3398,6 @@
           "wordCount": 217,
           "title": "Lightning",
           "imageUrl": "https://imgs.xkcd.com/comics/lightning_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3230/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3230/",
-          "publishedOn": "2026-04-08T04:00:00.000Z",
-          "wordCount": 217,
-          "title": "Overton",
-          "imageUrl": "https://imgs.xkcd.com/comics/overton_2x.png"
         }
       ]
     },
@@ -3810,6 +3800,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=559475",
+          "author": "Tovin Lapan",
+          "description": "Join the Nosh team July 18 at Temescal Brewing for an afternoon of food, music, prizes and more.",
+          "link": "https://www.berkeleyside.org/2026/07/06/pop-nosh-east-bay-food-feestival-temescal-brewing",
+          "publishedOn": "2026-07-06T19:21:29.000Z",
+          "wordCount": 7369,
+          "title": "Taste the latest in East Bay cuisine at Pop Nosh 2026",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/temescal-nosh-beerweekevent.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559470",
+          "author": "Katie DeBenedetti | KQED and Juan Carlos Lara | KQED",
+          "description": "The seven pro-Palestinian protesters, all with Berkeley ties, were found guilty of multiple lesser charges after a Tax Day protest in 2024 that blocked Bay Area traffic on the bridge for hours.",
+          "link": "https://www.berkeleyside.org/2026/07/06/golden-gate-bridge-gaza-protesters-verdict",
+          "publishedOn": "2026-07-06T18:53:05.000Z",
+          "wordCount": 7617,
+          "title": "Jury deadlocks on felony charges for Golden Gate Bridge Gaza protesters",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/image-4.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559246",
           "author": "Michael Robertson",
@@ -9760,6 +9770,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/why-the-taco-bell-meal-for-two-is-the-only-economic-indicator-that-matters",
+          "author": "Mark Taylor",
+          "description": "Every year, economists gather in conference rooms to debate inflation, interest rates, and the future of the American economy. Meanwhile, I can determine the health of the entire financial system in approximately six seconds by opening the Taco Bell app.\n If the Meal for Two remains reasonably priced, prosperity endures. If the price rises dramatically, civilization is in danger. It is a system with a proven track record stretching back centuries, yet mainstream economists continue to ignore it in favor of charts, graphs, and other forms of decorative nonsense.\n My methodology is simple. I do not study GDP. I do not examine bond yields. I do not concern myself with the Consumer Price Index. Instead, I evaluate the economic stability of the United States using a single, infallible metric: t…",
+          "link": "https://www.mcsweeneys.net/articles/why-the-taco-bell-meal-for-two-is-the-only-economic-indicator-that-matters",
+          "publishedOn": "2026-07-06T17:00:00.000Z",
+          "wordCount": 3094,
+          "title": "Why the Taco Bell Meal for Two Is the Only Economic Indicator That Matters",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2ifwwsajslknu1094sutlpj62uva"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/i-dont-know-what-i-expected-at-president-nyarlathoteps-great-american-shitshow-but-color-me-disappointed",
           "author": "Andrew Paul",
