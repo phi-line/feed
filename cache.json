@@ -511,16 +511,6 @@
           "wordCount": 4688,
           "title": "Why Do We Tell Ourselves Scary Stories About AI?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Aihorrorstories_cr-Zara-PickenSocial.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=160842",
-          "author": "Charlie Wood",
-          "description": "Decades of weird experimental results appeared to support the existence of the sterile neutrino, a hypothetical particle that would solve multiple mysteries. But recent experiments have killed hope of finding these phantoms, leaving physicists to wonder what might explain their anomalies.            \nThe post Experiments Ring the ‘Death Knell’ for Sterile Neutrinos first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
-          "publishedOn": "2026-04-08T14:20:38.000Z",
-          "wordCount": 4440,
-          "title": "Experiments Ring the ‘Death Knell’ for Sterile Neutrinos",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/04/MiniBooNE-photomultiplier-tube-cr-Fermilab-Social.jpg"
         }
       ]
     },
@@ -2541,46 +2531,6 @@
           "wordCount": 1075,
           "title": "FBI Extracts Suspect’s Deleted Signal Messages Saved in iPhone Notification Database",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/appshunter-io-BuPiOZN5DOQ-unsplash.jpg"
-        },
-        {
-          "id": "69d6663fa8d4d10001a25935",
-          "author": "Joseph Cox",
-          "description": "How Florida conservation police are tapping into Flock for ICE; Wikipedia's AI ban; and how the app TeleGuard uploads users' private keys.",
-          "link": "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
-          "publishedOn": "2026-04-08T14:31:59.000Z",
-          "wordCount": 1100,
-          "title": "Podcast: Wildlife Cops Are Searching AI Cameras for ICE",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/flockflorida.png"
-        },
-        {
-          "id": "69d653cda8d4d100019ff3f0",
-          "author": "Janus Rose",
-          "description": "At a New York party, attendees spent Trans Day of Visibility dancing, DJing, and learning how to become less visible online.",
-          "link": "https://www.404media.co/trans-rights-privacy-online-cybersecurity-workshop-deadname-not-found/",
-          "publishedOn": "2026-04-08T14:18:44.000Z",
-          "wordCount": 2348,
-          "title": "A 'Self-Doxing' Rave Helps Trans People Stay Safe Online",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/cachemeoutside.png"
-        },
-        {
-          "id": "69d54340a8d4d100019fdc67",
-          "author": "Emanuel Maiberg",
-          "description": "Marathon is a great game for uncs. As signs of a crash change the video game industry, there might not be a lot of those left.",
-          "link": "https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/",
-          "publishedOn": "2026-04-08T14:08:37.000Z",
-          "wordCount": 2214,
-          "title": "I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/ss_2c6cd7296eea42d71cf6ca061adf3853393b3a13.1920x1080.jpg"
-        },
-        {
-          "id": "69d65ddea8d4d100019ff4de",
-          "author": "Joseph Cox",
-          "description": "Updates to VeraCrypt, a popular and long-running piece of encryption, are now thrown into doubt because of a seemingly unexplained Microsoft decision.",
-          "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-          "publishedOn": "2026-04-08T13:59:46.000Z",
-          "wordCount": 850,
-          "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/04/simon-ray-TICJQELFmg4-unsplash.jpg"
         }
       ]
     },
@@ -3029,6 +2979,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3268/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3268/",
+          "publishedOn": "2026-07-06T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Offside",
+          "imageUrl": "https://imgs.xkcd.com/comics/offside_2x.png"
+        },
         {
           "id": "https://xkcd.com/3267/",
           "author": null,
@@ -3800,6 +3760,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=559495",
+          "author": "James Twomey and Annie Sciacca",
+          "description": "City leaders are closing a 47-year-old lifeline a year after ending a similar non-police crisis response unit launched post-George Floyd. They’re asking Alameda County to pick up the slack without extra funding.",
+          "link": "https://www.berkeleyside.org/2026/07/06/mobile-crisis-team-berkeley-winter-shelter-closures",
+          "publishedOn": "2026-07-06T22:21:51.000Z",
+          "wordCount": 8945,
+          "title": "Berkeley slashes 2 safety net programs — a mental health crisis team and a homeless shelter",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-WhereDoWeGo-Camp-CityHall_Natera_241003_02.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559475",
           "author": "Tovin Lapan",
@@ -9771,6 +9741,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/america-kept-inviting-me-to-her-birthday-party-but-i-just-wanted-to-take-her-to-the-hospital-so-she-can-get-the-help-she-sorely-needs",
+          "author": "Audrey Farnsworth",
+          "description": "America kept on trying to get me to go to her birthday party. She does this every year, but this time it got really weird. She sent reminder after reminder, over and over again, that it was going to be her birthday soon, like, months in advance.\n “I’ve actually been celebrating for a while now, but I don’t think I’ve seen you at any of my parties?” she’d say to me, slurring her words.\n “Oh, yeah, no, sorry,” I said. “I’ve been super busy.”\n “But it’s my birthday. I’m two hundred and fifty.”\n “Happy birthday.”\n “Thanks.”\n I thought maybe that would be the end of it, but she just wouldn’t let up. And she got more and more aggressive as the day approached. Last week, she wobbled over to me, completely out of her mind, mumbling something about how the news is saying it’s almost her birthday.\n …",
+          "link": "https://www.mcsweeneys.net/articles/america-kept-inviting-me-to-her-birthday-party-but-i-just-wanted-to-take-her-to-the-hospital-so-she-can-get-the-help-she-sorely-needs",
+          "publishedOn": "2026-07-07T00:00:00.000Z",
+          "wordCount": 2808,
+          "title": "America Kept Inviting Me to Her Birthday Party, But I Just Wanted to Take Her to the Hospital So She Can Get the Help She Sorely Needs",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zok54d3z2mic18u1ux2iob1krcxx"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/why-the-taco-bell-meal-for-two-is-the-only-economic-indicator-that-matters",
           "author": "Mark Taylor",
           "description": "Every year, economists gather in conference rooms to debate inflation, interest rates, and the future of the American economy. Meanwhile, I can determine the health of the entire financial system in approximately six seconds by opening the Taco Bell app.\n If the Meal for Two remains reasonably priced, prosperity endures. If the price rises dramatically, civilization is in danger. It is a system with a proven track record stretching back centuries, yet mainstream economists continue to ignore it in favor of charts, graphs, and other forms of decorative nonsense.\n My methodology is simple. I do not study GDP. I do not examine bond yields. I do not concern myself with the Consumer Price Index. Instead, I evaluate the economic stability of the United States using a single, infallible metric: t…",
@@ -11389,26 +11369,6 @@
           "wordCount": 2519,
           "title": "Relax, We Can’t Invoke the Twenty-Fifth Amendment Every Time a President Threatens to Murder Millions of People",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/odvjtx4uofz0p41se4ohogx10lyz"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/hormbles-chormbles",
-          "author": "Ethan Loewi",
-          "description": "As a longtime gym-goer, I am the target audience for all manner of protein-packed bullshit. Protein coffee? Can’t start the day without it. Protein salsa? Pass the chips. At the height of my weightlifting fixation, there were years when the friendly snake-oil salesmen at GNC got about half of my disposable income, which I happily traded for products with names like “Dr. Humongo’s Bicep Elixir.”\n I am a world-class mark for the magic-bean vendors of the supplement industry. Ninety-nine out of one hundred people, when presented with a bottle of mysterious powder called “Gorilla Boost MAX” that claims to “supercharge your T levels,” will simply roll their eyes and walk away. I am the hundredth person. I will buy a year’s supply. And if you can pack ten grams of extra protein into a pretzel, a…",
-          "link": "https://www.mcsweeneys.net/articles/hormbles-chormbles",
-          "publishedOn": "2026-04-08T13:00:00.000Z",
-          "wordCount": 2830,
-          "title": "Reviews of New Food: Hormbles Chormbles",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dqp10p632xzbio8w0m9x8wk2ez57"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-shocking-truth-about-this-president-that-weve-been-sitting-on-for-months-is-now-available-for-preorder",
-          "author": "Jack Loftus",
-          "description": "“In a series of Situation Room meetings, President Trump weighed his instincts [about going to war with Iran] against the deep concerns of his vice president and a pessimistic intelligence assessment. Here’s the inside story of how he made the fateful decision.” \n — An excerpt from New York Times White House reporters Jonathan Swan and Maggie Haberman’s forthcoming book, Regime Change: Inside the Imperial Presidency of Donald Trump.\n - - -\nIn recent hours, several unserious actors across the political and media spectrum have raised what they believe to be a profound question: namely, whether it is appropriate for a journalist to possess explosive information concerning presidential decision-making, the possible manufacture of consent for war in Iran, and internal assessments from the natio…",
-          "link": "https://www.mcsweeneys.net/articles/the-shocking-truth-about-this-president-that-weve-been-sitting-on-for-months-is-now-available-for-preorder",
-          "publishedOn": "2026-04-08T12:05:00.000Z",
-          "wordCount": 2761,
-          "title": "The Shocking Truth About This President That We’ve Been Sitting on for Months Is Now Available for Preorder",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6mfzq5rr5qrca9ml57gpbmj9qtmt"
         }
       ]
     },
@@ -13494,22 +13454,6 @@
             "length": "78242"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
-        },
-        {
-          "id": "111918 at https://www.eff.org",
-          "author": "Sarah Hamid",
-          "description": "This is the third installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the first post here, and the second here.\nWhen people remember the 2011 uprisings across the Middle East and North Africa (MENA), they picture crowded squares, raised phones, and the feeling that the internet had finally shifted the balance of power toward ordinary people. But the past decade and a half is also a story about how governments, companies, and platforms turned those same tools into the backbone of a powerful state surveillance apparatus.\nFor activists, journalists, and everyday users, that means now living with a constant threat: the phone in your pocket, the platforms you organize on, and the systems you rely on for safety and connection can be weapo…",
-          "link": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom",
-          "publishedOn": "2026-04-08T08:22:26.000Z",
-          "wordCount": 3873,
-          "title": "Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/arabspring-banner2.png",
-            "alt": "Hands holding up flowers under the word حرية, Arabic for &quot;freedom&quot;",
-            "type": "image/png",
-            "length": "1396283"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
         }
       ]
     },
