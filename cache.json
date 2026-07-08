@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=163975",
+          "author": "Philip Ball",
+          "description": "The idea of ‘biological agency’ — that life devises its own goals and behaves accordingly — complicates our understanding of what it means to be alive. But does it serve a scientific purpose?             \nThe post Is Life Just Different? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-life-just-different-20260708/",
+          "publishedOn": "2026-07-08T14:21:36.000Z",
+          "wordCount": 4150,
+          "title": "Is Life Just Different?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QualiaBiologicalAgency-cr-EduardoRamon-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=163912",
           "author": "Ben Brubaker",
           "description": "When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.             \nThe post Researchers Reveal the Power of ‘Quantum Proofs’ first appeared on Quanta Magazine",
@@ -662,6 +672,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a4e8295bf6d4600012e1250",
+          "author": "Matthew Gault",
+          "description": "Imagine a wearable device that records every moment of your day and makes suggestions based on your mood.",
+          "link": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+          "publishedOn": "2026-07-08T17:26:42.000Z",
+          "wordCount": 1738,
+          "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+          "imageUrl": "https://images.unsplash.com/photo-1586120695969-927e34a95cef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxBSSUyMHdhdGNoaW5nfGVufDB8fHx8MTc4MzUzMDUwNnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a4e6901d496220001d855c9",
+          "author": "Samantha Cole",
+          "description": "One of the co-founders of MintStars, a subscription site used by adult content creators, announced she's giving her entire stake in the company to a pool for the platform's creators and to the nonprofit SWOP Behind Bars.",
+          "link": "https://www.404media.co/mintstars-founder-giving-shares-to-creators/",
+          "publishedOn": "2026-07-08T15:51:42.000Z",
+          "wordCount": 2011,
+          "title": "Porn Platform Gives Sex Workers Stake in the Company's Profits",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/yianni-mathioudakis-BowCzEEpnOY-unsplash.jpg"
+        },
+        {
+          "id": "6a4e5452d496220001d5a801",
+          "author": "Jason Koebler",
+          "description": "\"Hey if this is your flyer, I’m not going, I’m not donating, I’m not sharing. Don’t ask me.\"",
+          "link": "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
+          "publishedOn": "2026-07-08T14:05:42.000Z",
+          "wordCount": 1247,
+          "title": "We Are Living in a ‘ChatGPT Flyer Pandemic’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-08-at-06.48.52@2x.png"
+        },
         {
           "id": "6a4e3da7d496220001d5a56c",
           "author": "Jason Koebler",
@@ -3369,16 +3409,6 @@
           "wordCount": 219,
           "title": "Countdown Standard",
           "imageUrl": "https://imgs.xkcd.com/comics/countdown_standard_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3231/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3231/",
-          "publishedOn": "2026-04-10T04:00:00.000Z",
-          "wordCount": 217,
-          "title": "Lightning",
-          "imageUrl": "https://imgs.xkcd.com/comics/lightning_2x.png"
         }
       ]
     },
@@ -3781,6 +3811,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=559534",
+          "author": "Daniel Ekonde",
+          "description": "The oversubscribed program now requires a $4 copay and caps how much the city will cover per ride. Some seniors say the new system is hard to navigate.",
+          "link": "https://www.berkeleyside.org/2026/07/08/berkeley-cuts-free-rides-for-seniors-disabled-residents",
+          "publishedOn": "2026-07-08T14:00:00.000Z",
+          "wordCount": 8375,
+          "title": "No more free rides for seniors and disabled residents in Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/image-4.jpeg?fit=1024%2C768&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559316",
           "author": "Janelle Hessig",
@@ -9751,6 +9791,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/why-cant-the-left-understand-that-a-politicians-mysterious-illness-is-between-him-and-his-doctor",
+          "author": "Evan Dotas",
+          "description": "“Senator Mitch McConnell, Republican of Kentucky and the former majority leader, was hospitalized on June 14. Since then, his office has provided few updates about his condition. The scant official statements have led to speculation around Washington and efforts to piece together information on what happened.” — New York Times\n - - -\nEveryone knows that Democrats want to force the government into our private lives. They’ve spent decades shoving public schools and fire departments into communities that never asked for them. Now, Democrats think that Big Government should be monitoring the health of America’s senior senators.\n Thankfully, Republicans are standing up for medical privacy and the sacred relationship between doctors and their political patients.\n For weeks, Senator Mitch McConne…",
+          "link": "https://www.mcsweeneys.net/articles/why-cant-the-left-understand-that-a-politicians-mysterious-illness-is-between-him-and-his-doctor",
+          "publishedOn": "2026-07-08T17:05:00.000Z",
+          "wordCount": 2928,
+          "title": "Why Can’t the Left Understand That a Politician’s Mysterious Illness Is Between Him and His Doctor?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nmglygv4pppmph06fk53a5bh0db8"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/lets-drive-this-friend-group-right-into-the-abyss",
           "author": "Nina Semczuk",
