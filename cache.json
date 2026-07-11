@@ -3081,6 +3081,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3270/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3270/",
+          "publishedOn": "2026-07-10T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Toasting Marshmallows",
+          "imageUrl": "https://imgs.xkcd.com/comics/toasting_marshmallows_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3269/",
           "author": null,
           "description": "",
@@ -3871,6 +3881,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=476714",
+          "author": "Eli Wolfe",
+          "description": "It would apply to unincorporated parts of the county. Berkeley, where the minimum wage is now $19.61 per hour, would remain free to set its own floor.",
+          "link": "https://www.berkeleyside.org/2026/07/10/30-dollar-minimum-wage-alameda-county-oakland",
+          "publishedOn": "2026-07-10T19:33:45.000Z",
+          "wordCount": 7570,
+          "title": "$30 minimum wage in Alameda County headed to November election ballot, coalition says",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/IMG_0461-scaled-2.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559694",
           "author": "Momo Chang and Tovin Lapan",

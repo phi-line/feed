@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-10T19:23:48.029Z</updated>
+    <updated>2026-07-11T02:27:57.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[$30 minimum wage in Alameda County headed to November election ballot, coalition says]]></title>
+        <id>https://oaklandside.org/?p=476714</id>
+        <link href="https://www.berkeleyside.org/2026/07/10/30-dollar-minimum-wage-alameda-county-oakland"/>
+        <updated>2026-07-10T19:33:45.000Z</updated>
+        <summary type="html"><![CDATA[It would apply to unincorporated parts of the county. Berkeley, where the minimum wage is now $19.61 per hour, would remain free to set its own floor.]]></summary>
+        <author>
+            <name>Eli Wolfe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds]]></title>
         <id>6a513422bf6d4600013475f4</id>
@@ -151,6 +161,15 @@ Where these systems are faltering in Arabic, they’re positively failing in les
         <summary type="html"><![CDATA[In his 24-year coaching career, the team won two state championships and seven in Northern California. He also taught students from first through eighth grade and was an assistant principal at all three of Berkeley's middle schools.]]></summary>
         <author>
             <name>Family of Gene Nakamura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toasting Marshmallows]]></title>
+        <id>https://xkcd.com/3270/</id>
+        <link href="https://xkcd.com/3270/"/>
+        <updated>2026-07-10T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
