@@ -683,6 +683,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a5257cfbf6d46000134b3cf",
+          "author": "Becky Ferreira",
+          "description": "For more than a decade, the strange light patterns emitted by “Tabby’s Star” have sparked speculation about alien megastructures and exotic natural explanations. The discovery of a giant planet is a new twist.",
+          "link": "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
+          "publishedOn": "2026-07-11T14:51:18.000Z",
+          "wordCount": 2139,
+          "title": "Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image1.jpg"
+        },
+        {
           "id": "6a513422bf6d4600013475f4",
           "author": "Matthew Gault",
           "description": "ChatGPT uses too many dream sequences and Gemini won’t stop describing characters.",
@@ -3459,16 +3469,6 @@
           "wordCount": 189,
           "title": "Make It Myself",
           "imageUrl": "https://imgs.xkcd.com/comics/make_it_myself_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3232/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3232/",
-          "publishedOn": "2026-04-13T04:00:00.000Z",
-          "wordCount": 219,
-          "title": "Countdown Standard",
-          "imageUrl": "https://imgs.xkcd.com/comics/countdown_standard_2x.png"
         }
       ]
     },

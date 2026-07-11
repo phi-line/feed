@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-11T13:13:38.027Z</updated>
+    <updated>2026-07-11T18:59:26.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star]]></title>
+        <id>6a5257cfbf6d46000134b3cf</id>
+        <link href="https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/"/>
+        <updated>2026-07-11T14:51:18.000Z</updated>
+        <summary type="html"><![CDATA[For more than a decade, the strange light patterns emitted by “Tabby’s Star” have sparked speculation about alien megastructures and exotic natural explanations. The discovery of a giant planet is a new twist.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for rollercoaster apple muffins | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2026/jul/11/rollercoaster-apple-muffins-recipe-meera-sodha</id>
@@ -13373,15 +13383,6 @@ Different measurement methods should converge on the same answer.
 A large class of early relic methods, involving either the CMB and/or BAO (with a specific focus on DESI publications), all favor a Universe expandi…]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Countdown Standard]]></title>
-        <id>https://xkcd.com/3232/</id>
-        <link href="https://xkcd.com/3232/"/>
-        <updated>2026-04-13T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
