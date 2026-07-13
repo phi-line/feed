@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=164112",
+          "author": "Natalie Wolchover",
+          "description": "An invisible difference in 10% of humans poses deep mysteries in several fields at once.            \nThe post Why Am I Left-Handed? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
+          "publishedOn": "2026-07-13T14:22:22.000Z",
+          "wordCount": 3561,
+          "title": "Why Am I Left-Handed?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/QualiaLeftHand-crKristinaArmitage-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=164067",
           "author": "Rohini Subrahmanyam",
           "description": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.            \nThe post We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. first appeared on Quanta Magazine",
@@ -644,26 +654,6 @@
           "wordCount": 4801,
           "title": "Shall We Play a Game?",
           "imageUrl": "https://asteriskmag.com/media/pages/issues/14/shall-we-play-a-game/a08c01c037-1776727502/jon-peterson-wargaming-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-          "author": null,
-          "description": "Acetaminophen, ibuprofen, and what doctors probably want you to know.",
-          "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-          "publishedOn": "2026-04-15T00:00:00.000Z",
-          "wordCount": 4451,
-          "title": "The Mystery in the Medicine Cabinet",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/the-mystery-in-the-medicine-cabinet/e71f2c3954-1776281832/dynomight-social-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/14/risk-adjusted-return",
-          "author": null,
-          "description": "What are we afraid of?",
-          "link": "https://asteriskmag.com/issues/14/risk-adjusted-return",
-          "publishedOn": "2026-04-15T00:00:00.000Z",
-          "wordCount": 1509,
-          "title": "Risk-Adjusted Return",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/3c4391b75f-1776192592/risk_cover-1600x900-crop-sharpen50.png"
         }
       ]
     },
@@ -672,6 +662,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a4f77dfbf6d4600012e5849",
+          "author": "Jason Koebler",
+          "description": "Welcome to the AI-generated poster hall of shame.",
+          "link": "https://www.404media.co/these-are-the-worst-chatgpt-flyers-youve-sent-us/",
+          "publishedOn": "2026-07-13T14:01:35.000Z",
+          "wordCount": 1091,
+          "title": "These Are the Worst ChatGPT Flyers You've Sent Us",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/IMG_0669-1.jpg"
+        },
         {
           "id": "6a5257cfbf6d46000134b3cf",
           "author": "Becky Ferreira",
@@ -3802,6 +3802,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=559687",
+          "author": "Tracey Taylor",
+          "description": "Pole Poll #1: Is the defining sound of West Berkeley the train whistle, the Bayer alarm, a murder of crows or the bicycle megaphone man?",
+          "link": "https://www.berkeleyside.org/2026/07/13/utility-pole-polls-neighbors-about-west-berkeley",
+          "publishedOn": "2026-07-13T12:00:00.000Z",
+          "wordCount": 7769,
+          "title": "Hand-drawn polls on utility poles quiz neighbors about West Berkeley’s soul",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Jonathan-Curley-1.jpg?fit=1432%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559626",
+          "author": "Marlo De La Mora",
+          "description": "The 35-year-old Cal transfer student, who overcame foster care and incarceration, is remembered for her compassion and resilience. She was studying public policy to improve the lives of people who grew up like her.",
+          "link": "https://www.berkeleyside.org/2026/07/13/remembering-paloma-foster-uc-berkeley-student-leader-and-mother-of-2-who-died-in-car-crash",
+          "publishedOn": "2026-07-13T10:00:00.000Z",
+          "wordCount": 8179,
+          "title": "Remembering Paloma Foster, UC Berkeley student leader and mother of 2 who died in car crash",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/IMG_1135.jpg?fit=2048%2C1365&ssl=1"
+        },
+        {
           "id": "https://oaklandside.org/?p=476714",
           "author": "Eli Wolfe",
           "description": "It would apply to unincorporated parts of the county. Berkeley, where the minimum wage is now $19.61 per hour, would remain free to set its own floor.",
@@ -6545,16 +6565,6 @@
           "wordCount": 8107,
           "title": "Layoffs, service cuts, sales tax hike: How Berkeley plans to close a nearly $30M budget deficit",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/11/large-JPS_7255-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=555334",
-          "author": "Alex N. Gecan",
-          "description": "Jack Jansen, 52, was convicted a decade ago of sexually abusing a 7-year-old child in Berkeley. With Jansen's jail sentence over, the sibling has made new allegations of abuse.",
-          "link": "https://www.berkeleyside.org/2026/04/14/jack-jansen-child-sex-abuse-arrest",
-          "publishedOn": "2026-04-14T22:01:55.000Z",
-          "wordCount": 7425,
-          "title": "Child molester faces new charges after Berkeley victim’s sibling comes forward",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7154.jpg"
         }
       ]
     },
@@ -9378,6 +9388,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=76835",
+          "author": "Jessica Hylton",
+          "description": "Move over, chicken satay. This vegan-friendly tofu satay delivers all the sweet, savoury, tangy flavours you crave, with golden, caramelised tofu with a chicken-like chewy. And that Thai peanut sauce!? The best!",
+          "link": "https://jessicainthekitchen.com/tofu-satay/",
+          "publishedOn": "2026-07-13T14:00:00.000Z",
+          "wordCount": 12621,
+          "title": "Tofu Satay",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Thai-Tofu-Satay-with-Peanut-Sauce-15.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=77189",
           "author": "Jessica Hylton",
           "description": "Strawberry shortcake is a summer classic, and this vegan version hits the spot. Sweet, syrupy macerated strawberries and fluffy vegan whipped cream are sandwiched between flaky \"buttermilk\" biscuits. Amazing!",
@@ -9761,6 +9781,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/im-cyclosporiasis-the-explosive-diarrhea-parasite-and-im-pivoting-to-music",
+          "author": "Jess Keefe",
+          "description": "It’s a little embarrassing, but yeah, you’ve probably heard of me. Cyclosporiasis? I’m kind of, like, the most famous parasitic illness in the country right now? It’s so crazy, dude, but I’m grateful for the platform. Now I can transmit my talents to my true passion: music.\n When I’m not busy making people poop so bad they wish they’d never been born, all I can think about is lyrics, chords, interesting little beats and sounds. I find inspiration everywhere. As a global parasite, I’ve been fortunate to be exposed to countless different cultures, traditions, and types of bathroom tile. Maman, Majko, Nanay: The sound of hosts crying out for their mommies is so different depending on where in the world you’re gestating!\n I’ve been grinding away at mass infection for years now without recognit…",
+          "link": "https://www.mcsweeneys.net/articles/im-cyclosporiasis-the-explosive-diarrhea-parasite-and-im-pivoting-to-music",
+          "publishedOn": "2026-07-13T12:00:00.000Z",
+          "wordCount": 2943,
+          "title": "I’m Cyclosporiasis, the Explosive Diarrhea Parasite, and I’m Pivoting to Music",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0lxraiptvbqj6vi0jt12afvvnw7p"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/my-critics-are-missing-the-nuance-of-my-membership-in-the-wealthy-people-hunting-poor-people-for-sport-club",
           "author": "Mike Drucker",
