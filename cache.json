@@ -663,6 +663,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a5537d93e22ff0001d67a88",
+          "author": "Samantha Cole",
+          "description": "This week we’re joined by Dr. Angela Jones, who asks these questions and much more in their new book, Sex in Public.",
+          "link": "https://www.404media.co/sex-in-public-with-angela-jones/",
+          "publishedOn": "2026-07-13T19:23:39.000Z",
+          "wordCount": 1230,
+          "title": "Podcast: Liberation, Eroticism, and Sex in Public (with Angela Jones)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/19R-f4SKPd4-HD.jpg"
+        },
+        {
           "id": "6a551c013e22ff0001d672b4",
           "author": "Jason Koebler",
           "description": "The Los Angeles Police Department let its Flock contract expire over the weekend in part because it was regularly \"investigating\" and surveilling innocent people.",
@@ -2561,26 +2571,6 @@
           "wordCount": 1528,
           "title": "Ukraine Says Russians are Surrendering to Robots",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/HFzPl5eXYAAdYgi-1.jpg"
-        },
-        {
-          "id": "69df8b305240ff0001e95b14",
-          "author": "Joseph Cox",
-          "description": "Internal Space Force emails obtained by 404 Media show the work it takes to have a government agency make a new theme song. A general even wanted to start the whole thing over again.",
-          "link": "https://www.404media.co/emails-reveal-space-forces-hardest-mission-is-writing-a-song/",
-          "publishedOn": "2026-04-15T13:29:56.000Z",
-          "wordCount": 1691,
-          "title": "Emails Reveal Space Force’s Hardest Mission Is Writing a Song",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/space-force-emails.png"
-        },
-        {
-          "id": "69de93a65240ff0001e93da9",
-          "author": "Joseph Cox",
-          "description": "How a phone's notification database can store messages deleted elsewhere; the continued data center pushback; and Marathon, Marathon, Marathon.",
-          "link": "https://www.404media.co/podcast-how-the-fbi-extracted-deleted-signal-messages/",
-          "publishedOn": "2026-04-15T12:50:19.000Z",
-          "wordCount": 1093,
-          "title": "Podcast: How the FBI Extracted Deleted Signal Messages",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/signal-podcast.png"
         }
       ]
     },
@@ -3811,6 +3801,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=559785",
+          "author": "Alex N. Gecan",
+          "description": "The U.S. Postal Service said the Solano Avenue branch would resume services soon but did not say exactly when. People could access their post office boxes as of Monday.",
+          "link": "https://www.berkeleyside.org/2026/07/13/berkeley-usps-solano-ave-post-office-internet-outage",
+          "publishedOn": "2026-07-13T21:51:04.000Z",
+          "wordCount": 7157,
+          "title": "North Berkeley post office mostly closed for weeks due to internet outage",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/10/IMG_6463.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559752",
           "author": "Calliope Arkilic",
@@ -11440,16 +11440,6 @@
           "wordCount": 2390,
           "title": "Transcript from the Meeting Where They Invented the Mammogram Machine",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/erpsnsm4t8079xpyoccyqkyn3xnu"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-five-stages-of-millennial-wedding-planning",
-          "author": "Andrew Patrick Clark",
-          "description": "Let me be the first to congratulate you on seeking help. As a clinician, I know it takes great courage to confront wedding planning. It’s a terminal condition, of course, but there are ways to cope. First, know that there is no wrong way to respond to wedding planning. Everyone has their own path. I should warn you, though, that most couples your age endure five key stages.\n Denial\n Someone will suggest that you go on Pinterest, and you will tell them no, you don’t really use that website. You will say that you don’t want to see pictures of string lights and mason jars, or groomsmen with beards and suspenders standing in a corn field. When you see bridal photos with Instagram filters from 2013, you’ll think, That’s impossible, that technology doesn’t even exist anymore. You will swear that…",
-          "link": "https://www.mcsweeneys.net/articles/the-five-stages-of-millennial-wedding-planning",
-          "publishedOn": "2026-04-15T12:00:00.000Z",
-          "wordCount": 2606,
-          "title": "The Five Stages of Millennial Wedding Planning",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/f3hfhp5pvvof9d90kqw5u4cg6kew"
         }
       ]
     },
@@ -13423,22 +13413,6 @@
             "length": "18239"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/offline-general.png"
-        },
-        {
-          "id": "111932 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "This is the fourth installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the rest of the series here.\nIran’s internet has been intermittently disrupted for months. After years of bombardment, Gaza’s telecommunications infrastructure remains fragile. In India, recurring shutdowns and throttling have become a routine response to protests and unrest, cutting millions off from news, work, and basic services. Across dozens of other countries, governments increasingly treat connectivity itself as something that can be weaponized—cut, slowed, or selectively restored to shape what people can see, say, and share. In 2024 alone, authorities imposed 304 internet shutdowns across 54 countries—the highest number ever recorded.\nIn 2011, when protes…",
-          "link": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns",
-          "publishedOn": "2026-04-15T11:38:48.000Z",
-          "wordCount": 2760,
-          "title": "Digital Hopes, Real Power: The Rise of Network Shutdowns",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/arabspring-banner2.png",
-            "alt": "Hands holding up flowers under the word حرية, Arabic for &quot;freedom&quot;",
-            "type": "image/png",
-            "length": "1396283"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
         }
       ]
     },
