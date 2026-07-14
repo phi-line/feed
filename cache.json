@@ -653,6 +653,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a4e64d6d496220001d84bbf",
+          "author": "Nicole Carpenter",
+          "description": "Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.",
+          "link": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+          "publishedOn": "2026-07-14T13:20:54.000Z",
+          "wordCount": 4195,
+          "title": "AI Made Cloning Games Easier Than Ever",
+          "imageUrl": "https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fG5pbnRlbmRvJTIwc3dpdGNoJTIwZXNob3B8ZW58MHx8fHwxNzgzNTIzMTA1fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6a5537d93e22ff0001d67a88",
           "author": "Samantha Cole",
           "description": "This week we’re joined by Dr. Angela Jones, who asks these questions and much more in their new book, Sex in Public.",
@@ -2541,16 +2551,6 @@
           "wordCount": 4709,
           "title": "I Almost Lost My Mind in the Bridal Algorithm",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/weddingalgo-1.png"
-        },
-        {
-          "id": "69dfcf3e5240ff0001ebc006",
-          "author": "Joseph Cox",
-          "description": "The shareholders explicitly cited multiple 404 Media investigations, including one that showed Thomson Reuters' CLEAR is integrated with a tool ICE uses to find neighborhoods to target.",
-          "link": "https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/",
-          "publishedOn": "2026-04-16T00:09:26.000Z",
-          "wordCount": 1633,
-          "title": "Thomson Reuters Shareholders Demand Investigation into ICE Contracts",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/8771272935_b5fdedffc7_k.jpg"
         }
       ]
     },
@@ -2926,17 +2926,6 @@
           "publishedOn": "2026-04-16T20:50:57.000Z",
           "wordCount": null,
           "title": "San Jose's 'Creepy' and 'Deeply Intrusive' ALPR Camera System Is Unconstitutional, a New Lawsuit Says",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8377742",
-          "author": "Jacob Sullum",
-          "description": "After withdrawing a summons in the face of a legal challenge, the government is seeking a grand jury subpoena.",
-          "link": "https://reason.com/2026/04/15/ice-is-determined-to-unmask-a-reddit-user-whose-only-crime-seems-to-be-criticizing-ice/",
-          "publishedOn": "2026-04-15T20:00:14.000Z",
-          "wordCount": null,
-          "title": "ICE Is Determined To Unmask a Reddit User Whose Only Crime Seems To Be Criticizing ICE",
           "itunes": {},
           "imageUrl": null
         }
@@ -6565,26 +6554,6 @@
           "wordCount": 8221,
           "title": "Around Berkeley: Earth Day celebrations, beehive tour, robot building for kids",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/IMG_5992-scaled.jpg?fit=2560%2C1920&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=555394",
-          "author": "Elize Manoukian",
-          "description": "Eastbound lanes are scheduled to close from 11 p.m. on April 17 to 6 a.m. on April 20 for planned construction work, with detours in place during the closure.",
-          "link": "https://www.berkeleyside.org/2026/04/15/i-80-closure-what-to-know-about-travel-through-san-francisco-this-weekend",
-          "publishedOn": "2026-04-15T23:50:51.000Z",
-          "wordCount": 8458,
-          "title": "I-80 closure: What to know about travel through San Francisco this weekend",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/260408-I80Closure-11-BL_qed.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=555374",
-          "author": "Alex N. Gecan",
-          "description": "The Idaho Street shooting, on April 9, is the first time since October 2024 that non-police gunfire has injured anyone in Berkeley.",
-          "link": "https://www.berkeleyside.org/2026/04/15/bpd-investigates-idaho-street-shooting-april-9",
-          "publishedOn": "2026-04-15T22:17:00.000Z",
-          "wordCount": 7466,
-          "title": "Southwest Berkeley shooting leaves 21-year-old man in critical condition",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7402.jpg?fit=1600%2C1067&ssl=1"
         }
       ]
     },
@@ -9785,6 +9754,16 @@
       "siteUrl": "https://zserge.com/",
       "articles": [
         {
+          "id": "https://zserge.com/posts/tensor/",
+          "author": null,
+          "description": "Every good abstraction solves a problem, and this post will cover everything I know so far about a brilliant math abstraction - tensors.\nNeural networks, from a simple 2-layer MLP to GPT-5, all boil down to the same thing: floating-point numbers flowing through a graph of operations. This post builds a complete, accelerated tensor library from scratch in C. It is heavily inspired by Bellard’s libnc, which unfortunately has not been open-sourced yet.",
+          "link": "https://zserge.com/posts/tensor/",
+          "publishedOn": "2026-07-14T00:00:00.000Z",
+          "wordCount": 4649,
+          "title": "Tensor is the might",
+          "imageUrl": "https://zserge.com/logo.png"
+        },
+        {
           "id": "https://zserge.com/posts/socreates/",
           "author": null,
           "description": "We love coding agents. They can build a full-featured SaaS and potentially make you a millionaire if you leave them running overnight with the right prompt. They will burn your GPU or your budget, include a few unprompted vulnerabilities, will bloat your code risking your sanity once you start debugging it, will put emojis in your comments, and will ultimately make you question your life choices.\nSo I thought, if they are so cool — it must be interesting to build one myself and steal the fame of Anthropic.",
@@ -9801,6 +9780,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/enjoy-our-beach-house-but-please-dont-open-the-beguiling-door-of-mystery",
+          "author": "Patrick Coyne",
+          "description": "Welcome to your beachside getaway. We are so glad to have you as our guests. Feel free to unpack, relax, kick off your shoes, and become better acquainted with your surroundings.\n Your vacation officially starts now…\n Just a tiny request. You see how the house has one locked door? The nondescript, yet alluring door catty-corner to the second-floor powder room?\n Do not try to open it.\n It may be five o’clock somewhere, but it is never ominous door o’clock here, no matter how it beckons.\n A few quick “A’s” for your “Q’s”. Trash pickup is every Thursday, the Roku remote is velcroed to the top of the soundbar, and check-out time is 11 a.m. We also request that you secure the Florida room screen every evening, as an ajar door creates openings for nefarious actors.\n You know, like raccoons, or o…",
+          "link": "https://www.mcsweeneys.net/articles/enjoy-our-beach-house-but-please-dont-open-the-beguiling-door-of-mystery",
+          "publishedOn": "2026-07-14T12:00:00.000Z",
+          "wordCount": 2924,
+          "title": "Enjoy Our Beach House, but Please Don’t Open the Beguiling Door of Mystery",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hnrhy48zy0rgn4orncw95dxialqx"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/as-a-democratic-member-of-congress-i-dont-wish-to-speak-ill-of-the-dead",
           "author": "Lisa Borders",

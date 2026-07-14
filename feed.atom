@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-14T07:59:43.395Z</updated>
+    <updated>2026-07-14T13:38:07.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Made Cloning Games Easier Than Ever]]></title>
+        <id>6a4e64d6d496220001d84bbf</id>
+        <link href="https://www.404media.co/ai-made-cloning-games-easier-than-ever/"/>
+        <updated>2026-07-14T13:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.]]></summary>
+        <author>
+            <name>Nicole Carpenter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enjoy Our Beach House, but Please Don’t Open the Beguiling Door of Mystery]]></title>
+        <id>https://www.mcsweeneys.net/articles/enjoy-our-beach-house-but-please-dont-open-the-beguiling-door-of-mystery</id>
+        <link href="https://www.mcsweeneys.net/articles/enjoy-our-beach-house-but-please-dont-open-the-beguiling-door-of-mystery"/>
+        <updated>2026-07-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to your beachside getaway. We are so glad to have you as our guests. Feel free to unpack, relax, kick off your shoes, and become better acquainted with your surroundings.
+ Your vacation officially starts now…
+ Just a tiny request. You see how the house has one locked door? The nondescript, yet alluring door catty-corner to the second-floor powder room?
+ Do not try to open it.
+ It may be five o’clock somewhere, but it is never ominous door o’clock here, no matter how it beckons.
+ A few quick “A’s” for your “Q’s”. Trash pickup is every Thursday, the Roku remote is velcroed to the top of the soundbar, and check-out time is 11 a.m. We also request that you secure the Florida room screen every evening, as an ajar door creates openings for nefarious actors.
+ You know, like raccoons, or o…]]></summary>
+        <author>
+            <name>Patrick Coyne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor is the might]]></title>
+        <id>https://zserge.com/posts/tensor/</id>
+        <link href="https://zserge.com/posts/tensor/"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every good abstraction solves a problem, and this post will cover everything I know so far about a brilliant math abstraction - tensors.
+Neural networks, from a simple 2-layer MLP to GPT-5, all boil down to the same thing: floating-point numbers flowing through a graph of operations. This post builds a complete, accelerated tensor library from scratch in C. It is heavily inspired by Bellard’s libnc, which unfortunately has not been open-sourced yet.]]></summary>
+        <author>
+            <name>zserge's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Berkeley post office mostly closed for weeks due to internet outage]]></title>
         <id>https://www.berkeleyside.org/?p=559785</id>
@@ -12932,36 +12969,6 @@ But those are only two of the four fundamental forces (at least, we think there 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thomson Reuters Shareholders Demand Investigation into ICE Contracts]]></title>
-        <id>69dfcf3e5240ff0001ebc006</id>
-        <link href="https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/"/>
-        <updated>2026-04-16T00:09:26.000Z</updated>
-        <summary type="html"><![CDATA[The shareholders explicitly cited multiple 404 Media investigations, including one that showed Thomson Reuters' CLEAR is integrated with a tool ICE uses to find neighborhoods to target.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I-80 closure: What to know about travel through San Francisco this weekend]]></title>
-        <id>https://www.berkeleyside.org/?p=555394</id>
-        <link href="https://www.berkeleyside.org/2026/04/15/i-80-closure-what-to-know-about-travel-through-san-francisco-this-weekend"/>
-        <updated>2026-04-15T23:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Eastbound lanes are scheduled to close from 11 p.m. on April 17 to 6 a.m. on April 20 for planned construction work, with detours in place during the closure.]]></summary>
-        <author>
-            <name>Elize Manoukian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southwest Berkeley shooting leaves 21-year-old man in critical condition]]></title>
-        <id>https://www.berkeleyside.org/?p=555374</id>
-        <link href="https://www.berkeleyside.org/2026/04/15/bpd-investigates-idaho-street-shooting-april-9"/>
-        <updated>2026-04-15T22:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The Idaho Street shooting, on April 9, is the first time since October 2024 that non-police gunfire has injured anyone in Berkeley.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to get employees to actually care about your L&D program]]></title>
         <id>https://bigthink.com/plus/market-your-learning-and-development-programs/</id>
         <link href="https://bigthink.com/plus/market-your-learning-and-development-programs/"/>
@@ -12976,16 +12983,6 @@ Relevance Is Rocket Fuel
 The fastest path to attention is relevance. Not “h…]]></summary>
         <author>
             <name>Mike Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Is Determined To Unmask a Reddit User Whose Only Crime Seems To Be Criticizing ICE]]></title>
-        <id>https://reason.com/?p=8377742</id>
-        <link href="https://reason.com/2026/04/15/ice-is-determined-to-unmask-a-reddit-user-whose-only-crime-seems-to-be-criticizing-ice/"/>
-        <updated>2026-04-15T20:00:14.000Z</updated>
-        <summary type="html"><![CDATA[After withdrawing a summons in the face of a legal challenge, the government is seeking a grand jury subpoena.]]></summary>
-        <author>
-            <name>Jacob Sullum</name>
         </author>
     </entry>
     <entry>
