@@ -3762,6 +3762,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=559962",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a car meet on Fourth Street, a tragicomedy performance at Live Oak Park and a tank house walking tour.",
+          "link": "https://www.berkeleyside.org/2026/07/16/around-berkeley-central-works-final-production-elmwood-beer-crawl-game-convention",
+          "publishedOn": "2026-07-16T13:00:00.000Z",
+          "wordCount": 8408,
+          "title": "Around Berkeley: Central Works’ final production, Elmwood Beer Crawl, game convention",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/ThePrince_promo-1.png?fit=2000%2C1500&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=559930",
           "author": "Felicia Mello",
           "description": "UC officials will speed up a decision on whether to revive a standardized testing requirement, after a push led by UC Berkeley math professors.",
@@ -9747,6 +9757,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112",
+          "author": "Emily Greenberg and Chase Bush-McLaughlin",
+          "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
+          "link": "https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112",
+          "publishedOn": "2026-07-16T12:00:00.000Z",
+          "wordCount": 11069,
+          "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: June 2026:  Atrocities 1014-1112",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/umngchsamo0xyzcw0phft031r7yz"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/a-case-for-the-giant-toxic-goo-pit-i-want-to-build-in-the-center-of-town",
           "author": "Ellie Race-Moore",
           "description": "I am a humble man. I made my fortune the old-fashioned way, through grit, determination, and a small multi-million-dollar loan from my father. And now I’m trying to achieve something beyond what humans have ever imagined: a giant toxic goo pit.\n Polling suggests people are upset with the giant pit of toxic goo I’m planning to build in the center of town. I’m here to put your mind at ease. The toxic goo is harmless. It’s just the liberal media who’ve been giving it a bad name.\n Yes, I’m planning to tear down the beloved historic bird sanctuary, once the crown jewel of the city center. But we need that space to build the goo.\n I know the press has been saying toxic goo is bad. That it’ll suck up all the water. That it causes cancer. That it gives babies laser eyes. But isn’t this just what n…",
@@ -11343,6 +11363,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112205 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "EFF and ARTICLE 19 have submitted joint comments to the European Commission on draft guidelines for the Digital Services Act’s trusted flagger mechanism. Having long advocated for a DSA that protects freedom of expression while preserving intermediary liability protections and the prohibition on general monitoring, we welcome the Commission's effort to provide practical guidance on how the trusted flagger system should operate. \nThe DSA’s trusted flagger system can help platforms identify illegal content more efficiently. But if implemented poorly, it could also encourage over-removal of lawful speech, weaken due process, and give government authorities disproportionate influence over online expression. \nWe support the Commission's focus on good practices and illustrative examples, rather …",
+          "link": "https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines",
+          "publishedOn": "2026-07-16T09:22:17.000Z",
+          "wordCount": 1712,
+          "title": "EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/eu-flag-11.png",
+            "alt": "EU-flag-circuits",
+            "type": "image/png",
+            "length": "48177"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/eu-flag-11.png"
+        },
         {
           "id": "112203 at https://www.eff.org",
           "author": "Rindala Alajaji",

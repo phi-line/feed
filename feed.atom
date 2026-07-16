@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-16T08:08:30.178Z</updated>
+    <updated>2026-07-16T13:44:59.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: Central Works’ final production, Elmwood Beer Crawl, game convention]]></title>
+        <id>https://www.berkeleyside.org/?p=559962</id>
+        <link href="https://www.berkeleyside.org/2026/07/16/around-berkeley-central-works-final-production-elmwood-beer-crawl-game-convention"/>
+        <updated>2026-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a car meet on Fourth Street, a tragicomedy performance at Live Oak Park and a tank house walking tour.]]></summary>
+        <author>
+            <name>Karen Nguyen Vo and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: June 2026:  Atrocities 1014-1112]]></title>
+        <id>https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112</id>
+        <link href="https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112"/>
+        <updated>2026-07-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.
+ - - -
+These lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…]]></summary>
+        <author>
+            <name>Emily Greenberg and Chase Bush-McLaughlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The King's Great Fortune]]></title>
         <id>https://aethermug.com/posts/kings-great-fortune</id>
@@ -13,6 +35,18 @@
         <updated>2026-07-16T10:45:13.000Z</updated>
         <author>
             <name>Aether Mug</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines]]></title>
+        <id>112205 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines"/>
+        <updated>2026-07-16T09:22:17.000Z</updated>
+        <summary type="html"><![CDATA[EFF and ARTICLE 19 have submitted joint comments to the European Commission on draft guidelines for the Digital Services Act’s trusted flagger mechanism. Having long advocated for a DSA that protects freedom of expression while preserving intermediary liability protections and the prohibition on general monitoring, we welcome the Commission's effort to provide practical guidance on how the trusted flagger system should operate. 
+The DSA’s trusted flagger system can help platforms identify illegal content more efficiently. But if implemented poorly, it could also encourage over-removal of lawful speech, weaken due process, and give government authorities disproportionate influence over online expression. 
+We support the Commission's focus on good practices and illustrative examples, rather …]]></summary>
+        <author>
+            <name>Jillian C. York</name>
         </author>
     </entry>
     <entry>
