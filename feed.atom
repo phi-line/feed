@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-15T19:07:00.787Z</updated>
+    <updated>2026-07-16T02:25:00.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICE Keeps Shooting People. Here's a Way Congress Can Rein It In.]]></title>
+        <id>https://reason.com/?p=8393235</id>
+        <link href="https://reason.com/2026/07/15/ice-keeps-shooting-people-heres-a-way-congress-can-rein-it-in/"/>
+        <updated>2026-07-15T21:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Giving people a pathway to sue federal immigration officials for violating constitutional rights is one way Congress can help hold the rogue agency accountable.]]></summary>
+        <author>
+            <name>Autumn Billings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should UC bring back the SAT for admissions?]]></title>
+        <id>https://www.berkeleyside.org/?p=559930</id>
+        <link href="https://www.berkeleyside.org/2026/07/15/uc-sat-admissions-standardized-testing"/>
+        <updated>2026-07-15T20:54:20.000Z</updated>
+        <summary type="html"><![CDATA[UC officials will speed up a decision on whether to revive a standardized testing requirement, after a push led by UC Berkeley math professors.]]></summary>
+        <author>
+            <name>Felicia Mello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Steps Back From Dangerous Expansion of its Age-Gating Law]]></title>
+        <id>112203 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law"/>
+        <updated>2026-07-15T20:50:48.000Z</updated>
+        <summary type="html"><![CDATA[The California legislature has stepped back from a plan that would have expanded its age-gating law, removing language that could have compounded serious threats to users’ speech, privacy and security just to browse the internet. A.B. 1856, authored by Assemblymember Buffy Wicks, will now move forward through the legislature without its most problematic pieces.
+EFF still believes the underlying law that A.B. 1856 amends, A.B. 1043, is unconstitutional. Signed into law in 2025 (and effective January of 2027), A.B. 1043 requires all operating systems and app stores to collect users’ ages, place them in various age brackets and then block young people from lawful speech and services depending on their age. We also believe that even though A.B. 1043 does not require age verification, the liabi…]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Smart Watches, Rings, and Bands Lack Basic Transparency Reports and Key Privacy Features]]></title>
+        <id>112202 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/most-smart-watches-rings-and-bands-lack-basic-transparency-reports-and-key-privacy"/>
+        <updated>2026-07-15T19:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Oura Rings, Garmin GPS fitness watches, Apple Watches, Whoop bands—every year, more and more tech devices are promising to monitor our health and fitness, guide us toward healthier living, and provide useful health metrics to take to our doctors. But few of these tools provide the sorts of privacy and security promises we demand from all technology, let alone tech that captures personal health data. It’s time they step up and start providing transparency reports and stronger encryption options.
+Surveys suggest that around 40 percent of people in the United States own some sort of commercially available wearable health device. Despite being marketed as health devices, they have no special health-related privacy protections that one might hope for. The companies who make these devices can an…]]></summary>
+        <author>
+            <name>Thorin Klosowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley taps ‘safe streets leader’ as new public works chief]]></title>
+        <id>https://www.berkeleyside.org/?p=559939</id>
+        <link href="https://www.berkeleyside.org/2026/07/15/berkeley-james-jamie-parks-public-works-director"/>
+        <updated>2026-07-15T19:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Coming from Oakland and San Francisco, Jamie Parks will oversee the department handling street paving, safety projects and other city infrastructure.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There/There brings new energy to former Friends and Family Space]]></title>
+        <id>https://www.berkeleyside.org/?p=559933</id>
+        <link href="https://www.berkeleyside.org/2026/07/15/there-there-uptown-oakland-lgbtq-cocktail-bar"/>
+        <updated>2026-07-15T19:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Oakland’s newest queer bar has caviar bumps, cruising corners and your Ex’s Ex.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚫 Don't Let Congress Age-Gate the Internet | EFFector 38.13]]></title>
         <id>112200 at https://www.eff.org</id>
@@ -128,6 +190,15 @@ Introducing: MAN-THOLOGY
         <updated>2026-07-15T09:00:14.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Change]]></title>
+        <id>https://xkcd.com/3272/</id>
+        <link href="https://xkcd.com/3272/"/>
+        <updated>2026-07-15T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -12852,91 +12923,6 @@ I don’t suffocate people with pillows.
 The post Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Matt von Hippel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shoofly Pie]]></title>
-        <id>https://jessicainthekitchen.com/?p=73963</id>
-        <link href="https://jessicainthekitchen.com/shoofly-pie/"/>
-        <updated>2026-04-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It might have a funny name, but shoofly pie is a seriously delicious dessert! It’s an old-fashioned molasses pie with a rich, caramel-like filling and a buttery crumb topping—and I cracked the code to make it vegan! Shoofly pie is a classic Pennsylvania Dutch dessert, but you’ll find it anywhere with an Amish community. Like […]]]></summary>
-        <author>
-            <name>Jessica from Jessica in the Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover]]></title>
-        <id>69e188805240ff0001ee66f3</id>
-        <link href="https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling-to-earth-scientists-discover/"/>
-        <updated>2026-04-17T13:00:36.000Z</updated>
-        <summary type="html"><![CDATA[A rare class of meteorites called angrites likely come from a strange protoplanet that was catastrophically destroyed in the early solar system, leaving only fragmentary remnants.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: Jazz and Journalism]]></title>
-        <id>69e0e0725240ff0001ee3bec</id>
-        <link href="https://www.404media.co/behind-the-blog-jazz-and-journalism/"/>
-        <updated>2026-04-17T13:00:29.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss the Madonna-whore algorithm, reader tips, and jazz.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A cheat sheet for Berkeleyside’s Alameda County district attorney candidates forum]]></title>
-        <id>https://oaklandside.org/?p=472499</id>
-        <link href="https://www.berkeleyside.org/2026/04/17/alameda-county-district-attorney-election-candidates-debate-2"/>
-        <updated>2026-04-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s sold out, but you can still tune in via Zoom. Here’s a primer on the candidates and their priorities.]]></summary>
-        <author>
-            <name>Roselyn Romero and Darwin BondGraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Australia really stopped the boats]]></title>
-        <id>https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/</id>
-        <link href="https://worksinprogress.co/issue/how-australia-really-stopped-the-boats/"/>
-        <updated>2026-04-17T12:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Many countries want to copy Australia’s immigration rules. But its most-copied border policy is not the one that worked.]]></summary>
-        <author>
-            <name>Works in Progress RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’d Love to Pass Through the Strait of Hormuz, but No Worries If Not]]></title>
-        <id>https://www.mcsweeneys.net/articles/id-love-to-pass-through-the-strait-of-hormuz-but-no-worries-if-not</id>
-        <link href="https://www.mcsweeneys.net/articles/id-love-to-pass-through-the-strait-of-hormuz-but-no-worries-if-not"/>
-        <updated>2026-04-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m reaching out because, well, I’ve got this shipment of 2.1 million barrels of crude oil, and I would LOVE it if I could just squeeze on by and pass through the Strait of Hormuz? Honestly, no worries if not, though!
- It’s just that the vast amount of crude oil I have aboard is the lifeblood of several regional economies. Without it reaching its destination, millions will be unable to afford to heat their homes and fuel their cars, causing those economies to become increasingly unstable, undermining, in turn, the stability of the world at large. But if it’s a no, that’s fine!
- I know you’re super committed to whichever geopolitical concern has driven you to block the Strait, and listen, I totally get it. That sounds really stressful and complicated. You’re doing an amazing job, by the way! I’ve heard that, like, no one is getting through, and that must be such a pain to deal with day in and day out.
- I definitely don’t want you to think I’m asking for special treatment. I’m sure you’re absolutely swamped with “I need to pass through the Strait of Hormuz” asks these days. Everyone is like, “I’m carrying fertilizer or natural gas or another essential commodity!” Ughhh, must be so annoying. I’m sure you’ve heard it all.
- I do, though, have a LOT of people relying on me getting through and dropping this off—a couple of world leaders and some citizens of developing nations and such—and if you could do me a favor and make an exception this one time, that would be amazing. But once again, no worries if not!
- If it’s a no this time, which, to reiterate, is so fine… I just wonder if you happen to know when the Strait might reopen? I’ve heard a lot of people asking around the Persian Gulf, and I figured I’d just see if you knew the answer. Seems like having an answer to that question would be super helpful for folks and maybe even lead to sustained, predictable global economic growth this fiscal year.
- But if you don’t know, no biggie at all!]]></summary>
-        <author>
-            <name>Patrick Clinch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rattlesnake season is here. Here’s how to stay safe]]></title>
-        <id>https://oaklandside.org/?p=437959</id>
-        <link href="https://www.berkeleyside.org/2026/04/17/rattlesnake-advisory-how-to-stay-safe"/>
-        <updated>2026-04-17T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Warm weather means venomous snakes are more active. Snakebites are uncommon but can be dangerous.]]></summary>
-        <author>
-            <name>Callie Rhoades</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gwenifer Raymond: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=DQ2EwQ2B5bc</id>
-        <link href="https://www.youtube.com/watch?v=DQ2EwQ2B5bc"/>
-        <updated>2026-04-17T09:00:31.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
