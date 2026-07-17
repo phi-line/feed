@@ -2541,16 +2541,6 @@
           "wordCount": 1102,
           "title": "Why Journalists Are Going Indie (with Maddy Myers)",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/owningthework.png"
-        },
-        {
-          "id": "69e2724a5240ff0001f15294",
-          "author": "Becky Ferreira",
-          "description": "Reproductive technologies have enabled children to be posthumously conceived from the frozen eggs and sperm of deceased parents, raising legal, ethical, and practical questions.",
-          "link": "https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/",
-          "publishedOn": "2026-04-18T13:00:34.000Z",
-          "wordCount": 2384,
-          "title": "Babies Born from Dead Parents Will Increase with New Tech. Are We Ready?",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/Ivf.png"
         }
       ]
     },
@@ -3791,6 +3781,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560047",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A photo spread of student protesters in the Berkeley High yearbook is under investigation by the district because it includes a photo of a student holding a sign justifying the Oct. 7 attack.",
+          "link": "https://www.berkeleyside.org/2026/07/16/the-wire-berkeley-teen-swims-from-ireland-to-scotland-a-tour-of-richard-pryors-berkeley",
+          "publishedOn": "2026-07-17T00:15:00.000Z",
+          "wordCount": 7474,
+          "title": "The Wire: Berkeley teen swims from Ireland to Scotland; a tour of Richard Pryor’s Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/09/Maya-Merhige-.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559861",
+          "author": "Alex N. Gecan and Vanessa Arredondo",
+          "description": "ICE and the State Department took a 30-year-old into custody last week near Telegraph and Woolsey, with plans for deportation. ICE claims the person had violated terms of a visa, but has not said how.",
+          "link": "https://www.berkeleyside.org/2026/07/16/ice-state-department-run-immigration-operation-in-berkeley-behind-cops-backs",
+          "publishedOn": "2026-07-16T23:40:00.000Z",
+          "wordCount": 7923,
+          "title": "ICE seizes person in Berkeley in operation in which little is known",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Reported-ICE-activity-on-Woolsey-and-Telegraph-streets.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559996",
+          "author": "Hope Muñoz",
+          "description": "Litter and illegal dumping are a problem from the Marina to Grizzly Peak. Here’s what people are doing to help — and how you can pitch in.",
+          "link": "https://www.berkeleyside.org/2026/07/16/berkeley-volunteer-garbage-cleanup-groups",
+          "publishedOn": "2026-07-16T21:22:45.000Z",
+          "wordCount": 9052,
+          "title": "5 trash cleanup volunteer groups you can join in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/South-shattuck-cleanup.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=559989",
+          "author": "Madeline Taub",
+          "description": "One of the most popular dishes at the Emeryville restaurant is inspired by chef Tony Tung's favorite afterschool snack while growing up in Taiwan.",
+          "link": "https://www.berkeleyside.org/2026/07/16/good-to-eat-taiwanese-food-bbq-fried-chicken",
+          "publishedOn": "2026-07-16T19:00:00.000Z",
+          "wordCount": 7430,
+          "title": "Dish & Tell: The story behind Good to Eat’s BBQ fried chicken cutlet",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/GoodToEat-BBQChickenCutlet-Lapan.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559969",
           "author": "Alex N. Gecan",
@@ -9796,6 +9826,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/we-need-to-stop-this-reckless-rhetoric-about-abolishing-the-thought-police",
+          "author": "Cezary Jan Strusiewicz",
+          "description": "“As a new video emerged capturing gunshots and yelling in a fatal shooting in Maine involving federal immigration officers, the state’s governor called on Congress to immediately reform and rein in ICE ‘before more families are robbed of a loved one.’” — ABC News\n - - -\nI’ve been hearing a lot of talk lately about abolishing the Thought Police, and frankly, it’s the sort of unserious political discourse that has sadly inundated our everyday lives. Everyone wants to tear down institutions these days. Nobody wants to BUILD. Nobody has any respect for tradition anymore. The Thought Police have existed for over forty years now. They’re right there with the Parthenon, the pyramids, and New Coke.\n Some of our greatest cultural achievements are younger than the Thought Police. The Segway is young…",
+          "link": "https://www.mcsweeneys.net/articles/we-need-to-stop-this-reckless-rhetoric-about-abolishing-the-thought-police",
+          "publishedOn": "2026-07-17T00:00:00.000Z",
+          "wordCount": 3091,
+          "title": "We Need to Stop This Reckless Rhetoric About Abolishing the Thought Police",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8e18ztoyl3vqwu95m76p6ku1r3h1"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/effective-immediately-every-god-fearing-soldier-will-be-jacked-to-the-gills-with-testosterone",
           "author": "Kate Chrisman",
