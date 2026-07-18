@@ -3041,6 +3041,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3273/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3273/",
+          "publishedOn": "2026-07-17T04:00:00.000Z",
+          "wordCount": 189,
+          "title": "Latitude and Longitude",
+          "imageUrl": "https://imgs.xkcd.com/comics/latitude_and_longitude_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3272/",
           "author": null,
           "description": "",
@@ -3831,6 +3841,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560085",
+          "author": "Daniel Ekonde",
+          "description": "Renderings from the developers show five apartment buildings rising over what is now the station's parking lot. Here’s the first public look at what the project could become.",
+          "link": "https://www.berkeleyside.org/2026/07/17/ashby-bart-housing-development-renderings-photos",
+          "publishedOn": "2026-07-17T21:53:13.000Z",
+          "wordCount": 8324,
+          "title": "Ashby BART developers show what housing could look like, and how long it’ll take",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Ashby-BART-renderings.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560071",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/07/17/gallegos-ace-seafood-greens-grains-hs-fish-chips-closed",
+          "publishedOn": "2026-07-17T19:00:00.000Z",
+          "wordCount": 7008,
+          "title": "Berkeley Mexican spot Gallego’s quietly goes dark, plus more East Bay restaurant closures",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/gallegos-berkeley-closed.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=559952",
           "author": "Local sponsor",
@@ -11573,6 +11603,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112210 at https://www.eff.org",
+          "author": "Melissa Srago",
+          "description": "August 8, 2026 - 5:00pm to 8:00pm PDT\n\n\nAugust 8, 2026 - 5:00pm to 8:00pm PDT\n\n\nLas Vegas Convention Center | Las Vegas, NV\n\n\n\nEFF's privacy and security experts have crafted a new trivia challenge for DEF CON 34! Compete as a team in our no-holds-barred showdown to prove mastery over the obscure facts of digital security, online rights, and internet culture.\nThe First Place team wins a set of custom Cybertiger Champion Badges and EFF swag. Second and third place teams will also win Badges and EFF gear.\nInvite your friends OR show up and make new friends! Did someone say BRIBES? The world is unfair! You too could influence the judges to add a point or two to your team's tally. Overall Bribe winner also wins a custom badge!\nTest your knowledge of all things tech and support EFF, too.\nWhen:\nSaturday, August 8, 2026 - 17:00-20:00\nWhere: \nContest Stage (near the entrance to Hall 1), Las Vegas Convention Center\nHost & Guest Judges: \nFeaturing EFF's Cybertiger Cooper Quintin as Quizmaster with Guest Judges: Cindy Cohn, Kate Bertash, and Heidi Potter.\n\n\n\n\n\nCalendar",
+          "link": "https://www.eff.org/event/tech-trivia-def-con-34",
+          "publishedOn": "2026-07-17T23:02:07.000Z",
+          "wordCount": 749,
+          "title": "Tech Trivia at DEF CON 34",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/techtrivia-defcon-2-1.png",
+            "alt": "EFF Tech Trivia at DEF CON 32",
+            "type": "image/png",
+            "length": "40751"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/techtrivia-defcon-2-1.png"
+        },
         {
           "id": "112209 at https://www.eff.org",
           "author": "Matthew Guariglia",
