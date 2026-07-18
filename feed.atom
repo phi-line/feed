@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-18T02:12:57.404Z</updated>
+    <updated>2026-07-18T07:45:21.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s recipe for roasted Greek salad with orzo | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/jul/18/roasted-greek-salad-orzo-recipe-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/jul/18/roasted-greek-salad-orzo-recipe-meera-sodha"/>
+        <updated>2026-07-18T05:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Bring the flavours – and heat – of Athens into your kitchen, with this traditional salad baked for an added sweetness and jamminess
+Greeks, look away now! Those who don’t turn on the oven in the summer months might want to turn the page, too. Personally, I don’t mind putting something in the oven in summer, not least because I enjoy that the oven does the work when I might not want to. I even quite like that cheeky blast of heat when I open the door, imagining briefly that I’m on the streets of Athens. I digress … Today’s recipe is for a Greek salad (minus the cucumber) that’s roasted to make the flavours sweeter and more jammy, then cut with briny feta and cooked with orzo to fill bellies after a long summer’s day.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tech Trivia at DEF CON 34]]></title>
         <id>112210 at https://www.eff.org</id>
