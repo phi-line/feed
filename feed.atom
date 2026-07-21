@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-21T13:43:41.066Z</updated>
+    <updated>2026-07-21T19:17:27.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Milk Cloud’s West Berkeley soft opening scheduled, Divan now serving dinner, a new popsicle spot arrives and more openings]]></title>
+        <id>https://www.berkeleyside.org/?p=560144</id>
+        <link href="https://www.berkeleyside.org/2026/07/21/gateway-highwire-milk-cloud-pop-bar-gregorys"/>
+        <updated>2026-07-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did medieval people love their children?]]></title>
+        <id>https://worksinprogress.co/issue/did-medieval-people-love-their-children/</id>
+        <link href="https://worksinprogress.co/issue/did-medieval-people-love-their-children/"/>
+        <updated>2026-07-21T18:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Is it really plausible that children survived the terrible hardship of medieval life without devoted parents?]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?]]></title>
+        <id>6a5fa126361fba0001060cc6</id>
+        <link href="https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/"/>
+        <updated>2026-07-21T17:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Fixes Hide My Email Vulnerability After 404 Media Coverage]]></title>
+        <id>6a5f77700dcfc1000179916b</id>
+        <link href="https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/"/>
+        <updated>2026-07-21T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Humanity Needs To Flourish In The Next Decade]]></title>
+        <id>https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade</id>
+        <link href="https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade"/>
+        <updated>2026-07-21T14:47:09.000Z</updated>
+        <summary type="html"><![CDATA[The post What Humanity Needs To Flourish In The Next Decade appeared first on NOEMA.]]></summary>
+        <author>
+            <name>E. Glen Weyl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop]]></title>
+        <id>6a5f77200dcfc10001799154</id>
+        <link href="https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/"/>
+        <updated>2026-07-21T13:51:39.000Z</updated>
+        <summary type="html"><![CDATA[ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Measure C has sent $53M to Alameda County childcare centers]]></title>
         <id>https://oaklandside.org/?p=477205</id>
@@ -88,6 +148,18 @@ Filing a request on the DROP will send a request to delete and opt-out of sale t
         <summary type="html"><![CDATA[Provocation Theatre hosts weekend performances and classes for the quiet, the thoughtful, the loud and the funny. A four-day festival this weekend is themed “Bigger, Better, More Gay!”]]></summary>
         <author>
             <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Explosion of Surveillance Towers is Coming to U.S. Borders, Costing Over $1 Billion]]></title>
+        <id>112212 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/explosion-surveillance-towers-coming-us-borders-costing-over-1-billion"/>
+        <updated>2026-07-20T19:25:44.000Z</updated>
+        <summary type="html"><![CDATA[A new report from the Government Accounting Office reveals that the Department of Homeland Security (DHS) plans to nearly triple the number of surveillance towers along U.S. borders, from the current 830 to 2,300 by 2034.
+DHS expects to expend $1 billion in taxpayer dollars for this dangerous expansion of a surveillance network indiscriminately trained on towns, school playgrounds, backyards, and vehicles—threatening the privacy and civil liberties of everyone in the border regions.
+The towers are planned as part of DHS component Customs and Border Protection’s (CBP) Integrated Surveillance Tower (IST) program, which captures images of people and vehicles. The IST program operates autonomous surveillance towers, consisting of autonomous surveillance towers, consisting of AI-based systems u…]]></summary>
+        <author>
+            <name>Karen Gullo</name>
         </author>
     </entry>
     <entry>
