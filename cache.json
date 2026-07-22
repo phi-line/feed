@@ -653,6 +653,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a60fcdd2958a300016ba3c2",
+          "author": "Matthew Gault",
+          "description": "My small town in South Carolina will soon have more Flock cameras than police officers.",
+          "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
+          "publishedOn": "2026-07-22T18:33:44.000Z",
+          "wordCount": 3043,
+          "title": "What Happened When Flock Came to My Town",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/FlockSmall-1.jpg"
+        },
+        {
+          "id": "6a5e9fdd08893c0001c3eb7f",
+          "author": "Jason Koebler",
+          "description": "\"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great.\"",
+          "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
+          "publishedOn": "2026-07-22T14:03:02.000Z",
+          "wordCount": 1380,
+          "title": "Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/07/CleanShot-2026-07-20-at-15.36.05@2x.png"
+        },
+        {
+          "id": "6a60ca61361fba0001062dd1",
+          "author": "Joseph Cox",
+          "description": "How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.",
+          "link": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
+          "publishedOn": "2026-07-22T13:56:17.000Z",
+          "wordCount": 1106,
+          "title": "Podcast: Flock is Tracking People, Not Just Cars",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/maxresdefault-2-1.jpg"
+        },
+        {
           "id": "6a5e3264c64e900001e6363f",
           "author": "Joseph Cox",
           "description": "Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE.",
@@ -2968,6 +2998,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3275/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3275/",
+          "publishedOn": "2026-07-22T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Calibration Nobel",
+          "imageUrl": "https://imgs.xkcd.com/comics/calibration_nobel_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3274/",
           "author": null,
           "description": "",
@@ -3336,16 +3376,6 @@
           "wordCount": 187,
           "title": "Soniferous Aether",
           "imageUrl": "https://imgs.xkcd.com/comics/soniferous_aether_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3237/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3237/",
-          "publishedOn": "2026-04-24T04:00:00.000Z",
-          "wordCount": 189,
-          "title": "Husband and Wife",
-          "imageUrl": "https://imgs.xkcd.com/comics/husband_and_wife_2x.png"
         }
       ]
     },
@@ -3758,6 +3788,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560165",
+          "author": "Alix Wall",
+          "description": "Co-owners Sara Rahimian and Stacie Frederick, who both pivoted from tech industry careers, took over the Bartavelle space in 2025 and recently purchased Henry's Service with plans to convert it into a cafe.",
+          "link": "https://www.berkeleyside.org/2026/07/22/evergreen-cafe-breakfast-westbrae-expansion",
+          "publishedOn": "2026-07-22T19:00:00.000Z",
+          "wordCount": 8754,
+          "title": "Following successful first year, Evergreen Cafe plots Westbrae expansion",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-EvergreenCafe_Nosh-5.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560211",
+          "author": "Joanne Furio",
+          "description": "Her 12th novel, “A Perfect Hand,” has a Victorian marriage plot — with a twist. Other new Berkeley books include poems written on the Tamalpais fence in Codornices Park and a look at the influence of UC Berkeley faculty’s brown-shingle summer homes on Inverness’ architectural history.",
+          "link": "https://www.berkeleyside.org/2026/07/22/a-perfect-hand-ayelet-waldman",
+          "publishedOn": "2026-07-22T18:18:18.000Z",
+          "wordCount": 9854,
+          "title": "After ‘losing her soul to Hollywood,’ Ayelet Waldman just published her first novel in a decade",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-ayelet-bookpassage.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560206",
+          "author": "Mikhail Zinshteyn | CalMatters",
+          "description": "The Trump administration cancelled $2 billion of research grants to University of California professors. Their legal team says it has proof that those terminations were unconstitutional.",
+          "link": "https://www.berkeleyside.org/2026/07/22/white-house-admits-it-used-keywords-to-kill-billions-worth-of-uc-research-grants",
+          "publishedOn": "2026-07-22T17:56:44.000Z",
+          "wordCount": 8294,
+          "title": "White House admits it used keywords to kill billions worth of UC research grants",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/image-8.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560178",
+          "author": "Clara-Sophia Daly",
+          "description": "Most who failed to show up at Concord Immigration Court in July for the new \"mega master\" hearings got deportation orders. “It’s a trap,” one former immigration judge said.",
+          "link": "https://www.berkeleyside.org/2026/07/22/deportation-orders-trump-administration-mega-master-hearings",
+          "publishedOn": "2026-07-22T15:10:49.000Z",
+          "wordCount": 8567,
+          "title": "Deportation orders rise in Bay Area for immigrants who miss Trump admin’s new mega-hearings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/concordimmigrationcourt_061125_tlyons-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560163",
           "author": "Tony Hicks",
@@ -9784,6 +9854,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-have-never-made-this-recipe-but-i-give-it-five-stars",
+          "author": "Rachel Reyes",
+          "description": "Five big stars for these blueberry muffins. This delightful treat by Dana’s Delish blog has it all, including a crunchy crumble topping and a just-right burst of juicy berries. They look delicious—based on the picture Dana posted, that is. I haven’t actually made these.\n As soon as I saw this recipe, I got to work. Did I go to the supermarket, purchase various baking ingredients, and then spend an hour carefully following the instructions, persisting even as the web page blasted pop-up ads for Mylanta every ten seconds? No. Did I bite into a freshly baked muffin, note its texture and flavor, and thoughtfully consider whether it lived up to the recipe’s claim of “best muffins ever”? Of course not. I simply posted a new comment that said “Looks yummy! Can’t wait to make!” even though I have …",
+          "link": "https://www.mcsweeneys.net/articles/i-have-never-made-this-recipe-but-i-give-it-five-stars",
+          "publishedOn": "2026-07-22T18:00:00.000Z",
+          "wordCount": 2867,
+          "title": "I Have Never Made This Recipe, but I Give It Five Stars",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2kmid9q69tnakaad30j7fu2p5ygd"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/aldi-crystal-clear-frozen-ice-cubes",
           "author": "Hallie Pritts",
           "description": "My most enjoyable ice experience occurred sometime in the 1980s.\n On a hot day, my aunt made all the cousins get out of the pool for lunch. She passed out bologna-on-white-bread sandwiches, then dropped ice cubes into a line of waxy shell-pink plastic tumblers endemic to the ’80s, maybe only endemic to ’80s aunts. She poured Pepsi over the ice, and everything bubbled gently, ice cubes clinking. The cups, probably full of PFAS chemicals, gave the Pepsi a slight note of Barbie doll. Delicious.\n The ice cubes wore down in the acid swirl of cola while my cousins and I dripped pool water into the grass and tried not to step on bees. We drank until only the ice was left. Having lost their sharp edges, the ice cubes were now milky white ovals with star-like fault lines. I bit down on the ice; it …",
@@ -13596,16 +13676,6 @@
           "wordCount": 1524,
           "title": "Artificial used to be a compliment",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/Artificial-Ice-Flavoring-Share_Cards-copy.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/engineering-the-disposable-diaper/",
-          "author": null,
-          "description": "Benjamin Spock told mothers in the mid-twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.",
-          "link": "https://worksinprogress.co/issue/engineering-the-disposable-diaper/",
-          "publishedOn": "2026-04-24T06:18:13.000Z",
-          "wordCount": 2901,
-          "title": "Engineering the disposable diaper",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/04/Engineering-the-disposable-diaper-1.jpg"
         }
       ]
     }
