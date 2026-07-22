@@ -536,6 +536,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/rust-and-boll",
+          "author": null,
+          "description": "Anthropic should learn from those cotton-picking socialists.",
+          "link": "https://asteriskmag.com/issues/15/rust-and-boll",
+          "publishedOn": "2026-07-21T00:00:00.000Z",
+          "wordCount": 5049,
+          "title": "Rust and Boll",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/34173b487a-1784388742/asterisk15_cover-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
           "author": null,
           "description": "Everyone knows RCTs are the gold standard of evidence. ….Right?",
@@ -584,6 +594,16 @@
           "wordCount": 5575,
           "title": "Selling Abstraction",
           "imageUrl": "https://asteriskmag.com/media/pages/issues/14/selling-abstraction/e8cec1af35-1779820727/selling-abstraction-leah-libresco-sargeant-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/15/chinas-last-bus",
+          "author": null,
+          "description": "China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.",
+          "link": "https://asteriskmag.com/issues/15/chinas-last-bus",
+          "publishedOn": "2026-05-20T00:00:00.000Z",
+          "wordCount": 4857,
+          "title": "Boarding China’s Last Bus",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/chinas-last-bus/dc6a9045aa-1779212603/chinas-last-bus-zilan-qian-1600x900-crop-sharpen50.png"
         },
         {
           "id": "https://asteriskmag.com/issues/14/chinas-last-bus",
@@ -2511,16 +2531,6 @@
           "wordCount": 1584,
           "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/1920px-Ford_lake_dam_-Rawsonville_dam-_michigan2-1.jpg"
-        },
-        {
-          "id": "69ea1bfd591441000171f61c",
-          "author": "Samantha Cole",
-          "description": "Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.",
-          "link": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
-          "publishedOn": "2026-04-23T13:52:19.000Z",
-          "wordCount": 2447,
-          "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/jonathan-castaneda-OOmSne-Gz7w-unsplash--1--1.jpg"
         }
       ]
     },
@@ -3356,6 +3366,16 @@
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
         {
+          "id": "https://writings.stephenwolfram.com/?p=75405",
+          "author": "Stephen Wolfram",
+          "description": "“My Program Did the Wrong Thing!” Bugs are a ubiquitous phenomenon in the software world. And—essentially by definition—each one of them is somehow unique and unexpected. But—particularly given their ubiquity—one might wonder whether there could perhaps be some kind of general “scientific” theory that could be developed about them. My goal here is to explore […]",
+          "link": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
+          "publishedOn": "2026-07-21T22:00:28.000Z",
+          "wordCount": 8787,
+          "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/07/bugs-tweet-v3-darkmode.png"
+        },
+        {
           "id": "https://writings.stephenwolfram.com/?p=73402",
           "author": "Stephen Wolfram",
           "description": "June 23, 1988 is when we launched Version 1.0 of Mathematica. Today—almost 38 years later—we’re launching Version 15 of what—in recognition of how far it’s expanded beyond “math”—we now call Wolfram Language. It’s an impressive release, with a lot of new core functionality. It might perhaps seem surprising that after 38 years there’d still be more to add. But it’s like the typical arc of intellectual history: the more one’s figured out, the further one can see, and the more one becomes able to do. And for all of us working on it, it’s been a very satisfying process: year after year building an ever taller tower of ideas and technology, with which we can reach ever further—today to all the functionality of Version 15.",
@@ -3741,16 +3761,6 @@
           "wordCount": 5709,
           "title": "The Humility Of Bioscientists",
           "imageUrl": "https://noemamag.imgix.net/2026/04/IMG_1012-scaled.jpeg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=d1bb9dad070c053852ede819117380f8"
-        },
-        {
-          "id": "https://www.noemamag.com/the-rise-and-fall-of-petty-tyrants",
-          "author": "Danny Hillis",
-          "description": "The post The Rise And Fall Of ‘Petty Tyrants’ appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-rise-and-fall-of-petty-tyrants",
-          "publishedOn": "2026-04-23T12:59:26.000Z",
-          "wordCount": 13501,
-          "title": "The Rise And Fall Of ‘Petty Tyrants’",
-          "imageUrl": "https://noemamag.imgix.net/2026/04/Nico_Tyrant_infocus.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=d4044d0a09949840518921bc555367f0"
         }
       ]
     },
@@ -3759,6 +3769,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560163",
+          "author": "Tony Hicks",
+          "description": "They say employees are underpaid and the hotel is understaffed.",
+          "link": "https://www.berkeleyside.org/2026/07/21/graduate-by-hilton-berkeley-unionizing",
+          "publishedOn": "2026-07-21T23:29:07.000Z",
+          "wordCount": 8229,
+          "title": "Workers at Berkeley’s Graduate by Hilton hotel push to unionize",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-Labor-Picket-09.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560143",
+          "author": "Susan Muscarella",
+          "description": "He made Cal Performances a destination for the world's most celebrated artists and companies — the Bolshoi, Alvin Ailey, Mikhail Baryshnikov, Yo-Yo Ma and countless more.",
+          "link": "https://www.berkeleyside.org/2026/07/21/remembering-robert-cole-who-turned-cal-performances-into-a-global-powerhouse",
+          "publishedOn": "2026-07-21T20:01:03.000Z",
+          "wordCount": 8845,
+          "title": "Remembering Robert Cole, who turned Cal Performances into a global powerhouse",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/cal-performances-robert-cole-03-by-peter-desilva.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560144",
           "author": "Momo Chang",
@@ -6573,16 +6603,6 @@
           "wordCount": 7127,
           "title": "UC Berkeley campus sees 2 deaths in under 24 hours",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/20230330-171953.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=555773",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Also: “Carrie: The Musical,” and a book talk with the author of “So Many Stars: An Oral History of Trans, Nonbinary, Genderqueer, and Two-Spirit People of Color.”",
-          "link": "https://www.berkeleyside.org/2026/04/23/around-berkeley-earth-day-music-asian-night-market-wild-and-scenic-film-festival",
-          "publishedOn": "2026-04-23T13:00:00.000Z",
-          "wordCount": 8234,
-          "title": "Around Berkeley: Earth Day music, Asian Night Market, ‘wild and scenic’ film festival",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Sukkot-2024-1-scaled.jpg?fit=2560%2C1920&ssl=1"
         }
       ]
     },
@@ -7184,16 +7204,6 @@
           "publishedOn": "2026-04-27T09:01:19.000Z",
           "wordCount": null,
           "title": "Infinity Song: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6tCjflXY9CM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6tCjflXY9CM",
-          "publishedOn": "2026-04-23T09:00:22.000Z",
-          "wordCount": null,
-          "title": "Amaia: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11453,16 +11463,6 @@
           "wordCount": 2009,
           "title": "A Malady of Puns",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/enhic6o696jox8bj6vvj2zucfzl2"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/why-its-actually-a-reassuring-sign-that-youre-about-to-be-eaten-by-wolves-ethan",
-          "author": "Beatrice Hitchman",
-          "description": "“CHATGPT, I need help now, three wolves circling tree.”\n Okay, Ethan. Got it. Many would consider it extremely flattering that it’s now not just one, but rather two, or even three, wolves who’ve stepped up to the plate. Wolves are busy, and if they’re circling you, it’s because they’ve invested. No ghosting. No mixed signals. Just full, undivided, 100 percent attention.\n And honestly, Ethan? All that work you’ve been doing? That has to play a part here. You’re not just radiating purpose—you’re sucking it towards you. Of course the wolves notice. Of course they’re drawn to you. You’re not just a tidbit—you’re a whole snack.\n If you like, I can show you three deep-breathing exercises recommended by Siberian babushkas who face challenging wildlife situations all the time. The third one is sur…",
-          "link": "https://www.mcsweeneys.net/articles/why-its-actually-a-reassuring-sign-that-youre-about-to-be-eaten-by-wolves-ethan",
-          "publishedOn": "2026-04-23T12:00:00.000Z",
-          "wordCount": 2644,
-          "title": "Why It’s Actually a Reassuring Sign that You’re About to Be Eaten by Wolves, Ethan",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/feuu8mew5am5osgi4tekhtao7i8u"
         }
       ]
     },

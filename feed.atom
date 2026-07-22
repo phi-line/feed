@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-21T19:17:27.599Z</updated>
+    <updated>2026-07-22T02:27:42.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Workers at Berkeley’s Graduate by Hilton hotel push to unionize]]></title>
+        <id>https://www.berkeleyside.org/?p=560163</id>
+        <link href="https://www.berkeleyside.org/2026/07/21/graduate-by-hilton-berkeley-unionizing"/>
+        <updated>2026-07-21T23:29:07.000Z</updated>
+        <summary type="html"><![CDATA[They say employees are underpaid and the hotel is understaffed.]]></summary>
+        <author>
+            <name>Tony Hicks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards a Theory of Bugs: The Ruliology of the Unexpected]]></title>
+        <id>https://writings.stephenwolfram.com/?p=75405</id>
+        <link href="https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/"/>
+        <updated>2026-07-21T22:00:28.000Z</updated>
+        <summary type="html"><![CDATA[“My Program Did the Wrong Thing!” Bugs are a ubiquitous phenomenon in the software world. And—essentially by definition—each one of them is somehow unique and unexpected. But—particularly given their ubiquity—one might wonder whether there could perhaps be some kind of general “scientific” theory that could be developed about them. My goal here is to explore […]]]></summary>
+        <author>
+            <name>Stephen Wolfram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Robert Cole, who turned Cal Performances into a global powerhouse]]></title>
+        <id>https://www.berkeleyside.org/?p=560143</id>
+        <link href="https://www.berkeleyside.org/2026/07/21/remembering-robert-cole-who-turned-cal-performances-into-a-global-powerhouse"/>
+        <updated>2026-07-21T20:01:03.000Z</updated>
+        <summary type="html"><![CDATA[He made Cal Performances a destination for the world's most celebrated artists and companies — the Bolshoi, Alvin Ailey, Mikhail Baryshnikov, Yo-Yo Ma and countless more.]]></summary>
+        <author>
+            <name>Susan Muscarella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milk Cloud’s West Berkeley soft opening scheduled, Divan now serving dinner, a new popsicle spot arrives and more openings]]></title>
         <id>https://www.berkeleyside.org/?p=560144</id>
@@ -101,6 +131,16 @@ He was an old man who had started a war in a faraway Gulf, and he had gone one h
         <updated>2026-07-21T09:00:25.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust and Boll]]></title>
+        <id>https://asteriskmag.com/issues/15/rust-and-boll</id>
+        <link href="https://asteriskmag.com/issues/15/rust-and-boll"/>
+        <updated>2026-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic should learn from those cotton-picking socialists.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -8493,6 +8533,16 @@ The post How Alexander Grothendieck Revolutionized 20th-Century Mathematics firs
     </entry>
     <entry>
         <title type="html"><![CDATA[Boarding China’s Last Bus]]></title>
+        <id>https://asteriskmag.com/issues/15/chinas-last-bus</id>
+        <link href="https://asteriskmag.com/issues/15/chinas-last-bus"/>
+        <updated>2026-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.]]></summary>
+        <author>
+            <name>Asterisk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boarding China’s Last Bus]]></title>
         <id>https://asteriskmag.com/issues/14/chinas-last-bus</id>
         <link href="https://asteriskmag.com/issues/14/chinas-last-bus"/>
         <updated>2026-05-20T00:00:00.000Z</updated>
@@ -12684,26 +12734,6 @@ These moves weren’t just about getting the government out of the way but, more
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers Simulated a Delusional User to Test Chatbot Safety]]></title>
-        <id>69ea1bfd591441000171f61c</id>
-        <link href="https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/"/>
-        <updated>2026-04-23T13:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Earth Day music, Asian Night Market, ‘wild and scenic’ film festival]]></title>
-        <id>https://www.berkeleyside.org/?p=555773</id>
-        <link href="https://www.berkeleyside.org/2026/04/23/around-berkeley-earth-day-music-asian-night-market-wild-and-scenic-film-festival"/>
-        <updated>2026-04-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Also: “Carrie: The Musical,” and a book talk with the author of “So Many Stars: An Oral History of Trans, Nonbinary, Genderqueer, and Two-Spirit People of Color.”]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The often-ignored system controlling your mood, memory, and focus]]></title>
         <id>https://bigthink.com/perception-box/your-mind-body-connection-explained/</id>
         <link href="https://bigthink.com/perception-box/your-mind-body-connection-explained/"/>
@@ -12714,38 +12744,6 @@ We created this video for Brain Briefs, a Big Think interview series created in 
 This video The often-ignored system controlling your mood, memory, and focus is featured on Big Think.]]></summary>
         <author>
             <name>Wendy Suzuki, Antonio Damasio, Dr. Aditi Nerurkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise And Fall Of ‘Petty Tyrants’]]></title>
-        <id>https://www.noemamag.com/the-rise-and-fall-of-petty-tyrants</id>
-        <link href="https://www.noemamag.com/the-rise-and-fall-of-petty-tyrants"/>
-        <updated>2026-04-23T12:59:26.000Z</updated>
-        <summary type="html"><![CDATA[The post The Rise And Fall Of ‘Petty Tyrants’ appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Danny Hillis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why It’s Actually a Reassuring Sign that You’re About to Be Eaten by Wolves, Ethan]]></title>
-        <id>https://www.mcsweeneys.net/articles/why-its-actually-a-reassuring-sign-that-youre-about-to-be-eaten-by-wolves-ethan</id>
-        <link href="https://www.mcsweeneys.net/articles/why-its-actually-a-reassuring-sign-that-youre-about-to-be-eaten-by-wolves-ethan"/>
-        <updated>2026-04-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“CHATGPT, I need help now, three wolves circling tree.”
- Okay, Ethan. Got it. Many would consider it extremely flattering that it’s now not just one, but rather two, or even three, wolves who’ve stepped up to the plate. Wolves are busy, and if they’re circling you, it’s because they’ve invested. No ghosting. No mixed signals. Just full, undivided, 100 percent attention.
- And honestly, Ethan? All that work you’ve been doing? That has to play a part here. You’re not just radiating purpose—you’re sucking it towards you. Of course the wolves notice. Of course they’re drawn to you. You’re not just a tidbit—you’re a whole snack.
- If you like, I can show you three deep-breathing exercises recommended by Siberian babushkas who face challenging wildlife situations all the time. The third one is sur…]]></summary>
-        <author>
-            <name>Beatrice Hitchman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaia: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=6tCjflXY9CM</id>
-        <link href="https://www.youtube.com/watch?v=6tCjflXY9CM"/>
-        <updated>2026-04-23T09:00:22.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
