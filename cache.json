@@ -596,6 +596,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/all-work-and-no-play",
+          "author": null,
+          "description": "Welcome to Issue 15.",
+          "link": "https://asteriskmag.com/issues/15/all-work-and-no-play",
+          "publishedOn": "2026-07-21T00:00:00.000Z",
+          "wordCount": 1003,
+          "title": "All Work and No Play",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/34173b487a-1784388742/asterisk15_cover-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/rust-and-boll",
           "author": null,
           "description": "Anthropic should learn from those cotton-picking socialists.",
@@ -712,6 +722,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a6285f98f6b5a0001684f24",
+          "author": "Samantha Cole",
+          "description": "A judge in Indiana warns a court reporter than it's their job to proofread their work, after catching errors likely made by AI transcription services.",
+          "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
+          "publishedOn": "2026-07-23T21:41:29.000Z",
+          "wordCount": 1337,
+          "title": "A Stenographer Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/nik-wBjAyR18_yQ-unsplash--1-.jpg"
+        },
+        {
+          "id": "6a6272f68f6b5a0001684b2b",
+          "author": "Jason Koebler",
+          "description": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
+          "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
+          "publishedOn": "2026-07-23T20:12:32.000Z",
+          "wordCount": 1547,
+          "title": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-23-at-13.11.41@2x.png"
+        },
         {
           "id": "6a622fb48f6b5a00016825ef",
           "author": "Samantha Cole",
@@ -2641,16 +2671,6 @@
           "wordCount": 2142,
           "title": "Google DeepMind Paper Argues LLMs Will Never Be Conscious",
           "imageUrl": "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxnb29nbGUlMjB8ZW58MHx8fHwxNzc3MjMxOTcyfDA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "69ebc0e65914410001777506",
-          "author": "Becky Ferreira",
-          "description": "The discovery of a bizarre golden object two miles under Alaskan waters flummoxed scientists, but a new study pins down the true nature of the “orb.”",
-          "link": "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
-          "publishedOn": "2026-04-25T13:00:48.000Z",
-          "wordCount": 2215,
-          "title": "A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is.",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/image2-1.jpg"
         }
       ]
     },
@@ -3857,6 +3877,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560306",
+          "author": "Berkeleyside Staff",
+          "description": "Plus: A 5 Tacos & Beers employee was attacked and robbed while leaving work, and the Downtown Berkeley Association has named a new leader.",
+          "link": "https://www.berkeleyside.org/2026/07/23/the-wire-uc-berkeley-repatriating-36-lots-of-indigenous-remains",
+          "publishedOn": "2026-07-24T00:17:00.000Z",
+          "wordCount": 6958,
+          "title": "The Wire: UC Berkeley repatriating 36 lots of Indigenous remains",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/20231221-Berkeley-Hearst.jpeg?fit=1600%2C1066&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560249",
+          "author": "Nathan Dalton",
+          "description": "The owners of Airship Electrolysis in the Elmwood help patients get gender-affirming care covered by insurance, and have worked to bring more trans people into the profession.",
+          "link": "https://www.berkeleyside.org/2026/07/23/airship-electrolysis-berkeley",
+          "publishedOn": "2026-07-23T21:44:18.000Z",
+          "wordCount": 7840,
+          "title": "New Berkeley clinic aims to make hair removal less painful for trans community",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-Electrologist-May-Cluff-with-Airship-co-worker-Chelsea-ONeal.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560225",
           "author": "Calliope Arkilic",
@@ -11539,6 +11579,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112216 at https://www.eff.org",
+          "author": "Beryl Lipton",
+          "description": "Police departments across the country are lining up to launch drone-as-first-responder (DFR) programs, and hundreds have cleared a necessary hurdle toward making deployment a reality, expanding aerial surveillance and data collection even in areas patrol officers typically can't reach.\nAs of February 2026, over 1,000 public safety agencies—including police, fire, and other emergency management agencies—had received Federal Aviation Administration (FAA) waivers needed to automate drone operations and launch a DFR program, according to a recent Freedom of Information Act (FOIA) release listing agencies that have obtained Part 91 waivers since the FAA streamlined and sped up the process in April 2025.\nThe changes led to a massive increase in the number of waivers issued. Only 976 DFR waivers …",
+          "link": "https://www.eff.org/deeplinks/2026/07/hundreds-drone-first-responder-programs-could-soon-be-launched-across-country",
+          "publishedOn": "2026-07-23T22:00:00.000Z",
+          "wordCount": 2179,
+          "title": "Hundreds of Drone-as-First-Responder Programs Could Soon Be Launched Across the Country",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/drone-police-by-shelby-criswell.png",
+            "alt": "police drone on tan background",
+            "type": "image/png",
+            "length": "109457"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/drone-police-by-shelby-criswell.png"
+        },
         {
           "id": "112217 at https://www.eff.org",
           "author": "Sophia Cope",
