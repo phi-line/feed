@@ -723,6 +723,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a63987b8f6b5a0001687294",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
+          "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
+          "publishedOn": "2026-07-24T18:11:04.000Z",
+          "wordCount": 1106,
+          "title": "Behind the Blog: No Spoilers",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/flocks--1--1.png"
+        },
+        {
           "id": "6a6285f98f6b5a0001684f24",
           "author": "Samantha Cole",
           "description": "A judge in Indiana warns a court reporter than it's their job to proofread their work, after catching errors likely made by AI transcription services.",
@@ -3887,6 +3897,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560327",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/07/24/oak-dar-kathiew-house-pour-manners-match-point-closed",
+          "publishedOn": "2026-07-24T19:14:10.000Z",
+          "wordCount": 7075,
+          "title": "Match Point announces final service, Pour Manners hits pause, and Kathiew House on hiatus after family member assaulted",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/MatchPointBrewingExterior.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560319",
+          "author": "Nico Savidge",
+          "description": "Questions facing Berkeley residents in 2026 include whether to double the soda tax, increase sales taxes and pay new parcel taxes to support the arts and create a public bank.",
+          "link": "https://www.berkeleyside.org/2026/07/24/berkeley-election-2026-ballot-measures-public-bank-soda-tax",
+          "publishedOn": "2026-07-24T18:37:43.000Z",
+          "wordCount": 8596,
+          "title": "Berkeley voters will decide on these 7 ballot measures in November",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/11/large-CampaignSpending_Natera_241101_03.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560191",
           "author": "Family of Sally Sklar",
@@ -9962,6 +9992,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/when-ill-know-ai-can-replace-me",
+          "author": "Casey Rand",
+          "description": "When it can get a tummy ache.\n When it’s constantly running ten minutes late.\n When it says “I’m fine,” but it really isn’t fine.\n When it reschedules dinner dates to watch old episodes of The O.C.\n When it buys tickets to a Wilco concert and forgets to go.\n When it takes a hard stance on something it knows very little about.\n When it takes twenty minutes to decide what to order and then immediately regrets its choice.\n When it makes a five-year plan and never thinks about it again.\n When it’s been reading Karl Ove Knausgård’s My Struggle for six years.\n When it mentally replays all the stupid things it said during the day while falling asleep at night.\n When it does something nice for someone, but then brags about it to someone else, negating the spirit of the original nice thing.\n When i…",
+          "link": "https://www.mcsweeneys.net/articles/when-ill-know-ai-can-replace-me",
+          "publishedOn": "2026-07-24T17:00:00.000Z",
+          "wordCount": 2561,
+          "title": "When I’ll Know  AI Can Replace Me",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/6qbqn07q6xqvzvwvhiksglmkj9z9"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/faq-potato-salad",
           "author": "Gary M. Almeter",
