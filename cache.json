@@ -3097,6 +3097,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3276/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3276/",
+          "publishedOn": "2026-07-24T04:00:00.000Z",
+          "wordCount": 189,
+          "title": "Recursive Trucker's Hitch",
+          "imageUrl": "https://imgs.xkcd.com/comics/recursive_truckers_hitch_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3275/",
           "author": null,
           "description": "",
