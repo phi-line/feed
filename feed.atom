@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-25T13:20:09.153Z</updated>
+    <updated>2026-07-25T19:03:22.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -26,6 +26,16 @@ Can a person in a heatwave ever have too many cold noodle dishes? I’d wager no
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Words We Teach English Language Learners Changed]]></title>
+        <id>https://pudding.cool/2026/07/essential-words</id>
+        <link href="https://pudding.cool/2026/07/essential-words"/>
+        <updated>2026-07-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How the words we teach English language learners changed]]></summary>
+        <author>
+            <name>The Pudding</name>
         </author>
     </entry>
     <entry>
@@ -12826,15 +12836,6 @@ Six quarks, six leptons, and antiparticles comprise the fermions.
 The quarks, antiquarks, and gluons…]]></summary>
         <author>
             <name>Ethan Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soniferous Aether]]></title>
-        <id>https://xkcd.com/3238/</id>
-        <link href="https://xkcd.com/3238/"/>
-        <updated>2026-04-27T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/07/essential-words",
+          "author": null,
+          "description": "How the words we teach English language learners changed",
+          "link": "https://pudding.cool/2026/07/essential-words",
+          "publishedOn": "2026-07-25T04:00:00.000Z",
+          "wordCount": 17992,
+          "title": "How the Words We Teach English Language Learners Changed",
+          "imageUrl": "https://pudding.cool/2026/07/essential-words/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://pudding.cool/2026/06/ethical-champions",
           "author": null,
           "description": "Which teams don’t need asterisks by their title?",
@@ -3485,16 +3495,6 @@
           "wordCount": 187,
           "title": "Simple Machines",
           "imageUrl": "https://imgs.xkcd.com/comics/simple_machines_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3238/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3238/",
-          "publishedOn": "2026-04-27T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Soniferous Aether",
-          "imageUrl": "https://imgs.xkcd.com/comics/soniferous_aether_2x.png"
         }
       ]
     },
