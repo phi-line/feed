@@ -704,16 +704,6 @@
           "wordCount": 5101,
           "title": "Rust in Numbers",
           "imageUrl": "https://asteriskmag.com/media/pages/issues/14/rust-in-numbers/37be968d18-1777850636/dan-bouk-rust-in-numbers-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-          "author": null,
-          "description": "We all know they’re casinos. It’s time to look at the data behind the froth.",
-          "link": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-          "publishedOn": "2026-04-29T00:00:00.000Z",
-          "wordCount": 5718,
-          "title": "Are Prediction Markets Good for Anything?",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/are-prediction-markets-good-for-anything/d248692542-1777393260/dan-schwarz-prediction-markets-asterisk-1600x900-crop-sharpen50.png"
         }
       ]
     },
@@ -722,6 +712,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a676107a3313e0001d82fe3",
+          "author": "Joseph Cox",
+          "description": "Claude users are creating public share links, but probably don't realize that means their chats are now ending up in Google searches where anyone can dig through them.",
+          "link": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/",
+          "publishedOn": "2026-07-27T13:48:42.000Z",
+          "wordCount": 1331,
+          "title": "Tons of Peoples’ Claude Chats and Creations are Exposed on Google",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/brett-wharton-YmSiFKOecCU-unsplash.jpg"
+        },
+        {
+          "id": "6a5e6e3408893c0001c3e512",
+          "author": "Emanuel Maiberg",
+          "description": "Spotify doesn’t label AI music on its platform, so websites like SoullessMusic.com and SlopTracker.org do it instead.",
+          "link": "https://www.404media.co/spotifys-ai-problem-is-so-bad-random-people-are-stepping-in-to-track-the-slop/",
+          "publishedOn": "2026-07-27T13:25:34.000Z",
+          "wordCount": 1941,
+          "title": "Spotify's AI Problem Is So Bad Random People Are Stepping In to Track the Slop",
+          "imageUrl": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNwb3RpZnl8ZW58MHx8fHwxNzg0NTczNDk5fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a6696348f6b5a0001715784",
+          "author": "Janus Rose",
+          "description": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
+          "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
+          "publishedOn": "2026-07-27T10:00:04.000Z",
+          "wordCount": 3425,
+          "title": "Being a Luddite Is Fun Again",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/signal-2026-07-07-22-55-36-911_004.jpg"
+        },
         {
           "id": "6a63b5cc8f6b5a00016ba517",
           "author": "Becky Ferreira",
@@ -3828,6 +3848,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=560285",
+          "author": "Andrew Gilbert",
+          "description": "Saul Zaentz rented space to documentary filmmakers for next to nothing in West Berkeley’s Fantasy Studios. Seven movies made there over four decades are screening next month.",
+          "link": "https://www.berkeleyside.org/2026/07/27/made-in-berkeley-the-house-that-zaentz-built-bampfa-film-series",
+          "publishedOn": "2026-07-27T14:00:00.000Z",
+          "wordCount": 8667,
+          "title": "Films made at ‘Amadeus’ producer’s Berkeley studio get spotlight at BAMPFA",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Saul-Zaentz-in-Studio.jpg?fit=2048%2C1520&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=560327",
           "author": "Momo Chang",
           "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
@@ -6641,16 +6671,6 @@
           "wordCount": 7646,
           "title": "These UC Berkeley students are leading the fight against phones",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/UCBNoPhones4.jpg?fit=2000%2C1500&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=473054",
-          "author": "Eli Wolfe",
-          "description": "Port of Oakland and San Francisco leaders agreed to settle a bitter lawsuit over OAK's name change.",
-          "link": "https://www.berkeleyside.org/2026/04/28/oakland-san-francisco-bay-airport-why-is-it-named-that",
-          "publishedOn": "2026-04-28T23:37:18.000Z",
-          "wordCount": 7210,
-          "title": "It’s official: The ‘Oakland San Francisco Bay Airport’ name stays",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/AP24319173295014-1-scaled-2.jpg"
         }
       ]
     },
@@ -9479,6 +9499,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=22616",
+          "author": "Jessica Hylton",
+          "description": "These salty-sweet vegan peanut butter swirl brownies are wonderfully fudge-y with the perfect chew. They've got this gorgeous ribbon of creamy peanut butter swirled throughout. You won't be able to stop at one.",
+          "link": "https://jessicainthekitchen.com/vegan-chocolate-peanut-butter-swirl-brownies/",
+          "publishedOn": "2026-07-27T14:00:00.000Z",
+          "wordCount": 13472,
+          "title": "Chocolate Peanut Butter Swirl Brownies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/06/Vegan-Chocolate-Peanut-Butter-Swirl-Brownies1311.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=76948",
           "author": "Jessica Hylton",
           "description": "If you've got some day-old rice, you have to make this crispy rice salad! Soy-infused baked rice is tossed together with crunchy veggies, beautifully caramelised roasted tofu, and a heavenly Thai peanut sauce.",
@@ -9852,6 +9882,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/is-it-time-to-wash-the-dishes-a-flow-chart",
+          "author": "Katherine Bettis",
+          "description": "“Are you a participant in a battle of wills with a roommate over who will be the first to give in and do the dishes?”",
+          "link": "https://www.mcsweeneys.net/articles/is-it-time-to-wash-the-dishes-a-flow-chart",
+          "publishedOn": "2026-07-27T12:00:00.000Z",
+          "wordCount": 2160,
+          "title": "Is It Time to  Wash the Dishes?  A Flow Chart",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ojmvx0b5fgkm5qwwvdiyctwp3qbo"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/when-ill-know-ai-can-replace-me",
           "author": "Casey Rand",
@@ -11451,16 +11491,6 @@
           "wordCount": 2224,
           "title": "This Divorce",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0zqmgx8dfsf4w0t0wsi1pjs5zxd2"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/why-do-people-keep-trying-to-assassinate-caesar",
-          "author": "Louie Aronowitz",
-          "description": "I’m confused, maybe someone can help me. This is like the third assassination attempt on Julius Caesar, but things are going great in Rome. The value of silver is strong, the liberti/bad homines immigration is under control, and we’ve bounced back from the bubonic pandemic.\n So why do people keep trying to assassinate our leader?!\n I heard one person say it’s because he’s trying to seize power from the Senate and become an all-powerful dictator, but like, just because he refused to concede power when his term as governor ended and then sent his military across the Rubicon, essentially doing an insurrection on Rome, doesn’t indicate any of that. If that were the case, wouldn’t the Senate say something? Haven’t heard anything from Brutus or Cassius yet, so that’s a non-starter.\n Some are als…",
-          "link": "https://www.mcsweeneys.net/articles/why-do-people-keep-trying-to-assassinate-caesar",
-          "publishedOn": "2026-04-29T00:01:00.000Z",
-          "wordCount": 2547,
-          "title": "Why Do People Keep Trying to Assassinate Caesar?",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/bha9pdoa9ofppypuk41qfofm111z"
         }
       ]
     },
