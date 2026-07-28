@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-28T14:01:02.159Z</updated>
+    <updated>2026-07-28T19:19:26.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chains Palmetto, Sana’a, and Cold Stone open in Berkeley, plus Enssaro ready for Rockridge opening]]></title>
+        <id>https://www.berkeleyside.org/?p=560416</id>
+        <link href="https://www.berkeleyside.org/2026/07/28/palmetto-sanaa-enssaro-cold-stone-bugzos-open"/>
+        <updated>2026-07-28T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone]]></title>
+        <id>6a68e2a0d415b10001996606</id>
+        <link href="https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/"/>
+        <updated>2026-07-28T17:27:01.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,” he said.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Impale One Guy, and Suddenly You’re “Vlad the Impaler”]]></title>
+        <id>https://www.mcsweeneys.net/articles/you-impale-one-guy-and-suddenly-youre-vlad-the-impaler</id>
+        <link href="https://www.mcsweeneys.net/articles/you-impale-one-guy-and-suddenly-youre-vlad-the-impaler"/>
+        <updated>2026-07-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s so much more to me than impaling. I paint watercolors. I run half-marathons. I am a father, many times over, all across the Wallachian countryside. In fact, it’s statistically likely I’m a #girldad—and so, obviously, I’m also a feminist.
+ Although I contain these multitudes, everyone assumes that a leader known as “Vlad the Impaler” is the epitome of vicious cruelty.
+ But what’s the real violence? When I capture a guy from a Saxon village, bring him back to Wallachia, and impale him in the public square? Or when you subsequently bully me with the hurtful nickname “Vlad the Impaler”? At least my impaled enemy (whose name, incidentally, was also Vlad—most fifteenth-century Eastern European men are named Vlad) had the mercy of a stake through his viscera to put him out of his misery. …]]></summary>
+        <author>
+            <name>Talia Argondezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Gay Bars Building Databases of Their Patrons?]]></title>
+        <id>112222 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons"/>
+        <updated>2026-07-28T16:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Recent reports have raised alarm about the use of PatronScan, an ID-checking and face-scanning system, at multiple LGBTQ+ bars in San Francisco’s Castro neighborhood. Much of the attention has focused on reports that the system photographs patrons as they enter venues and questions about whether those images are used for facial recognition.
+A broader privacy concern also deserves scrutiny. For years, PatronScan has marketed itself not just as an ID-verification tool, but as a system that allows bars and clubs to identify patrons, keep records about them, and share information across venues. As one news article published in 2019 documented, PatronScan built a network that allowed participating bars to flag patrons and share information about them with other establishments. 
+And in Californi…]]></summary>
+        <author>
+            <name>Joe Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials]]></title>
+        <id>6a68cbefd415b10001995341</id>
+        <link href="https://www.404media.co/casa-grande-arizona-flock-city-council/"/>
+        <updated>2026-07-28T16:07:52.000Z</updated>
+        <summary type="html"><![CDATA[“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substackers Say New AI Detection Tool Is a ‘Witch Hunt’]]></title>
+        <id>6a68bf52d415b1000196b0c1</id>
+        <link href="https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/"/>
+        <updated>2026-07-28T14:53:59.000Z</updated>
+        <summary type="html"><![CDATA[“I’m not going to apologize for using AI in the creation process.”]]></summary>
+        <author>
+            <name>Emanuel Maiberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s iMessage Scanning Flagged a Video of My Friend's Dog as Nudity]]></title>
+        <id>6a68b1fd4afb5e00016068c5</id>
+        <link href="https://www.404media.co/apples-imessage-scanning-flagged-a-video-of-my-friends-dog-as-nudity/"/>
+        <updated>2026-07-28T14:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Sensitive Content Warning is supposed to protect users from unwanted nude images. It accidentally blurred my friend’s dog video.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley is a hotbed for estate sales. Here’s how to find the treasures they hide]]></title>
         <id>https://www.berkeleyside.org/?p=559214</id>
@@ -312,6 +386,17 @@ Can a person in a heatwave ever have too many cold noodle dishes? I’d wager no
         <summary type="html"><![CDATA[Questions facing Berkeley residents in 2026 include whether to double the soda tax, increase sales taxes and pay new parcel taxes to support the arts and create a public bank.]]></summary>
         <author>
             <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farmers Are Getting Control Of Their Equipment Back]]></title>
+        <id>112218 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/farmers-are-getting-control-their-equipment-back"/>
+        <updated>2026-07-24T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[For years, John Deere had actively made repairing their tractors near-impossible for anyone but itself and the few "authorized" repair shops—regardless of the ability of its customers to actually visit such shops. Now, in a major win for farmers and right to repair advocates, John Deere must soon provide farmers with not just the tools and resources to finally repair their own John Deere equipment, but also access to future updates for said equipment.
+In 2025, the Federal Trade Commission (FTC) brought a suit against farm equipment manufacturer John Deere, alleging John Deere used their control over equipment repair tools and resources to limit the ability of farmers and independent repair providers (IRPs) to repair John Deere equipment. Earlier this month, John Deere reached a settlement …]]></summary>
+        <author>
+            <name>Chao Liu</name>
         </author>
     </entry>
     <entry>
@@ -12384,19 +12469,6 @@ Back in 2011, the term “digital rights” was still fairly new. While in the d
 In 2011, we observed that there were only a few organizations…]]></summary>
         <author>
             <name>Jillian C. York</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaron v. Bondi]]></title>
-        <id>111971 at https://www.eff.org</id>
-        <link href="https://www.eff.org/cases/aaron-v-bondi"/>
-        <updated>2026-04-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The First Amendment protects the public's right to document and share information about law enforcement performing their duties in public. It also protects developers who curate that information online. These rights are more important now than ever.
-ICEBlock is a popular iPhone app that allows the public to report immigration activity in their communities. In June 2025, high-ranking federal officials began threatening to investigate and prosecute the person who created ICEBlock, Joshua Aaron. In October 2025, the U.S. Attorney General demanded Apple remove ICEBlock from the App Store, and the company complied. The government's prosecution threats against Aaron and coercion of Apple violate the Constitution. 
-Aaron and his company, ALL U CHART, INC., have sued these federal officials under the First Amendment for retaliating against him and for coercing Apple into suppressing the speech of more than a million ICEBlock users. The lawsuit names the U.S. Attorney General, the Secretary of the Department of Homeland Security (DHS), the director of Immigration and Customs Enforcement (ICE), and the White House Border Czar. The lawsuit was filed in the U.S. District Court of the District of Columbia.
-Along with the law firm Sher Tremonte, EFF is helping represent Aaron and his company in their First Amendment lawsuit.]]></summary>
-        <author>
-            <name>Mario Trujillo</name>
         </author>
     </entry>
     <entry>
