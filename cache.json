@@ -723,6 +723,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a67ec81d2657a0001fc3382",
+          "author": "Jason Koebler",
+          "description": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
+          "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
+          "publishedOn": "2026-07-27T23:43:57.000Z",
+          "wordCount": 1455,
+          "title": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-27-at-16.40.28@2x.png"
+        },
+        {
+          "id": "6a67e0bcd2657a0001fc31e5",
+          "author": "Matthew Gault",
+          "description": "Police refused to release the arrest report, saying it could \"could interfere with ongoing investigative efforts.\"",
+          "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
+          "publishedOn": "2026-07-27T22:56:07.000Z",
+          "wordCount": 1911,
+          "title": "Person Opposing Data Center Arrested for Clapping at City Meeting",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/Screenshot-2026-07-27-185254.png"
+        },
+        {
           "id": "6a677014a3313e0001d834a0",
           "author": "Joseph Cox",
           "description": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
@@ -2631,26 +2651,6 @@
           "wordCount": 1358,
           "title": "DHS Plans to Buy More Predator-Style Drones",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/17492555561_e5df452138_k.jpg"
-        },
-        {
-          "id": "69f0b0848e59a200013b4494",
-          "author": "Joseph Cox",
-          "description": "The move comes directly in response to 404 Media’s coverage about how the FBI was able to recover incoming Signal messages from an iPhone because the messages were saved in the device’s notification storage.",
-          "link": "https://www.404media.co/apple-fixes-bug-that-let-fbi-extract-deleted-signal-messages-after-404-media-coverage/",
-          "publishedOn": "2026-04-29T13:01:22.000Z",
-          "wordCount": 1601,
-          "title": "Apple Fixes Bug That Let FBI Extract Deleted Signal Messages After 404 Media Coverage",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/appshunter-io-BuPiOZN5DOQ-unsplash-1.jpg"
-        },
-        {
-          "id": "69f0f39a8e59a200013db4bf",
-          "author": "Samantha Cole",
-          "description": "A magic eye that isn't, an AI learning tool that sucks, and more in this week's podcast.",
-          "link": "https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/",
-          "publishedOn": "2026-04-29T12:56:30.000Z",
-          "wordCount": 1110,
-          "title": "Podcast: How This Trippy Image Started A Massive Conspiracy Theory",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/CAN-YOU-SEE-IT--1-.png"
         }
       ]
     },
@@ -3867,6 +3867,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560392",
+          "author": "Nico Savidge",
+          "description": "City leaders will decide on an updated plan this week to build the long-debated bike lanes, at the expense of more than 100 parking spaces.",
+          "link": "https://www.berkeleyside.org/2026/07/27/hopkins-bike-lane-project-berkeley-city-council",
+          "publishedOn": "2026-07-27T23:31:24.000Z",
+          "wordCount": 8892,
+          "title": "What’s in the revived plan for bike lanes on Hopkins Street",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Natera_230418_022_HopkinsDieIn_01.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560356",
+          "author": "Skylla Mumana",
+          "description": "The second annual festival brought together 60 low-intervention wineries from across the Bay Area for tastings, conversations and to celebrate the local wine community.",
+          "link": "https://www.berkeleyside.org/2026/07/27/unfiltered-berkeley-bay-area-natural-wine-festival",
+          "publishedOn": "2026-07-27T21:32:31.000Z",
+          "wordCount": 8331,
+          "title": "At Berkeley’s Unfiltered wine festival, local wine takes center stage",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/wineshake-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560285",
           "author": "Andrew Gilbert",
@@ -6681,16 +6701,6 @@
           "wordCount": 7673,
           "title": "Panisse but a party: New bar is the hip younger sibling to Berkeley’s most famous restaurant",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-EBNosh_BarPanisse-15.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556055",
-          "author": "Eliza Peppel | KQED",
-          "description": "The goal of a new group on the Cal campus is to help youth “reset their tech habits, reclaim their time and regain their focus.”",
-          "link": "https://www.berkeleyside.org/2026/04/29/project-reboot-uc-berkeley",
-          "publishedOn": "2026-04-29T11:00:00.000Z",
-          "wordCount": 7646,
-          "title": "These UC Berkeley students are leading the fight against phones",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/UCBNoPhones4.jpg?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -7282,16 +7292,6 @@
           "publishedOn": "2026-05-06T09:00:04.000Z",
           "wordCount": null,
           "title": "Ragtime: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p7YpVl35pac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p7YpVl35pac",
-          "publishedOn": "2026-04-29T14:04:53.000Z",
-          "wordCount": null,
-          "title": "Milo J: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -9913,6 +9913,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/affordable-midlife-crisis-options-for-millennials",
+          "author": "Kate Chrisman",
+          "description": "Instead of buying a sleek convertible, you head to Dick’s Sporting Goods and take a test-spin on every model of high-performance scooter. You settle on an electric one, which isn’t practical enough for your seven-mile commute to work, so you mainly use it to compete in the local teenage drag races on your cul-de-sac. It’s no Porsche, but it still gives you the thrill of the air rushing through your thinning, graying hair.\n - - -\nRather than leaving your spouse for a younger version, you find an older, more financially stable one with excellent health insurance. At the dinner parties you attend now, you’re constantly referred to as “the kid,” which gives you that feeling of youth that you were chasing.\n - - -\nYou dream about quitting your job to follow your passion, but your boss beats you …",
+          "link": "https://www.mcsweeneys.net/articles/affordable-midlife-crisis-options-for-millennials",
+          "publishedOn": "2026-07-28T00:00:00.000Z",
+          "wordCount": 3020,
+          "title": "Affordable Midlife Crisis Options for Millennials",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/w2eyp577uekuxpdqatpg90mflgvn"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/nuh-uh-not-it-and-other-new-pentagon-strategies-for-winning-at-war",
           "author": "Jack Loftus",
           "description": "“On Wednesday, the Pentagon reported on its casualties website that 18 American service members had been killed during the war in Iran. By Thursday, the Defense Department had lowered that number, reporting that 14 American troops had been killed in the war. Three military officials said that one reason behind the change was that the Trump administration decided to remove four service members killed this past weekend from the list because their deaths occurred after President Trump declared a ceasefire in the war in April.” — New York Times\n - - -\nModern warfare is full of consequences that continue to exist even after the president says they do not. Fortunately, the Pentagon has begun replacing outdated military doctrine with a simpler system that should feel familiar to anyone who has ev…",
@@ -11521,16 +11531,6 @@
           "wordCount": 2697,
           "title": "I Know Vorgarg the Kazoo-Playing Robot Tried to Kill Us All, but That’s Not Going to Stop Me from Going to His Concert",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/3fp63wf2dxpu8rik91b2r1b0m7vy"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/this-divorce",
-          "author": "Valerie Nies",
-          "description": "With apologies to Rumi.\n - - -\nMay this decree be signed expeditiously \n and this divorce be soon over.\n May it be amicable.\n But not too amicable.\n I refuse to vacation together. \n Who do we think we are,\n Gwyneth Paltrow and Chris Martin?\n May this divorce be like oil and water, \n separated indefinitely. In fact, let us be\n parallel lines. You go your way, I’ll go mine, \n never touching again. Ever.\n May this conscious uncoupling be full of freedom:\n from the nightly whistle of your CPAP machine\n and from your mother’s Christmas\n raisin bread pudding.\n Our every day a day where I no longer \n have to rewash the same load of laundry\n because you left it sitting overnight, \n where I no longer have to listen\n to you explain the plot of a TV show\n I’m already watching, while I’m watching it.\n No longer have to hear, for the 1,800th time,\n how you bumped into Robert De Niro\n at the Tribeca Whole Foods self-checkout\n and endorsed his chantilly cake—\n thereby altering the course of cinema.\n May this divorce be a sign of closure, \n a “clean and completed chapter,” in the words of\n Meghan, our marriage counselor,\n what a rip-off that was.\n May this marriage have a fair exchange of assets\n and a good lawyer, \n an omen to download the dating apps\n and become a noncommittal problem\n for an entirely new set of people.\n I am out of words to describe how thrilled I am\n to starfish-sprawl across the entire bed.",
-          "link": "https://www.mcsweeneys.net/articles/this-divorce",
-          "publishedOn": "2026-04-29T12:00:00.000Z",
-          "wordCount": 2224,
-          "title": "This Divorce",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0zqmgx8dfsf4w0t0wsi1pjs5zxd2"
         }
       ]
     },
@@ -11539,6 +11539,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112221 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "EFF’s first EFFecting Change livestream was all the way back in July of 2024. Maybe you've caught each stream, or maybe you’ve only caught a few. Or maybe you’re like me and prefer to listen to conversations like these on your daily commute! Either way, if you want to stay on top of these monthly conversations, you can now subscribe to our new podcast feed for EFFecting Change—starting with our conversation on the Right to Repair movement with Adam Savage and iFixit CEO Kyle Wiens:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F1ffaef7d-fd63-4133-8f3e-c28a98ff9f60%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nThis new feed will include the full conversations with our panelists, posted after the livestream ends. Subscribe today to get each stream straight to your podcast player of choice. You can also find other podcasts by EFF at eff.org/podcast.\nAnd mark your calendar for the next EFFecting Change livestream: Who the Machine Serves. EFF Executive Director Nicole Ozer and Cory Doctorow will be having a conversation on AI, tackling what needs to happen now to ensure AI actually works for everyone, not just those in power. RSVP today!\nWant to ensure EFF can keep inviting expert panelists to chat about the future of technology and how it impacts you? Support our work today.\nDonate to EFF",
+          "link": "https://www.eff.org/deeplinks/2026/07/miss-last-weeks-livestream-adam-savage-and-ifixit-listen-here",
+          "publishedOn": "2026-07-27T19:25:18.000Z",
+          "wordCount": 1460,
+          "title": "Missed EFF's Livestream with Adam Savage and iFixit? Listen Here!",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effectingchange_banner.png",
+            "alt": "The words &quot;EFFecting Change&quot; on a black background with red, white, and grey ribbons",
+            "type": "image/png",
+            "length": "118140"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effectingchange_banner.png"
+        },
         {
           "id": "112220 at https://www.eff.org",
           "author": "Christian Romero",
