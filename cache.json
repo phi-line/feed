@@ -586,6 +586,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
+          "author": null,
+          "description": "Most countries will never have frontier AI. They’re the ones who should be worrying.",
+          "link": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
+          "publishedOn": "2026-07-28T00:00:00.000Z",
+          "wordCount": 5106,
+          "title": "Beware the Permanent Periphery",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/beware-the-permanent-periphery/fb78a11826-1785172392/permanent-periphery-anton-leicht-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/all-work-and-no-play",
           "author": null,
           "description": "Welcome to Issue 15.",
@@ -2621,36 +2631,6 @@
           "wordCount": 1054,
           "title": "Behind the Blog: Big Questions of Consciousness",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/nl5.1.png"
-        },
-        {
-          "id": "69f35b508e59a2000142e4d8",
-          "author": "Joseph Cox",
-          "description": "The Compiler takes a serious amount of time, skill, and luck to get to. Someone on eBay is selling an easy fix.",
-          "link": "https://www.404media.co/buy-marathon-compiler-kill/",
-          "publishedOn": "2026-04-30T13:50:51.000Z",
-          "wordCount": 1353,
-          "title": "People Are Selling Kills of Marathon’s Hardest Boss on eBay",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/2026_Marathon_Cryo_Unlock_Press_Kit_COMPRESSED_04.png"
-        },
-        {
-          "id": "69f3509c8e59a200014093d0",
-          "author": "Jason Koebler",
-          "description": "Residents of Dunwoody, Georgia are furious about the city's surveillance contract with Flock. Do their elected officials care?",
-          "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-          "publishedOn": "2026-04-30T13:25:36.000Z",
-          "wordCount": 1601,
-          "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/CleanShot-2026-04-30-at-06.17.39@2x.png"
-        },
-        {
-          "id": "69f34edc8e59a20001409392",
-          "author": "Matthew Gault",
-          "description": "AirKamuy is shipping flatpacked drones made of paper that cost around $2,000.",
-          "link": "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
-          "publishedOn": "2026-04-30T12:56:21.000Z",
-          "wordCount": 964,
-          "title": "Japan Is Building Cardboard Suicide Drones",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/HG6SamFaEAAVv7R.jpg"
         }
       ]
     },
@@ -3849,16 +3829,6 @@
           "wordCount": 4531,
           "title": "What Separates The Great From The Petty In History",
           "imageUrl": "https://noemamag.imgix.net/2026/04/Noema_Color_v1-23-1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=dde5b80efc5637c1a68720e434a9f32d"
-        },
-        {
-          "id": "https://www.noemamag.com/what-america-owes-the-nuclear-future",
-          "author": "Vincent Ialenti",
-          "description": "The post What America Owes The Nuclear Future appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/what-america-owes-the-nuclear-future",
-          "publishedOn": "2026-04-30T13:40:50.000Z",
-          "wordCount": 8640,
-          "title": "What America Owes The Nuclear Future",
-          "imageUrl": "https://noemamag.imgix.net/2026/04/Final-4.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=9f8796dc4b6638895bf1be5ec0f68d71"
         }
       ]
     },
@@ -3867,6 +3837,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560435",
+          "author": "Alex N. Gecan",
+          "description": "About half the space for dogs is still unusable and repairs remain ongoing seven weeks after a fire shut down the Berkeley Animal Care Services facility near Aquatic Park.",
+          "link": "https://www.berkeleyside.org/2026/07/28/bacs-shelter-reopens-after-arson",
+          "publishedOn": "2026-07-28T22:00:15.000Z",
+          "wordCount": 7698,
+          "title": "Berkeley animal shelter reopens as arson suspect’s trial nears",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0134-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560416",
           "author": "Momo Chang",
@@ -6681,16 +6661,6 @@
           "wordCount": 8787,
           "title": "Watch: Alameda County district attorney candidates debate",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Da-debate.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556162",
-          "author": "Andrew Gilbert and Karen Nguyen Vo",
-          "description": "Other events include the Magnes Jewish Arts and Bookfest, Gilman Jazz Festival and a May Day street fair hosted by Luna Dance and Creativity.",
-          "link": "https://www.berkeleyside.org/2026/04/30/around-berkeley-may-day-protests-childrens-day-berkeley-bay-festival",
-          "publishedOn": "2026-04-30T13:54:00.000Z",
-          "wordCount": 8095,
-          "title": "Around Berkeley: May Day protests, Children’s Day, Berkeley Bay Festival",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Cathy_Rainwater_protestart.png?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -6738,6 +6708,16 @@
       "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=97073",
+          "author": "deb",
+          "description": "Read more »",
+          "link": "https://smittenkitchen.com/2026/07/spaghetti-aglio-e-olio/",
+          "publishedOn": "2026-07-28T20:15:40.000Z",
+          "wordCount": 5376,
+          "title": "spaghetti aglio e olio",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/07/spaghetti-alio-e-olio-6-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
         {
           "id": "https://smittenkitchen.com/?p=96945",
           "author": "deb",
@@ -11531,16 +11511,6 @@
           "wordCount": 2064,
           "title": "Aquaphobia",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/uakivul52bn8bsqrniyqjzyh75po"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/just-because-i-am-the-oracle-of-delphi-doesnt-mean-i-shouldnt-be-allowed-to-use-prediction-markets",
-          "author": "Patrick Clinch",
-          "description": "Just because I am Pythia, Oracle of Delphi, all-knowing high priestess of the Temple of Apollo, blessed with divine insight into all that shall come to pass, doesn’t mean I shouldn’t be able to hop on a prediction-market platform and throw a couple hundred drachmae on the Lakers winning the NBA Championship (spoiler alert). Yes, technically, I know the inevitable result of every war, sporting event, election, and award show, but just like everyone in 2026, I need a little extra cash here and there to make ends meet.\n Some people say, “It’s unfair that you make money off your privileged information,” but, listen, rent on Mount Parnassus is getting out of control, and I have student loans left over from my purification rites. I need a sure-thing side gig that makes the lifestyle to which I h…",
-          "link": "https://www.mcsweeneys.net/articles/just-because-i-am-the-oracle-of-delphi-doesnt-mean-i-shouldnt-be-allowed-to-use-prediction-markets",
-          "publishedOn": "2026-04-30T12:00:00.000Z",
-          "wordCount": 2419,
-          "title": "Just Because I Am the Oracle of Delphi Doesn’t Mean I Shouldn’t Be Allowed to Use Prediction Markets",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0de6ibqlrp61imiqwsknq69k4fmx"
         }
       ]
     },
@@ -11549,6 +11519,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112228 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "The concept of “surveillance pricing” is just one part of a much larger problem and business model: corporations maximizing their profits by invading our privacy. The all-too-common business model is to systematically harvest, collate, and store as much of our personal data as possible, and then monetize it through use and sale. When it comes to surveillance pricing, that looks like corporations offering the same product to two different people at two different prices, based on harvested personal information. That's why EFF supports A.B. 2654, authored by Assemblymember Chris Ward, which bans this harmful practice. \nAs an organization based in San Francisco, EFF was proud to learn that the San Francisco Board of Supervisors had also introduced a resolution to similarly support the legislat…",
+          "link": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
+          "publishedOn": "2026-07-28T21:55:43.000Z",
+          "wordCount": 2120,
+          "title": "San Francisco: Don’t Fall for Industry Defense of Surveillance Pricing",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/third_party_tracking_banner.png",
+            "alt": "A woman being watched behind a one-way mirror",
+            "type": "image/png",
+            "length": "178751"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/third_party_tracking_banner.png"
+        },
         {
           "id": "112222 at https://www.eff.org",
           "author": "Joe Mullin",
@@ -13418,22 +13404,6 @@
             "length": "11513"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/foia-og-1.png"
-        },
-        {
-          "id": "112019 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "This is the fifth and final installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the rest of the series here.\nIf the Arab Spring was defined by optimism about what the internet could do, the years since have been marked by a more sober understanding of what it takes to defend it. \nBack in 2011, the term “digital rights” was still fairly new. While in the decades prior, open source and hacker communities—as well as a handful of organizations including EFF—had advocated for digital freedoms, it was through the merging of disparate communities from around the world in the 2000s that digital rights came to be more clearly understood as an extension of fundamental human rights.\nIn 2011, we observed that there were only a few organizations…",
-          "link": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
-          "publishedOn": "2026-04-30T07:56:37.000Z",
-          "wordCount": 3139,
-          "title": "Digital Hopes, Real Power: From Connection to Collective Action",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/arabspring-banner2.png",
-            "alt": "Hands holding up flowers under the word حرية, Arabic for &quot;freedom&quot;",
-            "type": "image/png",
-            "length": "1396283"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/arabspring-banner2.png"
         }
       ]
     },
