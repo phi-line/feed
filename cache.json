@@ -713,6 +713,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a6a00dab643e800019a6a16",
+          "author": "Matthew Gault",
+          "description": "A new AI data center can be up and running in a year. Building new energy infrastructure to power it could take a decade.",
+          "link": "https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/",
+          "publishedOn": "2026-07-29T14:03:50.000Z",
+          "wordCount": 2209,
+          "title": "Data Centers Are Easy to Build. Powering Them Is Complicated, Slow, and Expensive",
+          "imageUrl": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHBvd2VyJTIwbGluZXN8ZW58MHx8fHwxNzg1MzMyMzU2fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6a68e2a0d415b10001996606",
           "author": "Joseph Cox",
           "description": "The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,” he said.",
@@ -3838,6 +3848,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=560295",
+          "author": "Joanne Furio",
+          "description": "The varroa mite killed her colony of 20,000 honeybees. Then Jennie Durant interviewed commercial beekeepers and investigated the threat industrial farming poses to the country’s pollinators.",
+          "link": "https://www.berkeleyside.org/2026/07/29/bitter-honey-big-ags-threat-to-bees-and-the-fight-to-save-them",
+          "publishedOn": "2026-07-29T14:00:00.000Z",
+          "wordCount": 8074,
+          "title": "After this Berkeley beekeeper’s colony collapsed, she wrote the book on what’s plaguing the bees",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/large-Pollinator-Garden-04.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560418",
+          "author": "The Wong family",
+          "description": "One of the California health department's experts on plague, anthrax and tularemia, she also taught microbiology at Berkeley City College and worked with Cal's Center for Infectious Disease Preparedness.",
+          "link": "https://www.berkeleyside.org/2026/07/29/remembering-jane-wong-who-developed-lab-network-to-identify-bioterror-agents",
+          "publishedOn": "2026-07-29T12:15:00.000Z",
+          "wordCount": 7451,
+          "title": "Remembering Jane Wong, who developed lab network to identify bioterror agents",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Jane-Wong-at-the-MDL.jpg?fit=960%2C654&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=560435",
           "author": "Alex N. Gecan",
           "description": "About half the space for dogs is still unusable and repairs remain ongoing seven weeks after a fire shut down the Berkeley Animal Care Services facility near Aquatic Park.",
@@ -6601,36 +6631,6 @@
           "wordCount": 8214,
           "title": "Tour stunning native plant gardens in East Bay backyards this weekend",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/image0-1-1-scaled-1-1.jpeg?fit=2560%2C1823&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556251",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A driver seriously injured a pedestrian in her 80s in North Berkeley, and a UC Berkeley professor is running for governor.",
-          "link": "https://www.berkeleyside.org/2026/04/30/berkeley-commons-ai-industry",
-          "publishedOn": "2026-05-01T00:15:00.000Z",
-          "wordCount": 7119,
-          "title": "The Wire: Owners of big empty buildings by Aquatic Park hope AI industry will be their savior",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-AquaticPark_Natera_240801_07.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556240",
-          "author": "Nico Savidge",
-          "description": "Meanwhile, other landlords have stiffed the city out of over $1.5 million in bills due, hoping Berkeley’s vacancy tax will eventually be struck down in court.",
-          "link": "https://www.berkeleyside.org/2026/04/30/berkeley-vacancy-tax-exemption-lawsuit",
-          "publishedOn": "2026-04-30T23:31:43.000Z",
-          "wordCount": 8812,
-          "title": "Berkeley gave landlords a $1.4M break on vacancy tax. Critics say that’s ‘very generous’",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Berkeley-AbandonedBuildings_Natera_250816_019.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556234",
-          "author": "Tovin Lapan",
-          "description": "The mango trompe l'oeil from the Uptown Oakland bakery and patisserie reflects the skill and eye for detail marking all of Monique and Paul Feybesse's creations.",
-          "link": "https://www.berkeleyside.org/2026/04/30/tarts-de-feybesse-trompe-loeil-mango-pastries",
-          "publishedOn": "2026-04-30T22:21:32.000Z",
-          "wordCount": 8744,
-          "title": "Tarts de Feybesse deploys deception, creativity and technique for top-selling treat",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Natera_NOSH_TartsFeybesse_260320_008.jpg"
         }
       ]
     },
@@ -9862,6 +9862,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/meet-the-secretary-of-fertility",
+          "author": "Dennard Dayle",
+          "description": "What exactly is the Department of Fertility?\n It’s the future of American boning. The sunburnt half of the map’s outbanged us for too long. We’re making the nasty hotter. Faster. Less protected.\n And this is an official, taxpayer-funded move?\n Yup. Today, at least. You know how the boss is; I might be gone next week. Honestly, it keeps the pressure off. I’m here for however long I’m here. Kind of like playing unranked.\n And you’re “The Honorable…”\n My boys call me “Adam Smash-her.” But officially, I’m the Honorable Adam Walton-McMahon, United States Secretary of Fertility.\n You seem young, Mr. Secretary.\n Thanks, we get free Botox. And I’m 18. They figured the first Fertility Secretary should shoot live rounds, you know? Sperm-wise.\n Eighteen… you weren’t old enough to vote for your boss.\n…",
+          "link": "https://www.mcsweeneys.net/articles/meet-the-secretary-of-fertility",
+          "publishedOn": "2026-07-29T13:24:00.000Z",
+          "wordCount": 3110,
+          "title": "Meet the Secretary of Fertility",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0ltrewbqn2fhc7x386saus5jtol4"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/you-impale-one-guy-and-suddenly-youre-vlad-the-impaler",
           "author": "Talia Argondezzi",
@@ -13322,22 +13332,6 @@
             "length": "594967"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/decentralization-banner.png"
-        },
-        {
-          "id": "112024 at https://www.eff.org",
-          "author": "Rindala Alajaji",
-          "description": "For the last couple of years, we’ve watched the same predictable cycle play out across the globe: a state (or country) passes a clunky age-verification mandate, and, without fail, Virtual Private Network (VPN) usage surges as residents scramble to maintain their privacy and anonymity. We've seen this everywhere—from states like Florida, Missouri, Texas, and Utah, to countries like the United Kingdom, Australia, and Indonesia. \nInstead of realizing that mass surveillance and age gates aren't exactly crowd favorites, Utah lawmakers have decided that VPNs themselves are the real issue.\nNext week, on May 6, 2026, Utah will become, to EFF’s knowledge, the first state in the nation to target the use of VPNs to avoid legally mandated age-verification gates. While advocates in states like Wisconsi…",
-          "link": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
-          "publishedOn": "2026-04-30T23:33:38.000Z",
-          "wordCount": 2285,
-          "title": "Utah’s New Law Targeting VPNs Goes Into Effect Next Week",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/secret-identity-2_0.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "10300"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/secret-identity-2_0.png"
         }
       ]
     },
