@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-30T13:53:40.186Z</updated>
+    <updated>2026-07-30T19:21:48.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos of music legends performing in Berkeley on show for first time]]></title>
+        <id>https://oaklandside.org/?p=477744</id>
+        <link href="https://www.berkeleyside.org/2026/07/30/carol-scott-oakland-berkeley-concert-photographs"/>
+        <updated>2026-07-30T18:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Carol Scott captured Bob Dylan at the Berkeley Community Theater, Etta James at the Greek and Fang at 924 Gilman. Her concert images from the 70s and 80s are at the Rockridge Cafe through Aug. 5]]></summary>
+        <author>
+            <name>Azucena Rasilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Zurbo, the Viral Marmot Who Can’t Stop Snatching Sandwiches]]></title>
+        <id>https://www.mcsweeneys.net/articles/meet-zurbo-the-viral-marmot-who-cant-stop-snatching-sandwiches</id>
+        <link href="https://www.mcsweeneys.net/articles/meet-zurbo-the-viral-marmot-who-cant-stop-snatching-sandwiches"/>
+        <updated>2026-07-30T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Snuggle Alert! There’s an adorable new critter burning up the internet, and by clicking through to this article, you have consented to meet Zurbo, and any attempt to cease beyond this point will be considered a breach of contract in all known jurisdictions. Though you may find Zurbo’s actions frivolous, and in some instances, distressing, you have entered a binding commitment to learn more about this popular marmot’s sandwich-snatching misadventures, or as they are herein described, “meat-cutes.”
+ You hereby attest that, against your better judgment, you are now aware that Zurbo has achieved a level of celebrity surpassing the linear entertainment figures with whom you are familiar, reaching tens of millions of video shares alongside such comments as “Yooooooo,” “Bro is aura, slutz,” and “…]]></summary>
+        <author>
+            <name>Jay Katsir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only Plants]]></title>
+        <id>https://www.mcsweeneys.net/articles/only-plants</id>
+        <link href="https://www.mcsweeneys.net/articles/only-plants"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.
+ - - -]]></summary>
+        <author>
+            <name>Ali Fitzgerald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled By the FDA]]></title>
+        <id>6a6b55aa7c128700012077b9</id>
+        <link href="https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/"/>
+        <updated>2026-07-30T14:51:32.000Z</updated>
+        <summary type="html"><![CDATA[How a company called Rosabella used AI content to market its supplements: "If you’re trying to sell health products to a 50-year-old, well, make your avatar 50 years old."]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Introduces a 'Seems Like AI Slop' Button]]></title>
+        <id>6a6b5fa57c1287000120795f</id>
+        <link href="https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/"/>
+        <updated>2026-07-30T14:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Following 404 Media's reporting on how LinkedIn is full of AI slop, the platform is giving users a chance to report it when they see it.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The North Face, once headquartered in Berkeley, closes its last outpost in the city]]></title>
+        <id>https://www.berkeleyside.org/?p=560476</id>
+        <link href="https://www.berkeleyside.org/2026/07/30/north-face-outlet-berkeley"/>
+        <updated>2026-07-30T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After 51 years, The North Face Outlet on Fifth Street has closed. The outdoor outfitter had its headquarters and a factory in Berkeley until the 1990s.]]></summary>
+        <author>
+            <name>Nathan Dalton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoky White Beans in Garlicky Tomato Sauce]]></title>
+        <id>https://jessicainthekitchen.com/?p=24798</id>
+        <link href="https://jessicainthekitchen.com/creamy-smoky-white-beans-in-garlicky-tomato-sauce/"/>
+        <updated>2026-07-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These 30-minute smoky white beans in tomato sauce are so cozy and flavourful. Made with liquid smoke and plenty of garlic, they're amazing on toast for breakfast, lunch, or dinner.]]></summary>
+        <author>
+            <name>Jessica Hylton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Around Berkeley: National Night Out, concert for Venezuela earthquake victims]]></title>
         <id>https://www.berkeleyside.org/?p=560485</id>
@@ -12355,18 +12427,6 @@ This tiny sliver of the GOODS-N deep field, imaged with many observatories inclu
         <summary type="html"><![CDATA[Scientists analyzed thousands of self-reported dreams and discovered that our sleeping visions are influenced by personality traits and external events, such as the pandemic.]]></summary>
         <author>
             <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meera Sodha’s recipe for spring rice with feta, harissa and pine nut sauce | Meera Sodha recipes]]></title>
-        <id>https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha</id>
-        <link href="https://www.theguardian.com/food/2026/may/02/spring-rice-feta-harissa-pine-nut-sauce-recipe-meera-sodha"/>
-        <updated>2026-05-02T05:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Basmati rice tossed with sweet onions and chickpeas, then mixed with green herbs and salty feta, and dotted with a spicy, lemony, pine nut sauce
-Spring has a split personality. The idea of it is nice: frolicking through carpets of bluebells while wearing pastel-coloured trousers, etcetera. But the reality is that it’s often dicey and unreliable: hot one minute, cold and/or tipping down with rain the next. This is a recipe that has a foot in both sides of spring. There’s the warm comfort of basmati rice woven through with sweet onions, harissa and chickpeas, as well as the light frivolity of green herbs and the salty freshness of feta. All the flavour and freshness of spring with none of the unpredictability.
- Continue reading...]]></summary>
-        <author>
-            <name>Meera Sodha</name>
         </author>
     </entry>
     <entry>
