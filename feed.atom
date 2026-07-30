@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-30T02:08:57.298Z</updated>
+    <updated>2026-07-30T13:53:40.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: National Night Out, concert for Venezuela earthquake victims]]></title>
+        <id>https://www.berkeleyside.org/?p=560485</id>
+        <link href="https://www.berkeleyside.org/2026/07/30/around-berkeley-national-night-out-concert-for-venezuela-earthquake-victims"/>
+        <updated>2026-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include a forum to dicsuss a new Berkeley waterfront ferry, the play "Reposessed" and free vaccines for children.]]></summary>
+        <author>
+            <name>Karen Nguyen Vo and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise And Fall Of Liberal Democracy’s Shared Fiction]]></title>
+        <id>https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction</id>
+        <link href="https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"/>
+        <updated>2026-07-30T12:53:32.000Z</updated>
+        <summary type="html"><![CDATA[The post The Rise And Fall Of Liberal Democracy’s Shared Fiction appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Macario Schettino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Field Guide to Legacy Media Pundits in the United States]]></title>
+        <id>https://www.mcsweeneys.net/articles/a-field-guide-to-legacy-media-pundits-in-the-united-states</id>
+        <link href="https://www.mcsweeneys.net/articles/a-field-guide-to-legacy-media-pundits-in-the-united-states"/>
+        <updated>2026-07-30T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The Backlash Columnist
+ (Contrarianus grievancius)
+ HABITAT: Op-ed page of a formerly relevant magazine.
+ DISTINCTIVE CALL: “Some say the culture wars divide us, but I believe fighting actually brings us together.”
+ DISTINGUISHING FEATURE: Will find one radical social media post from an account with nine followers; uses it to build a 1,200-word piece about how socialists are poised to take over America.
+ - - -
+The Inherited Platform
+ (Nepotus lecturus)
+ HABITAT: Fourth-generation family-owned newspaper editorial board.
+ DISTINCTIVE CALL: “I once met [NAME OF A SUPREME COURT NOMINEE] at a fancy cocktail party, and he is perfectly lovely and rational. No need to be hysterical about your rights, ladies.”
+ DISTINGUISHING FEATURE: Went to Choate and Brown. Has never had a job he didn’t get beca…]]></summary>
+        <author>
+            <name>Fiona Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renée Fleming & Béla Fleck: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=RTC6p6h_8tg</id>
+        <link href="https://www.youtube.com/watch?v=RTC6p6h_8tg"/>
+        <updated>2026-07-30T09:00:32.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UC Berkeley reclaims status as most selective campus in the UC system]]></title>
         <id>https://www.berkeleyside.org/?p=560501</id>
@@ -557,6 +606,18 @@ Stop by the EFF booth to chat with some of our team and learn about the latest d
 Can't make it to this year's BSidesLV, but need to renew your donation? No problem. You can browse our membership options, make a donation, and grab some gear online! All of the additional EFF gear we'll have at our booth will also be in our online…]]></summary>
         <author>
             <name>Christian Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's make the worst htmx ever!]]></title>
+        <id>https://zserge.com/posts/worst-htmx-ever/</id>
+        <link href="https://zserge.com/posts/worst-htmx-ever/"/>
+        <updated>2026-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a continuation of a series of posts about building tiny “clones” of popular web frameworks.
+Web is changing rapidly, and so the tools we use to build web apps (yet, I’m sincerely happy that my React/Vue posts are now seven years old, and those frameworks are still popular and relevant).
+Today the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less about JavaScript.]]></summary>
+        <author>
+            <name>zserge's blog</name>
         </author>
     </entry>
     <entry>
@@ -12309,68 +12370,6 @@ Spring has a split personality. The idea of it is nice: frolicking through carpe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photos: Hundreds attend Berkeley May Day rallies]]></title>
-        <id>https://www.berkeleyside.org/?p=556308</id>
-        <link href="https://www.berkeleyside.org/2026/05/01/berkeley-may-day-protest-photos"/>
-        <updated>2026-05-01T22:59:37.000Z</updated>
-        <summary type="html"><![CDATA[While labor leaders and public officials rallied at Civic Center Park, high school students marched to a demonstration at UC Berkeley.]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive first look at Berkeley’s new Sightglass cafe]]></title>
-        <id>https://www.berkeleyside.org/?p=556285</id>
-        <link href="https://www.berkeleyside.org/2026/05/01/sightglass-coffee-downtown-berkeley"/>
-        <updated>2026-05-01T20:16:57.000Z</updated>
-        <summary type="html"><![CDATA[The coffee company’s first East Bay location, and first new cafe in six years, now has an opening date.]]></summary>
-        <author>
-            <name>Madeline Taub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Pressure Canceled World’s Largest Digital Human Rights Conference]]></title>
-        <id>69f4f12c8e59a20001460f83</id>
-        <link href="https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/"/>
-        <updated>2026-05-01T18:32:53.000Z</updated>
-        <summary type="html"><![CDATA[RightCon's organizers said Beijing was upset over over the inclusion of speakers from Taiwain.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Montclair sandwich shop shutters, Berkeley’s Pink Cloud Tea makes way for new sushi spot, and more closings]]></title>
-        <id>https://www.berkeleyside.org/?p=556274</id>
-        <link href="https://www.berkeleyside.org/2026/05/01/grinders-la-mexicana-pink-cloud-closed"/>
-        <updated>2026-05-01T17:38:46.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book of Revelations,  Chapter 6 (Revised 2026)]]></title>
-        <id>https://www.mcsweeneys.net/articles/book-of-revelations-chapter-6-revised-2026</id>
-        <link href="https://www.mcsweeneys.net/articles/book-of-revelations-chapter-6-revised-2026"/>
-        <updated>2026-05-01T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[And when the trumpets sounded, behold, the lamb opened the first four seals, letting forth four horsemen upon the world of man. The first horse, signifying War, was adorned with golden, ill-fitting hair. He was recognized immediately as the great protector of Macaulay Culkin in Home Alone 2 and as a ’90s rap euphemism for wealth.
- “You’re fired!” proclaimed the first horse. “Remember me? That was kind of my catchphrase in the early aughts.” He then remarked on the beauty of his daughters, thus bumming the vibe for all who heard.
- And a second horse then approached, signifying Famine. The horse spoke thusly, with a gravelly voice, similar to his father’s, but lacking in charisma and clarity, “We’re going to end the war on red meat and bring back measles,” he said, clothed in the finest jean…]]></summary>
-        <author>
-            <name>Jason Gremillion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: Big Questions of Consciousness]]></title>
-        <id>69f4cb3e8e59a20001432eb6</id>
-        <link href="https://www.404media.co/behind-the-blog-big-questions-of-consciousness/"/>
-        <updated>2026-05-01T16:50:32.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss a wild message, a new anthology, and a visit to a museum.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The radical act of slowing down]]></title>
         <id>https://bigthink.com/the-long-game/the-radical-act-of-slowing-down/</id>
         <link href="https://bigthink.com/the-long-game/the-radical-act-of-slowing-down/"/>
@@ -12381,38 +12380,6 @@ Sixteen years later, in 1937, he met an engineer named Al Bersted.
 By then, Barnard and his wife had turned vegetarian, cut sugar and caffeine, and watched a sick family member recover on whole foods. Barnard had become a health-food evangelist, selling vitamins out of the back of his car. Bersted introduced him to a new invention: the blender. Barnard realized here was a machine that could make who…]]></summary>
         <author>
             <name>Eric Markowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lara Downes and Friends bring a vast musical portrait of America to Cal Performances]]></title>
-        <id>https://www.berkeleyside.org/?p=556189</id>
-        <link href="https://www.berkeleyside.org/2026/05/01/lara-downes-and-friends-bring-a-vast-musical-portrait-of-america-to-cal-performances"/>
-        <updated>2026-05-01T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The May 9 performance is a celebration of the nation’s 250th anniversary and includes Judy Collins, Tarriona “Tank” Ball, Invoke Quartet and the Oakland Interfaith Gospel Choir.]]></summary>
-        <author>
-            <name>Local sponsor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life]]></title>
-        <id>https://www.quantamagazine.org/?p=161513</id>
-        <link href="https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/"/>
-        <updated>2026-05-01T15:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Remarkably preserved fossils found in southern China offer a fascinating window into what life looked like at the end of the Cambrian explosion, with half of the species uncovered being new to science.            
-The post A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Marlowe Starling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts]]></title>
-        <id>112021 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts"/>
-        <updated>2026-05-01T14:52:09.000Z</updated>
-        <summary type="html"><![CDATA[One of the central promises of open social media services is interoperability—the idea that wherever you personally decide to post doesn’t require others to be there just to follow what you have to say. Think of it like a radio broadcast: you want to reach people and don't care where they are or what device they're using. For example, in theory, a Bluesky user can follow someone on Mastodon or Threads without having to create a Mastodon or Threads account. But these systems are still a work in progress, and you might need to tweak a few things to get it working correctly.
-Right now, broadcasting your message across social platforms can be a funky experience at best, deliberately broken up by oligopolists. The idea of the open web was baked into the internet via protocols like HTML and RSS …]]></summary>
-        <author>
-            <name>Thorin Klosowski</name>
         </author>
     </entry>
     <entry>
