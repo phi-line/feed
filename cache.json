@@ -6933,6 +6933,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/text-is-my-gimmick",
+          "author": null,
+          "description": "Reflections on the stillness of writing",
+          "link": "https://aethermug.com/posts/text-is-my-gimmick?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-07-31T02:51:17.000Z",
+          "wordCount": 4851,
+          "title": "Text Is My Gimmick",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/text-is-my-gimmick/911718ilsdl.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/text-is-my-gimmick/911718ilsdl.jpeg"
+        },
+        {
           "id": "https://aethermug.com/posts/kings-great-fortune",
           "author": null,
           "description": "",

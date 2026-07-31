@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-07-31T02:36:42.499Z</updated>
+    <updated>2026-07-31T08:45:48.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Text Is My Gimmick]]></title>
+        <id>https://aethermug.com/posts/text-is-my-gimmick</id>
+        <link href="https://aethermug.com/posts/text-is-my-gimmick?utm_source=rss&amp;utm_campaign=rss"/>
+        <updated>2026-07-31T02:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Reflections on the stillness of writing]]></summary>
+        <author>
+            <name>Aether Mug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hayward teen arrested on suspicion of June attempted murder in Berkeley]]></title>
         <id>https://www.berkeleyside.org/?p=560544</id>
