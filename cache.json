@@ -2651,16 +2651,6 @@
           "wordCount": 2263,
           "title": "How a University’s Censorship Conference Got Censored",
           "imageUrl": "https://images.unsplash.com/photo-1616990277552-3db5bca0ce13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNlbnNvcnNoaXB8ZW58MHx8fHwxNzc3NjU1MTk3fDA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "69f509088e59a20001461f79",
-          "author": "Becky Ferreira",
-          "description": "Scientists analyzed thousands of self-reported dreams and discovered that our sleeping visions are influenced by personality traits and external events, such as the pandemic.",
-          "link": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
-          "publishedOn": "2026-05-02T13:00:40.000Z",
-          "wordCount": 2215,
-          "title": "This Personality Trait Makes Dreams More Bizarre, Scientists Discover",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image3.jpg"
         }
       ]
     },
@@ -3867,6 +3857,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560544",
+          "author": "Alex N. Gecan",
+          "description": "Police said 19-year-old Darius Tate shot his ex-girlfriend in the face after attacking her inside a home near Ashby and Claremont avenues. The woman flagged down police officers near the Ashby BART station.",
+          "link": "https://www.berkeleyside.org/2026/07/30/darius-tate-arrest-bpd-ashby-bart-station-claremont",
+          "publishedOn": "2026-07-30T22:09:52.000Z",
+          "wordCount": 7645,
+          "title": "Hayward teen arrested on suspicion of June attempted murder in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7402.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560529",
+          "author": "Sage Ríos Mace",
+          "description": "After Bobby G's owners were sued in March, the downtown Berkeley pizza place went dark. Former employees and contractors say the pattern started long before the lawsuit.",
+          "link": "https://www.berkeleyside.org/2026/07/30/bobby-gs-pizzeria-closure-lawsuit",
+          "publishedOn": "2026-07-30T21:00:00.000Z",
+          "wordCount": 8592,
+          "title": "Former Bobby G’s employees and contractors point to pattern of missed payments and poor communication",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/BobbyGs-Exterior-Lapan.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=477744",
           "author": "Azucena Rasilla",
