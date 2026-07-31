@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165277",
+          "author": "John Pavlus",
+          "description": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.             \nThe post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+          "publishedOn": "2026-07-31T14:50:11.000Z",
+          "wordCount": 4615,
+          "title": "Is AI Reasoning Right for the Wrong Reasons?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165202",
           "author": "Matt von Hippel",
           "description": "New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results.            \nThe post Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up. first appeared on Quanta Magazine",
@@ -712,6 +722,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a6cb7ae7c1287000123728e",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
+          "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
+          "publishedOn": "2026-07-31T16:24:50.000Z",
+          "wordCount": 1094,
+          "title": "Behind the Blog: Silent Retreat",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/btb7.31-1.png"
+        },
+        {
+          "id": "6a6cc6a47c128700012375dc",
+          "author": "Joseph Cox",
+          "description": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
+          "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+          "publishedOn": "2026-07-31T16:03:08.000Z",
+          "wordCount": 1079,
+          "title": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/07/CleanShot-2026-07-31-at-08.53.48.gif"
+        },
+        {
+          "id": "6a6c9f1d7c12870001236ce7",
+          "author": "Samantha Cole",
+          "description": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
+          "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
+          "publishedOn": "2026-07-31T14:25:01.000Z",
+          "wordCount": 2366,
+          "title": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/pexels-karola-g-6920064.jpg"
+        },
+        {
+          "id": "6a6ca65b7c12870001236dbd",
+          "author": "Samantha Cole",
+          "description": "Citing backlash, ISBNdb removed its webpages about training AI, denied ever buying, scanning, or selling a book for AI training, and said the site was a \"test of market interest.\"",
+          "link": "https://www.404media.co/ai-company-training-scanning-books-database-isbndb/",
+          "publishedOn": "2026-07-31T14:04:26.000Z",
+          "wordCount": 1584,
+          "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/photo-1725582205524-6c7c268aee97.jpeg"
+        },
         {
           "id": "6a6c96f37c12870001236b4d",
           "author": "Becky Ferreira",
@@ -3088,6 +3138,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3279/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3279/",
+          "publishedOn": "2026-07-31T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Main Span",
+          "imageUrl": "https://imgs.xkcd.com/comics/main_span_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3278/",
           "author": null,
           "description": "",
@@ -3512,6 +3572,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
+          "author": "Nathan Gardels",
+          "description": "The post AI Has Already Entered The ‘Loss Of Control’ Transition appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
+          "publishedOn": "2026-07-31T16:31:29.000Z",
+          "wordCount": 3449,
+          "title": "AI Has Already Entered The ‘Loss Of Control’ Transition",
+          "imageUrl": "https://noemamag.imgix.net/2026/07/Feature_Color_V1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C0%2C2044%2C1069&w=1200&wpsize=noema-social-facebook&s=23821bb55bc6f07134ee08e1cd96b792"
+        },
+        {
           "id": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction",
           "author": "Macario Schettino",
           "description": "The post The Rise And Fall Of Liberal Democracy’s Shared Fiction appeared first on NOEMA.",
@@ -3878,6 +3948,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560560",
+          "author": "Lance Knobel",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/07/31/pucquio-dessert-n-spice-pas-papa-lounge-chinatown-closed",
+          "publishedOn": "2026-07-31T19:00:00.000Z",
+          "wordCount": 7435,
+          "title": "Dessert N Spice on the move, plus Pucquio announces abrupt closure",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/DessertNSpice-Closed-Lapan-1.jpg?fit=2000%2C1437&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560489",
           "author": "510 Families",
@@ -9969,6 +10049,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/a-packing-list-for-the-woman-i-will-become-on-my-summer-vacation-to-cape-cod",
+          "author": "R.A.E. Wells",
+          "description": "What to Pack\n A minimum of thirty books for her one-week trip, as the woman I will become is a voracious speed reader. Include: Elin Hilderbrand’s entire back catalog, plus Die with Zero, to be left casually on the $8,000 burnt oak coffee table at her in-laws’ beach house.\n The pearl-encrusted headband purchased by her mother-in-law for her first wedding anniversary, an item she wears without looking like a New Jersey middle-schooler at a daddy-daughter dance. The woman does not flinch at the memory of her mother-in-law digging its sharp prongs into her scalp as she whispered, “365 days since I lost my son to your mole-ridden arms. Have you seen a dermatologist for those recently?”\n Seasickness acupressure wristbands. The woman will not make the mistake again of interrupting their whale-wa…",
+          "link": "https://www.mcsweeneys.net/articles/a-packing-list-for-the-woman-i-will-become-on-my-summer-vacation-to-cape-cod",
+          "publishedOn": "2026-07-31T17:00:00.000Z",
+          "wordCount": 2967,
+          "title": "A Packing List for the Woman I Will Become on My Summer Vacation to Cape Cod",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/amu8vhibg8d4d3mm6w9z1uf10nux"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/what-i-think-will-happen-when-im-public-speaking",
           "author": "Emily Bressler",
           "description": "1. I’ll overheat and sweat through the armpit area of my shirt.\n 2. I’ll mix up my words and embarrass myself.\n 3. The audience will collectively decide to murder me.\n 4. I’ll speak too quickly and forget to take pauses in between sentences.\n 5. While I focus on trying to slow down my delivery, everyone in the audience will enter a sort of hive-mind, where they can communicate telepathically. Through this, they will agree that they’d like to see me killed and it’s time to begin planning the best method for my execution.\n 6. The stress will make my skin blotchy.\n 7. The election for who will lead the rest in murdering me will look like this: Everyone will (again, telepathically) pitch their unique skillset. Some have superhuman strength, others have a weird obsession with carving knives. On…",
@@ -11615,6 +11705,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112233 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Artificial intelligence is rapidly changing education, and the way people search for information. Parents, teenagers, teachers, and schools are struggling with tough questions about when AI should, and should not, be used. It makes sense for Congress to hold hearings and examine how AI should be used by minors. But the recently introduced CHATBOT Act answers those questions with a one-size-fits-all mandate governing how teenagers access AI through federally prescribed parental monitoring systems. \nThe Bill Requires AI Companies To Build Family Monitoring Systems \nParents are approaching AI in different ways. Some closely supervise how their children use chatbots, while others might set more general rules about technology. Many families are still figuring out what role AI should play in sch…",
+          "link": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
+          "publishedOn": "2026-07-31T19:06:43.000Z",
+          "wordCount": 2591,
+          "title": "The CHATBOT Act Forces One Parenting Model On Every Family",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ai-robots-emotion.png",
+            "alt": "Two robots, one smiling, one frowning (photo: Nicholas-Halodi CC-BY) ",
+            "type": "image/png",
+            "length": "580680"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-robots-emotion.png"
+        },
+        {
+          "id": "112211 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "This post is available as a printable one page handout in English and Spanish.\nRecordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can come with risks. Below are important legal and practical considerations related to recording the police and other law enforcement officers.\nCan I legally record the police or immigration officers?\nYes. All Americans have a First Amendment right to record law enforcement. This includes local police and federal officers such as those from Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). Although the Supreme Court has not squarely ruled on the issue, nine different …",
+          "link": "https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement",
+          "publishedOn": "2026-07-31T14:11:24.000Z",
+          "wordCount": 2034,
+          "title": "EFF Guide to Recording Law Enforcement",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg",
+            "alt": "Protesters record on their phones as a massive boot positions to crush.",
+            "type": "image/jpeg",
+            "length": "267518"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg"
+        },
         {
           "id": "112223 at https://www.eff.org",
           "author": "Christian Romero",
