@@ -3949,6 +3949,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=560567",
+          "author": "Hope Muñoz",
+          "description": "The project on Ashby Avenue is one of two affordable housing developments planned at properties owned by historically Black churches in South Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/07/31/berkeley-church-ashby-affordable-housing-yigby",
+          "publishedOn": "2026-07-31T22:04:20.000Z",
+          "wordCount": 8031,
+          "title": "South Berkeley church breaks ground on affordable housing",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/St-Paul-Terrace-4.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=560560",
           "author": "Lance Knobel",
           "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
@@ -11705,6 +11715,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112235 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it still threatens the privacy and First Amendment rights of all Californians.\nProponents of the bill may argue that the recent amendments represent a compromise, but a close look at the text shows no major changes. As the bill moves forward in the Senate, we must continue to urge lawmakers to vote NO.\nTake Action: Tell Your Senator to OPPOSE A.B. 1709\nA \"Compromise\" That Still Denies Access\nUnder the newly amended Section 22683, platforms are prohibited from offering \"addictive features\" to users under 16. A platform can allow a minor to keep an account only if it strips away these features, which include what the bill calls \"addictive feeds,\" a…",
+          "link": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
+          "publishedOn": "2026-07-31T19:47:34.000Z",
+          "wordCount": 1889,
+          "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png",
+            "alt": "A concerned parent and child stand on a large laptop keyboard, while a shadowy hand reaches out from the screen with social media icons and a magnifying glass to scan them.",
+            "type": "image/png",
+            "length": "1146559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png"
+        },
+        {
+          "id": "112234 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they access lawful speech.  \nUnlike many state-age verification laws—which have been harmful in their own right—the SCREEN Act has no requirement that a significant portion of the website consist of sexually explicit content that is harmful to minors. The bill requires nearly any service hosting even a single piece of sexually explicit content to verify the ages of its users. The result is that the bill would apply not only to adult content sites like Po…",
+          "link": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
+          "publishedOn": "2026-07-31T19:41:55.000Z",
+          "wordCount": 1928,
+          "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png",
+            "alt": "A hand holding a cellphone showing a verification screen and ACCESS DENIED in the background.",
+            "type": "image/png",
+            "length": "536728"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
+        },
         {
           "id": "112233 at https://www.eff.org",
           "author": "Joe Mullin",
