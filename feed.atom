@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-01T02:35:22.481Z</updated>
+    <updated>2026-08-01T08:16:12.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegetarian recipe for oyster mushroom burgers with five-spice cabbage | Meera Sodha recipes]]></title>
+        <id>https://www.theguardian.com/food/2026/aug/01/vegetarian-burgers-recipe-oyster-mushrooms-five-spice-cabbage-slaw-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/aug/01/vegetarian-burgers-recipe-oyster-mushrooms-five-spice-cabbage-slaw-meera-sodha"/>
+        <updated>2026-08-01T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[These roasted oyster mushrooms are meaty, savoury and chewy, made even more satisfying in a south-east Asian-style dressing
+Not every plant makes a great burger filling. You might think pulses or potatoes for heft, but the lack of texture and propensity to mush can be unsatisfying. This is where mushrooms excel; they trade in satisfaction. Roasting them brings out their natural umami and removes water content, leaving them chewy, caramelised and occasionally crisp. They can also make friends with the most unlikely of ingredients, like they have here with peanut butter, soy, agave and sesame.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South Berkeley church breaks ground on affordable housing]]></title>
         <id>https://www.berkeleyside.org/?p=560567</id>
