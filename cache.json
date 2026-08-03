@@ -684,16 +684,6 @@
           "wordCount": 4342,
           "title": "These Wild Young People",
           "imageUrl": "https://asteriskmag.com/media/pages/issues/14/these-wild-young-people/b73ca9f88a-1778526443/these-wild-young-people-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://asteriskmag.com/issues/14/rust-in-numbers",
-          "author": null,
-          "description": "Why do manure spreaders have life cycles?",
-          "link": "https://asteriskmag.com/issues/14/rust-in-numbers",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": 5101,
-          "title": "Rust in Numbers",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/rust-in-numbers/37be968d18-1777850636/dan-bouk-rust-in-numbers-1600x900-crop-sharpen50.png"
         }
       ]
     },
@@ -702,6 +692,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a70927bb145170001b0e867",
+          "author": "Joseph Cox",
+          "description": "Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
+          "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
+          "publishedOn": "2026-08-03T14:02:31.000Z",
+          "wordCount": 1779,
+          "title": "Why a Flock Worker Quit: ‘They Lied’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/IMG_2A9DC8F03E41-1.jpeg"
+        },
         {
           "id": "6a6d09fe7c1287000126c91a",
           "author": "Becky Ferreira",
@@ -6652,16 +6652,6 @@
           "wordCount": 8735,
           "title": "Driving in the Bay Area is only getting more expensive",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/image.png?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556450",
-          "author": "Alex N. Gecan",
-          "description": "Congresswoman Lateefah Simon, mayors and fire officials announced the funding Tuesday. A site for a new facility has not been selected yet.",
-          "link": "https://www.berkeleyside.org/2026/05/05/berkeley-fire-training-facility-simon-federal-funding",
-          "publishedOn": "2026-05-05T23:30:28.000Z",
-          "wordCount": 7776,
-          "title": "Berkeley, Albany split $500,000 in federal funding for fire training",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/img_3621_720.jpg"
         }
       ]
     },
@@ -9535,6 +9525,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=78188",
+          "author": "Jessica Hylton",
+          "description": "Looking for the perfect slice to build your PB&J or avocado toast on? This whole grain sandwich bread is for you. Soft, tender, and surprisingly easy to make, it sure beats the store-bought stuff!",
+          "link": "https://jessicainthekitchen.com/whole-grain-sandwich-bread/",
+          "publishedOn": "2026-08-03T14:00:00.000Z",
+          "wordCount": 14399,
+          "title": "Whole Grain Sandwich Bread",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Whole-Grain-Sandwich-Bread_28.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=24798",
           "author": "Jessica Hylton",
           "description": "These 30-minute smoky white beans in tomato sauce are so cozy and flavourful. Made with liquid smoke and plenty of garlic, they're amazing on toast for breakfast, lunch, or dinner.",
@@ -9918,6 +9918,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/travel-tips-when-encountering-fellow-americans-abroad",
+          "author": "Nathaniel Missildine",
+          "description": "Steer Clear\n When spotting another American in a foreign country, your first instinct is usually the correct one: run in the opposite direction. Like you, this person has come here to blot out, even if for a bewildered weekend, the very idea of the place they left behind. The last thing either one of you needs right now is the reminder of how lost you are, both in an unprecedented, historic sense, and also in the center of this lovely, cobblestoned town.\n If Unavoidable, Approach with Caution\n At the same time, there’s not much point in attempting the mutual charade that you two haven’t noticed one another. Nor is there any reason to pretend that wearing a scarf and a collared shirt with the sleeves jauntily rolled up means you pass as a local. So, approach your fellow American at the icon…",
+          "link": "https://www.mcsweeneys.net/articles/travel-tips-when-encountering-fellow-americans-abroad",
+          "publishedOn": "2026-08-03T12:00:00.000Z",
+          "wordCount": 2965,
+          "title": "Travel Tips When Encountering Fellow Americans Abroad",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ghvrup0t051ktprxbf05wl5a42wk"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-packing-list-for-the-woman-i-will-become-on-my-summer-vacation-to-cape-cod",
           "author": "R.A.E. Wells",
