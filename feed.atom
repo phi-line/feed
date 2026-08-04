@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-03T19:26:50.612Z</updated>
+    <updated>2026-08-04T02:20:35.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Senate Should Reject KOSA's Privacy Risks]]></title>
+        <id>112244 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks"/>
+        <updated>2026-08-03T23:47:38.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Commerce Committee is once again considering legislation that would dramatically expand age verification, and undermine privacy for everyone. Alongside the SCREEN Act, the CHATBOT Act, and the Youth AI Privacy Act, the Kids Online Safety Act (KOSA) would push companies to collect more information about their users while creating new incentives to restrict lawful speech.
+Take action
+Tell Congress: KOSA endangers the privacy of all
+KOSA Pushes Platforms Toward Age Verification
+The Senate version of KOSA imposes a “duty of care” on online services, including social media, to avoid exposing young people to certain material the law deems harmful. But those obligations only work if online services know which users are minors. That means more platforms will be pressured to implement ag…]]></summary>
+        <author>
+            <name>Joe Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Berkeley student says 4th grade teacher molested him in 1990s]]></title>
+        <id>https://www.berkeleyside.org/?p=560588</id>
+        <link href="https://www.berkeleyside.org/2026/08/03/leconte-elementary-computer-class-sex-abuse-lawsuit"/>
+        <updated>2026-08-03T23:34:13.000Z</updated>
+        <summary type="html"><![CDATA[The 39-year-old is suing Berkeley Unified for negligence, alleging a computer teacher groomed and then abused him at what was then LeConte Elementary School in 1996 and 1997.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF Joins 18 Civil Rights Organizations Calling on Governor Hochul to Reject the Stealth Crawler Prohibition Act]]></title>
+        <id>112243 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/eff-joins-18-civil-rights-organizations-calling-governor-hochul-reject-stealth"/>
+        <updated>2026-08-03T23:25:40.000Z</updated>
+        <summary type="html"><![CDATA[EFF joined a group of 18 civil society organizations to send a letter encouraging New York Governor Kathy Hochul to Senate Bill 9934A, the New York Stealth Crawler Prohibition Act. The letter states:
+While framed as a measure to protect local journalism, this legislation harms free expression and establishes a dangerous precedent by effectively deanonymizing and criminalizing automated access to the open web. By requiring all web crawlers to disclose their identity and explicit purpose, and by granting media outlets unchecked authority to obtain judicial subpoenas to unmask unidentified automated web traffic without any showing of misconduct or actual injury, this bill threatens digital privacy, compromises the foundational architecture of the internet, and will ultimately stifle the very …]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal]]></title>
+        <id>112238 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal"/>
+        <updated>2026-08-03T22:17:56.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence systems.” We urge the FTC to withdraw this misguided proposal and instead focus on its core strengths and mission to protect consumers. 
+The new proposed policy builds on, and directly references, the Trump administration’s  “Preventing Woke AI in the Federal Government” executive order—a nightmare for civil liberties that seeks to strong-arm AI companies into modifying their models to conform with the its ideological agenda. In recently filed comments, EFF,  Public Knowledge, and Fight for the Future call for the FTC to stop its unconstitutional efforts to regulate lawful speech, override state laws, and intimidate AI developers into ideological …]]></summary>
+        <author>
+            <name>Tori Noble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Youth AI Privacy Act’s Privacy Paradox]]></title>
+        <id>112241 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox"/>
+        <updated>2026-08-03T21:08:45.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and make it harder for people to access lawful speech online. 
+While the bill is narrower than some other proposed chatbot bills, it still has massive data security implications because it protects information for only certain users. This creates a problem we’ve cited many times before: if a bill requires that online services offer protections to minor users, the services will respond by imposing age gates to know which users should receive them. A better approach would be to offer the same privacy pro…]]></summary>
+        <author>
+            <name>Maddie Daly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley’s July openings marked by new dessert and cafe options]]></title>
         <id>https://www.berkeleyside.org/?p=560590</id>
@@ -105,6 +162,15 @@ EFF's lawyers, activists, and technologists are excited, as always, to support t
  At the same time, there’s not much point in attempting the mutual charade that you two haven’t noticed one another. Nor is there any reason to pretend that wearing a scarf and a collared shirt with the sleeves jauntily rolled up means you pass as a local. So, approach your fellow American at the icon…]]></summary>
         <author>
             <name>Nathaniel Missildine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maze]]></title>
+        <id>https://xkcd.com/3280/</id>
+        <link href="https://xkcd.com/3280/"/>
+        <updated>2026-08-03T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -12252,72 +12318,6 @@ The bill could wipe out hundreds of  state privacy protections.
 Most troubling for EFF: the bill would preempt dozens, if not hundreds, of state laws that regulate related topics, and it would not allow consumers to sue to protect their own rights (commonly called a private right of action). And it comes nowhere close to banning online behavioral advertising—a practic…]]></summary>
         <author>
             <name>Mario Trujillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster]]></title>
-        <id>69fa4a7b6eec47000107e9ac</id>
-        <link href="https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/"/>
-        <updated>2026-05-06T13:21:59.000Z</updated>
-        <summary type="html"><![CDATA[It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.]]></summary>
-        <author>
-            <name>Matthew Gault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lines, Ranked]]></title>
-        <id>https://www.mcsweeneys.net/articles/lines-ranked</id>
-        <link href="https://www.mcsweeneys.net/articles/lines-ranked"/>
-        <updated>2026-05-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. Conga. It literally cannot get better than this.
- 2. Assembly. It’s not glamorous, but hot damn is it effective.
- 3. Waist. Awooooga!
- 4. Jaw. Hubba Hubba!
- 5. Hair. Yowie!
- 6. Blood. Define your legacy.
- 7. On. How you’re reading this, probably.
- 8. Shore. She sells seashells here.
- 9. Under. A little bench for your letters.
- 10. Time. 2026: read this list, 2030: millionaire.
- 11. Life. I like “phone a friend.”
- 12. Bottom. Understand, bub?
- 13. Bread. What your grandma thinks Zohran wants.
- 14. Zip. Is my harness secure? Is my harness secure? Is my harness secure? Is my harness secure? Is my harness secure? Is my harness—OOOOWOOOOOOOHOOOOOO!
- 15. Border. I’m a little on the fence about this one.
- 16. Bee. Get there quick.
- 17. Pipe. Cool when Mario, not cool when school-to-prison.
- 18…]]></summary>
-        <author>
-            <name>Luca Clark and Luke Herzog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving in the Bay Area is only getting more expensive]]></title>
-        <id>https://www.berkeleyside.org/?p=556459</id>
-        <link href="https://www.berkeleyside.org/2026/05/06/driving-in-the-bay-area-is-only-getting-more-expensive"/>
-        <updated>2026-05-06T11:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Car ownership, essential to many, has gotten more expensive in recent years, and the rising costs have strained many Bay Area drivers who are already stretched thin.]]></summary>
-        <author>
-            <name>Azul Dahlstrom-Eckman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveillance Tools Intended for Border Control Are Being Used Against Americans]]></title>
-        <id>https://reason.com/?p=8380588</id>
-        <link href="https://reason.com/2026/05/06/surveillance-tools-intended-for-border-control-are-being-used-against-americans/"/>
-        <updated>2026-05-06T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[U.S. citizens are being monitored and punished with technology meant to battle illegal immigration.]]></summary>
-        <author>
-            <name>J.D. Tuccille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragtime: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=1XQtMnPz1AQ</id>
-        <link href="https://www.youtube.com/watch?v=1XQtMnPz1AQ"/>
-        <updated>2026-05-06T09:00:04.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
