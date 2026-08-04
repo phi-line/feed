@@ -703,6 +703,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a721c36b145170001b65118",
+          "author": "Samantha Cole",
+          "description": "Mike Lee's SCREEN Act, which heads to Senate Commerce Committee for markup on Wednesday, would expand age verification requirements to a nearly limitless scope of websites, and is supported by the architects of Project 2025.",
+          "link": "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
+          "publishedOn": "2026-08-04T17:41:56.000Z",
+          "wordCount": 2048,
+          "title": "The SCREEN Act is a Christian Nationalist Nightmare",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/mike.png"
+        },
+        {
+          "id": "6a720f59b145170001b64e68",
+          "author": "Emanuel Maiberg",
+          "description": "Microsoft is introducing budget limits for AI use but says it still wants to be an ‘AI-first’ company.",
+          "link": "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
+          "publishedOn": "2026-08-04T16:17:16.000Z",
+          "wordCount": 1441,
+          "title": "Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’",
+          "imageUrl": "https://images.unsplash.com/photo-1764601842139-635f318905c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvcGlsb3R8ZW58MHx8fHwxNzg1ODU5OTI0fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a71f4aab145170001b63bdc",
+          "author": "Jason Koebler",
+          "description": "“DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE. DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT.\"",
+          "link": "https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/",
+          "publishedOn": "2026-08-04T14:23:54.000Z",
+          "wordCount": 1575,
+          "title": "‘DO NOT MENTION ALPR USAGE’: How Cops Are Trying to Hide Their Use of Flock",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/FLOCK-01.jpg"
+        },
+        {
           "id": "6a71ecd5b145170001b3b0ed",
           "author": "Joseph Cox",
           "description": "The SEC bought access to worldwide airline ticketing records. Airlines including Delta, United, and American sold the data.",
@@ -2651,16 +2681,6 @@
           "wordCount": 801,
           "title": "‘HELLO BOSS’: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/haotian-ai-header-art.png"
-        },
-        {
-          "id": "69fb9982da5f3900017b3032",
-          "author": "Becky Ferreira",
-          "description": "“We really had no idea what we were getting ourselves into,” said one researcher involved in the first-of-its-kind study that dosed fish with psilocybin, the component in magic mushrooms.",
-          "link": "https://www.404media.co/fish-psilocybin-magic-mushrooms-study-psychedelics/",
-          "publishedOn": "2026-05-07T04:01:26.000Z",
-          "wordCount": 1547,
-          "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/Screenshot-2026-05-06-at-3.42.52---PM.png"
         }
       ]
     },
@@ -3877,6 +3897,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560670",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/04/broken-dreams-com-tam-bros-kats-kitchen-angelas-opening",
+          "publishedOn": "2026-08-04T19:00:00.000Z",
+          "wordCount": 7788,
+          "title": "2 restaurants specializing in Vietnamese broken rice opening, plus Kat’s in Berkeley wants to say hi",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/BrokenDreams-brokenrice.jpg?fit=1078%2C930&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560662",
+          "author": "Daniel Ekonde",
+          "description": "Once toxic land in Southwest Berkeley will by next summer be community gardens and a dog park. Meet the activists who long lobbied to transform this former Santa Fe railroad line into green space.",
+          "link": "https://www.berkeleyside.org/2026/08/04/santa-fe-right-of-way-southwest-berkeley-park",
+          "publishedOn": "2026-08-04T18:29:43.000Z",
+          "wordCount": 8610,
+          "title": "As new Berkeley park emerges, those who fought for it for decades are ‘ecstatic’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/PXL_20260709_151816994-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560612",
+          "author": "Local sponsor",
+          "description": "The one-woman show is set in working-class Wales.",
+          "link": "https://www.berkeleyside.org/2026/08/04/iphigenia-in-splott-based-on-the-greek-tragedy-plays-at-shotgun-players-ashby-stage",
+          "publishedOn": "2026-08-04T18:26:08.000Z",
+          "wordCount": 7498,
+          "title": "‘Iphigenia in Splott’ — based on the Greek tragedy — plays at Shotgun Players’ Ashby Stage",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/13-Photo-Credit_-Ben-Krantz_Alicia-Mason-as-Effie-in-Shotgun-Players-production-of-Iphigenia-in-Splott-13.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560599",
           "author": "Lasherica Thornton",
@@ -9918,6 +9968,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/its-cute-how-grandma-doesnt-even-know-how-to-blood-tithe-to-the-data-lord",
+          "author": "Kate Tyndall",
+          "description": "Grandma, it’s the first of the month. Did you forget the blood tithe was due? Don’t worry, Gam-Gam, I’ll help you figure it out.\n You can’t pay for anything by card anymore. That stopped being a thing in the 2030s. The Data Lord doesn’t take AmEx. It’s half a pint now, or a full pint every two months, and you’re on a monthly plan. Hold your arm out, and I’ll get the tourniquet. There we go.\n I know, times have changed a lot, huh? Back in your day, people used money for this kind of thing. But the Data Lord has all the money, so now we just pay with blood instead. It’s even easier, if you think about it. No need to worry about “savings” or “inflation” or whatever it is your generation was so obsessed with. Now it’s all about platelet count.\n Oh, don’t be morbid. Of course he doesn’t drink i…",
+          "link": "https://www.mcsweeneys.net/articles/its-cute-how-grandma-doesnt-even-know-how-to-blood-tithe-to-the-data-lord",
+          "publishedOn": "2026-08-04T17:00:00.000Z",
+          "wordCount": 2662,
+          "title": "It’s Cute How Grandma Doesn’t Even Know How to Blood Tithe to the Data Lord",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ea5b7oyb4ezb9mx5kin2vqg6ryoh"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/is-it-audhd-or-are-you-just-strange-a-seventeen-magazine-style-quiz-for-millennials",
           "author": "Taylor Harris",
           "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame, and mutters, “Yep, that tracks. I see it all now.”\n - - -\nToni Morrison famously said, “If there’s a book you want to read, but it hasn’t been written yet, then you must write it.” Well, I wrote the book. And now, for the lady, perhaps a writing endeavor that does not cost three-fourths of her soul? Enter: A free online quiz—the first of its kind—to tell you if your neuros are normal or if they diverge.\n It’s simple. Just circle every answer that resonates with you, and count the number you circled, out of sixty, at the end.\n I’ve done the hard work for you, sifting through every memory and…",
@@ -11554,6 +11614,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112224 at https://www.eff.org",
+          "author": "Aaron Jue",
+          "description": "In the scorching heat of every Las Vegas summer, EFF joins thousands of hackers, makers, policy analysts, and activists for the world's largest computer security gathering. If you're there during this summer security week, be sure to say hello to us at BSides Las Vegas, Black Hat Briefings, and DEF CON 34. While tech companies align with governments to target the people, our community is harnessing technology to fight back. Will you lend your support this year?\nJOIN EFF\nEFF’s relentless work in the legal system makes a meaningful difference for privacy and free expression everywhere. But we also know that your rights won't wait while the wheels of justice turn.\nSometimes hacking the system means creating tools and resources to protect your rights today. That includes EFF’s Privacy Badger, …",
+          "link": "https://www.eff.org/deeplinks/2026/07/vv26",
+          "publishedOn": "2026-08-04T14:12:50.000Z",
+          "wordCount": 1617,
+          "title": "Technology's Power in the Hands of the People",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/defcon-manyhands-banner-animated.gif",
+            "alt": "Person with red glasses adjusting six mechanical arms with ASL signs.",
+            "type": "image/gif",
+            "length": "162310"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/defcon-manyhands-banner-animated.gif"
+        },
         {
           "id": "112244 at https://www.eff.org",
           "author": "Joe Mullin",
