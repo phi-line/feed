@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/06/mow",
+          "author": null,
+          "description": "Why some people mow a lawn better than others.",
+          "link": "https://pudding.cool/2026/06/mow",
+          "publishedOn": "2026-08-04T04:00:00.000Z",
+          "wordCount": 2111,
+          "title": "Why some people mow a lawn better than others.",
+          "imageUrl": "https://pudding.cool/2026/06/mow/assets/og.png"
+        },
+        {
           "id": "https://pudding.cool/2026/07/essential-words",
           "author": null,
           "description": "How the words we teach English language learners changed",
@@ -692,6 +702,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a71ecd5b145170001b3b0ed",
+          "author": "Joseph Cox",
+          "description": "The SEC bought access to worldwide airline ticketing records. Airlines including Delta, United, and American sold the data.",
+          "link": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
+          "publishedOn": "2026-08-04T13:55:10.000Z",
+          "wordCount": 1388,
+          "title": "The SEC Bought Airline Data to Monitor Flights Worldwide",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/getty-images-77V4-4zFCzo-unsplash.jpg"
+        },
         {
           "id": "6a70ca44b145170001b39165",
           "author": "Jason Koebler",
@@ -3481,6 +3501,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
+          "author": "Hélène Landemore",
+          "description": "The post How To Give Everyday People A Say In AI Governance appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
+          "publishedOn": "2026-08-04T13:01:54.000Z",
+          "wordCount": 7340,
+          "title": "How To Give Everyday People A Say In AI Governance",
+          "imageUrl": "https://noemamag.imgix.net/2026/07/Faces_Illustrations-03-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=789008f5a20c87b99772d3d97914f705"
+        },
+        {
           "id": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
           "author": "Nathan Gardels",
           "description": "The post AI Has Already Entered The ‘Loss Of Control’ Transition appeared first on NOEMA.",
@@ -3847,6 +3877,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560599",
+          "author": "Lasherica Thornton",
+          "description": "A law change means California families won’t owe taxes on money in Trump Accounts. Families in two Berkeley zip codes may be eligible for $250 from Dell.",
+          "link": "https://www.berkeleyside.org/2026/08/04/trump-accounts-california",
+          "publishedOn": "2026-08-04T13:00:00.000Z",
+          "wordCount": 8215,
+          "title": "What Berkeley families need to know about Trump Accounts for babies, kids",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/image.png?fit=1568%2C1176&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560588",
           "author": "Alex N. Gecan",
@@ -6611,36 +6651,6 @@
           "wordCount": 7190,
           "title": "Remembering Gianna Ranuzzi, longtime manager of Berkeley World Music Festival",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Ranuzzi.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556542",
-          "author": "Alex N. Gecan",
-          "description": "On the eve of a City Council vote to expand the police department’s tech arsenal to include drones, cameras and new software, oversight officials have also said BPD ignored competitive bidding rules.",
-          "link": "https://www.berkeleyside.org/2026/05/06/berkeley-flock-surveillance-contract-memo-confidential",
-          "publishedOn": "2026-05-07T00:12:30.000Z",
-          "wordCount": 8402,
-          "title": "Berkeley’s Flock surveillance expansion has ‘legal risks’: Leaked memo",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/flockcamera_030426_AP.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=553304",
-          "author": "Nico Savidge",
-          "description": "Berkeley commissions will weigh in on the hotly debated proposal to raise height limits along portions of College, Solano and northern Shattuck avenues.",
-          "link": "https://www.berkeleyside.org/2026/05/06/berkeley-corridors-zoning-update-planning-commission-solano-college-shattuck-elmwood",
-          "publishedOn": "2026-05-06T22:49:07.000Z",
-          "wordCount": 8871,
-          "title": "Key meetings set this week for plan to rezone wealthy Berkeley neighborhoods for more housing",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/large-CA-Reopening-Berkeley.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556484",
-          "author": "Josh Cayetano and Leah Wilson",
-          "description": "The chair and vice chair of Berkeley's civilian police oversight board explain why they oppose expanding the city's Flock Safety network ahead of a Thursday vote.",
-          "link": "https://www.berkeleyside.org/2026/05/06/opinion-berkeley-does-not-need-flock-surveillance-tech-to-stay-safe",
-          "publishedOn": "2026-05-06T22:25:27.000Z",
-          "wordCount": 7634,
-          "title": "Opinion: Berkeley does not need Flock surveillance tech to stay safe",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
         }
       ]
     },
@@ -6969,6 +6979,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=u_vnA6nlDvs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u_vnA6nlDvs",
+          "publishedOn": "2026-08-04T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Charlie Puth: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RTC6p6h_8tg",
           "author": null,
@@ -9897,6 +9917,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/is-it-audhd-or-are-you-just-strange-a-seventeen-magazine-style-quiz-for-millennials",
+          "author": "Taylor Harris",
+          "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame, and mutters, “Yep, that tracks. I see it all now.”\n - - -\nToni Morrison famously said, “If there’s a book you want to read, but it hasn’t been written yet, then you must write it.” Well, I wrote the book. And now, for the lady, perhaps a writing endeavor that does not cost three-fourths of her soul? Enter: A free online quiz—the first of its kind—to tell you if your neuros are normal or if they diverge.\n It’s simple. Just circle every answer that resonates with you, and count the number you circled, out of sixty, at the end.\n I’ve done the hard work for you, sifting through every memory and…",
+          "link": "https://www.mcsweeneys.net/articles/is-it-audhd-or-are-you-just-strange-a-seventeen-magazine-style-quiz-for-millennials",
+          "publishedOn": "2026-08-04T13:00:00.000Z",
+          "wordCount": 3643,
+          "title": "Is it AuDHD…  or Are You Just Strange?  A Seventeen Magazine–Style Quiz for Millennials",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/xyzp3pd04o5k0vgzcz60nhmgqvng"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/robin-hood-prince-of-compulsive-and-pointless-theft",
+          "author": "Luís Leal Miranda",
+          "description": "He steals from the rich to give to the poor, which sounds generous until you learn what he steals.\n The people of Sherwood do not need six unmatched salt shakers, twenty-three hotel towels, or a bag of decorative seashells.\n And yet, every few days, Robin bursts into the village grinning like a man who just dug up a treasure.\n “Good news!” he announces, carefully setting down a ceramic owl. “She’s heavy, so she must be worth something.”\n “We are starving, Robin,” the villagers reply.\n Robin nods sympathetically before handing an orphan three decorative soaps and a laminated loyalty card for a frozen yogurt chain that no longer exists.\n During one raid on Prince John’s castle, while the others searched for gold, Robin filled two sacks with teaspoons from the royal cafeteria and a framed pho…",
+          "link": "https://www.mcsweeneys.net/articles/robin-hood-prince-of-compulsive-and-pointless-theft",
+          "publishedOn": "2026-08-04T12:00:00.000Z",
+          "wordCount": 2513,
+          "title": "Robin Hood, Prince of Compulsive and Pointless Theft",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/yawwf2w96w1xuu4240sbd8a9kc33"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/announcing-our-ai-data-centers-first-take-your-child-to-work-day",
           "author": "John Howard Matthews",
@@ -13383,22 +13423,6 @@
             "length": "35296"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png"
-        },
-        {
-          "id": "112054 at https://www.eff.org",
-          "author": "Bill Budington",
-          "description": "Last week, we released apkeep version 1.0.0, the latest edition of our command-line Android package downloading software. Rather than indicating major changes for the project, this milestone instead signifies arriving at a relatively stable and mature place after gradual iteration on the project over the course of over four years.\nWhat’s New in 1.0.0\nWe do have a few fresh features we’ve packed into this latest release, though—all focused on the Google Play Store: \nYou can now download a dex metadata file associated with an app containing a Cloud Profile, which provides information on app performance based on real usage. \nYou can now provide a token generated by the Aurora Store’s dispenser to log in anonymously for app downloads. \nUsers can specify their own device profiles when downloadi…",
-          "link": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-          "publishedOn": "2026-05-06T22:44:48.000Z",
-          "wordCount": 1062,
-          "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/apkeep-logo-final-banner_0.jpg",
-            "alt": "File folder with two bugs and a magnifying glass",
-            "type": "image/jpeg",
-            "length": "172948"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/apkeep-logo-final-banner_0.jpg"
         }
       ]
     },
