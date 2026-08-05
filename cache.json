@@ -586,6 +586,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/how-diplomats-see-the-world",
+          "author": null,
+          "description": "Inside the boring-by-design U.S. fact-checking machine.",
+          "link": "https://asteriskmag.com/issues/15/how-diplomats-see-the-world",
+          "publishedOn": "2026-08-04T00:00:00.000Z",
+          "wordCount": 2934,
+          "title": "How Diplomats See the World",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/how-diplomats-see-the-world/f5dab104fb-1785769907/diplomats-abi-olvera-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
           "author": null,
           "description": "Most countries will never have frontier AI. They’re the ones who should be worrying.",
@@ -2671,16 +2681,6 @@
           "wordCount": 1639,
           "title": "ICE Plans to Develop Own Smart Glasses to ‘Supplement’ Its Facial Recognition App",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/header.png"
-        },
-        {
-          "id": "69fb668ada5f3900017b2304",
-          "author": "Joseph Cox",
-          "description": "404 Media has obtained a copy of ‘Haotian AI’, a popular piece of realtime deepfake software marketed to scammers. It can turn a fraudster's face into anyone else's on WhatsApp, Zoom, and Teams.",
-          "link": "https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/",
-          "publishedOn": "2026-05-07T13:12:05.000Z",
-          "wordCount": 801,
-          "title": "‘HELLO BOSS’: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/haotian-ai-header-art.png"
         }
       ]
     },
@@ -3879,16 +3879,6 @@
           "wordCount": 3772,
           "title": "Virtual Civil Society Is Coming To China",
           "imageUrl": "https://noemamag.imgix.net/2026/05/2_color.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=88911bac9add9c5d9fb5cfb23d489288"
-        },
-        {
-          "id": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness",
-          "author": "Carlo Rovelli",
-          "description": "The post There Is No ‘Hard Problem Of Consciousness’ appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness",
-          "publishedOn": "2026-05-07T13:25:36.000Z",
-          "wordCount": 6553,
-          "title": "There Is No ‘Hard Problem Of Consciousness’",
-          "imageUrl": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd"
         }
       ]
     },
@@ -6671,36 +6661,6 @@
           "wordCount": 7305,
           "title": "Sweet Fingers on the move; plus the East Bay loses multiple sandwich shops, a juice bar and more in April",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/SweetFingers-shrimp.jpg?fit=1125%2C679&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556513",
-          "author": "Nathan Dalton",
-          "description": "Henry Basurto, founder of Henry’s Service in Westbrae, retired in 2017. His son-in-law, who took over the business, will now be a roving mechanic, fixing cars at people’s homes.",
-          "link": "https://www.berkeleyside.org/2026/05/07/henrys-service-henry-basurto",
-          "publishedOn": "2026-05-07T14:00:00.000Z",
-          "wordCount": 7398,
-          "title": "As Berkeley auto shop closes after 50 years, customers throw party for its 91-year-old founder",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Henrys-Service.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556549",
-          "author": "Andrew Gilbert and Karen Nguyen Vo",
-          "description": "Other events include a walking tour on the history of policing at Berkeley, a workshop to decorate grad caps and an author talk about soccer.",
-          "link": "https://www.berkeleyside.org/2026/05/07/around-berkeley-mothers-day-chinese-painting-class-art-and-plant-sale",
-          "publishedOn": "2026-05-07T12:00:00.000Z",
-          "wordCount": 8069,
-          "title": "Around Berkeley: Mother’s Day, Chinese painting class, art and plant sale",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/20250617-191651.webp?fit=800%2C533&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556533",
-          "author": "Family of Gianna Ranuzzi",
-          "description": "Ranuzzi also served on Berkeley’s parks commission and traveled the world collecting items that she turned into jewelry sold at museums and in shops on Telegraph Avenue.",
-          "link": "https://www.berkeleyside.org/2026/05/07/gianna-ranuzzi-obituary",
-          "publishedOn": "2026-05-07T10:00:00.000Z",
-          "wordCount": 7190,
-          "title": "Remembering Gianna Ranuzzi, longtime manager of Berkeley World Music Festival",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Ranuzzi.png"
         }
       ]
     },
@@ -9968,6 +9928,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/subscription-tiers-for-truth-api-president-trumps-new-premium-data-feed",
+          "author": "Nick Windham",
+          "description": "“For a fee of up to $100,000 a month, trading firms can access ‘Truth API’ to get a glimpse of the president’s often market-moving announcements about economic policy and global affairs before the rest of the world.” — NPR\n - - -\nTruth API is the premier platform for breaking news, market insights, and PSAs (Paywalled Safety Announcements) from the executive branch. We offer a variety of plans that fit any business need.\n Freedom+ (with Ads)  \n $100K/mo\n  Microsecond faster access to all posts, rants, and rambles\n  Unlimited AI video downloads for offline viewing\n  Option to add up to 3 future co-defendants to account\n  Customized 90-second unskippable dick pill ads\n  Cancel anytime1\n Freedom+ \n $250K/mo\n  Everything in Ad-supported\n  Reduced dick pill ads to 80 seconds\n  4,500 monthly cre…",
+          "link": "https://www.mcsweeneys.net/articles/subscription-tiers-for-truth-api-president-trumps-new-premium-data-feed",
+          "publishedOn": "2026-08-04T23:30:00.000Z",
+          "wordCount": 2459,
+          "title": "Subscription Tiers for Truth API, President Trump’s New Premium Data Feed",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0a7vg2eio3kiyl2o2jxlroavgp89"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/its-cute-how-grandma-doesnt-even-know-how-to-blood-tithe-to-the-data-lord",
           "author": "Kate Tyndall",
           "description": "Grandma, it’s the first of the month. Did you forget the blood tithe was due? Don’t worry, Gam-Gam, I’ll help you figure it out.\n You can’t pay for anything by card anymore. That stopped being a thing in the 2030s. The Data Lord doesn’t take AmEx. It’s half a pint now, or a full pint every two months, and you’re on a monthly plan. Hold your arm out, and I’ll get the tourniquet. There we go.\n I know, times have changed a lot, huh? Back in your day, people used money for this kind of thing. But the Data Lord has all the money, so now we just pay with blood instead. It’s even easier, if you think about it. No need to worry about “savings” or “inflation” or whatever it is your generation was so obsessed with. Now it’s all about platelet count.\n Oh, don’t be morbid. Of course he doesn’t drink i…",
@@ -11596,16 +11566,6 @@
           "wordCount": 2214,
           "title": "Butch Cards",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/xne45skl2rbpb3rgf4f4db6w83wd"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-sixteen-steps-to-owning-an-eight-and-a-half-inch-skirt",
-          "author": "Robyn Sands",
-          "description": "Step 1: The Problem\n I’ve been reborn. My estrogen patch restored my sleep, energy, and hair back to age twenty-two. Time to reverse-age my wardrobe.\n Step 2: The Store\n Purdy Girl, a shop that mangles vowels and swaps consonants like a bra worn on the outside. The sales associate greets me, “Hey, girl. Don’t miss the sales rack.”\n Step 3: The Find\n An eight-and-a-half-inch micro mini skirt that’s quadruple marked down to $29.99.\n Step 4: The Research\n Unlike a pair of 7.4-volt heated slippers with rechargeable batteries, a skirt isn’t complicated, so I skip the Amazon reviews.\n Step 5: The Test \n “You wanna try that on, girl?” The associate herds me to a mirror-less dressing room. I improvise by propping my phone on the floor in selfie mode. From this low angle, I look like a glamazon on …",
-          "link": "https://www.mcsweeneys.net/articles/the-sixteen-steps-to-owning-an-eight-and-a-half-inch-skirt",
-          "publishedOn": "2026-05-07T12:01:00.000Z",
-          "wordCount": 2727,
-          "title": "The Sixteen Steps to Owning an Eight-and-a-Half-Inch Skirt",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zhodzxmrmxezqejkrkpylzlw0a1f"
         }
       ]
     },
@@ -11614,6 +11574,70 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112247 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CHATBOT Act. While we appreciate that the Committee is taking the time to look at these bills separately, it’s still impossible to ignore the message Congress is sending to the world: Age-gate the internet and block young people from speaking and accessing lawful speech online. Or else. \nTake action\nTell Congress: don't age-gate the internet\nEach of these bills claims to be trying to protect children and teenagers from dangerous situations on and offline—certainly a worthy goal. But the proposed solutions in these bills are unlikely to make children and teenagers safer at all. Rather, they would create sweeping new privacy and data security problems, and force platforms to adopt unconstitutional restrictions on the content they host, for both adults and teenagers. \nThere is a better way. Instead of considering these bills, the Senate Commerce Committee should be focusing on a national consumer privacy bill that would protect ALL internet users, or on banning behavioral advertising that tracks us across the web—again, for users of all ages. \nBut the bills being considered this week move in the other direction—more information being collected, more surveillance, and less privacy for internet users of all ages. \nTake action\nhelp eff oppose these bills\nEFF sent a letter to the Committee with our concerns about these bills. We look forward to continuing to work with them to find a way forward that protects all users.",
+          "link": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
+          "publishedOn": "2026-08-05T00:15:11.000Z",
+          "wordCount": 1490,
+          "title": "Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/congress-action_0_0.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "72345"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/congress-action_0_0.jpg"
+        },
+        {
+          "id": "112245 at https://www.eff.org",
+          "author": "Andrew Crocker",
+          "description": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistant” that can browse websites like Amazon for comparison shopping purposes, violated the CFAA because Amazon did not “authorize” Perplexity to access Amazon users’ accounts. Rejecting that theory, the Ninth Circuit held that Perplexity was unlikely to be liable because users operate the tool, not Perplexity.\nThat’s the right conclusion, as both a legal and technical matter. As we explained to the court in our amicus brief, the CFAA requires unauthorized “access,” and Perplexity itself does not acc…",
+          "link": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
+          "publishedOn": "2026-08-04T22:32:39.000Z",
+          "wordCount": 1614,
+          "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/coder-cat-2.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "38507"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/coder-cat-2.png"
+        },
+        {
+          "id": "112231 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Developers Must Beware of Ad Libraries that Betray Users’ Privacy\n\n\n\nSAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track people, an Electronic Frontier Foundation (EFF) report found. \nEFF began investigating the location-sharing practices of various advertising SDKs to better understand the pipeline from mobile apps to location data brokers. The probe revealed how such SDKs can facilitate and encourage location data sharing – without users’ knowledge or meaningful consent – through privacy-invasive defaults, financial incentives, and unclear documentation.    \n“Defaults matter, not just for users, but for app develope…",
+          "link": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
+          "publishedOn": "2026-08-04T19:30:41.000Z",
+          "wordCount": 1618,
+          "title": "Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif",
+            "alt": "An animated image showing location pins dropping onto a street map from above, tracing several paths",
+            "type": "image/gif",
+            "length": "2071190"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif"
+        },
+        {
+          "id": "112236 at https://www.eff.org",
+          "author": "Lena Cohen",
+          "description": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not even be aware of this privacy violation, let alone the users who are directly affected.\nWhen developers let advertising SDKs collect location data, they’re putting users at risk of more than just creepy ads. Location information sourced from the advertising industry has been used for ICE investigations, global spy tools, outing a gay priest, tracking union organizers, and tracking US military personnel.\nDefaults matter, not just for users, but for app developers as well.\nAn EFF investigation has i…",
+          "link": "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy",
+          "publishedOn": "2026-08-04T19:30:21.000Z",
+          "wordCount": 3715,
+          "title": "Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif",
+            "alt": "An animated image showing location pins dropping onto a street map from above, tracing several paths",
+            "type": "image/gif",
+            "length": "2071190"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif"
+        },
         {
           "id": "112224 at https://www.eff.org",
           "author": "Aaron Jue",
@@ -13507,6 +13531,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/the-ultimate-horse/",
+          "author": null,
+          "description": "Selective breeding has pushed horses to the limits of biology. But at what cost?",
+          "link": "https://worksinprogress.co/issue/the-ultimate-horse/",
+          "publishedOn": "2026-08-05T00:25:06.000Z",
+          "wordCount": 4353,
+          "title": "The ultimate horse",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/GettyImages-515108596-scaled.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
           "author": null,

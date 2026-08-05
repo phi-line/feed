@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-04T19:27:35.621Z</updated>
+    <updated>2026-08-05T02:20:07.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The ultimate horse]]></title>
+        <id>https://worksinprogress.co/issue/the-ultimate-horse/</id>
+        <link href="https://worksinprogress.co/issue/the-ultimate-horse/"/>
+        <updated>2026-08-05T00:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Selective breeding has pushed horses to the limits of biology. But at what cost?]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction]]></title>
+        <id>112247 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction"/>
+        <updated>2026-08-05T00:15:11.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CHATBOT Act. While we appreciate that the Committee is taking the time to look at these bills separately, it’s still impossible to ignore the message Congress is sending to the world: Age-gate the internet and block young people from speaking and accessing lawful speech online. Or else. 
+Take action
+Tell Congress: don't age-gate the internet
+Each of these bills claims to be trying to protect children and teenagers from dangerous situations on and offline—certainly a worthy goal. But the proposed solutions in these bills are unlikely to make children and teenagers safer at all. Rather, they would create sweeping new privacy and data security problems, and force platforms to adopt unconstitutional restrictions on the content they host, for both adults and teenagers. 
+There is a better way. Instead of considering these bills, the Senate Commerce Committee should be focusing on a national consumer privacy bill that would protect ALL internet users, or on banning behavioral advertising that tracks us across the web—again, for users of all ages. 
+But the bills being considered this week move in the other direction—more information being collected, more surveillance, and less privacy for internet users of all ages. 
+Take action
+help eff oppose these bills
+EFF sent a letter to the Committee with our concerns about these bills. We look forward to continuing to work with them to find a way forward that protects all users.]]></summary>
+        <author>
+            <name>India McKinney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subscription Tiers for Truth API, President Trump’s New Premium Data Feed]]></title>
+        <id>https://www.mcsweeneys.net/articles/subscription-tiers-for-truth-api-president-trumps-new-premium-data-feed</id>
+        <link href="https://www.mcsweeneys.net/articles/subscription-tiers-for-truth-api-president-trumps-new-premium-data-feed"/>
+        <updated>2026-08-04T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“For a fee of up to $100,000 a month, trading firms can access ‘Truth API’ to get a glimpse of the president’s often market-moving announcements about economic policy and global affairs before the rest of the world.” — NPR
+ - - -
+Truth API is the premier platform for breaking news, market insights, and PSAs (Paywalled Safety Announcements) from the executive branch. We offer a variety of plans that fit any business need.
+ Freedom+ (with Ads)  
+ $100K/mo
+  Microsecond faster access to all posts, rants, and rambles
+  Unlimited AI video downloads for offline viewing
+  Option to add up to 3 future co-defendants to account
+  Customized 90-second unskippable dick pill ads
+  Cancel anytime1
+ Freedom+ 
+ $250K/mo
+  Everything in Ad-supported
+  Reduced dick pill ads to 80 seconds
+  4,500 monthly cre…]]></summary>
+        <author>
+            <name>Nick Windham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA]]></title>
+        <id>112245 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa"/>
+        <updated>2026-08-04T22:32:39.000Z</updated>
+        <summary type="html"><![CDATA[The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistant” that can browse websites like Amazon for comparison shopping purposes, violated the CFAA because Amazon did not “authorize” Perplexity to access Amazon users’ accounts. Rejecting that theory, the Ninth Circuit held that Perplexity was unlikely to be liable because users operate the tool, not Perplexity.
+That’s the right conclusion, as both a legal and technical matter. As we explained to the court in our amicus brief, the CFAA requires unauthorized “access,” and Perplexity itself does not acc…]]></summary>
+        <author>
+            <name>Andrew Crocker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds]]></title>
+        <id>112231 at https://www.eff.org</id>
+        <link href="https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds"/>
+        <updated>2026-08-04T19:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Developers Must Beware of Ad Libraries that Betray Users’ Privacy
+
+
+
+SAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track people, an Electronic Frontier Foundation (EFF) report found. 
+EFF began investigating the location-sharing practices of various advertising SDKs to better understand the pipeline from mobile apps to location data brokers. The probe revealed how such SDKs can facilitate and encourage location data sharing – without users’ knowledge or meaningful consent – through privacy-invasive defaults, financial incentives, and unclear documentation.    
+“Defaults matter, not just for users, but for app develope…]]></summary>
+        <author>
+            <name>Josh Richman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy]]></title>
+        <id>112236 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy"/>
+        <updated>2026-08-04T19:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not even be aware of this privacy violation, let alone the users who are directly affected.
+When developers let advertising SDKs collect location data, they’re putting users at risk of more than just creepy ads. Location information sourced from the advertising industry has been used for ICE investigations, global spy tools, outing a gay priest, tracking union organizers, and tracking US military personnel.
+Defaults matter, not just for users, but for app developers as well.
+An EFF investigation has i…]]></summary>
+        <author>
+            <name>Lena Cohen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 restaurants specializing in Vietnamese broken rice opening, plus Kat’s in Berkeley wants to say hi]]></title>
         <id>https://www.berkeleyside.org/?p=560670</id>
@@ -169,6 +261,16 @@ Toni Morrison famously said, “If there’s a book you want to read, but it has
         <summary type="html"><![CDATA[Why some people mow a lawn better than others.]]></summary>
         <author>
             <name>The Pudding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Diplomats See the World]]></title>
+        <id>https://asteriskmag.com/issues/15/how-diplomats-see-the-world</id>
+        <link href="https://asteriskmag.com/issues/15/how-diplomats-see-the-world"/>
+        <updated>2026-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inside the boring-by-design U.S. fact-checking machine.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -12246,36 +12348,6 @@ The experience of seeing these giant lizards in the wild has changed a lot too. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As Berkeley auto shop closes after 50 years, customers throw party for its 91-year-old founder]]></title>
-        <id>https://www.berkeleyside.org/?p=556513</id>
-        <link href="https://www.berkeleyside.org/2026/05/07/henrys-service-henry-basurto"/>
-        <updated>2026-05-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Henry Basurto, founder of Henry’s Service in Westbrae, retired in 2017. His son-in-law, who took over the business, will now be a roving mechanic, fixing cars at people’s homes.]]></summary>
-        <author>
-            <name>Nathan Dalton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Is No ‘Hard Problem Of Consciousness’]]></title>
-        <id>https://www.noemamag.com/there-is-no-hard-problem-of-consciousness</id>
-        <link href="https://www.noemamag.com/there-is-no-hard-problem-of-consciousness"/>
-        <updated>2026-05-07T13:25:36.000Z</updated>
-        <summary type="html"><![CDATA[The post There Is No ‘Hard Problem Of Consciousness’ appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Carlo Rovelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘HELLO BOSS’: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World]]></title>
-        <id>69fb668ada5f3900017b2304</id>
-        <link href="https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/"/>
-        <updated>2026-05-07T13:12:05.000Z</updated>
-        <summary type="html"><![CDATA[404 Media has obtained a copy of ‘Haotian AI’, a popular piece of realtime deepfake software marketed to scammers. It can turn a fraudster's face into anyone else's on WhatsApp, Zoom, and Teams.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What brain scans reveal about spiritual people and depression]]></title>
         <id>https://bigthink.com/perception-box/what-brain-scans-reveal-about-spirituality/</id>
         <link href="https://bigthink.com/perception-box/what-brain-scans-reveal-about-spirituality/"/>
@@ -12285,45 +12357,6 @@ We created this video for Brain Briefs, a Big Think interview series created in 
 This video What brain scans reveal about spiritual people and depression is featured on Big Think.]]></summary>
         <author>
             <name>Lisa Miller, William  Magee, Sam Newlands</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sixteen Steps to Owning an Eight-and-a-Half-Inch Skirt]]></title>
-        <id>https://www.mcsweeneys.net/articles/the-sixteen-steps-to-owning-an-eight-and-a-half-inch-skirt</id>
-        <link href="https://www.mcsweeneys.net/articles/the-sixteen-steps-to-owning-an-eight-and-a-half-inch-skirt"/>
-        <updated>2026-05-07T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Step 1: The Problem
- I’ve been reborn. My estrogen patch restored my sleep, energy, and hair back to age twenty-two. Time to reverse-age my wardrobe.
- Step 2: The Store
- Purdy Girl, a shop that mangles vowels and swaps consonants like a bra worn on the outside. The sales associate greets me, “Hey, girl. Don’t miss the sales rack.”
- Step 3: The Find
- An eight-and-a-half-inch micro mini skirt that’s quadruple marked down to $29.99.
- Step 4: The Research
- Unlike a pair of 7.4-volt heated slippers with rechargeable batteries, a skirt isn’t complicated, so I skip the Amazon reviews.
- Step 5: The Test 
- “You wanna try that on, girl?” The associate herds me to a mirror-less dressing room. I improvise by propping my phone on the floor in selfie mode. From this low angle, I look like a glamazon on …]]></summary>
-        <author>
-            <name>Robyn Sands</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Mother’s Day, Chinese painting class, art and plant sale]]></title>
-        <id>https://www.berkeleyside.org/?p=556549</id>
-        <link href="https://www.berkeleyside.org/2026/05/07/around-berkeley-mothers-day-chinese-painting-class-art-and-plant-sale"/>
-        <updated>2026-05-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a walking tour on the history of policing at Berkeley, a workshop to decorate grad caps and an author talk about soccer.]]></summary>
-        <author>
-            <name>Andrew Gilbert and Karen Nguyen Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Gianna Ranuzzi, longtime manager of Berkeley World Music Festival]]></title>
-        <id>https://www.berkeleyside.org/?p=556533</id>
-        <link href="https://www.berkeleyside.org/2026/05/07/gianna-ranuzzi-obituary"/>
-        <updated>2026-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ranuzzi also served on Berkeley’s parks commission and traveled the world collecting items that she turned into jewelry sold at museums and in shops on Telegraph Avenue.]]></summary>
-        <author>
-            <name>Family of Gianna Ranuzzi</name>
         </author>
     </entry>
     <entry>
