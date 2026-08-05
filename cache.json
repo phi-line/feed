@@ -713,6 +713,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a733bccb797b80001789d12",
+          "author": "Joseph Cox",
+          "description": "Researchers found a group of issues that mean Private Relay isn't actually protecting users' real IP addresses. 404 Media verified the issues do expose IP addresses.",
+          "link": "https://www.404media.co/apples-private-relay-is-exposing-users-real-ip-addresses/",
+          "publishedOn": "2026-08-05T13:46:30.000Z",
+          "wordCount": 1559,
+          "title": "Apple's ‘Private Relay’ Is Exposing Users' Real IP Addresses",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/aditya-chinchure-3VThnphFT4o-unsplash.jpg"
+        },
+        {
           "id": "6a721c36b145170001b65118",
           "author": "Samantha Cole",
           "description": "Mike Lee's SCREEN Act, which heads to Senate Commerce Committee for markup on Wednesday, would expand age verification requirements to a nearly limitless scope of websites, and is supported by the architects of Project 2025.",
@@ -2671,16 +2681,6 @@
           "wordCount": 1620,
           "title": "'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/CleanShot-2026-05-08-at-08.46.27@2x.png"
-        },
-        {
-          "id": "69fcfd3bda5f3900017df10e",
-          "author": "Joseph Cox",
-          "description": "A DHS official and another person who attended a recent conference described the plans to 404 Media.",
-          "link": "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
-          "publishedOn": "2026-05-07T21:05:27.000Z",
-          "wordCount": 1639,
-          "title": "ICE Plans to Develop Own Smart Glasses to ‘Supplement’ Its Facial Recognition App",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/header.png"
         }
       ]
     },
@@ -3866,6 +3866,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=477886",
+          "author": "Jose Fermoso",
+          "description": "The next big test is the Nov. 3 general election, including five Berkeley City Council seats and three school board seats.",
+          "link": "https://www.berkeleyside.org/2026/08/05/june-election-went-smoothly-for-alameda-county-says-new-registrar-2",
+          "publishedOn": "2026-08-05T13:00:00.000Z",
+          "wordCount": 7204,
+          "title": "June election went ‘smoothly’ for Alameda County, says new registrar",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/registrar2.jpeg?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560670",
           "author": "Momo Chang",
@@ -6620,16 +6630,6 @@
           "wordCount": 8705,
           "title": "Berkeley poet explores sex, love and the Kama Sutra after age 65",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Rogow-Kama-Sutra.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556578",
-          "author": "Berkeleyside Staff",
-          "description": "Also: UC Berkeley has closed its Restorative Justice Center, and Ricardo Ruiz is seeking release on mental health grounds.",
-          "link": "https://www.berkeleyside.org/2026/05/07/the-wire-dirt-bikes-atv-riders-swept-through-berkeley-before-police-trapped-them-on-bay-bridge",
-          "publishedOn": "2026-05-08T00:15:00.000Z",
-          "wordCount": 7125,
-          "title": "The Wire: Dirt bikes, ATV riders swept through Berkeley before police trapped them on Bay Bridge",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/IMG_6647-1-scaled.jpg?fit=2560%2C2054&ssl=1"
         }
       ]
     },
@@ -9896,6 +9896,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-ted-lasso-with-some-gosh-darn-hard-questions-for-the-upcoming-season",
+          "author": "Pam O'Hara",
+          "description": "Dear Ted Lasso,\n With your new season coming out, I thought you’d like some storyline advice from a non-Emmy-winning, suicide-surviving, journaling-through-the-pain, amateur writer mom. We can be pent-up-feelings pals.\n I’m beyond grateful that in the first three seasons, you and the army of emotionally courageous people constructing you were willing to share that your father died by suicide. That big reveal in season 2 changed my life, and the life of my Hotspurs-loving preteen son, whose father died the same way yours did two years before that episode aired.\n I have to tell you, because I morbidly dove down this rabbit hole not long after my husband passed, that the character in most movies whose parent unalived themself is the character holding the bloody knife. The one who is decidedly…",
+          "link": "https://www.mcsweeneys.net/articles/an-open-letter-to-ted-lasso-with-some-gosh-darn-hard-questions-for-the-upcoming-season",
+          "publishedOn": "2026-08-05T12:00:00.000Z",
+          "wordCount": 3055,
+          "title": "An Open Letter to Ted Lasso with Some Gosh-Darn Hard Questions for the Upcoming Season",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/y5kwhh2h2x6e6k0r491v9p444g7x"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/subscription-tiers-for-truth-api-president-trumps-new-premium-data-feed",
           "author": "Nick Windham",
