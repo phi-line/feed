@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165479",
+          "author": "Marlowe Starling",
+          "description": "New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change.            \nThe post Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
+          "publishedOn": "2026-08-05T15:40:41.000Z",
+          "wordCount": 3241,
+          "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/CoralCilia-crCesarPacharres-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165323",
           "author": "Konstantin Kakaes",
           "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.            \nThe post Why the Legendary Erdős Problems Are Falling to AI first appeared on Quanta Magazine",
@@ -712,6 +722,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a734ab5eb65dd0001735e15",
+          "author": "Jason Koebler",
+          "description": "\"The vehicle travels to Michigan frequently which is a known source state for marijuana as it is legal there,\" a probable cause justification reads.",
+          "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+          "publishedOn": "2026-08-05T14:50:49.000Z",
+          "wordCount": 1335,
+          "title": "Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/FLOCK-04.jpg"
+        },
+        {
+          "id": "6a734431b797b80001789dee",
+          "author": "Joseph Cox",
+          "description": "The case of Samuel Tunick allegedly wiping a phone before DHS could search it; inside an AI-powered TIkTok Shop; and Google Earth's dumb AI tool.",
+          "link": "https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/",
+          "publishedOn": "2026-08-05T14:23:24.000Z",
+          "wordCount": 1144,
+          "title": "Podcast: This Man Might Go to Prison for Wiping His Phone",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/maxresdefault-5.jpg"
+        },
         {
           "id": "6a733bccb797b80001789d12",
           "author": "Joseph Cox",
@@ -3444,16 +3474,6 @@
           "wordCount": 187,
           "title": "Pullback Drive",
           "imageUrl": "https://imgs.xkcd.com/comics/pullback_drive_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3243/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3243/",
-          "publishedOn": "2026-05-08T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Crystal Gazing",
-          "imageUrl": "https://imgs.xkcd.com/comics/crystal_gazing_2x.png"
         }
       ]
     },
@@ -3866,6 +3886,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560791",
+          "author": "Skylla Mumana",
+          "description": "The owners cite debt and rising costs as reasons for listing, raising concerns among musicians and longtime patrons about the future of the cherished El Cerrito bar.",
+          "link": "https://www.berkeleyside.org/2026/08/05/little-hill-lounge-el-cerrito-sale",
+          "publishedOn": "2026-08-05T19:00:00.000Z",
+          "wordCount": 8420,
+          "title": "Little Hill Lounge, an iconic, decades-old East Bay music venue, is up for sale",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/littlehilllounge_121724_dbuechner-0083_7.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560803",
+          "author": "Family of Donald Watkins",
+          "description": "He went on to work for many decades at the Social Security Administration and was a longtime volunteer at the Siddha Yoga Ashram in Oakland.",
+          "link": "https://www.berkeleyside.org/2026/08/05/donald-watkins-obituary",
+          "publishedOn": "2026-08-05T18:11:30.000Z",
+          "wordCount": 7406,
+          "title": "Remembering Donald Watkins, who co-wrote book helping Vietnam vets tell if they’d been exposed to Agent Orange",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Donald-Watkins-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560595",
+          "author": "Local sponsor",
+          "description": "\"Las frutas del labor\" pays homage to the people who do the heavy lifting in the art world.",
+          "link": "https://www.berkeleyside.org/2026/08/05/bampfa-goes-behind-the-scenes-to-recognize-the-art-handlers",
+          "publishedOn": "2026-08-05T15:30:00.000Z",
+          "wordCount": 7933,
+          "title": "BAMPFA goes behind the scenes to recognize the art handlers",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Marcel_Pardo_Ariza_02.jpg?fit=2000%2C1500&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=477886",
           "author": "Jose Fermoso",
@@ -6959,6 +7009,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/gp4xxbLnDZU",
+          "author": null,
+          "description": "Since Jerry Garcia's death in 1995, a sprawling collection of musicians and fans across generations have kept the band's legacy alive in different ways. But ...",
+          "link": "https://www.youtube.com/shorts/gp4xxbLnDZU",
+          "publishedOn": "2026-08-05T19:00:27.000Z",
+          "wordCount": 3587,
+          "title": "Death has never stopped the Grateful Dead before.",
+          "imageUrl": "https://i.ytimg.com/vi/gp4xxbLnDZU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCOAJPwKSFM5B29DiCRrQstbSUqrw"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u_vnA6nlDvs",
           "author": null,
           "description": "",
@@ -9896,6 +9956,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/faq-about-conjunctions-our-dating-app-for-copy-editors",
+          "author": "Daniel Nolan",
+          "description": "How do I like a profile?\n Please highlight what you like and add a query.\n How do I dislike a profile?\n Please use track changes.\n What if I disliked a profile by accident?\n Write “stet.”\n Are you hiring freelancers?\n No.\n Can I end my “About me” section with a preposition?\n Doing so will make you someone out with whom dates will not go.\n What are some good date ideas for copy editors?\n For clarity, we recommend MM/DD/YYYY.\n What does the AP Stylebook say about sex on the first date?\n Sex on the first date should not be capitalized, unless it comes as a huge surprise, in which case it should read as “SEX ON THE FIRST DATE??”\n Do I need a hyphen in “sex-pest”?\n You should not be using that word in your profile.\n Are you hiring freelancers now?\n We will never hire you.\n How do I know if I contracted an STD?\n STD is an initialism, not a contraction.\n What if more people have been on dates than I have?\n Rephrase?\n Can I use British spellings?\n It’s not our favourite.\n I just wanted to offer my freelance services for a small fee.\n That’s not a question.\n Can you check my colon usage?\n We’re not doctors.\n How can I know if I got my date pregnant?\n Proofread their messages carefully. Did they miss a period?\n My date told me they’re disinterested. Should I assume they’re also uninterested?\n You’re just showing off now.\n Will I ever find love?\n Yes. Our style guide is organized alphabetically, so “love” can be found between “louche” and “lowbrow.” Unfortunately, our algorithms indicate you will die alone.",
+          "link": "https://www.mcsweeneys.net/articles/faq-about-conjunctions-our-dating-app-for-copy-editors",
+          "publishedOn": "2026-08-05T17:00:00.000Z",
+          "wordCount": 2266,
+          "title": "FAQ About “Conjunctions,” Our Dating App for Copy Editors",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/e89vsajs6fq5dsvityyrbxzzyvl3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-ted-lasso-with-some-gosh-darn-hard-questions-for-the-upcoming-season",
           "author": "Pam O'Hara",
@@ -13729,16 +13799,6 @@
           "wordCount": 2722,
           "title": "The slippery protein problem",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/Pancreatic-Cancer-Share_Cards-copy.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/",
-          "author": null,
-          "description": "‘Artificial’ didn’t scare Americans in the 19th century. Why does it scare them now?",
-          "link": "https://worksinprogress.co/issue/whos-afraid-of-artificial-flavors/",
-          "publishedOn": "2026-05-08T03:25:37.000Z",
-          "wordCount": 1524,
-          "title": "Artificial used to be a compliment",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/Artificial-Ice-Flavoring-Share_Cards-copy.jpg"
         }
       ]
     }
