@@ -723,6 +723,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a74f377e627e900019375d4",
+          "author": "Joseph Cox",
+          "description": "A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system.",
+          "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
+          "publishedOn": "2026-08-07T12:00:26.000Z",
+          "wordCount": 1495,
+          "title": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/paul-hanaoka-D-qq7W751vs-unsplash.jpg"
+        },
+        {
           "id": "6a74c97ee627e90001936e1f",
           "author": "Joseph Cox",
           "description": "SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.",
@@ -9915,6 +9925,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-ai-pictures-of-dorian-gray",
+          "author": "Dan Hass",
+          "description": "The following prompts were submitted to an image-generation service over the course of a century. The user has since been suspended.\n Prompt 1\n Create a timeless late-Victorian oil painting of the most beautiful boy in the world (me). Comely features. Lovely. Fair. Debonair and aristocratic. Use only the finest materials—expensive primers, paints, rare pigments—to conjure an illusion of wealth. A cursed, opulent portrait sucking up every wrinkle that would otherwise ravage my flawless, eternally youthful complexion.\n Prompt 2\n Refine this self-portrait of Dorian Gray (socialite, dandy, patron of the arts, hedonist). Touch up silvering temples. Darken eyebrows. Add a silk ascot to cover the rumpled, crepe-like folds on his hideous neck. Remove acne. Remove crow’s feet. Remove any visible si…",
+          "link": "https://www.mcsweeneys.net/articles/the-ai-pictures-of-dorian-gray",
+          "publishedOn": "2026-08-07T12:00:00.000Z",
+          "wordCount": 2571,
+          "title": "The AI Pictures of Dorian Gray",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zom6focdztt5cgumahy1ufkkdv8z"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/heat-advisory",
           "author": "Tom Ellison",
