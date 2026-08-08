@@ -2750,6 +2750,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8396572",
+          "author": "Autumn Billings",
+          "description": "New details emerge regarding the Trump administration's surveillance dragnet cracking down on its online critics.",
+          "link": "https://reason.com/2026/08/07/ice-spent-525-million-on-surveillance-tech-some-of-it-is-infringing-on-americans-freedom-of-speech/",
+          "publishedOn": "2026-08-07T20:37:04.000Z",
+          "wordCount": null,
+          "title": "ICE Spent $525 Million on Surveillance Tech. Some of It Is Infringing on Americans' Freedom of Speech.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8395146",
           "author": "Steven Greenhut",
           "description": "Constitutional limits on federal authority should not be partisan matters.",
@@ -3050,17 +3061,6 @@
           "publishedOn": "2026-05-19T16:00:13.000Z",
           "wordCount": null,
           "title": "Filming Cops Is a First Amendment Right. The Feds Keep Harassing People for It Anyway.",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8378341",
-          "author": "Autumn Billings",
-          "description": "\"I didn't do anything wrong,\" George Retes, a U.S. citizen imprisoned for three days, tells Reason.",
-          "link": "https://reason.com/2026/05/10/why-this-u-s-citizen-was-arrested-and-jailed-during-an-ice-raid/",
-          "publishedOn": "2026-05-10T10:00:46.000Z",
-          "wordCount": null,
-          "title": "He's a U.S. Citizen and Combat Veteran. ICE Tear-Gassed, Jailed, and Falsely Accused Him.",
           "itunes": {},
           "imageUrl": null
         }
@@ -3935,6 +3935,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560963",
+          "author": "Skylla Mumana",
+          "description": "The coals lost their glow at Horn's Oakland restaurant as the renowned pitmaster deals with accusations of wage theft across his crumbled barbecue empire",
+          "link": "https://www.berkeleyside.org/2026/08/07/matt-horn-bbq-oakland-closes-wage-theft",
+          "publishedOn": "2026-08-07T20:00:00.000Z",
+          "wordCount": 7336,
+          "title": "Matt Horn closes last Horn Barbecue location amid wage theft accusations",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/HornBBQ-OldTown-Closed.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560959",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/07/bens-cafe-santana-perle-pagarung-felix-pizzas-closed",
+          "publishedOn": "2026-08-07T19:00:00.000Z",
+          "wordCount": 7548,
+          "title": "Cafe Santana shuttering original cafe, Ben’s bows out after 40 years, plus two Montclair restaurants close",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/02/CafeSantana.jpg?fit=1405%2C1041&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560895",
           "author": "Nico Savidge",
