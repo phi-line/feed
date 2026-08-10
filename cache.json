@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165611",
+          "author": "Natalie Wolchover",
+          "description": "A simple scaling law brings order to the chaos of flowing water, rock, and sediment. New findings have extended the law even further.             \nThe post Why Are Rivers So Mathematical? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
+          "publishedOn": "2026-08-10T14:56:34.000Z",
+          "wordCount": 3487,
+          "title": "Why Are Rivers So Mathematical?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia-River-Fractals-cr-Ada-Zejun-Shen-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165569",
           "author": "James Dinneen",
           "description": "A global constellation of neutrino detectors is creating a never-before-seen view of the radioactive elements that power Earth’s tectonic heat engine.            \nThe post Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle first appeared on Quanta Magazine",
@@ -712,6 +722,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a74d02ce627e90001936f4e",
+          "author": "Matthew Gault",
+          "description": "“I guess all crime could be eliminated if you put cameras everywhere, surveillance everywhere, and had drones patrolling the skies [...] but what life are we living then?”",
+          "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
+          "publishedOn": "2026-08-10T14:41:22.000Z",
+          "wordCount": 1974,
+          "title": "The Mayor Who Said 'No' When Flock Came to Town",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Flock2-1.jpg"
+        },
+        {
+          "id": "6a79d872ebb36600013e1a6f",
+          "author": "Jason Koebler",
+          "description": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
+          "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+          "publishedOn": "2026-08-10T14:13:30.000Z",
+          "wordCount": 1991,
+          "title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/CleanShot-2026-08-10-at-06.56.40@2x-1.png"
+        },
         {
           "id": "6a7607a4e627e9000196a14c",
           "author": "Rebecca Plevin",
@@ -3463,16 +3493,6 @@
           "wordCount": 185,
           "title": "Speedrun",
           "imageUrl": "https://imgs.xkcd.com/comics/speedrun_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3245/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3245/",
-          "publishedOn": "2026-05-13T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Results Age",
-          "imageUrl": "https://imgs.xkcd.com/comics/results_age_2x.png"
         }
       ]
     },
@@ -3885,6 +3905,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=560969",
+          "author": "Momo Chang",
+          "description": "Line 51, Match Point Brewing, Kathiew House, Pour Manners, Ace Seafood, Pucquio and Gallego's are among the East Bay establishments to recently close.",
+          "link": "https://www.berkeleyside.org/2026/08/10/line-51-greens-grains-match-point-pucquio-closed",
+          "publishedOn": "2026-08-10T16:00:00.000Z",
+          "wordCount": 8210,
+          "title": "July restaurant closures include pair of taprooms, 2 popular pop-ups, and Peruvian and Mexican options",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Line51-taproom.jpg?fit=1682%2C1107&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560975",
+          "author": "Nathan Dalton",
+          "description": "Since May, members have been swatting pickleballs on three courts atop a parking garage.",
+          "link": "https://www.berkeleyside.org/2026/08/10/neighborhood-pickleball-berkeley",
+          "publishedOn": "2026-08-10T14:00:00.000Z",
+          "wordCount": 7570,
+          "title": "Pickleball in the sky: A new Berkeley club plays 6 stories above downtown",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Pickleball.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560963",
           "author": "Skylla Mumana",
@@ -9472,6 +9512,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=78387",
+          "author": "Jessica Hylton",
+          "description": "Taco night just got an upgrade! These vegan soy curl tacos pair perfectly crispy soy curl \"chicken\" with creamy avocado and crunchy veggies. The icing on the cake? A tangy, creamy lime sauce that's good enough to eat straight out of the bowl. Go ahead, try it!",
+          "link": "https://jessicainthekitchen.com/soy-curl-tacos/",
+          "publishedOn": "2026-08-10T14:00:00.000Z",
+          "wordCount": 13820,
+          "title": "Soy Curl Tacos",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Soy-Curl-Tacos_29.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=78298",
           "author": "Jessica Hylton",
           "description": "This vegan chickpea omelette will have the whole fam jumping out of bed and running to the kitchen. Chickpea flour and water come together to make the perfect, tender omelette you can fill with your favourite veggies, vegan cheese, and really anything you'd like. Good morning!",
@@ -9845,6 +9895,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/clinical-notes-from-medusas-primary-care-provider-who-suspects-menopause",
+          "author": "Anne Reiner",
+          "description": "Subject\n History of Present Illness:\n The patient, a thirty-year-old female, describes “not feeling like myself” following an incident at the temple of Athena. Intake nurse documented patient as hostile when she refused to remove veil.\n Chief Complaints\n The patient reports experiencing chronic, localized hissing and turning others to stone on sight.\n  \nOnset: Patient became a “victim of fate” overnight\n Location: Patient specifies sites of head and neck; clinical judgment dictates whole-body involvement due to known limitations of patient-reported symptoms.\n Duration: Patient claims symptoms precipitated yesterday; clinical judgment dictates more gradual onset.\n Characterization: Patient warned attending physician (AP) “don’t come closer” and urged AP to “look away,” both of which were ea…",
+          "link": "https://www.mcsweeneys.net/articles/clinical-notes-from-medusas-primary-care-provider-who-suspects-menopause",
+          "publishedOn": "2026-08-10T17:00:00.000Z",
+          "wordCount": 2383,
+          "title": "Clinical Notes from Medusa’s Primary Care Provider Who Suspects Menopause",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/5v58yjnzzd4zmao6evpfhe158ngh"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/faceboard-a-case-study-in-community-led-information-exchange",
           "author": "Adam Fletcher",
@@ -11472,6 +11532,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112251 at https://www.eff.org",
+          "author": "Jennifer Pinsof",
+          "description": "Access to accurate information about reproductive and maternal health can be critical. But on Meta's platforms, simply talking about prescription medication, abortion care, or one's own medical experiences can be enough to trigger content removals and account restrictions.\nThat's why EFF recently submitted a public comment to the Meta Oversight Board in its consideration of a case involving an Instagram post about prescription drugs during pregnancy and childbirth. The case touches upon a topic we’ve been documenting for some time; last year we collected stories from individuals who had experienced censorship of reproductive health information on various platforms. Meta in particular stood out: Its moderation systems routinely fail to distinguish between prohibited drug transactions and le…",
+          "link": "https://www.eff.org/deeplinks/2026/08/meta-must-stop-silencing-reproductive-health-information",
+          "publishedOn": "2026-08-10T17:18:21.000Z",
+          "wordCount": 1924,
+          "title": "Meta Must Stop Silencing Reproductive Health Information",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/stopcensoringabortion-banner-2.png",
+            "alt": "two hands holding a box of mifepristone tablets, with a sheet reading &quot;access denied&quot; pulled out",
+            "type": "image/png",
+            "length": "348746"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/stopcensoringabortion-banner-2.png"
+        },
         {
           "id": "112247 at https://www.eff.org",
           "author": "India McKinney",
