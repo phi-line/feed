@@ -723,6 +723,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a7a5c8714bab50001db5ca8",
+          "author": "Joseph Cox",
+          "description": "LexisNexis sells a massive amount of data to law enforcement, including ICE. New records indicate ICE wants to feed that data into a Palantir system.",
+          "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
+          "publishedOn": "2026-08-10T23:25:58.000Z",
+          "wordCount": 1460,
+          "title": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/32215763362_7f2339d8d2_k.jpg"
+        },
+        {
           "id": "6a74d02ce627e90001936f4e",
           "author": "Matthew Gault",
           "description": "“I guess all crime could be eliminated if you put cameras everywhere, surveillance everywhere, and had drones patrolling the skies [...] but what life are we living then?”",
@@ -2711,26 +2721,6 @@
           "wordCount": 1782,
           "title": "War and Data Centers Are Driving Up the Cost of Fiber-Optic Cable",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/Gw9cyxwXsAA-Sw4-1.jpeg"
-        },
-        {
-          "id": "6a047750aa51dd0001982336",
-          "author": "Joseph Cox",
-          "description": "We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.",
-          "link": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
-          "publishedOn": "2026-05-13T13:10:19.000Z",
-          "wordCount": 1063,
-          "title": "Podcast: The Chinese Deepfake Software Powering Scams",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/SCAMMERS-HAVE-THIS-NOW--1-.png"
-        },
-        {
-          "id": "6a038630cc8fdd00017fa228",
-          "author": "Emanuel Maiberg",
-          "description": "“It's making me dumber for sure.”",
-          "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-          "publishedOn": "2026-05-13T13:00:48.000Z",
-          "wordCount": 1495,
-          "title": "Software Developers Say AI Is Rotting Their Brains",
-          "imageUrl": "https://images.unsplash.com/photo-1611890798517-07b0fcb4a811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ5fHxjb21wdXRlciUyMHNjcmVlbiUyMGJyb2tlbnxlbnwwfHx8fDE3Nzg2MTU5NTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
@@ -3905,6 +3895,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561009",
+          "author": "Hope Muñoz",
+          "description": "For the first time since 2021, volunteers with the Berkeley Path Wanderers Association were hard at work forging a new path.",
+          "link": "https://www.berkeleyside.org/2026/08/10/berkeley-path-wanderers-association-builds-new-upper-columbia-path",
+          "publishedOn": "2026-08-10T21:59:35.000Z",
+          "wordCount": 8059,
+          "title": "The first new path in 5 years is being built in the Berkeley Hills",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-Upper-Columbia-Path-Building-9.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=560969",
           "author": "Momo Chang",
@@ -6649,16 +6649,6 @@
           "wordCount": 8163,
           "title": "Hotly debated plans to add housing in the Elmwood and North Berkeley are a step closer to approval",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Elmwood-zoning-protest-sign.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556811",
-          "author": "Nathan Dalton",
-          "description": "The 36-year-old company, long based in the Berkeley City Club, will close its curtains after this season.",
-          "link": "https://www.berkeleyside.org/2026/05/13/central-works-berkeley-city-club",
-          "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 7439,
-          "title": "It’s a wrap for Central Works — fourth Berkeley theater to close since 2023",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/Battista-Zenobia.jpeg?fit=1800%2C1093&ssl=1"
         }
       ]
     },
@@ -7265,16 +7255,6 @@
           "publishedOn": "2026-05-15T09:00:35.000Z",
           "wordCount": null,
           "title": "Don Was and the Pan-Detroit Ensemble: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wxaXWSVhRXU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wxaXWSVhRXU",
-          "publishedOn": "2026-05-13T09:01:18.000Z",
-          "wordCount": null,
-          "title": "Foo Fighters: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11504,26 +11484,6 @@
           "wordCount": 2509,
           "title": "Honey, I’m Sorry I Messed Up Our Moment on the Kiss Cam",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/skn5ny823aze0ib2gwbpbwrb8a4b"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/exploremores-girl-scout-cookie",
-          "author": "Alice M. Phillips",
-          "description": "A few months ago, I was tending to my newborn when across the room my phone pinged. I ignored it. Within a few minutes, however, continuing to do so became impossible, not just because of my compulsive urge to touch my phone every four seconds, but also because the device was seized by such a frenzy of notifications it threatened to buzz right off my dresser.\n A wave of anxiety swept over me as I opened the kindergarten moms’ exploding group text—please, not more head lice.\n But no! This was a good group-text freak-out. It was the call of America’s most beloved (nonprofit) multi-level marketing scheme.\n One of my son’s classmates was selling Girl Scout cookies.\n I loaded the order form and promptly set aside all New Year’s resolutions. It had been years since I’d had Girl Scout cookies, an…",
-          "link": "https://www.mcsweeneys.net/articles/exploremores-girl-scout-cookie",
-          "publishedOn": "2026-05-13T12:59:00.000Z",
-          "wordCount": 2768,
-          "title": "Reviews of New Food: Exploremores Girl Scout Cookie",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8t1b7nipexago8o0jfuako3dads6"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/great-american-novels-the-college-years",
-          "author": "Adam Dietz",
-          "description": "The Catcher in the Rye: The College Years\n If you thought Holden Caulfield was insufferable before, you’ll find that expulsion from prep school was a mere warm-up for the incessant grousing and myriad of beefs inherent in life as an English undergrad. Armed with the perceived moral high ground and loads of what he calls “lived experience,” this sequel sees the creative writing major crafting some pretty bad fiction while clashing with a dean intent on his demise.\n Moby-Dick: The College Years\n Having survived the sinking of the Pequod and documented the events in more detail than was necessary, Ishmael attempts to reinvent himself, trading in the high seas for higher ed, and asking classmates to call him “Ish.” Not unlike the jock who peaked in high school, our narrator struggles with navi…",
-          "link": "https://www.mcsweeneys.net/articles/great-american-novels-the-college-years",
-          "publishedOn": "2026-05-13T12:00:00.000Z",
-          "wordCount": 2475,
-          "title": "Great American Novels: The College Years",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/issmdhm3sum3ydymqwlblnp7v3r1"
         }
       ]
     },
@@ -11532,6 +11492,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112255 at https://www.eff.org",
+          "author": "Cara Gagliano",
+          "description": "Imagine if McDonald’s could use trademark law to control how you use the term “fast food.” Or if the Canadian government could stop you from using the word “Canada” in the title of a book about the country and its people. That wouldn’t just be absurd; it would be an unacceptable obstacle to criticism of and commentary about those institutions. Yet the Church of Jesus Christ of Latter-day Saints (the “LDS Church”) has a track record of claiming exactly that kind of authority over the word “Mormon,” using the threat of expensive litigation to pressure speakers into compliance.\nWe at EFF have opposed the LDS Church’s abuse of trademark law for over a decade. In 2014, we filed an amicus brief when the church sued an online dating service for church members called Mormon Match. In 2016, it thre…",
+          "link": "https://www.eff.org/deeplinks/2026/08/dismiss-churchs-trademark-lawsuit-against-mormon-stories-podcast-eff-urges-court",
+          "publishedOn": "2026-08-11T00:00:30.000Z",
+          "wordCount": 1739,
+          "title": "Dismiss Church’s Trademark Lawsuit Against “Mormon Stories” Podcast, EFF Urges Court",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/trademark-cans.png",
+            "alt": "Cans on a shelf with Trademark symbols",
+            "type": "image/png",
+            "length": "20019"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/trademark-cans.png"
+        },
         {
           "id": "112251 at https://www.eff.org",
           "author": "Jennifer Pinsof",
