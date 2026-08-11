@@ -6589,16 +6589,6 @@
           "wordCount": 9077,
           "title": "Gyo Fujikawa, nacida en Berkeley, fue una de las primeras autoras de libros ilustrados en dibujar niños de diversas razas",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Gyo-Fujikawa.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556861",
-          "author": "Momo Chang",
-          "description": "Not yet fully open, the word is out about Rashad Armstead's Saints Smokehouse, where lines form early.",
-          "link": "https://www.berkeleyside.org/2026/05/13/saints-smokehouse-bbq-rashad-armstead-chopped",
-          "publishedOn": "2026-05-13T21:02:07.000Z",
-          "wordCount": 8256,
-          "title": "This ‘Chopped’ winner is back in Oakland with some of the Bay’s best smoked brisket and ribs",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-20260429_SaintsSmokehouse_EG_036.jpg"
         }
       ]
     },
@@ -6917,6 +6907,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=swh0_M0rRPQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=swh0_M0rRPQ",
+          "publishedOn": "2026-08-11T11:47:25.000Z",
+          "wordCount": null,
+          "title": "Death Cab for Cutie: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/gp4xxbLnDZU",
           "author": null,
@@ -9825,6 +9825,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/welcome-aboard-svelte-airlines-except-you-the-fat-passenger-in-seat-49c",
+          "author": "Meg Elison",
+          "description": "Welcome aboard Svelte Airlines flight 362426. We’re so glad to have you with us today. Not you, econo-fat in 49C; we just tolerate you. For now.\n Please sit in your assigned seat. Unless the person next to you doesn’t like that. Ultimately, the person to your left will decide whether you sit in the seat that you paid for or be deplaned in a humiliating perp walk. If you are denied passage based on your assage, the gate agent will contact the nearest marine park and attempt to accommodate you with whatever they do for whales.\n Fasten your seatbelt. Unless it doesn’t contain your bulk, because it was designed in the 1970s for people who smoked two packs a day. Looks like we’re going to have to get you an extension. I said A SEATBELT EXTENDER. Can I get a lard lasso for the hamplanet in 49C, …",
+          "link": "https://www.mcsweeneys.net/articles/welcome-aboard-svelte-airlines-except-you-the-fat-passenger-in-seat-49c",
+          "publishedOn": "2026-08-11T12:00:00.000Z",
+          "wordCount": 2769,
+          "title": "Welcome Aboard Svelte Airlines—Except You, the Fat Passenger in Seat 49C",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/jh67bxad4ka9r0oheiee1fk3xn3c"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/clinical-notes-from-medusas-primary-care-provider-who-suspects-menopause",
           "author": "Anne Reiner",
@@ -13235,6 +13245,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/future-of-medicine/",
+          "author": null,
+          "description": "Few people know how much medicine has progressed in their lifetimes. Fewer know how much faster it could be progressing.",
+          "link": "https://worksinprogress.co/issue/future-of-medicine/",
+          "publishedOn": "2026-08-11T12:02:10.000Z",
+          "wordCount": 5117,
+          "title": "Every disease is a policy failure",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/What_Medicine_Could_Be_Feature_Image-scaled.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/the-ultimate-horse/",
           "author": null,
