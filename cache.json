@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165661",
+          "author": "Shalma Wegsman",
+          "description": "The math, which combines chaos, quantum theory, and infinitely complex fractal structures, has been called a “foundational result.”             \nThe post Graduate Student Proves a Quantum Uncertainty Principle for Fractals first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+          "publishedOn": "2026-08-12T14:14:42.000Z",
+          "wordCount": 3800,
+          "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165611",
           "author": "Natalie Wolchover",
           "description": "A simple scaling law brings order to the chaos of flowing water, rock, and sediment. New findings have extended the law even further.             \nThe post Why Are Rivers So Mathematical? first appeared on Quanta Magazine",
@@ -722,6 +732,56 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a7cb1e014bab50001e0fd5c",
+          "author": "Samantha Cole",
+          "description": "Here's how to opt out of Twitch's new generative AI training setting.",
+          "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+          "publishedOn": "2026-08-12T17:58:48.000Z",
+          "wordCount": 1188,
+          "title": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
+          "imageUrl": "https://images.unsplash.com/photo-1527334919515-b8dee906a34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHR3aXRjaHxlbnwwfHx8fDE3ODY1NTY4NzB8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a7c7ed514bab50001e0db8f",
+          "author": "Joseph Cox",
+          "description": "Zuckerberg's anti-social future; a company offering human writing that is actually just AI; and the big switch from Flock to Axon.",
+          "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
+          "publishedOn": "2026-08-12T14:15:44.000Z",
+          "wordCount": 1084,
+          "title": "Podcast: Mark Zuckerberg’s 'Superintelligent' AI Future That No One Wants",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Miniature-cha--ne-vid--o-youtube-24h-dans-ma-vie-freelance.png"
+        },
+        {
+          "id": "6a7c798614bab50001e0d7a9",
+          "author": "Samantha Cole",
+          "description": "A new study shows how pickup artist influencers use smart glasses to create content, and the connection between covert recording and harm.",
+          "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
+          "publishedOn": "2026-08-12T14:05:24.000Z",
+          "wordCount": 2121,
+          "title": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/instagrammeta--1-.png"
+        },
+        {
+          "id": "6a7c73d314bab50001de50a0",
+          "author": "Emanuel Maiberg",
+          "description": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
+          "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+          "publishedOn": "2026-08-12T13:36:41.000Z",
+          "wordCount": 1621,
+          "title": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/robot-character-3d-model-b694a0ad11.jpg"
+        },
+        {
+          "id": "6a7c6da714bab50001de4fc6",
+          "author": "Jason Koebler",
+          "description": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
+          "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+          "publishedOn": "2026-08-12T13:35:46.000Z",
+          "wordCount": 2269,
+          "title": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/404-Media-5101-Santa-Monica-Blvd-Ste-8-PMB1405-Los-Angeles--CA-90029.jpg"
+        },
         {
           "id": "6a7b631214bab50001de314a",
           "author": "Joseph Cox",
@@ -2720,6 +2780,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8397097",
+          "author": "C.J. Ciaramella",
+          "description": "An apparent surge of ICE arrests in airport terminals has created viral videos and questions over ICE's authority to board planes without judicial warrants.",
+          "link": "https://reason.com/2026/08/12/airports-are-ices-latest-target-raising-4th-amendment-concerns-from-airlines/",
+          "publishedOn": "2026-08-12T18:03:53.000Z",
+          "wordCount": null,
+          "title": "Airports Are ICE's Latest Target, Raising 4th Amendment Concerns From Airlines",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8396572",
           "author": "Autumn Billings",
           "description": "New details emerge regarding the Trump administration's surveillance dragnet cracking down on its online critics.",
@@ -3463,16 +3534,6 @@
           "wordCount": 187,
           "title": "Particle Census",
           "imageUrl": "https://imgs.xkcd.com/comics/particle_census_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3246/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3246/",
-          "publishedOn": "2026-05-15T04:00:00.000Z",
-          "wordCount": 185,
-          "title": "Speedrun",
-          "imageUrl": "https://imgs.xkcd.com/comics/speedrun_2x.png"
         }
       ]
     },
@@ -3885,6 +3946,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561098",
+          "author": "Felicia Mello",
+          "description": "Cal says the century-old villa at the center of Kensington’s Blake Garden has fallen into disrepair and is too costly to fix.",
+          "link": "https://www.berkeleyside.org/2026/08/12/blake-house-university-of-california-presidents-official-residence-blake-garden",
+          "publishedOn": "2026-08-12T16:32:07.000Z",
+          "wordCount": 8148,
+          "title": "UC Berkeley wants to demolish mansion that long housed UC presidents",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/IMG_1631-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561117",
           "author": "Nathan Dalton",
@@ -9825,6 +9896,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/release-notes-woman-version-510",
+          "author": "Mary Kay Holmes",
+          "description": "Thank you for updating to Woman 51.0.\n This release includes important security updates, several unexpected hardware changes, a completely redesigned relationship with alcohol, and expanded support for saying “absolutely not” without explaining yourself.\n New Features\n  \nNight Sweats now activate regardless of room temperature, thread count, fan speed, or whether you finally found a position that didn’t hurt your hip.\n Your bladder has been upgraded to Toddler Mode and now requires emptying immediately before bed, forty-three minutes after bed, and once more at 2:47 a.m. simply because.\n Hair has been retexturized and redistributed using an algorithm nobody understands.\n Crying now supports additional file types, including: exceptionally kind veterinarians, finding cash in an old coat pock…",
+          "link": "https://www.mcsweeneys.net/articles/release-notes-woman-version-510",
+          "publishedOn": "2026-08-12T17:00:00.000Z",
+          "wordCount": 2835,
+          "title": "Release Notes:  Woman™ Version 51.0",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8f8e199buw7tp1ejjncwjpmmk5pt"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/the-free-trial-by-franz-kafka",
           "author": "Bob Woodiwiss",
