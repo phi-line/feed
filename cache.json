@@ -596,6 +596,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/why-we-like-things",
+          "author": null,
+          "description": "What Silicon Valley gets wrong about taste.",
+          "link": "https://asteriskmag.com/issues/15/why-we-like-things",
+          "publishedOn": "2026-08-11T00:00:00.000Z",
+          "wordCount": 4829,
+          "title": "Why We Like Things",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/why-we-like-things/9fd11856c5-1786382883/taste-celine-nguyen-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/how-diplomats-see-the-world",
           "author": null,
           "description": "Inside the boring-by-design U.S. fact-checking machine.",
@@ -2701,16 +2711,6 @@
           "wordCount": 1938,
           "title": "DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image1-1.jpg"
-        },
-        {
-          "id": "6a05ca0d5752c300010441df",
-          "author": "Jason Koebler",
-          "description": "\"I hoarded a large database of something valuable, just not what you expect… 150k stools images.\"",
-          "link": "https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/",
-          "publishedOn": "2026-05-14T13:30:52.000Z",
-          "wordCount": 1361,
-          "title": "Internet of Shit: AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/IMG_9595.jpg"
         }
       ]
     },
@@ -3895,6 +3895,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561117",
+          "author": "Nathan Dalton",
+          "description": "A company that works to temporarily fill vacant retail with creative space has gotten a discounted six-month lease to build 24 studios where artists can make and sell in downtown.",
+          "link": "https://www.berkeleyside.org/2026/08/11/zero-empty-spaces-downtown-berkeley-half-price-books",
+          "publishedOn": "2026-08-11T23:53:21.000Z",
+          "wordCount": 8111,
+          "title": "Artist studios pop up at Berkeley’s empty Half Price Books",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-Zero-Empy-Spaces-3.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561064",
+          "author": "Daniel Ekonde",
+          "description": "The city is soliciting input from residents through Aug. 24 on sculpture proposals for the new park being built on a stretch of the old Santa Fe railroad line.",
+          "link": "https://www.berkeleyside.org/2026/08/11/public-art-proposals-southwest-berkeley-park",
+          "publishedOn": "2026-08-11T19:10:01.000Z",
+          "wordCount": 7865,
+          "title": "Sculptures that double as bird nests: Weigh in on 3 public art proposals for new Southwest Berkeley park",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/image-6.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561060",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/11/casa-latina-chom-thai-kitchen-lalala-cafe-opening",
+          "publishedOn": "2026-08-11T19:00:00.000Z",
+          "wordCount": 6935,
+          "title": "New Latin Market lands in Richmond, and the East Bay gets fresh cafe and Thai options",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/CasaLatinaSuperMercado-Umanzor.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561035",
           "author": "Berkeleyside Staff",
@@ -6609,26 +6639,6 @@
           "wordCount": 7000,
           "title": "Shotgun Players presents a climate-change comedy, ‘Continuity’",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Continuity-cast-3-1.jpg?fit=1920%2C1080&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556845",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a music game for non-musicians, the Rooted on Fourth market and a chance to get poetry feedback by a Berkeley poet.",
-          "link": "https://www.berkeleyside.org/2026/05/14/around-berkeley-the-lunchbox-at-berkeley-rep-magic-the-gathering-meetup",
-          "publishedOn": "2026-05-14T13:00:00.000Z",
-          "wordCount": 8316,
-          "title": "Around Berkeley: ‘The Lunchbox’ at Berkeley Rep; Magic the Gathering meetup",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/03/Victory-Point-Cafe-games-04.webp?fit=1568%2C1046&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556932",
-          "author": "Sara Hayden",
-          "description": "Su obra emblemática “Babies” (bebés), que rompió barreras en 1963, está disponible para préstamo en la biblioteca de Berkeley desde esta semana.",
-          "link": "https://www.berkeleyside.org/2026/05/14/gyo-fujikawa-nacida-en-berkeley-fue-una-de-las-primeras-autoras-de-libros-ilustrados-en-dibujar-ninos-de-diversas-razas",
-          "publishedOn": "2026-05-14T11:00:00.000Z",
-          "wordCount": 9077,
-          "title": "Gyo Fujikawa, nacida en Berkeley, fue una de las primeras autoras de libros ilustrados en dibujar niños de diversas razas",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Gyo-Fujikawa.png"
         }
       ]
     },
@@ -11484,16 +11494,6 @@
           "wordCount": 2143,
           "title": "Busy Beavers",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qhznf9d5by7u1b24632mqb3x4ygw"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-secret-meanings-of-pop-stars-names",
-          "author": "Max Gutmann, Sylvia Gutmann, and Isaac Gutman",
-          "description": "Dua Lipa\n I have two lips.\n Elvis Presley\n Someone has flattened the elves.\n Elton John\n Where’s the bathroom?\n Cher\n I want it all.\n Ed Sheeran\n My eyebrows itch.\n Bad Bunny\n I am going to consume this carrot, and you are powerless to stop me.\n John Denver\n The bathroom is in Colorado.\n John Cougar\n The bathroom is a litter box.\n John Legend\n The bathroom doesn’t actually exist.\n Lorde\n Dear God, please help me learn to spell.\n Johnny Rotten\n The toilet smells bad.\n Flo Rida\n Meet my girlfriend, Ida Ho.\n Johnny Cash\n Got change for the pay toilet?\n Eddie Money\n Yes, I do.\n Jon Bon Jovi\n Party in the outhouse!\n Carrie Underwood\n The pallbearers have fallen.\n Keith Richards\n The keys are too expensive.\n Keith Urban\n The keys are in the city.\n Keith Moon\n The keys are up my ass.\n Taylor Swift\n Your clothes are almost ready.\n Britney Spears\n The Englishman has sharp knees.\n Alicia Keys\n Who the fuck is Keith?\n P!NK\n Pink.\n Eminem\n Skittles.\n Mama Cass Elliot\n Your mother wears army boots.\n Olivia Rodrigo\n Let’s go fishing.\n Olivia Dean\n Let’s kidnap a senior administrator.\n Olivia Newton-John\n Let’s renovate the bathroom.",
-          "link": "https://www.mcsweeneys.net/articles/the-secret-meanings-of-pop-stars-names",
-          "publishedOn": "2026-05-14T12:00:00.000Z",
-          "wordCount": 2125,
-          "title": "The Secret Meanings of Pop Stars’ Names",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hrv9wj4p1nn5djf9jbd51fny3u8p"
         }
       ]
     },
@@ -11502,6 +11502,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112240 at https://www.eff.org",
+          "author": "Hugh D&#039;Andrade",
+          "description": "We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been created with AI image generators. We’d like to answer these questions and clarify our internal policy regarding image creation. \nEFF images are all made by human beings, not by automated image generators, with very rare exceptions. This is an internal decision made by our small design team, for the following reasons: \n  \nOur designers bring knowledge and expertise to the images we create, informed by years of consultation with EFF’s lawyers, technologists and activists. We find that this informed perspective helps make the issues we cover more clear, and more engaging, for our supporters. \nThe content on our sites is written by human beings, not…",
+          "link": "https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff",
+          "publishedOn": "2026-08-11T20:24:25.000Z",
+          "wordCount": 1789,
+          "title": "Who (or What) Generates Images for EFF?",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
+            "alt": "robot doing brain surgery on itself",
+            "type": "image/jpeg",
+            "length": "673377"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg"
+        },
         {
           "id": "112255 at https://www.eff.org",
           "author": "Cara Gagliano",
