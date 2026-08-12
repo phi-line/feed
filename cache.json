@@ -723,6 +723,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a7b631214bab50001de314a",
+          "author": "Joseph Cox",
+          "description": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
+          "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
+          "publishedOn": "2026-08-12T12:49:12.000Z",
+          "wordCount": 1888,
+          "title": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/robin-worrall-FPt10LXK0cg-unsplash.jpg"
+        },
+        {
           "id": "6a7b61d114bab50001de30d4",
           "author": "Becky Ferreira",
           "description": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
@@ -6569,36 +6579,6 @@
           "wordCount": 7578,
           "title": "Después de medio siglo de servicio un taller mecánico de Berkeley cierra sus puertas, los clientes organizan una fiesta en honor a su fundador de 91 años",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Henrys-Service.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556943",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Construction of he Berkeley school district's workforce housing project is well underway and applications to live there are open.",
-          "link": "https://www.berkeleyside.org/2026/05/14/the-wire-uc-workers-avert-strike-with-tentative-deal-at-final-hour",
-          "publishedOn": "2026-05-14T23:54:33.000Z",
-          "wordCount": 7077,
-          "title": "The Wire: UC workers avert strike with tentative deal at final hour",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-IMG_0227.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556930",
-          "author": "Nico Savidge",
-          "description": "Gavin Newsom’s revised budget proposal would cover most of the cost to buy the former horse racing track with money from a state parks bond.",
-          "link": "https://www.berkeleyside.org/2026/05/14/golden-gate-fields-park-newsom-may-revise-berkeley",
-          "publishedOn": "2026-05-14T21:08:40.000Z",
-          "wordCount": 7018,
-          "title": "Plan to turn Golden Gate Fields into waterfront park could get $125M from state",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/Natera_GoldenGateFields-Workers_03_04.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=556908",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/05/14/mixe-souk-savanh-close-uptown",
-          "publishedOn": "2026-05-14T19:39:57.000Z",
-          "wordCount": 6895,
-          "title": "Mexican and Thai Lao restaurants shutter in Uptown Oakland",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/mixe-bar.jpg"
         }
       ]
     },
@@ -9845,6 +9825,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-free-trial-by-franz-kafka",
+          "author": "Bob Woodiwiss",
+          "description": "There’s been some sort of error, thought Joseph K. Yes, that was it, an inadvertent error. Quite possibly on his part. A careless thumb tap when paranoiascrolling on his phone or a wayward mouse click while porn-drunk. The type of mistake modern life makes inevitable.\n Though, too, given the fraught times, it would be foolish to rule out the possibility of e-malice. And no one was above suspicion. Not his fishmonger, his cheesemonger, his bongmonger, his psychiatrymonger—all, he knew, were active in MAJA (Mongers Against Joseph Alliance). For that matter, it might even be his own father, still in high dudgeon over Joseph K.’s name change (from Joseph G.), claiming it sounded “too Jewish.”\n However it had happened, it had, undeniably, happened. The confirmation email made that clear.\n “Welc…",
+          "link": "https://www.mcsweeneys.net/articles/the-free-trial-by-franz-kafka",
+          "publishedOn": "2026-08-12T12:00:00.000Z",
+          "wordCount": 2954,
+          "title": "The Free Trial  by Franz Kafka",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rp1q9ecgfc0z72edgzzjbqf0la6w"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/when-you-really-think-about-it-everything-makes-you-poop-by-taylor-farms",
           "author": "Jack Loftus",
