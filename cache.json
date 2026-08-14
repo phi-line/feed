@@ -2741,16 +2741,6 @@
           "wordCount": 1154,
           "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/cdc-gsRi9cWCIB0-unsplash.jpg"
-        },
-        {
-          "id": "6a074e0508d1d400011fdabd",
-          "author": "Becky Ferreira",
-          "description": "A type of crystal lattice called a clathrate structure has been found for the first time in the fallout of a nuclear detonation.",
-          "link": "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
-          "publishedOn": "2026-05-16T13:00:34.000Z",
-          "wordCount": 2041,
-          "title": "Scientists Discover Strange New Crystal Formed by Nuclear Blast",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image1-2.jpg"
         }
       ]
     },
@@ -3936,6 +3926,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561284",
+          "author": "Nathan Dalton",
+          "description": "It was saved from closure in 1999 by a Wall Street Journal callout that led to a surge in sales for its line of Gefilte fish, Viagra fish and other godless car emblem parodies inspired by the Darwin fish.",
+          "link": "https://www.berkeleyside.org/2026/08/13/dark-carnival-bookstore-berkeley",
+          "publishedOn": "2026-08-13T20:11:49.000Z",
+          "wordCount": 7816,
+          "title": "Berkeley’s Dark Carnival bookstore, a beacon for sci-fi fans and fish-themed car emblem collectors, turns 50",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-Dark-Carnival-front.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561269",
+          "author": "Calliope Arkilic",
+          "description": "I don't like seafood. But a visit to an Oakland crawfish boil may have changed my mind. Maybe.",
+          "link": "https://www.berkeleyside.org/2026/08/13/rockin-crawfish-cajun-seafood-boil-oysters",
+          "publishedOn": "2026-08-13T19:00:00.000Z",
+          "wordCount": 8628,
+          "title": "Crawdads, my dad and me",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/CrawfishCollage.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561258",
           "author": "Alex N. Gecan",
@@ -6973,6 +6983,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/fmVQyYN7gOA",
+          "author": null,
+          "description": "You could come see a Tiny Desk Concert in person! Enter the giveaway for free, and pick up some merch or make a donation for even more chances to win at our ...",
+          "link": "https://www.youtube.com/shorts/fmVQyYN7gOA",
+          "publishedOn": "2026-08-13T20:20:20.000Z",
+          "wordCount": 3460,
+          "title": "This could be YOU. Enter at NPR.org/TinyDeskGiveaway",
+          "imageUrl": "https://i.ytimg.com/vi/fmVQyYN7gOA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAY_DVcycmceK8ocD-jAoEL8e-9AA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=_R_5qaYATh0",
           "author": null,
@@ -11508,6 +11528,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112260 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "Flock Safety, the embattled vendor of mass surveillance technology, has rolled out a handful of new reforms intended to appease the justified nationwide anger that has seen scores of towns cancel or suspend their contracts with the company for automated license plate readers (ALPRs). The reforms are a combination of long overdue changes along with some cosmetic fixes that fail to address the fundamental dangers of this technology.  \nWe should not be letting companies decide how much privacy we deserve. \nSo, what do these reforms actually do?  \nThe most consequential is Flock’s default setting of an optional 7-day retention period for ALPR data, down from its original default optional 30-day retention period. This means if police want to retain data beyond the duration of their retention se…",
+          "link": "https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms",
+          "publishedOn": "2026-08-13T20:52:35.000Z",
+          "wordCount": 1825,
+          "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png",
+            "alt": "Photograph of an automated license plate reader ",
+            "type": "image/png",
+            "length": "161449"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png"
+        },
         {
           "id": "112240 at https://www.eff.org",
           "author": "Hugh D&#039;Andrade",
