@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165293",
+          "author": "Ingrid Wickelgren",
+          "description": "By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.”            \nThe post Why Aging May Be a Program, Not a Breakdown first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+          "publishedOn": "2026-08-14T13:10:26.000Z",
+          "wordCount": 3283,
+          "title": "Why Aging May Be a Program, Not a Breakdown",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165661",
           "author": "Shalma Wegsman",
           "description": "The math, which combines chaos, quantum theory, and infinitely complex fractal structures, has been called a “foundational result.”             \nThe post Graduate Student Proves a Quantum Uncertainty Principle for Fractals first appeared on Quanta Magazine",
@@ -722,6 +732,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a7f2e2214bab50001e3e883",
+          "author": "Jason Koebler",
+          "description": "This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.",
+          "link": "https://www.404media.co/behind-the-blog-endless-scam-parade/",
+          "publishedOn": "2026-08-14T16:21:39.000Z",
+          "wordCount": 1081,
+          "title": "Behind the Blog: Endless Scam Parade",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/nl8.14--1--1.png"
+        },
+        {
+          "id": "6a7f207714bab50001e3e65a",
+          "author": "Joseph Cox",
+          "description": "A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, current a series of video clips, then provide you with a highlight reel of your night.",
+          "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+          "publishedOn": "2026-08-14T14:17:43.000Z",
+          "wordCount": 1453,
+          "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/meta-big.png"
+        },
+        {
+          "id": "6a7f146a14bab50001e3e516",
+          "author": "Matthew Gault",
+          "description": "Police arrested EJ Carrion in Fort Worth for 'tumultuous behavior' a week after he called local officials 'bullshit' at a county meeting.",
+          "link": "https://www.404media.co/man-arrested-in-texas-for-cussing-at-a-county-meeting/",
+          "publishedOn": "2026-08-14T13:20:33.000Z",
+          "wordCount": 1807,
+          "title": "Man Arrested in Texas For Cussing at a County Meeting",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Screenshot-2026-08-14-091909-1.png"
+        },
         {
           "id": "6a7dfa0114bab50001e3bfde",
           "author": "Jason Koebler",
@@ -3560,6 +3600,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
+          "author": "Nathan Gardels",
+          "description": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
+          "publishedOn": "2026-08-14T15:11:46.000Z",
+          "wordCount": 5303,
+          "title": "AI Needs Public Feedback at Scale Before It’s Too Late",
+          "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_Color_V1-26-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=eb8d21dd42e73d048679e30abf678e55"
+        },
+        {
           "id": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai",
           "author": "Albert Yuan",
           "description": "The post The Nature Of Free Will In The Age Of AI appeared first on NOEMA.",
@@ -3926,6 +3976,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561195",
+          "author": "Andrew Gilbert",
+          "description": "These three plush fellows have won top honors in the Berkeley Public Library’s fiber mascot contest.",
+          "link": "https://www.berkeleyside.org/2026/08/14/berkeley-public-library-fabric-mascot-contest-winners",
+          "publishedOn": "2026-08-14T13:00:00.000Z",
+          "wordCount": 8111,
+          "title": "Introducing Libro Saltwater, Shakesbear and Booknado — the new fiber mascots of the Berkeley library",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/library-mascots.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561284",
           "author": "Nathan Dalton",
@@ -9921,6 +9981,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/its-ice-were-rebranding-and-jazz-handing-with-our-sizzling-new-incel-gloves",
+          "author": "Samantha Green",
+          "description": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks intended to gain compliance from combative individuals. -CBS News\n - - -\nWe in the United States Immigration and Customs Enforcement Department have received a lot of constructive feedback recently regarding our immigration enforcement practices. After listening to the American people to the extent we’re able since most of us have hearing loss from all the guns, we concede the message is overwhelmingly clear: You want us to stop hurting people with bullets. We get it, and we agree. It’s time to hurt people differently.\n In response to your concerns, we’re overhauling our brand and consciously uncoupling from our Scary ICE persona. We’ve shuffled some rich people arou…",
+          "link": "https://www.mcsweeneys.net/articles/its-ice-were-rebranding-and-jazz-handing-with-our-sizzling-new-incel-gloves",
+          "publishedOn": "2026-08-14T17:00:00.000Z",
+          "wordCount": 3112,
+          "title": "It’s ICE—We’re Rebranding and Jazz-Handing With Our Sizzling New INCEL™ G.L.O.V.E.S.",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zhnm4avdfwr00hyv1jou1wynviog"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/a-field-guide-to-the-inspirational-people-you-meet-after-having-a-disabled-child",
           "author": "Anaïs Godard",
