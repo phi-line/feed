@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-14T18:50:06.411Z</updated>
+    <updated>2026-08-15T01:05:06.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Election 2026: Who’s running for Berkeley City Council, school board and more]]></title>
+        <id>https://www.berkeleyside.org/?p=561302</id>
+        <link href="https://www.berkeleyside.org/2026/08/14/berkeley-election-candidates-city-council-rent-board-school-board"/>
+        <updated>2026-08-14T20:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Voters will pick from crowded fields in two City Council races, while a Rent Board commissioner who didn’t make the ballot for re-election says she’s planning a legal challenge.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nudi Blue, Coffee Mill and Ben’s temporarily closed]]></title>
+        <id>https://www.berkeleyside.org/?p=561303</id>
+        <link href="https://www.berkeleyside.org/2026/08/14/coffee-mill-nudi-blue-bens-horn-closed"/>
+        <updated>2026-08-14T19:15:24.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s ICE—We’re Rebranding and Jazz-Handing With Our Sizzling New INCEL™ G.L.O.V.E.S.]]></title>
         <id>https://www.mcsweeneys.net/articles/its-ice-were-rebranding-and-jazz-handing-with-our-sizzling-new-incel-gloves</id>
