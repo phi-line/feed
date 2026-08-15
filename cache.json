@@ -3176,6 +3176,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3285/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3285/",
+          "publishedOn": "2026-08-14T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Accretionary Arc",
+          "imageUrl": "https://imgs.xkcd.com/comics/accretionary_arc_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3284/",
           "author": null,
           "description": "",
@@ -6854,6 +6864,16 @@
       "feedUrl": "https://www.theguardian.com/profile/meera-sodha/rss",
       "siteUrl": "https://www.theguardian.com/profile/meera-sodha",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/food/2026/aug/15/black-rice-salad-recipe-tomatoes-tamarind-green-beans-meera-sodha",
+          "author": "Meera Sodha",
+          "description": "Change up your seasonal salads with an easy-to-prep dish that centres on slow-cooked rice and a lively Asian dressing \nHere’s a recipe straight out of the low-effort, high-reward school of cooking, in which you chop the vegetables and nuts, boil the rice and beans, throw over a dressing … and it’s done! It was written in the middle of a heatwave, when cooking felt impossible, but I couldn’t look at another watermelon and feta salad. The trade-off is that this dish relies heavily on a couple of key ingredients: sambal oelek (which gives the salad its sparkle) and black rice, which, unlike other types of rice in a salad, never tastes worthy.\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2026/aug/15/black-rice-salad-recipe-tomatoes-tamarind-green-beans-meera-sodha",
+          "publishedOn": "2026-08-15T05:00:50.000Z",
+          "wordCount": 4473,
+          "title": "Meera Sodha’s recipe for black rice salad with tomatoes, tamarind and green beans | Meera Sodha recipes",
+          "imageUrl": "https://i.guim.co.uk/img/media/408e979e34f9115272bd09e6a6c4b44340ce55f3/186_3_4002_3199/master/4002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb9e86f1819638f713d57a33448c2a07"
+        },
         {
           "id": "https://www.theguardian.com/food/2026/aug/08/apple-cake-recipe-limmat-marseille-restaurant-meera-sodha",
           "author": "Meera Sodha",
