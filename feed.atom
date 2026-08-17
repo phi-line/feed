@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-17T06:49:59.310Z</updated>
+    <updated>2026-08-17T12:38:21.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Open Letter to Bounce Houses]]></title>
+        <id>https://www.mcsweeneys.net/articles/an-open-letter-to-bounce-houses</id>
+        <link href="https://www.mcsweeneys.net/articles/an-open-letter-to-bounce-houses"/>
+        <updated>2026-08-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a parent, I am required to obtain a car seat that must withstand a direct missile strike but am expected to look the other way when an inflatable UFC octagon with no referee is a main feature at nearly every birthday party.
+ Admittedly, I had fun bouncing when I was a kid, but this isn’t the 90s. Back then, parents didn’t face communal expulsion for infractions such as failing to stock every playdate with Honest Apple Juice boxes, MadeGood chocolate chip granola bars, and a mortgage payment worth of fruit. If a kid gets injured on my front lawn in an inflatable, I’ll be whisked straight to jail or worse, dragged on the local Facebook mom’s group (my request to join is still pending).
+ It’s not you, bounce houses, it’s us. We listen to our kids, take every boo-boo seriously, and validate…]]></summary>
+        <author>
+            <name>Andrew Belfry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why]]></title>
         <id>6a7f794c14bab50001e73a4d</id>
@@ -11741,67 +11753,6 @@ The post How Alexander Grothendieck Revolutionized 20th-Century Mathematics firs
         <updated>2026-05-20T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Indigenous exhibit that Trump failed to stop]]></title>
-        <id>https://www.berkeleyside.org/?p=557109</id>
-        <link href="https://www.berkeleyside.org/2026/05/19/lawrence-hall-of-science-yuutka-the-place-of-the-acorn"/>
-        <updated>2026-05-20T00:04:38.000Z</updated>
-        <summary type="html"><![CDATA[A first-of-its-kind collaboration between Ohlone youth and UC Berkeley’s Lawrence Hall of Science almost fell apart when a federal grant was axed. Then researchers took the Trump administration to court — and won.]]></summary>
-        <author>
-            <name>Felicia Mello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boarding China’s Last Bus]]></title>
-        <id>https://asteriskmag.com/issues/15/chinas-last-bus</id>
-        <link href="https://asteriskmag.com/issues/15/chinas-last-bus"/>
-        <updated>2026-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boarding China’s Last Bus]]></title>
-        <id>https://asteriskmag.com/issues/14/chinas-last-bus</id>
-        <link href="https://asteriskmag.com/issues/14/chinas-last-bus"/>
-        <updated>2026-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!]]></title>
-        <id>112082 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and"/>
-        <updated>2026-05-19T21:03:40.000Z</updated>
-        <summary type="html"><![CDATA[For years, civil society organizations, workers, journalists, and human rights experts have warned that major technology companies risk enabling grave human rights abuses when they provide cloud computing, AI, and surveillance infrastructure to governments implicated in violations of international and humanitarian law. While many companies pay lip service to evaluating customers and contracts for human rights implications (lip service Exhibit A: Palantir!), too often those processes fail to provide any meaningful accountability when their standards are not met or are simply ignored. But recent developments at Microsoft suggest that accountability for failing to uphold the human rights standards that a company itself sets, even if incomplete, is possible. 
-According to recent reporting, Mic…]]></summary>
-        <author>
-            <name>Betty Gedlu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There/There, where Friends & Family was, will follow in celebrated queer bar’s legacy]]></title>
-        <id>https://www.berkeleyside.org/?p=557089</id>
-        <link href="https://www.berkeleyside.org/2026/05/19/there-there-marufuku-ramen-west-coast-sourdough"/>
-        <updated>2026-05-19T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley land trust aims to keep artists housed in the Bay Area]]></title>
-        <id>https://www.berkeleyside.org/?p=557078</id>
-        <link href="https://www.berkeleyside.org/2026/05/19/artist-space-trust-berkeley"/>
-        <updated>2026-05-19T19:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Artist Space Trust, launched in 2023, wants to make sure the Bay Area can remain a creative hub.]]></summary>
-        <author>
-            <name>Nastia Voynovskaya | KQED</name>
         </author>
     </entry>
     <entry>
