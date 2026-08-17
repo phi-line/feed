@@ -93,6 +93,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165854",
+          "author": "Charlie Wood",
+          "description": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up.            \nThe post Theory of Fluids Enters the 21st Century first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+          "publishedOn": "2026-08-17T15:11:17.000Z",
+          "wordCount": 4170,
+          "title": "Theory of Fluids Enters the 21st Century",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Slow-mo-paint-cr-DepositPhotos_Alamy-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165293",
           "author": "Ingrid Wickelgren",
           "description": "By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.”            \nThe post Why Aging May Be a Program, Not a Breakdown first appeared on Quanta Magazine",
@@ -702,6 +712,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a831d3614bab50001efd228",
+          "author": "Jason Koebler",
+          "description": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
+          "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+          "publishedOn": "2026-08-17T14:56:24.000Z",
+          "wordCount": 2429,
+          "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/3M-St-Paul-Monument-place001-rgb.jpg"
+        },
+        {
+          "id": "6a83170714bab50001efc79e",
+          "author": "Emanuel Maiberg",
+          "description": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
+          "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+          "publishedOn": "2026-08-17T14:19:26.000Z",
+          "wordCount": 1210,
+          "title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/maxresdefault--1-.jpg"
+        },
+        {
+          "id": "6a7f47d614bab50001e713fb",
+          "author": "Emanuel Maiberg",
+          "description": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
+          "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "publishedOn": "2026-08-17T13:16:09.000Z",
+          "wordCount": 783,
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image3-2-1.png"
+        },
         {
           "id": "6a7f794c14bab50001e73a4d",
           "author": "Becky Ferreira",
@@ -3022,17 +3062,6 @@
           "title": "It's Not Just ICE Stockpiling Weapons—the IRS, EPA, and Other Feds Are Arming Up Too",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8382475",
-          "author": "Jacob Sullum",
-          "description": "That defense applies only when an officer \"reasonably\" believed he was acting within his federal authority.",
-          "link": "https://reason.com/2026/05/20/a-state-assault-case-against-an-ice-agent-could-illustrate-the-limits-of-supremacy-clause-immunity/",
-          "publishedOn": "2026-05-20T04:01:26.000Z",
-          "wordCount": null,
-          "title": "A State Assault Case Against an ICE Agent Could Illustrate the Limits of Supremacy Clause Immunity",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3463,16 +3492,6 @@
           "wordCount": 187,
           "title": "Neutrino Project",
           "imageUrl": "https://imgs.xkcd.com/comics/neutrino_project_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3248/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3248/",
-          "publishedOn": "2026-05-20T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "182.8 Meters",
-          "imageUrl": "https://imgs.xkcd.com/comics/182_8_meters_2x.png"
         }
       ]
     },
@@ -3885,6 +3904,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561332",
+          "author": "Alex N. Gecan",
+          "description": "A federal judge rejected homeless advocates’ request to block the city’s efforts to clear the camp for the long term, but granted a new concession.",
+          "link": "https://www.berkeleyside.org/2026/08/17/berkeley-harrison-encampment-status",
+          "publishedOn": "2026-08-17T16:25:22.000Z",
+          "wordCount": 8274,
+          "title": "Judge imposes new conditions on Berkeley’s move to sweep Eighth and Harrison camp",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/06/encampementsweepJune4th2025AdahliaCole-13.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560923",
+          "author": "Louisa Mascuch and Alicia Simba",
+          "description": "East Bay educators Alicia Simba and Louisa Mascuch share suggestions and book recs to get families in the habit of reading aloud at home — essential to nurturing kids’ academic success, imagination and mental health.",
+          "link": "https://www.berkeleyside.org/2026/08/17/elementary-school-teacher-reading-tips-for-parents",
+          "publishedOn": "2026-08-17T13:00:00.000Z",
+          "wordCount": 8196,
+          "title": "7 tips on reading to your child from a Berkeley librarian and an Oakland teacher",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Louisa_Mascuch_reading2-scaled.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561302",
           "author": "Nico Savidge",
@@ -9437,6 +9476,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=78727",
+          "author": "Jessica Hylton",
+          "description": "This cheesy vegan smashed broccoli is the perfect way to mix up your veggie routine. Tender on the inside, with the perfect crisp around the edges, it's served with a creamy, garlicky sauce that's sure to impress.",
+          "link": "https://jessicainthekitchen.com/smashed-broccoli/",
+          "publishedOn": "2026-08-17T14:00:00.000Z",
+          "wordCount": 12799,
+          "title": "Smashed Broccoli",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Smashed-Broccoli_22.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=78955",
           "author": "Jessica Hylton",
           "description": "This easy vegan yellow cake recipe deserves a place in your baking rotation! Get ready to dive into two layers of moist, tender, golden-yellow cake filled and frosted with silky-smooth chocolate buttercream.",
@@ -9810,6 +9859,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/trickle-down-economics-sues-third-law-of-motion-for-being-a-thing",
+          "author": "Tracy Chabala",
+          "description": "UNITED STATES DISTRICT COURT\n SOME SUNNY DISTRICT IN SOUTHERN CALIFORNIA NEAR A HORSE RANCH\n TRICKLE-DOWN ECONOMICS, (plaintiff)\n V.\n THE THIRD LAW OF MOTION, (defendant)\n STATEMENT OF CLAIM\n 1. THE THIRD LAW OF MOTION, which has been debunked time and time again by people who say they are familiar with the matter, including Schrödinger’s cat, has repeatedly bent reality to discredit TRICKLE-DOWN ECONOMICS, singling it out over other phenomena, like the eating and digestion of breakfast cereal, in a cynical ploy to destroy the minority of the opulent in America and the Principles of the Enlightenment; that every action has an equal and opposing reaction in America when it comes to marginal tax rates and stock buybacks and corporate mergers is obvious economic terrorism, plus it violates Di…",
+          "link": "https://www.mcsweeneys.net/articles/trickle-down-economics-sues-third-law-of-motion-for-being-a-thing",
+          "publishedOn": "2026-08-17T17:00:00.000Z",
+          "wordCount": 2781,
+          "title": "Trickle-Down Economics Sues Third Law of Motion for Being a Thing",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/fz80mqd0m3sunkbw1l1t1q9k6cv2"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-bounce-houses",
           "author": "Andrew Belfry",
