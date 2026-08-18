@@ -74,16 +74,6 @@
           "wordCount": 2098,
           "title": "A Love Story",
           "imageUrl": "https://pudding.cool/2026/06/love-story/assets/social-facebook.jpg"
-        },
-        {
-          "id": "https://pudding.cool/2026/05/kpop-generations",
-          "author": null,
-          "description": "Two friends tell the story of their friendship through every generation of K-pop",
-          "link": "https://pudding.cool/2026/05/kpop-generations",
-          "publishedOn": "2026-05-21T05:00:00.000Z",
-          "wordCount": 2927,
-          "title": "Growing Up with K-Pop",
-          "imageUrl": "https://pudding.cool/2026/05/kpop-generations/assets/img/title/social.jpg"
         }
       ]
     },
@@ -692,6 +682,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a847961a92fbd00017e82d3",
+          "author": "Jason Koebler",
+          "description": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
+          "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+          "publishedOn": "2026-08-18T15:54:15.000Z",
+          "wordCount": 2635,
+          "title": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-18-at-08.38.52@2x.png"
+        },
+        {
+          "id": "6a845d36a92fbd00017bcbe0",
+          "author": "Matthew Gault",
+          "description": "X is driving engagement by making users fight in the replies.",
+          "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+          "publishedOn": "2026-08-18T13:27:22.000Z",
+          "wordCount": 2075,
+          "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/photo-1694878981789-130374dde465.jpeg"
+        },
+        {
+          "id": "6a845974a92fbd00017bc72f",
+          "author": "Joseph Cox",
+          "description": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
+          "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
+          "publishedOn": "2026-08-18T13:21:29.000Z",
+          "wordCount": 1550,
+          "title": "The National Park Service Is Using Flock. Rangers Are Pissed",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/nps-flock.png"
+        },
         {
           "id": "6a8372f214bab50001f027bb",
           "author": "Samantha Cole",
@@ -3864,6 +3884,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561370",
+          "author": "Vanessa Arredondo",
+          "description": "The school board hopefuls shared their views on special education, math readiness, after-school care, and more. Directors could vote on the appointment as soon as Wednesday.",
+          "link": "https://www.berkeleyside.org/2026/08/18/finalists-busd-school-board-vacancy",
+          "publishedOn": "2026-08-18T14:00:00.000Z",
+          "wordCount": 9490,
+          "title": "6 finalists are interviewing for the open BUSD board seat. We surveyed them on the issues",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Natera_230531_217_BUSDSuperintendent_24-scaled.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=478567",
           "author": "Eli Wolfe",
@@ -9790,6 +9820,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/if-youre-a-little-piggy-this-could-be-the-job-for-you",
+          "author": "Nicole Blackwood",
+          "description": "Our company exists to make humanity more free, to solve the challenges MLK forgot to dream about. We began as an idea and bloomed into the market’s least compunctious competitor—that’s what makes us the number one AI-powered workflow management app currently under FTC investigation. We’re proud to say that our impressive capital is outpaced only by our sizeable debt, the latter consuming the former, ouroboros-style, in the kind of harmony Yin and Yang would eat their own shit to obtain.\n That’s where talent like you comes in!\n We’re looking for the Steven Spielberg of product marketing.\n We’re looking for the human centipede of automated accounting.\n We’re looking for the Cthulhu of HR scaling the Satan of AI nativity the second coming of our winter strategy the bloody Sunday of our disint…",
+          "link": "https://www.mcsweeneys.net/articles/if-youre-a-little-piggy-this-could-be-the-job-for-you",
+          "publishedOn": "2026-08-18T17:00:00.000Z",
+          "wordCount": 3006,
+          "title": "If You’re a Little Piggy, This Could Be the Job for You",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0jdqrwo56ysintyfqc9id6538wnh"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/theres-a-new-cookie-place",
           "author": "Julie Klausner",
           "description": "I have great news: there’s a new cookie place! It just opened.\n It’s called Kiss the Cookie, but I will do no such thing. I will eat the cookie. All of it. Here’s why that’s impressive: their cookies are very big. In fact, here’s one of their marketing gimmicks: if you can prove your dog weighs more than one of their cookies, you will get a second cookie at half price. And if a pair of these lukewarm decadent curiosities is too heavy for you to carry, they’ll ship it to you or help you carry it to your car. Either way: if you show that your dog tips the scales over one of their baked abominations, you’ll get two of these gigantic candy-stuffed dough piles, along with a free pup cup, which you can either give to your fat dog or eat yourself, they don’t care. I asked!\n So, here’s the deal wi…",
@@ -13105,6 +13145,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+          "author": null,
+          "description": "If it had a clear effect on children we would know by now.",
+          "link": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+          "publishedOn": "2026-08-18T13:07:09.000Z",
+          "wordCount": 2051,
+          "title": "Daycare pseudoscience",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/Daycare_Pseudoscience_Sharecard.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/will-farm-animals-always-suffer/",
           "author": null,
