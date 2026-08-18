@@ -713,12 +713,22 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a8372f214bab50001f027bb",
+          "author": "Samantha Cole",
+          "description": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
+          "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+          "publishedOn": "2026-08-17T21:04:53.000Z",
+          "wordCount": 1410,
+          "title": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/photo-1597119413352-c52ba40f83e7.jpeg"
+        },
+        {
           "id": "6a831d3614bab50001efd228",
           "author": "Jason Koebler",
           "description": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
           "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
           "publishedOn": "2026-08-17T14:56:24.000Z",
-          "wordCount": 2429,
+          "wordCount": 2422,
           "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/3M-St-Paul-Monument-place001-rgb.jpg"
         },
@@ -728,7 +738,7 @@
           "description": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
           "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
           "publishedOn": "2026-08-17T14:19:26.000Z",
-          "wordCount": 1210,
+          "wordCount": 1203,
           "title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/maxresdefault--1-.jpg"
         },
@@ -738,7 +748,7 @@
           "description": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
           "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
           "publishedOn": "2026-08-17T13:16:09.000Z",
-          "wordCount": 783,
+          "wordCount": 898,
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image3-2-1.png"
         },
@@ -2741,16 +2751,6 @@
           "wordCount": 1375,
           "title": "After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/CleanShot-2026-05-20-at-06.30.47@2x.png"
-        },
-        {
-          "id": "6a0da4d7ae17c400014aac92",
-          "author": "Joseph Cox",
-          "description": "Commencement speeches, poop images to train AI, and cameras stuck to preschool teachers also to train AI.",
-          "link": "https://www.404media.co/podcast-elites-just-dont-get-ai/",
-          "publishedOn": "2026-05-20T13:00:14.000Z",
-          "wordCount": 1096,
-          "title": "Podcast: Elites Just Don't Get AI",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/boo-ed2.png"
         }
       ]
     },
@@ -3904,6 +3904,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=478567",
+          "author": "Eli Wolfe",
+          "description": "The Board of Supervisors greenlighted the funding amid federal threats to transgender care.",
+          "link": "https://www.berkeleyside.org/2026/08/17/alameda-county-gender-affirming-care-lgbtq-health",
+          "publishedOn": "2026-08-17T23:36:13.000Z",
+          "wordCount": 7046,
+          "title": "Alameda County officials approve $1.5M for gender-affirming care, LGBTQ health",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-RFA_Sutter_Rally_BartNagel-1702.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561344",
+          "author": "Skylla Mumana",
+          "description": "For his sophomore spot, Uncle's, Davis is focusing on wood-fire cooking, lesser-known steaks and seasonal produce. But Davis insists it is not a steakhouse: he chooses the cuts and how they’re cooked.",
+          "link": "https://www.berkeleyside.org/2026/08/17/chef-geoff-davis-uncles-new-restaurant-2027",
+          "publishedOn": "2026-08-17T18:45:51.000Z",
+          "wordCount": 7457,
+          "title": "Burdell’s Geoff Davis is bringing back the neighborhood bar and grill",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/12/medium-Burdell-Soul-Food.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561332",
           "author": "Alex N. Gecan",
@@ -6942,6 +6962,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/SD5-WPkTU_k",
+          "author": null,
+          "description": "The PUBLIQuartet's new album 'Rhythm Nation' teems with beats ranging from West Africa and Venezuela to jazz standards and Janet Jackson. NPR Music's Tom Hui...",
+          "link": "https://www.youtube.com/shorts/SD5-WPkTU_k",
+          "publishedOn": "2026-08-17T21:30:32.000Z",
+          "wordCount": 3447,
+          "title": "@PUBLIQuartet is helping redefine what a string quartet means in the 21st century.",
+          "imageUrl": "https://i.ytimg.com/vi/SD5-WPkTU_k/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDow4EGk5K90cqP2L9ERsvqsrmjhQ"
+        },
+        {
           "id": "https://www.youtube.com/shorts/fmVQyYN7gOA",
           "author": null,
           "description": "You could come see a Tiny Desk Concert in person! Enter the giveaway for free, and pick up some merch or make a donation for even more chances to win at our ...",
@@ -7229,16 +7259,6 @@
           "publishedOn": "2026-05-22T09:00:12.000Z",
           "wordCount": null,
           "title": "Laurie Anderson: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2OotD-iJO80",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2OotD-iJO80",
-          "publishedOn": "2026-05-20T09:00:06.000Z",
-          "wordCount": null,
-          "title": "RaiNao: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -9481,7 +9501,7 @@
           "description": "This cheesy vegan smashed broccoli is the perfect way to mix up your veggie routine. Tender on the inside, with the perfect crisp around the edges, it's served with a creamy, garlicky sauce that's sure to impress.",
           "link": "https://jessicainthekitchen.com/smashed-broccoli/",
           "publishedOn": "2026-08-17T14:00:00.000Z",
-          "wordCount": 12799,
+          "wordCount": 12602,
           "title": "Smashed Broccoli",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Smashed-Broccoli_22.jpg"
         },
@@ -9865,7 +9885,7 @@
           "description": "UNITED STATES DISTRICT COURT\n SOME SUNNY DISTRICT IN SOUTHERN CALIFORNIA NEAR A HORSE RANCH\n TRICKLE-DOWN ECONOMICS, (plaintiff)\n V.\n THE THIRD LAW OF MOTION, (defendant)\n STATEMENT OF CLAIM\n 1. THE THIRD LAW OF MOTION, which has been debunked time and time again by people who say they are familiar with the matter, including Schrödinger’s cat, has repeatedly bent reality to discredit TRICKLE-DOWN ECONOMICS, singling it out over other phenomena, like the eating and digestion of breakfast cereal, in a cynical ploy to destroy the minority of the opulent in America and the Principles of the Enlightenment; that every action has an equal and opposing reaction in America when it comes to marginal tax rates and stock buybacks and corporate mergers is obvious economic terrorism, plus it violates Di…",
           "link": "https://www.mcsweeneys.net/articles/trickle-down-economics-sues-third-law-of-motion-for-being-a-thing",
           "publishedOn": "2026-08-17T17:00:00.000Z",
-          "wordCount": 2781,
+          "wordCount": 2790,
           "title": "Trickle-Down Economics Sues Third Law of Motion for Being a Thing",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/fz80mqd0m3sunkbw1l1t1q9k6cv2"
         },
@@ -11438,16 +11458,6 @@
           "wordCount": 2780,
           "title": "Corruption Has Gotten Way Too Lazy",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sjbmky38radwzrdh8pgx9j7upck4"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/scenes-from-the-baltimore-beefcake-an-edgar-allan-poe-biopic-in-which-he-is-totally-jacked",
-          "author": "Sarah Totton",
-          "description": "SCENE 1.\n EXT. A BOULEVARD. MIDNIGHT.\n POE drops his frock coat, loosens his cravat, and tears open his shirt, buttons flying, to reveal his body, which is totally jacked. His nipples glisten in the moonlight.\n A BLACK CAT, in the process of killing a RAT, spies POE’s lithe, freshly waxed chest. The BLACK CAT swoons. The RAT escapes, but in the process of fleeing, sees POE’s shredded physique and also swoons.\n A BELL tolls. POE nonchalantly flexes his guns: boom, boom. A RAVEN in a nearby magnolia tree also swoons, falls from the tree, and expires.\n - - - \n SCENE 2.\n INT. A STUDY. MIDNIGHT.\n POE, hard at work composing deathless verse, paces the room.\n POE (muttering)\n So that now, to still the beating of my heart, I stood repeating…\n POE stops walking. A meaty pop rings out as he cracks a…",
-          "link": "https://www.mcsweeneys.net/articles/scenes-from-the-baltimore-beefcake-an-edgar-allan-poe-biopic-in-which-he-is-totally-jacked",
-          "publishedOn": "2026-05-20T12:03:00.000Z",
-          "wordCount": 2615,
-          "title": "Scenes from The Baltimore Beefcake, an Edgar Allan Poe Biopic in Which He is Totally Jacked",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/intqquj2zzj4yicq0ouqmb8hxryc"
         }
       ]
     },
@@ -11456,6 +11466,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112262 at https://www.eff.org",
+          "author": "Christian Romero",
+          "description": "September 3, 2026 - 6:00am PDT to September 7, 2026 - 3:00pm PDT\n\n\nSeptember 3, 2026 - 9:00am EDT to September 7, 2026 - 5:00pm EDT\n\n\nAtlanta, GA\n\n\n\nJoin EFF at Dragon Con! We're excited to be back with a bunch of talks on the Electronic Frontiers Forum track @ Dragon Con.\nJoin the Cause\nInterested in supporting the fight for privacy and free expression online? Become an EFF member today to support the lawyers, activists, and technologists pushing f0r your rights online. You can also check out some new EFF swag, including our liquid core dice, playing cards, and more!\nBecome AN EFF MEMBER\nLearn More About EFF's Work\nEFF will be at a variety of panels and events on the Electronic Frontiers Forum track, so be sure to check them out and say hi when you see us!\nMore talk information coming soon...\nAbout Dragon Con\n\nDragon Con is the largest multi-media, popular culture convention focusing on science fiction & fantasy, gaming, comics, literature, art, music, and film in the universe. Call us a phenomenon, call us one of the most well attended pop-culture conventions in the country, call us the most fan fun you can have in five days: Dragon Con is where you want to be on Labor Day Weekend.\n\n\nCalendar",
+          "link": "https://www.eff.org/event/eff-dragoncon-1",
+          "publishedOn": "2026-08-17T23:36:22.000Z",
+          "wordCount": 765,
+          "title": "EFF at DragonCon",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/dragoncon_1200.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "724639"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/dragoncon_1200.png"
+        },
         {
           "id": "112260 at https://www.eff.org",
           "author": "Matthew Guariglia",
@@ -13424,16 +13450,6 @@
           "wordCount": 1598,
           "title": "Washington diary",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/A-washington-diary-Share_Cards-.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/losing-my-religion/",
-          "author": null,
-          "description": "How Works in Progress editor Ben Southwood learned to stop worrying and love democracy.",
-          "link": "https://worksinprogress.co/issue/losing-my-religion/",
-          "publishedOn": "2026-05-20T10:25:46.000Z",
-          "wordCount": 4545,
-          "title": "Losing my religion",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/losing-my-religion-share-card-v1.jpg"
         }
       ]
     }
