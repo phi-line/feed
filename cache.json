@@ -576,6 +576,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/15/what-to-expect-when-you-re-expecting-a-world-of-multi-agent-systems",
+          "author": null,
+          "description": "How do we model the future of work? It takes an AI village.",
+          "link": "https://asteriskmag.com/issues/15/what-to-expect-when-you-re-expecting-a-world-of-multi-agent-systems",
+          "publishedOn": "2026-08-18T00:00:00.000Z",
+          "wordCount": 4058,
+          "title": "What To Expect When You’re Expecting (A World of Multi-Agent Systems)",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/what-to-expect-when-you-re-expecting-a-world-of-multi-agent-systems/cdd99ca2c6-1786991585/ai-village-christine-kozobarich-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/why-we-like-things",
           "author": null,
           "description": "What Silicon Valley gets wrong about taste.",
@@ -2721,16 +2731,6 @@
           "wordCount": 1831,
           "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/29384756667_e09f5698bc_k-1.jpg"
-        },
-        {
-          "id": "6a0e4f8c466db00001549d1d",
-          "author": "Becky Ferreira",
-          "description": "Fossils unearthed in the Northwest Territories push the origins of animal sex back by 5-10 million years and reveal the earliest examples of locomotion in the fossil record.",
-          "link": "https://www.404media.co/the-oldest-evidence-of-animal-sex-has-been-found-and-its-mind-boggling/",
-          "publishedOn": "2026-05-21T13:00:28.000Z",
-          "wordCount": 1904,
-          "title": "The Oldest Evidence of Animal Sex Has Been Found, and It’s Mind-Boggling",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image2.jpg"
         }
       ]
     },
@@ -3029,17 +3029,6 @@
           "publishedOn": "2026-05-21T15:40:41.000Z",
           "wordCount": null,
           "title": "Is the DHS Tracking ICE Critics? The Public Deserves Answers.",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8378389",
-          "author": "C.J. Ciaramella",
-          "description": "An armed IRS agent roaming the streets should send shivers down the spine of any freedom-loving American.",
-          "link": "https://reason.com/2026/05/21/beware-the-blob-of-federal-police/",
-          "publishedOn": "2026-05-21T10:00:17.000Z",
-          "wordCount": null,
-          "title": "It's Not Just ICE Stockpiling Weapons—the IRS, EPA, and Other Feds Are Arming Up Too",
           "itunes": {},
           "imageUrl": null
         }
@@ -3884,6 +3873,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=467537",
+          "author": "Joel Umanzor",
+          "description": "Mike Herz, founder of SF Baykeeper, and his wife, Kate Josephs, are sharing stories about the bay from their home upon the waves.",
+          "link": "https://www.berkeleyside.org/2026/08/18/san-pablo-harbor-podcast-preserves-bay-history",
+          "publishedOn": "2026-08-18T23:00:00.000Z",
+          "wordCount": 8939,
+          "title": "Couple is podcasting from a boat to preserve San Francisco Bay history",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/OnceUponABay_071326_Mtierney9.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561207",
+          "author": "Janelle Hessig",
+          "description": "Jason White has lived in and around Berkeley since the early ’90s. He’s on a mission this year to hike every path and staircase in the hills, often joined by his dog Linda Barker.",
+          "link": "https://www.berkeleyside.org/2026/08/18/berkeley-hills-pathways-jason-white-green-day",
+          "publishedOn": "2026-08-18T21:00:00.000Z",
+          "wordCount": 9024,
+          "title": "Green Day guitarist is obsessed with the hidden pathways of the Berkeley Hills",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-20260730_JasonWhite_EG_009.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561402",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/18/balompie-pupusas-amor-grill-antojitos-cuscatlan-burger-spot-open",
+          "publishedOn": "2026-08-18T19:00:00.000Z",
+          "wordCount": 6957,
+          "title": "A popular SF Salvadoran restaurant, a Swiss chocolate shop and a new Mediterranean spot open in the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Balompie.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561370",
           "author": "Vanessa Arredondo",
@@ -6558,16 +6577,6 @@
           "wordCount": 7397,
           "title": "Fish & Bird announces final day, a Cal cafe goes dark, Gold Palm shuttering shy of 2 years, and more closures",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Fish-and-Bird-exterior.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=557203",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a Bay Area foraging class, a lecture on house music and the Berkeley Community Chorus and Orchestra’s 60th anniversary.",
-          "link": "https://www.berkeleyside.org/2026/05/21/around-berkeley-shakespeare-in-john-hinkel-park-free-but-chancy-haircuts",
-          "publishedOn": "2026-05-21T13:00:00.000Z",
-          "wordCount": 8354,
-          "title": "Around Berkeley: Shakespeare in John Hinkel Park, free but chancy haircuts",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Loves-Labour-Lost.png?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -11388,16 +11397,6 @@
           "wordCount": 2118,
           "title": "Nature Cam",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/pw8svtlbgyq1j9qpb0khspumetnw"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/epidurals-for-him",
-          "author": "Ginny Hogan",
-          "description": "You’ve had a long, hard nine months. Your wife’s been pregnant, and in month nine, she was so uncomfortable in bed that she made you sleep on the futon. Twice.\n And yet, you survived. At long last, the big day is upon you. A baby’s birth is a significant medical event, and pain management is critical. It takes two people to make a baby, which is why we’ve designed Epidurals, for Him.\n The Labor Room Is a Hostile Environment\n The labor and delivery market has long been characterized by a significant pain management gap. While existing clinical infrastructure reliably serves one demographic—namely, the birthing person—it systematically neglects another: you, the person who drove her there. The medical system is famously biased in favor of women: indeed, over 90 percent of pregnancy-related e…",
-          "link": "https://www.mcsweeneys.net/articles/epidurals-for-him",
-          "publishedOn": "2026-05-21T12:00:00.000Z",
-          "wordCount": 2757,
-          "title": "Epidurals, for Him",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/7hc2301cz7hyhmg3m8liqrfg687d"
         }
       ]
     },
@@ -11406,6 +11405,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112264 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Meta, a Ninth Circuit three-judge panel held that the lower court’s denial of Section 230 immunity to Meta is not immediately appealable. The misguided ruling has the potential to have widespread impact and to threaten the free speech of all internet users.\nThe ruling is bigger than a loss for Meta, which has the resources to defend itself against these lawsuits. The court’s ruling signals that all online services (and internet users) that host others’ speech—including those without Meta’s deep pockets—must bear the burden and expense of fighting lawsuits that Section 230 ultimately precludes. This will have real consequences, incentivizing onli…",
+          "link": "https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy",
+          "publishedOn": "2026-08-18T23:23:50.000Z",
+          "wordCount": 2750,
+          "title": "Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-2d.png",
+            "alt": "One person holds a megaphone for another, with rainbow stripes",
+            "type": "image/png",
+            "length": "323424"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-2d.png"
+        },
         {
           "id": "112262 at https://www.eff.org",
           "author": "Christian Romero",
