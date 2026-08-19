@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165698",
+          "author": "Ben Brubaker",
+          "description": "No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            \nThe post Building a Quantum Computer, One Fragile Qubit at a Time first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+          "publishedOn": "2026-08-19T14:16:03.000Z",
+          "wordCount": 2798,
+          "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2056/08/IBMs-quantum-computer-cr-Graham-Carlow-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165854",
           "author": "Charlie Wood",
           "description": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up.            \nThe post Theory of Fluids Enters the 21st Century first appeared on Quanta Magazine",
@@ -682,6 +692,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a85cc28a92fbd00017ed344",
+          "author": "Becky Ferreira",
+          "description": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future human exploration.",
+          "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
+          "publishedOn": "2026-08-19T18:00:10.000Z",
+          "wordCount": 1712,
+          "title": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/image1.png"
+        },
+        {
+          "id": "6a85be83a92fbd00017ecddf",
+          "author": "Jason Koebler",
+          "description": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
+          "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+          "publishedOn": "2026-08-19T17:14:58.000Z",
+          "wordCount": 2676,
+          "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-19-at-09.29.32@2x.png"
+        },
         {
           "id": "6a847961a92fbd00017e82d3",
           "author": "Jason Koebler",
@@ -3052,6 +3082,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3287/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3287/",
+          "publishedOn": "2026-08-19T04:00:00.000Z",
+          "wordCount": 188,
+          "title": "Perseids",
+          "imageUrl": "https://imgs.xkcd.com/comics/perseids_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3286/",
           "author": null,
           "description": "",
@@ -3420,16 +3460,6 @@
           "wordCount": 187,
           "title": "Flag Design",
           "imageUrl": "https://imgs.xkcd.com/comics/flag_design_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3249/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3249/",
-          "publishedOn": "2026-05-22T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Neutrino Project",
-          "imageUrl": "https://imgs.xkcd.com/comics/neutrino_project_2x.png"
         }
       ]
     },
@@ -3832,6 +3862,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561102",
+          "author": "Joanne Furio",
+          "description": "Jeremy Lent describes the consequences of a society stretched to its limits and what can replace it. Also: “Reckonings” by Thomas Farber, and a posthumous memoir of LSD and erotic encounters at Esalen by Cal professor Clare Cooper Marcus.",
+          "link": "https://www.berkeleyside.org/2026/08/19/jeremy-lent-ecocivilization-reckonings-thomas-farber-my-deepest-desire-tamiki-hara-groundbreaking-clare-cooper-marcus-smolder-colleen-morton-busch",
+          "publishedOn": "2026-08-19T14:00:00.000Z",
+          "wordCount": 9633,
+          "title": "Berkeley author maps out an ‘ecocivilization’ to avert climate and economic catastrophe",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Ecocivilization.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://richmondside.org/?p=467537",
           "author": "Joel Umanzor",
@@ -9748,6 +9788,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/professor-sisyphus-begins-a-new-semester",
+          "author": "Talia Argondezzi",
+          "description": "On the first day of the semester, Professor Sisyphus made a to-do list. As he completed items on the to-do list, he kept adding new ones at about twice the rate he crossed off items.\n Professor Sisyphus graded the papers his students had submitted. The day he handed back the graded papers, the next paper was due.\n Professor Sisyphus joined the committee that was drafting the new strategic plan. They held planning meetings. Then they held listening sessions. Then they drafted a draft strategic plan. Then they held feedback meetings on the draft strategic plan. Then they made revisions to the draft based on the draft strategic plan feedback meetings. On the day the administration released the new strategic plan, which didn’t reflect the committee’s work, they called for volunteers to form a …",
+          "link": "https://www.mcsweeneys.net/articles/professor-sisyphus-begins-a-new-semester",
+          "publishedOn": "2026-08-19T16:58:00.000Z",
+          "wordCount": 2950,
+          "title": "Professor Sisyphus Begins a New Semester",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/baogt0tabw3e3euhzyvbs70hzbci"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/honest-parks-and-rec-soccer-itinerary-ages-4-5-league",
           "author": "Eddie Small",
           "description": "Week 1\n Players will arrive at the field, get their shirts, get incredibly excited about their shirts, demand to know why Moana isn’t on any of the shirts, fight among each other about who got the best shirt, and hopefully get within six inches of the ball at some point.\n Week 2\n Players’ parents will begrudgingly accept that their children are not going to participate in any of the drills unless they get on the field as well and join them to halfheartedly jog after a soccer ball for the first time since they thought making their middle school’s junior varsity team was a big deal. But, hey, at least now they can say they got some exercise today.\n Week 3\n Players will at least, you know, move around without crying for a little bit.\n Week 4\n Players will start practice by actually lining up …",
@@ -11315,6 +11365,22 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "112267 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "Your location isn't just a pin on a map—it can expose some of the most intimate details about your life. The value of this information to advertisers and others has turned the location data business into a multi-billion dollar industry. In our latest EFFector newsletter, we're covering a new EFF report on how ad libraries encourage apps to leak user location data—potentially without app developers themselves even realizing it.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers what recently announced Flock reforms actually do, privacy-invasive legislation advancing in the Senate, and an EFF investigation into mobile ad software.\n\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time, we're covering EFF's new report on mobile ad libraries and chatting with EFF Executive Director Nicole Ozer about how digital rights have become fundamental to our lives. You can find the episode and subscribe on your podcast platform of choice:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Fbaf87477-9c26-4b51-8f00-b0465a2606d1%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to protect your right to digital privacy? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
+          "publishedOn": "2026-08-19T16:35:30.000Z",
+          "wordCount": 774,
+          "title": "📍 The Sneaky Code Tracking App Users | EFFector 38.15",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
+        {
           "id": "112264 at https://www.eff.org",
           "author": "Sophia Cope",
           "description": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Meta, a Ninth Circuit three-judge panel held that the lower court’s denial of Section 230 immunity to Meta is not immediately appealable. The misguided ruling has the potential to have widespread impact and to threaten the free speech of all internet users.\nThe ruling is bigger than a loss for Meta, which has the resources to defend itself against these lawsuits. The court’s ruling signals that all online services (and internet users) that host others’ speech—including those without Meta’s deep pockets—must bear the burden and expense of fighting lawsuits that Section 230 ultimately precludes. This will have real consequences, incentivizing onli…",
@@ -11329,6 +11395,22 @@
             "length": "323424"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/section-230-2d.png"
+        },
+        {
+          "id": "112263 at https://www.eff.org",
+          "author": "Daly Barnett",
+          "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verification law in place, and dangerous proposals, from the KIDS Act to the Kids Online Safety Act (KOSA), have been advancing at the federal level. European Union member states are moving toward having age verification in a centralized app by the end of this year. Australia famously now has one extremely broad restriction in place.\nMost age verification laws tend to fail at their primary goal of barring kids from being online or from entering only specially designated zones, not to mention they pose a significant threat to everyone’s priv…",
+          "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+          "publishedOn": "2026-08-18T22:39:03.000Z",
+          "wordCount": 2251,
+          "title": "ZKP’s Aren’t Age Verification Silver Bullets",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png",
+            "alt": "A hand holding a cellphone showing a verification screen and ACCESS DENIED in the background.",
+            "type": "image/png",
+            "length": "536728"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
         },
         {
           "id": "112262 at https://www.eff.org",
