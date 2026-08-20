@@ -693,6 +693,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a860894ec31a300018d536d",
+          "author": "Joseph Cox",
+          "description": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
+          "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+          "publishedOn": "2026-08-19T20:06:22.000Z",
+          "wordCount": 1155,
+          "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/amazonbooks.png"
+        },
+        {
           "id": "6a85cc28a92fbd00017ed344",
           "author": "Becky Ferreira",
           "description": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future human exploration.",
@@ -2740,6 +2750,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8398096",
+          "author": "Matthew Petti",
+          "description": "Newly released FOIA files reveal a back channel between ICE's office in Israel, the Qatari government, and the Islamic Republic.",
+          "link": "https://reason.com/2026/08/19/ice-handed-over-specific-iranians-at-the-islamic-republics-request/",
+          "publishedOn": "2026-08-19T20:15:06.000Z",
+          "wordCount": null,
+          "title": "ICE Handed Over Specific Iranians at the Islamic Republic's Request",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8397878",
           "author": "Jacob Sullum",
           "description": "The agency’s attempt to intimidate David Streever is at the center of a First Amendment case.",
@@ -3862,6 +3883,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561508",
+          "author": "Vanessa Arredondo",
+          "description": "Berkeley Unified and other districts are increasingly using “me too” contract clauses tying executive salaries to staff pay raises, as a way to retain top talent.",
+          "link": "https://www.berkeleyside.org/2026/08/19/berkeley-unified-executive-salaries-bay-area-superintendents",
+          "publishedOn": "2026-08-19T23:14:44.000Z",
+          "wordCount": 8497,
+          "title": "In a tight budget year, BUSD’s superintendent joined teachers in getting a pay raise",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/20230606-213647.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561302",
+          "author": "Nico Savidge",
+          "description": "Update: One of the candidates vying to represent City Council District 8 has dropped out of the race.",
+          "link": "https://www.berkeleyside.org/2026/08/19/berkeley-election-candidates-city-council-rent-board-school-board",
+          "publishedOn": "2026-08-19T23:13:29.000Z",
+          "wordCount": 7754,
+          "title": "Election 2026: Who’s running for Berkeley City Council, school board and more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Natera_CityCouncilMeeting-MigrationRally_250121_08.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561443",
+          "author": "Myron Caringal",
+          "description": "After a reader sent Berkeleyside photos of his front yard corn, we put a call out to see what else is being grown around town this summer. You all produced.",
+          "link": "https://www.berkeleyside.org/2026/08/19/from-green-apple-cucumber-to-red-kuri-squash-heres-what-berkeley-residents-are-growing-in-their-gardens",
+          "publishedOn": "2026-08-19T22:43:55.000Z",
+          "wordCount": 7265,
+          "title": "From green apple cucumber to red kuri squash, here’s what Berkeley residents are growing in their gardens",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/unnamed.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561458",
+          "author": "Skylla Mumana",
+          "description": "At Studio Estepan, owner Estevan Silva brings Michelin technique and global flavors to his part-time West Oakland bakery.",
+          "link": "https://www.berkeleyside.org/2026/08/19/studio-estepan-west-oakland-bread-pastries",
+          "publishedOn": "2026-08-19T19:00:00.000Z",
+          "wordCount": 8226,
+          "title": "Follow the sweet aromas and long lines to Oakland’s latest buzzy bakery",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/20260725_StudioEstepan_EG_007-4.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561102",
           "author": "Joanne Furio",
@@ -6526,16 +6587,6 @@
           "wordCount": 8273,
           "title": "New fees, staff cuts: Berkeley school district now has an early plan to balance its budget",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Natera_230607_241_BUSDBoardmeeting_04.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=557181",
-          "author": "Nisa Khan | KQED",
-          "description": "Starting in June, California will start enforcing new federal guidelines that require some SNAP recipients to work 20 hours a week — or see their food benefits cut.",
-          "link": "https://www.berkeleyside.org/2026/05/22/on-calfresh-what-to-know-about-new-june-1-work-requirements",
-          "publishedOn": "2026-05-22T12:59:00.000Z",
-          "wordCount": 8548,
-          "title": "On CalFresh? What to know about new June 1 work requirements",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/AP26077511631960.jpg?fit=1024%2C683&ssl=1"
         }
       ]
     },
@@ -7157,16 +7208,6 @@
           "publishedOn": "2026-05-26T09:00:23.000Z",
           "wordCount": null,
           "title": "Annahstasia: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CEHm9LK9vtU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CEHm9LK9vtU",
-          "publishedOn": "2026-05-22T09:00:12.000Z",
-          "wordCount": null,
-          "title": "Laurie Anderson: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11336,26 +11377,6 @@
           "wordCount": 2717,
           "title": "My Typical Day According to My Thirteen-Year-Old",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/p8qkzhhoc5mzgebyjesr7en44vog"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/fenway-parks-lobstah-poutine",
-          "author": "Kristen Mulrooney",
-          "description": "So you spent the last two hours fighting for your life trying to merge into aggressive traffic, avoid potholes, find the one open space in the parking garage near the T stop, and stay on your feet in a crammed Green Line train with no handholds, and now you’re going to sit your sorry ass in a rigid wooden seat for nine innings on a forty-fucking-degree night and watch your beloved team ground out into a double play more times than is even statistically imaginable.\n Ladies and gentlemen, welcome to Fenway Park.\n Home of your underachieving Boston Red Sox, the holy cathedral of baseball, the Dartmouth green jewel box of New England, this most magical place on Earth is rooted in suffering, which I have to assume is the basis for their latest culinary affair: the Lobstah Poutine.\n Back in 1917…",
-          "link": "https://www.mcsweeneys.net/articles/fenway-parks-lobstah-poutine",
-          "publishedOn": "2026-05-22T13:00:00.000Z",
-          "wordCount": 2811,
-          "title": "Reviews of New Food: Fenway Park’s Lobstah Poutine",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/xxass1k6hdmk17os57eytcf1rvka"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/ill-take-this-costco-sample-but-only-so-i-can-make-an-informed-purchasing-decision",
-          "author": "Tyler Gooch",
-          "description": "Oh, hello—sorry, almost didn’t see you here at the end of the aisle with your hairnet and your alluring toaster oven full of mysterious, cost-free delicacies. I was just passing by, shopping for things that cost money. That’s what I do when I come here. I participate in the bulk-purchase economy.\n My stumbling upon your cart of treats just as you took them out of the toaster oven was a mere happenstance. I wasn’t loitering, watching you like a hungry lioness crouched in the grass, eyeing a decrepit gazelle straggling at the back of the herd. I was just standing here, seriously considering purchasing this $4,000 massage chair, which just so happens to be displayed between the eighty-four-packs of Dr Pepper and your sample stand with its scrumptious aroma.\n Oh, I suppose if you insist (by si…",
-          "link": "https://www.mcsweeneys.net/articles/ill-take-this-costco-sample-but-only-so-i-can-make-an-informed-purchasing-decision",
-          "publishedOn": "2026-05-22T12:00:00.000Z",
-          "wordCount": 2898,
-          "title": "I’ll Take This Costco Sample, but Only So I Can Make an Informed Purchasing Decision",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/drx90z00i7978utxj6i8raip28u8"
         }
       ]
     },
@@ -13380,16 +13401,6 @@
           "wordCount": 2755,
           "title": "Review: Recession",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/mark_koyama_.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/a-washington-diary/",
-          "author": null,
-          "description": "What Americans take to be a borrowed European tradition turns out to be a national style all of their own.",
-          "link": "https://worksinprogress.co/issue/a-washington-diary/",
-          "publishedOn": "2026-05-22T10:37:16.000Z",
-          "wordCount": 1598,
-          "title": "Washington diary",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/05/A-washington-diary-Share_Cards-.jpg"
         }
       ]
     }
