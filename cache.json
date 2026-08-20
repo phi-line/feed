@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=165961",
+          "author": "Steven Strogatz and Janna Levin",
+          "description": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.            \nThe post Are We Thinking Correctly About AI Intelligence? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+          "publishedOn": "2026-08-20T14:04:40.000Z",
+          "wordCount": 10234,
+          "title": "Are We Thinking Correctly About AI Intelligence?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165698",
           "author": "Ben Brubaker",
           "description": "No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            \nThe post Building a Quantum Computer, One Fragile Qubit at a Time first appeared on Quanta Magazine",
@@ -692,6 +702,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a8733c38ec9190001a58a3b",
+          "author": "Samantha Cole",
+          "description": "\"The emperor is a fan of Flock, and we must continue utilizing Flock technologies so that we can follow and surveil the rebel scum,\" Vader said during the meeting.",
+          "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
+          "publishedOn": "2026-08-20T17:10:52.000Z",
+          "wordCount": 1519,
+          "title": "'Darth Vader' Wants Flock in San Diego",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Screenshot-2026-08-20-at-1.04.59---PM.png"
+        },
+        {
+          "id": "6a85cde6a92fbd00017ed3ff",
+          "author": "Emanuel Maiberg",
+          "description": "Nonconsensual AI images are getting much harder to spot.",
+          "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
+          "publishedOn": "2026-08-20T13:34:23.000Z",
+          "wordCount": 2388,
+          "title": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
+          "imageUrl": "https://images.unsplash.com/photo-1737619285967-f3e96858b7af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHh8ZW58MHx8fHwxNzg3MTU0MTU2fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a86fcbe8535cb000154e151",
+          "author": "Matthew Gault",
+          "description": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
+          "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
+          "publishedOn": "2026-08-20T13:12:03.000Z",
+          "wordCount": 1439,
+          "title": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
+          "imageUrl": "https://images.unsplash.com/photo-1658870901055-665c9621d7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRyYW5zZm9ybWVyfGVufDB8fHx8MTc4NzIzMTUwN3ww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6a860894ec31a300018d536d",
           "author": "Joseph Cox",
@@ -3853,6 +3893,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=561540",
+          "author": "Adena Ishii",
+          "description": "Berkeley Mayor Adena Ishii says state leaders should approve Gavin Newsom's plan to provide $125 million for the Golden Gate Fields property.",
+          "link": "https://www.berkeleyside.org/2026/08/20/golden-gate-fields-park-opinion-adena-ishii",
+          "publishedOn": "2026-08-20T17:00:00.000Z",
+          "wordCount": 7401,
+          "title": "Opinion: A park for the next generation of Berkeley, and beyond",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png?fit=720%2C480&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561493",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include a murder mystery show at Hammerling Wines, a discussion of reporting on AI and a night market on Fourth Street.",
+          "link": "https://www.berkeleyside.org/2026/08/20/events-berkeley-california-august-2026",
+          "publishedOn": "2026-08-20T14:00:00.000Z",
+          "wordCount": 7904,
+          "title": "Around Berkeley: Shakespeare in the park, mural art talk, Canto mahjong",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Midsummer_Nights_Dream-1.png?fit=2000%2C1500&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=561508",
           "author": "Vanessa Arredondo",
           "description": "Berkeley Unified and other districts are increasingly using “me too” contract clauses tying executive salaries to staff pay raises, as a way to retain top talent.",
@@ -6769,16 +6829,6 @@
           "wordCount": 4608,
           "title": "Meera Sodha’s recipe for saffron milk cake | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/d9c3509bfce549107057757eb64b6aaad0657d5d/0_504_3704_2963/master/3704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a498f49d6be32f5f58aea756a07a244"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/may/23/crispy-one-pan-spaghetti-gochujang-mozzarella-vegetarian-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A funky fusion dish with crisped up pasta edges, like spaghetti all’assassina, but with a Korean backbeat\nToday’s recipe is based on the famous spaghetti all’assassina, a dish native to Bari in Puglia. The pasta is cooked directly in the pan risottata, or risotto-style, and tomato stock is poured in a little at a time until the spaghetti is bruciata, or burnt and crisp. I won’t call the dish by its original name because that contains dried chilli and tomatoes, whereas my version features two of my favourite ingredients: gochujang, the Korean sweet and hot chilli paste, and my beloved sun-dried tomato paste. The result is killer, even if the name is not.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/may/23/crispy-one-pan-spaghetti-gochujang-mozzarella-vegetarian-recipe-meera-sodha",
-          "publishedOn": "2026-05-23T05:00:22.000Z",
-          "wordCount": 4710,
-          "title": "Meera Sodha’s vegetarian recipe for crispy one-pan spaghetti with gochujang and mozzarella |. Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/016a05a8e42caf4b3490a8cad78982662eae49f6/0_1411_3719_2974/master/3719.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c2696503161f83ae405cb513c8d0418"
         }
       ]
     },
@@ -9404,6 +9454,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=78843",
+          "author": "Jessica Hylton",
+          "description": "This shredded tofu needs to be on your meal prep list. Tossed in a savoury sauce and baked to crispy golden brown, it's the perfect protein addition to any rice or noodle dish, salad, or taco. Enjoy!",
+          "link": "https://jessicainthekitchen.com/shredded-tofu/",
+          "publishedOn": "2026-08-20T14:00:00.000Z",
+          "wordCount": 12581,
+          "title": "Shredded Tofu",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Shredded-Tofu3389.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=78727",
           "author": "Jessica Hylton",
           "description": "This cheesy vegan smashed broccoli is the perfect way to mix up your veggie routine. Tender on the inside, with the perfect crisp around the edges, it's served with a creamy, garlicky sauce that's sure to impress.",
@@ -9777,6 +9837,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/faq-your-favorite-70s-song-is-in-our-prescription-drug-commercial",
+          "author": "Rachel Rose Keller",
+          "description": "Q: Why my favorite song?\n Your favorite song’s lyrics were either generic or changeable enough that we could capitalize on your nostalgia. We figured we could hold your attention for ten seconds longer than our usual arthritis medication commercials, where people do light physical activity like bowling with family, making pottery, or line dancing, while Muzak plays and slowly signifies an improvement in their lives.\n Q: Couldn’t you have written your own song? Or reused that Greatest Showman one?\n Original songs are more of a weight-loss drug’s game, and we can only use “This Is Me” in so many ways. So now, ’70s music is the soundtrack of COPD, bipolar depression, and more.\n Q: Wait, which medicine are you even using these songs for?\n All kinds. Every kind. Name a disorder, an illness, or …",
+          "link": "https://www.mcsweeneys.net/articles/faq-your-favorite-70s-song-is-in-our-prescription-drug-commercial",
+          "publishedOn": "2026-08-20T16:32:00.000Z",
+          "wordCount": 2747,
+          "title": "FAQ: Your Favorite ’70s Song Is in Our Prescription Drug Commercial",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dycry2nfogv3m0bxo7u0dzub2hr0"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/work-is-not-your-family-but-ai-is-your-friend",
           "author": "Ali Kelley",
@@ -11334,6 +11404,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112269 at https://www.eff.org",
+          "author": "Mario Trujillo",
+          "description": "In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when the agency tried to unmask anonymous users who tracked immigration activities or criticized the government.\n As ICE engages in a pattern of illegal and chilling investigations, any resistance is welcome. But social media companies can do more. When companies receive these unlawful subpoenas, they should be clear with the public that they will not hand over the data unless a court compels them to do so. In addition, companies themselves can take the government to court to challenge these unlawful subpoenas on behalf of their users.\nICE has sent hundreds of subpoenas to large technology companies like Google, Meta, and Reddit.\nPublicly challeng…",
+          "link": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
+          "publishedOn": "2026-08-19T22:23:49.000Z",
+          "wordCount": 2074,
+          "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/social-media-2026-2.gif",
+            "alt": "",
+            "type": "image/gif",
+            "length": "3467306"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/social-media-2026-2.gif"
+        },
         {
           "id": "112267 at https://www.eff.org",
           "author": "Hudson Hongo",
