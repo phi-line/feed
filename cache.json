@@ -2751,16 +2751,6 @@
           "wordCount": 1460,
           "title": "An Incomplete List of Successful Anti-Data Center Legislation",
           "imageUrl": "https://images.unsplash.com/photo-1715026323270-564a788bbadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDY0fHxkYXRhJTIwY2VudGVyfGVufDB8fHx8MTc3OTIxMTA2NXww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6a10c0391a02e70001f35f63",
-          "author": "Becky Ferreira",
-          "description": "Whalers buried in the Norwegian Arctic in the 1600s and 1700s are thawing out of the permafrost, underscoring the threat of climate change to archaeological sites around the world.",
-          "link": "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
-          "publishedOn": "2026-05-23T13:00:55.000Z",
-          "wordCount": 2271,
-          "title": "‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/image5.png"
         }
       ]
     },
@@ -3892,6 +3882,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561626",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Look inside a stunning modernist home in the Berkeley Hills that just hit the market.",
+          "link": "https://www.berkeleyside.org/2026/08/20/the-wire-developer-who-wants-to-build-berkeleys-tallest-building-defaults-on-loan",
+          "publishedOn": "2026-08-21T00:30:00.000Z",
+          "wordCount": 7186,
+          "title": "The Wire: Developer who wants to build Berkeley’s tallest building defaults on loan",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/06/1974-1998-shattuck-berkeley.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561614",
+          "author": "Alex N. Gecan",
+          "description": "Police allege the man stole mail and packages from several Berkeley apartment buildings last year.",
+          "link": "https://www.berkeleyside.org/2026/08/20/berkeley-mail-theft-usps-master-key",
+          "publishedOn": "2026-08-20T23:55:09.000Z",
+          "wordCount": 7098,
+          "title": "Berkeley mail theft suspect had USPS key, police say",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/08/large-USPS-Mail-Robberies-4.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561591",
+          "author": "Tovin Lapan",
+          "description": "Come out to Hammerling Wines in West Berkeley Sept. 12 for great food, local makers and Nosh's inaugural hot sauce competition.",
+          "link": "https://www.berkeleyside.org/2026/08/20/nosh-breakfast-event-hammerling-east-bay",
+          "publishedOn": "2026-08-20T23:15:00.000Z",
+          "wordCount": 7355,
+          "title": "Introducing BreakFest, Nosh’s big morning bash with a shot of spice",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/BreakFest-lloyd-dirks-unsplash.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561588",
+          "author": "Vanessa Arredondo",
+          "description": "The BUSD board had been without a fifth member since July, when Ana Vasudeo stepped down to join the county. Leyva-Cutler will serve out the remainder of her term, until November 2028.",
+          "link": "https://www.berkeleyside.org/2026/08/20/beatriz-leyva-cutler-appointed-to-busd-school-board",
+          "publishedOn": "2026-08-20T22:28:00.000Z",
+          "wordCount": 7444,
+          "title": "Berkeley Unified appoints former board member Beatriz Leyva‑Cutler to fill vacant seat",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/leyva-cutler.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561517",
+          "author": "Alon Yoeli",
+          "description": "Natchez Lee, the chef behind the pop-up and supper club Daffodil Projects, was struggling in school when they joined Growing Leaders.",
+          "link": "https://www.berkeleyside.org/2026/08/20/daffodil-projects-natchez-lee-growing-leaders-willard",
+          "publishedOn": "2026-08-20T19:00:00.000Z",
+          "wordCount": 8854,
+          "title": "How a Berkeley middle school cooking program shaped a rising East Bay chef",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-NATERA_NOSH_Natchez-SupperClub_012.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561540",
           "author": "Adena Ishii",
