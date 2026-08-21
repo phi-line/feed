@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=166010",
+          "author": "Max G. Levy",
+          "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups.            \nThe post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+          "publishedOn": "2026-08-21T14:53:32.000Z",
+          "wordCount": 3312,
+          "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=165961",
           "author": "Steven Strogatz and Janna Levin",
           "description": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.            \nThe post Are We Thinking Correctly About AI Intelligence? first appeared on Quanta Magazine",
@@ -702,6 +712,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a8863c08ec9190001a5bbb9",
+          "author": "Jason Koebler",
+          "description": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
+          "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
+          "publishedOn": "2026-08-21T14:54:35.000Z",
+          "wordCount": 1168,
+          "title": "Behind the Blog: Early Birthday Reflections",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/nl8.21.png"
+        },
         {
           "id": "6a8733c38ec9190001a58a3b",
           "author": "Samantha Cole",
@@ -2760,6 +2780,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8398236",
+          "author": "Billy Binion",
+          "description": "The Trump administration is using so-called \"third-country deportations\" both punitively and to expel migrants who have been granted protection from their home countries.",
+          "link": "https://reason.com/2026/08/21/the-u-s-is-sending-deportees-to-countries-theyve-never-called-home/",
+          "publishedOn": "2026-08-21T16:15:25.000Z",
+          "wordCount": null,
+          "title": "The U.S. Is Sending Deportees to Countries They've Never Called Home",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8398096",
           "author": "Matthew Petti",
           "description": "Newly released FOIA files reveal a back channel between ICE's office in Israel, the Qatari government, and the Islamic Republic.",
@@ -3526,6 +3557,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
+          "author": "Nathan Gardels",
+          "description": "The post Introducing Noema Issue VII: The Next Axial Age appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
+          "publishedOn": "2026-08-21T15:27:34.000Z",
+          "wordCount": 6480,
+          "title": "Introducing Noema Issue VII: The Next Axial Age",
+          "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_Issue7_Cover_3.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f20f312e29d01ebb21cbb88fe3565cf5"
+        },
+        {
           "id": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
           "author": "Nathan Gardels",
           "description": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
@@ -3882,6 +3923,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561518",
+          "author": "Daniel Ekonde",
+          "description": "One in five Berkeley adults will be 65 or older by 2030. Amid talk of a loneliness epidemic nationally, we asked five local seniors how they navigate life and about their concerns for the future.",
+          "link": "https://www.berkeleyside.org/2026/08/21/seniors-acvive-life-loneliness-berkeley",
+          "publishedOn": "2026-08-21T16:59:13.000Z",
+          "wordCount": 9362,
+          "title": "What does it mean to grow old in Berkeley?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/IMG_7875-scaled.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561476",
+          "author": "Carlos Cabrera Lomelí and Ella Jackson | KQED",
+          "description": "First-time EV buyers can qualify for a $3,500 discount when buying or leasing a new electric vehicle under a new state program.",
+          "link": "https://www.berkeleyside.org/2026/08/21/california-electric-vehicle-rebate-program-myfirstev",
+          "publishedOn": "2026-08-21T14:00:00.000Z",
+          "wordCount": 7983,
+          "title": "How does California’s new $3,500 EV rebate work?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/20240831_D7_EG_022.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561626",
           "author": "Berkeleyside Staff",
@@ -9878,6 +9939,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/reasons-that-i-a-billionaire-am-still-miserable",
+          "author": "Devon Anderson",
+          "description": "The yacht’s Wi-Fi became weak for almost forty-five seconds while crossing the Mediterranean, forcing me to experience what experts call “a thought.”\n My personal chef interpreted “comfort food” as “deconstructed truffle-infused childhood,” when what I wanted was a grilled cheese sandwich.\n I accidentally wore last season’s cashmere to an event where everyone else was wearing this season’s cashmere, and now I have to fake my own death.\n My therapist insists that “buying another island” is not a healthy coping mechanism, despite overwhelming anecdotal evidence that it sounds extremely relaxing.\n One of my houses has gone completely unvisited for so long that I am beginning to suspect it has developed its own culture.\n A stranger on the internet referred to me as “mid.”\n My assistant asked w…",
+          "link": "https://www.mcsweeneys.net/articles/reasons-that-i-a-billionaire-am-still-miserable",
+          "publishedOn": "2026-08-21T17:00:00.000Z",
+          "wordCount": 2497,
+          "title": "Reasons That I, a Billionaire, Am Still Miserable",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/4itbdwyjlwz9z8af2nien9zru0qx"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/nature-endures",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/nature-endures",
+          "publishedOn": "2026-08-21T14:02:00.000Z",
+          "wordCount": 2135,
+          "title": "Nature Endures",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gf88k9h07egy77n2rzi7t54byay7"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/all-the-things-my-new-meat-glasses-can-do",
           "author": "Halsten Higgins",
           "description": "I’m so excited my new Meat Glasses have arrived in the mail. I unwrap them and turn them over. Wow, they’ve really done it. You can’t see the camera under the ground beef at all. In fact, they look like high-fashion glasses made of raw, Grade A ground sirloin. Still, Meat Glasses are so much more than that.\n Encyclopedia\n I walk down the block with my Meat Glasses and ask them to identify the plant in front of me.\n “Hey Meat, what’s that?”\n “Big grass,” they say.\n Correct! It is indeed a tree.\n Community catalyst\n Oh no, neighbors are walking down the block toward me. They’ve just moved in, and I don’t know their names. Luckily, I can ask Meat. Meat uses the miniaturized cow brain implanted in the right arm of the glasses to scan its database and tell me who approaches.\n “Predators 1 and 2…",
@@ -11444,6 +11525,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112276 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to Nottinghamshire Police Force in the UK raising concern about the proposed roll-out of live facial recognition technology (LFR), and called for its immediate halt.\nIn particular, the letter highlights six concerns:\nLFR Is Not \"Just Another Tool\"\nNottinghamshire Police has stated that “facial recognition is just another tool to fight crime.” But LFR used in public spaces is an incredibly intrusive biometric mass surveillance technology that scans the faces of everyone who walks past the camera and takes biometric face prints. This is not just another tool, but a major escalation of surveillance that treats everyone as a suspect by default.\nPeop…",
+          "link": "https://www.eff.org/deeplinks/2026/08/eff-and-civil-society-groups-call-nottinghamshire-police-halt-live-face",
+          "publishedOn": "2026-08-21T16:03:17.000Z",
+          "wordCount": 1753,
+          "title": "EFF and Civil Society Groups Call on Nottinghamshire Police to Halt Live Face Recognition",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/whyfacebanner.png",
+            "alt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
+            "type": "image/png",
+            "length": "864443"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png"
+        },
         {
           "id": "112269 at https://www.eff.org",
           "author": "Mario Trujillo",
