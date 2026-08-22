@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-21T18:32:33.278Z</updated>
+    <updated>2026-08-22T01:04:49.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Claremont’s luxury spa is no more]]></title>
+        <id>https://oaklandside.org/?p=478871</id>
+        <link href="https://www.berkeleyside.org/2026/08/21/claremont-hotel-resort-club-spa-shuttered-oakland-berkeley"/>
+        <updated>2026-08-21T21:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Hot stone massages and eucalyptus steams have come to an end as the storied hotel closes its 25-year-old wellness center.]]></summary>
+        <author>
+            <name>Azucena Rasilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home of Chicken and Waffles, Alma y Sazon shuttering at the end of August, and Coffee Mill appears gone for good]]></title>
+        <id>https://www.berkeleyside.org/?p=561652</id>
+        <link href="https://www.berkeleyside.org/2026/08/21/home-chicken-waffles-alma-sazon-coffee-mill-chong-qing-closed"/>
+        <updated>2026-08-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reasons That I, a Billionaire, Am Still Miserable]]></title>
         <id>https://www.mcsweeneys.net/articles/reasons-that-i-a-billionaire-am-still-miserable</id>
@@ -127,6 +147,25 @@ The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quan
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[xkcd store reopening]]></title>
+        <id>8e855b73137761d76b44f4eff10b5310e0d73552</id>
+        <link href="https://store.xkcd.com/"/>
+        <updated>2026-08-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xkcd shop]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archery Feat]]></title>
+        <id>https://xkcd.com/3288/</id>
+        <link href="https://xkcd.com/3288/"/>
+        <updated>2026-08-21T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Wire: Developer who wants to build Berkeley’s tallest building defaults on loan]]></title>
         <id>https://www.berkeleyside.org/?p=561626</id>
         <link href="https://www.berkeleyside.org/2026/08/20/the-wire-developer-who-wants-to-build-berkeleys-tallest-building-defaults-on-loan"/>
@@ -144,6 +183,18 @@ The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quan
         <summary type="html"><![CDATA[Police allege the man stole mail and packages from several Berkeley apartment buildings last year.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intermediary Liability in Brazil: The Intricate Path Ahead]]></title>
+        <id>112278 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/08/intermediary-liability-brazil-intricate-path-ahead"/>
+        <updated>2026-08-20T23:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and takedown mechanisms and duty of care obligations. Caution is crucial as these measures can create problematic incentives for enforcement overreach and over censorship of protected speech.  
+The court in June issued a new decision clarifying elements of its 2025 finding that the previous liability regime was partially unconstitutional. The government also published in late May two presidential decrees that detail how the new rules apply. 
+Under the new regime, social media platforms and other internet applications that curate or interfere with posts can be held liable for third-party content if they don’t remove it after being notified by the us…]]></summary>
+        <author>
+            <name>Veridiana Alimonti</name>
         </author>
     </entry>
     <entry>

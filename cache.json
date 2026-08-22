@@ -3133,6 +3133,26 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "8e855b73137761d76b44f4eff10b5310e0d73552",
+          "author": null,
+          "description": "xkcd shop",
+          "link": "https://store.xkcd.com/",
+          "publishedOn": "2026-08-21T04:00:00.000Z",
+          "wordCount": 4185,
+          "title": "xkcd store reopening",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xkcd.com/3288/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3288/",
+          "publishedOn": "2026-08-21T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Archery Feat",
+          "imageUrl": "https://imgs.xkcd.com/comics/archery_feat_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3287/",
           "author": null,
           "description": "",
@@ -3923,6 +3943,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=478871",
+          "author": "Azucena Rasilla",
+          "description": "Hot stone massages and eucalyptus steams have come to an end as the storied hotel closes its 25-year-old wellness center.",
+          "link": "https://www.berkeleyside.org/2026/08/21/claremont-hotel-resort-club-spa-shuttered-oakland-berkeley",
+          "publishedOn": "2026-08-21T21:41:37.000Z",
+          "wordCount": 7211,
+          "title": "The Claremont’s luxury spa is no more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/ExteriorSundown-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561652",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/21/home-chicken-waffles-alma-sazon-coffee-mill-chong-qing-closed",
+          "publishedOn": "2026-08-21T19:00:00.000Z",
+          "wordCount": 7003,
+          "title": "Home of Chicken and Waffles, Alma y Sazon shuttering at the end of August, and Coffee Mill appears gone for good",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/02/HomeChickenWaffles.jpg?fit=1024%2C682&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561518",
           "author": "Daniel Ekonde",
@@ -11540,6 +11580,22 @@
             "length": "864443"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png"
+        },
+        {
+          "id": "112278 at https://www.eff.org",
+          "author": "Veridiana Alimonti",
+          "description": "Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and takedown mechanisms and duty of care obligations. Caution is crucial as these measures can create problematic incentives for enforcement overreach and over censorship of protected speech.  \nThe court in June issued a new decision clarifying elements of its 2025 finding that the previous liability regime was partially unconstitutional. The government also published in late May two presidential decrees that detail how the new rules apply. \nUnder the new regime, social media platforms and other internet applications that curate or interfere with posts can be held liable for third-party content if they don’t remove it after being notified by the us…",
+          "link": "https://www.eff.org/deeplinks/2026/08/intermediary-liability-brazil-intricate-path-ahead",
+          "publishedOn": "2026-08-20T23:17:55.000Z",
+          "wordCount": 2641,
+          "title": "Intermediary Liability in Brazil: The Intricate Path Ahead",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/brazil-platform-2.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "46142"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/brazil-platform-2.png"
         },
         {
           "id": "112269 at https://www.eff.org",
