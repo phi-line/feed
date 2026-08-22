@@ -713,6 +713,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a888f2a8ec9190001a8fa46",
+          "author": "Becky Ferreira",
+          "description": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
+          "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
+          "publishedOn": "2026-08-22T10:00:35.000Z",
+          "wordCount": 2059,
+          "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image4.jpg"
+        },
+        {
           "id": "6a8863c08ec9190001a5bbb9",
           "author": "Jason Koebler",
           "description": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
@@ -9969,16 +9979,6 @@
           "publishedOn": "2026-07-14T00:00:00.000Z",
           "wordCount": 4649,
           "title": "Tensor is the might",
-          "imageUrl": "https://zserge.com/logo.png"
-        },
-        {
-          "id": "https://zserge.com/posts/socreates/",
-          "author": null,
-          "description": "We love coding agents. They can build a full-featured SaaS and potentially make you a millionaire if you leave them running overnight with the right prompt. They will burn your GPU or your budget, include a few unprompted vulnerabilities, will bloat your code risking your sanity once you start debugging it, will put emojis in your comments, and will ultimately make you question your life choices.\nSo I thought, if they are so cool — it must be interesting to build one myself and steal the fame of Anthropic.",
-          "link": "https://zserge.com/posts/socreates/",
-          "publishedOn": "2026-05-25T00:00:00.000Z",
-          "wordCount": 2352,
-          "title": "A non-coding coding agent",
           "imageUrl": "https://zserge.com/logo.png"
         }
       ]

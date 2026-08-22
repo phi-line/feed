@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-22T06:35:07.958Z</updated>
+    <updated>2026-08-22T12:33:13.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brand Hype Has Existed Since the Bronze Age, Scientists Discover]]></title>
+        <id>6a888f2a8ec9190001a8fa46</id>
+        <link href="https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/"/>
+        <updated>2026-08-22T10:00:35.000Z</updated>
+        <summary type="html"><![CDATA[The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s recipe for blackberry and almond cake | Meera Sodha recipes]]></title>
         <id>https://www.theguardian.com/food/2026/aug/22/blackberry-almond-cake-recipe-meera-sodha</id>
@@ -11963,17 +11973,6 @@ The post Protected: You Can Run appeared first on The Atavist Magazine.]]></summ
         <updated>2026-05-25T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A non-coding coding agent]]></title>
-        <id>https://zserge.com/posts/socreates/</id>
-        <link href="https://zserge.com/posts/socreates/"/>
-        <updated>2026-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We love coding agents. They can build a full-featured SaaS and potentially make you a millionaire if you leave them running overnight with the right prompt. They will burn your GPU or your budget, include a few unprompted vulnerabilities, will bloat your code risking your sanity once you start debugging it, will put emojis in your comments, and will ultimately make you question your life choices.
-So I thought, if they are so cool — it must be interesting to build one myself and steal the fame of Anthropic.]]></summary>
-        <author>
-            <name>zserge's blog</name>
         </author>
     </entry>
     <entry>
