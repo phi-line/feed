@@ -83,6 +83,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=166076",
+          "author": "Conor Feehly",
+          "description": "An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet.            \nThe post A New Framework for How the Brain Compresses Our Noisy World first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+          "publishedOn": "2026-08-24T14:00:55.000Z",
+          "wordCount": 3689,
+          "title": "A New Framework for How the Brain Compresses Our Noisy World",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=166010",
           "author": "Max G. Levy",
           "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups.            \nThe post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
@@ -692,6 +702,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a2ae57ccad3600001e448d5",
+          "author": "Madeleine O'Neill",
+          "description": "Habeas Dockets are publishing immigration court records that normally aren't available online.",
+          "link": "https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/",
+          "publishedOn": "2026-08-24T14:48:33.000Z",
+          "wordCount": 2098,
+          "title": "How a Network of Volunteers Is Liberating Critical Court Records for Everyone",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/anil-baki-durmus-M-J9cdC1e0Q-unsplash.jpg"
+        },
         {
           "id": "6a888f2a8ec9190001a8fa46",
           "author": "Becky Ferreira",
@@ -3461,16 +3481,6 @@
           "wordCount": 187,
           "title": "Ancestral Genomes",
           "imageUrl": "https://imgs.xkcd.com/comics/ancestral_genomes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3251/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3251/",
-          "publishedOn": "2026-05-27T04:00:00.000Z",
-          "wordCount": 189,
-          "title": "Time Machine Conversation",
-          "imageUrl": "https://imgs.xkcd.com/comics/time_machine_conversation_2x.png"
         }
       ]
     },
@@ -3873,6 +3883,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561678",
+          "author": "Daniella Garcia-Loos Almeida",
+          "description": "Experts are bracing for big storm surges and king tides, flooding, and a host of impacts on wildlife and ecosystems. But more rainfall isn’t guaranteed.",
+          "link": "https://www.berkeleyside.org/2026/08/24/el-nino-bay-area-berkeley-forecast",
+          "publishedOn": "2026-08-24T18:34:51.000Z",
+          "wordCount": 9452,
+          "title": "A ‘super’ El Niño is here. What does it mean for the Bay Area?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/01/large-Rainy-Day-2-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=560878",
+          "author": "Hope Muñoz",
+          "description": "Since March, Redwood Cricket Club has been hosting free Sunday cricket games at Grove Park. They’re open to all, with lessons for newbies held monthly.",
+          "link": "https://www.berkeleyside.org/2026/08/24/redwood-cricket-club-grove-park-south-berkeley",
+          "publishedOn": "2026-08-24T14:00:00.000Z",
+          "wordCount": 8628,
+          "title": "Want to try cricket? A new South Berkeley club welcomes beginners",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-Redwood-Cricket-Club-05.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=478871",
           "author": "Azucena Rasilla",
@@ -9495,6 +9525,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=79037",
+          "author": "Jessica Hylton",
+          "description": "If you're interested in getting into Jamaican cuisine, this steamed cabbage is a great place to start. This island classic uses simple cooking methods and a few thoughtfully chosen spices to transform simple cabbage into a sweet, savoury, slightly spicy, and totally crave-worthy accompaniment to any Jamaican main.",
+          "link": "https://jessicainthekitchen.com/jamaican-steamed-cabbage/",
+          "publishedOn": "2026-08-24T14:00:00.000Z",
+          "wordCount": 11970,
+          "title": "Jamaican Steamed Cabbage",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Jamaican-Steamed-Cabbage0505.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=78843",
           "author": "Jessica Hylton",
           "description": "This shredded tofu needs to be on your meal prep list. Tossed in a savoury sauce and baked to crispy golden brown, it's the perfect protein addition to any rice or noodle dish, salad, or taco. Enjoy!",
@@ -9848,6 +9888,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/our-university-does-not-require-books-paper-or-human-knowledge",
+          "author": "Andrew Patrick Clark",
+          "description": "Welcome to the university of the future. Our new digital-forward brand of education requires no books, no paper, and, best of all, no human knowledge. The customers—I mean, Young Learning Partners—simply pay their tuition and begin their virtual journey: two entire weeks’ worth of videos and click-through modules.\n The university of the future is like the old one, just without all those dusty tomes lying about. And also without the knowledge contained within the tomes. We thought about uploading some of that knowledge to the cloud, but then we’d have to pay for the extra storage, and you know how expensive that can be.\n Now Young Learning Partners don’t have to worry about late nights in the library, because there is no library. Yes, centuries of knowledge have been erased, but on the brig…",
+          "link": "https://www.mcsweeneys.net/articles/our-university-does-not-require-books-paper-or-human-knowledge",
+          "publishedOn": "2026-08-24T17:00:00.000Z",
+          "wordCount": 2790,
+          "title": "Our University Does Not Require Books, Paper, or Human Knowledge",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hj856peunrhtr6cviyxdv3n5e2eg"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/things-that-happened-to-both-odysseus-in-the-odyssey-and-to-me-on-my-bachelorette-trip",
           "author": "Cathleen Freedman Deacon",
