@@ -6627,26 +6627,6 @@
           "wordCount": 8317,
           "title": "Around Berkeley: Ballet costumes, Bay Area Book Fest, bike repairs",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-lacis-3-4.jpg?fit=780%2C585&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=557430",
-          "author": "Vanessa Arredondo and Jana Kadah",
-          "description": "School finance is a mystery to many. We explain how districts can and cannot raise funds and how the problem stems from systemic issues statewide.",
-          "link": "https://www.berkeleyside.org/2026/05/27/berkeley-unified-school-district-structural-budget-challenges",
-          "publishedOn": "2026-05-27T20:04:58.000Z",
-          "wordCount": 9513,
-          "title": "Why do school districts like BUSD struggle to increase revenue to avoid budget cuts?",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/Firsdayof-school_EG_021.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=557432",
-          "author": "Madeline Taub",
-          "description": "A half dozen Oakland entrepreneurs and hospitality professionals are reviving and refreshing the Uptown sports bar just in time for the World Cup.",
-          "link": "https://www.berkeleyside.org/2026/05/27/athletic-club-sports-bar-uptown-new-ownership",
-          "publishedOn": "2026-05-27T19:00:00.000Z",
-          "wordCount": 8061,
-          "title": "The Athletic Club is back with a new team betting on Oakland",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/12/World-Cup-2022-Mexico-vs-Argentina-3-scaled-1.jpg?fit=2560%2C1707&ssl=1"
         }
       ]
     },
@@ -6980,6 +6960,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kVzaq0RRYPQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kVzaq0RRYPQ",
+          "publishedOn": "2026-08-25T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Isaiah Rashad: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o4I-Y8XiBIs",
           "author": null,
@@ -9868,6 +9858,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/ill-give-you-fifteen-thousand-dollars-to-stop-asking-me-to-go-hiking",
+          "author": "Anavel Mingke",
+          "description": "Hey, Maya —\n First off, congratulations on becoming an “outdoors person.” Three years ago, you thought mosquitoes were government drones. Now you own boots with names like “Expedition Carbon Ultra GTX.” People change.\n I’m happy for you.\n Which is why I’d like to offer you fifteen thousand dollars to pretend you never invited me.\n Seriously.\n Take it.\n Use it for backpacks, trekking poles, tiny titanium spoons, or whatever mysterious economy hikers have built among themselves.\n I simply cannot spend my Saturday voluntarily climbing a mountain whose greatest achievement is being taller than the parking lot.\n You keep saying the view is “worth it.”\n The view is Earth.\n I’ve seen Earth.\n It was available from the ground.\n You insist hiking is about “the journey.”\n That’s exactly what worries …",
+          "link": "https://www.mcsweeneys.net/articles/ill-give-you-fifteen-thousand-dollars-to-stop-asking-me-to-go-hiking",
+          "publishedOn": "2026-08-25T12:00:00.000Z",
+          "wordCount": 2730,
+          "title": "I’ll Give You Fifteen Thousand Dollars to Stop Asking Me to Go Hiking",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qgx2tzonwzqyej0l3acmif73mu4m"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/our-university-does-not-require-books-paper-or-human-knowledge",
           "author": "Andrew Patrick Clark",
@@ -13254,6 +13254,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/the-kill-switch-for-harmful-genes/",
+          "author": null,
+          "description": "What if instead of editing a gene, or blocking the protein it produces, you could simply switch it off?",
+          "link": "https://worksinprogress.co/issue/the-kill-switch-for-harmful-genes/",
+          "publishedOn": "2026-08-25T10:52:47.000Z",
+          "wordCount": 4182,
+          "title": "The kill switch for harmful genes",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/The_Protein_Kill_Switch_Sharecard.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
           "author": null,
