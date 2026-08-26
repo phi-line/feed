@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-08-26T06:43:08.709Z</updated>
+    <updated>2026-08-26T12:45:47.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Annual Performance, as Reviewed by My Dog]]></title>
+        <id>https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog</id>
+        <link href="https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog"/>
+        <updated>2026-08-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Please rate Erica on a scale of 1-5 on how she demonstrates the following:
+ CONSISTENCY: 5
+ Erica does fantastic treat work, always offering me a tasty morsel after walks, even though she doesn’t contribute to our daily quota for eating grass.
+ PUNCTUALITY: 2
+ Erica often delays leaving the house because of something she calls a “job,” which, from the best I can discern, is just staring at (and sometimes talking to) a glowing screen. She would benefit from improving her time management to meet walk deadlines more consistently.
+ TEAM CULTURE: 2
+ It would behoove Erica to think more outside the crate. She often misses opportunities to partner with me in meeting our mission-critical KPIs of barking at wild rabbits, anyone in a uniform, men in hats, men in general, men who are Generals, garbag…]]></summary>
+        <author>
+            <name>Erica Lies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remembering Kevin Aikens, East Bay local who was a fixture of the South Berkeley Farmer’s Market]]></title>
         <id>https://www.berkeleyside.org/?p=561836</id>
@@ -11710,66 +11726,6 @@ THE BELIEVER: You won a National Magazine Award last night in New York for your 
         <updated>2026-05-29T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wire: Tom Steyer campaigns in Berkeley with Mayor Adena Ishii]]></title>
-        <id>https://www.berkeleyside.org/?p=557548</id>
-        <link href="https://www.berkeleyside.org/2026/05/28/the-wire-tom-steyer-campaigns-in-berkeley-with-mayor-adena-ishii"/>
-        <updated>2026-05-29T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Also: A UC Berkeley student holding a Palestinian flag appears to have temporarily been denied his diploma scroll during commencement. And a ban on most AI use at Cal's law school.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to know about the candidates running for California governor]]></title>
-        <id>https://www.berkeleyside.org/?p=557503</id>
-        <link href="https://www.berkeleyside.org/2026/05/28/california-governor-primary"/>
-        <updated>2026-05-28T21:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Xavier Becerra, Tom Steyer, Katie Porter, Steve Hilton and Chad Bianco are running for governor. Two will advance to the November 2026 election.]]></summary>
-        <author>
-            <name>KQED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richmond Costco sold plants infested with insect that could devastate food crops, wine industry]]></title>
-        <id>https://www.berkeleyside.org/?p=557528</id>
-        <link href="https://www.berkeleyside.org/2026/05/28/contra-costa-costcos-sold-plants-with-glassywinged-sharpshooter"/>
-        <updated>2026-05-28T20:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Contra Costa County warns consumers to contact them immediately if they bought grapevines from a number of Costco locations after April 21.]]></summary>
-        <author>
-            <name>Kari Hulac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHS Directs ICE To Crack Down on Allegedly Fraudulent Asylum Claims]]></title>
-        <id>https://reason.com/?p=8384470</id>
-        <link href="https://reason.com/2026/05/28/dhs-directs-ice-to-crack-down-on-allegedly-fraudulent-asylum-claims/"/>
-        <updated>2026-05-28T20:03:58.000Z</updated>
-        <summary type="html"><![CDATA[It's President Donald Trump's latest attempt to restrict a form of humanitarian relief sought by millions.]]></summary>
-        <author>
-            <name>Autumn Billings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rejected Search Warrant Applications Raise Further Questions About the Federal Case Against Don Lemon]]></title>
-        <id>https://reason.com/?p=8384395</id>
-        <link href="https://reason.com/2026/05/28/rejected-search-warrant-applications-raise-further-questions-about-the-federal-case-against-don-lemon/"/>
-        <updated>2026-05-28T19:35:23.000Z</updated>
-        <summary type="html"><![CDATA[After a magistrate judge said a DHS investigator had failed to establish probable cause, the government decided it did not need the YouTube and iPhone records after all.]]></summary>
-        <author>
-            <name>Jacob Sullum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CalFresh funds for farmers markets are in the crosshairs]]></title>
-        <id>https://www.berkeleyside.org/?p=557506</id>
-        <link href="https://www.berkeleyside.org/2026/05/28/market-match-calfresh-farmers-newsom-california-budget"/>
-        <updated>2026-05-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The fight is on to save the Market Match, a program that is on Newsom's budget chopping block. Advocates say it supports food insecure people and farmers alike.]]></summary>
-        <author>
-            <name>Tony Hicks</name>
         </author>
     </entry>
     <entry>
