@@ -656,6 +656,16 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/15/34173b487a-1784388742/asterisk15_cover-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/15/saving-academics-from-themselves",
+          "author": null,
+          "description": "The university will survive AI. That doesn’t mean we’ll like what it turns into.",
+          "link": "https://asteriskmag.com/issues/15/saving-academics-from-themselves",
+          "publishedOn": "2026-07-01T00:00:00.000Z",
+          "wordCount": 4046,
+          "title": "Saving Academics from Themselves",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/saving-academics-from-themselves/7b82183886-1787595087/saving-academics-kevin-munger-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
           "author": null,
           "description": "Everyone knows RCTs are the gold standard of evidence. ….Right?",
@@ -3934,6 +3944,46 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=561836",
+          "author": "Alastair Boone",
+          "description": "Aikens grew up in Berkeley and North Oakland. For years, he could be found at the market every Tuesday protecting shoppers from traffic and selling copies of Street Spirit.",
+          "link": "https://www.berkeleyside.org/2026/08/25/kevin-kk-aikens-berkeley-obituary",
+          "publishedOn": "2026-08-25T23:00:00.000Z",
+          "wordCount": 7809,
+          "title": "Remembering Kevin Aikens, East Bay local who was a fixture of the South Berkeley Farmer’s Market",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/aikens.jpeg?fit=1536%2C1152&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561767",
+          "author": "Local sponsor",
+          "description": "Hundreds of East Bay families have swapped gas for induction with a battery-equipped range made by Berkeley's own Copper.",
+          "link": "https://www.berkeleyside.org/2026/08/25/how-berkeleys-hottest-stove-stays-cool-to-the-touch",
+          "publishedOn": "2026-08-25T22:14:09.000Z",
+          "wordCount": 8071,
+          "title": "How Berkeley’s hottest stove stays cool to the touch",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/eric-charlie.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561690",
+          "author": "Alex N. Gecan",
+          "description": "Proponents say Measure Z, a parcel tax to fund a regional public bank, will invest in progressive causes. Critics say Berkeley will carry too much of the cost for the rest of the East Bay.",
+          "link": "https://www.berkeleyside.org/2026/08/25/berkeley-election-2026-measure-z-public-bank-east-bay",
+          "publishedOn": "2026-08-25T20:36:38.000Z",
+          "wordCount": 8729,
+          "title": "Should Berkeley fund a public bank for the East Bay? Voters will decide in November",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2011/10/occupy-berkeley-10.8.11-042-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561798",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/08/25/aks-anh-hong-berkeley-bagels-happy-express-philz",
+          "publishedOn": "2026-08-25T19:00:00.000Z",
+          "wordCount": 7331,
+          "title": "Berkeley Bagels debuts downtown location, plus new Asian fusion, coffee and takeout Chinese options",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/BerkeleyBagel3.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=502588",
           "author": "Iris Kwok",
           "description": "From farmers markets to trivia nights, we put together a roundup of events and activities held regularly in Berkeley.",
@@ -6697,16 +6747,6 @@
           "wordCount": 7802,
           "title": "Homelessness is down in Alameda County. Can it maintain that progress?",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/06/DSC_2378-1.jpg?fit=1620%2C1080&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=557436",
-          "author": "Andrew Gilbert and Karen Nguyen Vo",
-          "description": "Other events include a lecture on the state of journalism, a free furniture exchange program and an artist meetup at the UC Botanical Garden.",
-          "link": "https://www.berkeleyside.org/2026/05/28/around-berkeley-ballet-costumes-bay-area-book-fest-bike-repairs",
-          "publishedOn": "2026-05-28T12:00:00.000Z",
-          "wordCount": 8317,
-          "title": "Around Berkeley: Ballet costumes, Bay Area Book Fest, bike repairs",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/05/large-lacis-3-4.jpg?fit=780%2C585&ssl=1"
         }
       ]
     },
@@ -7328,16 +7368,6 @@
           "publishedOn": "2026-06-02T09:00:00.000Z",
           "wordCount": null,
           "title": "Floetry: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3azRJPBhZLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3azRJPBhZLU",
-          "publishedOn": "2026-05-28T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Cure For Paranoia, 2026 Tiny Desk Contest Winner: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -11507,16 +11537,6 @@
           "wordCount": 2206,
           "title": "Affable Insects",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/tqy1c3hirf4ck43eg6r63fbcl01v"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/what-may-follow-when-you-are-slacked-hey",
-          "author": "Jesse Kubanet",
-          "description": "You’re fired.\n You are getting a promotion.\n You are getting a demotion.\n You are now in charge.\n The person you hate here the most is now in charge, and they told me to tell you that you are fired.\n No paychecks this week, cool?\n Could I borrow you for a sec?\n Could I borrow you for a quick sec?\n I’ve always loved you.\n We’re doubling your salary.\n We’re taking your salary and cutting it in half.\n We’re taking your salary, cutting it in half, and giving that half to the person here you hate the most.\n The Christmas gift this year is a donation to the charity of someone else’s choice.\n Layoffs are coming, and you’re safe.\n Layoffs are coming. We’re safe.\n Layoffs are coming. You’re safe, I’m not.\n Layoffs are coming. I’m safe, you’re not.\n Layoffs are coming. We’re both fucked.\n Lunch?\n Guess who’s fucked?\n Guess who fucked?\n Coffee?\n Can you open this doc?\n Nevermind.",
-          "link": "https://www.mcsweeneys.net/articles/what-may-follow-when-you-are-slacked-hey",
-          "publishedOn": "2026-05-28T12:00:00.000Z",
-          "wordCount": 2194,
-          "title": "What May Follow When You Are Slacked “Hey”",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/cqo1aftlg8rmzm400z3sl61c77ho"
         }
       ]
     },
