@@ -9,7 +9,7 @@ sources:
   # - href: https://www.reddit.com/r/wizardposting/.rss
   - href: https://pudding.cool/rss.xml
   - href: https://api.quantamagazine.org/feed/
-  - href: https://itsgoingdown.org/feed/
+  - href: https://itsgoingdown.org/feed/atom/ # rss2 endpoint serves malformed XML (ngnm plugin drops a space between xmlns attrs); atom is clean
   # - href: https://blog.archive.org/feed
   # - href: https://feeds.arstechnica.com/arstechnica/science
   - href: https://asteriskmag.com/feed
@@ -22,7 +22,7 @@ sources:
   - href: https://www.noemamag.com/feed
   - href: https://www.berkeleyside.org/feed
   - href: https://tympanus.net/codrops/demos/feed
-  - href: https://another.blue/feed
+  - href: https://another.blue/rss.xml
   - href: https://cybercultural.com/feed.xml
   - href: https://feeds.feedburner.com/smittenkitchen
   - href: https://www.theguardian.com/profile/meera-sodha/rss
