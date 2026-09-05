@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-05T14:35:03.819Z</updated>
+    <updated>2026-09-05T19:55:59.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Breakthrough Quantum Test Resolves a Major Cosmic Mystery]]></title>
+        <id>6a9c33690c4e9a0001b3c33a</id>
+        <link href="https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery/"/>
+        <updated>2026-09-05T15:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Using an advanced new instrument, scientists observed Einstein’s equivalence principle on a free-falling quantum object, demonstrating that this prediction of general relativity also holds up in quantum physics.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meera Sodha’s vegetarian recipe for kacang pool, or Malaysian bean stew]]></title>
         <id>https://www.theguardian.com/food/2026/sep/05/vegetarian-kacang-pool-recipe-malaysian-bean-stew-meera-sodha</id>
@@ -11444,15 +11454,6 @@ The post How Terry Tao Became an Evangelist for AI in Math first appeared on Qua
         <updated>2026-06-08T09:00:02.000Z</updated>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostalgia Content]]></title>
-        <id>https://xkcd.com/3256/</id>
-        <link href="https://xkcd.com/3256/"/>
-        <updated>2026-06-08T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

@@ -703,6 +703,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a9c33690c4e9a0001b3c33a",
+          "author": "Becky Ferreira",
+          "description": "Using an advanced new instrument, scientists observed Einstein’s equivalence principle on a free-falling quantum object, demonstrating that this prediction of general relativity also holds up in quantum physics.",
+          "link": "https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery/",
+          "publishedOn": "2026-09-05T15:24:33.000Z",
+          "wordCount": 2411,
+          "title": "Breakthrough Quantum Test Resolves a Major Cosmic Mystery",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/image2.jpg"
+        },
+        {
           "id": "6a9887b3d2f82f0001c54627",
           "author": "Jason Koebler",
           "description": "A Flock webinar teaches police how to surveil protests, fireworks shows, parades, bike races, and more.",
@@ -3431,16 +3441,6 @@
           "wordCount": 187,
           "title": "Beam Pipe",
           "imageUrl": "https://imgs.xkcd.com/comics/beam_pipe_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3256/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3256/",
-          "publishedOn": "2026-06-08T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Nostalgia Content",
-          "imageUrl": "https://imgs.xkcd.com/comics/nostalgia_content_2x.png"
         }
       ]
     },
