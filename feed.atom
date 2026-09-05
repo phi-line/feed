@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-05T02:57:10.454Z</updated>
+    <updated>2026-09-05T09:57:14.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meera Sodha’s vegetarian recipe for kacang pool, or Malaysian bean stew]]></title>
+        <id>https://www.theguardian.com/food/2026/sep/05/vegetarian-kacang-pool-recipe-malaysian-bean-stew-meera-sodha</id>
+        <link href="https://www.theguardian.com/food/2026/sep/05/vegetarian-kacang-pool-recipe-malaysian-bean-stew-meera-sodha"/>
+        <updated>2026-09-05T05:00:26.000Z</updated>
+        <summary type="html"><![CDATA[A delicious and triumphant blend of Levantine and Malay cuisines
+This is a dish with roots in ancient Egypt. There, it started life as ful medames, the famous fava bean dish lightly seasoned with cumin, garlic and lemon. Then it was, reportedly, brought to Johor in Malaysia by Arab traders. It has since been adopted and adapted with a fierce sort of love, plus more spice and a tin of baked beans. I adore it. It’s a very delicious dinner and a triumphant blend of two cuisines.
+ Continue reading...]]></summary>
+        <author>
+            <name>Meera Sodha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hopkins bike lane opponents sue to block project]]></title>
         <id>https://www.berkeleyside.org/?p=562467</id>
@@ -11441,16 +11453,6 @@ The post How Terry Tao Became an Evangelist for AI in Math first appeared on Qua
         <updated>2026-06-08T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley animal shelter closes after fire]]></title>
-        <id>https://www.berkeleyside.org/?p=558038</id>
-        <link href="https://www.berkeleyside.org/2026/06/07/berkeley-animal-shelter-closes-after-fire"/>
-        <updated>2026-06-07T18:35:14.000Z</updated>
-        <summary type="html"><![CDATA[The fire burned through the pet supply donation area under the stairs. No animals appear to have been injured.]]></summary>
-        <author>
-            <name>Zac Farber</name>
         </author>
     </entry>
     <entry>
