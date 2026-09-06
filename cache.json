@@ -12836,38 +12836,6 @@
             "length": "16801"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/icon-2019-innovation.png"
-        },
-        {
-          "id": "112116 at https://www.eff.org",
-          "author": "Cooper Quintin",
-          "description": "Just days after a damning WIRED report exposed that Meta had quietly embedded facial recognition technology (FRT) code into millions of phones, the tech giant has quietly acquiesced in demands to reverse course.\nLast week, researchers identified code in Meta AI, a companion app for its line of smart glasses, that could convert images of faces into unique biometric signatures to identify strangers in public. EFF’s Threat Lab verified these findings through static analysis, and reminded consumers to think twice before buying or using Meta’s surveillance glasses. \nJust as quietly as Meta embedded this code, the app’s June 5th app update appears to have quietly removed all those features and systems. Gone is the face-recognition technology, the code meant to trigger “Person recognized” alerts,…",
-          "link": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
-          "publishedOn": "2026-06-08T23:32:38.000Z",
-          "wordCount": 1583,
-          "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/vrarxr-rainbowbeams.png",
-            "alt": "Two people wearing a VR and AR headsets, each emitting a rainbow beam crossing",
-            "type": "image/png",
-            "length": "971303"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/vrarxr-rainbowbeams.png"
-        },
-        {
-          "id": "112115 at https://www.eff.org",
-          "author": "Molly Buckley",
-          "description": "Several U.S. states are pushing to ban young people from social media entirely. This marks the latest wave of censorship bills masquerading as “children’s online safety” measures, with states like Massachusetts, Idaho, Minnesota, North Carolina, South Carolina, Illinois, and EFF’s home state of California leading the charge.\nJust a few years ago, lawmakers supporting age-gating laws insisted their efforts were narrowly targeted at limiting young people’s access to adult content. At the time, we warned that they would not stop there: once the government established the authority and built the infrastructure to collect and “verify” massive troves of user data, it would inevitably sweep broader and broader categories of lawful speech into this mass surveillance and censorship system. \nUnfortu…",
-          "link": "https://www.eff.org/deeplinks/2026/06/how-and-why-fight-back-against-social-media-bans",
-          "publishedOn": "2026-06-08T23:28:43.000Z",
-          "wordCount": 2847,
-          "title": "How and Why to Fight Back Against Social Media Bans",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
-            "alt": "two kids on a huge laptop, spied on by an eye in magnifying glass",
-            "type": "image/png",
-            "length": "1249014"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
         }
       ]
     },

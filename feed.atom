@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-06T10:15:23.703Z</updated>
+    <updated>2026-09-06T14:55:29.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -11273,30 +11273,6 @@ It’s definitely unusual to see a president pardon himself for crimes he has no
         <summary type="html"><![CDATA[Tracking 1,000+ people through the ups and downs of their relationships]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry]]></title>
-        <id>112116 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry"/>
-        <updated>2026-06-08T23:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Just days after a damning WIRED report exposed that Meta had quietly embedded facial recognition technology (FRT) code into millions of phones, the tech giant has quietly acquiesced in demands to reverse course.
-Last week, researchers identified code in Meta AI, a companion app for its line of smart glasses, that could convert images of faces into unique biometric signatures to identify strangers in public. EFF’s Threat Lab verified these findings through static analysis, and reminded consumers to think twice before buying or using Meta’s surveillance glasses. 
-Just as quietly as Meta embedded this code, the app’s June 5th app update appears to have quietly removed all those features and systems. Gone is the face-recognition technology, the code meant to trigger “Person recognized” alerts,…]]></summary>
-        <author>
-            <name>Cooper Quintin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How and Why to Fight Back Against Social Media Bans]]></title>
-        <id>112115 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/how-and-why-fight-back-against-social-media-bans"/>
-        <updated>2026-06-08T23:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Several U.S. states are pushing to ban young people from social media entirely. This marks the latest wave of censorship bills masquerading as “children’s online safety” measures, with states like Massachusetts, Idaho, Minnesota, North Carolina, South Carolina, Illinois, and EFF’s home state of California leading the charge.
-Just a few years ago, lawmakers supporting age-gating laws insisted their efforts were narrowly targeted at limiting young people’s access to adult content. At the time, we warned that they would not stop there: once the government established the authority and built the infrastructure to collect and “verify” massive troves of user data, it would inevitably sweep broader and broader categories of lawful speech into this mass surveillance and censorship system. 
-Unfortu…]]></summary>
-        <author>
-            <name>Molly Buckley</name>
         </author>
     </entry>
     <entry>
