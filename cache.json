@@ -683,6 +683,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6a9ee8590c4e9a0001b98a99",
+          "author": "Samantha Cole",
+          "description": "Thank you for three years, and for partying hard with us for two sold out nights of celebration IRL in NYC.",
+          "link": "https://www.404media.co/three-year-anniversary-events-recap-2/",
+          "publishedOn": "2026-09-07T16:44:20.000Z",
+          "wordCount": 1708,
+          "title": "We Are Going to Be Okay: A Three Year Anniversary Events Recap",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/20260903_193357-1-1.jpg"
+        },
+        {
           "id": "6a9c33690c4e9a0001b3c33a",
           "author": "Becky Ferreira",
           "description": "Using an advanced new instrument, scientists observed Einstein’s equivalence principle on a free-falling quantum object, demonstrating that this prediction of general relativity also holds up in quantum physics.",
@@ -3308,16 +3318,6 @@
           "wordCount": 187,
           "title": "Plate Flip",
           "imageUrl": "https://imgs.xkcd.com/comics/plate_flip_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3257/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3257/",
-          "publishedOn": "2026-06-10T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Beam Pipe",
-          "imageUrl": "https://imgs.xkcd.com/comics/beam_pipe_2x.png"
         }
       ]
     },
@@ -6209,16 +6209,6 @@
           "wordCount": 8556,
           "title": "Climate activists oppose cut to program in Berkeley schools",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/10/IMG_2129-scaled.jpg?fit=2560%2C1898&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558184",
-          "author": "Hope Muñoz",
-          "description": "Nearly a year after laying off its entire staff and going dark, the nonprofit Berkeley theater that was housed downtown says it will return for a 2027-28 season.",
-          "link": "https://www.berkeleyside.org/2026/06/09/aurora-theatre-berkeley",
-          "publishedOn": "2026-06-09T23:56:35.000Z",
-          "wordCount": 7876,
-          "title": "Aurora Theatre is back, with new leadership but no space — yet",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/image-3-scaled-1.webp"
         }
       ]
     },
@@ -9094,6 +9084,16 @@
       "feedUrl": "https://jessicainthekitchen.com/feed",
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
+        {
+          "id": "https://jessicainthekitchen.com/?p=80395",
+          "author": "Jessica Hylton",
+          "description": "This blueberry cobbler takes the cake when it comes to blueberry-lisciuous summer desserts. A tender, golden-brown topping sits over this magical blueberry filling that bakes away in the oven into bubbly, gooey, just-sweet-enough heaven. Make it with fresh berries or frozen ones in the off-season.",
+          "link": "https://jessicainthekitchen.com/vegan-blueberry-cobbler/",
+          "publishedOn": "2026-09-07T14:00:00.000Z",
+          "wordCount": 12229,
+          "title": "Vegan Blueberry Cobbler",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/08/Vegan-Blueberry-Cobbler-18.jpg"
+        },
         {
           "id": "https://jessicainthekitchen.com/?p=79881",
           "author": "Jessica Hylton",
