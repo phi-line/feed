@@ -673,6 +673,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aa052d0ec3a680001f2ddc9",
+          "author": "Joseph Cox",
+          "description": "A data protection lawyer told 404 Media the sharing was likely illegal, and Channel 5’s own privacy policy explicitly says it won't give subscribers’ emails away to people for marketing purposes.",
+          "link": "https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/",
+          "publishedOn": "2026-09-08T18:28:30.000Z",
+          "wordCount": 1476,
+          "title": "Channel 5 Gave Hunter Biden a List of Its Subscribers’ Emails for Some Reason",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/channel-5.png"
+        },
+        {
           "id": "6a98895bd2f82f0001c54668",
           "author": "Joseph Cox",
           "description": "404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.",
@@ -2865,7 +2875,24 @@
       "title": "Asimov Press",
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.asimov.press/p/back",
+          "author": "Asimov Press",
+          "description": "We are returning with a renewed focus on original reporting, investigations, and thesis-driven philanthropy.",
+          "link": "https://www.asimov.press/p/back",
+          "publishedOn": "2026-09-08T16:26:28.000Z",
+          "wordCount": null,
+          "title": "Asimov Press is Back",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!kxQ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec673e7-68a2-422d-8104-9bdfc0252a80_3008x2000.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kxQ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec673e7-68a2-422d-8104-9bdfc0252a80_3008x2000.gif"
+        }
+      ]
     },
     {
       "title": "The Atavist Magazine",
@@ -3690,6 +3717,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=479702",
+          "author": "Jose Fermoso",
+          "description": "Waymo has won official approval to deploy driverless cars in Berkeley and other East Bay cities. Meanwhile, golden Tesla Cybercabs have been spotted in Oakland.",
+          "link": "https://www.berkeleyside.org/2026/09/08/waymo-tesla-cybercab-berkeley-east-bay",
+          "publishedOn": "2026-09-08T20:38:18.000Z",
+          "wordCount": 7962,
+          "title": "Waymo gets green light to operate in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP26036010878970-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562475",
+          "author": "Felicia Mello",
+          "description": "Margaret Solomon said she found her voice on campus. Now she wants to create more ways for students to build community.",
+          "link": "https://www.berkeleyside.org/2026/09/08/asuc-cal-president-margaret-solomon",
+          "publishedOn": "2026-09-08T19:10:00.000Z",
+          "wordCount": 8946,
+          "title": "7 questions for UC Berkeley’s new student body president",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/ASUC-president.png?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562501",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/09/08/five-and-dime-game-parlour-xula-eriks-takorea-open",
+          "publishedOn": "2026-09-08T19:00:00.000Z",
+          "wordCount": 7534,
+          "title": "New game cafe debuts, McQueen soft opens new pub, and more East Bay openings",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/GameParlour-Exterior.jpg?fit=1100%2C749&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=561035",
+          "author": "Berkeleyside Staff",
+          "description": "This year we will be accepting op-eds for ballot measures only. The deadline to submit them is Sept. 14.",
+          "link": "https://www.berkeleyside.org/2026/09/08/berkeleysides-guidelines-for-opinion-pieces-for-the-nov-3-election",
+          "publishedOn": "2026-09-08T18:30:17.000Z",
+          "wordCount": 7519,
+          "title": "Berkeleyside’s guidelines for opinion pieces for the Nov. 3 election",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562366",
           "author": "Local sponsor",
@@ -6480,6 +6547,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/SrgCapjadUg",
+          "author": null,
+          "description": "A message from NPR Marketing - POV: you just got your El Tiny drop. 📦👀⁠⁠For Latin Music Month, NPR Music’s Alt.Latino takes over the Tiny Desk -- plus a wh...",
+          "link": "https://www.youtube.com/shorts/SrgCapjadUg",
+          "publishedOn": "2026-09-08T19:45:36.000Z",
+          "wordCount": 3506,
+          "title": "POV: you just got your El Tiny drop. 📦👀⁠",
+          "imageUrl": "https://i.ytimg.com/vi/SrgCapjadUg/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBnv6o6p3mVWkFoxXPos4e7ihcU3Q"
+        },
         {
           "id": "https://www.youtube.com/watch?v=oRg3Tk3jHno",
           "author": null,
@@ -9388,6 +9465,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/these-exciting-progressive-candidates-who-might-lose-must-be-replaced-by-boring-moderates-who-will-definitely-lose",
+          "author": "Dorian Fox",
+          "description": "Here at the DNC, we’ve been dismayed by the string of progressive and socialist candidates who’ve recently won primaries in Michigan, Colorado, and even deep-red Florida. Sure, these folks might stir up enthusiasm and make a splash online, but when they’re tested in a general election, they’re bound to lose.\n These fringe upstarts are speaking unabashedly about our country’s crushing affordability crisis and utter lack of a social safety net. That’s the kind of frank, uncompromising honesty that scares independent voters away. They’ve floated ideas like abolishing prisons and taxing the ultrarich, and yeah, we sort of see where they’re coming from, but we’d never say so out loud. They’re brash and messy on social media and dress like a cultural studies faculty meeting at Brown. They’re you…",
+          "link": "https://www.mcsweeneys.net/articles/these-exciting-progressive-candidates-who-might-lose-must-be-replaced-by-boring-moderates-who-will-definitely-lose",
+          "publishedOn": "2026-09-08T17:00:00.000Z",
+          "wordCount": 3141,
+          "title": "These Exciting Progressive Candidates Who Might Lose Must Be Replaced by Boring Moderates Who Will Definitely Lose",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/p2lx24ytv49zg6njydz3jruqjw4p"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/selected-calendar-times-for-someone-self-employed-who-works-from-home",
           "author": "John Moe",
