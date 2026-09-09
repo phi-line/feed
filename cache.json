@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=166677",
+          "author": "Konstantin Kakaes",
+          "description": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.            \nThe post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+          "publishedOn": "2026-09-08T08:43:52.000Z",
+          "wordCount": 3113,
+          "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=166452",
           "author": "Janna Levin and Steven Strogatz",
           "description": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?            \nThe post Live from ICM 2026: What Is Math For in the Age of AI? first appeared on Quanta Magazine",
@@ -531,16 +541,6 @@
           "wordCount": 3853,
           "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself.",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Origins-of-Earth-Water-cr-Ada-Zejun-Shen-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=162989",
-          "author": "Janna Levin and Steven Strogatz",
-          "description": "In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.            \nThe post What’s the Future of Gene Editing? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
-          "publishedOn": "2026-06-11T13:37:21.000Z",
-          "wordCount": 10385,
-          "title": "What’s the Future of Gene Editing?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/06/JOW-S5E1-Jennifer-Doudna-cr-ChanelleNibbelink-Social-LOGO.jpg"
         }
       ]
     },
@@ -555,6 +555,16 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/15/the-destruction-of-the-scottish-canon",
+          "author": null,
+          "description": "What’s the point of content knowledge when you can teach skills instead? Scotland decided to find out.",
+          "link": "https://asteriskmag.com/issues/15/the-destruction-of-the-scottish-canon",
+          "publishedOn": "2026-09-08T00:00:00.000Z",
+          "wordCount": 5389,
+          "title": "The Destruction of the Scottish Canon",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/the-destruction-of-the-scottish-canon/90d248ac88-1788906184/scottish-canon-alec-thompson-2-1600x900-crop-sharpen50.png"
+        },
         {
           "id": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
           "author": null,
@@ -2551,16 +2561,6 @@
           "wordCount": 1371,
           "title": "Flock Leaked Cops’ License Plate Searches via DuckDuckGo, Bing",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/flock-results.png"
-        },
-        {
-          "id": "6a29a85fcad3600001e16887",
-          "author": "Samantha Cole",
-          "description": "LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books. Researchers are trying to discover why.",
-          "link": "https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/",
-          "publishedOn": "2026-06-11T13:00:10.000Z",
-          "wordCount": 1821,
-          "title": "Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1562261167-6e9adeec3bf1.jpeg"
         }
       ]
     },
@@ -3699,16 +3699,6 @@
           "wordCount": 5143,
           "title": "AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare",
           "imageUrl": "https://noemamag.imgix.net/2026/05/hiresOnline-Post.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=a71eb1ce2b09e7ab12a5742a857dd0d8"
-        },
-        {
-          "id": "https://www.noemamag.com/heritage-exists-beyond-humankind",
-          "author": "Ryan Huling",
-          "description": "The post Heritage Exists Beyond Humankind appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/heritage-exists-beyond-humankind",
-          "publishedOn": "2026-06-11T13:20:59.000Z",
-          "wordCount": 6520,
-          "title": "Heritage Exists Beyond Humankind",
-          "imageUrl": "https://noemamag.imgix.net/2026/06/Completed-Illustration-for-NOEMA-by-Botond-Csiby-Gindele-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=aa18e01534e112daa16f7e1834bb2be4"
         }
       ]
     },
@@ -3717,6 +3707,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=479748",
+          "author": "Darwin BondGraham",
+          "description": "The state park and Cal Fire are reducing dangerous vegetation today. Many unofficial air quality sensors registered AQIs above 150 in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/09/08/prescribed-burn-angel-island-fire-smoke-bay-area",
+          "publishedOn": "2026-09-08T22:23:04.000Z",
+          "wordCount": 7584,
+          "title": "Prescribed burn on Angel Island brings smoke, unhealthy air into Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-1-scaled.png"
+        },
         {
           "id": "https://oaklandside.org/?p=479702",
           "author": "Jose Fermoso",
@@ -11004,16 +11004,6 @@
           "wordCount": 2095,
           "title": "Walking Trauma",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0h24j54fqs2ix1mh5j8pkj3lxayh"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-          "author": "Aman Alam",
-          "description": "Day 4,382 of people asking whether “normal workers” could really move large stones without assistance from mystical sky beings.\n Yes. That is generally how construction functions.\n - - -\nA man approached me near the Nile today and whispered, “But have you considered… visitors from the stars?”\n Brother. We do not even have reliable sandals yet. Why would intergalactic civilizations travel unimaginable distances only to help stack triangles?\n - - -\nPeople dramatically underestimate what thousands of organized humans can accomplish when they are adequately fed, aggressively supervised, and denied alternative career paths.\n - - -\nAnother traveler asked: “How could ancient people possibly understand mathematics?”\n Excellent question. We accidentally invented geometry while trying to avoid carry…",
-          "link": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-          "publishedOn": "2026-06-11T12:00:00.000Z",
-          "wordCount": 2553,
-          "title": "Notes from a Tired Egyptian Guy Whose Job Is Explaining That Humans Built the Pyramids",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hnpkcz7x7yc7n6bjb9sc8uh57sr1"
         }
       ]
     },
@@ -12625,22 +12615,6 @@
             "length": "209889"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/ai_news.jpg"
-        },
-        {
-          "id": "112117 at https://www.eff.org",
-          "author": "Paige Collings",
-          "description": "Last June during Pride, we launched a new initiative—LGBT Q&A—where we answered your most pressing queer-related digital rights questions on EFF’s Instagram and TikTok accounts. No question was too big or too small! You asked us things like what pictures to use on dating apps; how to remove your name from internet searches; why homophobic content doesn't get removed after you report it; and how to stay safe at Pride marches.\nAnd this year, we’re doing it all again. \nBoth online and offline, LGBTQ+ individuals and the fight for queer liberation are under threat; and the need for guidance and protection from prying eyes and oppressive structures is increasingly pertinent. This is particularly true for those of us who face consequences when intimate details around gender or sexual identities are revealed without consent. \nBut we know that it can feel overwhelming to even start thinking about how you can protect yourself online in the face of these issues. That's why this Pride, we’re answering all your digital rights questions. \nHow to submit your questions?\nIf you would like to remain anonymous and away from social platforms, you can submit questions via this secure link. \nHead to EFF’s Reddit or the r/LGBTQ subreddit and submit your questions underneath the posts. \nYour questions can also be submitted under the linked posts on EFF’s Instagram and TikTok, as well as on our stories where you can submit questions directly. \nIf you prefer Mastodon and Bluesky, comment your questions under the linked posts. \nAs always, we will not engage with comments that discriminate against marginalized groups, including the LGBTQ+ community.\nWe’re here to help build an online space where you get to decide what aspects of yourself you share with others, how you present to the world, and what things you keep private. Join us to make the internet private, safe, and full of pride.",
-          "link": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2",
-          "publishedOn": "2026-06-11T11:20:27.000Z",
-          "wordCount": 1529,
-          "title": "LGBT Q&A: We’re Back With Season 2!",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/pride-banner.jpg",
-            "alt": "EFF&#039;s LGBT Q&amp;A, cat in a spacesuit surrounded by planets with pride flag colors",
-            "type": "image/jpeg",
-            "length": "169538"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/pride-banner.jpg"
         }
       ]
     },

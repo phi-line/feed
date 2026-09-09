@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-08T20:43:44.541Z</updated>
+    <updated>2026-09-09T03:04:53.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prescribed burn on Angel Island brings smoke, unhealthy air into Berkeley]]></title>
+        <id>https://oaklandside.org/?p=479748</id>
+        <link href="https://www.berkeleyside.org/2026/09/08/prescribed-burn-angel-island-fire-smoke-bay-area"/>
+        <updated>2026-09-08T22:23:04.000Z</updated>
+        <summary type="html"><![CDATA[The state park and Cal Fire are reducing dangerous vegetation today. Many unofficial air quality sensors registered AQIs above 150 in Berkeley.]]></summary>
+        <author>
+            <name>Darwin BondGraham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo gets green light to operate in Berkeley]]></title>
         <id>https://oaklandside.org/?p=479702</id>
@@ -170,6 +180,27 @@ Red Bull soapbox race wipeouts
         <updated>2026-09-08T09:00:07.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Has Solved One of Math’s $1 Million Millennium Prize Problems]]></title>
+        <id>https://www.quantamagazine.org/?p=166677</id>
+        <link href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/"/>
+        <updated>2026-09-08T08:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.            
+The post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Konstantin Kakaes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Destruction of the Scottish Canon]]></title>
+        <id>https://asteriskmag.com/issues/15/the-destruction-of-the-scottish-canon</id>
+        <link href="https://asteriskmag.com/issues/15/the-destruction-of-the-scottish-canon"/>
+        <updated>2026-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the point of content knowledge when you can teach skills instead? Scotland decided to find out.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -11002,76 +11033,6 @@ News-USA Today is hardly the only slagheap that’s hallucinating or fabricating
         <summary type="html"><![CDATA[Flock, the automatic license plate reader (ALPR) company, exposed some of the license plate cops were looking for and the reason for doing so.]]></summary>
         <author>
             <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the Future of Gene Editing?]]></title>
-        <id>https://www.quantamagazine.org/?p=162989</id>
-        <link href="https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/"/>
-        <updated>2026-06-11T13:37:21.000Z</updated>
-        <summary type="html"><![CDATA[In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.            
-The post What’s the Future of Gene Editing? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Janna Levin and Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heritage Exists Beyond Humankind]]></title>
-        <id>https://www.noemamag.com/heritage-exists-beyond-humankind</id>
-        <link href="https://www.noemamag.com/heritage-exists-beyond-humankind"/>
-        <updated>2026-06-11T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[The post Heritage Exists Beyond Humankind appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Ryan Huling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why]]></title>
-        <id>6a29a85fcad3600001e16887</id>
-        <link href="https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/"/>
-        <updated>2026-06-11T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books. Researchers are trying to discover why.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes from a Tired Egyptian Guy Whose Job Is Explaining That Humans Built the Pyramids]]></title>
-        <id>https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids</id>
-        <link href="https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids"/>
-        <updated>2026-06-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Day 4,382 of people asking whether “normal workers” could really move large stones without assistance from mystical sky beings.
- Yes. That is generally how construction functions.
- - - -
-A man approached me near the Nile today and whispered, “But have you considered… visitors from the stars?”
- Brother. We do not even have reliable sandals yet. Why would intergalactic civilizations travel unimaginable distances only to help stack triangles?
- - - -
-People dramatically underestimate what thousands of organized humans can accomplish when they are adequately fed, aggressively supervised, and denied alternative career paths.
- - - -
-Another traveler asked: “How could ancient people possibly understand mathematics?”
- Excellent question. We accidentally invented geometry while trying to avoid carry…]]></summary>
-        <author>
-            <name>Aman Alam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGBT Q&A: We’re Back With Season 2!]]></title>
-        <id>112117 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2"/>
-        <updated>2026-06-11T11:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Last June during Pride, we launched a new initiative—LGBT Q&A—where we answered your most pressing queer-related digital rights questions on EFF’s Instagram and TikTok accounts. No question was too big or too small! You asked us things like what pictures to use on dating apps; how to remove your name from internet searches; why homophobic content doesn't get removed after you report it; and how to stay safe at Pride marches.
-And this year, we’re doing it all again. 
-Both online and offline, LGBTQ+ individuals and the fight for queer liberation are under threat; and the need for guidance and protection from prying eyes and oppressive structures is increasingly pertinent. This is particularly true for those of us who face consequences when intimate details around gender or sexual identities are revealed without consent. 
-But we know that it can feel overwhelming to even start thinking about how you can protect yourself online in the face of these issues. That's why this Pride, we’re answering all your digital rights questions. 
-How to submit your questions?
-If you would like to remain anonymous and away from social platforms, you can submit questions via this secure link. 
-Head to EFF’s Reddit or the r/LGBTQ subreddit and submit your questions underneath the posts. 
-Your questions can also be submitted under the linked posts on EFF’s Instagram and TikTok, as well as on our stories where you can submit questions directly. 
-If you prefer Mastodon and Bluesky, comment your questions under the linked posts. 
-As always, we will not engage with comments that discriminate against marginalized groups, including the LGBTQ+ community.
-We’re here to help build an online space where you get to decide what aspects of yourself you share with others, how you present to the world, and what things you keep private. Join us to make the internet private, safe, and full of pride.]]></summary>
-        <author>
-            <name>Paige Collings</name>
         </author>
     </entry>
     <entry>
