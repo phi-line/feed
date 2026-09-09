@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=166565",
+          "author": "Natalie Wolchover",
+          "description": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.             \nThe post What Is Math’s Mysterious Langlands Program Really About? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
+          "publishedOn": "2026-09-09T14:44:13.000Z",
+          "wordCount": 5535,
+          "title": "What Is Math’s Mysterious Langlands Program Really About?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Qualia-Langlands-cr.Samuel-Velasco-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=166677",
           "author": "Konstantin Kakaes",
           "description": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.            \nThe post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
@@ -682,6 +692,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6a97411cef8df1000130ee50",
+          "author": "Samantha Cole",
+          "description": "After allegedly becoming emotionally reliant on ChatGPT, Austin died at 40 years old, leaving behind family and friends who loved him. Megan wants everyone to know what happened.",
+          "link": "https://www.404media.co/austin-gordon-chatgpt-suicide-openai-lawsuit/",
+          "publishedOn": "2026-09-09T14:00:50.000Z",
+          "wordCount": 4226,
+          "title": "'Tell Everyone:' A Man Died by Suicide After Talking to ChatGPT. His Former Partner Wants to Warn the World About AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/A-M5-1.jpg"
+        },
+        {
+          "id": "6aa05603ec3a680001f2deca",
+          "author": "Matthew Gault",
+          "description": "The Restroom Archive is a museum-style repository of 3D scans of the world's restrooms.",
+          "link": "https://www.404media.co/the-man-on-a-quest-to-digitally-preserve-americas-public-restrooms/",
+          "publishedOn": "2026-09-09T13:24:24.000Z",
+          "wordCount": 2293,
+          "title": "The Man on a Quest to Digitally Preserve America’s Public Restrooms",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Screenshot-2026-09-08-144158-1.png"
+        },
         {
           "id": "6aa052d0ec3a680001f2ddc9",
           "author": "Joseph Cox",
@@ -2905,6 +2935,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3296/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3296/",
+          "publishedOn": "2026-09-09T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Fault Taunting",
+          "imageUrl": "https://imgs.xkcd.com/comics/fault_taunting_2x.png"
+        },
         {
           "id": "https://xkcd.com/3295/",
           "author": null,
@@ -6115,36 +6155,6 @@
           "wordCount": 8150,
           "title": "Pride summer in Berkeley: 13 festivals, parades, concerts and events celebrating LGBTQ+ communities",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/DSCF0102.jpg?fit=2000%2C1333&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558342",
-          "author": "Berkeleyside Staff",
-          "description": "Also: Some UC Berkeley humanities professors say they're cutting down the amount of reading they assign to students.",
-          "link": "https://www.berkeleyside.org/2026/06/11/the-wire-tom-hanks-bought-a-1930s-royal-standard-typewriter-at-berkeley-typewriter-last-week",
-          "publishedOn": "2026-06-12T00:15:00.000Z",
-          "wordCount": 7233,
-          "title": "The Wire: Tom Hanks bought a 1930s Royal standard typewriter at Berkeley Typewriter last week",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Tom-Hanks.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558367",
-          "author": "Tovin Lapan",
-          "description": "The Society of Features Journalism honored Richmondside reporting intern Thomas Lyons for his piece on the  pre-dawn hours at the Richmond institution.",
-          "link": "https://www.berkeleyside.org/2026/06/11/andys-donut-nosh-society-features-journalism-award",
-          "publishedOn": "2026-06-11T23:50:01.000Z",
-          "wordCount": 6931,
-          "title": "Nosh wins national award for story on Andy’s Donut Shop",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/AndysDonuts-WelcomeSign-CarlaHRamirez.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558365",
-          "author": "Alex N. Gecan",
-          "description": "Police said they identified the man via surveillance footage and arrested him Thursday around downtown. They are also investigating a flood at the shelter.",
-          "link": "https://www.berkeleyside.org/2026/06/11/bacs-shelter-arson-arrest-bpd-investigate-flooding",
-          "publishedOn": "2026-06-11T23:45:57.000Z",
-          "wordCount": 7699,
-          "title": "Man suspected of torching Berkeley animal shelter arrested",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0113-scaled.jpg"
         }
       ]
     },
@@ -9385,6 +9395,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/my-ideal-building-contractor",
+          "author": "Maria Choong",
+          "description": "“I don’t believe in door-to-door solicitation, so I’m glad you called me to be one of the twenty-seven quotes you’ll receive for a storm door, after which you’ll decide you no longer want a storm door.”\n [Knocks on wall] “Wow—every repair in this house done by the previous owner was completed correctly.”\n “I accept cash, Venmo, Zelle, checks, and warm cans of Squirt from your out-of-order garage fridge.”\n “Most people don’t know this, but if you ignore the issue long enough, air conditioner condensers fix themselves.”\n “Your house makes a bellowing sound like a sinking ship and the floors vibrate each time you use the hot water faucet? That’s normal. All houses do that.”\n “While I have my ladder, I’ll gladly replace these drop ceiling tiles, paint over the water leak from 1992, and remove …",
+          "link": "https://www.mcsweeneys.net/articles/my-ideal-building-contractor",
+          "publishedOn": "2026-09-09T12:00:00.000Z",
+          "wordCount": 2709,
+          "title": "My Ideal Building Contractor",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8bxsypkgunvw6kmn8lthd6e2u63x"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/these-exciting-progressive-candidates-who-might-lose-must-be-replaced-by-boring-moderates-who-will-definitely-lose",
           "author": "Dorian Fox",
           "description": "Here at the DNC, we’ve been dismayed by the string of progressive and socialist candidates who’ve recently won primaries in Michigan, Colorado, and even deep-red Florida. Sure, these folks might stir up enthusiasm and make a splash online, but when they’re tested in a general election, they’re bound to lose.\n These fringe upstarts are speaking unabashedly about our country’s crushing affordability crisis and utter lack of a social safety net. That’s the kind of frank, uncompromising honesty that scares independent voters away. They’ve floated ideas like abolishing prisons and taxing the ultrarich, and yeah, we sort of see where they’re coming from, but we’d never say so out loud. They’re brash and messy on social media and dress like a cultural studies faculty meeting at Brown. They’re you…",
@@ -10911,6 +10931,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112346 at https://www.eff.org",
+          "author": "Lena Cohen",
+          "description": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model, a new Medicare program that uses AI to evaluate prior authorization requests for certain medical services. Today, we’re releasing approximately 1,000 pages of records obtained from the Centers for Medicare & Medicaid Services (CMS) through this litigation, including contracts with tech companies, internal status reports and providers’ complaints about the program. The documents (available here) show that WISeR has resulted in widespread delays and denials of care, operational chaos, and reports of patient harm.\nWhy We Sued for Records about WISeR\nEFF filed the FOIA lawsuit to gain badly needed transparency into an experimental AI program that could jeopardize Medicare…",
+          "link": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
+          "publishedOn": "2026-09-08T19:19:44.000Z",
+          "wordCount": 2563,
+          "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/adm-bureaucratic-final-1200x600.jpg",
+            "alt": "A robot oversees a factory conveyor belt. Its finger hovers over the reject button, as a red light scans a woman and her baby.",
+            "type": "image/jpeg",
+            "length": "186891"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/adm-bureaucratic-final-1200x600.jpg"
+        },
         {
           "id": "112338 at https://www.eff.org",
           "author": "Betty Gedlu",

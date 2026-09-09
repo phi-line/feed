@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-09T10:45:37.960Z</updated>
+    <updated>2026-09-09T15:55:04.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Math’s Mysterious Langlands Program Really About?]]></title>
+        <id>https://www.quantamagazine.org/?p=166565</id>
+        <link href="https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/"/>
+        <updated>2026-09-09T14:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.             
+The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Natalie Wolchover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Tell Everyone:' A Man Died by Suicide After Talking to ChatGPT. His Former Partner Wants to Warn the World About AI]]></title>
+        <id>6a97411cef8df1000130ee50</id>
+        <link href="https://www.404media.co/austin-gordon-chatgpt-suicide-openai-lawsuit/"/>
+        <updated>2026-09-09T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[After allegedly becoming emotionally reliant on ChatGPT, Austin died at 40 years old, leaving behind family and friends who loved him. Megan wants everyone to know what happened.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Man on a Quest to Digitally Preserve America’s Public Restrooms]]></title>
+        <id>6aa05603ec3a680001f2deca</id>
+        <link href="https://www.404media.co/the-man-on-a-quest-to-digitally-preserve-americas-public-restrooms/"/>
+        <updated>2026-09-09T13:24:24.000Z</updated>
+        <summary type="html"><![CDATA[The Restroom Archive is a museum-style repository of 3D scans of the world's restrooms.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Ideal Building Contractor]]></title>
+        <id>https://www.mcsweeneys.net/articles/my-ideal-building-contractor</id>
+        <link href="https://www.mcsweeneys.net/articles/my-ideal-building-contractor"/>
+        <updated>2026-09-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“I don’t believe in door-to-door solicitation, so I’m glad you called me to be one of the twenty-seven quotes you’ll receive for a storm door, after which you’ll decide you no longer want a storm door.”
+ [Knocks on wall] “Wow—every repair in this house done by the previous owner was completed correctly.”
+ “I accept cash, Venmo, Zelle, checks, and warm cans of Squirt from your out-of-order garage fridge.”
+ “Most people don’t know this, but if you ignore the issue long enough, air conditioner condensers fix themselves.”
+ “Your house makes a bellowing sound like a sinking ship and the floors vibrate each time you use the hot water faucet? That’s normal. All houses do that.”
+ “While I have my ladder, I’ll gladly replace these drop ceiling tiles, paint over the water leak from 1992, and remove …]]></summary>
+        <author>
+            <name>Maria Choong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fault Taunting]]></title>
+        <id>https://xkcd.com/3296/</id>
+        <link href="https://xkcd.com/3296/"/>
+        <updated>2026-09-09T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prescribed burn on Angel Island brings smoke, unhealthy air into Berkeley]]></title>
         <id>https://oaklandside.org/?p=479748</id>
@@ -34,6 +89,18 @@
         <summary type="html"><![CDATA[A message from NPR Marketing - POV: you just got your El Tiny drop. 📦👀⁠⁠For Latin Music Month, NPR Music’s Alt.Latino takes over the Tiny Desk -- plus a wh...]]></summary>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment]]></title>
+        <id>112346 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment"/>
+        <updated>2026-09-08T19:19:44.000Z</updated>
+        <summary type="html"><![CDATA[EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model, a new Medicare program that uses AI to evaluate prior authorization requests for certain medical services. Today, we’re releasing approximately 1,000 pages of records obtained from the Centers for Medicare & Medicaid Services (CMS) through this litigation, including contracts with tech companies, internal status reports and providers’ complaints about the program. The documents (available here) show that WISeR has resulted in widespread delays and denials of care, operational chaos, and reports of patient harm.
+Why We Sued for Records about WISeR
+EFF filed the FOIA lawsuit to gain badly needed transparency into an experimental AI program that could jeopardize Medicare…]]></summary>
+        <author>
+            <name>Lena Cohen</name>
         </author>
     </entry>
     <entry>
@@ -10872,36 +10939,6 @@ A few crybabies are claiming the United States’ recent bombing of Iran’s wat
         <updated>2026-06-12T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wire: Tom Hanks bought a 1930s Royal standard typewriter at Berkeley Typewriter last week]]></title>
-        <id>https://www.berkeleyside.org/?p=558342</id>
-        <link href="https://www.berkeleyside.org/2026/06/11/the-wire-tom-hanks-bought-a-1930s-royal-standard-typewriter-at-berkeley-typewriter-last-week"/>
-        <updated>2026-06-12T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Also: Some UC Berkeley humanities professors say they're cutting down the amount of reading they assign to students.]]></summary>
-        <author>
-            <name>Berkeleyside Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nosh wins national award for story on Andy’s Donut Shop]]></title>
-        <id>https://www.berkeleyside.org/?p=558367</id>
-        <link href="https://www.berkeleyside.org/2026/06/11/andys-donut-nosh-society-features-journalism-award"/>
-        <updated>2026-06-11T23:50:01.000Z</updated>
-        <summary type="html"><![CDATA[The Society of Features Journalism honored Richmondside reporting intern Thomas Lyons for his piece on the  pre-dawn hours at the Richmond institution.]]></summary>
-        <author>
-            <name>Tovin Lapan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man suspected of torching Berkeley animal shelter arrested]]></title>
-        <id>https://www.berkeleyside.org/?p=558365</id>
-        <link href="https://www.berkeleyside.org/2026/06/11/bacs-shelter-arson-arrest-bpd-investigate-flooding"/>
-        <updated>2026-06-11T23:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Police said they identified the man via surveillance footage and arrested him Thursday around downtown. They are also investigating a flood at the shelter.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
         </author>
     </entry>
     <entry>
