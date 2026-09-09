@@ -693,6 +693,56 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aa1b1498f881c00019b1e9e",
+          "author": "Matthew Gault",
+          "description": "‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.",
+          "link": "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
+          "publishedOn": "2026-09-09T19:25:00.000Z",
+          "wordCount": 2006,
+          "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Screenshot-2026-09-09-152337-1.png"
+        },
+        {
+          "id": "6aa15aad8f881c0001983580",
+          "author": "Becky Ferreira",
+          "description": "A team discovered that Gondwana, an ancient landmass that formed more than 500 million years ago, was in fact large enough to be deemed a supercontinent, a finding that sheds light on the “explosion” of ancient Cambrian life.",
+          "link": "https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/",
+          "publishedOn": "2026-09-09T18:00:04.000Z",
+          "wordCount": 1795,
+          "title": "The Remnants of a Lost ‘Supercontinent’ Just Rewrote the History of Life on Earth",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/image2.png"
+        },
+        {
+          "id": "6aa190248f881c00019b0fa9",
+          "author": "Jason Koebler",
+          "description": "Sinclair Broadcasting is pushing the idea that China and the No Kings protesters are the reason people don't like Flock.",
+          "link": "https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/",
+          "publishedOn": "2026-09-09T17:15:45.000Z",
+          "wordCount": 3697,
+          "title": "Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-09-at-10.05.13@2x.png"
+        },
+        {
+          "id": "6aa18a328f881c00019b0b77",
+          "author": "Joseph Cox",
+          "description": "Secretive predictive policing units; a funk shirt designed to fool AI; and our third anniversary party.",
+          "link": "https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/",
+          "publishedOn": "2026-09-09T16:37:02.000Z",
+          "wordCount": 1105,
+          "title": "Podcast: DHS’ Secretive ‘Predictive Policing’ Unit Pulling People Over",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/MINORITY-REPORT.png"
+        },
+        {
+          "id": "6aa181358f881c00019b0314",
+          "author": "Samantha Cole",
+          "description": "James Strahler was sentenced to 15 years in prison for “cybercrimes that included both real and AI-generated sexually explicit images and threats of violence to numerous victims.”",
+          "link": "https://www.404media.co/first-take-it-down-act-sentencing-case/",
+          "publishedOn": "2026-09-09T15:57:52.000Z",
+          "wordCount": 1606,
+          "title": "First ‘Take It Down Act’ Sentencing Puts Man Behind Bars for 15 Years",
+          "imageUrl": "https://images.unsplash.com/photo-1768839719921-6a554fb3e847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDcxfHxsYXd8ZW58MHx8fHwxNzg4OTY5MjIwfDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6a97411cef8df1000130ee50",
           "author": "Samantha Cole",
           "description": "After allegedly becoming emotionally reliant on ChatGPT, Austin died at 40 years old, leaving behind family and friends who loved him. Megan wants everyone to know what happened.",
@@ -3314,16 +3364,6 @@
           "wordCount": 185,
           "title": "Tethys",
           "imageUrl": "https://imgs.xkcd.com/comics/tethys_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3258/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3258/",
-          "publishedOn": "2026-06-12T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Plate Flip",
-          "imageUrl": "https://imgs.xkcd.com/comics/plate_flip_2x.png"
         }
       ]
     },
@@ -3369,6 +3409,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
+          "author": "Afra Wang",
+          "description": "The post A New Kind Of Creative Poverty appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
+          "publishedOn": "2026-09-09T16:00:23.000Z",
+          "wordCount": 8604,
+          "title": "A New Kind Of Creative Poverty",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/test1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=16bdc40f0490fb1c03a8c60701b07c35"
+        },
         {
           "id": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
           "author": "Mike Mariani",
@@ -3706,6 +3756,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=562550",
+          "author": "Momo Chang",
+          "description": "Pagararung Thai Cuisine, The Coffee Mill, and Home of Chicken and Waffles all closed after multiple decades in business.",
+          "link": "https://www.berkeleyside.org/2026/09/09/pagarung-home-chicken-waffles-coffee-mill-horn-close",
+          "publishedOn": "2026-09-09T19:00:00.000Z",
+          "wordCount": 8025,
+          "title": "Two temporary closures in Berkeley, plus multiple long running Oakland restaurants shutter",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Pagarung-Montclair.jpg?fit=1562%2C1158&ssl=1"
+        },
         {
           "id": "https://oaklandside.org/?p=479748",
           "author": "Darwin BondGraham",
@@ -9395,6 +9455,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/a-day-in-the-life-of-a-new-yorker-according-to-my-fox-news-watching-florida-family-members",
+          "author": "Ginny Hogan and Carlos Greaves",
+          "description": "The following is an excerpt from our new book, Obey In Advance: How to Survive and Thrive Under Authoritarianism by longtime McSweeney’s writer Ginny Hogan and McSweeney’s resident satirist Carlos Greaves. From how to stick your head in the sand to avoid thinking about your dictator, to the most effective ways to reeducate the masses, this hilarious (and oddly reassuring?) guide has you covered—whether you want to Make Authoritarianism Great Again or not.\n - - -\n7 a.m. I wake up and get stabbed.\n 8 a.m. I go to my corner bodega for a Bacon, Egg, and Cheese. On the way, I get mugged. I have no way to pay for the sandwich, so I’m forced to steal it. And then I stab the bodega owner so he won’t tattle on me.\n 9 a.m. I get on the subway and immediately get murdered. Fortunately, there are four…",
+          "link": "https://www.mcsweeneys.net/articles/a-day-in-the-life-of-a-new-yorker-according-to-my-fox-news-watching-florida-family-members",
+          "publishedOn": "2026-09-09T16:30:00.000Z",
+          "wordCount": 3204,
+          "title": "A Day in the Life of a New Yorker, According to My Fox News-Watching Florida Family Members",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/essm7856i0p77esskqpk7s1po7cr"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/my-ideal-building-contractor",
           "author": "Maria Choong",
           "description": "“I don’t believe in door-to-door solicitation, so I’m glad you called me to be one of the twenty-seven quotes you’ll receive for a storm door, after which you’ll decide you no longer want a storm door.”\n [Knocks on wall] “Wow—every repair in this house done by the previous owner was completed correctly.”\n “I accept cash, Venmo, Zelle, checks, and warm cans of Squirt from your out-of-order garage fridge.”\n “Most people don’t know this, but if you ignore the issue long enough, air conditioner condensers fix themselves.”\n “Your house makes a bellowing sound like a sinking ship and the floors vibrate each time you use the hot water faucet? That’s normal. All houses do that.”\n “While I have my ladder, I’ll gladly replace these drop ceiling tiles, paint over the water leak from 1992, and remove …",
@@ -10931,6 +11001,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112347 at https://www.eff.org",
+          "author": "Karen Gullo",
+          "description": "Law enforcement agencies across the country are increasingly relying on spying technologies—automated license plate readers (ALPR), cell-site simulators, and facial recognition, to name a few--causing an outcry in many communities where people are rightly concerned about the threat to civil rights and civil liberties these tools present.\nSome authorities are responding to these concerns by trying to hide what they’re doing. Police departments are telling officers not to mention ALPRs when stopping vehicles and concealing their use of ALPRs to avoid citizens’ public records requests. Concealing the use of unpopular spying tools isn’t anything particularly new for law enforcement—cops have been doing it for years—but it’s just as wrong now as it was 20 years ago.\nThese practices prevent the …",
+          "link": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
+          "publishedOn": "2026-09-09T20:09:10.000Z",
+          "wordCount": 2039,
+          "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png",
+            "alt": "Flock cameras and surveillance cameras among barbed wire in a dystopian scene",
+            "type": "image/png",
+            "length": "153685"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png"
+        },
+        {
+          "id": "112349 at https://www.eff.org",
+          "author": "Jillian C. York",
+          "description": "The term “digital sovereignty” has become ubiquitous. European officials invoke it in debates about cloud infrastructure, AI, semiconductors, and platform regulation. Governments throughout the global majority use it to argue for greater control over data and communications infrastructure and boost their economies. Companies market “sovereign cloud” products designed to reassure their customers that their information stays under local jurisdiction. But digital sovereignty could be something more: an opportunity for users around the world to build more resilient, open  systems and the skills and infrastructure to maintain them.\nThere is no singular definition of digital sovereignty, nor is there a single coherent position in the digital rights space. Despite its growing popularity, the term…",
+          "link": "https://www.eff.org/deeplinks/2026/09/digital-sovereignty-what-it-what-it-could-be",
+          "publishedOn": "2026-09-09T18:04:27.000Z",
+          "wordCount": 2987,
+          "title": "Digital Sovereignty: What It Is, What It Could Be",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/digital-sovereignty-1c_0.jpg",
+            "alt": "a series of multi-colored hands (green, purple, etc) hold a series of multi-colored flags",
+            "type": "image/jpeg",
+            "length": "64719"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/digital-sovereignty-1c_0.jpg"
+        },
+        {
+          "id": "112334 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "EFF is pleased to announce that Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights have received 2026 EFF Awards for their vital work in ensuring that technology supports freedom, justice, and innovation for all people. \nThe EFF Awards recognize specific and substantial technical, social, economic, or cultural contributions in diverse fields including journalism, art, digital access, legislation, technology development, and law. \nFor the past 30 years, the EFF Awards—previously known as the Pioneer Awards—have recognized and honored key leaders in the fight for freedom and innovation online. Started when the internet was new, the Awards now reflect the fact that the online world has become both a necessity in modern life and a continuall…",
+          "link": "https://www.eff.org/deeplinks/2026/09/2026-eff-award-winners-access-now-7amleh-arab-center-advancement-social-media",
+          "publishedOn": "2026-09-09T16:00:33.000Z",
+          "wordCount": 1348,
+          "title": "2026 EFF Award Winners: Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/eff-awards-2023.png",
+            "alt": "EFF Awards text on circuitboard texture",
+            "type": "image/png",
+            "length": "139073"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/eff-awards-2023.png"
+        },
         {
           "id": "112346 at https://www.eff.org",
           "author": "Lena Cohen",
