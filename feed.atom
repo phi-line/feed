@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-09T20:24:24.281Z</updated>
+    <updated>2026-09-10T03:04:59.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trump administration claims UC Berkeley law school discriminates against white, Asian applicants]]></title>
+        <id>https://www.berkeleyside.org/?p=562614</id>
+        <link href="https://www.berkeleyside.org/2026/09/09/uc-berkeley-law-school-trump-administration"/>
+        <updated>2026-09-10T00:07:20.000Z</updated>
+        <summary type="html"><![CDATA[The finding by the Justice and Education departments comes in the wake of similar investigations at UC medical schools. Law school dean Erwin Chemerinsky said the school does not give any race-based preferences.]]></summary>
+        <author>
+            <name>Felicia Mello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Berkeley restaurant worker’s week-long saga in ICE detention]]></title>
+        <id>https://www.berkeleyside.org/?p=562566</id>
+        <link href="https://www.berkeleyside.org/2026/09/09/sergio-chaparro-ice-detention-oakland-airport-oceanview-diner"/>
+        <updated>2026-09-09T23:03:42.000Z</updated>
+        <summary type="html"><![CDATA[When an Oceanview Diner manager was detained at the Oakland Airport, friends, family and coworkers rallied to track him down and fight for his release.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Rain or shine, I go’: Meet the people who fish at the Berkeley Marina]]></title>
+        <id>https://www.berkeleyside.org/?p=561397</id>
+        <link href="https://www.berkeleyside.org/2026/09/09/fishing-berkeley-marina-pier"/>
+        <updated>2026-09-09T21:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Some will brave any weather for the chance to catch a halibut or striped bass. But most of them value the community and the break from the daily grind above all.]]></summary>
+        <author>
+            <name>Joanne Furio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automattic CEO Matt Mullenweg Put on 'Leave of Absence']]></title>
+        <id>6aa1cbd78f881c00019b2798</id>
+        <link href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/"/>
+        <updated>2026-09-09T21:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members "conspired" behind his back to vote to put him on leave.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Feds Are Spying on Your Bank Account]]></title>
+        <id>https://reason.com/?p=8400915</id>
+        <link href="https://reason.com/2026/09/09/the-feds-are-spying-on-your-bank-account/"/>
+        <updated>2026-09-09T20:46:26.000Z</updated>
+        <summary type="html"><![CDATA[While the Treasury forces money changers to report on suspected immigrants, Homeland Security is having police pull people over for suspicious transactions.]]></summary>
+        <author>
+            <name>Matthew Petti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR]]></title>
         <id>112347 at https://www.eff.org</id>
@@ -10965,81 +11015,6 @@ EFF has said for decades, every time this program is up for renewal: Section 702
         <summary type="html"><![CDATA["I’ve spoken. I’m not debating this."]]></summary>
         <author>
             <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: World Cup Madness and Film Reviews]]></title>
-        <id>6a2bbc62cad3600001e48230</id>
-        <link href="https://www.404media.co/behind-the-blog-world-cup-madness-and-film-reviews/"/>
-        <updated>2026-06-12T15:01:10.000Z</updated>
-        <summary type="html"><![CDATA[This week, we discuss Trump fucking up the World Cup, some thoughts on ICE coverage, and movies.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New BAMPFA artwork lives outside the museum, on Crescent Lawn]]></title>
-        <id>https://www.berkeleyside.org/?p=558265</id>
-        <link href="https://www.berkeleyside.org/2026/06/12/new-bampfa-artwork-lives-outside-the-museum-on-crescent-lawn"/>
-        <updated>2026-06-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mark di Suvero's "Mamma Mobius" joins a collection of large-scale public sculptures on campus.]]></summary>
-        <author>
-            <name>Local sponsor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘North Berkeley mom’ is taking off on TikTok. It all started at the Cheese Board]]></title>
-        <id>https://www.berkeleyside.org/?p=558317</id>
-        <link href="https://www.berkeleyside.org/2026/06/12/north-berkeley-mom-tiktok"/>
-        <updated>2026-06-12T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Comedian Simona Ruzer is expertly parodying the archetype of the hippie-dippie, secretly wealthy Berkeley mom — even though her own mother would never say, “Take the credit card and go get Gordo’s.”]]></summary>
-        <author>
-            <name>Nico Savidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Did Earth Get Its Oceans? Maybe It Made Them Itself.]]></title>
-        <id>https://www.quantamagazine.org/?p=163038</id>
-        <link href="https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/"/>
-        <updated>2026-06-12T14:04:20.000Z</updated>
-        <summary type="html"><![CDATA[At first, scientists thought Earth’s water came from comets. Then, asteroids. Now, they wonder if Earth’s water is homegrown.            
-The post Where Did Earth Get Its Oceans? Maybe It Made Them Itself. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Robin George Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing]]></title>
-        <id>https://jessicainthekitchen.com/?p=20208</id>
-        <link href="https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/"/>
-        <updated>2026-06-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This Cajun tofu salad is modelled after my absolute favourite salad from TGI Fridays, but it’s vegan-friendly. I've spent years perfecting it and as a Jamaican who grow up eating tons of seasoned and flavourful meals, this salad is SURE to satisfy! Loaded with crunchy veggies and topped with crispy Cajun fried tofu and creamy, tangy dressing, it’s a must make.]]></summary>
-        <author>
-            <name>Jessica Hylton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pride summer in Berkeley: 13 festivals, parades, concerts and events celebrating LGBTQ+ communities]]></title>
-        <id>https://www.berkeleyside.org/?p=558222</id>
-        <link href="https://www.berkeleyside.org/2026/06/12/pride-berkeley-lgbtq-2026"/>
-        <updated>2026-06-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A queer film series at BAMPFA. Mortifying stories read aloud from teen journals. Heated Rivalry trivia. Quilt making. And Berkeley’s Pride festival, now in Civic Center Park.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Luck Proving We’re Competent Enough to Knowingly Commit War Crimes]]></title>
-        <id>https://www.mcsweeneys.net/articles/good-luck-proving-were-competent-enough-to-knowingly-commit-war-crimes</id>
-        <link href="https://www.mcsweeneys.net/articles/good-luck-proving-were-competent-enough-to-knowingly-commit-war-crimes"/>
-        <updated>2026-06-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“It is unclear if the U.S. intentionally struck [Iran’s] water facilities, or knew what was in the buildings. Deliberately targeting civilian infrastructure could constitute a war crime under international law.” – The New York Times
- - - -
-A few crybabies are claiming the United States’ recent bombing of Iran’s water storage and distribution facilities constitutes a war crime. But listen to the criteria for proving it was a war crime: we need to have known which buildings our missiles were going to strike and what was in those buildings.
- How can anyone expect our military leaders to know what’s inside the buildings we’re bombing? Do you have any idea how similar weapons storage warehouses look to water treatment facilities and girls’ volleyball games?
- What about the words “indiscriminate…]]></summary>
-        <author>
-            <name>Talia Argondezzi</name>
         </author>
     </entry>
     <entry>
