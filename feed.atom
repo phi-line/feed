@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-10T10:36:46.259Z</updated>
+    <updated>2026-09-10T15:49:42.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Four-Color Theorem Gets a Rare New Proof]]></title>
+        <id>https://www.quantamagazine.org/?p=166722</id>
+        <link href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/"/>
+        <updated>2026-09-10T14:27:36.000Z</updated>
+        <summary type="html"><![CDATA[By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs.            
+The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Gregory Barber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Butter Recipe]]></title>
+        <id>https://jessicainthekitchen.com/?p=79778</id>
+        <link href="https://jessicainthekitchen.com/apple-butter-recipe/"/>
+        <updated>2026-09-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This apple butter needs to be the first on your fall to-make list! Smooth and glossy, it's overflowing with the cozy, warming spices you associate with the season. Cinnamon, nutmeg, cloves, and a hint of vanilla turn sweet 'n tart apples into a spread you'll want to slather on everything in sight.]]></summary>
+        <author>
+            <name>Jessica Hylton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whose AI Will Rule The World?]]></title>
+        <id>https://www.noemamag.com/whose-ai-will-rule-the-world</id>
+        <link href="https://www.noemamag.com/whose-ai-will-rule-the-world"/>
+        <updated>2026-09-10T13:52:30.000Z</updated>
+        <summary type="html"><![CDATA[The post Whose AI Will Rule The World? appeared first on NOEMA.]]></summary>
+        <author>
+            <name>Jacob Dreyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around Berkeley: The 50th Solano Stroll is this Sunday]]></title>
+        <id>https://www.berkeleyside.org/?p=562621</id>
+        <link href="https://www.berkeleyside.org/2026/09/10/around-berkeley-solano-avenue-stroll-2026"/>
+        <updated>2026-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other events include Nosh's BreakFest, a monthly music series at the Chapel of the Flowers and Berkeley Playhouse's production of "Legally Blonde: The Musical."]]></summary>
+        <author>
+            <name>Karen Nguyen Vo and Andrew Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Note from Your Editor Regarding the Entirely Routine Authentication of Your Humanity]]></title>
+        <id>https://www.mcsweeneys.net/articles/a-note-from-your-editor-regarding-the-entirely-routine-authentication-of-your-humanity</id>
+        <link href="https://www.mcsweeneys.net/articles/a-note-from-your-editor-regarding-the-entirely-routine-authentication-of-your-humanity"/>
+        <updated>2026-09-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dear Author,
+ Thank you for submitting your manuscript. Before we proceed, we require confirmation that it was written by you, a person, rather than a technology trained on books written by you without your knowledge or consent.
+ We appreciate that this may feel circular. Please be assured it is not circular. It is an ouroboros. A spiral of accountability. An ethical feedback noose.
+ As you know, several prominent authors of color have faced allegations that their novels were written with the assistance of generative AI. Some have lost publishing contracts and any remnant of faith that “innocent until proven guilty” is a part of the acquisitions process.
+ All have denied using AI. Naturally, these denials cannot be accepted without evidence, since denial is exactly what a guilty person wou…]]></summary>
+        <author>
+            <name>Seema Yasmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tori Kelly: Tiny Desk Concert]]></title>
         <id>https://www.youtube.com/watch?v=O8AlOZV0BSI</id>
@@ -10970,18 +11025,6 @@ I had my head turned by fried courgettes while watching Stanley Tucci eat spaghe
  Continue reading...]]></summary>
         <author>
             <name>Meera Sodha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victory! 702 has Expired!]]></title>
-        <id>112127 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/victory-702-has-expired"/>
-        <updated>2026-06-12T23:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Section 702 of the Foreign Intelligence Surveillance Act lets US intelligence agencies collect communications from foreigners abroad without a warrant, and routinely sweeps in Americans’ emails, messages, and calls in the process.
-The authority for this program is set to expire Friday, June 12th, 2026, at midnight. As we wrote earlier this week, Congress has been kicking the ball down the road for months now—temporarily postponing the expiration of the mass surveillance authority Section 702 of FISA in hopes that some consensus on a longer reauthorization could be reached. 
-EFF has said for decades, every time this program is up for renewal: Section 702 should require a warrant before the Federal Bureau of Investigation can look at digital communications collected from Americans. If not, w…]]></summary>
-        <author>
-            <name>India McKinney</name>
         </author>
     </entry>
     <entry>
