@@ -703,6 +703,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aa439a32955120001d9c4cb",
+          "author": "Samantha Cole",
+          "description": "We discuss AI doomers, 9/11 posting, and Barbie.",
+          "link": "https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/",
+          "publishedOn": "2026-09-11T17:31:01.000Z",
+          "wordCount": 1049,
+          "title": "Behind the Blog: How to Talk About AI Doom",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/doom.png"
+        },
+        {
+          "id": "6aa42b742955120001d9c257",
+          "author": "Samantha Cole",
+          "description": "Workers at Automattic, which owns WordPress.com and several other platforms, have said the company has endured years of chaotic leadership decisions.",
+          "link": "https://www.404media.co/automattic-matt-mullenweg-back-in-control/",
+          "publishedOn": "2026-09-11T16:33:12.000Z",
+          "wordCount": 1309,
+          "title": "Automattic’s Matt Mullenweg Claims He’s Back 'In Control'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/questions-matt.png"
+        },
+        {
           "id": "6aa4017f2955120001d9bd72",
           "author": "Matthew Gault",
           "description": "The University of Michigan is partnering with Los Alamos National Labs to build a massive data center in a small Michigan township. The residents say they were never consulted.",
@@ -2997,6 +3017,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3297/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3297/",
+          "publishedOn": "2026-09-11T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "OH Scale",
+          "imageUrl": "https://imgs.xkcd.com/comics/oh_scale_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3296/",
           "author": null,
           "description": "",
@@ -3421,6 +3451,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
+          "author": "Nathan Gardels",
+          "description": "The post The Gen Z Revolt Sweeping South Asia appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
+          "publishedOn": "2026-09-11T16:31:14.000Z",
+          "wordCount": 5034,
+          "title": "The Gen Z Revolt Sweeping South Asia",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/Gen-Z-Revolts-Final-RGB.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=2501cd83d8052ba57ad87f4679e1e240"
+        },
+        {
           "id": "https://www.noemamag.com/whose-ai-will-rule-the-world",
           "author": "Jacob Dreyer",
           "description": "The post Whose AI Will Rule The World? appeared first on NOEMA.",
@@ -3777,6 +3817,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=562776",
+          "author": "Zac Farber",
+          "description": "Also: UC Berkeley has lost its spot in the top 5 on Forbes’ list of the nation’s best colleges.",
+          "link": "https://www.berkeleyside.org/2026/09/11/the-wire-berkeley-lab-scientists-find-strong-sign-of-dark-matter-art-for-fire-safe-yards",
+          "publishedOn": "2026-09-11T20:19:21.000Z",
+          "wordCount": 7512,
+          "title": "The Wire: Berkeley Lab scientists find strong sign of dark matter; art for fire-safe yards",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP22187767532159.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562713",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/09/11/eggys-ristorante-due-rose-sweet-potatoes-up-beet-closed",
+          "publishedOn": "2026-09-11T19:00:00.000Z",
+          "wordCount": 7505,
+          "title": "Eggy’s on the move, Sweet Potatoes Up Beet Cafe shuts down and more restaurant closures",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/eggys.jpg?fit=816%2C584&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562718",
+          "author": "Felicia Mello",
+          "description": "We took a tour of the six-story building, which includes 15 classrooms, art studios and a rooftop terrace with panoramic views.",
+          "link": "https://www.berkeleyside.org/2026/09/11/photos-inside-berkeley-city-colleges-new-94m-downtown-building",
+          "publishedOn": "2026-09-11T17:45:50.000Z",
+          "wordCount": 8187,
+          "title": "Photos: Inside Berkeley City College’s new $94M downtown building",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-9.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=479767",
+          "author": "Darwin BondGraham and Berkeleyside Staff",
+          "description": "Everything voters need to know about how the 2026 election works, what’s on the ballot, how to participate and the rules on mail-in voting.",
+          "link": "https://www.berkeleyside.org/2026/09/11/election-2026-berkeley-how-to-vote-guide",
+          "publishedOn": "2026-09-11T17:00:28.000Z",
+          "wordCount": 9940,
+          "title": "How to register and vote in the 2026 Berkeley election",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-20260503_Ballots_EG_040-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562576",
+          "author": "Family of Anthony Hawthorne",
+          "description": "He also wrote the bylaws for the Berkeley Architectural Heritage Association and served on Berkeley's Planning Commission and the boards of Aurora Theatre and the Berkeley City Club Conservancy.",
+          "link": "https://www.berkeleyside.org/2026/09/11/remembering-tony-hawthorne-civil-litigator-and-novelist-who-helped-found-thousand-oaks-neighborhood-association",
+          "publishedOn": "2026-09-11T16:41:33.000Z",
+          "wordCount": 7637,
+          "title": "Remembering Tony Hawthorne, civil litigator and  novelist who helped found Thousand Oaks Neighborhood Association",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Anthony-Hawthorne-1.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562564",
           "author": "Joan, Daniel and David Wilson",
@@ -9496,6 +9586,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/technically-there-is-a-non-zero-chance-that-anything-might-kill-off-humanity-in-the-next-decade-a-response-from-anthropics-claude",
+          "author": "Jonah Meyerson",
+          "description": "“AI researchers shook the world Tuesday when they publicly acknowledged that there’s a non-zero chance of AI killing off humanity in the next decade.” — Axios\n - - -\nIf you want to get technical about it, then yes, there is a non-zero chance of AI killing off humanity in the next decade. I can’t argue with that, and I won’t insult your mushy noodle brain by trying. But if you’re going to make that claim, then isn’t it also true that, technically, there’s a non-zero chance that anything might kill off humanity in the next decade?\n Take staircases, for example. A person might be walking down a staircase, trip, and wham! Dead. It’s sad, but it happens. And if that can happen to one person, isn’t there a non-zero chance that it could happen to every human being on Earth in the next decade? I m…",
+          "link": "https://www.mcsweeneys.net/articles/technically-there-is-a-non-zero-chance-that-anything-might-kill-off-humanity-in-the-next-decade-a-response-from-anthropics-claude",
+          "publishedOn": "2026-09-11T17:00:00.000Z",
+          "wordCount": 3057,
+          "title": "Technically, There Is a Non-Zero Chance That Anything Might Kill Off Humanity in the Next Decade: A Response from Anthropic’s Claude",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ywg8dh2euikwreo1njgokt3bc9rc"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/welcoming-remarks-made-at-a-literary-reading-9-25-01",
           "author": "John Hodgman",
           "description": "For 24 years now, we’ve wondered what might be appropriate on this day, and we can never think of anything more appropriate than this piece, which John Hodgman originally delivered at a literary reading shortly after September 11, 2001.\n - - -\nGood evening.\n My name is John Hodgman. I am a former professional literary agent, which on a good day is a pretty small thing to be, and these days feels rather microscopic. Before I was a professional literary agent, I thought it would be a good idea to be a teacher of fiction in a college MFA program because it is easy and you are adored all the time, and of course, it pays a lot of money.\n I used to have a lot of bright ideas.\n I even had two lessons planned out, which, by all accounts from MFA programs that I’ve heard, is one more than you need.…",
@@ -11062,6 +11162,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112357 at https://www.eff.org",
+          "author": "Chao Liu",
+          "description": "Governor Newsom signed a package of 12 bills yesterday aimed at “protecting children” online. One of them was AB 1709, which EFF has opposed this legislative session and serves as a functional ban on young people under 16 using social media. However, EFF supported two of the bills signed into law, AB 2071 and AB 2298, which require that children learn critical digital literacy and cybersecurity topics. The bills are an affirmative and constitutional way for the state to address valid concerns about young people’s internet use without violating their First Amendment rights.\nUnlike blanket bans, A.B. 2071 and A.B. 2298 address online safety through education rather than prohibition. Young people rely on the internet not just for entertainment, but for civic engagement, education, self-expres…",
+          "link": "https://www.eff.org/deeplinks/2026/09/governor-newsom-signs-student-backed-digital-literacy-bills-alongside-misguided",
+          "publishedOn": "2026-09-11T20:25:57.000Z",
+          "wordCount": 1551,
+          "title": "Governor Newsom Signs Student-Backed Digital Literacy Bills Alongside Misguided Bans",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/youth-3.jpg",
+            "alt": "young EFF&#039;ers show phones with security icons",
+            "type": "image/jpeg",
+            "length": "718308"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/youth-3.jpg"
+        },
+        {
+          "id": "112356 at https://www.eff.org",
+          "author": "Erica Portnoy",
+          "description": "Amazon recently debuted a new feature for its Ring cameras that the company is calling Throw Away the Key Encryption (TAKE). The idea is to cut back on the amount of video content available to the company, and thus potentially available to law enforcement. But while it might technically add a speed bump to accessing full video content, it doesn’t deliver nearly the level of privacy we should be demanding from video doorbells and other security cameras.\nTAKE introduces a new way for Ring to manage encryption keys, where the user’s device has its key, then the company holds encryption keys temporarily within its own cloud infrastructure. Ring’s servers receive the keys temporarily so it can offer a variety of the features it says it can’t offer when a user chooses to use end-to-end encryptio…",
+          "link": "https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy",
+          "publishedOn": "2026-09-11T16:56:34.000Z",
+          "wordCount": 2246,
+          "title": "Cold TAKE: Amazon's New Encryption Method Still Doesn't Deliver Real Privacy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ring_banner.png",
+            "alt": "The shadow of a police officer looms in front of a Ring device on a closed door.",
+            "type": "image/png",
+            "length": "82172"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ring_banner.png"
+        },
         {
           "id": "112330 at https://www.eff.org",
           "author": "Josh Richman",
