@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-11T20:26:09.649Z</updated>
+    <updated>2026-09-12T03:08:18.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update: Berkeley animal shelter arsonist found guilty]]></title>
+        <id>https://www.berkeleyside.org/?p=560435</id>
+        <link href="https://www.berkeleyside.org/2026/09/11/bacs-shelter-reopens-after-arson"/>
+        <updated>2026-09-11T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The fire shut down the Berkeley Animal Care Services facility near Aquatic Park for almost two months. Peter Taraba, 48, was found guilty of arson Wednesday.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governor Newsom Signs Student-Backed Digital Literacy Bills Alongside Misguided Bans]]></title>
         <id>112357 at https://www.eff.org</id>
