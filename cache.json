@@ -683,6 +683,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aa9673fd4d1030001529884",
+          "author": "Jason Koebler",
+          "description": "Three felonies have suddenly become two second-degree misdemeanors.",
+          "link": "https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/",
+          "publishedOn": "2026-09-15T15:43:14.000Z",
+          "wordCount": 1127,
+          "title": "Charges Against Man Who Destroyed 3D-Printed ‘Decoy’ Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-15-at-8.41.20-AM@2x.png"
+        },
+        {
+          "id": "6aa9631ed4d10300015291c2",
+          "author": "Becky Ferreira",
+          "description": "How to make a fly play Doom, Minecraft, Beat Saber, parallel park, trade bitcoin, cut doner kebab, and more.",
+          "link": "https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/",
+          "publishedOn": "2026-09-15T15:28:04.000Z",
+          "wordCount": 1677,
+          "title": "A Digital Fly Brain Has Taken Over the Internet",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/flydoom.png"
+        },
+        {
+          "id": "6aa95318d4d10300014fc719",
+          "author": "Jason Koebler",
+          "description": "“AI agents” now have enough power and permission to be extremely annoying online.",
+          "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+          "publishedOn": "2026-09-15T14:32:06.000Z",
+          "wordCount": 2724,
+          "title": "There’s a 100% Chance AI Agents Are Already Ruining the Internet",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg"
+        },
+        {
           "id": "6aa82b9963e68d0001a1b673",
           "author": "Samantha Cole",
           "description": "New York District Attorney Alvin Bragg said in a press conference on Monday that the sites included 1,200 people’s likenesses in “hyper-realistic” sexual imagery.",
@@ -3381,6 +3411,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-new-form-of-life",
+          "author": "William Haseltine",
+          "description": "The post A New Form Of Life appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-form-of-life",
+          "publishedOn": "2026-09-15T13:44:27.000Z",
+          "wordCount": 9872,
+          "title": "A New Form Of Life",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/FINAL2.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=614321832f0dedbcdb610fe29ed20dfa"
+        },
+        {
           "id": "https://www.noemamag.com/conceding-ai-danger-raises-not-reduces-public-anxiety",
           "author": "Nathan Gardels",
           "description": "The post Conceding AI Danger Raises, Not Reduces, Public Anxiety appeared first on NOEMA.",
@@ -3737,6 +3777,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=562687",
+          "author": "Zac Farber",
+          "description": "The jacuzzi. The dog park. The polygraph machine. Single-family zoning. The term “Asian American.” Indigenous Peoples’ Day. And much, much more.",
+          "link": "https://www.berkeleyside.org/2026/09/15/berkeley-inventions-famous-firsts",
+          "publishedOn": "2026-09-15T15:38:00.000Z",
+          "wordCount": 7957,
+          "title": "All the times Berkeley got there first — from inventions to transformations",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP9210100567.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=551241",
+          "author": "Alex N. Gecan",
+          "description": "Rule changes up for a vote Tuesday could also loosen restrictions on when Berkeley police can use smoke and pepper spray for crowd control.",
+          "link": "https://www.berkeleyside.org/2026/09/15/bpd-reporting-requirements-pepper-spray-tear-gas",
+          "publishedOn": "2026-09-15T12:00:00.000Z",
+          "wordCount": 8166,
+          "title": "City Council could lift tear gas ban, roll back limits on pepper spray",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/09/BI6A0374.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562888",
           "author": "Skylla Mumana",
@@ -6196,36 +6256,6 @@
           "wordCount": 8371,
           "title": "Around Berkeley: Juneteenth festival, Father’s Day, ACCI show on migration and the American Dream",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/freedomandconsent_accigallery.png?fit=2000%2C1500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558588",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A 21-year-old Cal student is dead after being swept to sea in Santa Cruz County, and a UC Berkeley alum has been arrested in China and accused of spying.",
-          "link": "https://www.berkeleyside.org/2026/06/17/the-wire-berkeley-deepfake-expert-is-flummoxed-and-scared-by-what-he-sees",
-          "publishedOn": "2026-06-18T00:15:00.000Z",
-          "wordCount": 7516,
-          "title": "The Wire: Berkeley deepfake expert is flummoxed and scared by what he sees",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/AP19183002872491.jpg?fit=1024%2C689&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558610",
-          "author": "Alex N. Gecan",
-          "description": "Peter Taraba’s dog was taken from him and brought to the shelter the day before he was captured on video starting the fire, police say.",
-          "link": "https://www.berkeleyside.org/2026/06/17/peter-taraba-bacs-arson-suspect-dog-seized",
-          "publishedOn": "2026-06-17T23:55:58.000Z",
-          "wordCount": 7691,
-          "title": "Berkeley animal shelter arson: Suspect’s dog was seized a day before the fire",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0113-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558604",
-          "author": "Alex N. Gecan",
-          "description": "A judge agreed Tuesday to admit him to a mental health diversion program, which could see his charges thrown out, and ordered him released into in-patient treatment and GPS monitoring.",
-          "link": "https://www.berkeleyside.org/2026/06/17/rick-fuze-dj-occult-mental-health-diversion-ror",
-          "publishedOn": "2026-06-17T23:36:25.000Z",
-          "wordCount": 7933,
-          "title": "Ricardo Ruiz, shot by Berkeley police in armed standoff, to be freed after year in jail",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/04/Ricardo-Ruiz.png"
         }
       ]
     },
@@ -6514,21 +6544,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/the-bestiary-grows/pv_bestiary.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/aat",
-          "author": null,
-          "description": "There is no magic wand",
-          "link": "https://aethermug.com/posts/aat?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-06-18T00:38:33.000Z",
-          "wordCount": 32441,
-          "title": "Anatomy of Augmented Thought",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/aat/995069ilsdl.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/aat/995069ilsdl.jpeg"
         }
       ]
     },
@@ -9495,6 +9510,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/you-dont-qualify-for-an-er-visit-until-after-you-attend-this-online-group-class-about-how-to-care-for-your-giant-gaping-wound-at-home",
+          "author": "Elizabeth Simone",
+          "description": "Welcome to your online group health class “Caring for Your Deep Laceration at Home.” We are sorry to hear that your body was badly cut, stabbed, or mauled. This class will teach you simple at-home care techniques you can start using today.\n I see we have a question popping up in the chat. “When can I see an ER doctor?” Great question. The ER can be a busy place, so out of respect for your time and our HMO cost-saving measures, you have been referred to take this class first. After two weeks of caring for your severe medical trauma at home, you may then visit the ER, provided you are still alive.\n Slide 1: “Keeping Your Wound Clean.”\n Whether you were accidentally run through with a bayonet during a Civil War reenactment or slipped on some mayo and fell face down in a mandoline slicer, you …",
+          "link": "https://www.mcsweeneys.net/articles/you-dont-qualify-for-an-er-visit-until-after-you-attend-this-online-group-class-about-how-to-care-for-your-giant-gaping-wound-at-home",
+          "publishedOn": "2026-09-15T12:00:00.000Z",
+          "wordCount": 3108,
+          "title": "You Don’t Qualify for an ER Visit Until After You Attend This Online Group Class About How to Care for Your Giant Gaping Wound at Home",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/81edxpdo8cm6apefju2q79m9dsdt"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/faculty-search-committee-feedback-on-applications-from-founding-figures-of-the-fields-for-tenure-track-positions",
           "author": "Juliet Zhou",
