@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=166816",
+          "author": "Marlowe Starling",
+          "description": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.             \nThe post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+          "publishedOn": "2026-09-16T15:56:27.000Z",
+          "wordCount": 2941,
+          "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=166935",
           "author": "Charlie Wood",
           "description": "The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system.             \nThe post Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ first appeared on Quanta Magazine",
@@ -682,6 +692,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6aaaa4988d9b1700015a6bcb",
+          "author": "Joseph Cox",
+          "description": "The contractors reading real ChatGPT users' prompts; the big out-and-back-in around Automattic; and a16z thinks enshittification isn't real.",
+          "link": "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
+          "publishedOn": "2026-09-16T14:19:51.000Z",
+          "wordCount": 1069,
+          "title": "Podcast: Humans Are Reading Your ChatGPT Conversations",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/maxresdefault-6.jpg"
+        },
         {
           "id": "6aa9b017d4d103000152bb99",
           "author": "Joseph Cox",
@@ -3355,16 +3375,6 @@
           "wordCount": 187,
           "title": "Sports Commentary",
           "imageUrl": "https://imgs.xkcd.com/comics/sports_commentary_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3261/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3261/",
-          "publishedOn": "2026-06-19T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Side Effect",
-          "imageUrl": "https://imgs.xkcd.com/comics/side_effect_2x.png"
         }
       ]
     },
@@ -6236,16 +6246,6 @@
           "wordCount": 7336,
           "title": "Berkeley lawyer Scott Herndon defends victims of serious-injury accidents and sexual abuse",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/ScottHerndon.70-1.jpg?fit=1514%2C1002&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558656",
-          "author": "Vanessa Arredondo",
-          "description": "There are 348 students still on the waitlist for LEARNS, the district-run aftercare program. Officials outlined steps to increase access.",
-          "link": "https://www.berkeleyside.org/2026/06/18/berkeley-afterschool-program-restructure-will-take-time",
-          "publishedOn": "2026-06-18T23:07:07.000Z",
-          "wordCount": 8268,
-          "title": "BUSD’s afterschool program is getting an overhaul, but change will ‘take time’",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Natera_AfterschoolProgram_Washington_250515_03.jpg"
         }
       ]
     },
@@ -9490,6 +9490,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-juvenile-snoop-dogg-and-lil-jon-regarding-my-recently-diagnosed-degenerative-knee-condition",
+          "author": "Meg Reid",
+          "description": "Dear Juvenile, Mr. Dogg, and Mr. Jon,\n I have just returned from an orthopedist and have concluded that my newly diagnosed degenerative knee condition could only have been caused by the numerous demands you and your colleagues made of my generation to do some variation of dropping it like it was hot, backing it up, and/or getting low.\n I am writing in hopes of drawing your attention to the human cost of your flippant commands. Imagine my shock at learning that I already have bone-on-bone osteoarthritis in my right knee, and signs of it in my left. Trying to find an explanation for these results in someone my age, my doctor asked if I had been a college athlete, clearly missing the Bugles corn snack crumbs on my shirt and, for some reason, shoes.\n Had I been a college athlete? I don’t know,…",
+          "link": "https://www.mcsweeneys.net/articles/an-open-letter-to-juvenile-snoop-dogg-and-lil-jon-regarding-my-recently-diagnosed-degenerative-knee-condition",
+          "publishedOn": "2026-09-16T12:00:00.000Z",
+          "wordCount": 3153,
+          "title": "An Open Letter to Juvenile, Snoop Dogg, and Lil Jon Regarding My Recently Diagnosed Degenerative Knee Condition",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sm44z6qzzif3csj83pg2iuq8zljj"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
           "author": "Pete Reynolds",
