@@ -73,6 +73,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167125",
+          "author": "Steven Strogatz and Janna Levin",
+          "description": "Jonathan Halliwell explains how quantum decoherence is key to understanding how we transition from a world with a wave-like nature of matter and energy to the classical macroscopic world that we’re used to.            \nThe post Where Does the Quantum World End and Ours Begin? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+          "publishedOn": "2026-09-17T15:09:33.000Z",
+          "wordCount": 9964,
+          "title": "Where Does the Quantum World End and Ours Begin?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E8-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=166816",
           "author": "Marlowe Starling",
           "description": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.             \nThe post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
@@ -692,6 +702,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6aac058d27d36800017ab8e8",
+          "author": "Joseph Cox",
+          "description": "Samuel Tunick allegedly wiped his GrapheneOS phone before CBP officials could search it, in what has become a high profile civil liberties case. Now Georgia State University has rescinded a job offer to him.",
+          "link": "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
+          "publishedOn": "2026-09-17T15:30:38.000Z",
+          "wordCount": 1772,
+          "title": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/tunick-letter.png"
+        },
+        {
+          "id": "6aabfd7c27d36800017aac4b",
+          "author": "Samantha Cole",
+          "description": "Guitar Center's 'Open for Legends' contest page was seemingly unmoderated for hours on Wednesday.",
+          "link": "https://www.404media.co/ed-sheeran-macklemore-open-for-legends-contest-guitar-center/",
+          "publishedOn": "2026-09-17T15:01:31.000Z",
+          "wordCount": 1443,
+          "title": "Contest to Open for Ed Sheeran Flooded With Free Palestine Videos and Fart Memes",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Berlin_Songwriter_Press_Conference_18054816734687-1.jpg"
+        },
+        {
+          "id": "6aaadeb98d9b1700015a86f0",
+          "author": "Emanuel Maiberg",
+          "description": "A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.",
+          "link": "https://www.404media.co/spotify-ai-music-scam/",
+          "publishedOn": "2026-09-17T13:33:52.000Z",
+          "wordCount": 956,
+          "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/02.jpg"
+        },
         {
           "id": "6aaaa4988d9b1700015a6bcb",
           "author": "Joseph Cox",
@@ -3768,6 +3808,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=562799",
+          "author": "Berkeleyside Staff",
+          "description": "A running list of town halls and debates to learn about who’s running for Berkeley City Council, school board, rent board and more.",
+          "link": "https://www.berkeleyside.org/2026/09/17/berkeley-2026-election-candidate-forums",
+          "publishedOn": "2026-09-17T16:00:00.000Z",
+          "wordCount": 8364,
+          "title": "Where do I watch Berkeley’s 2026 election candidate forums?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-19.png?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=480156",
+          "author": "Jose Fermoso",
+          "description": "An independent inquiry found that Joel Young inappropriately touched fellow board member Sarah Syed during a meeting last fall. Thanks to redistricting, Young is now running for Syed’s Oakland seat.",
+          "link": "https://www.berkeleyside.org/2026/09/17/joel-young-ac-transit-investigation-gender-based-harassment-sarah-syed",
+          "publishedOn": "2026-09-17T15:00:00.000Z",
+          "wordCount": 8552,
+          "title": "AC Transit director subjected to ‘unwanted physical contact,’ investigation finds",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Young-and-Shaw-from-AC-Transit-1-scaled.png?fit=2560%2C1712&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563080",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include the Elmwood Wine Walk and a baby gear swap.",
+          "link": "https://www.berkeleyside.org/2026/09/17/around-berkeley-old-time-music-convention-coastal-cleanup-day-artisanal-comedy-show",
+          "publishedOn": "2026-09-17T12:35:00.000Z",
+          "wordCount": 8953,
+          "title": "Around Berkeley: Old Time Music Convention, Coastal Cleanup Day, ‘artisanal’ comedy show",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/small_batch_artisanal_comedy-1.png?fit=2000%2C1500&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=563040",
           "author": "Momo Chang",
           "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
@@ -6593,6 +6663,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WCh4tfSqXFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WCh4tfSqXFc",
+          "publishedOn": "2026-09-17T14:00:09.000Z",
+          "wordCount": null,
+          "title": "Los Mirlos: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/VR2R27_ZuBc",
           "author": null,
           "description": "Erykah Badu and The Alchemist's 'Before the World Blows' and Saul Williams' 'Leap Life,' are “dead fresh” albums. NPR Music's Rodney Carmichael explains how ...",
@@ -9207,6 +9287,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=81003",
+          "author": "Jessica Hylton",
+          "description": "These vegan sourdough chocolate chip cookies are so popular in my household that we always have a bag of these frozen cookie dough balls in the freezer. They are the most tender, chewy cookies with a subtle sourdough tang that'll have everyone asking, \"What's the secret ingredient?\" Dipped in a cool glass of plant-based milk, they are 100% about to change your cookie game forever.",
+          "link": "https://jessicainthekitchen.com/sourdough-discard-chocolate-chip-cookies/",
+          "publishedOn": "2026-09-17T14:00:00.000Z",
+          "wordCount": 13560,
+          "title": "Sourdough Discard Chocolate Chip Cookies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/08/Sourdough-Discard-Chocolate-Chip-Cookies9379.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=80509",
           "author": "Jessica Hylton",
           "description": "This easy ratatouille recipe is one of the best ways to enjoy summer's finest veggies. Baked layers of tender eggplant, squash, and tomato brushed with a delicate herb oil sit atop a rich, tangy tomato sauce, just like the French do it. Sounds pretty dreamy, right? Head to the farmers market and get started!",
@@ -9540,6 +9630,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/sculpture-weather",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/sculpture-weather",
+          "publishedOn": "2026-09-17T16:00:00.000Z",
+          "wordCount": 2460,
+          "title": "Sculpture Weather",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/tisbk8chkux5u67dqehki07s3jie"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/rumpelstiltskin-isnt-your-typical-fertility-startup",
+          "author": "Mary Spencer",
+          "description": "For some, having a baby can be prohibitively expensive, but the cost of living shouldn’t mean that starting a family is just a fairy tale. That’s where Rumpelstiltskin comes in.\n Rumpelstiltskin isn’t your typical fertility startup. Rumpelstiltskin is here for your child.\n Our founders took years of experience in casino design and timeshare sales and swaddled them together into a first-of-its-kind solution that asks: Do poor people deserve to have kids?\n The business is revolutionary, but the concept isn’t. It’s a simple exchange introduced by German academics that dates back to the early nineteenth century. We’ll cover the complete cost of IVF to help you build your family—yes, really—and then, on your child’s first birthday, we might take your baby.\n Rumpelstiltskin is the IVF solution t…",
+          "link": "https://www.mcsweeneys.net/articles/rumpelstiltskin-isnt-your-typical-fertility-startup",
+          "publishedOn": "2026-09-17T12:00:00.000Z",
+          "wordCount": 2809,
+          "title": "Rumpelstiltskin Isn’t Your Typical Fertility Startup",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/o9x7vkby1bmwq98ln8iysvbdikka"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/ryan-lewiss-silence-on-the-macklemore-situation-is-deafening",
           "author": "Sam E. Sutin",
@@ -11115,6 +11225,22 @@
           "id": "112348 at https://www.eff.org",
           "author": "Paige Collings",
           "description": "Since its integration into our digital world, social media has played a pivotal role in youth organizing and social mobilization. Yet, people’s access to these platforms is increasingly coming under threat from courts and legislatures under the guise of protecting young people online—presenting a significant hindrance to youth organizing.  \nIn a major recent example, Meta settled in a lawsuit with 52 states and territories regarding the use of Instagram and Facebook by young people. The settlement will require Meta, and pressure other non-Meta owned platforms like TikTok and YouTube, to embed age gating practices into every product while also requiring restrictions on the accounts of people under-18, such as a two-hour daily time limit and content restrictions.   \nYouth Power on Social Med…",
+          "link": "https://www.eff.org/deeplinks/2026/09/meta-settlement-yet-another-example-online-youth-organizing-under-threat",
+          "publishedOn": "2026-09-16T16:04:50.000Z",
+          "wordCount": 1452,
+          "title": "How the Meta Settlement Silences Youth Activism",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png",
+            "alt": "A hand holding a cellphone showing a verification screen and ACCESS DENIED in the background.",
+            "type": "image/png",
+            "length": "536728"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
+        },
+        {
+          "id": "112348 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "Since its integration into our digital world, social media has played a pivotal role in youth organizing and social mobilization. Yet, people’s access to these platforms is increasingly coming under threat from courts and legislatures under the guise of protecting young people online—presenting a significant hindrance to youth organizing.  \nIn a major recent example, Meta settled in a lawsuit with 52 states and territories regarding the use of Instagram and Facebook by young people. The settlement will require Meta, and pressure other non-Meta owned platforms like TikTok and YouTube, to embed age gating practices into every product while also requiring restrictions on the accounts of people under-18, such as a two-hour daily time limit and content restrictions.   \nYouth Power on Social Med…",
           "link": "https://www.eff.org/how-the-meta-settlement-silences-youth-activism",
           "publishedOn": "2026-09-16T16:04:50.000Z",
           "wordCount": 1457,
@@ -12616,6 +12742,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/why-arab-armies-dont-win-wars/",
+          "author": null,
+          "description": "Alex Chalmers reviews Armies of Sand by Kenneth Pollack.",
+          "link": "https://worksinprogress.co/issue/why-arab-armies-dont-win-wars/",
+          "publishedOn": "2026-09-17T13:26:53.000Z",
+          "wordCount": 1317,
+          "title": "Why Arab armies don’t win wars",
+          "imageUrl": null
+        },
         {
           "id": "https://worksinprogress.co/issue/do-people-prefer-traditional-architecture/",
           "author": null,
