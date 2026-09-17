@@ -703,6 +703,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aac287327d36800017aca3d",
+          "author": "Jason Koebler",
+          "description": "Flock ran searches for “coexist bumper sticker,” “white truck with a trump sticker,” and “Star of David,” apparently to demonstrate what cops shouldn't search for.",
+          "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
+          "publishedOn": "2026-09-17T18:07:20.000Z",
+          "wordCount": 2116,
+          "title": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-17-at-10.54.32-AM@2x.png"
+        },
+        {
           "id": "6aac058d27d36800017ab8e8",
           "author": "Joseph Cox",
           "description": "Samuel Tunick allegedly wiped his GrapheneOS phone before CBP officials could search it, in what has become a high profile civil liberties case. Now Georgia State University has rescinded a job offer to him.",
@@ -2660,6 +2670,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8402113",
+          "author": "Autumn Billings",
+          "description": "The Trump administration has reached record-breaking levels of immigration arrests amid accusations of medical neglect, including among pregnant women.",
+          "link": "https://reason.com/2026/09/17/ices-missing-miscarriage-data-leave-questions-about-pregnancy-care-in-detention/",
+          "publishedOn": "2026-09-17T19:16:39.000Z",
+          "wordCount": null,
+          "title": "ICE's Missing Miscarriage Data Leave Questions About Pregnancy Care in Detention",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8401964",
           "author": "Jacob Sullum",
           "description": "After David Streever castigated ICE's acting director in an email, investigators delivered a \"warning notice\" saying he \"may be in violation of federal law.\"",
@@ -2966,6 +2987,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/spudcell-adamala",
+          "author": "Asimov Press",
+          "description": "Our first podcast!",
+          "link": "https://www.asimov.press/p/spudcell-adamala",
+          "publishedOn": "2026-09-17T20:28:52.000Z",
+          "wordCount": null,
+          "title": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/216205151/38cb31523c4180ce2c4d9e0c86ef2530.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.asimov.press/p/back",
           "author": "Asimov Press",
@@ -3451,6 +3488,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-end-of-upward-mobility",
+          "author": "Branko Milanović",
+          "description": "The post The End Of Upward Mobility appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-end-of-upward-mobility",
+          "publishedOn": "2026-09-17T16:25:44.000Z",
+          "wordCount": 7440,
+          "title": "The End Of Upward Mobility",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/TheEndOfUpwardMobility-Illustration.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C0%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=47e0f7d4b84d384e472d9b32d4ec71d8"
+        },
+        {
           "id": "https://www.noemamag.com/a-new-form-of-life",
           "author": "William Haseltine",
           "description": "The post A New Form Of Life appeared first on NOEMA.",
@@ -3807,6 +3854,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563114",
+          "author": "Calliope Arkilic",
+          "description": "A period of unprecedented price volatility is reshaping the economics of restaurants and farms. We traced the fallout through a single dish.",
+          "link": "https://www.berkeleyside.org/2026/09/17/cafe-colucci-vegan-combo-restaurant-economics-tariffs",
+          "publishedOn": "2026-09-17T19:00:00.000Z",
+          "wordCount": 10488,
+          "title": "How tariffs, war, and supply chains collide in Cafe Colucci’s vegan combo",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-CafeColucci_EBNosh-16.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562799",
           "author": "Berkeleyside Staff",
@@ -6562,16 +6619,6 @@
           "wordCount": 4354,
           "title": "Meera Sodha’s recipe for spinach, pea and cheddar frittata | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/1577adafba5281d4885fd5d52e0a362329c035db/245_0_3467_2771/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b53a1b57537dafafa323b638c9170dfa"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "This cool summer dish can be easily enhanced with a range of store-cupboard staples\nWhat’s your favourite hot weather food? Mine’s gazpacho. I’m joking – gazpacho’s lovely, but cold noodles are my top pick because, in the summer, they meet me exactly where I am in both the cooking and the eating. They don’t need much by way of cooking, and they can be dressed and paired with many a store-cupboard ingredient – in today’s case, tahini, miso and sesame oil. Best of all, cooling the noodles shocks the starches, which makes them firmer and gorgeously “QQ”, a Taiwanese term used to describe food that’s delightfully bouncy and springy. Which personally, is how I’d like to feel all summer long.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/jun/20/lime-sesame-cold-noodles-miso-meatballs-vegan-recipe-meera-sodha",
-          "publishedOn": "2026-06-20T05:00:53.000Z",
-          "wordCount": 4432,
-          "title": "Meera Sodha’s vegan recipe for lime and sesame cold noodles with miso meatballs | The new vegan",
-          "imageUrl": "https://i.guim.co.uk/img/media/f7555c2ec55e978633d4cde2b94e859f69de0c25/242_1131_3234_2588/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d6fb59ca7df83dbb232ab9bcb372fa6"
         }
       ]
     },
@@ -9631,6 +9678,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/backrooms-but-for-introverts",
+          "author": "Julie Klausner",
+          "description": "Thanks, everyone, for joining me on this Zoom pitch. I know we’re all in the same city, but it’s really hard for me to leave the house.\n Studio liaisons, assistants, third wives of executives who now work as development consultants, and everyone else on the line: You know Backrooms? It was such a smash hit that kids actually put their phones away and swarmed movie theaters to sit rapt in the dark, marveling at scene after scene of Chiwetel Ejiofor wandering around a labyrinth of carpeted interiors with no windows or natural light, dodging piles of laundry for an hour and forty-five minutes. And they walked away thinking, “That was the scariest shit I’ve ever seen in my life.”\n Well, not me. I thought those rooms looked cozy. See, I grew up in spaces like the ones in that movie: allergists’…",
+          "link": "https://www.mcsweeneys.net/articles/backrooms-but-for-introverts",
+          "publishedOn": "2026-09-17T17:20:00.000Z",
+          "wordCount": 3647,
+          "title": "Backrooms, but for Introverts",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/i138htn7o4qb5mb7wcp6491sddjc"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/sculpture-weather",
           "author": "Ali Fitzgerald",
           "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
@@ -11157,6 +11214,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112371 at https://www.eff.org",
+          "author": "Aaron Mackey",
+          "description": "A California law that prohibits teens from receiving recommended social media content from other social media users violates their First Amendment rights, EFF argued this week.\nThe case, Meta v. Bonta, challenges SB 976, which requires that teen social media users get their parents’ permission before seeing other users’ recommended speech on their social media feeds. The legal challenge to SB 976 has largely centered on how the law violates social media services’ First Amendment rights to curate user-generated content and present it as they see fit.\nBut the friend-of-of the-court brief EFF filed along with the Center for Democracy & Technology and the Wikimedia Foundation shows that the law violates teen users’ First Amendment rights, too.\n“SB 976 frustrates young people’s ability to use t…",
+          "link": "https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights",
+          "publishedOn": "2026-09-17T19:43:17.000Z",
+          "wordCount": 1569,
+          "title": "California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/youth-3.jpg",
+            "alt": "young EFF&#039;ers show phones with security icons",
+            "type": "image/jpeg",
+            "length": "718308"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/youth-3.jpg"
+        },
         {
           "id": "112368 at https://www.eff.org",
           "author": "Joe Mullin",
