@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-16T20:52:18.873Z</updated>
+    <updated>2026-09-17T03:25:56.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victory! Appeals Court Rejects Expansive New Copyright Claim]]></title>
+        <id>112368 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim"/>
+        <updated>2026-09-16T22:47:35.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Court of Appeals for the Ninth Circuit handed internet users and programmers a big win today, by rejecting an attempt to stretch a narrow provision of the Digital Millennium Copyright Act (DMCA) into a new source of copyright liability.  
+The case involves Section 1202 of the DMCA, which prohibits intentionally removing copyright management information (CMI) like an author’s name or a copyright notice, from a copyrighted work. Open AI and Microsoft used code from Github as part of the training data for their LLMs, along with billions of other works. A group of anonymous Github contributors sued, alleging the new code coming out of these LLMs was similar to theirs—but with the CMI stripped out.  
+The Ninth Circuit correctly agreed with what we said in our brief: removing copyright …]]></summary>
+        <author>
+            <name>Joe Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Federal Judge Enjoins DHS From Threatening To Prosecute a Critic for Constitutionally Protected Speech]]></title>
+        <id>https://reason.com/?p=8401964</id>
+        <link href="https://reason.com/2026/09/16/a-federal-judge-enjoins-dhs-from-threatening-to-prosecute-a-critic-for-constitutionally-protected-speech/"/>
+        <updated>2026-09-16T21:20:43.000Z</updated>
+        <summary type="html"><![CDATA[After David Streever castigated ICE's acting director in an email, investigators delivered a "warning notice" saying he "may be in violation of federal law."]]></summary>
+        <author>
+            <name>Jacob Sullum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Itani takes the helm at Delage, Berkeley gets another matcha option, and a coffee pop-up lands on Piedmont]]></title>
+        <id>https://www.berkeleyside.org/?p=563040</id>
+        <link href="https://www.berkeleyside.org/2026/09/16/delage-55-coffee-juxi-cere-tea-skula-open"/>
+        <updated>2026-09-16T20:58:29.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swimmers have rare, terrifying encounter with Blondie the sea lion near Albany Bulb]]></title>
         <id>https://www.berkeleyside.org/?p=563025</id>
@@ -184,6 +216,15 @@ Read more »]]></summary>
         <summary type="html"><![CDATA[Camp residents said fewer than 20 people had been moved. The longstanding Northwest Berkeley camp remained largely intact.]]></summary>
         <author>
             <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer]]></title>
+        <id>https://xkcd.com/3299/</id>
+        <link href="https://xkcd.com/3299/"/>
+        <updated>2026-09-16T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10932,55 +10973,6 @@ What’s your favourite hot weather food? Mine’s gazpacho. I’m joking – ga
         <summary type="html"><![CDATA[This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).]]></summary>
         <author>
             <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blackberry Cobbler]]></title>
-        <id>https://jessicainthekitchen.com/?p=75746</id>
-        <link href="https://jessicainthekitchen.com/blackberry-cobbler/"/>
-        <updated>2026-06-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You're going to be making this blackberry cobbler recipe all summer long. A fluffy batter topping surrounds juicy, bubbling blackberries in this simple, yet classic dessert (or breakfast!).]]></summary>
-        <author>
-            <name>Jessica Hylton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsung Heroes of Fatherhood]]></title>
-        <id>https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood</id>
-        <link href="https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood"/>
-        <updated>2026-06-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Brandon Jackson, who not only found his wallet without blaming his entire family for losing it, but also found it in the pants he was wearing.
- Eric Hughes, who, while listening to his wife’s entire twenty-two-minute story about how rude Lauren always is at book club, did not offer a suggestion for how to fix the problem. He just nodded and said, “Wow, unbelievable,” at all the right moments.
- Jeff Hanover, who, after witnessing his wife receive breakfast in bed, a dozen roses, several handmade cards, and a satin robe for Mother’s Day, was given an expired coupon to Dick’s Sporting Goods and a mug bearing the likeness of The Rock for Father’s Day
- Brad Fisher, who parked a full half block away when dropping his daughter off at volleyball practice so that her peers would not see his “lame f…]]></summary>
-        <author>
-            <name>Wendi Aarons and Johanna Gohmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents]]></title>
-        <id>112148 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents"/>
-        <updated>2026-06-19T09:45:31.000Z</updated>
-        <summary type="html"><![CDATA[This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. 
-The UK government continues to falsely characterize this policy as a necessary response to growing concerns about online harms for young people. In reality, much like the Online Safety Act, it will cause more harm than it will prevent. 
-Users of all ages are burdened with proving their age before accessing content, with social media platforms such as Snapchat, TikTok, YouTube, Instagram, Facebook, and X included in the ban. There remains no reliable, privacy-preserving method of verifying the age of every internet user and methods vary from one platform to the next.
-Young people wi…]]></summary>
-        <author>
-            <name>Paige Collings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border]]></title>
-        <id>112139 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border"/>
-        <updated>2026-06-19T09:35:31.000Z</updated>
-        <summary type="html"><![CDATA[This week, EFF joined Foxglove, Human Rights Watch, and 60 other organizations in writing to the UK’s Minister of State for Border Security and Asylum, Alex Norris, raising serious concern about the Home Office’s decision to deploy Facial Age Estimation (FAE) to assess asylum-seeking children from 2027. 
-The letter points to four key concerns:
-Discrimination 
-As with most face estimation and recognition tools, there is ongoing bias in the deployment of these technologies. With FAE, many have highlighted its baked-in failures and discrimination, particularly in relation to women and people of color. Evidence shows that FAE is most accurate for estimating the ages of Eastern European men, but even then it consistently produces errors. The Home Office itself noted “that FAE performance can va…]]></summary>
-        <author>
-            <name>Paige Collings</name>
         </author>
     </entry>
     <entry>

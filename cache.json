@@ -2630,6 +2630,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8401964",
+          "author": "Jacob Sullum",
+          "description": "After David Streever castigated ICE's acting director in an email, investigators delivered a \"warning notice\" saying he \"may be in violation of federal law.\"",
+          "link": "https://reason.com/2026/09/16/a-federal-judge-enjoins-dhs-from-threatening-to-prosecute-a-critic-for-constitutionally-protected-speech/",
+          "publishedOn": "2026-09-16T21:20:43.000Z",
+          "wordCount": null,
+          "title": "A Federal Judge Enjoins DHS From Threatening To Prosecute a Critic for Constitutionally Protected Speech",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8400915",
           "author": "Matthew Petti",
           "description": "While the Treasury forces money changers to report on suspected immigrants, Homeland Security is having police pull people over for suspicious transactions.",
@@ -3006,6 +3017,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3299/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3299/",
+          "publishedOn": "2026-09-16T04:00:00.000Z",
+          "wordCount": 178,
+          "title": "Summer",
+          "imageUrl": "https://imgs.xkcd.com/comics/summer_2x.png"
+        },
         {
           "id": "https://xkcd.com/3298/",
           "author": null,
@@ -3767,6 +3788,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563040",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/09/16/delage-55-coffee-juxi-cere-tea-skula-open",
+          "publishedOn": "2026-09-16T20:58:29.000Z",
+          "wordCount": 7192,
+          "title": "Itani takes the helm at Delage, Berkeley gets another matcha option, and a coffee pop-up lands on Piedmont",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/delage_nicola-parisi_fall-2026_0129.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563025",
           "author": "Kate Darby Rauch",
@@ -9495,16 +9526,6 @@
           "wordCount": 12103,
           "title": "White Bean Soup",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2020/12/035.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=75746",
-          "author": "Jessica Hylton",
-          "description": "You're going to be making this blackberry cobbler recipe all summer long. A fluffy batter topping surrounds juicy, bubbling blackberries in this simple, yet classic dessert (or breakfast!).",
-          "link": "https://jessicainthekitchen.com/blackberry-cobbler/",
-          "publishedOn": "2026-06-19T14:00:00.000Z",
-          "wordCount": 11858,
-          "title": "Blackberry Cobbler",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Blackberry-Cobbler-14.jpg"
         }
       ]
     },
@@ -11039,16 +11060,6 @@
           "wordCount": 2877,
           "title": "Clarence Thomas Offers an Originalist Reading of the TGI Fridays Menu",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ivmfzvmg8joyjmj4einf0zdo7oww"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood",
-          "author": "Wendi Aarons and Johanna Gohmann",
-          "description": "Brandon Jackson, who not only found his wallet without blaming his entire family for losing it, but also found it in the pants he was wearing.\n Eric Hughes, who, while listening to his wife’s entire twenty-two-minute story about how rude Lauren always is at book club, did not offer a suggestion for how to fix the problem. He just nodded and said, “Wow, unbelievable,” at all the right moments.\n Jeff Hanover, who, after witnessing his wife receive breakfast in bed, a dozen roses, several handmade cards, and a satin robe for Mother’s Day, was given an expired coupon to Dick’s Sporting Goods and a mug bearing the likeness of The Rock for Father’s Day\n Brad Fisher, who parked a full half block away when dropping his daughter off at volleyball practice so that her peers would not see his “lame f…",
-          "link": "https://www.mcsweeneys.net/articles/unsung-heroes-of-fatherhood",
-          "publishedOn": "2026-06-19T12:00:00.000Z",
-          "wordCount": 2728,
-          "title": "Unsung Heroes of Fatherhood",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gmevh4p92xm63x3xkuuah2ihw9jl"
         }
       ]
     },
@@ -11057,6 +11068,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112368 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "The U.S. Court of Appeals for the Ninth Circuit handed internet users and programmers a big win today, by rejecting an attempt to stretch a narrow provision of the Digital Millennium Copyright Act (DMCA) into a new source of copyright liability.  \nThe case involves Section 1202 of the DMCA, which prohibits intentionally removing copyright management information (CMI) like an author’s name or a copyright notice, from a copyrighted work. Open AI and Microsoft used code from Github as part of the training data for their LLMs, along with billions of other works. A group of anonymous Github contributors sued, alleging the new code coming out of these LLMs was similar to theirs—but with the CMI stripped out.  \nThe Ninth Circuit correctly agreed with what we said in our brief: removing copyright …",
+          "link": "https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim",
+          "publishedOn": "2026-09-16T22:47:35.000Z",
+          "wordCount": 1683,
+          "title": "Victory! Appeals Court Rejects Expansive New Copyright Claim",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/dmca-copyright-1.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "9133"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/dmca-copyright-1.png"
+        },
         {
           "id": "112366 at https://www.eff.org",
           "author": "Karen Gullo",
@@ -12602,38 +12629,6 @@
           "wordCount": 606,
           "title": "EFFecting Change Site Banner 7.23.26",
           "imageUrl": "https://www.eff.org/files/eff-og.png"
-        },
-        {
-          "id": "112148 at https://www.eff.org",
-          "author": "Paige Collings",
-          "description": "This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. \nThe UK government continues to falsely characterize this policy as a necessary response to growing concerns about online harms for young people. In reality, much like the Online Safety Act, it will cause more harm than it will prevent. \nUsers of all ages are burdened with proving their age before accessing content, with social media platforms such as Snapchat, TikTok, YouTube, Instagram, Facebook, and X included in the ban. There remains no reliable, privacy-preserving method of verifying the age of every internet user and methods vary from one platform to the next.\nYoung people wi…",
-          "link": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
-          "publishedOn": "2026-06-19T09:45:31.000Z",
-          "wordCount": 1934,
-          "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
-            "alt": "two kids on a huge laptop, spied on by an eye in magnifying glass",
-            "type": "image/png",
-            "length": "1249014"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png"
-        },
-        {
-          "id": "112139 at https://www.eff.org",
-          "author": "Paige Collings",
-          "description": "This week, EFF joined Foxglove, Human Rights Watch, and 60 other organizations in writing to the UK’s Minister of State for Border Security and Asylum, Alex Norris, raising serious concern about the Home Office’s decision to deploy Facial Age Estimation (FAE) to assess asylum-seeking children from 2027. \nThe letter points to four key concerns:\nDiscrimination \nAs with most face estimation and recognition tools, there is ongoing bias in the deployment of these technologies. With FAE, many have highlighted its baked-in failures and discrimination, particularly in relation to women and people of color. Evidence shows that FAE is most accurate for estimating the ages of Eastern European men, but even then it consistently produces errors. The Home Office itself noted “that FAE performance can va…",
-          "link": "https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border",
-          "publishedOn": "2026-06-19T09:35:31.000Z",
-          "wordCount": 1617,
-          "title": "EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/whyfacebanner.png",
-            "alt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
-            "type": "image/png",
-            "length": "864443"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png"
         }
       ]
     },
