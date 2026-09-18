@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-17T20:56:52.769Z</updated>
+    <updated>2026-09-18T03:11:55.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices]]></title>
+        <id>112374 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices"/>
+        <updated>2026-09-18T01:16:10.000Z</updated>
+        <summary type="html"><![CDATA[With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face incident and the many others reported in its aftermath. As they consider potentially regulating frontier AI, they should focus any new legislation on the immediate, demonstrated risks from those incidents. 
+Post-incident reports show that the Hugging Face incident could have been mitigated or prevented by following longstanding cybersecurity best practices, like stronger sandboxing and monitoring. Any new legislation should focus on closing gaps in existing law to prevent AI companies from taking unreasonable risks with the public's security.
+When an AI developer or deployer runs a test or a task that has a high like…]]></summary>
+        <author>
+            <name>Jacob Hoffman-Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Event mocking Charlie Kirk at UC Berkeley draws scrutiny from top State Department official]]></title>
+        <id>https://www.berkeleyside.org/?p=563143</id>
+        <link href="https://www.berkeleyside.org/2026/09/17/the-wire-event-mocking-charlie-kirk-at-uc-berkeley-draws-scrutiny-from-top-state-department-official"/>
+        <updated>2026-09-18T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: A Berkeley Law professor is also a cycling world champion, and a profile of Tokyo Fish Market.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wife of UC Berkeley scholar detained in China asks Trump for help]]></title>
+        <id>https://www.berkeleyside.org/?p=563145</id>
+        <link href="https://www.berkeleyside.org/2026/09/17/wife-of-uc-berkeley-scholar-detained-in-china-asks-trump-for-help"/>
+        <updated>2026-09-17T22:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Min Zin, a scholar of Myanmar politics, has been detained in China for over three months. His wife is urging the president to secure his release when he meets with Xi Jinping next week.]]></summary>
+        <author>
+            <name>Didi Tang and Fu Ting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['They Kept Us Like Animals': Afghan Woman Deported to Africa By Trump Speaks Out]]></title>
+        <id>https://reason.com/?p=8402147</id>
+        <link href="https://reason.com/2026/09/17/they-kept-us-like-animals-afghan-woman-deported-to-africa-by-trump-speaks-out/"/>
+        <updated>2026-09-17T22:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Farzana’s fiancé was a U.S. partner in Afghanistan. She was loaded on a plane full of men and sent to another country with no papers or job prospects.]]></summary>
+        <author>
+            <name>Beth Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft]]></title>
+        <id>6aac603827d36800017ad995</id>
+        <link href="https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/"/>
+        <updated>2026-09-17T22:01:43.000Z</updated>
+        <summary type="html"><![CDATA["Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions."]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["SpudCell will replicate continuously by 2030" | Kate Adamala]]></title>
         <id>https://www.asimov.press/p/spudcell-adamala</id>
@@ -11143,16 +11195,6 @@ The post A Dark Dimension Could Link Two of the Universe’s Great Unknowns firs
         <updated>2026-06-22T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger]]></title>
-        <id>6a357aaff426330001dd337e</id>
-        <link href="https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/"/>
-        <updated>2026-06-20T13:00:39.000Z</updated>
-        <summary type="html"><![CDATA[A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
         </author>
     </entry>
     <entry>
