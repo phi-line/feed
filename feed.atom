@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-18T20:24:09.109Z</updated>
+    <updated>2026-09-19T03:08:16.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EFF Statement on California Governor's Executive Order on AI]]></title>
+        <id>112378 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai"/>
+        <updated>2026-09-18T23:25:44.000Z</updated>
+        <summary type="html"><![CDATA[California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real anxiety about the risks of artificial intelligence, and as an organization that works to ensure technology empowers people, EFF welcomes this order as a way for the state of California to lead a much-needed dialogue that addresses these concerns. 
+Nonetheless, the most immediate and current concerns with this technology are not about sci-fi scenarios concerning rogue super-intelligence. They are happening right now through biased algorithmic decision-making for employment or government benefits, AI-powered surveillance systems such as Flock cameras, and artificially inflated personalized pricing.…]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Limit What Apple’s New Siri AI Can Access in iOS 27]]></title>
+        <id>112375 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27"/>
+        <updated>2026-09-18T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you invoke with a verbal command or a button press to a whole app. This update comes with a slew of privacy complications, but you can take some control over what this new Siri can access and use. 
+There’s no denying that the new version of Siri is far more powerful than it used to be, and arguably more useful at surfacing details on your phone. But that comes at the cost of deeper access. Once enabled, Siri and Spotlight are combined, unifying the interface. Where you may have once just pulled down on t…]]></summary>
+        <author>
+            <name>Thorin Klosowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs]]></title>
+        <id>112377 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees"/>
+        <updated>2026-09-18T21:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS, operate on a straightforward assumption: the content at each end of a conversation is private to the participants in the conversation. End-to-end encryption helps provide the mathematical guarantees that the companies who operate these messaging platforms cannot access the contents of messages. But there’s no way to guarantee what happens once the message arrives on a phone. As more devices and services introduce more artificial intelligence (AI) features into messaging apps, that line begins to blur. 
+When AI features are computed entirely on device, it’s less concerning. Yet sometimes the computing requirements are heavy enough that the computation has to be done on a company server. Tech companies tell us th…]]></summary>
+        <author>
+            <name>Erica Portnoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daruma Sushi changing hands, and Puerto Rican Street Cuisine shut down by fire]]></title>
+        <id>https://www.berkeleyside.org/?p=563177</id>
+        <link href="https://www.berkeleyside.org/2026/09/18/puerto-rican-street-cuisine-daruma-sushi-oeste-closed"/>
+        <updated>2026-09-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond and beyond.]]></summary>
+        <author>
+            <name>Momo Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Certain music hits you with a force of nature.]]></title>
         <id>https://www.youtube.com/shorts/htBSUv9iWyM</id>
@@ -123,6 +166,15 @@ The post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quan
         <summary type="html"><![CDATA[Modest changes amending regulations from 2024’s Measure BB will support affordable housing providers and address rare but significant loopholes.]]></summary>
         <author>
             <name>Cecilia Lunaparra, Soli Alpert and Alfred Twu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tyrannosaurus]]></title>
+        <id>https://xkcd.com/3300/</id>
+        <link href="https://xkcd.com/3300/"/>
+        <updated>2026-09-18T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
