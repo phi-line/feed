@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167300",
+          "author": "Jake Buehler",
+          "description": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk.            \nThe post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+          "publishedOn": "2026-09-21T14:12:36.000Z",
+          "wordCount": 3024,
+          "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167212",
           "author": "Paulina Rowińska",
           "description": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks.            \nThe post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
@@ -672,6 +682,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6aad8c7227d36800017e7a8e",
+          "author": "Joseph Cox",
+          "description": "404 Media is filing public records requests around the country to find out how cops are using Axon's ALPRs. Here is how you can do that too.",
+          "link": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
+          "publishedOn": "2026-09-21T13:22:21.000Z",
+          "wordCount": 1722,
+          "title": "Is Your City Using Axon License Plate Cameras? We Need Your Help",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/axon-lightpost.png"
+        },
         {
           "id": "6aad8a2c27d36800017e79f0",
           "author": "Becky Ferreira",
@@ -3375,16 +3395,6 @@
           "wordCount": 187,
           "title": "720 Ollie",
           "imageUrl": "https://imgs.xkcd.com/comics/720_ollie_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3263/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3263/",
-          "publishedOn": "2026-06-24T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Baryon Asymmetry",
-          "imageUrl": "https://imgs.xkcd.com/comics/baryon_asymmetry_2x.png"
         }
       ]
     },
@@ -3777,6 +3787,66 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=562303",
+          "author": "Nico Savidge",
+          "description": "Lawmakers signed off on a plan to use $125 million from a state parks and climate bond to help buy the former horse racing track in Berkeley and Albany last month.",
+          "link": "https://www.berkeleyside.org/2026/09/21/golden-gate-fields-park-funding-newsom-legislature",
+          "publishedOn": "2026-09-21T17:19:48.000Z",
+          "wordCount": 8116,
+          "title": "Newsom approves $125M for Golden Gate Fields park",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-Natera_20240420_GGF_-45.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562979",
+          "author": "Mark Humbert, Rashi Kesarwani, Terry Taplin and Paul Mathew",
+          "description": "Proponents' campaign has been deceptive, and the measure would lock funds away for an uncertain future.",
+          "link": "https://www.berkeleyside.org/2026/09/21/opinion-measure-z-would-tax-berkeley-residents-to-create-a-public-bank-benefitting-other-cities",
+          "publishedOn": "2026-09-21T16:35:00.000Z",
+          "wordCount": 7540,
+          "title": "Opinion: Measure Z would tax Berkeley residents to create a public bank benefitting other cities",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-blue.png?fit=720%2C480&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562971",
+          "author": "Henry Levy",
+          "description": "Funding a public bank could give Berkeley more financial independence and, over time, reduce banking costs and bring reinvestment to our community.",
+          "link": "https://www.berkeleyside.org/2026/09/21/opinion-vote-yes-on-measure-z-and-fund-a-public-bank-to-advance-berkeley-values",
+          "publishedOn": "2026-09-21T16:05:56.000Z",
+          "wordCount": 8246,
+          "title": "Opinion: Vote Yes on Measure Z and fund a public bank to advance Berkeley values",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-blue.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562730",
+          "author": "Local sponsor",
+          "description": "A surreal telling of older love, by Erika Chong Shuch and Charles Mee, starts Sept. 25.",
+          "link": "https://www.berkeleyside.org/2026/09/21/shotgun-players-premieres-unexpected-romance-the-fall-show",
+          "publishedOn": "2026-09-21T15:30:00.000Z",
+          "wordCount": 8001,
+          "title": "Shotgun Players premieres unexpected romance, ‘The Fall Show’",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/The-Fall-Show-Surreal-4.5-wide.jpg?fit=2000%2C1446&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563121",
+          "author": "Joanne Furio",
+          "description": "Chris Ballard, who first plunged on the advice of Steph Curry, explores the history and benefits of frigid waters. Other new Berkeley books examine the golden era of Middle East archeology and how “water poverty” triggers violence.",
+          "link": "https://www.berkeleyside.org/2026/09/21/the-cold-plunge-gets-its-deep-dive-in-new-book-by-berkeley-sports-journalist",
+          "publishedOn": "2026-09-21T14:00:00.000Z",
+          "wordCount": 10449,
+          "title": "The cold plunge gets its deep dive in new book by Berkeley sports journalist",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP133448026184.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563134",
+          "author": "Ella Jackson | KQED",
+          "description": "A new report reviews major advances in cancer research — and warns of the impact of federal funding cuts.",
+          "link": "https://www.berkeleyside.org/2026/09/21/cancer-research-has-saved-this-berkeley-mans-life-its-future-may-depend-on-trump",
+          "publishedOn": "2026-09-21T12:00:00.000Z",
+          "wordCount": 7595,
+          "title": "Cancer research has saved this Berkeley man’s life. Its future may depend on Trump",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-35.png?fit=2000%2C1333&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563177",
           "author": "Momo Chang",
@@ -6648,6 +6718,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/nBB5R2pWHMU",
+          "author": null,
+          "description": "With time comes a refinement of purpose. Krallice's 'Scour Order' is a black metal symphony ablaze with frenetic guitar riffs and impossible drum patterns. N...",
+          "link": "https://www.youtube.com/shorts/nBB5R2pWHMU",
+          "publishedOn": "2026-09-21T16:08:50.000Z",
+          "wordCount": 3331,
+          "title": "With time comes a refinement of purpose.",
+          "imageUrl": "https://i.ytimg.com/vi/nBB5R2pWHMU/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCzK1kJBgszFgiG8ADLxUYJBrkcCg"
+        },
+        {
           "id": "https://www.youtube.com/shorts/htBSUv9iWyM",
           "author": null,
           "description": "Certain music hits you with a force of nature. NPR Music's Tom Huizenga explains how Colin Stetson and Brìghde Chaimbeul's 'All the light in the world' vibra...",
@@ -9272,6 +9352,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=23999",
+          "author": "Jessica Hylton",
+          "description": "Italian food lovers, this one's for you. This 5-ingredient vegan baked ziti, with its al dente noodles, savoury marinara sauce, and gooey, melty vegan cheese, married together mouthful after mouthful, is comfort food at its finest. Pop it in the oven in just 20 minutes and watch it bubble up into a new family favourite.",
+          "link": "https://jessicainthekitchen.com/cheesy-baked-ziti/",
+          "publishedOn": "2026-09-21T14:00:00.000Z",
+          "wordCount": 8411,
+          "title": "Cheesy Baked Ziti",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/08/Cheesy-Vegan-Baked-Ziti5590.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=81003",
           "author": "Jessica Hylton",
           "description": "These vegan sourdough chocolate chip cookies are so popular in my household that we always have a bag of these frozen cookie dough balls in the freezer. They are the most tender, chewy cookies with a subtle sourdough tang that'll have everyone asking, \"What's the secret ingredient?\" Dipped in a cool glass of plant-based milk, they are 100% about to change your cookie game forever.",
@@ -9595,6 +9685,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/we-your-gracious-meeting-overlords-are-giving-fifteen-minutes-of-your-time-back-to-you",
+          "author": "Chris Vandersall",
+          "description": "Congratulations, colleague.\n We, the meeting overlords, have agreed to end this meeting early and are benevolently granting you fifteen minutes of your day back. With this bountiful amount of time, we hope you choose to hydrate, eat, catch up on sleep, stand up for the first time in four hours, address your rapidly declining mental, emotional, and physical health, repair all relationships with the loved ones you’ve neglected, and progress through any other stages of Maslow’s Hierarchy of Needs.\n We assume the fifteen minutes we have given you is more than enough time to do this.\n We know many of our meetings don’t usually end as early as this one did, and instead run over the allotted time. Yes, we are in charge of both the meetings that go long and also the ensuing meetings that are entir…",
+          "link": "https://www.mcsweeneys.net/articles/we-your-gracious-meeting-overlords-are-giving-fifteen-minutes-of-your-time-back-to-you",
+          "publishedOn": "2026-09-21T17:00:00.000Z",
+          "wordCount": 3284,
+          "title": "We, Your Gracious Meeting Overlords, Are Giving Fifteen Minutes of Your Time Back to You",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/revqy0p3s276camcr7fypps7hblu"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-favorite-fun-and-useful-phrases-from-duolingos-yiddish-course",
+          "author": "Mike Sacks",
+          "description": "“That tie is old and ugly.”\n “There are no normal people.”\n “Your room stank really bad.”\n “Your room really stank bad.”\n “I am better without you.”\n “Without you, I am better.”\n “I only eat small sour lemons.”\n “My friend has seven children, so what?”\n “Why are you sleeping under the table?”\n “When is he happy, never?”\n “Nobody wanted this.”\n “Is your bed almost broken or completely broken?”\n “She wants butter, but why ours?”\n “Mr. Goldman must go home already.”\n “He has little money, but I have less.”\n “The French are everywhere.”\n “My son is perfect.”\n “Your son is already old.”\n “How old are you already?”\n “The sad children are there.”\n “You have to eat soup!”\n “My soup has something strange, but his does not.”\n “This does not smell good. Is it fresh?”\n “They do not invite you because you always fall asleep.”\n “This vegetable is old!”\n “The potato is perfect, unfortunately.”\n “Twenty dollars for three packages of cookies!?”\n “Why do you not visit us?”\n “I am dying!” — “You are not dying!”\n “What, these are your daughters?”\n “Who here smells like fish?”\n “This fish stinks.”\n “This stinks!”\n “The pocketbook stinks!”\n “My uncle is a broken man.”",
+          "link": "https://www.mcsweeneys.net/articles/my-favorite-fun-and-useful-phrases-from-duolingos-yiddish-course",
+          "publishedOn": "2026-09-21T12:00:00.000Z",
+          "wordCount": 2461,
+          "title": "My Favorite Fun and Useful Phrases from Duolingo’s Yiddish Course",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/cqhaj9fmtjlte5dv6713vatoeiuq"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-important-vaccine-update-from-the-lord-thy-god",
           "author": "Jack Loftus",
@@ -11102,6 +11212,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112379 at https://www.eff.org",
+          "author": "Christoph Schmon",
+          "description": "The EU Commission draft law to restrict young people’s access to the internet that it presented last week will come at a high cost: it will put online services behind age gates, expand the use of intrusive age verification, and undermine the privacy of all users. \nThe EU Kids Act aims to protect children from risks associated with social media, video games, and AI systems by introducing age-based access rules, safety requirements, and stronger enforcement and oversight measures. It presents itself as building on the Digital Services Act (DSA) and puts into “hard law” some of the safety-by-design measures specified in the non-binding DSA guidelines on minors’ protection. \nThe proposal is built around the following elements: social media age “delay”, safety by design, age assurance and paren…",
+          "link": "https://www.eff.org/deeplinks/2026/09/eu-kids-act-wont-keep-internet-accountable-and-trustworthy",
+          "publishedOn": "2026-09-21T12:27:52.000Z",
+          "wordCount": 2143,
+          "title": "EU Kids Act Won't Keep the Internet Accountable and Trustworthy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png",
+            "alt": "A concerned parent and child stand on a large laptop keyboard, while a shadowy hand reaches out from the screen with social media icons and a magnifying glass to scan them.",
+            "type": "image/png",
+            "length": "1146559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png"
+        },
         {
           "id": "112378 at https://www.eff.org",
           "author": "Rindala Alajaji",
