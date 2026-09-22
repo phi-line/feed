@@ -683,6 +683,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ab17d6e27e2dd0001d4e05a",
+          "author": "Samantha Cole",
+          "description": "Sherry Turkle's latest book, Artificial Intimacy: Who We Become When We Talk to Machines, comes out on September 29.",
+          "link": "https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/",
+          "publishedOn": "2026-09-21T19:33:32.000Z",
+          "wordCount": 1676,
+          "title": "How AI Chatbots Are 'Deskilling' Human Empathy",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/sherrypost--1-.png"
+        },
+        {
           "id": "6aad8c7227d36800017e7a8e",
           "author": "Joseph Cox",
           "description": "404 Media is filing public records requests around the country to find out how cops are using Axon's ALPRs. Here is how you can do that too.",
@@ -2561,66 +2571,6 @@
           "wordCount": 1093,
           "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/vlcsnap-2026-06-24-11h08m49s233-1.png"
-        },
-        {
-          "id": "6a3be6f05476f60001deb3fa",
-          "author": "Becky Ferreira",
-          "description": "Physicists have discovered that the dark matter structures that scaffold the universe—known as the “cosmic web”—are far larger and more persistent than expected, challenging a core assumption about the universe.",
-          "link": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
-          "publishedOn": "2026-06-24T15:00:43.000Z",
-          "wordCount": 1718,
-          "title": "Vast ‘Structures’ In Space Reveal the Universe Isn't What We Thought",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/image1-1.png"
-        },
-        {
-          "id": "6a3be2815476f60001deafc1",
-          "author": "Samantha Cole",
-          "description": "The new policy, which forbids \"noise infusion\" as a technique for anonymizing data, will \"handcuff\" the Census Bureau and limit what information becomes public, data experts say.",
-          "link": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
-          "publishedOn": "2026-06-24T14:39:21.000Z",
-          "wordCount": 2135,
-          "title": "The Trump Administration’s New Census Data Rules Are a Policy Disaster",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/ioann-mark-kuznietsov-gtCWBwbZNpM-unsplash.jpg"
-        },
-        {
-          "id": "6a3bda855476f60001dea363",
-          "author": "Jason Koebler",
-          "description": "Snap's AR Specs glasses are indeed very heavy, very dorky.",
-          "link": "https://www.404media.co/snaps-ai-ar-specs-lol/",
-          "publishedOn": "2026-06-24T13:34:14.000Z",
-          "wordCount": 1631,
-          "title": "Snap's AI Specs: LOL",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-24-at-06.24.50@2x.png"
-        },
-        {
-          "id": "6a3bd4545476f60001de9bbf",
-          "author": "Joseph Cox",
-          "description": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
-          "link": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-          "publishedOn": "2026-06-24T13:03:21.000Z",
-          "wordCount": 1124,
-          "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/maxresdefault-1.jpg"
-        },
-        {
-          "id": "6a3ab0107acb2d00011cb6e4",
-          "author": "Joseph Cox",
-          "description": "Hackers stole more than 45GB of data from Madison Square Garden, including data related to “talent” and the Knicks. Clues in the data point to how the hackers got in.",
-          "link": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
-          "publishedOn": "2026-06-24T13:00:25.000Z",
-          "wordCount": 1072,
-          "title": "How Hackers Broke into Madison Square Garden",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/7639202774_d53d738763_k.jpg"
-        },
-        {
-          "id": "6a3ab1f27acb2d00011cb80c",
-          "author": "Joseph Cox",
-          "description": "Leaked audio from Accenture says a big source of AI token ‘chewing’ is people just converting PDFs to presentation slides.",
-          "link": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-          "publishedOn": "2026-06-24T12:50:56.000Z",
-          "wordCount": 1242,
-          "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/token-chewer.png"
         }
       ]
     },
@@ -3026,6 +2976,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3301/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3301/",
+          "publishedOn": "2026-09-21T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Stargazing 5",
+          "imageUrl": "https://imgs.xkcd.com/comics/stargazing_5_2x.png"
+        },
         {
           "id": "https://xkcd.com/3300/",
           "author": null,
@@ -3787,6 +3747,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563227",
+          "author": "By Family of Eric Pease-Sartenaer",
+          "description": "An early member of the Cheese Board Collective, he founded the pasta shop in 1995, and it later expanded into a cafe that became a community hub.",
+          "link": "https://www.berkeleyside.org/2026/09/21/eric-pease-sartenaer-obituary",
+          "publishedOn": "2026-09-21T21:00:00.000Z",
+          "wordCount": 7840,
+          "title": "Remembering Eric Pease-Sartenaer, founder of Phoenix Pastificio and Cheese Board sourdough pioneer",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/EricPeaseSartenaer-breadstick.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=480432",
+          "author": "Eli Wolfe, Natalie Orenstein, and Darwin BondGraham",
+          "description": "Andy Duong and Fortunato Bas discussed fundraising and a land deal involving California Waste Solutions. Fortunato Bas is expected to testify in the corruption case against former Mayor Sheng Thao, Duong and others.",
+          "link": "https://www.berkeleyside.org/2026/09/21/andy-duong-bundled-money-nikki-fortunato-bas-2024-alameda-county-supervisor-campaign",
+          "publishedOn": "2026-09-21T20:00:38.000Z",
+          "wordCount": 9987,
+          "title": "Indicted Oakland businessman bundled money for Nikki Fortunato Bas’ 2024 supervisor campaign",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-MayorStateoftheCity_EG_56-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562303",
           "author": "Nico Savidge",
@@ -6396,16 +6376,6 @@
           "wordCount": 8232,
           "title": "Reem’s ready to debut worker-owned flagship in Jack London Square",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-Reems_JLS-10.jpg?fit=1600%2C1067&ssl=1"
-        },
-        {
-          "id": "https://oaklandside.org/?p=475862",
-          "author": "Darwin BondGraham",
-          "description": "When prosecutors were found to have wrongfully excluded Black and Jewish people from juries, several men were freed from prison. Now the county faces a costly legal reckoning.",
-          "link": "https://www.berkeleyside.org/2026/06/24/alameda-county-district-attorney-lawsuits-500-million-death-penalty-cases",
-          "publishedOn": "2026-06-24T12:00:00.000Z",
-          "wordCount": 8273,
-          "title": "2 men released from Death Row sue Alameda County for $572M over jury selection",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/large-IMG_2980-1.jpg?fit=1600%2C1200&ssl=1"
         }
       ]
     },
@@ -11184,26 +11154,6 @@
           "wordCount": 2715,
           "title": "Vandalizing Washington, DC, Is a Crime—Unless You’re Overturning an Election",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/hb6j3m6ktw19jxfdmns2l7ax5t26"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/human-visibility-scale",
-          "author": "Lisa Zucker",
-          "description": "15-Year-Old Girl: Fully visible\n 15-Year-Old Boy: In your face!\n 25-Year-Old Woman: Lookin’ good\n 25-Year-Old Man: Bro!\n 35-Year-Old Woman: Partially obscured\n 35-Year-Old Man: BRO!\n 45-Year-Old Woman: Oops, sorry, I didn’t see you there\n 45-Year-Old Man: Loud and clear\n 55-Year-Old Woman: Foggy\n 55-Year-Old Man: Still hangin’ in there!\n 65-Year-Old Woman: Translucent\n 65-Year-Old Man: How ’bout them Cubs?\n 75-Year-Old Woman: Invisible\n 75-Year-Old Man: You’re still around? Looking dapper, bro!",
-          "link": "https://www.mcsweeneys.net/articles/human-visibility-scale",
-          "publishedOn": "2026-06-24T15:01:00.000Z",
-          "wordCount": 2094,
-          "title": "Human Visibility Scale",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mrt1tmdy32ppycseah5p2an8vc9a"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-seven-meanings-of-fine-in-descending-order-of-plausible-deniability",
-          "author": "Oskar Milton",
-          "description": "1. Excellent.\n Fine as in cabernet. Fine as in dovetail joinery. Fine as in your mother’s china. The original meaning is still technically available. At a dinner party, when Margaret uses fine this way—\"the duck was fine\"—the table pauses, scans her for irony, finds none, and spends the next forty minutes working out whether they have been complimented or insulted by a person who appears to be operating out of 1873.\n 2. Adequate.\n The workhorse. The pad thai was fine. The fourth season of Community was fine. The flight to Cleveland was fine. This fine carries no particular charge—it is fine the way Pantone 7527 is fine, the way the hold music at Geico is fine. It’s neither an endorsement nor a complaint. The fine only becomes a problem when applied to a noun that requires more than fine. “…",
-          "link": "https://www.mcsweeneys.net/articles/the-seven-meanings-of-fine-in-descending-order-of-plausible-deniability",
-          "publishedOn": "2026-06-24T12:00:00.000Z",
-          "wordCount": 2524,
-          "title": "The Seven Meanings of “Fine,” in Descending Order of Plausible Deniability",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ylgjpbzjdsxd4ou4q1fkcqztg9cw"
         }
       ]
     },
@@ -11212,6 +11162,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112381 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levine v. FAA—challenging the ability of the government to punish drone pilots who record law enforcement officers engaged in official business. \nAs we wrote about earlier this year, the FAA issued a flight restriction for drones that had effectively criminalized the recording of Department of Homeland Security officers, including immigration agents from ICE and CBP, and their vehicles (what the FAA called “mobile assets” including “ground vehicle convoys and their associated escorts”) even if the d…",
+          "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+          "publishedOn": "2026-09-21T22:59:32.000Z",
+          "wordCount": 1742,
+          "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg",
+            "alt": "Protesters record on their phones as a massive boot positions to crush.",
+            "type": "image/jpeg",
+            "length": "267518"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg"
+        },
         {
           "id": "112379 at https://www.eff.org",
           "author": "Christoph Schmon",
