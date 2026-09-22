@@ -34,16 +34,6 @@
           "wordCount": 1323,
           "title": "Ethical NBA Championships, Ranked",
           "imageUrl": "https://pudding.cool/2026/06/ethical-champions/assets/social.jpg"
-        },
-        {
-          "id": "http://pudding.cool/2026/06/mow/game",
-          "author": null,
-          "description": "Mow a series of lawns as efficiently as you can. We will publish the analysis in a few weeks.",
-          "link": "http://pudding.cool/2026/06/mow/game",
-          "publishedOn": "2026-06-25T04:00:00.000Z",
-          "wordCount": 156,
-          "title": "The Lawn Mowing Experiment",
-          "imageUrl": "https://pudding.cool/2026/06/mow/assets/og.png"
         }
       ]
     },
@@ -672,6 +662,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ab1949a27e2dd0001d4e40c",
+          "author": "Joseph Cox",
+          "description": "OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.",
+          "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+          "publishedOn": "2026-09-22T12:59:12.000Z",
+          "wordCount": 1817,
+          "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/prompts-wh2Artboard-5-copy-2.jpg"
+        },
         {
           "id": "6ab17d6e27e2dd0001d4e05a",
           "author": "Samantha Cole",
@@ -2870,6 +2870,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/mars-erika",
+          "author": "Asimov Press",
+          "description": "Pioneer Labs has made its first microbe capable of growing in simulated Martian soil and making building materials.",
+          "link": "https://www.asimov.press/p/mars-erika",
+          "publishedOn": "2026-09-22T15:47:45.000Z",
+          "wordCount": null,
+          "title": "How to Terraform Mars — Erika DeBenedictis of Pioneer Labs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/216791430/4807425be268a6249fd4da4d821b869c.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.asimov.press/p/spudcell-adamala",
           "author": "Asimov Press",
           "description": "Our first podcast!",
@@ -3370,6 +3386,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/why-china-will-rule-ai",
+          "author": "Nathan Gardels",
+          "description": "The post Why China Will Rule AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/why-china-will-rule-ai",
+          "publishedOn": "2026-09-22T15:25:43.000Z",
+          "wordCount": 2765,
+          "title": "Why China Will Rule AI",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/Feature_Color_V2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=70998f153b8e2a7b05a6dbe185615917"
+        },
+        {
           "id": "https://www.noemamag.com/the-end-of-upward-mobility",
           "author": "Branko Milanović",
           "description": "The post The End Of Upward Mobility appeared first on NOEMA.",
@@ -3716,6 +3742,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563304",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/09/22/top-dog-chez-maeju-kash-hoagies-penca-azul-open",
+          "publishedOn": "2026-09-22T16:00:00.000Z",
+          "wordCount": 8276,
+          "title": "Downtown Top Dog debuts, plus Berkeley welcomes a new hoagie spot and a cafe founded by a Cal grad",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/TopDog-Downtown-2.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562610",
+          "author": "Nico Savidge",
+          "description": "Self-described “library kid” Rebecca Alcala-Veraflor, who grew up in the East Bay, says she worked to improve staff morale in San Francisco’s libraries and will do the same in Berkeley.",
+          "link": "https://www.berkeleyside.org/2026/09/22/berkeley-public-library-director-rebecca-alcala-veraflor",
+          "publishedOn": "2026-09-22T14:00:00.000Z",
+          "wordCount": 8907,
+          "title": "Berkeley’s new library leader pledges to listen to staff at delicate moment",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/rebecca-alcala-veraflor-BPLDirector-202608-1-1-scaled.jpg?fit=2560%2C1635&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563227",
           "author": "By Family of Eric Pease-Sartenaer",
@@ -9614,6 +9660,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/dont-mess-with-texas",
+          "author": "Eli Burnstein",
+          "description": "The following is an excerpt from McSweeney’s contributor Eli Burnstein’s new book, Phrased & Confused, a guide to the great quotations that we just keep getting wrong. From ancient maxims like “Seize the day” to modern sound bites like “The road less traveled,” Phrased & Confused sets the record straight on commonly misunderstood statements — and plumbs the meanings of famously slippery ones (“I think therefore I am,” “A rose is a rose is a rose”). Pairing witty commentary with lighthearted illustration from New Yorker cartoonist Liana Finck, it’s the ideal resource for lovers of language, literature, history, and philosophy, full of intelligence and insight for curious minds everywhere.\n - - -\n“Don’t mess with Texas”\n (Tim McClure, 1985)\n \n Tough-guy catchphrase? No. Anti-littering slogan…",
+          "link": "https://www.mcsweeneys.net/articles/dont-mess-with-texas",
+          "publishedOn": "2026-09-22T13:00:00.000Z",
+          "wordCount": 2852,
+          "title": "Don’t Mess with Texas",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/wq17o47h8231wfilmwjaqxbj3613"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers",
+          "author": "Colin Nissan",
+          "description": "First published on October 9, 2009, this classic by Colin Nissan is our most-read article of all time. We’re celebrating the 17th anniversary of this freaky-ass harvest (and the first day of autumn) with the brand-new Decorative Gourd Thermos and McSweeney’s Quarterly/Thermos combo subscription. Happy fall, fuckheads!\n - - -\nI don’t know about you, but I can’t wait to get my hands on some fucking gourds and arrange them in a horn-shaped basket on my dining room table. That shit is going to look so seasonal. I’m about to head up to the attic right now to find that wicker fucker, dust it off, and jam it with an insanely ornate assortment of shellacked vegetables. When my guests come over, it’s gonna be like BLAMMO! Check out my shellacked decorative vegetables, assholes. Guess what season it…",
+          "link": "https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers",
+          "publishedOn": "2026-09-22T11:40:00.000Z",
+          "wordCount": 2917,
+          "title": "It’s Decorative Gourd Season, Motherfuckers",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/uzhghv44hxb0i4m7bzh2qy7flgvo"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/we-your-gracious-meeting-overlords-are-giving-fifteen-minutes-of-your-time-back-to-you",
           "author": "Chris Vandersall",
