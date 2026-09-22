@@ -663,6 +663,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ab2b02d168819000195b891",
+          "author": "Joseph Cox",
+          "description": "A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
+          "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+          "publishedOn": "2026-09-22T16:48:53.000Z",
+          "wordCount": 1499,
+          "title": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/8136629475_f6f0b408b3_z.jpg"
+        },
+        {
+          "id": "6ab2ad13168819000195b7a0",
+          "author": "Jason Koebler",
+          "description": "\"This has potential for so much negative PR. It could portray us as ‘their AI is not good enough so they still need humans’ kind of coverage for this launch.\"",
+          "link": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
+          "publishedOn": "2026-09-22T16:33:15.000Z",
+          "wordCount": 1903,
+          "title": "Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-22-at-9.30.58-AM@2x.png"
+        },
+        {
           "id": "6ab1949a27e2dd0001d4e40c",
           "author": "Joseph Cox",
           "description": "OpenAI has thousands and thousands of contractors helping improve the company's AI models. Multiple contractors have been fired for using AI to train the AI.",
@@ -3742,6 +3762,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563325",
+          "author": "Karina Ioffee",
+          "description": "California’s Education Department ruled BUSD needs to remedy the harm done to Jewish kids by student-led assemblies and posters hung in a classroom describing the war in Gaza as a genocide.",
+          "link": "https://www.berkeleyside.org/2026/09/22/busd-antisemitism-training",
+          "publishedOn": "2026-09-22T17:58:11.000Z",
+          "wordCount": 9370,
+          "title": "State requires antisemitism training in Berkeley schools after complaints about pro-Palestinian posters, assemblies",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-38.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563304",
           "author": "Momo Chang",
@@ -12824,22 +12854,6 @@
             "length": "156412"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/truck_passing_flock.jpg"
-        },
-        {
-          "id": "112158 at https://www.eff.org",
-          "author": "Joe Mullin",
-          "description": "Within the next week, Congress is preparing to vote on the KIDS Act, a sprawling package of legislation that seeks to control Americans’ web browsing and private messaging. The package includes a revised version of the Kids Online Safety Act, or KOSA, combined with a collection of other internet bills, study bills, reporting requirements, and new regulations. Instead of debating any of these proposals on their merits, lawmakers are attempting to move them all at once under an ultra-expedited process. \nThe package of cobbled-together bills is a mess, with different age-gating schemes for different services, using different standards. It’s a lot of complexity, and a lot of legal risk. Faced with that, many companies will conclude that the safest option is restrictive age-checking practices a…",
-          "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-          "publishedOn": "2026-06-25T06:40:07.000Z",
-          "wordCount": 2382,
-          "title": "The KIDS Act Would Require Age Checks To Get Online",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png",
-            "alt": "A hand holding a cellphone showing a verification screen and ACCESS DENIED in the background.",
-            "type": "image/png",
-            "length": "536728"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
         }
       ]
     },
