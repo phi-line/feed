@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167361",
+          "author": "Elise Cutts",
+          "description": "Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math.            \nThe post Biology Might Not Be Quantum, but Its Math Is Quantumlike first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+          "publishedOn": "2026-09-23T14:16:54.000Z",
+          "wordCount": 3884,
+          "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Quantum-like-complex-systems-cr.Xavi-Bou-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167300",
           "author": "Jake Buehler",
           "description": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk.            \nThe post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
@@ -662,6 +672,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ab3deda96e4970001811375",
+          "author": "Matthew Gault",
+          "description": "Citizens of Springfield, Missouri showed up to a city council meeting to discuss the city’s Flock contract. The mayor shut them down and arrested two people for ‘disruption of meetings of city council.’",
+          "link": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+          "publishedOn": "2026-09-23T14:25:34.000Z",
+          "wordCount": 2159,
+          "title": "Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-23-at-7.17.59-AM@2x-1-1.png"
+        },
+        {
+          "id": "6ab2e858168819000195cf05",
+          "author": "Matthew Gault",
+          "description": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'",
+          "link": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
+          "publishedOn": "2026-09-23T11:13:53.000Z",
+          "wordCount": 1831,
+          "title": "Americans Fear AI Will Make the World Worse, Love It Anyway",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/photo-1754229164665-9ea0d5579063.jpeg"
+        },
         {
           "id": "6ab2b02d168819000195b891",
           "author": "Joseph Cox",
@@ -3339,16 +3369,6 @@
           "wordCount": 187,
           "title": "Asteroid Threat",
           "imageUrl": "https://imgs.xkcd.com/comics/asteroid_threat_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3264/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3264/",
-          "publishedOn": "2026-06-26T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "720 Ollie",
-          "imageUrl": "https://imgs.xkcd.com/comics/720_ollie_2x.png"
         }
       ]
     },
@@ -3384,6 +3404,16 @@
       "feedUrl": "https://www.noemamag.com/feed",
       "siteUrl": "https://www.noemamag.com",
       "articles": [
+        {
+          "id": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
+          "author": "Hélène Landemore",
+          "description": "The post Let The People Set The Pace Of Frontier AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
+          "publishedOn": "2026-09-23T13:57:27.000Z",
+          "wordCount": 4425,
+          "title": "Let The People Set The Pace Of Frontier AI",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/landemore-final.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=49b4593c044fd128a6e30a1ea2db715f"
+        },
         {
           "id": "https://www.noemamag.com/why-china-will-rule-ai",
           "author": "Nathan Gardels",
@@ -3731,6 +3761,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563369",
+          "author": "Tony Hicks",
+          "description": "The John Muir Land Trust is trying to raise $7 million to buy the 116-acre Johnson Ranch near the steam train, and open its panoramic views to the public.",
+          "link": "https://www.berkeleyside.org/2026/09/23/john-muir-land-trust-johnson-ranch-east-bay-hills",
+          "publishedOn": "2026-09-23T14:00:00.000Z",
+          "wordCount": 8783,
+          "title": "Private ranch next to Tilden park eyed for purchase by land trust",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/240423_Johnson_15179-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563325",
           "author": "Karina Ioffee",
@@ -6300,26 +6340,6 @@
           "wordCount": 7852,
           "title": "California historic parks beckon. How to get a free pass",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/P0073120A.jpeg?fit=1024%2C681&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558993",
-          "author": "Berkeleyside Staff",
-          "description": "Also: A man was in critical condition after a motorcycle crash at Channing and Fulton Sunday night.",
-          "link": "https://www.berkeleyside.org/2026/06/25/__trashed-4",
-          "publishedOn": "2026-06-26T00:15:00.000Z",
-          "wordCount": 6959,
-          "title": "The Wire: Cartoon museum curator out of job after police say he filmed party guests in Berkeley bathroom",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Andrew-Farago.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://richmondside.org/?p=466693",
-          "author": "Kari Hulac",
-          "description": "Victims, including 399 Alameda County households, have lost more than $211,000 so far this year.",
-          "link": "https://www.berkeleyside.org/2026/06/25/pge-scamming-customers-qr-codes",
-          "publishedOn": "2026-06-25T23:28:26.000Z",
-          "wordCount": 7104,
-          "title": "PG&E warns customers of a new scam involving QR codes",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/PG-E_20220124_9363-1.jpg"
         }
       ]
     },
@@ -9600,6 +9620,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/first-add-no-shame",
+          "author": "Taylor Harris",
+          "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame, and mutters, “Yep, that tracks. I see it all now.”\n - - -\nThis morning, on a walk around my neighborhood with two poorly-behaved poodle mixes, I stopped once again for the baby pine cone. This one already dropped and disentangled, waiting at the border of a small garden.\n \n I remembered then: Writing can be small and wrapped, layered and touching, tight and nearly eternal in depth. Hold it between two fingers, hide it within a cove of denim beside your house key. No one carries loose change anymore. By chance or memory, retrieve it before laundry day, and roll it in your palms or set it on …",
+          "link": "https://www.mcsweeneys.net/articles/first-add-no-shame",
+          "publishedOn": "2026-09-23T13:00:00.000Z",
+          "wordCount": 3232,
+          "title": "First, Add No Shame",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/4uqn9on4m21jizeh3vntixb287jc"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/girl-code-what-he-texts-vs-what-he-really-means",
+          "author": "Layne Dixon",
+          "description": "Sup\n Hey\n Down 2 hang tomorrow?\n Are you free this Friday?\n Not looking for anything serious\n I’m only asking because I’m looking for someone\n But we could still have fun\n To drive me out into the woods\n R u on Snapchat?\n And dig a hole\n Add me on Snapchat\n And bury me in it\n I had fun last night\n No weird stuff, just digging a deep, wet hole deep into the woods and watching as I lay down in it\n We should do it again\n You also will be covering me in the dirt\n Not sure when I’m free tho\n The cold, wet dirt\n U up?\n But don’t worry, I’ll be quiet\n ;)\n So so quiet\n Sorry wrong person\n A quiet little Parisian boy\n DTF?\n In this scenario, I’m from Paris\n ;)\n Couvre-moi de terre s’il te plaît maman\n What r u wearing?\n And this isn’t one of those classic situations where I’ll do the sort of weird,…",
+          "link": "https://www.mcsweeneys.net/articles/girl-code-what-he-texts-vs-what-he-really-means",
+          "publishedOn": "2026-09-23T12:01:00.000Z",
+          "wordCount": 2637,
+          "title": "GIRL CODE: What He Texts vs. What He Really Means",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/cmjxa3o03zkssnu8ri17xndyqqpx"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/todays-programming-lineup-on-trump-tv",
           "author": "Carlos Greaves",
           "description": "“The White House has launched its own round-the-clock video channel, dubbed ‘Trump TV: The Essentials Station,’ just days after President Donald Trump barred CNN, MS NOW, and Politico from the White House.” — Newsweek\n - - -\nThe White House is thrilled to announce the arrival of Trump TV. No nation can truly call itself a democracy until its leader has dismissed the entire press corps and replaced them with state-run media. Now, instead of Americans depending on the lying mainstream news, they’ll be able to get their information straight from the ultimate beacon of truth: the president himself.\n Here’s all of the great programming you can expect from Trump TV over the next twenty-four hours:\n 6:00 a.m. – 6:05 a.m.\n Ted Nugent sings “The Star-Spangled Banner” while gargling a cup of piping …",
@@ -12663,22 +12703,6 @@
             "length": "628300"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/3dprintca.jpg"
-        },
-        {
-          "id": "112163 at https://www.eff.org",
-          "author": "Alexis Hancock",
-          "description": "Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers must make a corresponding systemic and intentional effort to stop these devices from entering people’s homes and ultimately their networks.\nAs a refresher: Last year, Google wrote that one major campaign, deemed BADBOX, affected 10 million uncertified devices that were running Android’s open-source software (Android Open Source Project or AOSP). These devices span from TVs and streaming devices to digital picture frames. Even now, someone can go on Amazon and Walmart and buy one of these device…",
-          "link": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
-          "publishedOn": "2026-06-25T23:39:34.000Z",
-          "wordCount": 1718,
-          "title": "Primed for Malware: Stop Selling Compromised Android Devices",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/malware-shark.png",
-            "alt": "malware-shark",
-            "type": "image/png",
-            "length": "8301"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/malware-shark.png"
         }
       ]
     },
@@ -12687,6 +12711,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/weapons-of-mass-decentralization/",
+          "author": null,
+          "description": "Iron weaponry brought down the empires of the Bronze Age. Could technologies like drones do the same today?",
+          "link": "https://worksinprogress.co/issue/weapons-of-mass-decentralization/",
+          "publishedOn": "2026-09-23T11:34:36.000Z",
+          "wordCount": 4019,
+          "title": "Weapons of mass decentralization",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/09/Weapons_Feature_Image-scaled.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/why-arab-armies-dont-win-wars/",
           "author": null,
