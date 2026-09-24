@@ -673,6 +673,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ab44dbc96e49700018160cd",
+          "author": "Joseph Cox",
+          "description": "The FBI's Remote Operations Unit (ROU) is a highly secretive team of hackers making exploits and tools to break into target’s devices. Some of its members just got exposed.",
+          "link": "https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/",
+          "publishedOn": "2026-09-23T22:15:10.000Z",
+          "wordCount": 1427,
+          "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/US_Cuba_Raul_Castro_26140692945035.jpg"
+        },
+        {
           "id": "6ab3ffeb96e4970001813f1a",
           "author": "Becky Ferreira",
           "description": "Scientists discovered that diseased fruit flies lived longer when they were removed from Earth’s magnetic field, while healthy flies had shorter lifespans, in a first-of-its kind experiment with surprising results.",
@@ -3011,6 +3021,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3302/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3302/",
+          "publishedOn": "2026-09-23T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Voyager Instruments",
+          "imageUrl": "https://imgs.xkcd.com/comics/voyager_instruments_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3301/",
           "author": null,
           "description": "",
@@ -3771,6 +3791,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563432",
+          "author": "Karina Ioffee",
+          "description": "Luckily, no children were in the rooms last week when the lights fell.",
+          "link": "https://www.berkeleyside.org/2026/09/23/rosa-parks-elementary-berkeley-lighting-fixtures",
+          "publishedOn": "2026-09-23T23:41:06.000Z",
+          "wordCount": 8178,
+          "title": "Fraying cables caused big light fixtures to fall in 2 classrooms at Berkeley elementary school",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-45.png"
+        },
+        {
+          "id": "https://richmondside.org/?p=469959",
+          "author": "Sejal Parekh",
+          "description": "Pay remains the main outstanding issue as doctors describe unmanageable situations such as signing death certificates for patients they’ve never treated.",
+          "link": "https://www.berkeleyside.org/2026/09/23/lifelong-doctors-could-strike-monday",
+          "publishedOn": "2026-09-23T22:05:49.000Z",
+          "wordCount": 8419,
+          "title": "Doctors at LifeLong clinics could strike as soon as Monday around the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Natera_230627_174_HealthWorkersStrike_12-1.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563335",
           "author": "Skylla Mumana",
@@ -6350,16 +6390,6 @@
           "wordCount": 8610,
           "title": "Blind teen from Berkeley is only California student competing in National Braille Challenge",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/Braille-Challenge-4-scaled.jpg"
-        },
-        {
-          "id": "https://oaklandside.org/?p=475922",
-          "author": "Brenda Y. Vasquez",
-          "description": "From a Coast Miwok site dating back to 6,000 BC to Jack London’s former cottage in Sonoma County, the pass offers free admission for a year to 33 historic state parks.",
-          "link": "https://www.berkeleyside.org/2026/06/26/free-summer-pass-california-historic-state-parks",
-          "publishedOn": "2026-06-26T12:00:00.000Z",
-          "wordCount": 7852,
-          "title": "California historic parks beckon. How to get a free pass",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/P0073120A.jpeg?fit=1024%2C681&ssl=1"
         }
       ]
     },
@@ -9604,16 +9634,6 @@
           "wordCount": 12291,
           "title": "Marinated Beans",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Marinated-Beans_12.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=75039",
-          "author": "Jessica Hylton",
-          "description": "This easy aglio e olio features al dente spaghetti coated in a velvety garlic-infused sauce with a touch of heat from red pepper flakes. It's a gloriously simple Italian classic you'll want to make again and again.",
-          "link": "https://jessicainthekitchen.com/aglio-e-olio/",
-          "publishedOn": "2026-06-26T14:00:00.000Z",
-          "wordCount": 12177,
-          "title": "Aglio e Olio",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Spaghetti-Aglio-e-Olio-13.jpg"
         }
       ]
     },
@@ -11158,16 +11178,6 @@
           "wordCount": 2584,
           "title": "To Solve the Housing Crisis, We Simply Need to Build More Homes (Just Not in My Town)",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/clknhjfmu7drxemlgvhygulxnkdb"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/wirecutter-headlines-during-the-revolutionary-war",
-          "author": "JiJi Lee",
-          "description": "“We Tested 100 Quill Pens to Find the Best One for Writing the Declaration of Independence”\n “The British Cut Off Our Salt Supply. Here are Five Dupes to Use Instead”\n “Here’s the Unfussy Telescope We Used to Monitor Hessian Mercenaries During the Battle of Trenton”\n “Why We Love This Wrought Iron Spit for Cooking Mutton Over a Hearth”\n “The Best Fife and Drum Set for Beginner Musicians Who Want to Play ‘Yankee Doodle Dandy’ at a Public Execution”\n “Is Your Home as Cold as Valley Forge? Time to Upgrade to a Luxurious Wool Blanket”\n “Tricorn Hats Are Expensive. Here Are the Best Ones for Every Budget”\n “Our Favorite Sherry and Madeira Gifts for the British Loyalist in Your Life”\n “You’re Quartering a British Soldier. These Decorative Screens Will Help Maintain Your Privacy”\n “We Rowed Cargo Boats All Day to See Which One Would Make it Across the Delaware River on Christmas”\n “We Tested Three Muskets to See Which Shot You Could Actually Hear ’Round the World”\n “Tired of Voiding Urine in an Outhouse? We Found the Holy Grail of Chamber Pots”\n “I Am a Spy for the Continental Army. This is the Cloak I Would Buy to Sneak into a Tavern and Hand Over Secret Documents to a Courier”\n “I Caught Smallpox on Purpose So That I Could Test Three Poultices to Relieve My Skin Pustules. This Was the Only One That Did the Trick”\n “I Was Shot on the Battlefield. This is the Bottle of Rum That Kept Me from Fainting When They Amputated My Leg”\n “The Only Spoon You’ll Ever Need for the Rest of Your Life Because We Didn’t Overthrow the Monarchy Just to Become Tyrannized by Consumerism”",
-          "link": "https://www.mcsweeneys.net/articles/wirecutter-headlines-during-the-revolutionary-war",
-          "publishedOn": "2026-06-26T12:00:00.000Z",
-          "wordCount": 2456,
-          "title": "Wirecutter Headlines During the Revolutionary War",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/f2fcwnb4gdrtitdap1dxzswda04w"
         }
       ]
     },
@@ -12727,22 +12737,6 @@
             "length": "109457"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/drone-police-by-shelby-criswell.png"
-        },
-        {
-          "id": "112164 at https://www.eff.org",
-          "author": "Rory Mir",
-          "description": "Ignoring EFF’s warnings about the dangers and impossibility of implementing a new mandate for 3D print surveillance software, the California State Assembly has signed off on legislation to do just that. In the process, legislators amended the bill to make it even more confusing, while failing to address the risks to privacy, speech, and consumer rights. We must renew our call on legislators to drop this bill as it heads to the state senate, and protect the tools of creators in the state.\nTake action\nTell CA Senators to stand with creators \nWhat’s changed about the bill?\nSince we first wrote about AB  2047, a bill targeting 3D printers for the rare, impractical, and already outlawed practice of manufacturing firearms without a license, it has picked up several amendments. Some are welcome c…",
-          "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-          "publishedOn": "2026-06-26T15:05:16.000Z",
-          "wordCount": 2013,
-          "title": "We Can Still Stop California’s 3D Printer Surveillance Scheme",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/3dprintca.jpg",
-            "alt": "Photo of a 3D printer printing the state of california with the EFF logo",
-            "type": "image/jpeg",
-            "length": "628300"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/3dprintca.jpg"
         }
       ]
     },
