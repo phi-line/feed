@@ -2990,6 +2990,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=55625",
+          "author": "Mark Johnson",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Family Plan appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/the-family-plan-c3g-disease-iowa",
+          "publishedOn": "2026-09-24T23:16:33.000Z",
+          "wordCount": 1891,
+          "title": "Protected: The Family Plan",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=55194",
           "author": "Matthew Wolfe",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Bleeding Hearts appeared first on The Atavist Magazine.",
@@ -3797,6 +3807,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563502",
+          "author": "Berkeleyside Staff",
+          "description": "Also: The university says \"miscommunication\" is to blame for a nine-month delay in honoring a legal settlement with an Israeli dance scholar denied a teaching position during the Gaza protests.",
+          "link": "https://www.berkeleyside.org/2026/09/24/the-wire-cal-sells-football-stadium-naming-rights-to-ai-company-databricks",
+          "publishedOn": "2026-09-25T00:20:00.000Z",
+          "wordCount": 7229,
+          "title": "The Wire: Cal sells football stadium naming rights to AI company Databricks",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP20341051108356.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563490",
+          "author": "Alex N. Gecan",
+          "description": "Fire officials said the blaze Friday evening on Browning Street was centered around a kitchen microwave. Another resident escaped the home unharmed.",
+          "link": "https://www.berkeleyside.org/2026/09/24/browning-street-fatal-kitchen-fire-bfd",
+          "publishedOn": "2026-09-24T22:45:56.000Z",
+          "wordCount": 7136,
+          "title": "Woman dies after house fire in Southwest Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7338.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563450",
           "author": "Alex N. Gecan",
@@ -11222,6 +11252,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112396 at https://www.eff.org",
+          "author": "Devanshi Nishar",
+          "description": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’ve collected about you. The more data a company has, the more personalized the ad can be. While DraftKings is using AI to supercharge the harmful effects of online behavioral advertising, EFF has long argued that all behavioral advertising should be banned. \nAccording to the New York Times, DraftKings is using its customers’ betting records to train a machine learning model to find losing gamblers. Once found, DraftKings sends these customers targeted advertising designed to lure them back to the …",
+          "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+          "publishedOn": "2026-09-24T20:11:52.000Z",
+          "wordCount": 1781,
+          "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/graphic_adtech_mobile.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "171014"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/graphic_adtech_mobile.png"
+        },
         {
           "id": "112381 at https://www.eff.org",
           "author": "Sophia Cope",
