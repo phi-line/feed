@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167446",
+          "author": "Shalma Wegsman",
+          "description": "After a long hiatus, the problem, which was likely inspired by juggling, has finally been resolved by a group of young mathematicians.            \nThe post Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+          "publishedOn": "2026-09-28T14:35:21.000Z",
+          "wordCount": 3300,
+          "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GrahamConjecture-crIrenePerez-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167403",
           "author": "Charlie Wood",
           "description": "The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.            \nThe post Gravity Seems Holographic. What Does That Mean for Reality? first appeared on Quanta Magazine",
@@ -536,6 +546,16 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/15/how-zambia-approved-an-hiv-drug-in-12-days/872cf5da25-1790028937/zambia-enlli-mcaleese-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/15/the-unacknowledgeable-work-of-pastors-wives",
+          "author": null,
+          "description": "Help Wanted: Someone to be everyone’s friend (but don’t expect reciprocity) (and don’t think of yourself as special). Ability to provide therapy a plus.",
+          "link": "https://asteriskmag.com/issues/15/the-unacknowledgeable-work-of-pastors-wives",
+          "publishedOn": "2026-09-15T00:00:00.000Z",
+          "wordCount": 3148,
+          "title": "The Unacknowledgeable Work of Pastors’ Wives",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/15/the-unacknowledgeable-work-of-pastors-wives/36187e26e1-1789418239/pastors-wives-van-nostrand-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/15/the-destruction-of-the-scottish-canon",
           "author": null,
           "description": "What’s the point of content knowledge when you can teach skills instead? Scotland decided to find out.",
@@ -622,6 +642,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ababaf00d4b3100017ec4a9",
+          "author": "Joseph Cox",
+          "description": "ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data. We have never intended to nor have we ever planned to.”",
+          "link": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+          "publishedOn": "2026-09-28T19:17:06.000Z",
+          "wordCount": 2013,
+          "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/AFR_GEN_SUD_FRICA_EEUU_EXTRADICI_N_26254397507870.jpg"
+        },
+        {
+          "id": "6aba6d120d4b3100017e856e",
+          "author": "Joseph Cox",
+          "description": "Facial recognition is everywhere now. Soon it's going to be right in your face, too.",
+          "link": "https://www.404media.co/the-end-of-privacy-is-here-with-kashmir-hill/",
+          "publishedOn": "2026-09-28T13:37:16.000Z",
+          "wordCount": 1121,
+          "title": "The End of Privacy Is Here (with Kashmir Hill)",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/maxresdefault-7.jpg"
+        },
+        {
+          "id": "6aba645e0d4b3100017bbb8f",
+          "author": "Joseph Cox",
+          "description": "Human contractors are reviewing Copilot users’ prompts and uploaded images, according to internal documents obtained by 404 Media. The contractors are also bombarded with users’ requests for sexual AI images.",
+          "link": "https://www.404media.co/humans-reading-copilot-prompts-images/",
+          "publishedOn": "2026-09-28T13:26:31.000Z",
+          "wordCount": 2145,
+          "title": "Humans Are Reading Copilot Prompts — And They're Horrified",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/rubaitul-azad-44aUjjY0LYQ-unsplash.jpg"
+        },
         {
           "id": "6ab83f13faabeb0001cdb959",
           "author": "Becky Ferreira",
@@ -2531,16 +2581,6 @@
           "wordCount": 1879,
           "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a ‘Dire’ Warning",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/miguel-henriques-RfiBK6Y_upQ-unsplash.jpg"
-        },
-        {
-          "id": "6a440a7e79d2b20001b5fdf4",
-          "author": "Joseph Cox",
-          "description": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
-          "link": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
-          "publishedOn": "2026-07-01T10:00:57.000Z",
-          "wordCount": 1616,
-          "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/laurenz-heymann-wAygsCk20h8-unsplash.jpg"
         }
       ]
     },
@@ -2838,6 +2878,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/great-leaps",
+          "author": "Asimov Press",
+          "description": "Two of biology’s greatest theories completely predate direct experimental evidence. Tracing their origins could help us understand how to make the next ones.",
+          "link": "https://www.asimov.press/p/great-leaps",
+          "publishedOn": "2026-09-28T17:04:18.000Z",
+          "wordCount": null,
+          "title": "Great Leaps in Biological Theory",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Ypox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2a36383-5e5d-4b5f-8564-8c6f08071837_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Ypox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2a36383-5e5d-4b5f-8564-8c6f08071837_2000x1260.jpeg"
+        },
         {
           "id": "https://www.asimov.press/p/theory-biology",
           "author": "Asimov Press",
@@ -3315,16 +3371,6 @@
           "wordCount": 191,
           "title": "Types of Tornado Alert",
           "imageUrl": "https://imgs.xkcd.com/comics/types_of_tornado_alert_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3266/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3266/",
-          "publishedOn": "2026-07-01T04:00:00.000Z",
-          "wordCount": 185,
-          "title": "Holes",
-          "imageUrl": "https://imgs.xkcd.com/comics/holes_2x.png"
         }
       ]
     },
@@ -3333,6 +3379,16 @@
       "feedUrl": "https://writings.stephenwolfram.com/feed/",
       "siteUrl": "https://writings.stephenwolfram.com",
       "articles": [
+        {
+          "id": "https://writings.stephenwolfram.com/?p=77087",
+          "author": "Stephen Wolfram",
+          "description": "Headlines and History The headlines keep coming: such and such an AI system has solved such and such a math problem. And more and more I’m hearing people saying: maybe we don’t need people doing math research anymore; maybe we should just delegate it all to more and more powerful AIs. I must admit that […]",
+          "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+          "publishedOn": "2026-09-28T17:27:21.000Z",
+          "wordCount": 8095,
+          "title": "What’s the Future for Pure Math Research in the Age of AI?",
+          "imageUrl": "https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png"
+        },
         {
           "id": "https://writings.stephenwolfram.com/?p=75888",
           "author": "Stephen Wolfram",
@@ -3717,6 +3773,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=480613",
+          "author": "Jose Fermoso",
+          "description": "Canceled and delayed trips have become routine. A board member told the agency to “get a handle on this ASAP.”",
+          "link": "https://www.berkeleyside.org/2026/09/28/ac-transit-buses-delay-unreliable-canceled-rides-2026",
+          "publishedOn": "2026-09-28T14:00:00.000Z",
+          "wordCount": 9639,
+          "title": "AC Transit buses have become more unreliable this year, say riders and transit board",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/03/large-E-Oakland-to-Skyline-1.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=562815",
+          "author": "Berkeleyside Staff",
+          "description": "Katz is running unopposed for a sixth term representing Berkeley on the East Bay Municipal Utilities District Board.",
+          "link": "https://www.berkeleyside.org/2026/09/28/andy-katz-ebmud-ward-4-election-2026",
+          "publishedOn": "2026-09-28T13:00:00.000Z",
+          "wordCount": 8288,
+          "title": "EBMUD Director Andy Katz: Climate change brings biggest challenges",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Andy-Katz.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563395",
           "author": "Reichi Lee, Megan Werner, Allison Bond, Steve Tate, Emma Soichet, Scott Hofmeister and Bren Darrow",
@@ -6568,6 +6644,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/jYRH2z3v-Ug",
+          "author": null,
+          "description": "A message from NPR Marketing - POV: You're supposed to model new merch but you're just a podcast host. Tees, totes, bucket hats and mugs, all with extra sazó...",
+          "link": "https://www.youtube.com/shorts/jYRH2z3v-Ug",
+          "publishedOn": "2026-09-28T20:03:25.000Z",
+          "wordCount": 3879,
+          "title": "Tiny Desk Merch: Latin Music Month",
+          "imageUrl": "https://i.ytimg.com/vi/jYRH2z3v-Ug/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBhdnoN654R-jouIOVlMrQDqRPMHQ"
+        },
+        {
           "id": "https://www.youtube.com/shorts/IN5lC_T7yOA",
           "author": null,
           "description": "#tinytalk • Tori Kelly explains how she takes on different personas while recording in the studio, each with their own approach to the vocals, to achieve the...",
@@ -9222,6 +9308,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=80022",
+          "author": "Jessica Hylton",
+          "description": "Whether it's game day or dinner time with the kiddos, this vegan popcorn chicken is a winner. Tender, juicy soy curls are wrapped in a crunchy KFC-style breading that'll beat takeout any day. Serve them with creamy maple Dijon sauce and watch them disappear.",
+          "link": "https://jessicainthekitchen.com/vegan-popcorn-chicken/",
+          "publishedOn": "2026-09-28T14:00:00.000Z",
+          "wordCount": 7951,
+          "title": "Vegan Popcorn Chicken",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/08/Vegan-Soy-Curl-Popcorn-Chicken-20.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=80685",
           "author": "Jessica Hylton",
           "description": "Not quite ready to bake another loaf, but wondering what to do with that sourdough discard? These easy sourdough discard crackers are the answer. Crunchy, crispy, and flaky with that perfect sourdough tang (and a hint of rosemary), they're ideal for dipping and snacking!",
@@ -9535,6 +9631,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/how-to-read-good-or-maybe-great",
+          "author": "Marco Kaye",
+          "description": "Originally published in the near future.\n - - -\nAre you one of the last humans reading? You are rare. Appreciation! I wrote this—personally, with hands—to help the billions who don’t read to read good again. It’s painful, but with my technique, you can read entire sentences without requiring additional stimulus. Confused and irritated? Perfect. Those are crucial parts of the reading experience!\n Ever since I can remember, I stopped reading. My brain hurt. My eyes burned. And I lost money. All this, plus I kept falling asleep.\n But sometimes we are forced to read. Examples? In school, to understand the old way. By bots during data center cool-downs for critical stim updates. Or—very rare—because your “writer” friend “loves writing.” Fine. “Please read your own self. Do not show me words.” B…",
+          "link": "https://www.mcsweeneys.net/articles/how-to-read-good-or-maybe-great",
+          "publishedOn": "2026-09-28T17:00:00.000Z",
+          "wordCount": 2997,
+          "title": "How to Read Good  or Maybe Great",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ay4nludghi2h29dzdkhxkqtbc0rx"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-incredibly-chillaxed-school-bus-stop-hang-with-the-gen-x-dad-who-keeps-putting-atlas-shrugged-in-your-little-free-library",
           "author": "Michael Lieberman",
@@ -11043,6 +11149,22 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "112403 at https://www.eff.org",
+          "author": "Beryl Lipton",
+          "description": "The San Francisco Police Department (SFPD) began regularly deploying drones two years ago and has since expanded their use in a way that has outpaced its documented policy and evaded existing local and state oversight of these devices. \nThe department has a new proposed policy, which continues to be grossly inadequate in protecting privacy and civil liberties. At best, the draft policy continues the SFPD’s pattern of putting vague guardrails on a powerful surveillance tool, but at worst, if implemented, the policy could effectively usher in sweeping, non-targeted, and unspecified general surveillance over the city with few guardrails.\nEFF has repeatedly opposed the unaccountable development of the SFPD’s drone program and recently sent a comment to the Police Commission, the local civilian…",
+          "link": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
+          "publishedOn": "2026-09-28T20:30:00.000Z",
+          "wordCount": 1919,
+          "title": "EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/drone-banner_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "8448"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/drone-banner_0.png"
+        },
+        {
           "id": "112398 at https://www.eff.org",
           "author": "David Greene",
           "description": "EFF legal intern Simar Kaur also contributed to this article.\nAmericans’ First Amendment right to equal access to official government statements is violated by the Trump administration’s use of Truth Social’s preferential treatment scheme, which blocks people who won’t pay Trump’s company up to $100,000 a month early access to government news, EFF told a federal court.\nThe First Amendment guarantees that members of the public have equal access to public officials’ public comments, we reminded the court.\nEFF filed an amicus brief in support of a motion for a preliminary injunction in the lawsuit filed by The Intercept Media and the Freedom of the Press Foundation against President Trump and other administration officials. The lawsuit challenges their use of Truth Social as their primary soc…",
@@ -12531,6 +12653,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/every-mosquito-is-a-policy-failure/",
+          "author": null,
+          "description": "The technology to eradicate mosquito-borne disease already exists. We just have to be brave enough to use it.",
+          "link": "https://worksinprogress.co/issue/every-mosquito-is-a-policy-failure/",
+          "publishedOn": "2026-09-28T20:31:45.000Z",
+          "wordCount": 2829,
+          "title": "Mosquitoes are a choice",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/09/Mosquito_Sharecard.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/weapons-of-mass-decentralization/",
           "author": null,
