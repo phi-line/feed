@@ -511,16 +511,6 @@
           "wordCount": 3646,
           "title": "Astrophysicists Puzzle Over Webb’s New Universe",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=163798",
-          "author": "Yasemin Saplakoglu",
-          "description": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.            \nThe post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "publishedOn": "2026-07-01T14:00:02.000Z",
-          "wordCount": 3381,
-          "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-social.jpg"
         }
       ]
     },
@@ -2859,17 +2849,6 @@
           "title": "4 Ways the 'Big Beautiful Bill' Supercharged Trump's Immigration Crackdown",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8391109",
-          "author": "J.D. Tuccille",
-          "description": "Politicians who don’t like receiving nastygrams should quit government work.",
-          "link": "https://reason.com/2026/07/01/thin-skinned-government-agents-threaten-yet-another-critic/",
-          "publishedOn": "2026-07-01T11:00:19.000Z",
-          "wordCount": null,
-          "title": "Thin-Skinned Government Agents Threaten Yet Another Critic",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3002,6 +2981,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3304/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3304/",
+          "publishedOn": "2026-09-28T04:00:00.000Z",
+          "wordCount": 184,
+          "title": "Jupiter Icy Moons Explorer",
+          "imageUrl": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer_2x.png"
+        },
         {
           "id": "https://xkcd.com/3303/",
           "author": null,
@@ -3773,6 +3762,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://richmondside.org/?p=470087",
+          "author": "Kleigh Carroll",
+          "description": "Health workers want higher wages and better working conditions while management says they’re limited by federal financial uncertainties.",
+          "link": "https://www.berkeleyside.org/2026/09/28/lifelong-medical-strike-east-bay-workers-rally-in-richmond",
+          "publishedOn": "2026-09-28T23:58:11.000Z",
+          "wordCount": 8509,
+          "title": "LifeLong doctors, nurses and therapists strike across the East Bay",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/LifeLongStrike_092826_Mtierney-1.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=549060",
+          "author": "Nico Savidge",
+          "description": "The City Council will consider on Tuesday raising height limits and taking other steps to spur housing development on West Berkeley’s main thoroughfare.",
+          "link": "https://www.berkeleyside.org/2026/09/28/berkeley-housing-san-pablo-avenue-specific-plan-zoning",
+          "publishedOn": "2026-09-28T23:18:21.000Z",
+          "wordCount": 8956,
+          "title": "Berkeley wants a vibrant San Pablo Avenue. Will more housing deliver it?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/12/San-Pablo-Ave_Sara-Martin-5.jpg"
+        },
         {
           "id": "https://oaklandside.org/?p=480613",
           "author": "Jose Fermoso",
@@ -6322,26 +6331,6 @@
           "wordCount": 11770,
           "title": "Still looking for after-school care in Berkeley? Here’s a guide to your options",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/08/Natera_AfterschoolProgram_Washington_250515_02.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559296",
-          "author": "Eric Tucker",
-          "description": "Law professor John Yoo was a senior Justice Department official in the George W. Bush administration and authored memos justifying “enhanced interrogation” techniques after 9/11.",
-          "link": "https://www.berkeleyside.org/2026/07/01/john-yoo-uc-berkeley-law-professor",
-          "publishedOn": "2026-07-01T14:48:10.000Z",
-          "wordCount": 7212,
-          "title": "‘Torture memos’ UC Berkeley law professor joins conspiracy investigation of perceived Trump foes",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/AP26180628828860.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=558853",
-          "author": "Nico Savidge",
-          "description": "“It was so unnecessary,” said Councilmember Mark Humbert, who’s pushing to simplify approvals after a seven-month dispute between neighbors over a hot tub permit escalated to the City Council in 2024.",
-          "link": "https://www.berkeleyside.org/2026/07/01/berkeley-hot-tub-permit-process",
-          "publishedOn": "2026-07-01T14:00:00.000Z",
-          "wordCount": 7447,
-          "title": "After a hot tub battle bubbled up to City Council, Berkeley could relax permit process",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/09/Hot-tub.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -11120,26 +11109,6 @@
           "wordCount": 2687,
           "title": "The US Constitution Is for Simple Folk Still Burdened by the Belief That Words Have Meaning",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/v24as6ohsqwn2b5cvxlx9wo9zawr"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/july-4th",
-          "author": "Ali Fitzgerald",
-          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
-          "link": "https://www.mcsweeneys.net/articles/july-4th",
-          "publishedOn": "2026-07-01T16:00:00.000Z",
-          "wordCount": 2040,
-          "title": "July 4th",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/lcjo2h8cl65qf0qo3dr3py990w6v"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/on-the-historical-significance-of-the-male-low-ponytail",
-          "author": "Andrea Ryan and Abby McLellan",
-          "description": "Throughout American history, the male low ponytail has transformed ordinary men into leaders, shifting the outcomes of wars and upending cultural norms. Here, we explore the immense impact of this powerful hairstyle.\n 1776: George Washington first asked the question: Who says you can’t have white curly hair in front and a tiny pony in the back? All portraits of him only give a cursory glance at his low-po, never the full view, because that was reserved for soldiers willing to risk their lives with him in battle. By 1789, Washington’s low ponytail was nothing less than presidential, and the state electorate agreed unanimously, the only time in our nation’s history.\n 1776: Paul Revere’s hair in a word? Revolutionary. These scholars would welcome a “Midnight Ride of Paul Revere” due to the in…",
-          "link": "https://www.mcsweeneys.net/articles/on-the-historical-significance-of-the-male-low-ponytail",
-          "publishedOn": "2026-07-01T12:00:00.000Z",
-          "wordCount": 2792,
-          "title": "On the Historical Significance of the Male Low Ponytail",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/byqnfz07ir6bd8uxhs01a185cnhs"
         }
       ]
     },
@@ -12832,16 +12801,6 @@
           "wordCount": 1975,
           "title": "Chabad life",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/07/updated-chabad-share-card.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-          "author": null,
-          "description": "Two Dutch brothers invented a system that transformed a city previously ravaged by fires",
-          "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-          "publishedOn": "2026-07-01T13:08:57.000Z",
-          "wordCount": 2578,
-          "title": "How Amsterdam invented the fire department",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/07/firefighting-share-card-.jpg"
         }
       ]
     }
