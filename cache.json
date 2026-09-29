@@ -633,6 +633,46 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6abbef16898a4d00015c8ff7",
+          "author": "Becky Ferreira",
+          "description": "The bare-throated bellbird and the red-legged seriema join the white bellbird in the winner’s circle of the loudest birds on Earth, with calls exceeding 120 decibels—louder than a chainsaw or jackhammer.",
+          "link": "https://www.404media.co/loudest-birds-in-the-world/",
+          "publishedOn": "2026-09-29T17:04:37.000Z",
+          "wordCount": 1779,
+          "title": "Two New Birds Louder Than Jackhammers Just Dropped",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/Procnias_nudicollis.jpg"
+        },
+        {
+          "id": "6abbc357898a4d000159bde1",
+          "author": "Jason Koebler",
+          "description": "CEO who wants to add facial recognition to Flock cameras says it's \"the way the world will have to be.\"",
+          "link": "https://www.404media.co/surveillance-finds-a-way/",
+          "publishedOn": "2026-09-29T14:05:18.000Z",
+          "wordCount": 1057,
+          "title": "Surveillance Finds a Way",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/tasha-kostyuk-TtMKq3lJm-U-unsplash.jpg"
+        },
+        {
+          "id": "6abafa88b549950001340ba1",
+          "author": "Jason Koebler",
+          "description": "A surveillance company wants to \"close the gap\" that Flock won't do, by pitching facial recognition on its cameras.",
+          "link": "https://www.404media.co/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras/",
+          "publishedOn": "2026-09-29T13:53:42.000Z",
+          "wordCount": 2400,
+          "title": "Surveillance Company Tells Cops It Wants to Add Facial Recognition to Flock Cameras",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/mother-flocker-psej0UbsDDA-unsplash.jpg"
+        },
+        {
+          "id": "6abbb2f7898a4d000159ba30",
+          "author": "Matthew Gault",
+          "description": "The team used frontier LLMs with no prior training data navigate a simple parking lot course.",
+          "link": "https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/",
+          "publishedOn": "2026-09-29T13:06:01.000Z",
+          "wordCount": 2463,
+          "title": "These Tech Workers Made ChatGPT Drive a Toyota Corolla",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Screenshot-2026-09-29-085100.png"
+        },
+        {
           "id": "6ababaf00d4b3100017ec4a9",
           "author": "Joseph Cox",
           "description": "ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish this data. We have never intended to nor have we ever planned to.”",
@@ -3375,6 +3415,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/noemas-ai-reading-list",
+          "author": "Noema editors",
+          "description": "The post Noema’s AI Reading List appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/noemas-ai-reading-list",
+          "publishedOn": "2026-09-29T16:24:31.000Z",
+          "wordCount": 2394,
+          "title": "Noema’s AI Reading List",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/Screenshot-2026-09-22-at-4.21.03-PM-1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=30da4207eab0e10b39bb9151e1f857d4"
+        },
+        {
           "id": "https://www.noemamag.com/now-entering-the-era-of-bleh",
           "author": "Aaron Horwath",
           "description": "The post Now Entering: The Era Of Bleh appeared first on NOEMA.",
@@ -3721,6 +3771,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563665",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/09/29/holders-house-gold-palm-pin-rice-buenos-aires-souk-savanh-open",
+          "publishedOn": "2026-09-29T21:21:44.000Z",
+          "wordCount": 7632,
+          "title": "New Lao and Thai restaurant arrives in Albany, and a Chinese comfort food spot debuts in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/SoukSavanh2-Albany.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563649",
+          "author": "Zac Farber",
+          "description": "Beverly Cleary, Ron Dellums, Raymond Burr, Ruth Riechl and many other famous Berkeley people have been added at our readers’ suggestion.",
+          "link": "https://www.berkeleyside.org/2026/09/29/famous-berkeley-people-update",
+          "publishedOn": "2026-09-29T18:01:43.000Z",
+          "wordCount": 7497,
+          "title": "You asked, we added: Our list of famous Berkeley people now has more names",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/AP18211698717083.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563642",
+          "author": "Nathan Dalton",
+          "description": "Starfish Arts, launched by a tattoo artist and therapist in the Gilman District, includes a queer-friendly gallery, an upcycled clothing boutique and a makers’ space. Underpainting Collective opened a studio on Shattuck in January.",
+          "link": "https://www.berkeleyside.org/2026/09/29/two-new-berkeley-arts-spaces-open-their-first-exhibits-this-week",
+          "publishedOn": "2026-09-29T16:47:04.000Z",
+          "wordCount": 8377,
+          "title": "Two new Berkeley arts spaces open their first exhibits this week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-46.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563329",
+          "author": "Daniel Ekonde",
+          "description": "From dorms with 1,000-plus beds to a $560 million academic building focused on “AI-driven discovery,” 15 major Cal projects are recently completed or in the development pipeline.",
+          "link": "https://www.berkeleyside.org/2026/09/29/uc-berkeley-construction-map",
+          "publishedOn": "2026-09-29T13:00:00.000Z",
+          "wordCount": 8654,
+          "title": "A map of the construction boom on UC Berkeley’s campus",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-39.png"
+        },
         {
           "id": "https://richmondside.org/?p=470087",
           "author": "Kleigh Carroll",
@@ -6250,16 +6340,6 @@
           "wordCount": 8127,
           "title": "Around Berkeley: Alice in Wonderland, Gilman First Fridays, Playreaders Circle",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/large-John-Hinkel-Park-reopens-historic-Amphitheater-and-a-new-playground-after-years-of-restoration.jpg?fit=1600%2C1068&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559361",
-          "author": "Zac Farber",
-          "description": "Plus: A team of Cal grads have developed a platform for reporting problems with autonomous vehicles, such as reckless driving or accessibility issues.",
-          "link": "https://www.berkeleyside.org/2026/07/01/the-wire-uc-berkeley-scientists-wins-prize-for-decoding-zebra-finches-birdsong",
-          "publishedOn": "2026-07-02T00:15:00.000Z",
-          "wordCount": 7407,
-          "title": "The Wire: UC Berkeley scientists wins prize for decoding zebra finches’ birdsong",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/image-3.png?fit=1821%2C1209&ssl=1"
         }
       ]
     },
@@ -6528,21 +6608,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/kings-great-fortune/903950ilsdl.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/the-bestiary-grows",
-          "author": null,
-          "description": "Control, meaning, purpose, goals, recursion, and Water Lilies join the catalog",
-          "link": "https://aethermug.com/posts/the-bestiary-grows?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-07-02T06:35:12.000Z",
-          "wordCount": 1258,
-          "title": "The Bestiary Grows",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/the-bestiary-grows/pv_bestiary.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/the-bestiary-grows/pv_bestiary.jpg"
         }
       ]
     },
@@ -6551,6 +6616,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3EWLwZh4HjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3EWLwZh4HjU",
+          "publishedOn": "2026-09-29T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Melissa Aldana with Gonzalo Rubalcaba: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/jYRH2z3v-Ug",
           "author": null,
@@ -9216,6 +9291,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=81138",
+          "author": "Jessica Hylton",
+          "description": "When life gives you limes, make cilantro lime marinated tofu. Bursting with flavours of bright, zippy lime, fresh, citrusy cilantro, and a hit of garlic, this easy, air fryer tofu comes out perfectly crispy and golden brown with a satisfying chew. Served over rice with an extra drizzle of marinade, dinner never tasted so good.",
+          "link": "https://jessicainthekitchen.com/cilantro-lime-marinated-tofu/",
+          "publishedOn": "2026-09-29T14:00:00.000Z",
+          "wordCount": 7025,
+          "title": "Cilantro Lime Marinated Tofu",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/08/Cilantro-Lime-Tofu8965-1.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=80022",
           "author": "Jessica Hylton",
           "description": "Whether it's game day or dinner time with the kiddos, this vegan popcorn chicken is a winner. Tender, juicy soy curls are wrapped in a crunchy KFC-style breading that'll beat takeout any day. Serve them with creamy maple Dijon sauce and watch them disappear.",
@@ -9539,6 +9624,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/announcing-cornell-universitys-newest-writing-course-rape-essays-101",
+          "author": "Alexea Malaletkin",
+          "description": "“A New York prosecutor said Monday that he would reopen an investigation into accusations of a 2024 sexual assault at Cornell University… The lawsuit alleged that the seven accused fraternity members were given the opportunity to ‘mitigate their conduct by submitting essays to Cornell.’” — New York Times\n - - -\nHere at Cornell, we aim to prepare our students for a wide breadth of challenges with our academic offerings. Recent criticism of our assigned Rape Essays has made us reflect on our approach. We understand that it is our responsibility to teach Cornell collegiates what a good Rape Essay looks like. Rape Essays 101 is the best manifestation of this commitment that our most tenured minds could come up with.\n Can a rapist’s prose effectively elicit remorse for sexual assault? What word…",
+          "link": "https://www.mcsweeneys.net/articles/announcing-cornell-universitys-newest-writing-course-rape-essays-101",
+          "publishedOn": "2026-09-29T17:52:00.000Z",
+          "wordCount": 2962,
+          "title": "Announcing Cornell University’s Newest Writing Course: Rape Essays 101",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/h4g2t0l56qcjbb6jvm9otj4sdpes"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/chicken-and-waffles-oreos",
+          "author": "Leslie Ylinen",
+          "description": "I’m an American, and as such, I believe in free and fair elections. Actually, let me dial that back. I used to believe in them, and I’d like to again. So when I heard the cookie perverts over at Oreo had launched their “Twist, Lick, Vote” campaign, I felt a long-dormant patriotic swell awaken in me. A heroic call to civic duty compelling me to make a decision that will impact the people of our country for potentially several weeks, until the next marketing gimmick comes along. It’s a responsibility I take seriously, and candidly, I’d like to microdose a little democracy—as a treat.\n Here’s how it works. There are currently three limited-edition Oreo flavors on the shelves. This immediately gave me pause because all bad things come in threes: the heads of Cerberus, celebrity deaths, witches…",
+          "link": "https://www.mcsweeneys.net/articles/chicken-and-waffles-oreos",
+          "publishedOn": "2026-09-29T13:00:00.000Z",
+          "wordCount": 3288,
+          "title": "Reviews of New Food: Chicken and Waffles Oreos",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/y5g70fc3k3rzwa6t9stvd3iuwtc8"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/im-going-to-have-a-third-cup-of-coffee-and-i-need-everyone-to-respect-my-decision",
           "author": "Aliza Zelin Neidich",
@@ -11036,6 +11141,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112382 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recognition to creepy ads that – based on what we see and do online – seem to know everything we’re thinking and planning. It didn’t have to be this way, and since the early days of the internet, a dedicated band of activists, lawyers and technologists have fought for a better, more secure and private digital future – a future that’s still attainable.  \nCindy Cohn, who just finished a 26-year run with the Electronic Frontier Foundation including 11 years as its executive director, has lived this fight. She says privacy isn’t just about secrecy: It's ultimately about power – who has it, and who has the ability to protect themselves from it.   \nWelc…",
+          "link": "https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries",
+          "publishedOn": "2026-09-29T15:00:32.000Z",
+          "wordCount": 1651,
+          "title": "Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/pd-podcast-banner.png",
+            "alt": "Privacy&#039;s Defender: Stories From the Fights for Digital Rights",
+            "type": "image/png",
+            "length": "1062415"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/pd-podcast-banner.png"
+        },
         {
           "id": "112403 at https://www.eff.org",
           "author": "Beryl Lipton",
@@ -12541,6 +12662,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+          "author": null,
+          "description": "The technology to eradicate mosquito-borne disease already exists. We just have to be brave enough to use it.",
+          "link": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+          "publishedOn": "2026-09-28T20:31:45.000Z",
+          "wordCount": 2829,
+          "title": "Mosquitoes are a choice",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/09/Mosquito_Sharecard_V2.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/every-mosquito-is-a-policy-failure/",
           "author": null,
