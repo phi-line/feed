@@ -643,6 +643,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6abd7bcb25f7fd0001e5b384",
+          "author": "Jason Koebler",
+          "description": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"",
+          "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+          "publishedOn": "2026-09-30T21:23:11.000Z",
+          "wordCount": 2350,
+          "title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-30-at-2.15.47-PM@2x.png"
+        },
+        {
+          "id": "6abd4b022fdb4c00013b7529",
+          "author": "Samantha Cole",
+          "description": "\"Do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?” one of the judges asked the lawyer, who submitted false testimony and witnesses after using ChatGPT.",
+          "link": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
+          "publishedOn": "2026-09-30T18:15:31.000Z",
+          "wordCount": 1701,
+          "title": "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/chatgptlawyer--1-.png"
+        },
+        {
           "id": "6abd34502fdb4c00013b6c52",
           "author": "Joseph Cox",
           "description": "USPS says the cameras, put on USPS truck dashboards, will scan roads, signs, and more.",
@@ -3792,6 +3812,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=563752",
+          "author": "Alex N. Gecan",
+          "description": "The Berkeley Fire Department was working to put out the fire Wednesday afternoon as smoke blew through the city.",
+          "link": "https://www.berkeleyside.org/2026/09/30/vegetation-fire-near-i-580-in-berkeley-closes-frontage-road",
+          "publishedOn": "2026-09-30T21:46:50.000Z",
+          "wordCount": 7865,
+          "title": "Vegetation fire near I-580 in Berkeley closes Frontage Road",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image_1024.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563739",
+          "author": "Sharon McDonnell",
+          "description": "Payakk, an upscale Thai restaurant from the owners of Secrets of Tiger, is pairing technique, tradition and food science in Oakland's Merriewood neighborhood.",
+          "link": "https://www.berkeleyside.org/2026/09/30/payakk-pinpech-thai-montclair-merriewood-secrets-tiger",
+          "publishedOn": "2026-09-30T19:00:00.000Z",
+          "wordCount": 8629,
+          "title": "On a quiet street in the Oakland hills, a Thai chef is making noise with seasonal twists on Royal cuisine",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Payakk-Pinpech-Parmer.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563729",
+          "author": "Laura Casey",
+          "description": "Often referred to as a “weaver’s weaver,” Sekimachi first learned her way around the loom while attending California College of the Arts and Crafts in the late 1940s.",
+          "link": "https://www.berkeleyside.org/2026/09/30/kay-sekimachi-100th-birthday",
+          "publishedOn": "2026-09-30T17:40:32.000Z",
+          "wordCount": 9240,
+          "title": "Renowned Berkeley fiber artist Kay Sekimachi turns 100 today",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/05/IMG_4918.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=563583",
           "author": "Local sponsor",
           "description": "Hida Tool and The Gardener offer everything from weeding knives to a decorative dandelion seed head in a clear cube.",
@@ -6350,6 +6400,16 @@
       "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=97875",
+          "author": "deb",
+          "description": "This is me.] The larger context was that upon reaching so-called adulthood, I’d found that while I knew how to cook, there were still so many things I hadn’t figured out, such as: how to turn a can of tomatoes into not just an okay pasta sauce, but a spectacular one; how to make really good meatballs; perfect hummus; and a crumb cake I’d want to make forever.\n\n\nYou’d think that 20 years and more than 1400 recipes later, I’d be closing this chapter. What could there possibly be left to know? Haven’t we kale salad-ed and tomato soup-ed and apple pie-d our way to fulfillment yet?\nWell no, absolutely not. In fact, most days, I feel like I’m just getting started. \nRead more »",
+          "link": "https://smittenkitchen.com/2026/09/simple-chicken-tacos/",
+          "publishedOn": "2026-09-30T21:00:08.000Z",
+          "wordCount": 4903,
+          "title": "simple chicken tacos",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/09/simple-chicken-tacos-09-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
         {
           "id": "https://smittenkitchen.com/?p=97538",
           "author": "deb",
