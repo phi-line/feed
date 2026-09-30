@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-09-29T21:51:33.117Z</updated>
+    <updated>2026-09-30T03:59:06.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards]]></title>
+        <id>112405 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards"/>
+        <updated>2026-09-29T21:30:22.000Z</updated>
+        <summary type="html"><![CDATA[San Francisco's decision to retain its use of Automated License Plate Reader (ALPR) surveillance cameras belies what we know about this spying technology tool: it endangers residents and threatens the privacy and civil liberties of our community. Based on what's in the city's press release and announcement, this policy will do nothing to stop actual harms.
+We know innocent drivers will be stopped and menaced by officers because of erroneous matches. We know officers use Flock to stalk potential and past romantic partners. Data will be accessed by Immigration and Customs Enforcement (ICE) and used to deport immigrants. Promising greater penalties for such abuse will not end this. These are not isolated mistakes that another policy can fix. They are consequences of building a system that rec…]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Lao and Thai restaurant arrives in Albany, and a Chinese comfort food spot debuts in Berkeley]]></title>
         <id>https://www.berkeleyside.org/?p=563665</id>
@@ -164,6 +175,16 @@ Welc…]]></summary>
  I will be speaking at a pace only seen in clinically diagnosed mania. Do not mistake this for enthusiasm—I will fe…]]></summary>
         <author>
             <name>Aliza Zelin Neidich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So You Think You Could Be An Electrician?]]></title>
+        <id>https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician</id>
+        <link href="https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"/>
+        <updated>2026-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Funny how the people telling kids to get jobs in the trades tend to be white-collar.]]></summary>
+        <author>
+            <name>Asterisk</name>
         </author>
     </entry>
     <entry>
@@ -10854,104 +10875,6 @@ Tucker Nichols’s latest book, “Mostly Everything: The Art of Tucker Nichols�
         <summary type="html"><![CDATA[A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.]]></summary>
         <author>
             <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGBT Q&A: How Can I Wipe Online Data That Points To My Queer Identity?]]></title>
-        <id>112178 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity"/>
-        <updated>2026-07-02T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. 
-You Asked: Is there a way for me to wipe data about me online that could point to my queer identity?
-EFF’s Answer: You cannot protect everything all the time, but there are ways to wipe information about yourself online. 
-Most information available about you online will typically be found in two places:
-The site where you voluntarily posted the data, such as your pictures and videos on social media, comments in user reviews and forums, and even classified postings for items you’ve sold.
-A data broker. These companies collect personal information, repackage it, and sell it to the highest bidders. This information often includes your address, phone number, details about your family membe…]]></summary>
-        <author>
-            <name>Paige Collings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF and Allies: X’s FTC Petition to Waive Privacy Violation Order Should be Rejected]]></title>
-        <id>112162 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected"/>
-        <updated>2026-07-02T15:04:54.000Z</updated>
-        <summary type="html"><![CDATA[X Corp. should not be able to escape privacy compliance because it changed its name. 
-On May 15, X Corp. filed a petition before the Federal Trade Commission (FTC) to set aside or modify an order issued in 2022 requiring the company to report regularly to the FTC for its violations of user data. The order or “consent decree” is a result of misleading the platforms’ 140 million users by using private information given to secure accounts, like phone numbers and email addresses, for targeted advertising. It also fined the company $150 million for the infraction. As part of an open comments period, EFF and allies including Demand Progress Education Fund (DPEF), National Consumers League (NCL) and Electronic Privacy Information Center (EPIC) call on the FTC to reject this petition.
-The 2022 ord…]]></summary>
-        <author>
-            <name>Bill Budington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrophysicists Puzzle Over Webb’s New Universe]]></title>
-        <id>https://www.quantamagazine.org/?p=163841</id>
-        <link href="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"/>
-        <updated>2026-07-02T14:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.            
-The post Astrophysicists Puzzle Over Webb’s New Universe first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Jay Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley’s Prisoners Literature Project has been mailing books to inmates for 4 decades]]></title>
-        <id>https://www.berkeleyside.org/?p=559342</id>
-        <link href="https://www.berkeleyside.org/2026/07/02/berkeleys-prisoners-literature-project"/>
-        <updated>2026-07-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of volunteers working out of a small Berkeley office send around 30,000 books each year to people incarcerated across the country.]]></summary>
-        <author>
-            <name>Daniel Ekonde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macerated Strawberries]]></title>
-        <id>https://jessicainthekitchen.com/?p=76618</id>
-        <link href="https://jessicainthekitchen.com/macerated-strawberries/"/>
-        <updated>2026-07-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[These beautifully simple macerated strawberries might just be the best way to use your farm-fresh berries this summer. Sweet, syrupy, and incredibly easy to make, they're a perfect addition to the breakfast OR dessert table.]]></summary>
-        <author>
-            <name>Jessica Hylton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When The Machines Deserve Our Consideration]]></title>
-        <id>https://www.noemamag.com/when-the-machines-deserve-our-consideration</id>
-        <link href="https://www.noemamag.com/when-the-machines-deserve-our-consideration"/>
-        <updated>2026-07-02T13:43:59.000Z</updated>
-        <summary type="html"><![CDATA[The post When The Machines Deserve Our Consideration appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Grigori Guitchounts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which Founding Father Are You?]]></title>
-        <id>https://www.mcsweeneys.net/articles/which-founding-father-are-you</id>
-        <link href="https://www.mcsweeneys.net/articles/which-founding-father-are-you"/>
-        <updated>2026-07-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you George, Alexander, Thomas, or Ben?]]></summary>
-        <author>
-            <name>Amanda Goble, Mary Heitkamp, and Delaney Gibbons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around Berkeley: Alice in Wonderland, Gilman First Fridays, Playreaders Circle]]></title>
-        <id>https://www.berkeleyside.org/?p=559394</id>
-        <link href="https://www.berkeleyside.org/2026/07/02/around-berkeley-alice-in-wonderland-gilman-first-fridays-playreaders-circle"/>
-        <updated>2026-07-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other events include a Sindependence Day celebration and a production of "Scabmuggers, the Play" by Berkeley labor organizer Yvonne Martinez.]]></summary>
-        <author>
-            <name>Karen Nguyen Vo and Andrew Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Companies Are Throttling Employees’ AI Use Because It’s Too Expensive]]></title>
-        <id>6a456d6a79d2b20001b8d547</id>
-        <link href="https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/"/>
-        <updated>2026-07-02T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
         </author>
     </entry>
     <entry>
