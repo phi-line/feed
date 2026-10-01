@@ -658,7 +658,7 @@
           "description": "\"Do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?” one of the judges asked the lawyer, who submitted false testimony and witnesses after using ChatGPT.",
           "link": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
           "publishedOn": "2026-09-30T18:15:31.000Z",
-          "wordCount": 1701,
+          "wordCount": 1702,
           "title": "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/chatgptlawyer--1-.png"
         },
@@ -2641,16 +2641,6 @@
           "wordCount": 2092,
           "title": "SOLVED: The Case of the Missing Megalodon",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image3.jpg"
-        },
-        {
-          "id": "6a46b1cb13809c0001f23451",
-          "author": "Samantha Cole",
-          "description": "This week, we discuss the Supreme Court, the private jet, and AI on the TV.",
-          "link": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
-          "publishedOn": "2026-07-03T10:00:02.000Z",
-          "wordCount": 1151,
-          "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/nl7.3-1.png"
         }
       ]
     },
@@ -3812,13 +3802,33 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=563767",
+          "author": "Alex N. Gecan",
+          "description": "The council also kept prohibitions, in place since 2020, against using pepper spray or smoke for crowd control.",
+          "link": "https://www.berkeleyside.org/2026/09/30/cs-oc-spray-smoke-bpd",
+          "publishedOn": "2026-09-30T22:46:52.000Z",
+          "wordCount": 8240,
+          "title": "Berkeley City Council upholds ban on tear gas in narrow vote",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/05/05_29_20_protest_oakland-21.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563747",
+          "author": "Nico Savidge",
+          "description": "The council voted to set a seven-story height limit along the 2.3-mile West Berkeley corridor, over the objections of critics who argued a lower cap would create more affordable housing.",
+          "link": "https://www.berkeleyside.org/2026/09/30/berkeley-housing-san-pablo-avenue-specific-plan-zoning-2",
+          "publishedOn": "2026-09-30T22:15:00.000Z",
+          "wordCount": 9080,
+          "title": "City Council raises height limits on San Pablo Avenue",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-Natera_SanPablo_250321_09.jpg?fit=1600%2C1068&ssl=1"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=563752",
           "author": "Alex N. Gecan",
-          "description": "The Berkeley Fire Department was working to put out the fire Wednesday afternoon as smoke blew through the city.",
+          "description": "The Berkeley Fire Department brought the fire under control Wednesday afternoon but smoke lingered.",
           "link": "https://www.berkeleyside.org/2026/09/30/vegetation-fire-near-i-580-in-berkeley-closes-frontage-road",
           "publishedOn": "2026-09-30T21:46:50.000Z",
-          "wordCount": 7865,
-          "title": "Vegetation fire near I-580 in Berkeley closes Frontage Road",
+          "wordCount": 7904,
+          "title": "Vegetation fire near I-80 in Berkeley turns air unhealthy",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image_1024.png"
         },
         {
@@ -3827,7 +3837,7 @@
           "description": "Payakk, an upscale Thai restaurant from the owners of Secrets of Tiger, is pairing technique, tradition and food science in Oakland's Merriewood neighborhood.",
           "link": "https://www.berkeleyside.org/2026/09/30/payakk-pinpech-thai-montclair-merriewood-secrets-tiger",
           "publishedOn": "2026-09-30T19:00:00.000Z",
-          "wordCount": 8629,
+          "wordCount": 9376,
           "title": "On a quiet street in the Oakland hills, a Thai chef is making noise with seasonal twists on Royal cuisine",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Payakk-Pinpech-Parmer.jpg"
         },
@@ -3837,7 +3847,7 @@
           "description": "Often referred to as a “weaver’s weaver,” Sekimachi first learned her way around the loom while attending California College of the Arts and Crafts in the late 1940s.",
           "link": "https://www.berkeleyside.org/2026/09/30/kay-sekimachi-100th-birthday",
           "publishedOn": "2026-09-30T17:40:32.000Z",
-          "wordCount": 9240,
+          "wordCount": 8493,
           "title": "Renowned Berkeley fiber artist Kay Sekimachi turns 100 today",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/05/IMG_4918.jpg"
         },
@@ -6403,10 +6413,10 @@
         {
           "id": "https://smittenkitchen.com/?p=97875",
           "author": "deb",
-          "description": "This is me.] The larger context was that upon reaching so-called adulthood, I’d found that while I knew how to cook, there were still so many things I hadn’t figured out, such as: how to turn a can of tomatoes into not just an okay pasta sauce, but a spectacular one; how to make really good meatballs; perfect hummus; and a crumb cake I’d want to make forever.\n\n\nYou’d think that 20 years and more than 1400 recipes later, I’d be closing this chapter. What could there possibly be left to know? Haven’t we kale salad-ed and tomato soup-ed and apple pie-d our way to fulfillment yet?\nWell no, absolutely not. In fact, most days, I feel like I’m just getting started. \nRead more »",
+          "description": "This is me.] The larger context was that upon reaching so-called adulthood, I’d found that while I knew how to cook, there were still so many things I hadn’t figured out, such as: how to turn a can of tomatoes into not just an okay pasta sauce, but a spectacular one; how to make really good meatballs; perfect hummus; and a crumb cake I’d want to make forever.\n\n\nYou’d think that 20 years and more than 1400 recipes later, I’d be closing this chapter. What could there possibly be left to know? Haven’t we kale salad-ed and tomato soup-ed and apple pie-d our way to fulfillment yet?\nWell no, absolutely not. In fact, most days, I feel like I’m just getting started.\nRead more »",
           "link": "https://smittenkitchen.com/2026/09/simple-chicken-tacos/",
           "publishedOn": "2026-09-30T21:00:08.000Z",
-          "wordCount": 4903,
+          "wordCount": 5096,
           "title": "simple chicken tacos",
           "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/09/simple-chicken-tacos-09-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
         },
@@ -11163,16 +11173,6 @@
           "wordCount": 3063,
           "title": "I Don’t Know What I Expected at President Nyarlathotep’s Great American Shitshow, but Color Me Disappointed",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/78gqqnrkjslcwkfdugkzjkb2ievq"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/usa-we-go-together-like",
-          "author": "Tucker Nichols",
-          "description": "- - -\nTucker Nichols’s latest book, “Mostly Everything: The Art of Tucker Nichols” is available in our store.",
-          "link": "https://www.mcsweeneys.net/articles/usa-we-go-together-like",
-          "publishedOn": "2026-07-03T12:00:00.000Z",
-          "wordCount": 2095,
-          "title": "USA:  We Go Together Like…",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sfelq9kewmt0711ofa39fdif581q"
         }
       ]
     },
@@ -11181,6 +11181,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112411 at https://www.eff.org",
+          "author": "Tori Noble",
+          "description": "When the rich and powerful try to use the court to silence negative reporting about themselves, it’s worth calling out that behavior for what it is: an attack on free speech. This is why EFF is happy to stand up for reporters who find themselves in that situation.\nThe California Court of Appeals upheld a lower court’s decision to strike a former Premise Data CEO’s meritless lawsuit against a journalist who exposed the CEO’s secret arrest for felony domestic violence. Jack Poulson, the writer and publisher of All Source Intelligence, reported details from the San Francisco Police Department’s report of the arrest and posted a copy of the report after receiving the document from a confidential source. Poulson later learned the arrest record had been sealed. The CEO, Maury Blackman, sued Poul…",
+          "link": "https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless",
+          "publishedOn": "2026-09-30T22:38:05.000Z",
+          "wordCount": 1672,
+          "title": "Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/section-230-2-podcasts.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "376596"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/section-230-2-podcasts.jpg"
+        },
         {
           "id": "112408 at https://www.eff.org",
           "author": "Hudson Hongo",
