@@ -3041,6 +3041,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3305/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3305/",
+          "publishedOn": "2026-09-30T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Ground Effect",
+          "imageUrl": "https://imgs.xkcd.com/comics/ground_effect_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3304/",
           "author": null,
           "description": "",
@@ -6595,6 +6605,21 @@
       "siteUrl": "https://aethermug.com/",
       "articles": [
         {
+          "id": "https://aethermug.com/posts/please-don-t-shame-the-ai-writers",
+          "author": null,
+          "description": "A case for an uncomfortable middle ground",
+          "link": "https://aethermug.com/posts/please-don-t-shame-the-ai-writers?utm_source=rss&utm_campaign=rss",
+          "publishedOn": "2026-10-01T02:00:58.000Z",
+          "wordCount": 5626,
+          "title": "Please Don't Shame the AI Writers",
+          "enclosure": {
+            "url": "https://aethermug.com/assets/posts/please-don-t-shame-the-ai-writers/homer-violin-pupil.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://aethermug.com/assets/posts/please-don-t-shame-the-ai-writers/homer-violin-pupil.jpg"
+        },
+        {
           "id": "https://aethermug.com/posts/backgrounding",
           "author": null,
           "description": "How to learn truth from fiction",
@@ -9674,6 +9699,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-trusted-royal-advisor-conniving-worm-would-never-lead-me-astray",
+          "author": "Madeline Goetz and Johnathan Appel",
+          "description": "As the ruler of this fine kingdom, I must surround myself with only the most virtuous and wise minds as I navigate the daily demands of my position. That’s why I rely heavily on the counsel of my most trusted advisor, Conniving Worm.\n No one knows where he came from, but I like to say he’s a godsend.\n Ever since Conniving Worm joined my Royal Council, he has proven to be highly competent, fiercely loyal, and constantly laughing to himself while rubbing his hands together. Which is understandable, as this castle can be quite drafty!\n When my other advisors started dropping like flies due to sudden illnesses and freak accidents, Conniving Worm rose to the occasion and picked up all the slack. Now, what used to be an elite group of fourteen scholars and strategists is just one Conniving Worm.…",
+          "link": "https://www.mcsweeneys.net/articles/my-trusted-royal-advisor-conniving-worm-would-never-lead-me-astray",
+          "publishedOn": "2026-10-01T12:01:00.000Z",
+          "wordCount": 3014,
+          "title": "My Trusted Royal Advisor, Conniving Worm Would Never Lead Me Astray",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/xs9a02165ffokgtjnudsviyhe5h2"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-senator-eric-schmitt-about-it-being-totally-okay-not-to-know-anything-about-sports",
           "author": "Amanda Hollander",
