@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167492",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots.            \nThe post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+          "publishedOn": "2026-10-01T13:20:29.000Z",
+          "wordCount": 11248,
+          "title": "What Does the Fourth Dimension Actually Look Like?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E9-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167494",
           "author": "Conor Feehly",
           "description": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.            \nThe post Surprisingly Complex Waves Reveal the Brain’s Inner Workings first appeared on Quanta Magazine",
@@ -642,6 +652,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6abe6a64c78fa400010196e1",
+          "author": "Samantha Cole",
+          "description": "A look at the state of student journalism in light of the Cornell sexual assault case, and much more.",
+          "link": "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
+          "publishedOn": "2026-10-01T14:31:43.000Z",
+          "wordCount": 1223,
+          "title": "'Everything but censorship'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Cornell_Investigation_26271556664976.jpg"
+        },
+        {
+          "id": "6abe66ddc78fa400010195f2",
+          "author": "Claire Woodcock",
+          "description": "As the Cornell 7 case highlights the importance of student journalism, public records reveal how schools try to censor on-campus news outlets.",
+          "link": "https://www.404media.co/how-schools-and-universities-try-to-censor-student-journalists/",
+          "publishedOn": "2026-10-01T14:02:34.000Z",
+          "wordCount": 2468,
+          "title": "How Schools and Universities Try to Censor Student Journalists",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/image2.png"
+        },
+        {
+          "id": "6abd36942fdb4c00013b6d87",
+          "author": "Lorenzo Franceschi-Bicchierai",
+          "description": "Magent Forensics, the owner of the GrayKey phone unlocking tool, says it can bypass an iPhone rebooting feature that was locking cops out.",
+          "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+          "publishedOn": "2026-10-01T13:00:22.000Z",
+          "wordCount": 1164,
+          "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/graykey-device.png"
+        },
         {
           "id": "6abd7bcb25f7fd0001e5b384",
           "author": "Jason Koebler",
@@ -2631,16 +2671,6 @@
           "wordCount": 2431,
           "title": "Footage Shows Cop Stalking Woman He Met on a TV Set After Surveilling Her With a License Plate Reader",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-23-at-03.02.23@2x-1.png"
-        },
-        {
-          "id": "6a480cf313809c0001f56e1f",
-          "author": "Becky Ferreira",
-          "description": "A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.",
-          "link": "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
-          "publishedOn": "2026-07-04T10:00:09.000Z",
-          "wordCount": 2092,
-          "title": "SOLVED: The Case of the Missing Megalodon",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image3.jpg"
         }
       ]
     },
@@ -3465,6 +3495,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+          "author": "Ken Archer",
+          "description": "The post The AIs Are Not Going Rogue appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+          "publishedOn": "2026-10-01T13:00:54.000Z",
+          "wordCount": 7119,
+          "title": "The AIs Are Not Going Rogue",
+          "imageUrl": "https://noemamag.imgix.net/2026/09/Jerry-Lee-Bosmans-for-Noema.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ddc67e5d5e0f5dd773de4720c1320c76"
+        },
+        {
           "id": "https://www.noemamag.com/noemas-ai-reading-list",
           "author": "Noema editors",
           "description": "The post Noema’s AI Reading List appeared first on NOEMA.",
@@ -3811,6 +3851,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563858",
+          "author": "Pendarvis Harshaw | KQED",
+          "description": "Four 15s slappin' in ... the library?! The speakers, installed by singer and sonic designer Derwin Deon Brown II, are the centerpiece of a multi-week music series aimed at weaving new ideas into the library's culture.",
+          "link": "https://www.berkeleyside.org/2026/10/01/john-henry-sound-system-derwin-deon-brown-ii",
+          "publishedOn": "2026-10-01T19:57:36.000Z",
+          "wordCount": 8902,
+          "title": "Towering sound system named for Black folk hero John Henry comes to Berkeley library",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-3.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563823",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/10/01/alborz-admiral-maltings-peregrine-cafe-gong-cha-starbucks-close",
+          "publishedOn": "2026-10-01T19:00:00.000Z",
+          "wordCount": 8245,
+          "title": "Alborz shutters Berkeley location, Admiral Maltings announces final days, and an Emeryville food truck goes dark",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Alborz-Han.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=480781",
+          "author": "Momo Chang",
+          "description": "Some 1,800 Japanese Americans were forcibly removed from Oakland to camps in 1942. In a new exhibit, artist Masaki Fujihata explores the Berkeley photographer's iconic images of those events through augmented reality.",
+          "link": "https://www.berkeleyside.org/2026/10/01/behere-1942-japanese-american-incarceration-oakland-omca-masaki-fujihata",
+          "publishedOn": "2026-10-01T15:00:00.000Z",
+          "wordCount": 10223,
+          "title": "Dorothea Lange’s photos of Japanese American incarceration are turned immersive at OMCA",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/large-OMCA-BEHERE-1942-1.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563779",
+          "author": "Karen Nguyen Vo and Andrew Gilbert",
+          "description": "Other events include Community Music Day at Crowden School, \"The Fall Show\" at the Ashby Stage and a Halloween costume sewing circle.",
+          "link": "https://www.berkeleyside.org/2026/10/01/around-berkeley-dolly-parton-singalong-kids-music-fest-with-instrument-petting-zoo-oscar-wilde-play",
+          "publishedOn": "2026-10-01T14:00:00.000Z",
+          "wordCount": 8281,
+          "title": "Around Berkeley: Dolly Parton singalong, kids music fest with instrument petting zoo; Oscar Wilde play",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/IMG_0896-1-scaled.jpeg?fit=2560%2C1666&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563767",
           "author": "Alex N. Gecan",
@@ -6586,16 +6666,6 @@
           "wordCount": 4484,
           "title": "Meera Sodha’s recipe for rollercoaster apple muffins | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/3af1539008a1e58870103bc1e9525621f9b5067e/182_666_2972_2378/master/2972.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4193c2eee31870a364ac0a13be6461ba"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "A spicy, umami-rich salad provides sweetness and crunch alongside these simple Chinese-style courgette pancakes\nThis week marks nine years since I started writing this column, and here’s something I’m excited by: that we’ve only just scratched the surface when it comes to our collective knowledge about Asian cuisine. When it comes to Chinese food, for example, we might know a fair bit about, for example, Cantonese or Sichuan food, but what about Fujian or Hunanese? There are still so many riches to discover and excellent meals to be had. Today’s offering is a small token in that vein: a simple vegetable pancake made with courgette, known as hutazi and straight from the homes of Beijing. I’ve taken the liberty of embellishing it with some hot and sweet cucumbers.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/jul/04/beijing-style-courgette-pancakes-hot-honey-cucumbers-recipe-meera-sodha",
-          "publishedOn": "2026-07-04T05:00:06.000Z",
-          "wordCount": 4684,
-          "title": "Meera Sodha’s vegetarian recipe for Beijing-style courgette pancakes with hot honey cucumbers | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/a71814bf4fa27cf4cd5a272b6c5b434ed5fdf1f1/0_996_3690_2951/master/3690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ed3c2e647825a6c50413c08b9f9a25e"
         }
       ]
     },
@@ -6701,6 +6771,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=AvSxPx25oLc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AvSxPx25oLc",
+          "publishedOn": "2026-10-01T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Panteón Rococó: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3EWLwZh4HjU",
           "author": null,
@@ -9376,6 +9456,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=81584",
+          "author": "Jessica Hylton",
+          "description": "Have you ever had a fresh tortilla, still steaming from the skillet, covered in golden-brown blisters? There's nothing quite like it. These vegan flour tortillas are soft and tender with the perfect chew. Fold ’em into tacos, turn ’em into quesadillas, or enjoy as is, piping hot, straight out of the pan.",
+          "link": "https://jessicainthekitchen.com/simple-flour-tortillas/",
+          "publishedOn": "2026-10-01T14:00:00.000Z",
+          "wordCount": 8964,
+          "title": "Simple Flour Tortillas",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/09/Simple-Flour-Tortillas_17.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=81138",
           "author": "Jessica Hylton",
           "description": "When life gives you limes, make cilantro lime marinated tofu. Bursting with flavours of bright, zippy lime, fresh, citrusy cilantro, and a hit of garlic, this easy, air fryer tofu comes out perfectly crispy and golden brown with a satisfying chew. Served over rice with an extra drizzle of marinade, dinner never tasted so good.",
@@ -9699,6 +9789,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/how-could-such-a-thing-still-happen-in-a-country-with-a-frat-boy-supreme-court-justice",
+          "author": "Devorah Blachor",
+          "description": "I thought this kind of thing would surely no longer be happening. After the multiple waves of feminism, the #MeToo movement, and all that wokeness we did before it became cringe, we believed we’d progressed. Now here we are, back in this terrible place, just forty-one years after Brett Kavanaugh became a Delta Kappa Epsilon Deke, and eight years after his confirmation to the Supreme Court. How did we get here?\n It’s terrible that we’re raising girls in a culture where they still face threats of harassment, assault, and violence. You might expect something like this in countries where women don’t enjoy equal rights. But in a country where the Secretary of Defense is a testosterone-pushing reactionary who was credibly accused of rape and whose own mother publicly denounced him for mistreatin…",
+          "link": "https://www.mcsweeneys.net/articles/how-could-such-a-thing-still-happen-in-a-country-with-a-frat-boy-supreme-court-justice",
+          "publishedOn": "2026-10-01T17:15:00.000Z",
+          "wordCount": 2938,
+          "title": "How Could Such a Thing Still Happen in a Country with a Frat Boy Supreme Court Justice?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/teug67itql2l3tsj12qk2ehf2l7l"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/nocturnal-listening",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/nocturnal-listening",
+          "publishedOn": "2026-10-01T16:00:00.000Z",
+          "wordCount": 2394,
+          "title": "Nocturnal Listening",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/k6cx8eyv80c7r5eaua76hhn1oxa2"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/my-trusted-royal-advisor-conniving-worm-would-never-lead-me-astray",
           "author": "Madeline Goetz and Johnathan Appel",
@@ -11216,6 +11326,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112417 at https://www.eff.org",
+          "author": "Chao Liu",
+          "description": "If you are an Android user, you may have noticed it already: Google has begun allowing rival, third-party app stores to be distributed through the Google Play Store. And if you are a developer, you may have noticed new options for billing and distributing your apps. \nFor years, Epic Games, maker of games such as Fortnite, has been suing Google, alleging violations of antitrust law. Specifically at issue were Google's restrictions on the distribution of alternate app stores through the Play Store, restrictions on app developers who have little practical choice but to distribute their apps through the Play Store, and Google’s rules governing in-app payments and the fees associated with them. \nEpic’s challenge ultimately resulted in a court order requiring significant changes to Google’s prac…",
+          "link": "https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play",
+          "publishedOn": "2026-10-01T21:25:19.000Z",
+          "wordCount": 1742,
+          "title": "Challengers Approach: Third Party App Stores Arrive to Google Play",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/competition_robot.png",
+            "alt": "A large robot hand steals a tool from an alarmed person",
+            "type": "image/png",
+            "length": "207242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/competition_robot.png"
+        },
+        {
+          "id": "112416 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "When state lawmakers attempt to rewrite how the internet works, users rely on courts to recognize that laws can’t make technical impossibilities a reality. That’s why we were happy to see that a court has blocked Utah’s attempt to outlaw the privacy protections of Virtual Private Networks (VPNs). \nIn a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah’s SB 73, the state’s draconian anti-VPN age verification law. The decision comes as EFF submitted our comments to the Utah Department of Commerce, detailing how forcing platforms to detect and block privacy-preserving tools undermines user privacy and security worldwide while demanding the impossible.  \nWhat SB 73 Does \nSigned into law earlier this year, SB 73 attempted to regulate adult websites by req…",
+          "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+          "publishedOn": "2026-10-01T19:57:20.000Z",
+          "wordCount": 2292,
+          "title": "Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg",
+            "alt": "A highway sign shows the upcoming turns for different IP addresses, as cars pass a circuit tree lined road and drive into a tunnel.",
+            "type": "image/jpeg",
+            "length": "284672"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg"
+        },
+        {
+          "id": "112412 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "Over the years, the major tech companies have found all sorts of ways to embed themselves into our lives. We often use their software, their AI tools, their social media, and their operating systems by default without even thinking about potential alternatives. It’s time to rethink that relationship. \nLast year, we created Opt Out October to help remind ourselves of the variety of ways we can take back control of our data through small steps inside apps, operating systems, and other various forms. This year, we highlight the idea that sometimes the best way to control your data is to leave a platform, app, or operating system altogether. \nTo do so, we’ve created a hub of resources sharing ways to find new software that isn’t made by the tech giants, take advantage of the growing universe of new social media options, install a whole new operating system, and better control how various popular tools and software use your data for AI training. \nAs an incentive, we’ve made merit badges like the one below to help you track your own wins and share them with others. Complete any of these tasks and let the world know by sharing that accomplishment on social media or changing your profile image! Better, more privacy-respecting, and less-enshittified tools are out there. We just have to find and use them.\n\nHead over to our Opt Out October landing page and start taking the first steps to regaining control of the tools and software you use.",
+          "link": "https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants",
+          "publishedOn": "2026-10-01T19:27:29.000Z",
+          "wordCount": 1491,
+          "title": "Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/opt_out_ghosties-banner_2026.jpg",
+            "alt": "ghosts holding opt out signs",
+            "type": "image/jpeg",
+            "length": "208202"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/opt_out_ghosties-banner_2026.jpg"
+        },
         {
           "id": "112411 at https://www.eff.org",
           "author": "Tori Noble",
