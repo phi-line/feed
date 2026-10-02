@@ -33,6 +33,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167558",
+          "author": "Stephen Ornes",
+          "description": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow.            \nThe post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+          "publishedOn": "2026-10-02T14:45:02.000Z",
+          "wordCount": 3308,
+          "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ManipulatingTurbulence-crXinyuSi_UniversityOfPittsburgh-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167492",
           "author": "Janna Levin and Steven Strogatz",
           "description": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots.            \nThe post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
@@ -652,6 +662,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6abf9f4ac78fa4000104e20e",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss inbox slop, Claude cults, and more.",
+          "link": "https://www.404media.co/behind-the-blog-freaking-out/",
+          "publishedOn": "2026-10-02T16:02:30.000Z",
+          "wordCount": 1058,
+          "title": "Behind the Blog: Freaking Out",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/usps-1.png"
+        },
         {
           "id": "6abe6a64c78fa400010196e1",
           "author": "Samantha Cole",
@@ -3495,6 +3515,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/return-of-the-repressed-in-germany",
+          "author": "Nathan Gardels",
+          "description": "The post Return Of The Repressed In Germany appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/return-of-the-repressed-in-germany",
+          "publishedOn": "2026-10-02T14:50:25.000Z",
+          "wordCount": 6627,
+          "title": "Return Of The Repressed In Germany",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/Noema-Germany-final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ca82576716d38bbe3b0f985650011336"
+        },
+        {
           "id": "https://www.noemamag.com/the-ais-are-not-going-rogue",
           "author": "Ken Archer",
           "description": "The post The AIs Are Not Going Rogue appeared first on NOEMA.",
@@ -3851,6 +3881,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563789",
+          "author": "Karina Ioffee",
+          "description": "The district says it will take at least three more years to eliminate the program’s waitlist.",
+          "link": "https://www.berkeleyside.org/2026/10/02/berkeley-unified-school-district-after-school-program-fall-2026",
+          "publishedOn": "2026-10-02T14:00:00.000Z",
+          "wordCount": 9100,
+          "title": "Berkeley after-school program expands by hundreds of kids, but staffing, transport remain a problem",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image.png?fit=800%2C534&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563827",
+          "author": "Kenneth Mahaffey and Freya Hermanson",
+          "description": "He spent five decades financing, organizing, building, buying and advising the Parker Street Limited Equity Co-op, the Oregon Park Apartments Co-op, Fort Awesome/Cooperative Roots, the Golden Gate Co-housing Community, the Berkeley Vegan House and more.",
+          "link": "https://www.berkeleyside.org/2026/10/02/remembering-jack-sawyer-who-founded-co-ops-that-gave-over-100-berkeley-families-affordable-homes-to-own",
+          "publishedOn": "2026-10-02T12:00:00.000Z",
+          "wordCount": 8487,
+          "title": "Remembering Jack Sawyer, who founded co-ops that gave over 100 Berkeley families affordable homes to own",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-1.png?fit=1428%2C1078&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563843",
           "author": "Berkeleyside Staff",
@@ -9783,6 +9833,16 @@
       "siteUrl": "https://zserge.com/",
       "articles": [
         {
+          "id": "https://zserge.com/posts/bunnymator/",
+          "author": null,
+          "description": "This is a story of an old toy webpage that used to entertain kids with hand-drawn animated doodles.\nDisclaimer: I’m not a computer vision expert, so many of the mistakes might be obvious to the reader, but nevertheless are part of my story.\nI vaguely remember that in the early days of smartphones there was an app that allowed you to print a grid of squares. Then you scribbled some hand-drawn animated frames in each cell.",
+          "link": "https://zserge.com/posts/bunnymator/",
+          "publishedOn": "2026-10-01T00:00:00.000Z",
+          "wordCount": 1992,
+          "title": "Bunnymator, or impractical computer vision",
+          "imageUrl": "https://zserge.com/logo.png"
+        },
+        {
           "id": "https://zserge.com/posts/worst-htmx-ever/",
           "author": null,
           "description": "This is a continuation of a series of posts about building tiny “clones” of popular web frameworks.\nWeb is changing rapidly, and so the tools we use to build web apps (yet, I’m sincerely happy that my React/Vue posts are now seven years old, and those frameworks are still popular and relevant).\nToday the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less about JavaScript.",
@@ -9809,6 +9869,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/grandpa-joe-from-willy-wonka-and-the-chocolate-factory-has-something-to-say-about-this-massachusetts-lesbian-bar-situation",
+          "author": "Julie Klausner",
+          "description": "Hi, it’s me, Grandpa Joe from the 1971 film Willy Wonka and the Chocolate Factory. I used my family’s food budget to sign up for high-speed internet, and I just learned about this controversy surrounding a lesbian bar in Western Massachusetts. I don’t really know what lesbians are. Are they like Oompa Loompas? Those orange nuisances better not sing a song about me, Grandpa Joe, being a freeloader, or I’ll kick one into a chocolate river.\n Anyway, I figured it was about time for me, a white cisgender heterosexual man over seventy with cabbage scraps in his mustache, to weigh in on this matter. I don’t understand a lot about it, but what I do glean is that there are people who are upset about not being able to attend bar events on mask-optional Saturday nights on account of their being immun…",
+          "link": "https://www.mcsweeneys.net/articles/grandpa-joe-from-willy-wonka-and-the-chocolate-factory-has-something-to-say-about-this-massachusetts-lesbian-bar-situation",
+          "publishedOn": "2026-10-02T17:00:00.000Z",
+          "wordCount": 3338,
+          "title": "Grandpa Joe from Willy Wonka and the Chocolate Factory Has Something to Say About This Massachusetts Lesbian Bar Situation",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8u3bkh0zta8v6vgnwqwjlhtq04bb"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-forty-two-year-old-man-checks-the-score-of-a-high-school-football-game",
+          "author": "Aaron Hertzog",
+          "description": "You don’t have to do this. In fact, it would be a whole lot better for you if you didn’t do this. You have absolutely no connection to that place or the people who live there anymore. None of your family members have children who are on the high school football team. You don’t even have any high school friends with kids on the high school football team. You know this because you’ve already gone to the team website and looked at the roster. There’s not a single last name on it that you even recognize. Your hometown isn’t the same place you grew up in. You’re nostalgic for a memory of a ghost of a place that doesn’t even exist. Did it ever exist? Did you?\n I shouldn’t have to remind you that you didn’t even play football when you were in high school. Your mom wouldn’t allow you to play, beca…",
+          "link": "https://www.mcsweeneys.net/articles/a-forty-two-year-old-man-checks-the-score-of-a-high-school-football-game",
+          "publishedOn": "2026-10-02T12:00:00.000Z",
+          "wordCount": 3231,
+          "title": "A Forty-Two-Year-Old Man Checks the Score of a High School Football Game",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/iva6x1f08lhxvcx77iwkpqeylvga"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/how-could-such-a-thing-still-happen-in-a-country-with-a-frat-boy-supreme-court-justice",
           "author": "Devorah Blachor",
@@ -11346,6 +11426,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112420 at https://www.eff.org",
+          "author": "Veridiana Alimonti",
+          "description": "In a new blow to Ola Bini’s legal guarantees, Ecuadorean authorities retained the free software developer and security expert yesterday in Quito and ordered his immediate deportation from the country. He is barred from returning to Ecuador for 10 years. \nAccording to information released by his lawyer, Bini was intercepted by a car with four people who identified themselves as immigration agents. He was then taken to an immigration office without further information or a formal order from a competent authority. There, officials told Bini that his visa had been revoked but didn’t show any supporting document.  \nBini's defense filed a habeas corpus to safeguard his freedom and prevent his deportation. Yet, Ecuadorian authorities affirmed that the developer represents a threat or risk to publ…",
+          "link": "https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations",
+          "publishedOn": "2026-10-02T13:34:01.000Z",
+          "wordCount": 1697,
+          "title": "Ola Bini Ordered to Leave Ecuador Under Obscure Accusations",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/offline-general.png",
+            "alt": "Offline General",
+            "type": "image/png",
+            "length": "18239"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/offline-general.png"
+        },
         {
           "id": "112418 at https://www.eff.org",
           "author": "Jennifer Pinsof",
