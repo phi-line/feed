@@ -3852,6 +3852,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=563843",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Emeryville's Folkmanis Puppets, which got its start as Furry Folk Puppets in Berkeley, is now 50.",
+          "link": "https://www.berkeleyside.org/2026/10/01/the-wire-first-anti-ai-protester-to-end-up-in-jail-is-a-berkeley-resident",
+          "publishedOn": "2026-10-02T00:14:00.000Z",
+          "wordCount": 7251,
+          "title": "The Wire: First anti-AI protester to end up in jail is a Berkeley resident",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/AP26272690487402.jpg?fit=1024%2C669&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563875",
+          "author": "Felicia Mello",
+          "description": "Championed by UC scientists, the bond measure scheduled for the March 2028 ballot would help offset federal research cuts.",
+          "link": "https://www.berkeleyside.org/2026/10/01/california-foundation-for-science-and-health-research-ballot-measure",
+          "publishedOn": "2026-10-01T23:29:34.000Z",
+          "wordCount": 8733,
+          "title": "$7.5B plan for California science agency free from Trump’s influence will go to voters",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-4.png"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=563858",
           "author": "Pendarvis Harshaw | KQED",
           "description": "Four 15s slappin' in ... the library?! The speakers, installed by singer and sonic designer Derwin Deon Brown II, are the centerpiece of a multi-week music series aimed at weaving new ideas into the library's culture.",
@@ -11326,6 +11346,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112418 at https://www.eff.org",
+          "author": "Jennifer Pinsof",
+          "description": "The Marin County Sheriff’s Office is the latest California law enforcement agency to get caught sharing automated license plate reader (ALPR) data from their Flock Safety system with out-of-state and federal agencies. EFF and the ACLU of Northern California are calling them out for this direct violation of California law, which has put every driver in the county at risk and is especially dangerous for immigrants, abortion seekers, and other targets of the federal government.\nToday, we sent the Marin County Sheriff’s Office (MCSO) a demand letter and request for records under the California Public Records Act following the Point Reyes Light’s recent report that MCSO provided non-California agencies access to its ALPR database. This directly violates California law and the terms of the 2022 …",
+          "link": "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data",
+          "publishedOn": "2026-10-01T21:59:08.000Z",
+          "wordCount": 1868,
+          "title": "We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ice-alpr-5.jpg",
+            "alt": "ICE and CBP agents use ALPR surveillance on a car",
+            "type": "image/jpeg",
+            "length": "159758"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ice-alpr-5.jpg"
+        },
         {
           "id": "112417 at https://www.eff.org",
           "author": "Chao Liu",
