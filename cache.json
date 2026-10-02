@@ -663,6 +663,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ac017c3c78fa400010858a1",
+          "author": "Jason Koebler",
+          "description": "Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.",
+          "link": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+          "publishedOn": "2026-10-02T20:49:15.000Z",
+          "wordCount": 2349,
+          "title": "Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png"
+        },
+        {
+          "id": "6abfeabac78fa40001084840",
+          "author": "Joseph Cox",
+          "description": "The massive FBI hack; a company wants to add facial recognition onto Flock; and Muse in some cases is actually just people.",
+          "link": "https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/",
+          "publishedOn": "2026-10-02T17:37:35.000Z",
+          "wordCount": 1075,
+          "title": "Podcast: The FBI Was Hacked. We’ve Seen the Data",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/maxresdefault-8.jpg"
+        },
+        {
           "id": "6abf9f4ac78fa4000104e20e",
           "author": "Samantha Cole",
           "description": "This week, we discuss inbox slop, Claude cults, and more.",
@@ -2700,6 +2720,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8404385",
+          "author": "Jacob Sullum",
+          "description": "According to complaints filed by Good's family, Ross was not in any danger when he fired three shots into her car.",
+          "link": "https://reason.com/2026/10/02/2-lawsuits-cast-further-doubt-on-the-claim-that-ice-agent-jonathan-ross-killed-renee-good-in-self-defense/",
+          "publishedOn": "2026-10-02T20:30:56.000Z",
+          "wordCount": null,
+          "title": "2 Lawsuits Cast Further Doubt on the Claim That ICE Agent Jonathan Ross Killed Renée Good in Self-Defense",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8403389",
           "author": "Eric Boehm",
           "description": "Donna Ganger's heartbreaking testimony to a Senate committee offers a vital insight into the vicious politics of authoritarianism.",
@@ -3881,6 +3912,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563901",
+          "author": "Nico Savidge",
+          "description": "The law bars developers of big projects from using California’s “density bonus” law to exempt themselves from local labor mandates.",
+          "link": "https://www.berkeleyside.org/2026/10/02/gavin-newsom-berkeley-housing-hard-hats-ordinance-density-bonus",
+          "publishedOn": "2026-10-02T21:28:42.000Z",
+          "wordCount": 7560,
+          "title": "Newsom signs law prompted by Berkeley housing projects that dodged labor standards",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/11/Screenshot-2025-11-13-at-10.16.54-AM.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563892",
+          "author": "Skylla Mumana",
+          "description": "Three longstanding chefs have called Scott's Seafood home for half their lives. With nearly 40 years together, they say it's like going to work with family.",
+          "link": "https://www.berkeleyside.org/2026/10/02/scotts-seafood-jack-london-50-years",
+          "publishedOn": "2026-10-02T19:00:00.000Z",
+          "wordCount": 8906,
+          "title": "Scott’s, Oakland’s unofficial boardroom, is turning 50. Meet the chefs who have made a million cioppinos",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/NATERA_CHEFSatScott_NOSH_260917_015.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563789",
           "author": "Karina Ioffee",
@@ -11426,6 +11477,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112423 at https://www.eff.org",
+          "author": "Katharine Trendacosta",
+          "description": "There has been a raft of site-blocking bills in the latest Congress, and the latest is called the “Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property” aka the “DEFEND IP Act.” The problem is that instead of “defending IP,” this bill will incentivize censorship, overblocking, and bad faith attempts to block access to a website. DEFEND IP Act, and all of these site-blocking proposals, threaten the open web. \nWe keep seeing attempts to pass site-blocking legislation–from SOPA/PIPA in 2012 to Block BEARD, FADPA, and ACPA this year. Every one of them has at its core the rotten idea that enforcing copyrights requires building a censorship machine for websites into the architecture of the internet. This is, of course, a disaster for a free and open web. The…",
+          "link": "https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name",
+          "publishedOn": "2026-10-02T18:59:23.000Z",
+          "wordCount": 1797,
+          "title": "Site-Blocking Will Not Defend IP, No Matter the Bill’s Name",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/og-copyrightbot-alt1_1_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "195622"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/og-copyrightbot-alt1_1_0.png"
+        },
+        {
+          "id": "112422 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Congress is taking another run at site-blocking, a deeply flawed concept that would undermine basic internet infrastructure. Rep. Darrell Issa (R-CA) has introduced the American Copyright Protection Act (ACPA), H.R. 10364, a bill that would give copyright owners a new legal tool to block Americans’ access to foreign websites accused of copyright infringement. \nThe basic idea is all too familiar, and it’s still dangerous. A copyright owner first asks a court to label a foreign website a “foreign piracy site.” Once that happens, the copyright owner could seek orders requiring internet service providers, DNS providers, and—new and explicit in this bill—VPN providers to take “commercially reasonable steps” to stop their users in the United States from accessing those sites. The decision to lab…",
+          "link": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
+          "publishedOn": "2026-10-02T17:41:08.000Z",
+          "wordCount": 1947,
+          "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/copyright-orange_0.png",
+            "alt": "Copyright Symbol",
+            "type": "image/png",
+            "length": "31474"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/copyright-orange_0.png"
+        },
+        {
+          "id": "112421 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "Judge Allows Social Media Surveillance Lawsuit Against Trump Administration to Move Forward\n\n\n\nNEW YORK — A lawsuit filed by three labor unions against the Departments of State and Homeland Security for their viewpoint-based surveillance and suppression of protected expression online can move forward, a federal judge ruled yesterday.\nOn October 1, 2026, Judge Alvin K. Hellerstein of the U.S. District Court for the Southern District of New York rejected the government’s motion to dismiss the lawsuit. The case was filed in October 2025 on behalf of the United Automobile Workers (UAW), Communications Workers of America (CWA), and American Federation of Teachers (AFT). The Electronic Frontier Foundation (EFF), Muslim Advocates (MA), and the Media Freedom & Information Access Clinic (MFIA) repr…",
+          "link": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
+          "publishedOn": "2026-10-02T15:54:42.000Z",
+          "wordCount": 2102,
+          "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/social-media-surveillance-2026.jpg",
+            "alt": "Security camera screens display logos for Facebook, YouTube, X, TikTok, and Reddit ",
+            "type": "image/jpeg",
+            "length": "142559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/social-media-surveillance-2026.jpg"
+        },
         {
           "id": "112420 at https://www.eff.org",
           "author": "Veridiana Alimonti",
