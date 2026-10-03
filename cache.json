@@ -663,6 +663,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ac02f03c78fa40001085e3a",
+          "author": "Becky Ferreira",
+          "description": "The estimated lifespan of the outer solar system has been downgraded from 100 billion years to just a few billion years, according to a study that probed “terminal instability” during the Sun’s death.",
+          "link": "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
+          "publishedOn": "2026-10-03T11:00:34.000Z",
+          "wordCount": 2298,
+          "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Snowball_Huronian.jpg"
+        },
+        {
           "id": "6ac017c3c78fa400010858a1",
           "author": "Jason Koebler",
           "description": "Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.",
@@ -2719,6 +2729,17 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8401405",
+          "author": "Eric Boehm",
+          "description": "\"I think courts are going to be very suspicious of how broad this is,\" one Minnesota lawyer tells Reason.",
+          "link": "https://reason.com/2026/10/03/the-real-resistance/",
+          "publishedOn": "2026-10-03T10:00:55.000Z",
+          "wordCount": null,
+          "title": "Minneapolis Activists Used Encrypted Group Chats To Outmaneuver ICE. Now the Feds Want To Prosecute Them.",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8404385",
           "author": "Jacob Sullum",
