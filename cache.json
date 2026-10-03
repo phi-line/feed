@@ -3122,6 +3122,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3306/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3306/",
+          "publishedOn": "2026-10-02T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Accelerator Energies",
+          "imageUrl": "https://imgs.xkcd.com/comics/accelerator_energies_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3305/",
           "author": null,
           "description": "",

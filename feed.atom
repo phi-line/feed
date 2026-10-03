@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-02T21:49:03.790Z</updated>
+    <updated>2026-10-03T03:48:47.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -176,6 +176,15 @@ Bini's defense filed a habeas corpus to safeguard his freedom and prevent his de
  I shouldn’t have to remind you that you didn’t even play football when you were in high school. Your mom wouldn’t allow you to play, beca…]]></summary>
         <author>
             <name>Aaron Hertzog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerator Energies]]></title>
+        <id>https://xkcd.com/3306/</id>
+        <link href="https://xkcd.com/3306/"/>
+        <updated>2026-10-02T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
