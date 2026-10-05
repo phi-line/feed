@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/10/lifeafter",
+          "author": null,
+          "description": "A room of thousands of humans wrestling with what comes after it all.",
+          "link": "https://pudding.cool/2026/10/lifeafter",
+          "publishedOn": "2026-10-01T04:00:00.000Z",
+          "wordCount": 505,
+          "title": "Who believes in an afterlife?",
+          "imageUrl": "https://pudding.cool/2026/10/lifeafter/assets/social-facebook.jpg"
+        },
+        {
           "id": "https://pudding.cool/2026/06/mow",
           "author": null,
           "description": "Why some people mow a lawn better than others.",
@@ -32,6 +42,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=167602",
+          "author": "Jordana Cepelewicz",
+          "description": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.”            \nThe post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+          "publishedOn": "2026-10-05T13:40:07.000Z",
+          "wordCount": 4173,
+          "title": "Is AI the End of Math As We Know It?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=167558",
           "author": "Stephen Ornes",
@@ -652,6 +672,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ac3bf413e77770001cf797a",
+          "author": "Samantha Cole",
+          "description": "“Indiscriminate mass surveillance,\" a Meta Muse scoop, and more in today's daily newsletter.",
+          "link": "https://www.404media.co/muse-escapes-containment/",
+          "publishedOn": "2026-10-05T15:38:35.000Z",
+          "wordCount": 866,
+          "title": "Muse escapes containment",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/muse--1-.png"
+        },
+        {
+          "id": "6ac3bfdf3e77770001cf79b5",
+          "author": "Matthew Gault",
+          "description": "The academic publisher said submissions have doubled in the past two years and moderators are having a hard time keeping up.",
+          "link": "https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/",
+          "publishedOn": "2026-10-05T15:29:49.000Z",
+          "wordCount": 1386,
+          "title": "arXiv Is Rate Limiting Submissions Because It Can’t Keep up With AI Slop",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/photo-1771758249853-415175dc29b9.jpeg"
+        },
+        {
+          "id": "6ac3ae843e77770001cf7633",
+          "author": "Jason Koebler",
+          "description": "The vulnerability could have let a Muse user access sensitive internal Meta databases.",
+          "link": "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
+          "publishedOn": "2026-10-05T14:13:58.000Z",
+          "wordCount": 1890,
+          "title": "Meta Rushed to Fix Muse ‘VM Escape' Vulnerability Soon Before Launch",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-05-at-7.07.21-AM@2x.png"
+        },
         {
           "id": "6ac02f03c78fa40001085e3a",
           "author": "Becky Ferreira",
@@ -2671,16 +2721,6 @@
           "wordCount": 1495,
           "title": "'Knockoff' Browser Extension Hides Sketchy Brands on Amazon",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-08-at-05.05.59@2x.png"
-        },
-        {
-          "id": "6a4e2f28d496220001d5a43f",
-          "author": "Jason Koebler",
-          "description": "How companies are burning through their AI tokens; and the fake AI-generated flowers all over Etsy, eBay, and Amazon.",
-          "link": "https://www.404media.co/larping-how-influencers-fake-being-rich/",
-          "publishedOn": "2026-07-08T11:11:45.000Z",
-          "wordCount": 1037,
-          "title": "LARPING: How Influencers Fake Being Rich",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/Tmsayhy94RE-HD.jpg"
         }
       ]
     },
@@ -2957,6 +2997,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/more-stories",
+          "author": "Asimov Press",
+          "description": "A third installment of articles that we’d like to publish across medicine, biosecurity, the environment, animal welfare and more.",
+          "link": "https://www.asimov.press/p/more-stories",
+          "publishedOn": "2026-10-05T14:10:35.000Z",
+          "wordCount": null,
+          "title": "More Stories We'd Like to Publish",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!EBNG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1e9642c-9f4c-4789-8c0d-c3ebafdcafdf_1113x730.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!EBNG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1e9642c-9f4c-4789-8c0d-c3ebafdcafdf_1113x730.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/great-leaps",
           "author": "Asimov Press",
           "description": "Two of biology’s greatest theories completely predate direct experimental evidence. Tracing their origins could help us understand how to make the next ones.",
@@ -3080,6 +3136,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3307/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3307/",
+          "publishedOn": "2026-10-05T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Spectrum Allocation",
+          "imageUrl": "https://imgs.xkcd.com/comics/spectrum_allocation_2x.png"
+        },
         {
           "id": "https://xkcd.com/3306/",
           "author": null,
@@ -3449,16 +3515,6 @@
           "wordCount": 187,
           "title": "Toasting Marshmallows",
           "imageUrl": "https://imgs.xkcd.com/comics/toasting_marshmallows_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3269/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3269/",
-          "publishedOn": "2026-07-08T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Airport Meeting",
-          "imageUrl": "https://imgs.xkcd.com/comics/airport_meeting_2x.png"
         }
       ]
     },
@@ -3861,6 +3917,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=558501",
+          "author": "Frances Dinkelspiel",
+          "description": "KoBold Metals, headquartered above a downtown tattoo shop, is boosted by Trump’s admin as it prowls the world for critical minerals, and is funded by a who’s who of tech titans.",
+          "link": "https://www.berkeleyside.org/2026/10/05/kobold-metals-berkeley",
+          "publishedOn": "2026-10-05T22:26:05.000Z",
+          "wordCount": 11752,
+          "title": "‘Technofantasy’ or ‘eureka’?: Berkeley’s $3 billion AI mining company",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/KoBoldMetals_MikeKaiChen_Selects-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563656",
+          "author": "Lynn Sherrell",
+          "description": "Measure Y has too many layers of panels and administrative oversight, includes unusual legal powers and doesn't do enough to address underlying affordability issues.",
+          "link": "https://www.berkeleyside.org/2026/10/05/opinion-vote-no-on-berkeleys-arts-tax-it-serves-special-interests",
+          "publishedOn": "2026-10-05T21:34:57.000Z",
+          "wordCount": 8497,
+          "title": "Opinion: Vote No on Berkeley’s arts tax — it serves special interests",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2020/03/berkeleyside-opinion-featured-image-blue-12x5-1.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563722",
+          "author": "Tom Parrish, Beth Roessner and Cara Houser",
+          "description": "After years of theater closures, this parcel tax is needed to help Berkeley’s creative economy, which supports thousands of jobs, strengthens local businesses and makes our city a cultural destination.",
+          "link": "https://www.berkeleyside.org/2026/10/05/opinion-measure-y-is-key-for-a-thriving-berkeley-arts-scene-and-creative-economy",
+          "publishedOn": "2026-10-05T20:41:04.000Z",
+          "wordCount": 7701,
+          "title": "Opinion: Measure Y is key for a thriving Berkeley arts scene and creative economy",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563934",
+          "author": "By Azul Dahlstrom-Eckman/KQED",
+          "description": "Electric kitchen conversions, an initiative championed by Berkeley, are expensive, but as California weans itself off fossil fuels, these chefs say it’s good for food quality, climate and health.",
+          "link": "https://www.berkeleyside.org/2026/10/05/east-bay-restaurant-conversions-electric",
+          "publishedOn": "2026-10-05T19:00:00.000Z",
+          "wordCount": 10082,
+          "title": "What East Bay restaurants have learned from swapping gas for electric",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/260729-ElectricRestaurant-03-BL_qed.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563806",
           "author": "Karina Ioffee",
@@ -9426,6 +9522,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=81784",
+          "author": "Jessica Hylton",
+          "description": "Sometimes you just need a cheesesteak. Right? In those times, this vegan Philly cheesesteak recipe hits the spot. From the golden-brown, chewy, savoury soy curl \"steak\" bites to the tender sautéed veggies and melted provolone, these sandwiches are filled to the brim with all the fixin's.",
+          "link": "https://jessicainthekitchen.com/soy-curl-philly-cheesesteak/",
+          "publishedOn": "2026-10-05T14:00:00.000Z",
+          "wordCount": 9030,
+          "title": "Soy Curl Philly Cheesesteak",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/09/Vegan-Soy-Curl-Philly-Cheesesteak-19.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=81584",
           "author": "Jessica Hylton",
           "description": "Have you ever had a fresh tortilla, still steaming from the skillet, covered in golden-brown blisters? There's nothing quite like it. These vegan flour tortillas are soft and tender with the perfect chew. Fold ’em into tacos, turn ’em into quesadillas, or enjoy as is, piping hot, straight out of the pan.",
@@ -9749,6 +9855,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-live-in-a-swing-state-and-i-am-going-to-need-to-see-more-political-ads-please",
+          "author": "Matt Alston",
+          "description": "I am a citizen living in a swing state, and I need to see more political advertisements before deciding who to vote for. Many of my state’s federal elections are toss-ups. So for the last year, I have been advertised to every time I engage with media, front yards, billboards, bus stops, Tubi ad breaks, Tubi pause screens, Nextdoor posts, Facebook posts, Facebook Marketplace posts, radio stations, podcasts, PTA brunches, car bumpers, car windows, and in-person conversations. I’m here to tell you that it’s still not enough. I can’t decide, and I require more guidance, please.\n My current senator is older than the audio cassette, so I should have a good sense of who to vote for, but I have rocks in my head in place of a brain, and rocks don’t retain information. So I am asking: Please, someon…",
+          "link": "https://www.mcsweeneys.net/articles/i-live-in-a-swing-state-and-i-am-going-to-need-to-see-more-political-ads-please",
+          "publishedOn": "2026-10-05T17:40:00.000Z",
+          "wordCount": 3165,
+          "title": "I Live in a Swing State and I Am Going to Need to See More Political Ads, Please",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/lgkdkabp7inszj9nb1d1lpb34o3r"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-open-letter-to-cornell-university-from-the-mother-of-a-prospective-male-student",
           "author": "Anaïs Godard",

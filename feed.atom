@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-05T13:36:13.328Z</updated>
+    <updated>2026-10-05T23:44:11.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Technofantasy’ or ‘eureka’?: Berkeley’s $3 billion AI mining company]]></title>
+        <id>https://www.berkeleyside.org/?p=558501</id>
+        <link href="https://www.berkeleyside.org/2026/10/05/kobold-metals-berkeley"/>
+        <updated>2026-10-05T22:26:05.000Z</updated>
+        <summary type="html"><![CDATA[KoBold Metals, headquartered above a downtown tattoo shop, is boosted by Trump’s admin as it prowls the world for critical minerals, and is funded by a who’s who of tech titans.]]></summary>
+        <author>
+            <name>Frances Dinkelspiel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: Vote No on Berkeley’s arts tax — it serves special interests]]></title>
+        <id>https://www.berkeleyside.org/?p=563656</id>
+        <link href="https://www.berkeleyside.org/2026/10/05/opinion-vote-no-on-berkeleys-arts-tax-it-serves-special-interests"/>
+        <updated>2026-10-05T21:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Measure Y has too many layers of panels and administrative oversight, includes unusual legal powers and doesn't do enough to address underlying affordability issues.]]></summary>
+        <author>
+            <name>Lynn Sherrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: Measure Y is key for a thriving Berkeley arts scene and creative economy]]></title>
+        <id>https://www.berkeleyside.org/?p=563722</id>
+        <link href="https://www.berkeleyside.org/2026/10/05/opinion-measure-y-is-key-for-a-thriving-berkeley-arts-scene-and-creative-economy"/>
+        <updated>2026-10-05T20:41:04.000Z</updated>
+        <summary type="html"><![CDATA[After years of theater closures, this parcel tax is needed to help Berkeley’s creative economy, which supports thousands of jobs, strengthens local businesses and makes our city a cultural destination.]]></summary>
+        <author>
+            <name>Tom Parrish, Beth Roessner and Cara Houser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What East Bay restaurants have learned from swapping gas for electric]]></title>
+        <id>https://www.berkeleyside.org/?p=563934</id>
+        <link href="https://www.berkeleyside.org/2026/10/05/east-bay-restaurant-conversions-electric"/>
+        <updated>2026-10-05T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Electric kitchen conversions, an initiative championed by Berkeley, are expensive, but as California weans itself off fossil fuels, these chefs say it’s good for food quality, climate and health.]]></summary>
+        <author>
+            <name>By Azul Dahlstrom-Eckman/KQED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Live in a Swing State and I Am Going to Need to See More Political Ads, Please]]></title>
+        <id>https://www.mcsweeneys.net/articles/i-live-in-a-swing-state-and-i-am-going-to-need-to-see-more-political-ads-please</id>
+        <link href="https://www.mcsweeneys.net/articles/i-live-in-a-swing-state-and-i-am-going-to-need-to-see-more-political-ads-please"/>
+        <updated>2026-10-05T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[I am a citizen living in a swing state, and I need to see more political advertisements before deciding who to vote for. Many of my state’s federal elections are toss-ups. So for the last year, I have been advertised to every time I engage with media, front yards, billboards, bus stops, Tubi ad breaks, Tubi pause screens, Nextdoor posts, Facebook posts, Facebook Marketplace posts, radio stations, podcasts, PTA brunches, car bumpers, car windows, and in-person conversations. I’m here to tell you that it’s still not enough. I can’t decide, and I require more guidance, please.
+ My current senator is older than the audio cassette, so I should have a good sense of who to vote for, but I have rocks in my head in place of a brain, and rocks don’t retain information. So I am asking: Please, someon…]]></summary>
+        <author>
+            <name>Matt Alston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse escapes containment]]></title>
+        <id>6ac3bf413e77770001cf797a</id>
+        <link href="https://www.404media.co/muse-escapes-containment/"/>
+        <updated>2026-10-05T15:38:35.000Z</updated>
+        <summary type="html"><![CDATA[“Indiscriminate mass surveillance," a Meta Muse scoop, and more in today's daily newsletter.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[arXiv Is Rate Limiting Submissions Because It Can’t Keep up With AI Slop]]></title>
+        <id>6ac3bfdf3e77770001cf79b5</id>
+        <link href="https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/"/>
+        <updated>2026-10-05T15:29:49.000Z</updated>
+        <summary type="html"><![CDATA[The academic publisher said submissions have doubled in the past two years and moderators are having a hard time keeping up.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Rushed to Fix Muse ‘VM Escape' Vulnerability Soon Before Launch]]></title>
+        <id>6ac3ae843e77770001cf7633</id>
+        <link href="https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/"/>
+        <updated>2026-10-05T14:13:58.000Z</updated>
+        <summary type="html"><![CDATA[The vulnerability could have let a Muse user access sensitive internal Meta databases.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Stories We'd Like to Publish]]></title>
+        <id>https://www.asimov.press/p/more-stories</id>
+        <link href="https://www.asimov.press/p/more-stories"/>
+        <updated>2026-10-05T14:10:35.000Z</updated>
+        <summary type="html"><![CDATA[A third installment of articles that we’d like to publish across medicine, biosecurity, the environment, animal welfare and more.]]></summary>
+        <author>
+            <name>Asimov Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soy Curl Philly Cheesesteak]]></title>
+        <id>https://jessicainthekitchen.com/?p=81784</id>
+        <link href="https://jessicainthekitchen.com/soy-curl-philly-cheesesteak/"/>
+        <updated>2026-10-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you just need a cheesesteak. Right? In those times, this vegan Philly cheesesteak recipe hits the spot. From the golden-brown, chewy, savoury soy curl "steak" bites to the tender sautéed veggies and melted provolone, these sandwiches are filled to the brim with all the fixin's.]]></summary>
+        <author>
+            <name>Jessica Hylton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is AI the End of Math As We Know It?]]></title>
+        <id>https://www.quantamagazine.org/?p=167602</id>
+        <link href="https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/"/>
+        <updated>2026-10-05T13:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.”            
+The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley arts groups will get $6M a year if voters approve new parcel tax]]></title>
         <id>https://www.berkeleyside.org/?p=563806</id>
@@ -28,6 +140,15 @@ Dear Cornell University,
  My son is bright. He reads above grade level. He plays competitive chess and does competitive gymnastics. He is fascinated by science, numbers, and infinity. I am currently debating Mandarin lessons, because six is, I’m told, when one …]]></summary>
         <author>
             <name>Anaïs Godard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectrum Allocation]]></title>
+        <id>https://xkcd.com/3307/</id>
+        <link href="https://xkcd.com/3307/"/>
+        <updated>2026-10-05T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -445,6 +566,16 @@ The post What Does the Fourth Dimension Actually Look Like? first appeared on Qu
  When my other advisors started dropping like flies due to sudden illnesses and freak accidents, Conniving Worm rose to the occasion and picked up all the slack. Now, what used to be an elite group of fourteen scholars and strategists is just one Conniving Worm.…]]></summary>
         <author>
             <name>Madeline Goetz and Johnathan Appel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who believes in an afterlife?]]></title>
+        <id>https://pudding.cool/2026/10/lifeafter</id>
+        <link href="https://pudding.cool/2026/10/lifeafter"/>
+        <updated>2026-10-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A room of thousands of humans wrestling with what comes after it all.]]></summary>
+        <author>
+            <name>The Pudding</name>
         </author>
     </entry>
     <entry>
@@ -11132,25 +11263,6 @@ The post Is Life Just Different? first appeared on Quanta Magazine]]></summary>
  Let’s find a cabin. Somewhere woodsy (but not so woodsy that there’s a chance of bears, unidentified sounds in the night, bats, ticks, Trump signs), quiet (but not so quiet that the desperation of isolation creeps into our hearts), away from everything (yet also walkable to a body of water, at least one bespoke boutique, a hig…]]></summary>
         <author>
             <name>Nina Semczuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LARPING: How Influencers Fake Being Rich]]></title>
-        <id>6a4e2f28d496220001d5a43f</id>
-        <link href="https://www.404media.co/larping-how-influencers-fake-being-rich/"/>
-        <updated>2026-07-08T11:11:45.000Z</updated>
-        <summary type="html"><![CDATA[How companies are burning through their AI tokens; and the fake AI-generated flowers all over Etsy, eBay, and Amazon.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airport Meeting]]></title>
-        <id>https://xkcd.com/3269/</id>
-        <link href="https://xkcd.com/3269/"/>
-        <updated>2026-07-08T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
