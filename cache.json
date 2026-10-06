@@ -663,6 +663,36 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ac54a27932fa00001598644",
+          "author": "Matthew Gault",
+          "description": "\"Chris’ sentiment does not change,\" said the sister who created an AI avatar of her slain brother Christopher Pelkey to speak in court.",
+          "link": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+          "publishedOn": "2026-10-06T19:26:09.000Z",
+          "wordCount": 1875,
+          "title": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/pelkey.png"
+        },
+        {
+          "id": "6ac4fec0c8519e0001d82a0b",
+          "author": "Jason Koebler",
+          "description": "And 404's Flock coverage cited in proposed legislation.",
+          "link": "https://www.404media.co/404-at-3-live-show/",
+          "publishedOn": "2026-10-06T14:08:33.000Z",
+          "wordCount": 831,
+          "title": "404 @ 3",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/maxresdefault.jpg"
+        },
+        {
+          "id": "6ac4f4d7c8519e0001d8288b",
+          "author": "Joseph Cox",
+          "description": "Senator Bernie Sanders, Representative Ocasio-Cortez, and Senator Jeff Merkley introduced the Ban Flock Act on Friday, which would stop federal agencies from using automatic license plate readers.",
+          "link": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+          "publishedOn": "2026-10-06T13:24:26.000Z",
+          "wordCount": 1503,
+          "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/FLOCK-04.jpg"
+        },
+        {
           "id": "6ac3bf413e77770001cf797a",
           "author": "Samantha Cole",
           "description": "“Indiscriminate mass surveillance,\" a Meta Muse scoop, and more in today's daily newsletter.",
@@ -3522,6 +3552,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/americans-are-losing-the-long-game",
+          "author": "Simon Curtis",
+          "description": "The post Americans Are Losing The Long Game appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/americans-are-losing-the-long-game",
+          "publishedOn": "2026-10-06T17:10:09.000Z",
+          "wordCount": 11471,
+          "title": "Americans Are Losing The Long Game",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/Revised-1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&rect=0%2C516%2C946%2C495&w=1200&wpsize=noema-social-facebook&s=3a174227bf206498cbdec2a0fa3fe5ed"
+        },
+        {
           "id": "https://www.noemamag.com/return-of-the-repressed-in-germany",
           "author": "Nathan Gardels",
           "description": "The post Return Of The Repressed In Germany appeared first on NOEMA.",
@@ -3878,6 +3918,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=562799",
+          "author": "Berkeleyside Staff",
+          "description": "A running list of town halls and debates to learn about who’s running for Berkeley City Council, school board, rent board and more.",
+          "link": "https://www.berkeleyside.org/2026/10/06/berkeley-2026-election-candidate-forums",
+          "publishedOn": "2026-10-06T21:54:08.000Z",
+          "wordCount": 8495,
+          "title": "Where do I watch Berkeley’s 2026 election candidate forums?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image-19.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564039",
+          "author": "Nathan Dalton",
+          "description": "Hydration Room on Fourth Street sells a range of controversial wellness treatments.",
+          "link": "https://www.berkeleyside.org/2026/10/06/hydration-room-berkeley",
+          "publishedOn": "2026-10-06T19:33:05.000Z",
+          "wordCount": 8357,
+          "title": "Clinic selling peptides, testosterone and IV drips opens in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-6.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564022",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/10/06/shattuck-butter-gioia-gold-bean-little-gem-open",
+          "publishedOn": "2026-10-06T19:00:00.000Z",
+          "wordCount": 8177,
+          "title": "New breakfast spot on North Shattuck, an Ethiopian cafe comes to Albany, and the East Bay gets another Grocery Outlet",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/french-toast-ShattuckButter.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563992",
+          "author": "Felicia Mello",
+          "description": "Syrak Micael, a DSA member and community liaison for the Oakland Roots with a lead in endorsements and money, is running against Aidan Hill, an activist and medical case manager.",
+          "link": "https://www.berkeleyside.org/2026/10/06/berkeley-city-council-district-7-lunaparras-chosen-successor-faces-off-against-a-peoples-park-activist",
+          "publishedOn": "2026-10-06T16:29:16.000Z",
+          "wordCount": 10283,
+          "title": "Berkeley City Council District 7: Lunaparra’s chosen successor faces off against a People’s Park activist",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/CD-7.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563793",
+          "author": "Friends and family of Joanna Katz",
+          "description": "A member of the Women's Caucus for the Arts and the Magpies, she worked as a bookkeeper to support her art.",
+          "link": "https://www.berkeleyside.org/2026/10/06/remembering-joanna-katz-artist-who-painted-portraits-of-women-elders-landscapes-marred-by-litter-and-a-berkeley-utility-box",
+          "publishedOn": "2026-10-06T16:16:18.000Z",
+          "wordCount": 8227,
+          "title": "Remembering Joanna Katz, artist who painted portraits of women elders, landscapes marred by litter and a Berkeley utility box",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Joanna-Katz.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=563975",
           "author": "Karina Ioffee",
@@ -7237,16 +7327,6 @@
           "wordCount": null,
           "title": "Flea and the Honora Band: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oa_Wpi-KWrg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oa_Wpi-KWrg",
-          "publishedOn": "2026-07-09T09:00:10.000Z",
-          "wordCount": null,
-          "title": "redveil: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -9483,6 +9563,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=82031",
+          "author": "Jessica Hylton",
+          "description": "Fall is in the air, and if you're still craving those crisp salad greens but starting to get excited about maple syrup and the smell of roasting root veggies, this sweet potato salad recipe is for you. A bed of fresh, peppery arugula is topped with tender, warm roasted sweet potatoes and buttery pecans in a bright, lemony dressing. The perfect transition from summer to fall.",
+          "link": "https://jessicainthekitchen.com/sweet-potato-arugula-salad/",
+          "publishedOn": "2026-10-06T14:00:00.000Z",
+          "wordCount": 8196,
+          "title": "Sweet Potato Arugula Salad",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/09/Sweet-Potato-and-Arugula-Salad_14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=81784",
           "author": "Jessica Hylton",
           "description": "Sometimes you just need a cheesesteak. Right? In those times, this vegan Philly cheesesteak recipe hits the spot. From the golden-brown, chewy, savoury soy curl \"steak\" bites to the tender sautéed veggies and melted provolone, these sandwiches are filled to the brim with all the fixin's.",
@@ -9816,6 +9906,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/relax-we-cant-invoke-the-twenty-fifth-amendment-every-time-a-president-offers-to-let-an-enemy-bomb-an-american-city",
+          "author": "Carlos Greaves",
+          "description": "“President Trump, speaking at a campaign rally Monday, suggested ‘[Iran] can take out a city, let ’em take out Los Angeles, let ’em take out San Diego. This is a very small price to pay.’” — Los Angeles Times\n - - -\nListen, we get that Americans are upset. The Iran War has stretched from a four-week special operation into a months-long quagmire. Nobody could have predicted that attacking a heavily militarized regime in the Middle East would lead to a protracted conflict. As a result, working-class families across the country are feeling the burden of high gas prices and inflation.\n That said, we understand why some people are upset about the joke the president told at a campaign rally the other night. However, that’s no reason to lose our collective cool. We, the members of Trump’s cabinet…",
+          "link": "https://www.mcsweeneys.net/articles/relax-we-cant-invoke-the-twenty-fifth-amendment-every-time-a-president-offers-to-let-an-enemy-bomb-an-american-city",
+          "publishedOn": "2026-10-06T17:00:00.000Z",
+          "wordCount": 3083,
+          "title": "Relax, We Can’t Invoke the Twenty-Fifth Amendment Every Time a President Offers to Let an Enemy Bomb an American City",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/o4e67so3ytlikcza27jjlcpuspni"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-jessica-m-goldsteins-novel-retro",
+          "author": "Jessica M. Goldstein",
+          "description": "- - -\nLongtime McSweeney’s contributor Jessica M. Goldstein’s novel Retro is about a struggling, out-of-work actress, Ash, who gets a job as a Time Travel Agent at a start-up that takes wealthy tourists on vacations to the past. Destination bachelorettes in the Wild West! “’20s for your twenties” birthday parties at Prohibition-era speakeasies! Concerts, sporting events, inaugurations, assassinations: Bygone America is just a Retro Metro ride away. It’s about misplaced nostalgia and dread for the future; having a weird boss and an office crush; feeling like everything was better before; life under megalomaniacal tech overlords; travel that’s mostly about getting pictures to post; and cigarettes.\n  Retro has received starred reviews from Kirkus and Booklist and was longlisted for the Center…",
+          "link": "https://www.mcsweeneys.net/articles/an-excerpt-from-jessica-m-goldsteins-novel-retro",
+          "publishedOn": "2026-10-06T13:00:00.000Z",
+          "wordCount": 4501,
+          "title": "An Excerpt from Jessica M. Goldstein’s Novel, Retro",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/l16e8is96vxv9nokyknrq6rzj8jl"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/welcome-to-our-strip-mall",
           "author": "Madeline Goetz and Bobbie Armstrong",
@@ -12932,22 +13042,6 @@
             "length": "48177"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/eu-flag-11.png"
-        },
-        {
-          "id": "112182 at https://www.eff.org",
-          "author": "Cory Doctorow",
-          "description": "Google owes its existence to the open web, but today, its technological “innovations” have much to do with locking users into a “walled garden.” The latest of these is “reCAPTCHA Mobile Verification,” an experimental initiative that will let companies block users if they are running independent, \"de-googled\" versions of Android. These “indie Android” versions are favored by people who want to protect their privacy and their attention by blocking trackers and ads. Worse, this is just the latest in a line of similarly user-hostile measures. \nLong before “agentic AI,” we had the idea that software would act as your agent on the internet. That's why the old-fashioned technical term for a browser is a “user agent.” Your browser acts on your behalf to retrieve information and then show it to you…",
-          "link": "https://www.eff.org/deeplinks/2026/07/googles-new-remote-attestation-scheme-every-bit-terrible-its-old-remote",
-          "publishedOn": "2026-07-09T09:15:49.000Z",
-          "wordCount": 2877,
-          "title": "Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "46254"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png"
         }
       ]
     },
