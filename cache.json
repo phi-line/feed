@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167663",
+          "author": "Ben Brubaker",
+          "description": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.            \nThe post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+          "publishedOn": "2026-10-07T15:08:46.000Z",
+          "wordCount": 3417,
+          "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167602",
           "author": "Jordana Cepelewicz",
           "description": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.”            \nThe post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
@@ -662,6 +672,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ac65f73bb71a00001b4b2c4",
+          "author": "Becky Ferreira",
+          "description": "Jonathan, a 194-year-old Aldabra giant tortoise, was born before the Civil War. Scientists have now sequenced his genome to reveal what’s behind his extreme longevity, so we can live longer too.",
+          "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+          "publishedOn": "2026-10-07T18:00:38.000Z",
+          "wordCount": 1616,
+          "title": "‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/jonathan.png"
+        },
+        {
+          "id": "6ac6560ebb71a00001b1efbc",
+          "author": "Samantha Cole",
+          "description": "AI-generated political slop, a farewell to a good bird, and more.",
+          "link": "https://www.404media.co/undue-emotional-weight/",
+          "publishedOn": "2026-10-07T14:46:15.000Z",
+          "wordCount": 1257,
+          "title": "'Undue emotional weight'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/glitchjustice--1-.png"
+        },
         {
           "id": "6ac54a27932fa00001598644",
           "author": "Matthew Gault",
@@ -3098,6 +3128,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3308/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3308/",
+          "publishedOn": "2026-10-07T04:00:00.000Z",
+          "wordCount": 178,
+          "title": "Juice",
+          "imageUrl": "https://imgs.xkcd.com/comics/juice_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3307/",
           "author": null,
           "description": "",
@@ -3466,16 +3506,6 @@
           "wordCount": 193,
           "title": "The Princess and the Pea",
           "imageUrl": "https://imgs.xkcd.com/comics/the_princess_and_the_pea_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3270/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3270/",
-          "publishedOn": "2026-07-10T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Toasting Marshmallows",
-          "imageUrl": "https://imgs.xkcd.com/comics/toasting_marshmallows_2x.png"
         }
       ]
     },
@@ -3878,6 +3908,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=563980",
+          "author": "Nico Savidge",
+          "description": "The Northwest Berkeley district is where many of the city’s most contentious debates play out on the ground. There’s a crowded field of five vying to represent it.",
+          "link": "https://www.berkeleyside.org/2026/10/07/berkeley-city-council-district-1-ross-bernet-laura-babitt-daria-wrubel-moni-gangopadhyay-steve-kromer",
+          "publishedOn": "2026-10-07T20:09:14.000Z",
+          "wordCount": 11598,
+          "title": "Berkeley City Council District 1: Where candidates stand on housing, Hopkins, Flock and more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/City-Council-D1.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564151",
+          "author": "Kate Darby Rauch",
+          "description": "For its first location outside San Francisco, the popular restaurant chose Richmond, where the Salvadoran population is growing fast.",
+          "link": "https://www.berkeleyside.org/2026/10/07/balompie-sports-bar-grill-hilltop-salvadoran-pupusas",
+          "publishedOn": "2026-10-07T18:58:45.000Z",
+          "wordCount": 9379,
+          "title": "Balompie, prized SF pupusa spot, expands into the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/large-Nosh_BalompieSportsBar-10.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564012",
+          "author": "Local sponsor",
+          "description": "The steep street north of campus boast numerous Maybeck homes, and other notable homes, including the Daniel Solomom-designed house at 2877 Buena Vista.",
+          "link": "https://www.berkeleyside.org/2026/10/07/the-very-berkeley-beauty-of-buena-vista-way",
+          "publishedOn": "2026-10-07T18:25:01.000Z",
+          "wordCount": 8257,
+          "title": "The very Berkeley beauty of Buena Vista Way",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Ext.-2877-Buena-Vista-Way.-Berkeley-Hero.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564127",
+          "author": "Izzy Bloom | KQED",
+          "description": "With recent changes to how the U.S. Postal Service operates and President Trump’s attacks on mail voting, here’s what to know.",
+          "link": "https://www.berkeleyside.org/2026/10/07/election-2026-mail-in-voting-what-california-election-officials-say",
+          "publishedOn": "2026-10-07T17:20:20.000Z",
+          "wordCount": 9363,
+          "title": "Should you mail in your midterm ballot? What California election officials say",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-12.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=481201",
+          "author": "Jose Fermoso",
+          "description": "Berkeley Mayor Adena Ishii and councilmembers Brent Blackaby, Mark Humbert and Cecilia Lunaparra are among the officials calling for Young to be stripped of his committee assignments after a finding of gender-based harassment.",
+          "link": "https://www.berkeleyside.org/2026/10/07/ac-transit-director-joel-young-censure-harassment",
+          "publishedOn": "2026-10-07T14:44:24.000Z",
+          "wordCount": 7977,
+          "title": "33 East Bay officials call to censure AC Transit director Joel Young",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Joel-young-looks-up-during-the-statement-made-by-Sarah-Syed-scaled-1-1-1.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=562799",
           "author": "Berkeleyside Staff",
@@ -9796,6 +9876,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-hereby-resign-as-this-years-faculty-advisor-for-our-schools-human-cloning-club",
+          "author": "Joe Schiappa",
+          "description": "To Faculty and Parents,\n I am writing to let you know I can no longer serve as the faculty advisor for the Harrison High School Human Cloning Club. I am sick of developing cutting-edge cloning research, pushing the boundaries of biological possibilities, and dominating in the world of science when student interest has clearly waned.\n At the beginning of the year, I was buoyed by the students’ enthusiasm for the synthetic laboratory reproduction of human cells and tissues, and now I know they just wanted a place to eat lunch, socialize, and ask for the bathroom pass.\n After agreeing to be an advisor, in MY FREE TIME, I raised millions of dollars to build an eleven-acre research lab on the back lot of the high school. I had hired thirty researchers to support what is now a thriving biotech r…",
+          "link": "https://www.mcsweeneys.net/articles/i-hereby-resign-as-this-years-faculty-advisor-for-our-schools-human-cloning-club",
+          "publishedOn": "2026-10-07T16:30:00.000Z",
+          "wordCount": 3084,
+          "title": "I Hereby Resign as This Year’s Faculty Advisor for Our School’s Human Cloning Club",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/lmn0s4ecvj28d30fs9nbt1iyjavq"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/my-campaign-promises",
           "author": "Jo Garrity",
