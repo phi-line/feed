@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167729",
+          "author": "Philip Ball",
+          "description": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.            \nThe post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+          "publishedOn": "2026-10-09T14:03:07.000Z",
+          "wordCount": 4750,
+          "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167663",
           "author": "Ben Brubaker",
           "description": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.            \nThe post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
@@ -662,6 +672,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ac90e08426e8a0001f4eb15",
+          "author": "Jason Koebler",
+          "description": "Sen. Ron Wyden is seeking a privacy review report about the HIDTA license plate program.",
+          "link": "https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/",
+          "publishedOn": "2026-10-09T16:00:00.000Z",
+          "wordCount": 1202,
+          "title": "Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-09-at-8.58.45-AM@2x.png"
+        },
+        {
+          "id": "6ac8ecfd426e8a0001f4e532",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss AI and spirituality.",
+          "link": "https://www.404media.co/behind-the-blog-what-would-the-pope-do/",
+          "publishedOn": "2026-10-09T15:44:32.000Z",
+          "wordCount": 1020,
+          "title": "Behind the Blog: What Would the Pope Do?",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/muse--2--1.png"
+        },
         {
           "id": "6ac7d4bd426e8a0001f4ba4b",
           "author": "Matthew Gault",
@@ -3144,6 +3174,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3309/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3309/",
+          "publishedOn": "2026-10-09T04:00:00.000Z",
+          "wordCount": 178,
+          "title": "Dogcatcher",
+          "imageUrl": "https://imgs.xkcd.com/comics/dogcatcher_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3308/",
           "author": null,
           "description": "",
@@ -3568,6 +3608,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/we-are-already-post-human",
+          "author": "Nathan Gardels",
+          "description": "The post We Are Already Post-Human appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/we-are-already-post-human",
+          "publishedOn": "2026-10-09T15:32:21.000Z",
+          "wordCount": 3505,
+          "title": "We Are Already Post-Human",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/Color_2_v2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=4f335b43a5c8c28b21397ec59fcade55"
+        },
+        {
           "id": "https://www.noemamag.com/does-claude-feel-the-whip",
           "author": "Yaniv Regev",
           "description": "The post Does Claude Feel The Whip? appeared first on NOEMA.",
@@ -3924,6 +3974,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=564284",
+          "author": "Alex N. Gecan",
+          "description": "The Berkeley Animal Care Services facility is not yet all the way repaired, but has resumed most normal services, officials say.",
+          "link": "https://www.berkeleyside.org/2026/10/09/peter-taraba-sentencing-bacs-shelter-arson",
+          "publishedOn": "2026-10-09T21:07:30.000Z",
+          "wordCount": 8375,
+          "title": "Berkeley animal shelter arsonist sentenced to 16 months in prison",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/06/IMG_0113-scaled.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=481342",
+          "author": "Azucena Rasilla",
+          "description": "The diocese was seeking to resolve over 300 sexual abuse claims through a bankruptcy relief plan that needed court approval.",
+          "link": "https://www.berkeleyside.org/2026/10/09/federal-judge-ruling-oakland-diocese-bankruptcy-plan",
+          "publishedOn": "2026-10-09T19:21:13.000Z",
+          "wordCount": 7928,
+          "title": "Federal judge rejects the Oakland Diocese’s bankruptcy plan",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/large-Cathedral-of-Christ-of-the-Light.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564261",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/10/09/elis-mile-high-seniore-pizza-closed",
+          "publishedOn": "2026-10-09T19:00:00.000Z",
+          "wordCount": 7888,
+          "title": "Seniore’s Pizza shutters Berkeley branch, and Eli’s Mile High Club starts closure countdown",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/SenioresPizza-Sign.jpg?fit=765%2C510&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563952",
+          "author": "Local sponsor",
+          "description": "The state has changed and simplified food labeling laws.",
+          "link": "https://www.berkeleyside.org/2026/10/09/best-by-and-sell-by-dont-mean-bad-after-confusion-leads-to-a-big-waste-of-food",
+          "publishedOn": "2026-10-09T15:30:00.000Z",
+          "wordCount": 7633,
+          "title": "‘Best by’ and ‘sell by’ don’t mean ‘bad after’ — confusion leads to a big waste of food",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/stopwaste-dad.jpeg?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564154",
+          "author": "Alex N. Gecan",
+          "description": "Incumbents Ida Martinac and Mathan Mizell are joining Avery Arbaugh, Vylma Ortiz and Derek Rodriguez on a “right to housing” slate, with independent candidate Carole Marasovic also in the running.",
+          "link": "https://www.berkeleyside.org/2026/10/09/berkeley-rent-stabilization-board-election-2026",
+          "publishedOn": "2026-10-09T14:00:00.000Z",
+          "wordCount": 9199,
+          "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Rent-board-commissioners.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564046",
           "author": "Sylvia Rubin",
@@ -9943,6 +10043,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/a-job-application-cover-letter-from-the-parent-traps-meredith-blake",
+          "author": "Kinsey Jasnoch",
+          "description": "Dear Hiring Team,\n I am very interested in the VP of Communications and Media Relations role at your company. Recently, I’ve served as Head of Publicity for Parker Knoll, a small, family-owned vineyard in Napa, where I increased profit by 200 percent by designing a new label for the bottles, built and maintained relationships with vendors throughout California, and, through a series of events culminating in me floating on an air mattress in the middle of a lake, facilitated the reunification of a family. I would be so thrilled to join your team.\n I studied Rhetoric and Economics at UC Berkeley and spent some time at a small firm before striking out independently. At Parker Knoll, I learned invaluable lessons in spin, storytelling, and shaping the narrative to highlight a brand’s best featu…",
+          "link": "https://www.mcsweeneys.net/articles/a-job-application-cover-letter-from-the-parent-traps-meredith-blake",
+          "publishedOn": "2026-10-09T17:00:00.000Z",
+          "wordCount": 3260,
+          "title": "A Job Application Cover Letter from The Parent Trap’s Meredith Blake",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/yci3gq1i8haks24dc3m6ky91nq7k"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/crossword-clues-where-its-clear-the-puzzles-creator-got-themselves-into-a-jam-letter-wise",
+          "author": "Tyler Gooch",
+          "description": "Roadside service one might call to repair a flat tire + an organization for recovering alcoholics + a popular battery size\n Txt. one might send if they thought something was funny, but their O key was broken and instead typed a Z\n Baklava, to a dyslexic\n The National Association of Xylophone X-Ray Zebra Paleontologists, briefly\n The sound a chicken bone may make when accidentally dropped into a garbage disposal\n An anagram of KLHHEEDJN\n May appear in a purple Connections category labeled “Names of birds preceded by two vowels”\n The sound a cow might make when spanked\n Onomatopoeia in a Batman comic panel where he’s flipping a pancake\n The sound a bee makes when flying around a flower before pronouncing the first letter of the word “flat”\n “Rabbit,” spoken by Elmer Fudd with a mouthful of marshmallows\n King Henry VIII’s wife Boleyn, if two letters in her first name were changed\n How someone might spell “gesundheit” if they weren’t allowed to look it up\n Could be found on the second to last line of an optometrist’s vision chart\n The eighth US president if all of the letters in his name were U’s and V’s\n Answer key to a test with several multiple-choice questions followed by one true-or-false question\n Lyrics for a scat singer, perhaps\n What 14-Across and 28-Down might sound like if you tried to say both of them at the same time\n What this puzzle might’ve been titled if voice-to-text were suddenly enabled as I began choking on an adult gummy multivitamin while the cursor was in the title input box",
+          "link": "https://www.mcsweeneys.net/articles/crossword-clues-where-its-clear-the-puzzles-creator-got-themselves-into-a-jam-letter-wise",
+          "publishedOn": "2026-10-09T14:00:00.000Z",
+          "wordCount": 2552,
+          "title": "Crossword Clues Where It’s Clear the Puzzle’s Creator Got Themselves into a Jam Letter-wise",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/lu1wf133wm59ze4hdhlxvp6qu1lq"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/a-short-history-of-the-norse-defeat-at-stamford-bridge-for-bostonians",
           "author": "Rowdy Geirsson",
           "description": "Art by Matt Smith\n - - -\nNow we all know that William, who was a real fuckin’ bastahd, conque’ahd England in 1066 when he n’ his buddies got in their boats on the beaches’ah Nahmandy n’ went n’ sailed ’em in the opposite dihrection that the Allied boats had gone in durin’ World War 2. So they went tah England. N’ then when they got there they had a huge fuckin’ battle at this place called Hastings, n’ they just fuckin’ decimated the English. N’ then William prahceeded tah conque’ah the whole damn country n’ basically rule it with an iron fuckin’ fist which I suppose is kindah a fittin’ payback tah the English fah r’all their hostile fuckin’ antics leadin’ up tah the big tea pahty in 1773. N’ it was all somewhat ironic, too, since the Nahmans ’emselves stahted out as Vikings, but yah know, …",
@@ -11469,6 +11589,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112434 at https://www.eff.org",
+          "author": "Hayley Tsukayama",
+          "description": "EFF was thrilled to join organizers, advocates, and activists in the East Bay for the second annual Oakland Tech Week last week. We are grateful to our friends at MediaJustice and Upturn for inviting us co-present this all-day event, “Building Beyond Big Tech: Organizing Oakland’s Future”, on Sept. 30.  The event, hosted by the Kapor Center in downtown Oakland, offered a unique chance to spend time with people across The Town and the Bay Area working to create a better future for everyone.\n“We’re at this truly consequential moment,” said EFF executive director Nicole Ozer, in her speech kicking off the day’s events. “We know that in this community’s work—and communities across the country—our ability to ensure that technology empowers rather than oppresses is fundamental to the future of c…",
+          "link": "https://www.eff.org/deeplinks/2026/10/organizing-town-oakland-tech-week",
+          "publishedOn": "2026-10-09T16:41:43.000Z",
+          "wordCount": 918,
+          "title": "Organizing in the Town at Oakland Tech Week",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg",
+            "alt": "People tend to a community garden of wifi poppies. The raised bed is a neighborhood block.",
+            "type": "image/jpeg",
+            "length": "901248"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg"
+        },
         {
           "id": "112430 at https://www.eff.org",
           "author": "Jillian C. York",
