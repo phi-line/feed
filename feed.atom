@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-08T22:53:07.932Z</updated>
+    <updated>2026-10-09T04:34:30.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Bill Harris, who kidnapped Patty Hearst in Berkeley, has died]]></title>
+        <id>https://www.berkeleyside.org/?p=564189</id>
+        <link href="https://www.berkeleyside.org/2026/10/08/the-wire-bill-harris-who-kidnapped-patty-hearst-in-berkeley-has-died"/>
+        <updated>2026-10-09T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: A house in Central Berkeley has sold for nearly $1 million over its asking price.]]></summary>
+        <author>
+            <name>Zac Farber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When No ID Means No Internet: Age Verification and the Right to Access Information]]></title>
         <id>112430 at https://www.eff.org</id>
@@ -11278,16 +11288,6 @@ The post Why Am I Left-Handed? first appeared on Quanta Magazine]]></summary>
         <updated>2026-07-13T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star]]></title>
-        <id>6a5257cfbf6d46000134b3cf</id>
-        <link href="https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/"/>
-        <updated>2026-07-11T14:51:18.000Z</updated>
-        <summary type="html"><![CDATA[For more than a decade, the strange light patterns emitted by “Tabby’s Star” have sparked speculation about alien megastructures and exotic natural explanations. The discovery of a giant planet is a new twist.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
         </author>
     </entry>
     <entry>
