@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-09T22:14:50.715Z</updated>
+    <updated>2026-10-10T04:20:10.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resisting the Menace of Federal Data Consolidation]]></title>
+        <id>112435 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation"/>
+        <updated>2026-10-09T21:46:34.000Z</updated>
+        <summary type="html"><![CDATA[In the past two years, the federal government has unlawfully consolidated data exposing our private information. 
+This consolidation has been chaotic but generally came in three rolling waves: It started with DOGE, moved to agency-to-agency data sharing with ICE, and then attempted data-driven purges of state voter rolls.
+We all deserve to live in a world where the data we use to pay our taxes, receive benefits, and vote is not combined and weaponized against us. The amalgamation of data leads to mistakes, abuses, and a lack of trust in institutions meant to protect us. Overall, it can chill our participation in society. This is particularly true for groups disfavored by this administration—especially immigrants and protesters.
+Congress highlighted similar abuses—including the creation of …]]></summary>
+        <author>
+            <name>Adam Schwartz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley animal shelter arsonist sentenced to 16 months in prison]]></title>
         <id>https://www.berkeleyside.org/?p=564284</id>
@@ -97,6 +110,18 @@
         <summary type="html"><![CDATA[The state has changed and simplified food labeling laws.]]></summary>
         <author>
             <name>Local sponsor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turkish Crackdown On LGBTQ+ Organizations Threatens Freedom of Expression and Association]]></title>
+        <id>112433 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/turkish-crackdown-lgbtq-organizations-threatens-freedom-expression-and-association"/>
+        <updated>2026-10-09T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[EFF strongly condemns Turkey’s state-led discriminatory, oppressive attacks on feminist and LGBTQ+ organisations, media platforms, student groups, and rights defenders and activists within the country. 
+Since mid-September, access to the websites and social media accounts of a dozen organizations have been blocked by court order, while over 60 members and activists have been detained, their offices and homes raided, mobile phones, laptops and other digital devices seized, and judicial proceedings launched against them. 
+These actions threaten the very existence of the LGBTQ+ organizations targeted, limiting their ability to carry out legitimate human rights work, deterring participation and support, and chilling the free speech rights of not just these groups, but any organization that eve…]]></summary>
+        <author>
+            <name>Karen Gullo</name>
         </author>
     </entry>
     <entry>
