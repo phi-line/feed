@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167776",
+          "author": "Natalie Wolchover",
+          "description": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key?            \nThe post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+          "publishedOn": "2026-10-12T14:20:30.000Z",
+          "wordCount": 3656,
+          "title": "Is ‘Attention’ the Essence of Intelligence?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167729",
           "author": "Philip Ball",
           "description": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.            \nThe post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine",
@@ -662,6 +672,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6accbfd5f752b50001a526df",
+          "author": "Samantha Cole",
+          "description": "That washer/dryer combo could be used by cops to identify a property.",
+          "link": "https://www.404media.co/cops-can-creep-on-airbnb/",
+          "publishedOn": "2026-10-12T13:54:30.000Z",
+          "wordCount": 1319,
+          "title": "Cops can creep on Airbnb",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/airbnb.png"
+        },
+        {
+          "id": "6ac7e4fa426e8a0001f4bf76",
+          "author": "Joseph Cox",
+          "description": "Raven, previously called GeoSpy, lets cops figure out what specific Airbnb or Zillow property a photo was taken in.",
+          "link": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+          "publishedOn": "2026-10-12T13:00:05.000Z",
+          "wordCount": 2140,
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/raven-1.png"
+        },
         {
           "id": "6ac968d1dba2ed00010c64b3",
           "author": "Becky Ferreira",
@@ -6553,26 +6583,6 @@
           "wordCount": 7372,
           "title": "Remembering Terry Messman, founding editor of Street Spirit homeless newspaper",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/image-7.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559861",
-          "author": "Alex N. Gecan and Vanessa Arredondo",
-          "description": "Federal officials have not confirmed who, if anyone, they detained or arrested, or their basis for doing so. Berkeley police do not cooperate with immigration agents, part of the city’s sanctuary policies.",
-          "link": "https://www.berkeleyside.org/2026/07/14/ice-state-department-run-immigration-operation-in-berkeley-behind-cops-backs",
-          "publishedOn": "2026-07-14T20:17:55.000Z",
-          "wordCount": 7997,
-          "title": "ICE, State Department run immigration operation in Berkeley, won’t share details",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/09/AP25262448205169.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559844",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/07/14/cal-burger-nudi-blue-sweet-fingers-baan-thai-open",
-          "publishedOn": "2026-07-14T19:00:00.000Z",
-          "wordCount": 7685,
-          "title": "New smash burger spot and cafe land around Cal campus, and Nudi Blue launches a la carte service",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/CalBurger-Euclid.jpg?fit=840%2C680&ssl=1"
         }
       ]
     },
@@ -7292,16 +7302,6 @@
           "publishedOn": "2026-07-15T09:00:14.000Z",
           "wordCount": null,
           "title": "Napalm Death: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Dx6KZbEMyWM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Dx6KZbEMyWM",
-          "publishedOn": "2026-07-14T13:58:15.000Z",
-          "wordCount": 2177,
-          "title": "Flea x NPR: Tiny Desk Merch",
           "imageUrl": null
         }
       ]
@@ -9539,6 +9539,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=81699",
+          "author": "Jessica Hylton",
+          "description": "Looking for new ways to get excited about rice? This easy yellow rice is for you. Cooked in veggie broth and infused with peppery turmeric and warming cumin, it's toasted and simmered to fluffy perfection. Serve it with falafel and homemade hummus for one seriously flavourful Middle Eastern-inspired meal.",
+          "link": "https://jessicainthekitchen.com/yellow-rice/",
+          "publishedOn": "2026-10-12T14:00:00.000Z",
+          "wordCount": 7869,
+          "title": "Yellow Rice",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/09/Vegan-Yellow-Jasmine-Rice-15.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=82131",
           "author": "Jessica Hylton",
           "description": "As we enter the fall months, cozy apple-y treats are in, and these bakery-style apple cinnamon rolls deserve a place on the menu. Thanks to a few tricks of the trade, they come out so fluffy (almost cloud-like), and the filling tastes like your favourite apple pie. Topped with thick, tangy vegan cream cheese frosting, there's simply nothing like them.",
@@ -11361,16 +11371,6 @@
           "wordCount": 2862,
           "title": "Text Messages from the Mall Food Court Kiosk Where I Am Trying to Order a Chicago-Style Hot Dog",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1d5vb4gu1c2g7jseoyz90spl2gcn"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/transcript-from-the-annual-meeting-of-the-global-childrens-shoe-sizing-consortium",
-          "author": "Aliza Zelin Neidich",
-          "description": "CHAIRPERSON: Welcome, delegates. Before we begin, I’d like to congratulate everyone on another successful year of making children’s shoe sizing completely incomprehensible.\n (Applause.)\n VICE CHAIRPERSON: Thank you. As you know, our mission remains unchanged: no parent should ever know what size shoe their child wears.\n DELEGATE FROM EUROPE: Here, here.\n CHAIRPERSON: Let’s begin with the annual report. How are we doing?\n ANALYST: Extremely well. Parents continue to ask questions such as, “How can my child be a size 1, a size 32, and a size 13 all at the same time?”\n (Thunderous applause.)\n DELEGATE FROM THE UNITED KINGDOM: I’d like to propose that we continue refusing to clarify whether a “Big Kid 4” is larger or smaller than a “Little Kid 13.”\n CHAIRPERSON: Excellent suggestion. Any discu…",
-          "link": "https://www.mcsweeneys.net/articles/transcript-from-the-annual-meeting-of-the-global-childrens-shoe-sizing-consortium",
-          "publishedOn": "2026-07-14T17:00:00.000Z",
-          "wordCount": 2797,
-          "title": "Transcript from the Annual Meeting of the Global Children’s Shoe-Sizing Consortium",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/u1d7qf1u8cdzj5g8xhua9r9zg234"
         }
       ]
     },
@@ -12924,38 +12924,6 @@
             "length": "78242"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
-        },
-        {
-          "id": "112198 at https://www.eff.org",
-          "author": "Bill Budington",
-          "description": "One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them. Unsurprisingly, companies like Apple have worked hard to resist interoperability requirements. \nOn July 8, the General Court of the  European Union (General Court) ruled against Apple in several cases the company brought against the European Commission (joint cases), affirming the company’s obligations under the Digital Markets Act (DMA). Apple argued in the cases that it should be exempted from the law’s requirements especially with regards to interoperability on multiple grounds. We applaud the Gene…",
-          "link": "https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements",
-          "publishedOn": "2026-07-14T21:14:31.000Z",
-          "wordCount": 1399,
-          "title": "European Court: Apple Can Not Shirk Off its Interoperability Requirements",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/cjeu.png",
-            "alt": "CJEU",
-            "type": "image/png",
-            "length": "80540"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/cjeu.png"
-        },
-        {
-          "id": "112196 at https://www.eff.org",
-          "author": "Rory Mir",
-          "description": "This year the state of New York had the dubious honor of being the first to pass a controversial provision to mandate all 3D printers come with surveillance and censorship. That means not only is there a ticking clock to protect every artist, researcher, engineer, and hobbyist in the state, but there is a real risk of other states thoughtlessly following suit—prior to the New York rules even taking effect.\nWe, along with many other experts, already warned about this bill buried in the state’s crowded budget process. Hundreds of our supporters and 3D printing enthusiasts in New York reached out to their representatives hoping to kill this farcical bill. While there were some welcome amendments in response to the outcry, Albany passed it anyway.\nIt might be well-intentioned, but bills like t…",
-          "link": "https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder",
-          "publishedOn": "2026-07-14T19:52:39.000Z",
-          "wordCount": 2072,
-          "title": "Don’t Repeat NY’s 3D Printing Blunder",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/3d-ny-3-banner.jpg",
-            "alt": "3D printer makes a map of NY",
-            "type": "image/jpeg",
-            "length": "283416"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/3d-ny-3-banner.jpg"
         }
       ]
     },
@@ -12964,6 +12932,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/chinas-growth-machine/",
+          "author": null,
+          "description": "China is not the world’s largest command economy. It is a continent-sized Silicon Valley.",
+          "link": "https://worksinprogress.co/issue/chinas-growth-machine/",
+          "publishedOn": "2026-10-12T09:31:03.000Z",
+          "wordCount": 5181,
+          "title": "China’s Growth Machine",
+          "imageUrl": null
+        },
         {
           "id": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
           "author": null,

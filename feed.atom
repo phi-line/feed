@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-12T04:20:10.133Z</updated>
+    <updated>2026-10-12T14:25:19.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is ‘Attention’ the Essence of Intelligence?]]></title>
+        <id>https://www.quantamagazine.org/?p=167776</id>
+        <link href="https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"/>
+        <updated>2026-10-12T14:20:30.000Z</updated>
+        <summary type="html"><![CDATA[A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key?            
+The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Natalie Wolchover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yellow Rice]]></title>
+        <id>https://jessicainthekitchen.com/?p=81699</id>
+        <link href="https://jessicainthekitchen.com/yellow-rice/"/>
+        <updated>2026-10-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for new ways to get excited about rice? This easy yellow rice is for you. Cooked in veggie broth and infused with peppery turmeric and warming cumin, it's toasted and simmered to fluffy perfection. Serve it with falafel and homemade hummus for one seriously flavourful Middle Eastern-inspired meal.]]></summary>
+        <author>
+            <name>Jessica Hylton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cops can creep on Airbnb]]></title>
+        <id>6accbfd5f752b50001a526df</id>
+        <link href="https://www.404media.co/cops-can-creep-on-airbnb/"/>
+        <updated>2026-10-12T13:54:30.000Z</updated>
+        <summary type="html"><![CDATA[That washer/dryer combo could be used by cops to identify a property.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo]]></title>
+        <id>6ac7e4fa426e8a0001f4bf76</id>
+        <link href="https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/"/>
+        <updated>2026-10-12T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Raven, previously called GeoSpy, lets cops figure out what specific Airbnb or Zillow property a photo was taken in.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s Growth Machine]]></title>
+        <id>https://worksinprogress.co/issue/chinas-growth-machine/</id>
+        <link href="https://worksinprogress.co/issue/chinas-growth-machine/"/>
+        <updated>2026-10-12T09:31:03.000Z</updated>
+        <summary type="html"><![CDATA[China is not the world’s largest command economy. It is a continent-sized Silicon Valley.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientists Detect Record-Breaking Radio Signal from the Ancient Universe]]></title>
         <id>6ac968d1dba2ed00010c64b3</id>
@@ -11140,77 +11191,6 @@ Introducing: MAN-THOLOGY
         <updated>2026-07-15T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Court: Apple Can Not Shirk Off its Interoperability Requirements]]></title>
-        <id>112198 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements"/>
-        <updated>2026-07-14T21:14:31.000Z</updated>
-        <summary type="html"><![CDATA[One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them. Unsurprisingly, companies like Apple have worked hard to resist interoperability requirements. 
-On July 8, the General Court of the  European Union (General Court) ruled against Apple in several cases the company brought against the European Commission (joint cases), affirming the company’s obligations under the Digital Markets Act (DMA). Apple argued in the cases that it should be exempted from the law’s requirements especially with regards to interoperability on multiple grounds. We applaud the Gene…]]></summary>
-        <author>
-            <name>Bill Budington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE, State Department run immigration operation in Berkeley, won’t share details]]></title>
-        <id>https://www.berkeleyside.org/?p=559861</id>
-        <link href="https://www.berkeleyside.org/2026/07/14/ice-state-department-run-immigration-operation-in-berkeley-behind-cops-backs"/>
-        <updated>2026-07-14T20:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Federal officials have not confirmed who, if anyone, they detained or arrested, or their basis for doing so. Berkeley police do not cooperate with immigration agents, part of the city’s sanctuary policies.]]></summary>
-        <author>
-            <name>Alex N. Gecan and Vanessa Arredondo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Repeat NY’s 3D Printing Blunder]]></title>
-        <id>112196 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder"/>
-        <updated>2026-07-14T19:52:39.000Z</updated>
-        <summary type="html"><![CDATA[This year the state of New York had the dubious honor of being the first to pass a controversial provision to mandate all 3D printers come with surveillance and censorship. That means not only is there a ticking clock to protect every artist, researcher, engineer, and hobbyist in the state, but there is a real risk of other states thoughtlessly following suit—prior to the New York rules even taking effect.
-We, along with many other experts, already warned about this bill buried in the state’s crowded budget process. Hundreds of our supporters and 3D printing enthusiasts in New York reached out to their representatives hoping to kill this farcical bill. While there were some welcome amendments in response to the outcry, Albany passed it anyway.
-It might be well-intentioned, but bills like t…]]></summary>
-        <author>
-            <name>Rory Mir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New smash burger spot and cafe land around Cal campus, and Nudi Blue launches a la carte service]]></title>
-        <id>https://www.berkeleyside.org/?p=559844</id>
-        <link href="https://www.berkeleyside.org/2026/07/14/cal-burger-nudi-blue-sweet-fingers-baan-thai-open"/>
-        <updated>2026-07-14T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transcript from the Annual Meeting of the Global Children’s Shoe-Sizing Consortium]]></title>
-        <id>https://www.mcsweeneys.net/articles/transcript-from-the-annual-meeting-of-the-global-childrens-shoe-sizing-consortium</id>
-        <link href="https://www.mcsweeneys.net/articles/transcript-from-the-annual-meeting-of-the-global-childrens-shoe-sizing-consortium"/>
-        <updated>2026-07-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CHAIRPERSON: Welcome, delegates. Before we begin, I’d like to congratulate everyone on another successful year of making children’s shoe sizing completely incomprehensible.
- (Applause.)
- VICE CHAIRPERSON: Thank you. As you know, our mission remains unchanged: no parent should ever know what size shoe their child wears.
- DELEGATE FROM EUROPE: Here, here.
- CHAIRPERSON: Let’s begin with the annual report. How are we doing?
- ANALYST: Extremely well. Parents continue to ask questions such as, “How can my child be a size 1, a size 32, and a size 13 all at the same time?”
- (Thunderous applause.)
- DELEGATE FROM THE UNITED KINGDOM: I’d like to propose that we continue refusing to clarify whether a “Big Kid 4” is larger or smaller than a “Little Kid 13.”
- CHAIRPERSON: Excellent suggestion. Any discu…]]></summary>
-        <author>
-            <name>Aliza Zelin Neidich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flea x NPR: Tiny Desk Merch]]></title>
-        <id>https://www.youtube.com/shorts/Dx6KZbEMyWM</id>
-        <link href="https://www.youtube.com/shorts/Dx6KZbEMyWM"/>
-        <updated>2026-07-14T13:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
