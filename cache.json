@@ -663,6 +663,46 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ace8dcee52a6a0001b8688e",
+          "author": "Jason Koebler",
+          "description": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
+          "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+          "publishedOn": "2026-10-13T20:06:53.000Z",
+          "wordCount": 1545,
+          "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-13-at-1.04.59-PM@2x.png"
+        },
+        {
+          "id": "6ace5e6fe52a6a0001b58ff7",
+          "author": "Samantha Cole",
+          "description": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
+          "link": "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
+          "publishedOn": "2026-10-13T16:50:28.000Z",
+          "wordCount": 1429,
+          "title": "Dubstep and BookTok, a perfect match?",
+          "imageUrl": "https://images.unsplash.com/photo-1578946956088-940c3b502864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxkdWJzdGVwfGVufDB8fHx8MTc5MTkwOTk3Nnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6ace554fe52a6a0001b58ef6",
+          "author": "Samantha Cole",
+          "description": "DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space,\" he said. \"I think that's a really beautiful thing.”",
+          "link": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
+          "publishedOn": "2026-10-13T16:35:23.000Z",
+          "wordCount": 3094,
+          "title": "The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/darq-dagr.png"
+        },
+        {
+          "id": "6ace420ce52a6a0001b58b80",
+          "author": "Matthew Gault",
+          "description": "A federal warrant application detailed how Tesla’s security protocols stopped agents from tracking a suspected drug trafficker’s car.",
+          "link": "https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/",
+          "publishedOn": "2026-10-13T14:51:11.000Z",
+          "wordCount": 1207,
+          "title": "Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Sentry-1.jpg"
+        },
+        {
           "id": "6accbfd5f752b50001a526df",
           "author": "Samantha Cole",
           "description": "That washer/dryer combo could be used by cops to identify a property.",
@@ -2938,17 +2978,6 @@
           "title": "A Man Died of COVID at This California Detention Center. A Judge Just Ordered Sweeping Improvements There.",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8393200",
-          "author": "C.J. Ciaramella",
-          "description": "Camp East Montana is the largest immigration detention center in the nation. It's also plagued by brutality and neglect, according to a string of internal and external investigations.",
-          "link": "https://reason.com/2026/07/16/a-texas-immigrant-detention-center-is-a-human-rights-disaster-civil-rights-groups-say-in-report/",
-          "publishedOn": "2026-07-16T05:00:08.000Z",
-          "wordCount": null,
-          "title": "A Texas Immigrant Detention Center Is a 'Human Rights Disaster,' Civil Rights Groups Say in Report",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3554,6 +3583,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
+          "author": "Anna August",
+          "description": "The post An Inside Look At How To Tame Unstoppable AI appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
+          "publishedOn": "2026-10-13T16:45:20.000Z",
+          "wordCount": 11212,
+          "title": "An Inside Look At How To Tame Unstoppable AI",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/noema_artwork_option-2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=e402cdd77685d053975d99d5207f10ce"
+        },
+        {
           "id": "https://www.noemamag.com/we-are-already-post-human",
           "author": "Nathan Gardels",
           "description": "The post We Are Already Post-Human appeared first on NOEMA.",
@@ -3910,6 +3949,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=561142",
+          "author": "Nico Savidge",
+          "description": "The volunteer-run, all-ages Berkeley music venue that helped launch Green Day and Operation Ivy turns 40 this year, and is working to buy its building.",
+          "link": "https://www.berkeleyside.org/2026/10/13/924-gilman-berkeley-punk-green-day",
+          "publishedOn": "2026-10-13T22:08:49.000Z",
+          "wordCount": 11397,
+          "title": "How the punks of 924 Gilman beat the odds and built a DIY institution",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/924-Gilman-Natera-4.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564361",
+          "author": "Berkeleyside Staff",
+          "description": "A rally is planned at Civic Center Park, with other events scheduled near the Cal campus, on Fourth Street, at Cedar Rose Park and on freeway overpasses.",
+          "link": "https://www.berkeleyside.org/2026/10/13/no-kings-protest-locations-berkeley-october-17",
+          "publishedOn": "2026-10-13T19:43:46.000Z",
+          "wordCount": 8158,
+          "title": "‘No Kings’ voter turnout events planned in 7 Berkeley locations this Saturday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-15.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564352",
+          "author": "Skylla Mumana",
+          "description": "North Beach Pizza is moving from its current Berkeley location into the restaurant space on University Avenue in downtown.",
+          "link": "https://www.berkeleyside.org/2026/10/13/north-beach-pizza-bobby-gs-university",
+          "publishedOn": "2026-10-13T19:18:33.000Z",
+          "wordCount": 8095,
+          "title": "44-year-old Bay Area pizza spot taking over shuttered Bobby G’s location",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/NorthBeach-BobbyG-Gecan.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564085",
+          "author": "Momo Chang",
+          "description": "Cere Tea, World of Hoagies, Top Dog, and Pin Rice were among the recent restaurant openings.",
+          "link": "https://www.berkeleyside.org/2026/10/13/top-dog-cere-buenos-aires-world-hoagies-delage-upstairs-open",
+          "publishedOn": "2026-10-13T14:00:00.000Z",
+          "wordCount": 9882,
+          "title": "New matcha, hoagie, hot dog, and Chinese options land in Berkeley in September",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/ceretea.jpg?fit=1012%2C790&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564053",
+          "author": "Nathan Dalton",
+          "description": "Also: A new Cal Team Store opens at California Memorial Stadium, a pop-up teaches traditional Japanese craft, and former Berkeley School teachers open a home-based preschool.",
+          "link": "https://www.berkeleyside.org/2026/10/13/shop-talk-berkeleys-karim-cycle-closes-but-its-owner-is-still-selling-bikes",
+          "publishedOn": "2026-10-13T14:00:00.000Z",
+          "wordCount": 9140,
+          "title": "Shop Talk: Berkeley’s Karim Cycle closes but its owner is still selling bikes",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-8.png?fit=800%2C600&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564284",
           "author": "Alex N. Gecan",
@@ -9819,6 +9908,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/winston-smith-is-forced-down-the-jennifer-hudson-show-spirit-tunnel",
+          "author": "Nathan Cowley",
+          "description": "“The thing that is in Room 101 is the worst thing in the world,” said O’Brien.\n A guard came in, carrying something made of wire, a box or basket of some kind.\n “In your case,” said O’Brien, “the worst thing in the world happens to be—”\n “The Jennifer Hudson Show Spirit Tunnel!” Winston cried out in a high, cracked voice.\n “What?” said O’Brien. “Your file says rats.”\n “That’s just something I say to look normal in front of the Thought Police,” said Winston, making an effort to control his voice. “Please don’t make me walk down the Spirit Tunnel! I’m not a cool enough white guy to pull that off. I’m not Penn Badgley!”\n O’Brien looked thoughtfully into the distance. Though he wouldn’t admit it, the Spirit Tunnel terrified him too. All those people staring, expecting you to smile and groove d…",
+          "link": "https://www.mcsweeneys.net/articles/winston-smith-is-forced-down-the-jennifer-hudson-show-spirit-tunnel",
+          "publishedOn": "2026-10-13T17:00:00.000Z",
+          "wordCount": 2801,
+          "title": "Winston Smith Is Forced Down The Jennifer Hudson Show Spirit Tunnel",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/kh3y7iap9dfx25gjefhj7i85rttm"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/david-brooks-knows-a-nazi-when-he-sees-one",
           "author": "Jack Loftus",
           "description": "“Jon Ossoff, my advice to him is, if you start calling your political opponents Nazis, maybe it’s time to shut up. That’s just not what we do here in this country.” – Columnist David Brooks, in remarks made on PBS NewsHour\n - - -\nThere is a troubling tendency in today’s American political discourse to invoke the specter of Nazism whenever we encounter political views we find objectionable.\n I worry about this. Not simply because such accusations cheapen the historical meaning of the word “Nazi,” but because they overlook the finer distinctions that separate one political movement from another. We cannot become so preoccupied with the rhetoric, political violence, persecution of minorities, and erosion of democratic institutions that we ignore the smaller, more revealing details right benea…",
@@ -11306,6 +11405,38 @@
       "siteUrl": "https://www.eff.org",
       "articles": [
         {
+          "id": "112441 at https://www.eff.org",
+          "author": "Devanshi Nishar",
+          "description": "In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of automated license plate reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, two non-profits that serve San Jose residents, in this case.\nMake no mistake: We believe this ruling is wrong on the law, and we will appeal. The ruling ignores the importance of landmark rulings from the U.S. Supreme Court regarding the invasiveness of aggregating collected data on an individual over time, including one issued just months ago. It also severely underestimates the harm that ALPRs cause, in San Jose and around the country. \nSan Jose’s ALPR surveillance system is inescapable. It bl…",
+          "link": "https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling",
+          "publishedOn": "2026-10-13T17:19:19.000Z",
+          "wordCount": 1913,
+          "title": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flock-vector-2b.png",
+            "alt": "A flock camera with spying eyes, silhouetted against a dark purple ground.",
+            "type": "image/png",
+            "length": "10240"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flock-vector-2b.png"
+        },
+        {
+          "id": "112415 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S government treated encryption like a weapon, and it took some unlikely heroes to set it free: a grad student, a junior lawyer, and a fledgling digital rights group who sued the federal government. \nThe ruling in Bernstein v. Department of Justice held that code is speech and so is protected by the First Amendment – a precedent that underpins the internet as we know it today. This landmark case was led by Cindy Cohn, then a young pro bono lawyer working on behalf of EFF, who went on to become EFF’…",
+          "link": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption",
+          "publishedOn": "2026-10-13T15:00:03.000Z",
+          "wordCount": 1673,
+          "title": "Privacy's Defenders Podcast: No Privacy Without Encryption",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/pd-podcast-banner.png",
+            "alt": "Privacy&#039;s Defender: Stories From the Fights for Digital Rights",
+            "type": "image/png",
+            "length": "1062415"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/pd-podcast-banner.png"
+        },
+        {
           "id": "112435 at https://www.eff.org",
           "author": "Adam Schwartz",
           "description": "In the past two years, the federal government has unlawfully consolidated data exposing our private information. \nThis consolidation has been chaotic but generally came in three rolling waves: It started with DOGE, moved to agency-to-agency data sharing with ICE, and then attempted data-driven purges of state voter rolls.\nWe all deserve to live in a world where the data we use to pay our taxes, receive benefits, and vote is not combined and weaponized against us. The amalgamation of data leads to mistakes, abuses, and a lack of trust in institutions meant to protect us. Overall, it can chill our participation in society. This is particularly true for groups disfavored by this administration—especially immigrants and protesters.\nCongress highlighted similar abuses—including the creation of …",
@@ -12786,22 +12917,6 @@
             "length": "449288"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/dedsec_watch_dogs_1200x600.jpg"
-        },
-        {
-          "id": "112205 at https://www.eff.org",
-          "author": "Jillian C. York",
-          "description": "EFF and ARTICLE 19 have submitted joint comments to the European Commission on draft guidelines for the Digital Services Act’s trusted flagger mechanism. Having long advocated for a DSA that protects freedom of expression while preserving intermediary liability protections and the prohibition on general monitoring, we welcome the Commission's effort to provide practical guidance on how the trusted flagger system should operate. \nThe DSA’s trusted flagger system can help platforms identify illegal content more efficiently. But if implemented poorly, it could also encourage over-removal of lawful speech, weaken due process, and give government authorities disproportionate influence over online expression. \nWe support the Commission's focus on good practices and illustrative examples, rather …",
-          "link": "https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines",
-          "publishedOn": "2026-07-16T09:22:17.000Z",
-          "wordCount": 1712,
-          "title": "EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/eu-flag-11.png",
-            "alt": "EU-flag-circuits",
-            "type": "image/png",
-            "length": "48177"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/eu-flag-11.png"
         }
       ]
     },
