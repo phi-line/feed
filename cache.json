@@ -2710,6 +2710,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8405772",
+          "author": "Tosin Akintola",
+          "description": "Top administration officials have all but pronounced her guilty in an ongoing investigation.",
+          "link": "https://reason.com/2026/10/12/dhs-searched-ilhan-omars-home-as-part-of-immigration-fraud-investigation/",
+          "publishedOn": "2026-10-12T19:40:15.000Z",
+          "wordCount": null,
+          "title": "DHS Searched Ilhan Omar's Home as Part of Immigration Fraud Investigation",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8404715",
           "author": "Charles Oliver",
           "description": "A man in Evanston, Illinois, was injured after Immigration and Customs Enforcement (ICE) agents mistakenly detained him because he resembled…\nThe post Brickbat: Cold as ICE appeared first on Reason Magazine.",
@@ -2988,6 +2999,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/blurry",
+          "author": "Asimov Press",
+          "description": "A bacterium can acquire new genes without acquiring a new name, or acquire a new name without changing whatsoever.",
+          "link": "https://www.asimov.press/p/blurry",
+          "publishedOn": "2026-10-12T17:27:31.000Z",
+          "wordCount": null,
+          "title": "Species Have Blurry Boundaries",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!7OC_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec593eaa-a919-45e9-832e-be7b5648277c_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!7OC_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec593eaa-a919-45e9-832e-be7b5648277c_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/flowers",
           "author": "Asimov Press",
           "description": "A plant biologist in England is using genetic engineering, breeding, and pathogens to design and create flowers that exist nowhere else on Earth.",
@@ -3143,6 +3170,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3310/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3310/",
+          "publishedOn": "2026-10-12T04:00:00.000Z",
+          "wordCount": 184,
+          "title": "Rejected Space Mission Profiles",
+          "imageUrl": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles_2x.png"
+        },
         {
           "id": "https://xkcd.com/3309/",
           "author": null,
@@ -3512,16 +3549,6 @@
           "wordCount": 189,
           "title": "Latitude and Longitude",
           "imageUrl": "https://imgs.xkcd.com/comics/latitude_and_longitude_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3272/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3272/",
-          "publishedOn": "2026-07-15T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Time Change",
-          "imageUrl": "https://imgs.xkcd.com/comics/time_change_2x.png"
         }
       ]
     },
@@ -11361,16 +11388,6 @@
           "wordCount": 3060,
           "title": "Introducing: MAN-THOLOGY, by Alpha Male Guru, Chud Buffly",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qutjkvbos2f4ep5kzrjpqu7aoaos"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/text-messages-from-the-mall-food-court-kiosk-where-i-am-trying-to-order-a-chicago-style-hot-dog",
-          "author": "Ellen Poplavska",
-          "description": "Your total is $6.99.\n You added relish. Your total is $7.99.\n You added mustard. Your total is $8.99.\n You tried to remove mustard. Your total is $9.99.\n You tried to add ketchup. What is wrong with you? Your total is $12.99.\n We queried the Google Maps API and saw the closest open restaurant is 40 minutes away. Your total is $17.99.\n You added sport peppers. Your total is $18.99.\n We noticed you’ve been drinking at the dinky bar next door for the last four hours and are assuming you’re pretty desperate. Your total is $26.99.\n You added a pickle spear. Your total is $27.99.\n We subpoenaed OpenAI for your ChatGPT transcripts and learned you’re going through a bad breakup and are being really pathetic about it. Your total is $34.99.\n We saw your recent mopey Instagram posts and learned this …",
-          "link": "https://www.mcsweeneys.net/articles/text-messages-from-the-mall-food-court-kiosk-where-i-am-trying-to-order-a-chicago-style-hot-dog",
-          "publishedOn": "2026-07-15T12:01:00.000Z",
-          "wordCount": 2862,
-          "title": "Text Messages from the Mall Food Court Kiosk Where I Am Trying to Order a Chicago-Style Hot Dog",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/1d5vb4gu1c2g7jseoyz90spl2gcn"
         }
       ]
     },
