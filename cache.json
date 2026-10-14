@@ -2701,16 +2701,6 @@
           "wordCount": 1799,
           "title": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image1-1.jpg"
-        },
-        {
-          "id": "6a58db036edaee0001dd4be5",
-          "author": "Joseph Cox",
-          "description": "Cops have used Flock's FreeForm search feature to look for people with tattoos and wearing specific sport shirts, and searches sometimes include the target's race, according to data reviewed by 404 Media.",
-          "link": "https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/",
-          "publishedOn": "2026-07-16T13:56:48.000Z",
-          "wordCount": 2436,
-          "title": "How Cops Use Flock to Track People, Not Cars",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/flock-people-search.png"
         }
       ]
     },
@@ -3931,16 +3921,6 @@
           "wordCount": 3459,
           "title": "The Heated Debate In Europe Over Air-Conditioning",
           "imageUrl": "https://noemamag.imgix.net/2026/07/heat-haze-flaming-hot-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=a6a2dfe1e956a7e5623aa6bbfcbc3762"
-        },
-        {
-          "id": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
-          "author": "Jacob Dreyer",
-          "description": "The post How AI Is Rewriting Human Nature appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
-          "publishedOn": "2026-07-16T13:52:51.000Z",
-          "wordCount": 8494,
-          "title": "How AI Is Rewriting Human Nature",
-          "imageUrl": "https://noemamag.imgix.net/2026/07/26-07-14-NOEMA-x-Peterffy-Illustration-fin-947x1186px.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=eb84252829133076722af2473c7f093a"
         }
       ]
     },
@@ -3949,6 +3929,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=564409",
+          "author": "Alex N. Gecan",
+          "description": "PG&E sent alerts to 70,000 customers statewide, including nearly 5,000 in Alameda County, that they may lose power later this week as a precaution against dry offshore winds.",
+          "link": "https://www.berkeleyside.org/2026/10/13/pacific-gas-and-electric-public-safety-power-shutoff-berkeley",
+          "publishedOn": "2026-10-14T02:24:54.000Z",
+          "wordCount": 8050,
+          "title": "Many Berkeley neighborhoods may have power shut off for fire safety Thursday",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/0FC8A62C-E4AC-44E8-8608-BAAB23171671.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564232",
+          "author": "Alex N. Gecan",
+          "description": "Police believe the Richmond man hit the pedestrians, both in their 70s, at University Avenue and Eighth Street on Oct. 7.",
+          "link": "https://www.berkeleyside.org/2026/10/13/berkeley-hit-and-run-eighth-university",
+          "publishedOn": "2026-10-13T23:49:01.000Z",
+          "wordCount": 7987,
+          "title": "22-year-old man arrested in West Berkeley hit-and-run that injured 2 pedestrians last week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/02/large-IMG_7402.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=561142",
           "author": "Nico Savidge",
@@ -6598,26 +6598,6 @@
           "wordCount": 7430,
           "title": "Dish & Tell: The story behind Good to Eat’s BBQ fried chicken cutlet",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/GoodToEat-BBQChickenCutlet-Lapan.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559969",
-          "author": "Alex N. Gecan",
-          "description": "Opponents accused the council of militarizing a department they feel cannot be trusted, while police said access to dogs and aircraft will help them save lives and solve crimes.",
-          "link": "https://www.berkeleyside.org/2026/07/16/bpd-city-council-k9-helicopter-requests",
-          "publishedOn": "2026-07-16T14:00:00.000Z",
-          "wordCount": 7863,
-          "title": "Council gives Berkeley police easier access to other agencies’ dogs, helicopters",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2022/07/chp-helicopter-file-photo.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=559962",
-          "author": "Karen Nguyen Vo and Andrew Gilbert",
-          "description": "Other events include a car meet on Fourth Street, a tragicomedy performance at Live Oak Park and a tank house walking tour.",
-          "link": "https://www.berkeleyside.org/2026/07/16/around-berkeley-central-works-final-production-elmwood-beer-crawl-game-convention",
-          "publishedOn": "2026-07-16T13:00:00.000Z",
-          "wordCount": 8408,
-          "title": "Around Berkeley: Central Works’ final production, Elmwood Beer Crawl, game convention",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/ThePrince_promo-1.png?fit=2000%2C1500&ssl=1"
         }
       ]
     },
@@ -6876,21 +6856,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/text-is-my-gimmick/911718ilsdl.jpeg"
-        },
-        {
-          "id": "https://aethermug.com/posts/kings-great-fortune",
-          "author": null,
-          "description": "",
-          "link": "https://aethermug.com/posts/kings-great-fortune?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-07-16T10:45:13.000Z",
-          "wordCount": 8160,
-          "title": "The King's Great Fortune",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/kings-great-fortune/903950ilsdl.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/kings-great-fortune/903950ilsdl.jpeg"
         }
       ]
     },
@@ -9862,16 +9827,6 @@
           "wordCount": 13258,
           "title": "Tempeh Stir Fry with Peanut Sauce",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/06/Tempeh-Stir-Fry-with-Peanut-Ginger-Sauce5013.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=19849",
-          "author": "Jessica Hylton",
-          "description": "This tender, quick-pickled cabbage comes out incredibly flavourful. They're brine-y, tangy, and a little sweet with the perfect, subtle crunch. You're going to want to put them on everything.",
-          "link": "https://jessicainthekitchen.com/quick-pickled-cabbage-how-to-pickle-any-vegetable/",
-          "publishedOn": "2026-07-16T14:00:00.000Z",
-          "wordCount": 12284,
-          "title": "Quick Pickled Cabbage",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/06/Quick-Pickled-Cabbage2339.jpg"
         }
       ]
     },
@@ -11386,16 +11341,6 @@
           "wordCount": 2143,
           "title": "Disgruntled Performance",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/l5hu14atc29e6k6mjaxkj1hjjk9z"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112",
-          "author": "Emily Greenberg and Chase Bush-McLaughlin",
-          "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
-          "link": "https://www.mcsweeneys.net/articles/june-2026-atrocities-1014-1112",
-          "publishedOn": "2026-07-16T12:00:00.000Z",
-          "wordCount": 11069,
-          "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: June 2026:  Atrocities 1014-1112",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/umngchsamo0xyzcw0phft031r7yz"
         }
       ]
     },
