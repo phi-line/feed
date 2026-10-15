@@ -521,16 +521,6 @@
           "wordCount": 2428,
           "title": "The Organisms That Make Earth’s Harshest Places Home",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2055/07/ImageGallery_Extremophiles-crWysiati_Alamy-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=164237",
-          "author": "Rachel Nuwer",
-          "description": "The biologist’s bold “energetic view of life” looks to the body’s strangest organelles as the link between cells, health, and mind and the foundation of our experience of being alive.            \nThe post Martin Picard’s Mitochondrial Theory of Mind first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
-          "publishedOn": "2026-07-17T14:31:05.000Z",
-          "wordCount": 4575,
-          "title": "Martin Picard’s Mitochondrial Theory of Mind",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Martin-Picard-cr-Sasha-Maslov-Social.jpg"
         }
       ]
     },
@@ -545,6 +535,26 @@
       "feedUrl": "https://asteriskmag.com/feed",
       "siteUrl": "https://asteriskmag.com",
       "articles": [
+        {
+          "id": "https://asteriskmag.com/issues/16/the-dream-of-an-aristotelian-machine",
+          "author": null,
+          "description": "Why alignment science took a turn towards virtue ethics.",
+          "link": "https://asteriskmag.com/issues/16/the-dream-of-an-aristotelian-machine",
+          "publishedOn": "2026-10-14T00:00:00.000Z",
+          "wordCount": 3797,
+          "title": "The Dream of an Aristotelian Machine",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/the-dream-of-an-aristotelian-machine/8c952dae19-1792011422/virtue-ethics-daniel-bashir-1600x900-crop-sharpen50.png"
+        },
+        {
+          "id": "https://asteriskmag.com/issues/16/living-well",
+          "author": null,
+          "description": "Welcome to Issue 16.",
+          "link": "https://asteriskmag.com/issues/16/living-well",
+          "publishedOn": "2026-10-14T00:00:00.000Z",
+          "wordCount": 1068,
+          "title": "Living Well",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/f4a04d48e1-1791912321/flourishing_print_cover-1600x900-crop-sharpen50.png"
+        },
         {
           "id": "https://asteriskmag.com/issues/15/what-will-happen-to-indian-it",
           "author": null,
@@ -3950,6 +3960,16 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://oaklandside.org/?p=481640",
+          "author": "Natalie Orenstein",
+          "description": "Millions of Californians will participate in the Great California ShakeOut on Oct. 15. We’ve rounded up tips and resources to help you prepare.",
+          "link": "https://www.berkeleyside.org/2026/10/14/great-california-shakeout-earthquake-drill-2026",
+          "publishedOn": "2026-10-14T22:49:49.000Z",
+          "wordCount": 7984,
+          "title": "California’s annual earthquake drill is Thursday. Here’s what to know",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/006_Flats-HillsViews_054_Middleton_230614.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=564393",
           "author": "Kate Harrison, Nancy Rader and Michael Katz",
           "description": "The half-cent sales tax would burden lower-income families and doesn’t fully address the structural deficit caused by city leaders’ lack of fiscal discipline.",
@@ -6618,16 +6638,6 @@
           "wordCount": 7718,
           "title": "Downsizing? Here’s what you need to know first",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/005-679-colusa-avenue.74172.p3k.003.print_.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=560036",
-          "author": "Daniel Ekonde",
-          "description": "Next year, during certain times in proposed “entertainment zones,” you may be allowed to order booze from a bar and sip it outside places like Berkeley Rep, La Marcha or Chez Panisse.",
-          "link": "https://www.berkeleyside.org/2026/07/17/berkeley-entertainment-zone-proposal",
-          "publishedOn": "2026-07-17T14:00:00.000Z",
-          "wordCount": 8529,
-          "title": "Strolling the street with drink in hand could be legalized in 5 Berkeley nightlife areas",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/17-1-scaled.jpg"
         }
       ]
     },
@@ -6697,16 +6707,6 @@
           "wordCount": 5376,
           "title": "spaghetti aglio e olio",
           "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/07/spaghetti-alio-e-olio-6-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
-        },
-        {
-          "id": "https://smittenkitchen.com/?p=96945",
-          "author": "deb",
-          "description": "Whoops!) But it turns out I have opinions on everything and there’s no time like the nth heat wave of the summer to share what I consider the correct, best formula for lemonade and it is — who could have ever seen this coming? — mine.\nRead more »",
-          "link": "https://smittenkitchen.com/2026/07/house-lemonade/",
-          "publishedOn": "2026-07-17T14:23:19.000Z",
-          "wordCount": 5467,
-          "title": "house lemonade",
-          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/07/house-lemonade-09-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
         }
       ]
     },
@@ -9903,6 +9903,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/by-executive-order-i-hereby-outlaw-pooping-by-all-american-women",
+          "author": "Patrick Coyne",
+          "description": "By the authority vested in me, Donald J. Trump, as President by the Constitution and the laws of the United States of America, it is hereby ordered that all US citizens of the female persuasion are barred from engaging in acts of defecation.\n Following several productive and extremely graphic discussions with Secretary of Health Robert Kennedy Jr., the White House has been repeatedly assured that it is not a biological necessity for women to engage in the traditionally masculine act of pooping. There is also virtually no record of any woman doing so prior to 1964. And in cases when it’s a legitimate dookie, the female body has ways to shut that whole thing down.\n Therefore, in an effort to restore traditional gender norms, pooping is now outlawed for women within the United States and its …",
+          "link": "https://www.mcsweeneys.net/articles/by-executive-order-i-hereby-outlaw-pooping-by-all-american-women",
+          "publishedOn": "2026-10-14T23:30:00.000Z",
+          "wordCount": 2779,
+          "title": "By Executive Order, I Hereby Outlaw Pooping by All American Women",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/727xeh2x07iucvwr3if4m6iihqau"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/if-restoration-hardware-were-a-person",
           "author": "Natalia Ballinger",
           "description": "His name would be Logan.\n He would send you five-hundred-page tomes celebrating himself with thousands of glossy selfies that all look pretty much the same.\n He would eat only beige food.\n He would own dozens of neoclassical marble busts and torsos, even though his knowledge of the ancient world would be limited to Christopher Nolan’s The Odyssey.\n If you took him to a Kandinsky exhibit, he would explode.\n He would insist on calling you “Sloane” even though your name is Shirley.\n If you accidentally spilled wine on him, he’d be ruined forever. Cover him with a blanket and hope no one notices.\n He would carry an EpiPen in case of accidental exposure to ZZ Top or Marky Mark and the Funky Bunch.\n He would employ an au pair even though he doesn’t have any children.\n He would break up with you if he discovered how much you adore Doritos Locos Tacos.\n He would pepper his speech with dramatic French turns of phrase à la Alex Trebek.\n His dog would have a better manicure than you.\n His home library would consist solely of decorative, white-bound books of blank pages. He would enjoy perusing said “books” with a pensive expression, tweed jacket, and lensless tortoiseshell glasses.\n The word “greige” would make him orgasm.\n Your friends would have boyfriends who sort of resembled him but cost much less.\n He would grow insecure whenever he crossed paths with his richer French neighbor, Roche Bobois.\n He would suffer nightly from sleep episodes where he repeatedly blurts out the words “CRAFTSMANSHIP,” “HEIRLOOM,” and “MONOCHROMATIC.”\n He would never have had a bowel movement.",
@@ -11351,26 +11361,6 @@
           "wordCount": 3086,
           "title": "Our Investigation Found That Shen Yun Used U.S. Voter Rolls to Distribute Flyers to Hundreds of Millions of American Households",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gxvue9j6zq7d6av1m1an1uvjbs2v"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/is-it-a-red-flag-the-odyssey-edition",
-          "author": "Amy Greenlee",
-          "description": "He’s been away from home for twenty years. \n Not a red flag. This is an opportunity for you to embrace some alone time and discover new interests, like bird-watching or weaving burial shrouds.\n He’s been having sexual relations with a goddess. \n Not a red flag, since refusing a deity might have led to death or something far worse: being called an ill-mannered guest.\n He is willing to sacrifice six crew members for his own survival. \n Not a red flag. Everyone must come up with their own answer to the trolley problem. Never judge another person’s choice until you yourself have taken a turn at the lever.\n He is a master of disguise. \n Not a red flag unless he doesn’t know when to turn it off and you can’t stand role-play. If an eagle flies by carrying a white goose, it could be a sign that he…",
-          "link": "https://www.mcsweeneys.net/articles/is-it-a-red-flag-the-odyssey-edition",
-          "publishedOn": "2026-07-17T15:00:00.000Z",
-          "wordCount": 2847,
-          "title": "Is It a Red Flag?  The Odyssey Edition",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/vega5iv2kshwwp8n2fw9pkb1g585"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/as-your-manager-i-dont-think-its-too-much-to-ask-that-you-read-my-mind",
-          "author": "Brandon J. Talley",
-          "description": "I’ve requested this meeting because I’ve noticed a concerning trend: It doesn’t seem like you’re reading my mind. This is quite troubling because tasks I’ve never mentioned before are falling through the cracks. All of this could be avoided if you quit relying on written or verbal requests and started showing some initiative. Failure to magically know what I want simply isn’t going to fly.\n I just can’t keep reminding you to do things I haven’t told you about. I don’t know how many warnings I’ve given you now. How many have there been? You should be keeping track of this. This is the problem right here. Why aren’t you anticipating?\n At first, I thought this could just be a simple oversight. Maybe you were accidentally reading somebody else’s mind. Maybe you were reading Jerry’s. But after …",
-          "link": "https://www.mcsweeneys.net/articles/as-your-manager-i-dont-think-its-too-much-to-ask-that-you-read-my-mind",
-          "publishedOn": "2026-07-17T12:04:00.000Z",
-          "wordCount": 2984,
-          "title": "As Your Manager, I Don’t Think It’s Too Much to Ask That You Read My Mind",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nw10svca2zokt03wff1hqmc27jbg"
         }
       ]
     },
@@ -11379,6 +11369,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112447 at https://www.eff.org",
+          "author": "Andrew Crocker",
+          "description": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent a religious organization, the Wisconsin Council of Churches, as well as an individual pastor in Green Bay.\nAs the petition explains:\nRight now, Automated License Plate Readers (“ALPRs”) are recording the movements of vast numbers of Wisconsin drivers as they seek medical care, attend 12-step recovery meetings, attend religious services, participate in protests, attend political meetings, and engage in many other private, sensitive activities. Law enforcement entities throughout Wisconsin collec…",
+          "link": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
+          "publishedOn": "2026-10-14T23:21:37.000Z",
+          "wordCount": 895,
+          "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+            "alt": "sinister cop and cameras loom over street grid with cars identified by license plates",
+            "type": "image/png",
+            "length": "224550"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/siren_v._san_jose.png"
+        },
         {
           "id": "112446 at https://www.eff.org",
           "author": "Sophia Cope",
@@ -12908,22 +12914,6 @@
             "length": "15658"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/lighthouse-banner-1.png"
-        },
-        {
-          "id": "112206 at https://www.eff.org",
-          "author": "Dave Maass",
-          "description": "When Ubisoft's Watch Dogs 2 was released in 2016, it was a headtrip for those of us working on digital-rights issues in the Bay Area. During the day, I'd fight tech-authoritarianism from EFF's San Francisco offices and then, at night, I'd fight tech-authoritarianism in an uncanny simulation of San Francisco from my home gaming console.  \nWatch Dogs 2 is an open-world video game that follows a hacktivist collective called Dedsec as they take on surveillance tech and discriminatory AI systems that are being controlled by tech bros, government contractors, and corrupt cops. The game's missions often felt like they were ripped from the pages of EFF's Deeplinks blog.  \nEFF’s mission is defending civil liberties in the digital world, and we do that with activists, technologists, and lawyers. If …",
-          "link": "https://www.eff.org/deeplinks/2026/07/how-watch-dogs-video-game-series-mirrored-and-predicted-real-world-digital-rights",
-          "publishedOn": "2026-07-17T15:01:22.000Z",
-          "wordCount": 2544,
-          "title": "How the Watch Dogs Video Game Series Mirrored and Predicted Real-World Digital Rights Issues",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/dedsec_watch_dogs_1200x600.jpg",
-            "alt": "Watch Dogs 2 Dedsec attack",
-            "type": "image/jpeg",
-            "length": "449288"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/dedsec_watch_dogs_1200x600.jpg"
         }
       ]
     },
