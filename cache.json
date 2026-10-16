@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=167932",
+          "author": "John Pavlus",
+          "description": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.            \nThe post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+          "publishedOn": "2026-10-16T13:25:08.000Z",
+          "wordCount": 3051,
+          "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167865",
           "author": "Steven Strogatz and Janna Levin",
           "description": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.            \nThe post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
@@ -692,6 +702,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ad244cee0d65d000162c678",
+          "author": "Joseph Cox",
+          "description": "How Raven, previously known as Geospy, can now find which house a photo was taken in; why a judge ruled a Flock search unconstitutional; and the wild AI video in a court case.",
+          "link": "https://www.404media.co/podcast-cops-can-use-ai-to-pinpoint-your-home-with-just-one-photo/",
+          "publishedOn": "2026-10-16T15:40:44.000Z",
+          "wordCount": 1129,
+          "title": "Podcast: Cops Can Use AI to Pinpoint Your Home with Just One Photo",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/maxresdefault-10.jpg"
+        },
+        {
+          "id": "6ad23443e0d65d000162c254",
+          "author": "Joseph Cox",
+          "description": "Newly filed court records include a letter from Telegram to U.S. authorities in which the company shares user data following a court order.",
+          "link": "https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/",
+          "publishedOn": "2026-10-16T14:32:24.000Z",
+          "wordCount": 1115,
+          "title": "Here’s What Telegram Giving Data to the U.S. Government Looks Like",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/dima-solomin-4_BbIPL8KOI-unsplash.jpg"
+        },
+        {
+          "id": "6ad22adae0d65d000162bfb3",
+          "author": "Samantha Cole",
+          "description": "Christopher Thomas Mertens, a high school maintenance worker, was arrested after attempting to meet up with an AI persona that he thought was a 15 year old boy.",
+          "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+          "publishedOn": "2026-10-16T13:57:18.000Z",
+          "wordCount": 1584,
+          "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Online_Child_Pornography_23318394664278.jpg"
+        },
         {
           "id": "6ad12958e0d65d00016291b9",
           "author": "Becky Ferreira",
@@ -3235,6 +3275,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3312/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3312/",
+          "publishedOn": "2026-10-16T04:00:00.000Z",
+          "wordCount": 180,
+          "title": "Momentum Demonstration",
+          "imageUrl": "https://imgs.xkcd.com/comics/momentum_demonstration_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3311/",
           "author": null,
           "description": "",
@@ -3659,6 +3709,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/when-the-present-eats-the-future",
+          "author": "Nathan Gardels",
+          "description": "The post When The Present Eats The Future appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/when-the-present-eats-the-future",
+          "publishedOn": "2026-10-16T15:50:05.000Z",
+          "wordCount": 4628,
+          "title": "When The Present Eats The Future",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/Color_V1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=7de922fc8a015c3f6f786c4d447dfc1f"
+        },
+        {
           "id": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
           "author": "Kat Hill",
           "description": "The post What We Can Save In A Time Of Endings appeared first on NOEMA.",
@@ -4015,6 +4075,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=564272",
+          "author": "Local sponsor",
+          "description": "At Bishop O’Dowd High School, preparing students for the future means cultivating independent thinkers, ethical judgment and meaningful human connections.",
+          "link": "https://www.berkeleyside.org/2026/10/16/phones-away-minds-engaged-how-odowd-is-preparing-students-for-the-age-of-ai",
+          "publishedOn": "2026-10-16T15:30:00.000Z",
+          "wordCount": 7394,
+          "title": "Phones away, minds engaged — how O’Dowd is preparing students for the age of AI",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/9th-Grade-Orientation-Class-of-30-63-1.jpg?fit=2000%2C1386&ssl=1"
+        },
+        {
+          "id": "https://oaklandside.org/?p=481671",
+          "author": "Oaklandside staff and Darwin BondGraham",
+          "description": "Without a new half-cent sales tax, train and bus systems will collapse, agencies warn. Opponents of the Regional Transit Measure say taxes are too high already.",
+          "link": "https://www.berkeleyside.org/2026/10/16/measure-rtm-bart-ac-transit-sales-tax-election",
+          "publishedOn": "2026-10-16T14:00:00.000Z",
+          "wordCount": 8067,
+          "title": "Measure RTM: $1B per year for BART, AC Transit and other transit systems",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/large-transit_092326_mtierney51.jpg?fit=1600%2C1067&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564499",
           "author": "Momo Chang",
@@ -9968,6 +10048,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/tarot-cards-for-teachers",
+          "author": "Kerry Elson and Ali Solomon",
+          "description": "The Tower\n You may possess a large pile of mandated curriculum materials for your first-grade class, including a guide for a unit called “America: Let’s Only Say Hooray!” You will claim you use these materials with fidelity when the district conducts a walkthrough.\n - - -\n\n The Hierophant\n This card can indicate that you will offer a new teacher your extra-heavy-duty paper cutter. You acquired it many years ago, and it still functions beautifully as long as one holds the blade in a particular way, which you will demonstrate.\n - - -\n\n The Fool\n You will welcome opportunities to distribute glitter.\n - - -\n\n The Hermit\n On Friday nights, you will have a pressing need to eat broccoli with garlic sauce out of a mixing bowl and dissociate while watching The Pitt. This show makes you feel less al…",
+          "link": "https://www.mcsweeneys.net/articles/tarot-cards-for-teachers",
+          "publishedOn": "2026-10-16T12:00:00.000Z",
+          "wordCount": 2652,
+          "title": "Tarot Cards for Teachers",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/o3kv7gzxr63c52d0g8l8xyaefpp4"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/mammogram-or-tenth-grade-boyfriend",
           "author": "Talia Argondezzi",
