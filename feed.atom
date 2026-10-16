@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-15T20:55:29.130Z</updated>
+    <updated>2026-10-16T03:07:40.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In Memoriam: Barry Steinhardt]]></title>
+        <id>112451 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt"/>
+        <updated>2026-10-16T00:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. 
+A Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before becoming associate director of the national ACLU. There, he helped spearhead the fight to overturn much of the Communications Decency Act, resulting in the U.S. Supreme Court’s landmark Reno v. ACLU ruling in 1997. 
+When the internet was still young, Steinhardt became one of the first attorneys to specialize in the intersection of technology and privacy. In early 1998 he took a leave of absence from the ACLU to become EFF’s president, and then returned to the ACLU in 1999. 
+In 2002 he founded the ACLU’s Program on Technology and Liberty. After retiring from the ACLU, he continued on as a senior advisor to London-based Privacy International. 
+Steinhardt chaired the 2003 Computer Freedom and Privacy Conference and served on a wide variety of significant panels and boards, including the Department of Transportation’s Negotiated Rule Making on national driver’s license standards, the Advisory Committee to the US Census, and the Blue Ribbon Panel on Genetics of the National Conference of State Legislatures. He also was selected to be a member of the US delegation to the G-8 Government and Private Sector Tokyo conference on Cyber Crime and served as an advisor to the Czech Helsinki Committee.  
+“Barry led many critical technology and civil liberties fights and was an important mentor to me and others in the field,” said EFF Executive Director Nicole Ozer. “Barry’s influential work across strategy to defend and advance privacy rights and safeguard people against surveillance has made its mark on the law and policy of our digital world and protected the rights and safety of people across the United States and around the world.”]]></summary>
+        <author>
+            <name>Josh Richman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.]]></title>
         <id>112450 at https://www.eff.org</id>
@@ -11215,16 +11230,6 @@ My next book project arises from my experiences as a posthuman humanist, multipl
         <updated>2026-07-20T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover]]></title>
-        <id>6a5a5c942462ff0001f20e1d</id>
-        <link href="https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/"/>
-        <updated>2026-07-18T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
         </author>
     </entry>
     <entry>

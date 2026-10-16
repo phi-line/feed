@@ -2761,16 +2761,6 @@
           "wordCount": 2247,
           "title": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-20-at-07.24.05@2x.png"
-        },
-        {
-          "id": "6a5a5c942462ff0001f20e1d",
-          "author": "Becky Ferreira",
-          "description": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
-          "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
-          "publishedOn": "2026-07-18T10:00:29.000Z",
-          "wordCount": 2158,
-          "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/Screenshot-as-Lede-Image--2-.png"
         }
       ]
     },
@@ -11455,6 +11445,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112451 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. \nA Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before becoming associate director of the national ACLU. There, he helped spearhead the fight to overturn much of the Communications Decency Act, resulting in the U.S. Supreme Court’s landmark Reno v. ACLU ruling in 1997. \nWhen the internet was still young, Steinhardt became one of the first attorneys to specialize in the intersection of technology and privacy. In early 1998 he took a leave of absence from the ACLU to become EFF’s president, and then returned to the ACLU in 1999. \nIn 2002 he founded the ACLU’s Program on Technology and Liberty. After retiring from the ACLU, he continued on as a senior advisor to London-based Privacy International. \nSteinhardt chaired the 2003 Computer Freedom and Privacy Conference and served on a wide variety of significant panels and boards, including the Department of Transportation’s Negotiated Rule Making on national driver’s license standards, the Advisory Committee to the US Census, and the Blue Ribbon Panel on Genetics of the National Conference of State Legislatures. He also was selected to be a member of the US delegation to the G-8 Government and Private Sector Tokyo conference on Cyber Crime and served as an advisor to the Czech Helsinki Committee.  \n“Barry led many critical technology and civil liberties fights and was an important mentor to me and others in the field,” said EFF Executive Director Nicole Ozer. “Barry’s influential work across strategy to defend and advance privacy rights and safeguard people against surveillance has made its mark on the law and policy of our digital world and protected the rights and safety of people across the United States and around the world.”",
+          "link": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
+          "publishedOn": "2026-10-16T00:07:22.000Z",
+          "wordCount": 839,
+          "title": "In Memoriam: Barry Steinhardt",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/barry-steinhardt2b.jpg",
+            "alt": "Barry Steinhardt",
+            "type": "image/jpeg",
+            "length": "174809"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/barry-steinhardt2b.jpg"
+        },
         {
           "id": "112450 at https://www.eff.org",
           "author": "Lisa Femia",
