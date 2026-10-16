@@ -703,6 +703,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ad252a4e0d65d000162c982",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss a new pod setup, video games, and Elon's spending habits.",
+          "link": "https://www.404media.co/behind-the-blog-doing-whatever/",
+          "publishedOn": "2026-10-16T16:43:19.000Z",
+          "wordCount": 1184,
+          "title": "Behind the Blog: Doing Whatever",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/washer--1--1.png"
+        },
+        {
           "id": "6ad244cee0d65d000162c678",
           "author": "Joseph Cox",
           "description": "How Raven, previously known as Geospy, can now find which house a photo was taken in; why a judge ruled a Flock search unconstitutional; and the wild AI video in a court case.",
@@ -4075,6 +4085,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=564348",
+          "author": "Momo Chang",
+          "description": "Daruma Sushi, Crepes A-Go-Go, and Alborz were among the recent East Bay closures.",
+          "link": "https://www.berkeleyside.org/2026/10/16/babas-house-13-orphans-peregrine-daruma-crepes-a-go-go-alborz-close",
+          "publishedOn": "2026-10-16T19:00:00.000Z",
+          "wordCount": 7599,
+          "title": "Berkeley sushi, crepe, and Persian restaurants among September closures",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/DarumaSushi.jpg?fit=1016%2C852&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564070",
+          "author": "Alfred Twu and Gabriel Fadri",
+          "description": "Measure RTM is needed to keep the Bay Area moving. If it fails to pass, BART could go into a tailspin and AC Transit would see severe service cuts.",
+          "link": "https://www.berkeleyside.org/2026/10/16/opinion-vote-yes-on-measure-rtm-to-avoid-dramatic-cuts-to-bart-and-ac-transit-in-berkeley",
+          "publishedOn": "2026-10-16T17:20:00.000Z",
+          "wordCount": 7585,
+          "title": "Opinion: Vote Yes on Measure RTM to avoid dramatic cuts to BART and AC Transit in Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-gray.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564272",
           "author": "Local sponsor",
@@ -10048,6 +10078,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/wont-someone-please-stop-me-dr-frankenstein-from-building-the-creature",
+          "author": "Robert Rooney",
+          "description": "“Not building the technology deprives humanity of benefits or simply places AI in the hands of authoritarian powers, while building it too fast is reckless… but over the last few months, I have become convinced that fully addressing the risks requires even more prudence.” — Dario Amodei, CEO, Anthropic\n - - -\nI must begin by acknowledging what has become increasingly difficult to deny: this is definitely a terrible idea. My friends, colleagues, family, and several respected scientists have told me so, and one of my assistants quit yesterday after finding a human head in a bucket, so the consensus is becoming fairly difficult to ignore.\n I understand the concerns. After all, I am attempting to assemble a living human being from dead human tissue and bring it to life with electricity, which …",
+          "link": "https://www.mcsweeneys.net/articles/wont-someone-please-stop-me-dr-frankenstein-from-building-the-creature",
+          "publishedOn": "2026-10-16T17:00:00.000Z",
+          "wordCount": 3161,
+          "title": "Won’t Someone Please Stop Me, Dr. Frankenstein, from Building the Creature?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/c1ynqe8v856fc1ro5v2w9ccsj48v"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/tarot-cards-for-teachers",
           "author": "Kerry Elson and Ali Solomon",
