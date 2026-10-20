@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/10/kevin-bacon",
+          "author": null,
+          "description": "Demystifying the 6 degrees of Kevin Bacon: the past, present, and future center of Hollywood",
+          "link": "https://pudding.cool/2026/10/kevin-bacon",
+          "publishedOn": "2026-10-20T04:00:00.000Z",
+          "wordCount": 1048,
+          "title": "The Real Kevin Bacon",
+          "imageUrl": "https://pudding.cool/2026/10/kevin-bacon/assets/social.jpg"
+        },
+        {
           "id": "https://pudding.cool/2026/10/lifeafter",
           "author": null,
           "description": "A room of thousands of humans wrestling with what comes after it all.",
@@ -682,6 +692,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ad78dc13faede0001914dac",
+          "author": "Joseph Cox",
+          "description": "Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actually because he was suspected of “terrorist activities.”",
+          "link": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
+          "publishedOn": "2026-10-20T16:00:10.000Z",
+          "wordCount": 1516,
+          "title": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/tunick-docs-1.png"
+        },
+        {
+          "id": "6ad762cb3faede00018e7fe7",
+          "author": "Jason Koebler",
+          "description": "A gang of hackers targets Staples, but not to buy things from Staples.",
+          "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
+          "publishedOn": "2026-10-20T13:51:57.000Z",
+          "wordCount": 889,
+          "title": "People Are Using 'AI Decompiling' to Hack Their Things",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/xavi-cabrera-kn-UmDZQDjM-unsplash.jpg"
+        },
+        {
+          "id": "6ad76eba3faede00018e8200",
+          "author": "Jason Koebler",
+          "description": "Decompiled, cloned, and modified software is going viral and might slopify everything.",
+          "link": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+          "publishedOn": "2026-10-20T13:42:20.000Z",
+          "wordCount": 2175,
+          "title": "‘Reverse-Engineer Anything’ Is the New Wild West of AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-20-at-6.38.22-AM@2x.png"
+        },
+        {
+          "id": "6ad755403faede00018e7e99",
+          "author": "Becky Ferreira",
+          "description": "Why is the universe the way it is? A long-overlooked particle might have given matter an edge over antimatter in the split-seconds after the Big Bang, which researchers say “could transform our understanding of cosmic evolution and the fundamental laws of physics.”",
+          "link": "https://www.404media.co/scientists-discover-a-strange-particle-explains-the-origin-of-reality/",
+          "publishedOn": "2026-10-20T11:51:09.000Z",
+          "wordCount": 1773,
+          "title": "Scientists Discover A Strange Particle Explains the Origin of Reality",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/data-src-image-5f6430c8-3c81-4c98-a345-9e594f4f45e2-1.jpeg"
+        },
         {
           "id": "6ad68c13d52b65000147eb3a",
           "author": "Matthew Gault",
@@ -3644,6 +3694,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+          "author": "Alden Young",
+          "description": "The post Sudan As A Mirror For Today’s World appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+          "publishedOn": "2026-10-20T15:32:06.000Z",
+          "wordCount": 8360,
+          "title": "Sudan As A Mirror For Today’s World",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/Noema_Sudan_R3-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=87ad6e94c2257bdd6fd7263471f37eb6"
+        },
+        {
           "id": "https://www.noemamag.com/when-the-present-eats-the-future",
           "author": "Nathan Gardels",
           "description": "The post When The Present Eats The Future appeared first on NOEMA.",
@@ -4000,6 +4060,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=481560",
+          "author": "Jose Fermoso",
+          "description": "Three years ago, the East Bay Regional Park District allowed e-bikes on trails. A community survey shows hikers on Iron Horse Trail now feel unsafe.",
+          "link": "https://www.berkeleyside.org/2026/10/20/east-bay-hikers-fear-e-bike-on-trails-survey-finds",
+          "publishedOn": "2026-10-20T13:00:00.000Z",
+          "wordCount": 9108,
+          "title": "E-bikes have been allowed on East Bay trails for three years. How’s it going?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Iron_Horse_Regional_Trail_in_Danville-scaled-1.jpg?fit=2560%2C1923&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564630",
           "author": "Nico Savidge",
@@ -9973,6 +10043,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/lindsay-turner",
+          "author": "Jesse Nathan",
+          "description": "Repetition is a principle of composition for Lindsay Turner. She paints with it. “Outside,” she writes, “it was very cold. / It was snowing in Paris, in the south. / In the desert it snowed …” and then a couple of lines later, “in the northeast it has snowed so much it didn’t matter if it was still snowing there.” And then “outside it was so cold that the flakes of snow stayed separate.” Her lines, I’m saying, gracefully worry the “snow” and the “cold,” something like what you see in poetry by Rowan Ricardo Phillips or Wallace Stevens. They make a music of iteration shattered by variation, variation bent back to recurrence. “The small mice dart at dusk, smaller and smaller” giving way, in one of Turner’s poems, to “the dark mice dark at dusk, dim and disappearing…”\n These poems come from h…",
+          "link": "https://www.mcsweeneys.net/articles/lindsay-turner",
+          "publishedOn": "2026-10-20T13:00:00.000Z",
+          "wordCount": 3517,
+          "title": "Short Conversations with Poets: Lindsay Turner",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/msgpzleekvvi909644x1e4kibd8u"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/kalshi-updates-the-american-dream",
+          "author": "Ginny Hogan",
+          "description": "These are dark times. It’s easy to feel like you can work and work and work and still not get ahead, but that’s only because that happens to be true. Fortunately, the American Dream is not fully dead. There’s one way you can still make it in this country: online prediction markets. With a little elbow grease and a whole lot of inside information, you’ve got this. Just try the following:\n Need to pay off your student loans? Simply win $400,000 by betting on the outcome of a military operation you’re about to be briefed on.\n If saving 0.4 percent of your monthly paycheck for a starter home feels like it’s getting you nowhere, put $200,000 on the results of a major international sporting event. For best results, consider being one of the players, betting against your own team, and intentional…",
+          "link": "https://www.mcsweeneys.net/articles/kalshi-updates-the-american-dream",
+          "publishedOn": "2026-10-20T12:00:00.000Z",
+          "wordCount": 3085,
+          "title": "Kalshi Updates  the American Dream",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/vk0a82i4wlh6biumk5ns0tdbhjg9"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/only-a-good-guy-with-a-gun",
           "author": "Kathryn Baecht",
