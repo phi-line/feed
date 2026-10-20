@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-19T21:59:20.977Z</updated>
+    <updated>2026-10-20T03:24:10.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Require Police to Get a Warrant to Search ALPR Data]]></title>
+        <id>112456 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data"/>
+        <updated>2026-10-19T23:28:38.000Z</updated>
+        <summary type="html"><![CDATA[This post was co-written by Andi Cao, an EFF legal intern.
+Automated license plate readers (ALPRs) are mass surveillance. They photograph every passing car and log where and when it was captured, building a searchable record of where nearly everyone drives. Cities should not buy them, and cities that already have them should shut them down.
+Where these systems still operate, courts and state legislatures must reduce their harms by (among other things) requiring police to get a warrant before searching stored ALPR data. A warrant requirement would not make mass surveillance acceptable, but it would require police to justify a search to a judge before accessing records of people’s movements. Without this independent judicial check on police power, officers have been searching this data for i…]]></summary>
+        <author>
+            <name>Adam Schwartz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley City Council District 8: Elmwood housing plan takes center stage]]></title>
+        <id>https://www.berkeleyside.org/?p=564630</id>
+        <link href="https://www.berkeleyside.org/2026/10/19/berkeley-district-8-humbert-wallman-mendonca-city-council"/>
+        <updated>2026-10-19T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Incumbent Mark Humbert, who supports a limited version of the plan to bring more housing to Elmwood, faces challengers Mari Mendonca and Michael Wallman, who want to scrap the idea.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[35 years ago, I was the first reporter on the scene of the Oakland-Berkeley Firestorm]]></title>
         <id>https://oaklandside.org/?p=481832</id>
@@ -11246,72 +11268,6 @@ Unfortunately, the court rejected that argument and ruled that a lower standard 
         <summary type="html"><![CDATA[The Trump administration cancelled $2 billion of research grants to University of California professors. Their legal team says it has proof that those terminations were unconstitutional.]]></summary>
         <author>
             <name>Mikhail Zinshteyn | CalMatters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deportation orders rise in Bay Area for immigrants who miss Trump admin’s new mega-hearings]]></title>
-        <id>https://www.berkeleyside.org/?p=560178</id>
-        <link href="https://www.berkeleyside.org/2026/07/22/deportation-orders-trump-administration-mega-master-hearings"/>
-        <updated>2026-07-22T15:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Most who failed to show up at Concord Immigration Court in July for the new "mega master" hearings got deportation orders. “It’s a trap,” one former immigration judge said.]]></summary>
-        <author>
-            <name>Clara-Sophia Daly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras]]></title>
-        <id>6a5e9fdd08893c0001c3eb7f</id>
-        <link href="https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/"/>
-        <updated>2026-07-22T14:03:02.000Z</updated>
-        <summary type="html"><![CDATA["For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great."]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Flock is Tracking People, Not Just Cars]]></title>
-        <id>6a60ca61361fba0001062dd1</id>
-        <link href="https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/"/>
-        <updated>2026-07-22T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Opened a Credit Card. ICE Now Knows Where You Live]]></title>
-        <id>6a5e3264c64e900001e6363f</id>
-        <link href="https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/"/>
-        <updated>2026-07-22T13:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviews of New Food: Aldi Crystal Clear  Frozen Ice Cubes]]></title>
-        <id>https://www.mcsweeneys.net/articles/aldi-crystal-clear-frozen-ice-cubes</id>
-        <link href="https://www.mcsweeneys.net/articles/aldi-crystal-clear-frozen-ice-cubes"/>
-        <updated>2026-07-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My most enjoyable ice experience occurred sometime in the 1980s.
- On a hot day, my aunt made all the cousins get out of the pool for lunch. She passed out bologna-on-white-bread sandwiches, then dropped ice cubes into a line of waxy shell-pink plastic tumblers endemic to the ’80s, maybe only endemic to ’80s aunts. She poured Pepsi over the ice, and everything bubbled gently, ice cubes clinking. The cups, probably full of PFAS chemicals, gave the Pepsi a slight note of Barbie doll. Delicious.
- The ice cubes wore down in the acid swirl of cola while my cousins and I dripped pool water into the grass and tried not to step on bees. We drank until only the ice was left. Having lost their sharp edges, the ice cubes were now milky white ovals with star-like fault lines. I bit down on the ice; it …]]></summary>
-        <author>
-            <name>Hallie Pritts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Vacation Training Plan]]></title>
-        <id>https://www.mcsweeneys.net/articles/family-vacation-training-plan</id>
-        <link href="https://www.mcsweeneys.net/articles/family-vacation-training-plan"/>
-        <updated>2026-07-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Family Vacation is a great way to challenge yourself as a daughter, girlfriend, and human being.
- This six-week plan will help you build towards your ten-day trip to London with nine family members in tow, using a variety of exercises designed to prepare your body, mind, and last nerve.
- We know this upcoming trip isn’t the only thing you’ve got going on, so the Family Vacation Training Plan is uniquely flexible for your busy life. And your Aunt DeeDee is coming, then not coming, then coming, then not coming.
- Schedule
- Vacation days are long, and you need to adjust your schedule gradually. Each week of training, set your alarm fifteen minutes earlier, and wait thirty extra minutes each day to eat. Make sure you add in at least twenty minutes of sitting around, wondering what’s going o…]]></summary>
-        <author>
-            <name>Gwynna Forgham-Thrift</name>
         </author>
     </entry>
     <entry>
