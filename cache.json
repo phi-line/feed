@@ -643,6 +643,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ad8efe5094f540001b0d496",
+          "author": "Jason Koebler",
+          "description": "A surveillance document tells cops to expect \"emotional confrontations\" at Flock city council meetings.",
+          "link": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
+          "publishedOn": "2026-10-21T17:09:47.000Z",
+          "wordCount": 1609,
+          "title": "Cops Warned to Look for ‘Suspicious Behavior’ From People Opposing Flock at City Council Meetings",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/10/CleanShot-2026-10-21-at-10.08.49-AM@2x.png"
+        },
+        {
           "id": "6ad8be49094f540001ade9b4",
           "author": "Joseph Cox",
           "description": "Amanda Smith is charged with computer fraud due to a scam CashApp account being in her name. But in a Kafkaesque situation, CashApp won't provide her any information because she can't prove she is the owner.",
@@ -3961,6 +3971,36 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=564776",
+          "author": "Momo Chang",
+          "description": "Mixologists, chefs, and bakers are experimenting with this green leaf in everything from cocktails to bagels.",
+          "link": "https://www.berkeleyside.org/2026/10/21/buko-pandan-east-bay-drinks-pastries-desserts-waffles",
+          "publishedOn": "2026-10-21T19:00:00.000Z",
+          "wordCount": 9812,
+          "title": "Seeing green: The most creative uses of pandan across the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/PandanWaffle-HousePhin-MomoChang.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564789",
+          "author": "Carlos Cabrera-Lomelí | KQED",
+          "description": "With midterm elections weeks away, immigrant communities are bracing for a potentially heightened ICE presence — and are concerned about their safety at the polls.",
+          "link": "https://www.berkeleyside.org/2026/10/21/ice-surge-california",
+          "publishedOn": "2026-10-21T18:59:29.000Z",
+          "wordCount": 9067,
+          "title": "An ICE surge in California ahead of the midterms? Here’s what we know",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/AP26214512630249.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564766",
+          "author": "Karina Ioffee",
+          "description": "It appears to be the least competitive school board race in the city in decades.",
+          "link": "https://www.berkeleyside.org/2026/10/21/berkeley-school-board-election-2026",
+          "publishedOn": "2026-10-21T18:13:38.000Z",
+          "wordCount": 10020,
+          "title": "Voters have little choice for Berkeley school board election this year. How big of a problem is that?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/School-board-1.png"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=564720",
           "author": "Nico Savidge",
           "description": "A committee selected a new name for the waterfront open space. The City Council is expected to approve the pick next week.",
@@ -6679,6 +6719,16 @@
       "feedUrl": "https://feeds.feedburner.com/smittenkitchen",
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
+        {
+          "id": "https://smittenkitchen.com/?p=98065",
+          "author": "deb",
+          "description": "Read more »",
+          "link": "https://smittenkitchen.com/2026/10/skillet-pierogi-with-mushrooms/",
+          "publishedOn": "2026-10-21T15:25:02.000Z",
+          "wordCount": 4949,
+          "title": "skillet pierogi with mushrooms",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/10/skillet-pierogi-with-mushrooms-9-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
         {
           "id": "https://smittenkitchen.com/?p=97875",
           "author": "deb",
@@ -11400,6 +11450,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112457 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats \n\n\n\nSAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “Online Privacy for Parents and Youth,” a new guide to help families protect themselves online. \n\"Parents don’t need to be technology experts to help their children navigate the digital world safely” said EFF Public Interest Technology Director Babette Ngene. “At EFF, we believe in empowering families with the knowledge and confidence to make informed decisions about their digital lives. It’s about meeting families where they are and giving parents the guidance they need to have meaningful conversations with their children about digital safety, based on what works best for their families.” \nEFF launches this crucial resource as state and …",
+          "link": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
+          "publishedOn": "2026-10-21T16:19:59.000Z",
+          "wordCount": 1599,
+          "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/og-ssd-logo.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "37977"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/og-ssd-logo.png"
+        },
         {
           "id": "112459 at https://www.eff.org",
           "author": "Mario Trujillo",
