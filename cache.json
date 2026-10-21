@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=168082",
+          "author": "Molly Herring",
+          "description": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.            \nThe post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+          "publishedOn": "2026-10-21T14:00:07.000Z",
+          "wordCount": 2448,
+          "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=167980",
           "author": "Konstantin Kakaes",
           "description": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.”            \nThe post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
@@ -632,6 +642,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ad8be49094f540001ade9b4",
+          "author": "Joseph Cox",
+          "description": "Amanda Smith is charged with computer fraud due to a scam CashApp account being in her name. But in a Kafkaesque situation, CashApp won't provide her any information because she can't prove she is the owner.",
+          "link": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+          "publishedOn": "2026-10-21T13:59:55.000Z",
+          "wordCount": 2479,
+          "title": "Someone Opened a CashApp In Her Name. She Faces Years in Prison",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CASHAPP_B.jpg"
+        },
+        {
+          "id": "6ad8c106094f540001adeab2",
+          "author": "Jason Koebler",
+          "description": "An endangered American chestnut grove faces a new threat: A massive data center.",
+          "link": "https://www.404media.co/chestnuts-roasting-on-a-data-center/",
+          "publishedOn": "2026-10-21T13:56:25.000Z",
+          "wordCount": 895,
+          "title": "Chestnuts Roasting on a Data Center",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-21-at-6.44.03-AM@2x.png"
+        },
+        {
+          "id": "6ad8b8a5094f540001ade828",
+          "author": "Samantha Cole",
+          "description": "A small grove of historic American chestnut trees has become the site of resistance against an AI data center in West Virginia.",
+          "link": "https://www.404media.co/west-virginia-american-chestnut-trees-data-center/",
+          "publishedOn": "2026-10-21T13:31:16.000Z",
+          "wordCount": 3307,
+          "title": "The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/WV_01.jpg"
+        },
         {
           "id": "6ad78dc13faede0001914dac",
           "author": "Joseph Cox",
@@ -3150,6 +3190,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3314/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3314/",
+          "publishedOn": "2026-10-21T04:00:00.000Z",
+          "wordCount": 178,
+          "title": "Vulnerability",
+          "imageUrl": "https://imgs.xkcd.com/comics/vulnerability_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3313/",
           "author": null,
           "description": "",
@@ -3518,16 +3568,6 @@
           "wordCount": 185,
           "title": "Forth",
           "imageUrl": "https://imgs.xkcd.com/comics/forth_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3276/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3276/",
-          "publishedOn": "2026-07-24T04:00:00.000Z",
-          "wordCount": 189,
-          "title": "Recursive Trucker's Hitch",
-          "imageUrl": "https://imgs.xkcd.com/comics/recursive_truckers_hitch_2x.png"
         }
       ]
     },
@@ -6619,16 +6659,6 @@
           "wordCount": 7749,
           "title": "Remembering Sally Sklar, attorney who co-led drive to underground wires on Amador Avenue",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/Sklar.png?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=560306",
-          "author": "Berkeleyside Staff",
-          "description": "Plus: A 5 Tacos & Beers employee was attacked and robbed while leaving work, and the Downtown Berkeley Association has named a new leader.",
-          "link": "https://www.berkeleyside.org/2026/07/23/the-wire-uc-berkeley-repatriating-36-lots-of-indigenous-remains",
-          "publishedOn": "2026-07-24T00:17:00.000Z",
-          "wordCount": 6958,
-          "title": "The Wire: UC Berkeley repatriating 36 lots of Indigenous remains",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/03/20231221-Berkeley-Hearst.jpeg?fit=1600%2C1066&ssl=1"
         }
       ]
     },
@@ -9883,6 +9913,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/why-get-romantic-with-ai-when-you-can-message-your-high-school-ex-boyfriends-at-9-30-pm-on-a-wednesday",
+          "author": "Jasmine Mote",
+          "description": "I don’t mean to sound old fashioned, but I just don’t get the appeal of having a romantic relationship with AI. If you want to interact with someone with vague intentions and the prospect of nonthreatening romantic tension, do the proper thing and message your high school ex-boyfriends instead. AI companies are run by white dudes, so the fact that all of your exes are white (the result of going to high school in rural Southwest Ohio) means the experiences will be basically identical.\n Instead of doing dishes after your kids go to bed and while your husband plays Magic: The Gathering online in his home office, treat yourself to the thrill of tracking down your freshman-year boyfriend, Zach. You know, the one who played Lynyrd Skynyrd when you made out in his dad’s garage and was intimidated…",
+          "link": "https://www.mcsweeneys.net/articles/why-get-romantic-with-ai-when-you-can-message-your-high-school-ex-boyfriends-at-9-30-pm-on-a-wednesday",
+          "publishedOn": "2026-10-21T16:22:00.000Z",
+          "wordCount": 3358,
+          "title": "Why Get Romantic with AI When You Can Message Your High School Ex-Boyfriends at 9:30 p.m. on a Wednesday?",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/qdcwisulpe61cfmaahtweibgcivg"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/ghostface-asks-whats-your-favorite-albert-brooks-movie",
+          "author": "Jonathan Zeller",
+          "description": "2026 marks the thirtieth anniversary of the original Scream movie. The blockbuster is a horror classic and has spawned a franchise that continues to produce new installments to this day, but its original screenplay would have produced a film totally unrecognizable to those who know and love Scream. For the first time, we’re publishing the opening scene of the script before it was revised to meet studio notes.\n INT. SUBURBAN HOME\n The phone rings. CASEY, a balding, nebbish forty-five-year-old film nerd, picks it up as he’s heating popcorn on the stove.\n GHOSTFACE\n (In a deep, menacing voice)\n What’s that sound?\n CASEY\n Popcorn.\n GHOSTFACE\n You’re making popcorn? I only eat popcorn at the Angelika Film Center.\n CASEY\n I’m getting ready to watch an Albert Brooks movie.\n GHOSTFACE\n Do you like…",
+          "link": "https://www.mcsweeneys.net/articles/ghostface-asks-whats-your-favorite-albert-brooks-movie",
+          "publishedOn": "2026-10-21T12:00:00.000Z",
+          "wordCount": 2984,
+          "title": "Ghostface Asks: “What’s Your Favorite Albert Brooks Movie?”",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8k5wf29xcntw68tx6jst85fgt9ra"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/recommendations-from-robert-kennedy-jrs-womens-health-task-force",
           "author": "Miriam Jayaratna, Emily Flake, and Wendi Aarons",
