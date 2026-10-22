@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-21T21:14:51.034Z</updated>
+    <updated>2026-10-22T03:21:59.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fire forces Berkeley police, 911 dispatchers to evacuate headquarters]]></title>
+        <id>https://www.berkeleyside.org/?p=564825</id>
+        <link href="https://www.berkeleyside.org/2026/10/21/bpd-911-dispatcher-headquarter-fire-evacuation"/>
+        <updated>2026-10-22T00:58:59.000Z</updated>
+        <summary type="html"><![CDATA[County dispatchers are temporarily handling 911 calls from Berkeley, police said.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatever Happened to the Good Old-Fashioned Racist Attack Ad?]]></title>
+        <id>https://www.mcsweeneys.net/articles/whatever-happened-to-the-good-old-fashioned-racist-attack-ad</id>
+        <link href="https://www.mcsweeneys.net/articles/whatever-happened-to-the-good-old-fashioned-racist-attack-ad"/>
+        <updated>2026-10-21T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Vivek Ramaswamy’s campaign for Ohio governor is pouring $4 million into a bombshell ad in which his opponent’s estranged mother attacks her daughter—doubling down on the message despite fierce bipartisan backlash.” — Axios
+ - - -
+Remember me? Of course you do. I’m the infamous Willie Horton ad from the 1988 presidential election. C’mon, America, you know the one. I helped George H. W. Bush defeat Michael Dukakis by exploiting white America’s fear of Black men committing violent crimes. One ominous mugshot, a few carefully cherry-picked facts about a prison furlough program, and suddenly a Massachusetts governor was personally responsible for every white suburban mother’s worst nightmare. And the best part? We never even had to mention race. The audience supplied that themselves, free of c…]]></summary>
+        <author>
+            <name>Jack Loftus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth]]></title>
+        <id>112468 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and"/>
+        <updated>2026-10-21T23:07:38.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s complicated doesn’t mean it’s impossible. We’ve launched our Online Privacy for Parents and Youth Surveillance Self-Defense guide in hopes to provide a framework for finding solutions that work for you. 
+EFF rolls out this crucial resource as state and local governments consider ill-advised laws that cut young people off from essential information and experiences. This particularly harms vulnerable youth and marginalized groups who often find safety in supportive online communities they can't access offline. Such laws also entail age gating, which compromises the privacy of al…]]></summary>
+        <author>
+            <name>Thorin Klosowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interoperability vs. Security: Why not both?]]></title>
+        <id>112467 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both"/>
+        <updated>2026-10-21T22:39:34.000Z</updated>
+        <summary type="html"><![CDATA[An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited from. In recent decades, however, corporations have taken control of an increasing share of this work, giving them a greater ability to stifle challengers and limit our choices. When regulators address this by mandating that  tech giants play fair by requiring interoperability, the gatekeepers respond with a tired refrain: Playing fair puts users’ security at risk.
+Unfortunately for these trillion-dollar companies, this gotcha isn’t the end of the conversation. Regulators can ensure that meaningful choice and security thrive.
+Lawmakers have been catching up, recognizing that the best way to rein in big tech is to require these oligopolies to o…]]></summary>
+        <author>
+            <name>Bill Budington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations]]></title>
+        <id>112466 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform"/>
+        <updated>2026-10-21T22:11:43.000Z</updated>
+        <summary type="html"><![CDATA[The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enforcement of new regulations should ensure. 
+ANPD is responsible for detailing and applying obligations set in Law n. 15.211/2025, which established rules for the protection of children and adolescents in the digital space. While some provisions establish important privacy safeguards, like prohibiting advertising based on profiling of underage users, the law created mandatory age assurance mechanisms for accessing digital products and services. 
+We have raised alarms on the privacy and free expres…]]></summary>
+        <author>
+            <name>Veridiana Alimonti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seeing green: The most creative uses of pandan across the East Bay]]></title>
         <id>https://www.berkeleyside.org/?p=564776</id>
@@ -34,6 +91,18 @@
         <summary type="html"><![CDATA[It appears to be the least competitive school board race in the city in decades.]]></summary>
         <author>
             <name>Karina Ioffee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF’s State Legislative Agenda to End ALPR Mass Surveillance]]></title>
+        <id>112460 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance"/>
+        <updated>2026-10-21T17:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and GPS coordinates. While the technology itself isn’t new (ALPRs have existed in various forms for more than 50 years, and in the U.S. since 1998), the surveillance landscape has shifted dramatically. Rapid advances in artificial intelligence and national data sharing have transformed police ALPRs into an interconnected, nationwide tracking network. It is pitched to city councils by law enforcement and private vendors like Flock Safety, Motorola Solutions (Vigilant), and Axon as an essential tool for solving violent crime.
+In reality, it is an inherently dangerous infrastructure of mass surveillance.
+Since 2012, EFF has worked with others to ex…]]></summary>
+        <author>
+            <name>Adam Schwartz</name>
         </author>
     </entry>
     <entry>
@@ -11225,37 +11294,6 @@ In 2025, the Federal Trade Commission (FTC) brought a suit against farm equipmen
  When i…]]></summary>
         <author>
             <name>Casey Rand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’]]></title>
-        <id>https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age</id>
-        <link href="https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age"/>
-        <updated>2026-07-24T13:19:08.000Z</updated>
-        <summary type="html"><![CDATA[The post The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’ appeared first on NOEMA.]]></summary>
-        <author>
-            <name>Nathan Gardels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering Sally Sklar, attorney who co-led drive to underground wires on Amador Avenue]]></title>
-        <id>https://www.berkeleyside.org/?p=560191</id>
-        <link href="https://www.berkeleyside.org/2026/07/24/remembering-sally-sklar-attorney-who-co-led-drive-to-underground-wires-on-amador-avenue"/>
-        <updated>2026-07-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[She reviewed contracts for the Navy before transitioning into family law and later disability law. She was also a devoted mother, a loyal friend, a swimmer and a world traveler.]]></summary>
-        <author>
-            <name>Family of Sally Sklar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAQ: Potato Salad]]></title>
-        <id>https://www.mcsweeneys.net/articles/faq-potato-salad</id>
-        <link href="https://www.mcsweeneys.net/articles/faq-potato-salad"/>
-        <updated>2026-07-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Q: What is in potato salad?
- Okay. Deep breath. In this potato salad, there are potatoes. Mayonnaise. Paprika, obviously. Two giant celery chunks. One red onion diced. Three hard-boiled eggs. Two ants and three ant fragments. Jorts fringe. Over eight million dormant bacterial colonies per tablespoon of mayonnaise. One black olive. A single blond dog-hair curled around that Yukon Gold cube like a tiny scarf. One of Aunt Verna’s fingernails. Several flakes of Uncle Rick’s cigarette ash. Several droplets of pool water. An entire ecosystem of mayonnaise-adjacent organisms of which scientists are still unaware. Enough sodium to mummify a Civil War drummer boy. A Caucasian Lego head. Several paramecia per deciliter. A solitary bee who died doing exactly what he loved to do most. Microplastics fr…]]></summary>
-        <author>
-            <name>Gary M. Almeter</name>
         </author>
     </entry>
     <entry>
