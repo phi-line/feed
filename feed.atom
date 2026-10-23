@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-23T11:00:15.380Z</updated>
+    <updated>2026-10-23T16:27:32.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: Brute Forces]]></title>
+        <id>6adb7abd41e2630001ae4575</id>
+        <link href="https://www.404media.co/behind-the-blog-brute-forces/"/>
+        <updated>2026-10-23T15:41:49.000Z</updated>
+        <summary type="html"><![CDATA[This week, we discuss reverse engineering and some wild court docs.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaria Parasite Caught in the Act of Breaking and Entering]]></title>
+        <id>https://www.quantamagazine.org/?p=168189</id>
+        <link href="https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/"/>
+        <updated>2026-10-23T14:54:10.000Z</updated>
+        <summary type="html"><![CDATA[To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail.             
+The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Open Letter to Everyone at Gate B32 Who Is Clearly Jealous of My Airport Wheelchair]]></title>
+        <id>https://www.mcsweeneys.net/articles/an-open-letter-to-everyone-at-gate-b32-who-is-clearly-jealous-of-my-airport-wheelchair</id>
+        <link href="https://www.mcsweeneys.net/articles/an-open-letter-to-everyone-at-gate-b32-who-is-clearly-jealous-of-my-airport-wheelchair"/>
+        <updated>2026-10-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To My Fellow Passengers,
+ I see you, craning your necks at the gate, watching me get wheeled past the entire boarding line like some kind of parade float, and I know what you’re thinking: Must be nice.
+ And you know what? It is nice. I am the first person on every flight I take, and I have made peace with the fact that this makes me a target of envy for the other two hundred people crammed behind the agent’s podium like cattle.
+ I know you’re wondering how I got so darn lucky, so let me tell you. A year ago, a benign mass pressed on my brainstem just enough to lightly paralyze my left side, which gives me access to these wheelchairs at the airport. It is fabulous to arrive at the airport, ease into one of these wheelchairs, and have somebody else zip me through security, juggle my luggage,…]]></summary>
+        <author>
+            <name>Elizabeth Kleinfeld</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Against supplements]]></title>
         <id>https://worksinprogress.co/issue/against-supplements/</id>
