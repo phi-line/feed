@@ -2751,16 +2751,6 @@
           "wordCount": 3425,
           "title": "Being a Luddite Is Fun Again",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/signal-2026-07-07-22-55-36-911_004.jpg"
-        },
-        {
-          "id": "6a63b5cc8f6b5a00016ba517",
-          "author": "Becky Ferreira",
-          "description": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
-          "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-          "publishedOn": "2026-07-25T10:00:43.000Z",
-          "wordCount": 2274,
-          "title": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/image4.jpg"
         }
       ]
     },
@@ -3980,6 +3970,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=564876",
+          "author": "Berkeleyside Staff",
+          "description": "Also: Fights in downtown around Berkeley High's Unity Week left a 14-year-old with a concussion, and a downtown ambassador was kicked and punched while trying to stop a nerf gun battle.",
+          "link": "https://www.berkeleyside.org/2026/10/22/the-wire-berkeleys-911-dispatch-center-gets-1m-from-state-for-upgrades",
+          "publishedOn": "2026-10-23T00:15:00.000Z",
+          "wordCount": 7681,
+          "title": "The Wire: Berkeley’s 911 dispatch center gets $1M from state for upgrades",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-44.png?fit=720%2C480&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564893",
+          "author": "Clara-Sophia Daly and Sarah Hopkins | Mission Local",
+          "description": "ICE agents are making more aggressive arrests in public view, attorneys say, sometimes without valid warrants.",
+          "link": "https://www.berkeleyside.org/2026/10/22/theres-been-an-uptick-in-violent-ice-arrests-in-the-bay-area-immigration-attorneys-warn",
+          "publishedOn": "2026-10-22T23:29:30.000Z",
+          "wordCount": 8802,
+          "title": "There’s been an uptick in violent ICE arrests in the Bay Area, immigration attorneys warn",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/image-45.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=564843",
           "author": "Kleigh Carroll",
@@ -11515,6 +11525,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112469 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. \nCanadians still have an opportunity to speak out and stop this dangerous legislation. The Canadian Civil Liberties Association (CCLA) is urging all Canadians to sign its petition opposing the bill. (The petition on CCLA’s website is governed by CCLA’s privacy policy.) \nTake action\nTell the canadian senate to stop C-22\nAs we wrote earlier this year, Bill C-22 gives the government new powers to force digital services—including telecom companies, messaging apps, and more—to help with government surveillance. Worse, it allows Can…",
+          "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+          "publishedOn": "2026-10-22T22:10:21.000Z",
+          "wordCount": 1554,
+          "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "35296"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png"
+        },
         {
           "id": "112468 at https://www.eff.org",
           "author": "Thorin Klosowski",

@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-22T21:11:31.791Z</updated>
+    <updated>2026-10-23T03:23:05.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Berkeley’s 911 dispatch center gets $1M from state for upgrades]]></title>
+        <id>https://www.berkeleyside.org/?p=564876</id>
+        <link href="https://www.berkeleyside.org/2026/10/22/the-wire-berkeleys-911-dispatch-center-gets-1m-from-state-for-upgrades"/>
+        <updated>2026-10-23T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: Fights in downtown around Berkeley High's Unity Week left a 14-year-old with a concussion, and a downtown ambassador was kicked and punched while trying to stop a nerf gun battle.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s been an uptick in violent ICE arrests in the Bay Area, immigration attorneys warn]]></title>
+        <id>https://www.berkeleyside.org/?p=564893</id>
+        <link href="https://www.berkeleyside.org/2026/10/22/theres-been-an-uptick-in-violent-ice-arrests-in-the-bay-area-immigration-attorneys-warn"/>
+        <updated>2026-10-22T23:29:30.000Z</updated>
+        <summary type="html"><![CDATA[ICE agents are making more aggressive arrests in public view, attorneys say, sometimes without valid warrants.]]></summary>
+        <author>
+            <name>Clara-Sophia Daly and Sarah Hopkins | Mission Local</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill]]></title>
+        <id>112469 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill"/>
+        <updated>2026-10-22T22:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. 
+Canadians still have an opportunity to speak out and stop this dangerous legislation. The Canadian Civil Liberties Association (CCLA) is urging all Canadians to sign its petition opposing the bill. (The petition on CCLA’s website is governed by CCLA’s privacy policy.) 
+Take action
+Tell the canadian senate to stop C-22
+As we wrote earlier this year, Bill C-22 gives the government new powers to force digital services—including telecom companies, messaging apps, and more—to help with government surveillance. Worse, it allows Can…]]></summary>
+        <author>
+            <name>Joe Mullin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I ate my way through the Richmond Flea Market. Here’s what I’d order again]]></title>
         <id>https://www.berkeleyside.org/?p=564843</id>
@@ -11346,16 +11380,6 @@ Web is changing rapidly, and so the tools we use to build web apps (yet, I’m s
 Today the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less about JavaScript.]]></summary>
         <author>
             <name>zserge's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago]]></title>
-        <id>6a63b5cc8f6b5a00016ba517</id>
-        <link href="https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/"/>
-        <updated>2026-07-25T10:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
         </author>
     </entry>
     <entry>
