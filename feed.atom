@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-23T03:23:05.330Z</updated>
+    <updated>2026-10-23T11:00:15.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Against supplements]]></title>
+        <id>https://worksinprogress.co/issue/against-supplements/</id>
+        <link href="https://worksinprogress.co/issue/against-supplements/"/>
+        <updated>2026-10-23T10:15:44.000Z</updated>
+        <summary type="html"><![CDATA[My methods and my madness.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brìghde Chaimbeul: Tiny Desk Concert]]></title>
+        <id>https://www.youtube.com/watch?v=_Mp_bpIZKlI</id>
+        <link href="https://www.youtube.com/watch?v=_Mp_bpIZKlI"/>
+        <updated>2026-10-23T09:00:28.000Z</updated>
+        <author>
+            <name>NPR Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wire: Berkeley’s 911 dispatch center gets $1M from state for upgrades]]></title>
         <id>https://www.berkeleyside.org/?p=564876</id>
