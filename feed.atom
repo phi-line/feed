@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-23T20:58:58.877Z</updated>
+    <updated>2026-10-24T03:17:00.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Marina will have road closures for ‘Bearathlon’ Saturday]]></title>
+        <id>https://www.berkeleyside.org/?p=564938</id>
+        <link href="https://www.berkeleyside.org/2026/10/23/berkeley-marina-road-closures-oct-24-2026"/>
+        <updated>2026-10-23T23:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Sections of University Avenue and West Frontage Road will be closed from 4 a.m. to 4 p.m. as triathletes compete.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See who’s cutting checks in Berkeley’s priciest measure campaigns]]></title>
+        <id>https://www.berkeleyside.org/?p=564931</id>
+        <link href="https://www.berkeleyside.org/2026/10/23/berkeley-ballot-measures-soda-tax-arts-parcel-tax-public-bank"/>
+        <updated>2026-10-23T23:10:58.000Z</updated>
+        <summary type="html"><![CDATA[The American Heart Association has poured nearly $300,000 into an otherwise quiet campaign to double Berkeley’s soda tax.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vulnerability Apocalypse and Why We Should Fund Open Source]]></title>
+        <id>112476 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source"/>
+        <updated>2026-10-23T22:36:46.000Z</updated>
+        <summary type="html"><![CDATA[If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about "The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the websites on the internet. You may find yourself wondering: what is PHP, what just happened, what is the vulnerability apocalypse, and what do I need to do?  
+To find out what you can personally do read the first blog post in this series!  
+What Is PHP?  
+PHP is a programming language used mainly to create interactive websites. Facebook, Wordpress, Wikipedia, Etsy, and other major sites all use or were originally built on PHP. It is a long-established mainstay of web development. But because it is open-source, maintenance of these criti…]]></summary>
+        <author>
+            <name>Cooper Quintin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Security Is About to Get a Lot Worse, Here’s What You Can Do]]></title>
+        <id>112475 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/computer-security-about-get-lot-worse-heres-what-you-can-do"/>
+        <updated>2026-10-23T22:36:29.000Z</updated>
+        <summary type="html"><![CDATA[It is a commonly held truth among computer geeks that there is no such thing as bug free software, or a secure computer. Any piece of software that anyone actually uses will have a security vulnerability somewhere in the code. The more complex that software is, the more likely there will be a vulnerability. Fortunately for everyone, finding severe vulnerabilities was generally considered an expensive and difficult task requiring years of training and deep knowledge of how computers and software worked. Until recently there was a steady background hum of vulnerabilities being found and patched, with major vulnerabilities that could cripple the entire internet only happening every few years. Now that is no longer the case.  
+You may have noticed your nerdiest friends freaking out about the “…]]></summary>
+        <author>
+            <name>Cooper Quintin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley City Council District 4: Gaza resolutions, state of downtown fuel bitter race]]></title>
+        <id>https://www.berkeleyside.org/?p=564917</id>
+        <link href="https://www.berkeleyside.org/2026/10/23/berkeley-district-4-city-council-igor-tregub-majdi-gaith"/>
+        <updated>2026-10-23T21:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Incumbent Councilmember Igor Tregub says his experience makes him the best pick to represent Central Berkeley. Challenger Majdi Gaith says he’ll bring a fresh perspective.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Souled Out, Signal’s pastry provider, is shutting down, and more East Bay closures]]></title>
         <id>https://www.berkeleyside.org/?p=564910</id>
@@ -136,6 +190,15 @@ The post Malaria Parasite Caught in the Act of Breaking and Entering first appea
         <updated>2026-10-23T09:00:28.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forms of Water]]></title>
+        <id>https://xkcd.com/3315/</id>
+        <link href="https://xkcd.com/3315/"/>
+        <updated>2026-10-23T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
