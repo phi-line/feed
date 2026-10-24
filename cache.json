@@ -643,6 +643,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6adca31441e2630001b1c7ec",
+          "author": "Becky Ferreira",
+          "description": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
+          "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+          "publishedOn": "2026-10-24T12:27:54.000Z",
+          "wordCount": 2298,
+          "title": "An Ancient Virus Explains Why the Human Brain Is Special",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/data-src-image-8c22e59a-0183-4cfa-86b8-3a1e9855d37f-1.jpeg"
+        },
+        {
           "id": "6adb8c7341e2630001b190a5",
           "author": "Joseph Cox",
           "description": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
@@ -10121,16 +10131,6 @@
           "wordCount": 1992,
           "title": "Bunnymator, or impractical computer vision",
           "imageUrl": "https://zserge.com/logo.png"
-        },
-        {
-          "id": "https://zserge.com/posts/worst-htmx-ever/",
-          "author": null,
-          "description": "This is a continuation of a series of posts about building tiny “clones” of popular web frameworks.\nWeb is changing rapidly, and so the tools we use to build web apps (yet, I’m sincerely happy that my React/Vue posts are now seven years old, and those frameworks are still popular and relevant).\nToday the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less about JavaScript.",
-          "link": "https://zserge.com/posts/worst-htmx-ever/",
-          "publishedOn": "2026-07-27T00:00:00.000Z",
-          "wordCount": 1949,
-          "title": "Let's make the worst htmx ever!",
-          "imageUrl": "https://zserge.com/logo.png"
         }
       ]
     },
@@ -13275,22 +13275,6 @@
             "length": "118140"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/effectingchange_banner.png"
-        },
-        {
-          "id": "112220 at https://www.eff.org",
-          "author": "Christian Romero",
-          "description": "August 3, 2026 - 9:00am PDT to August 5, 2026 - 2:00pm PDT\n\n\nTuscany Suites Hotel & Casino | Las Vegas, NV\n\n\n\nOnce again, EFF is excited to be back at the Tuscany Suites & Casino for BSides Las Vegas. Come see our talks and membership table at the now 2.5 day annual infosec and hacker conference! \nStop by the EFF booth to chat with some of our team and learn about the latest developments in defending digital freedom for all. You can even pick up a special gift as a token of our thanks when you take advantage of our membership specials or donate!\nCan't make it to this year's BSidesLV, but need to renew your donation? No problem. You can browse our membership options, make a donation, and grab some gear online! All of the additional EFF gear we'll have at our booth will also be in our online…",
-          "link": "https://www.eff.org/event/eff-bsides-las-vegas-1",
-          "publishedOn": "2026-07-27T00:36:08.000Z",
-          "wordCount": 1003,
-          "title": "EFF at BSides Las Vegas",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/bslv26_web_rgb_index.jpg",
-            "alt": "",
-            "type": "image/jpeg",
-            "length": "159601"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/bslv26_web_rgb_index.jpg"
         }
       ]
     },

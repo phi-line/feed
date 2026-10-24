@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-24T10:17:04.981Z</updated>
+    <updated>2026-10-24T15:23:01.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Ancient Virus Explains Why the Human Brain Is Special]]></title>
+        <id>6adca31441e2630001b1c7ec</id>
+        <link href="https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/"/>
+        <updated>2026-10-24T12:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berkeley Marina will have road closures for ‘Bearathlon’ Saturday]]></title>
         <id>https://www.berkeleyside.org/?p=564938</id>
@@ -11544,37 +11554,6 @@ The post A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere first 
         <updated>2026-07-27T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF at BSides Las Vegas]]></title>
-        <id>112220 at https://www.eff.org</id>
-        <link href="https://www.eff.org/event/eff-bsides-las-vegas-1"/>
-        <updated>2026-07-27T00:36:08.000Z</updated>
-        <summary type="html"><![CDATA[August 3, 2026 - 9:00am PDT to August 5, 2026 - 2:00pm PDT
-
-
-Tuscany Suites Hotel & Casino | Las Vegas, NV
-
-
-
-Once again, EFF is excited to be back at the Tuscany Suites & Casino for BSides Las Vegas. Come see our talks and membership table at the now 2.5 day annual infosec and hacker conference! 
-Stop by the EFF booth to chat with some of our team and learn about the latest developments in defending digital freedom for all. You can even pick up a special gift as a token of our thanks when you take advantage of our membership specials or donate!
-Can't make it to this year's BSidesLV, but need to renew your donation? No problem. You can browse our membership options, make a donation, and grab some gear online! All of the additional EFF gear we'll have at our booth will also be in our online…]]></summary>
-        <author>
-            <name>Christian Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's make the worst htmx ever!]]></title>
-        <id>https://zserge.com/posts/worst-htmx-ever/</id>
-        <link href="https://zserge.com/posts/worst-htmx-ever/"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a continuation of a series of posts about building tiny “clones” of popular web frameworks.
-Web is changing rapidly, and so the tools we use to build web apps (yet, I’m sincerely happy that my React/Vue posts are now seven years old, and those frameworks are still popular and relevant).
-Today the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less about JavaScript.]]></summary>
-        <author>
-            <name>zserge's blog</name>
         </author>
     </entry>
     <entry>
