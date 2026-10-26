@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-26T03:12:47.755Z</updated>
+    <updated>2026-10-26T12:15:24.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I’m the Guy Who Uses Gym Equipment in Ways You’ve Never Seen]]></title>
+        <id>https://www.mcsweeneys.net/articles/im-the-guy-who-uses-gym-equipment-in-ways-youve-never-seen</id>
+        <link href="https://www.mcsweeneys.net/articles/im-the-guy-who-uses-gym-equipment-in-ways-youve-never-seen"/>
+        <updated>2026-10-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I know you see me running backwards on the treadmill while doing lunges at seventeen-second intervals. What do you do? Just jog on it facing forward? Amateur.
+ Using a gym machine the way it’s meant to be used is for losers. Why even show up unless you’re going to damage equipment and move your body in a multidimensional way no one’s ever seen before?
+ I do a constant wheelie on the exercise bike, walk down the stairs on the Stairmaster, and use the elliptical like it’s a 360-degree gyroscope NASA trains astronauts with. The machines often stop working after I’m done, but that’s not my problem.
+ Most people just come here and do their basic reps. I work the equipment so hard that many of them naturally become airborne. If you’re using the recumbent bike and it doesn’t begin hovering three …]]></summary>
+        <author>
+            <name>Chason Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young prudes]]></title>
+        <id>https://worksinprogress.co/issue/young-prudes/</id>
+        <link href="https://worksinprogress.co/issue/young-prudes/"/>
+        <updated>2026-10-26T11:23:34.000Z</updated>
+        <summary type="html"><![CDATA[The end of casual sex.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Protected: The Rise and Fall of a Supercop]]></title>
         <id>https://magazine.atavist.com/?p=56027</id>
@@ -11213,100 +11236,6 @@ The post Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up
         <updated>2026-07-29T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley animal shelter reopens as arson suspect’s trial nears]]></title>
-        <id>https://www.berkeleyside.org/?p=560435</id>
-        <link href="https://www.berkeleyside.org/2026/07/28/bacs-shelter-reopens-after-arson"/>
-        <updated>2026-07-28T22:00:15.000Z</updated>
-        <summary type="html"><![CDATA[About half the space for dogs is still unusable and repairs remain ongoing seven weeks after a fire shut down the Berkeley Animal Care Services facility near Aquatic Park.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco: Don’t Fall for Industry Defense of Surveillance Pricing]]></title>
-        <id>112228 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing"/>
-        <updated>2026-07-28T21:55:43.000Z</updated>
-        <summary type="html"><![CDATA[The concept of “surveillance pricing” is just one part of a much larger problem and business model: corporations maximizing their profits by invading our privacy. The all-too-common business model is to systematically harvest, collate, and store as much of our personal data as possible, and then monetize it through use and sale. When it comes to surveillance pricing, that looks like corporations offering the same product to two different people at two different prices, based on harvested personal information. That's why EFF supports A.B. 2654, authored by Assemblymember Chris Ward, which bans this harmful practice. 
-As an organization based in San Francisco, EFF was proud to learn that the San Francisco Board of Supervisors had also introduced a resolution to similarly support the legislat…]]></summary>
-        <author>
-            <name>Matthew Guariglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spaghetti aglio e olio]]></title>
-        <id>https://smittenkitchen.com/?p=97073</id>
-        <link href="https://smittenkitchen.com/2026/07/spaghetti-aglio-e-olio/"/>
-        <updated>2026-07-28T20:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Read more »]]></summary>
-        <author>
-            <name>deb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chains Palmetto, Sana’a, and Cold Stone open in Berkeley, plus Enssaro ready for Rockridge opening]]></title>
-        <id>https://www.berkeleyside.org/?p=560416</id>
-        <link href="https://www.berkeleyside.org/2026/07/28/palmetto-sanaa-enssaro-cold-stone-bugzos-open"/>
-        <updated>2026-07-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.]]></summary>
-        <author>
-            <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone]]></title>
-        <id>6a68e2a0d415b10001996606</id>
-        <link href="https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/"/>
-        <updated>2026-07-28T17:27:01.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,” he said.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Impale One Guy, and Suddenly You’re “Vlad the Impaler”]]></title>
-        <id>https://www.mcsweeneys.net/articles/you-impale-one-guy-and-suddenly-youre-vlad-the-impaler</id>
-        <link href="https://www.mcsweeneys.net/articles/you-impale-one-guy-and-suddenly-youre-vlad-the-impaler"/>
-        <updated>2026-07-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s so much more to me than impaling. I paint watercolors. I run half-marathons. I am a father, many times over, all across the Wallachian countryside. In fact, it’s statistically likely I’m a #girldad—and so, obviously, I’m also a feminist.
- Although I contain these multitudes, everyone assumes that a leader known as “Vlad the Impaler” is the epitome of vicious cruelty.
- But what’s the real violence? When I capture a guy from a Saxon village, bring him back to Wallachia, and impale him in the public square? Or when you subsequently bully me with the hurtful nickname “Vlad the Impaler”? At least my impaled enemy (whose name, incidentally, was also Vlad—most fifteenth-century Eastern European men are named Vlad) had the mercy of a stake through his viscera to put him out of his misery. …]]></summary>
-        <author>
-            <name>Talia Argondezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Gay Bars Building Databases of Their Patrons?]]></title>
-        <id>112222 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons"/>
-        <updated>2026-07-28T16:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Recent reports have raised alarm about the use of PatronScan, an ID-checking and face-scanning system, at multiple LGBTQ+ bars in San Francisco’s Castro neighborhood. Much of the attention has focused on reports that the system photographs patrons as they enter venues and questions about whether those images are used for facial recognition.
-A broader privacy concern also deserves scrutiny. For years, PatronScan has marketed itself not just as an ID-verification tool, but as a system that allows bars and clubs to identify patrons, keep records about them, and share information across venues. As one news article published in 2019 documented, PatronScan built a network that allowed participating bars to flag patrons and share information about them with other establishments. 
-And in Californi…]]></summary>
-        <author>
-            <name>Joe Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials]]></title>
-        <id>6a68cbefd415b10001995341</id>
-        <link href="https://www.404media.co/casa-grande-arizona-flock-city-council/"/>
-        <updated>2026-07-28T16:07:52.000Z</updated>
-        <summary type="html"><![CDATA[“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armand Hammer: Tiny Desk Concert]]></title>
-        <id>https://www.youtube.com/watch?v=uP23-YE-T30</id>
-        <link href="https://www.youtube.com/watch?v=uP23-YE-T30"/>
-        <updated>2026-07-28T09:00:14.000Z</updated>
-        <author>
-            <name>NPR Music</name>
         </author>
     </entry>
     <entry>
