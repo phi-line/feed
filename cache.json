@@ -3626,6 +3626,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
+          "author": "Joe Mathews",
+          "description": "The post Turbulent Times Call For Experimental Law appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
+          "publishedOn": "2026-10-27T18:10:17.000Z",
+          "wordCount": 8553,
+          "title": "Turbulent Times Call For Experimental Law",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/gradient_opt_1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=36bfc284b124f60b30ba6edc97ebdc72"
+        },
+        {
           "id": "https://www.noemamag.com/noemas-ai-reading-list-2",
           "author": "Nathan Gardels",
           "description": "The post Noema’s AI Reading List appeared first on NOEMA.",
@@ -3972,6 +3982,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=565093",
+          "author": "Kate Darby Rauch",
+          "description": "Dozens of female chickens and a rooster named Olgard were stolen from Urban Farm Oasis last week. Across town, middle-schoolers began finding dead young birds.",
+          "link": "https://www.berkeleyside.org/2026/10/27/chicken-napping-urban-farm-oasis-edible-schoolyard",
+          "publishedOn": "2026-10-27T21:06:59.000Z",
+          "wordCount": 9265,
+          "title": "Chickens found dead after Berkeley coop heist goes wrong",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_9078-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565053",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/10/27/pour-manners-gold-palm-gamsa-sushi-ramen-yama-open",
+          "publishedOn": "2026-10-27T19:00:00.000Z",
+          "wordCount": 7362,
+          "title": "Pour Manners preparing recurring November pop-up, plus new sushi and ramen options",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/PourManners.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563980",
+          "author": "Nico Savidge",
+          "description": "The Northwest Berkeley district is where many of the city’s most contentious debates play out on the ground. There’s a crowded field of five vying to represent it.",
+          "link": "https://www.berkeleyside.org/2026/10/27/berkeley-city-council-district-1-ross-bernet-laura-babitt-daria-wrubel-moni-gangopadhyay-steve-kromer",
+          "publishedOn": "2026-10-27T17:57:35.000Z",
+          "wordCount": 11022,
+          "title": "Berkeley City Council District 1: Where candidates stand on housing, Hopkins, Flock and more",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/City-Council-D1.png"
+        },
         {
           "id": "https://oaklandside.org/?p=482281",
           "author": "Jose Fermoso",
@@ -7410,16 +7450,6 @@
           "publishedOn": "2026-08-04T09:00:30.000Z",
           "wordCount": null,
           "title": "Charlie Puth: Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RTC6p6h_8tg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RTC6p6h_8tg",
-          "publishedOn": "2026-07-30T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Renée Fleming & Béla Fleck: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
