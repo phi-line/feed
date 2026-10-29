@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-28T22:09:50.454Z</updated>
+    <updated>2026-10-29T04:22:30.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ashby BART housing: Berkeley advances 174-unit affordable project]]></title>
+        <id>https://www.berkeleyside.org/?p=565186</id>
+        <link href="https://www.berkeleyside.org/2026/10/28/ashby-bart-housing-south-berkeley-affordable"/>
+        <updated>2026-10-28T22:09:27.000Z</updated>
+        <summary type="html"><![CDATA[The City Council chose a developer team that wants to build an apartment building and 12 townhomes atop the station’s smaller parking lot. Another 600 units are planned for its larger lot.]]></summary>
+        <author>
+            <name>Nico Savidge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victory! You Can Now Exclude Apps from Siri AI]]></title>
         <id>112491 at https://www.eff.org</id>
@@ -135,6 +145,15 @@ Want to protect your right to digital privacy? Sign up for EFF's EFFector news
  ARISTIDES…]]></summary>
         <author>
             <name>Natasha Dumas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gravitational Square Wave]]></title>
+        <id>https://xkcd.com/3317/</id>
+        <link href="https://xkcd.com/3317/"/>
+        <updated>2026-10-28T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -11269,106 +11288,6 @@ Parents are approaching AI in different ways. Some closely supervise how their c
         <summary type="html"><![CDATA[This week, we discuss going into the woods, a "he admit it" moment, and a tofu sandwich.]]></summary>
         <author>
             <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images]]></title>
-        <id>6a6cc6a47c128700012375dc</id>
-        <link href="https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/"/>
-        <updated>2026-07-31T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA["Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam."]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is AI Reasoning Right for the Wrong Reasons?]]></title>
-        <id>https://www.quantamagazine.org/?p=165277</id>
-        <link href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"/>
-        <updated>2026-07-31T14:50:11.000Z</updated>
-        <summary type="html"><![CDATA[The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.             
-The post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>John Pavlus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content]]></title>
-        <id>6a6c9f1d7c12870001236ce7</id>
-        <link href="https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/"/>
-        <updated>2026-07-31T14:25:01.000Z</updated>
-        <summary type="html"><![CDATA[YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF Guide to Recording Law Enforcement]]></title>
-        <id>112211 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement"/>
-        <updated>2026-07-31T14:11:24.000Z</updated>
-        <summary type="html"><![CDATA[This post is available as a printable one page handout in English and Spanish.
-Recordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can come with risks. Below are important legal and practical considerations related to recording the police and other law enforcement officers.
-Can I legally record the police or immigration officers?
-Yes. All Americans have a First Amendment right to record law enforcement. This includes local police and federal officers such as those from Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). Although the Supreme Court has not squarely ruled on the issue, nine different …]]></summary>
-        <author>
-            <name>Sophia Cope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company Offering Printed Books to Train AI Stops After 404 Media Coverage]]></title>
-        <id>6a6ca65b7c12870001236dbd</id>
-        <link href="https://www.404media.co/ai-company-training-scanning-books-database-isbndb/"/>
-        <updated>2026-07-31T14:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Citing backlash, ISBNdb removed its webpages about training AI, denied ever buying, scanning, or selling a book for AI training, and said the site was a "test of market interest."]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to swim on a hot day in Berkeley]]></title>
-        <id>https://www.berkeleyside.org/?p=560489</id>
-        <link href="https://www.berkeleyside.org/2026/07/31/where-to-swim-on-a-hot-day-in-berkeley"/>
-        <updated>2026-07-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out this useful roundup of the city’s pools and swimming holes, plus favorite spots a drive away and tips on where to grab a treat after you towel off.]]></summary>
-        <author>
-            <name>510 Families</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe]]></title>
-        <id>6a6c96f37c12870001236b4d</id>
-        <link href="https://www.404media.co/dark-dimension-hypothesis-study/"/>
-        <updated>2026-07-31T12:47:39.000Z</updated>
-        <summary type="html"><![CDATA[The nature of dark matter and dark energy are among the biggest mysteries in science. Scientists think an extra “dark dimension” could explain both, and they are putting the idea to the test.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Think Will Happen When I’m Public Speaking]]></title>
-        <id>https://www.mcsweeneys.net/articles/what-i-think-will-happen-when-im-public-speaking</id>
-        <link href="https://www.mcsweeneys.net/articles/what-i-think-will-happen-when-im-public-speaking"/>
-        <updated>2026-07-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. I’ll overheat and sweat through the armpit area of my shirt.
- 2. I’ll mix up my words and embarrass myself.
- 3. The audience will collectively decide to murder me.
- 4. I’ll speak too quickly and forget to take pauses in between sentences.
- 5. While I focus on trying to slow down my delivery, everyone in the audience will enter a sort of hive-mind, where they can communicate telepathically. Through this, they will agree that they’d like to see me killed and it’s time to begin planning the best method for my execution.
- 6. The stress will make my skin blotchy.
- 7. The election for who will lead the rest in murdering me will look like this: Everyone will (again, telepathically) pitch their unique skillset. Some have superhuman strength, others have a weird obsession with carving knives. On…]]></summary>
-        <author>
-            <name>Emily Bressler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Is Shredding the Bill of Rights. Defending That Isn't Conservative.]]></title>
-        <id>https://reason.com/?p=8395146</id>
-        <link href="https://reason.com/2026/07/31/ice-is-shredding-the-bill-of-rights-conservatives-should-support-accountability-and-reform/"/>
-        <updated>2026-07-31T11:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Constitutional limits on federal authority should not be partisan matters.]]></summary>
-        <author>
-            <name>Steven Greenhut</name>
         </author>
     </entry>
     <entry>

@@ -481,16 +481,6 @@
           "wordCount": 5022,
           "title": "Why the Legendary Erdős Problems Are Falling to AI",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=165277",
-          "author": "John Pavlus",
-          "description": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.             \nThe post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-          "publishedOn": "2026-07-31T14:50:11.000Z",
-          "wordCount": 4615,
-          "title": "Is AI Reasoning Right for the Wrong Reasons?",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg"
         }
       ]
     },
@@ -2691,46 +2681,6 @@
           "wordCount": 1094,
           "title": "Behind the Blog: Silent Retreat",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/btb7.31-1.png"
-        },
-        {
-          "id": "6a6cc6a47c128700012375dc",
-          "author": "Joseph Cox",
-          "description": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
-          "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-          "publishedOn": "2026-07-31T16:03:08.000Z",
-          "wordCount": 1079,
-          "title": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/07/CleanShot-2026-07-31-at-08.53.48.gif"
-        },
-        {
-          "id": "6a6c9f1d7c12870001236ce7",
-          "author": "Samantha Cole",
-          "description": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
-          "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
-          "publishedOn": "2026-07-31T14:25:01.000Z",
-          "wordCount": 2366,
-          "title": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/pexels-karola-g-6920064.jpg"
-        },
-        {
-          "id": "6a6ca65b7c12870001236dbd",
-          "author": "Samantha Cole",
-          "description": "Citing backlash, ISBNdb removed its webpages about training AI, denied ever buying, scanning, or selling a book for AI training, and said the site was a \"test of market interest.\"",
-          "link": "https://www.404media.co/ai-company-training-scanning-books-database-isbndb/",
-          "publishedOn": "2026-07-31T14:04:26.000Z",
-          "wordCount": 1584,
-          "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/photo-1725582205524-6c7c268aee97.jpeg"
-        },
-        {
-          "id": "6a6c96f37c12870001236b4d",
-          "author": "Becky Ferreira",
-          "description": "The nature of dark matter and dark energy are among the biggest mysteries in science. Scientists think an extra “dark dimension” could explain both, and they are putting the idea to the test.",
-          "link": "https://www.404media.co/dark-dimension-hypothesis-study/",
-          "publishedOn": "2026-07-31T12:47:39.000Z",
-          "wordCount": 1878,
-          "title": "A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/1960x2000-1.png"
         }
       ]
     },
@@ -2998,17 +2948,6 @@
           "title": "ICE Spent $525 Million on Surveillance Tech. Some of It Is Infringing on Americans' Freedom of Speech.",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8395146",
-          "author": "Steven Greenhut",
-          "description": "Constitutional limits on federal authority should not be partisan matters.",
-          "link": "https://reason.com/2026/07/31/ice-is-shredding-the-bill-of-rights-conservatives-should-support-accountability-and-reform/",
-          "publishedOn": "2026-07-31T11:30:28.000Z",
-          "wordCount": null,
-          "title": "ICE Is Shredding the Bill of Rights. Defending That Isn't Conservative.",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3221,6 +3160,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3317/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3317/",
+          "publishedOn": "2026-10-28T04:00:00.000Z",
+          "wordCount": 182,
+          "title": "Gravitational Square Wave",
+          "imageUrl": "https://imgs.xkcd.com/comics/gravitational_square_wave_2x.png"
+        },
         {
           "id": "https://xkcd.com/3316/",
           "author": null,
@@ -3982,6 +3931,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=565186",
+          "author": "Nico Savidge",
+          "description": "The City Council chose a developer team that wants to build an apartment building and 12 townhomes atop the station’s smaller parking lot. Another 600 units are planned for its larger lot.",
+          "link": "https://www.berkeleyside.org/2026/10/28/ashby-bart-housing-south-berkeley-affordable",
+          "publishedOn": "2026-10-28T22:09:27.000Z",
+          "wordCount": 8542,
+          "title": "Ashby BART housing: Berkeley advances 174-unit affordable project",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.01.22-PM.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565152",
           "author": "Skylla Mumana",
@@ -6721,16 +6680,6 @@
           "wordCount": 7435,
           "title": "Dessert N Spice on the move, plus Pucquio announces abrupt closure",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/DessertNSpice-Closed-Lapan-1.jpg?fit=2000%2C1437&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=560489",
-          "author": "510 Families",
-          "description": "Check out this useful roundup of the city’s pools and swimming holes, plus favorite spots a drive away and tips on where to grab a treat after you towel off.",
-          "link": "https://www.berkeleyside.org/2026/07/31/where-to-swim-on-a-hot-day-in-berkeley",
-          "publishedOn": "2026-07-31T13:00:00.000Z",
-          "wordCount": 8109,
-          "title": "Where to swim on a hot day in Berkeley",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/IMG_4928.jpg?fit=700%2C525&ssl=1"
         }
       ]
     },
@@ -11424,16 +11373,6 @@
           "wordCount": 2967,
           "title": "A Packing List for the Woman I Will Become on My Summer Vacation to Cape Cod",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/amu8vhibg8d4d3mm6w9z1uf10nux"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/what-i-think-will-happen-when-im-public-speaking",
-          "author": "Emily Bressler",
-          "description": "1. I’ll overheat and sweat through the armpit area of my shirt.\n 2. I’ll mix up my words and embarrass myself.\n 3. The audience will collectively decide to murder me.\n 4. I’ll speak too quickly and forget to take pauses in between sentences.\n 5. While I focus on trying to slow down my delivery, everyone in the audience will enter a sort of hive-mind, where they can communicate telepathically. Through this, they will agree that they’d like to see me killed and it’s time to begin planning the best method for my execution.\n 6. The stress will make my skin blotchy.\n 7. The election for who will lead the rest in murdering me will look like this: Everyone will (again, telepathically) pitch their unique skillset. Some have superhuman strength, others have a weird obsession with carving knives. On…",
-          "link": "https://www.mcsweeneys.net/articles/what-i-think-will-happen-when-im-public-speaking",
-          "publishedOn": "2026-07-31T12:00:00.000Z",
-          "wordCount": 2739,
-          "title": "What I Think Will Happen When I’m Public Speaking",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rpr1xajmqmnj47jzuv9sk8ytbtbz"
         }
       ]
     },
@@ -13099,22 +13038,6 @@
             "length": "580680"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/ai-robots-emotion.png"
-        },
-        {
-          "id": "112211 at https://www.eff.org",
-          "author": "Sophia Cope",
-          "description": "This post is available as a printable one page handout in English and Spanish.\nRecordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can come with risks. Below are important legal and practical considerations related to recording the police and other law enforcement officers.\nCan I legally record the police or immigration officers?\nYes. All Americans have a First Amendment right to record law enforcement. This includes local police and federal officers such as those from Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). Although the Supreme Court has not squarely ruled on the issue, nine different …",
-          "link": "https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement",
-          "publishedOn": "2026-07-31T14:11:24.000Z",
-          "wordCount": 2034,
-          "title": "EFF Guide to Recording Law Enforcement",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg",
-            "alt": "Protesters record on their phones as a massive boot positions to crush.",
-            "type": "image/jpeg",
-            "length": "267518"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg"
         }
       ]
     },
