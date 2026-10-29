@@ -43,6 +43,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=168400",
+          "author": "Janna Levin and Steven Strogatz",
+          "description": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie.            \nThe post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+          "publishedOn": "2026-10-29T15:11:57.000Z",
+          "wordCount": 11943,
+          "title": "How Do You Take a Picture of a Black Hole?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168359",
           "author": "Yasemin Saplakoglu",
           "description": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.             \nThe post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
@@ -632,6 +642,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6ae395b8cc39c20001b8bb75",
+          "author": "Samantha Cole",
+          "description": "Oh my god?",
+          "link": "https://www.404media.co/archive-of-our-own-ao3-down-maintenance/",
+          "publishedOn": "2026-10-29T18:58:53.000Z",
+          "wordCount": 1028,
+          "title": "Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/ao3.png"
+        },
+        {
+          "id": "6ae382b5cc39c20001b8b044",
+          "author": "Joseph Cox",
+          "description": "Leaked audio of Flock's CEO, why Marisa Mayer can't keep pretending, and a CashApp nightmare.",
+          "link": "https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/",
+          "publishedOn": "2026-10-29T17:34:52.000Z",
+          "wordCount": 1094,
+          "title": "Podcast: Flock CEO Says the Backlash Isn’t Real",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/maxresdefault-12.jpg"
+        },
+        {
+          "id": "6ae33f94cc39c20001b5b985",
+          "author": "Joseph Cox",
+          "description": "Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.",
+          "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+          "publishedOn": "2026-10-29T14:21:49.000Z",
+          "wordCount": 2964,
+          "title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/andy3.png"
+        },
         {
           "id": "6ae2605745aa1b00011917d0",
           "author": "Samantha Cole",
@@ -2671,16 +2711,6 @@
           "wordCount": 1779,
           "title": "Why a Flock Worker Quit: ‘They Lied’",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/IMG_2A9DC8F03E41-1.jpeg"
-        },
-        {
-          "id": "6a6d09fe7c1287000126c91a",
-          "author": "Becky Ferreira",
-          "description": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
-          "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
-          "publishedOn": "2026-08-01T10:00:47.000Z",
-          "wordCount": 2175,
-          "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/art002e009287-large.jpg"
         }
       ]
     },
@@ -2689,6 +2719,39 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8408356",
+          "author": "Matthew Petti",
+          "description": "ICE has people attached to the U.S. military headquarters in charge of Africa, the Middle East, Latin America, and special operations. They're listed as users of Palantir-provided surveillance systems.",
+          "link": "https://reason.com/2026/10/29/leaked-files-reveal-ice-liaisons-to-u-s-military-commands-with-access-to-surveillance-tech/",
+          "publishedOn": "2026-10-29T18:05:37.000Z",
+          "wordCount": null,
+          "title": "Leaked Files Reveal ICE Liaisons to U.S. Military Commands With Access to Surveillance Tech",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8408345",
+          "author": "C.J. Ciaramella",
+          "description": "An ACLU complaint says the couple was recording ICE agents when they chased, boxed in, and vandalized the couple's car.",
+          "link": "https://reason.com/2026/10/29/video-shows-ice-agents-slashing-portland-couples-car-tire-then-driving-off/",
+          "publishedOn": "2026-10-29T14:45:01.000Z",
+          "wordCount": null,
+          "title": "Video Shows ICE Agents Slashing Portland Couple's Car Tire Then Driving Off",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8408367",
+          "author": "Jeremy Etelson",
+          "description": "The administration argues that it must detain an illegal immigrant who has lived in the U.S. for 20 years while removal proceedings occur. Is that what the law says?",
+          "link": "https://reason.com/2026/10/29/trumps-mandatory-immigration-detention-policy-fails-the-textualist-test/",
+          "publishedOn": "2026-10-29T14:25:48.000Z",
+          "wordCount": null,
+          "title": "Trump's Mandatory Immigration Detention Policy Fails the Textualist Test",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8407900",
           "author": "Ryan Curtis",
@@ -2956,6 +3019,22 @@
       "feedUrl": "https://www.asimov.press/feed",
       "siteUrl": "https://www.asimov.press",
       "articles": [
+        {
+          "id": "https://www.asimov.press/p/centivax",
+          "author": "Niko McCarty",
+          "description": "Centivax is building a universal flu vaccine designed to protect against all strains of influenza—past, present, and future.",
+          "link": "https://www.asimov.press/p/centivax",
+          "publishedOn": "2026-10-29T14:42:46.000Z",
+          "wordCount": null,
+          "title": "Making “A Post-Pandemic World” — Jake Glanville",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/222503268/126c315d96183eeb191d6717c3b070b4.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.asimov.press/p/recipe",
           "author": "Asimov Press",
@@ -3585,6 +3664,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-new-dawn-for-mathematical-progress",
+          "author": "Atoosa Kasirzadeh",
+          "description": "The post A New Dawn For Mathematical Progress appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-new-dawn-for-mathematical-progress",
+          "publishedOn": "2026-10-29T14:31:30.000Z",
+          "wordCount": 11005,
+          "title": "A New Dawn For Mathematical Progress",
+          "imageUrl": "https://noemamag.imgix.net/2026/10/FINAL-1-scaled.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=c99367748e2cc00b9a39efc72a82600c"
+        },
+        {
           "id": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
           "author": "Joe Mathews",
           "description": "The post Turbulent Times Call For Experimental Law appeared first on NOEMA.",
@@ -3921,6 +4010,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=565237",
+          "author": "Nathan Dalton",
+          "description": "Thousands rely on food delivery services for nutrition and social interaction, and the figure is rising. Meanwhile, the state is considering slashing the county's funding for services.",
+          "link": "https://www.berkeleyside.org/2026/10/29/senior-food-insecurity-meals-on-wheels-alameda",
+          "publishedOn": "2026-10-29T21:00:00.000Z",
+          "wordCount": 10051,
+          "title": "Meals on Wheels delivers more than food to Alameda County’s growing senior population. Will the state starve support?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/large-Nosh_MealsonWheels-19.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=564192",
+          "author": "Nico Savidge",
+          "description": "Supporters say the bond will bring badly needed improvements to fire stations, parks and more. Opponents question the plans, and whether Berkeley can deliver them.",
+          "link": "https://www.berkeleyside.org/2026/10/29/berkeley-measure-u-infrastructure-bond-pro-con-analysis",
+          "publishedOn": "2026-10-29T19:16:20.000Z",
+          "wordCount": 9765,
+          "title": "Measure U: Will voters back $300M Berkeley infrastructure bond?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Willard-Clubhouse-reopening-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=563806",
+          "author": "Karina Ioffee",
+          "description": "As many big performing arts groups close or flounder, Measure Y’s backers say the 12-year tax is the lifeline needed to keep the theater and arts scene afloat.",
+          "link": "https://www.berkeleyside.org/2026/10/29/berkeley-arts-groups-will-get-6m-a-year-if-voters-approve-new-parcel-tax",
+          "publishedOn": "2026-10-29T17:09:04.000Z",
+          "wordCount": 9167,
+          "title": "Berkeley arts groups will get $6M a year if voters approve new parcel tax",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Shotgun.png"
+        },
+        {
+          "id": "https://oaklandside.org/?p=482343",
+          "author": "Roselyn Romero",
+          "description": "County officials are looking to raise awareness and connect survivors to resources. Nearly 300 victims were honored at a recent ceremony.",
+          "link": "https://www.berkeleyside.org/2026/10/29/domestic-violence-ceremony-alameda-county-da",
+          "publishedOn": "2026-10-29T13:00:00.000Z",
+          "wordCount": 9584,
+          "title": "93 people have died in domestic violence incidents in Alameda County since 2016",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/Domestic-violence-remembrance-ceremony.jpg?fit=1600%2C1200&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565212",
           "author": "Andrew Gilbert and Karen Nguyen Vo",
@@ -6796,16 +6925,6 @@
           "wordCount": 4532,
           "title": "Meera Sodha’s recipe for Limmat’s apple cake | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/3d81816bf63dfba991d583361d0cd34267013f38/0_1606_5350_4280/master/5350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b0bc4875154dcd784af675c547bc289"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/aug/01/vegetarian-burgers-recipe-oyster-mushrooms-five-spice-cabbage-slaw-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "These roasted oyster mushrooms are meaty, savoury and chewy, made even more satisfying in a south-east Asian-style dressing\nNot every plant makes a great burger filling. You might think pulses or potatoes for heft, but the lack of texture and propensity to mush can be unsatisfying. This is where mushrooms excel; they trade in satisfaction. Roasting them brings out their natural umami and removes water content, leaving them chewy, caramelised and occasionally crisp. They can also make friends with the most unlikely of ingredients, like they have here with peanut butter, soy, agave and sesame.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/aug/01/vegetarian-burgers-recipe-oyster-mushrooms-five-spice-cabbage-slaw-meera-sodha",
-          "publishedOn": "2026-08-01T05:00:43.000Z",
-          "wordCount": 4470,
-          "title": "Meera Sodha’s vegetarian recipe for oyster mushroom burgers with five-spice cabbage | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/750f9994ea89205bab7ada350459b999d8a6711d/249_1564_5035_4029/master/5035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b69cb4d7e9421a8dcf94090c2a08ebb3"
         }
       ]
     },
@@ -9581,6 +9700,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=8704",
+          "author": "Jessica Hylton",
+          "description": "These maple roasted carrots really take advantage of the whole vegetable. Simply seasoned and roasted to tender, caramelized perfection, the carrots are topped with a vibrant, garlicky chimichurri made from the carrot greens themselves. The combo of earthy, subtly sweet carrots next to the bold, tangy sauce is a ten out of ten.",
+          "link": "https://jessicainthekitchen.com/maple-garlic-roasted-carrots-chimichurri/",
+          "publishedOn": "2026-10-29T14:00:00.000Z",
+          "wordCount": 8412,
+          "title": "Maple Glazed Roasted Carrots with Carrot Greens Chimichurri",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/09/Maple-Glazed-Carrots-with-Carrot-Greens-Chimichurri1060.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=24572",
           "author": "Jessica Hylton",
           "description": "Meet the newest member of your go-to side dish rotation. This vegan cauliflower mash hits the sweet spot between fabulously low-carb and creamy richness. It's made with roasted cauliflower and garlic for the best savoury, caramelized flavour and coconut milk and vegan butter for an ultra-silky, smooth finish. It's perfect for Thanksgiving dinner or really whenever you want it.",
@@ -9894,6 +10023,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-political-opponent-is-lying-about-me-being-the-mud-monster-from-mulholland-drive",
+          "author": "Patrick Coyne",
+          "description": "As Election Day approaches, political mudslinging has taken an ugly, slanderous, and, in some ways, literal turn.\n It seems my opponent has decided to ramp up his personal insults by claiming I am not an authentic, down-to-earth politician who only wants to improve his community. He alleges that I am the mud monster from the movie Mulholland Drive.\n A truly preposterous and desperate ploy cooked up by a flailing campaign!\n Initially, I chose not to get mired in the muck and instead focused on my message of affordability. But after consulting with my advisors, I have decided to address this egregious lie directly.\n No, I am not the “mud monster.” That is a fictional character, also referred to as the “dumpster hobo.” Which, I guess if I had to choose between the two, I would much rather be …",
+          "link": "https://www.mcsweeneys.net/articles/my-political-opponent-is-lying-about-me-being-the-mud-monster-from-mulholland-drive",
+          "publishedOn": "2026-10-29T17:30:00.000Z",
+          "wordCount": 2954,
+          "title": "My Political Opponent Is Lying About Me Being the Mud Monster from Mulholland Drive",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/gah48g0cz4vgj59d01anyxwlr283"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/ursine-performance",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/ursine-performance",
+          "publishedOn": "2026-10-29T15:54:00.000Z",
+          "wordCount": 2382,
+          "title": "Ursine Performance",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/sun87jk2jtgsrtgjh4on6l4ngdck"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/the-headless-horseman-doesnt-want-to-bother-the-er",
           "author": "Nathan Cowley",
@@ -11361,6 +11510,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112495 at https://www.eff.org",
+          "author": "Paige Collings",
+          "description": "In today’s digital world, the internet is an essential resource for young people to access information, explore community, and find themselves. But we know that this often comes alongside fears of experiencing online harms like doxxing, grooming, or bullying.\nTrying to protect your family from everything all the time is impractical and exhausting, but some thoughtful planning can help families devise a workable plan that meets their needs and addresses their concerns.\nThat’s why this Digital Parent Week, we’re sharing easy tips on how parents and their children can work together to co-curate a digital safety plan that helps all members of the family enjoy the benefits of technology while protecting their online privacy and safety. \nStart with Open Conversations\nOnline safety begins with co…",
+          "link": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
+          "publishedOn": "2026-10-29T17:00:05.000Z",
+          "wordCount": 2306,
+          "title": "Tech Tips for Parents this Digital Parenting Week",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png",
+            "alt": "A concerned parent and child stand on a large laptop keyboard, while a shadowy hand reaches out from the screen with social media icons and a magnifying glass to scan them.",
+            "type": "image/png",
+            "length": "1146559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png"
+        },
         {
           "id": "112491 at https://www.eff.org",
           "author": "Thorin Klosowski",
