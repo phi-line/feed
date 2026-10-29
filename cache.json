@@ -633,6 +633,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ae2605745aa1b00011917d0",
+          "author": "Samantha Cole",
+          "description": "\"Meta’s smart glasses have increasingly been implicated in disturbing invasions of users’ and bystanders’ privacy,\" a letter sent to Meta from Ron Wyden and Edward Markey says.",
+          "link": "https://www.404media.co/senators-wyden-markey-letter-to-meta-smart-glasses/",
+          "publishedOn": "2026-10-29T10:00:00.000Z",
+          "wordCount": 1788,
+          "title": "Senators Demand Meta Answer for 'Pervert Glasses' Following 404 Media Investigation",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Meta_Connect_25261018874770.jpg"
+        },
+        {
           "id": "6ae1f0bb45aa1b0001162001",
           "author": "Jason Koebler",
           "description": "If you're in the EU or UK, you might be able to object to Meta's new AI scraping terms. Also: this week's pod's out and more from around the web.",
@@ -2671,16 +2681,6 @@
           "wordCount": 2175,
           "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/art002e009287-large.jpg"
-        },
-        {
-          "id": "6a6cb7ae7c1287000123728e",
-          "author": "Samantha Cole",
-          "description": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
-          "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
-          "publishedOn": "2026-07-31T16:24:50.000Z",
-          "wordCount": 1094,
-          "title": "Behind the Blog: Silent Retreat",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/btb7.31-1.png"
         }
       ]
     },
@@ -3913,16 +3913,6 @@
           "wordCount": 7340,
           "title": "How To Give Everyday People A Say In AI Governance",
           "imageUrl": "https://noemamag.imgix.net/2026/07/Faces_Illustrations-03-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=789008f5a20c87b99772d3d97914f705"
-        },
-        {
-          "id": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
-          "author": "Nathan Gardels",
-          "description": "The post AI Has Already Entered The ‘Loss Of Control’ Transition appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
-          "publishedOn": "2026-07-31T16:31:29.000Z",
-          "wordCount": 3449,
-          "title": "AI Has Already Entered The ‘Loss Of Control’ Transition",
-          "imageUrl": "https://noemamag.imgix.net/2026/07/Feature_Color_V1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C0%2C2044%2C1069&w=1200&wpsize=noema-social-facebook&s=23821bb55bc6f07134ee08e1cd96b792"
         }
       ]
     },
@@ -3931,6 +3921,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=565212",
+          "author": "Andrew Gilbert and Karen Nguyen Vo",
+          "description": "Other events include a town hall on the midterm elections, a book talk on influential Bay Area women and art exhibitions by Cal students.",
+          "link": "https://www.berkeleyside.org/2026/10/29/around-berkeley-halloween-and-dia-de-los-muertos-events-and-celebrations",
+          "publishedOn": "2026-10-29T12:00:00.000Z",
+          "wordCount": 8909,
+          "title": "Around Berkeley: Halloween and Día de los Muertos events and celebrations",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/10/Solano-parade.png?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565186",
           "author": "Nico Savidge",
@@ -6660,26 +6660,6 @@
           "wordCount": 8566,
           "title": "Rogue AI enslaves humanity in ’70s thriller shot in Berkeley Hills",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/IMG_8931-scaled.jpeg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=560567",
-          "author": "Hope Muñoz",
-          "description": "The project on Ashby Avenue is one of two affordable housing developments planned at properties owned by historically Black churches in South Berkeley.",
-          "link": "https://www.berkeleyside.org/2026/07/31/berkeley-church-ashby-affordable-housing-yigby",
-          "publishedOn": "2026-07-31T22:04:20.000Z",
-          "wordCount": 8031,
-          "title": "South Berkeley church breaks ground on affordable housing",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/St-Paul-Terrace-4.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=560560",
-          "author": "Lance Knobel",
-          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/07/31/pucquio-dessert-n-spice-pas-papa-lounge-chinatown-closed",
-          "publishedOn": "2026-07-31T19:00:00.000Z",
-          "wordCount": 7435,
-          "title": "Dessert N Spice on the move, plus Pucquio announces abrupt closure",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/07/DessertNSpice-Closed-Lapan-1.jpg?fit=2000%2C1437&ssl=1"
         }
       ]
     },
@@ -9915,6 +9895,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/the-headless-horseman-doesnt-want-to-bother-the-er",
+          "author": "Nathan Cowley",
+          "description": "Honestly, I’m fine.\n It’s really not as bad as it looks. The bridge was just a lot lower than expected.\n I appreciate you stopping to help, and hopefully you understand ASL, but you’re fussing over nothing. It’s just a scratch. This kind of thing happens all the time. I’m sure my head will turn up eventually.\n Please, there’s no need to get the hospital involved. The doctors have enough on their plates without having to examine my neck hole. I have a couple of gauze pads in my kitchen cupboard. They should do the trick. Besides, it’s already starting to feel a lot better. I’m almost wondering whether I even need the head at all.\n Plus, Tarrytown General is like half an hour away. It’s a long trip to make for the paramedics. I’m sure they’re sick of people calling ambulances for the smalles…",
+          "link": "https://www.mcsweeneys.net/articles/the-headless-horseman-doesnt-want-to-bother-the-er",
+          "publishedOn": "2026-10-29T12:00:00.000Z",
+          "wordCount": 2879,
+          "title": "The Headless Horseman Doesn’t Want to Bother the ER",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/44zs3xe8rl8mla6hg1wu88sqrf6a"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/we-must-protect-our-elections-from-voters",
           "author": "Eli Grober",
           "description": "“Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of those that created the Fraud! Thank you for your attention to this matter.” — President Donald Trump\n - - -\nThere is a scourge on our democracy. A dark cloud that casts a shadow over our electoral system. It calls into question everything we stand for as a nation. For far too long, our elections have been influenced by a cabal of insurgents known as “voters.” Each year they arrive at polling places across the United States to do the unspeakable: fill in ballots. They seem to have infiltrated every facet of our representative system.\n We can’t keep letting the people of this country get away with interfering in the democratic process by parti…",
@@ -11363,16 +11353,6 @@
           "wordCount": 2965,
           "title": "Travel Tips When Encountering Fellow Americans Abroad",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ghvrup0t051ktprxbf05wl5a42wk"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/a-packing-list-for-the-woman-i-will-become-on-my-summer-vacation-to-cape-cod",
-          "author": "R.A.E. Wells",
-          "description": "What to Pack\n A minimum of thirty books for her one-week trip, as the woman I will become is a voracious speed reader. Include: Elin Hilderbrand’s entire back catalog, plus Die with Zero, to be left casually on the $8,000 burnt oak coffee table at her in-laws’ beach house.\n The pearl-encrusted headband purchased by her mother-in-law for her first wedding anniversary, an item she wears without looking like a New Jersey middle-schooler at a daddy-daughter dance. The woman does not flinch at the memory of her mother-in-law digging its sharp prongs into her scalp as she whispered, “365 days since I lost my son to your mole-ridden arms. Have you seen a dermatologist for those recently?”\n Seasickness acupressure wristbands. The woman will not make the mistake again of interrupting their whale-wa…",
-          "link": "https://www.mcsweeneys.net/articles/a-packing-list-for-the-woman-i-will-become-on-my-summer-vacation-to-cape-cod",
-          "publishedOn": "2026-07-31T17:00:00.000Z",
-          "wordCount": 2967,
-          "title": "A Packing List for the Woman I Will Become on My Summer Vacation to Cape Cod",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/amu8vhibg8d4d3mm6w9z1uf10nux"
         }
       ]
     },
@@ -12990,54 +12970,6 @@
             "length": "32405"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/2026_defcon-manyhands-eff-banner.png"
-        },
-        {
-          "id": "112235 at https://www.eff.org",
-          "author": "Rindala Alajaji",
-          "description": "California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it still threatens the privacy and First Amendment rights of all Californians.\nProponents of the bill may argue that the recent amendments represent a compromise, but a close look at the text shows no major changes. As the bill moves forward in the Senate, we must continue to urge lawmakers to vote NO.\nTake Action: Tell Your Senator to OPPOSE A.B. 1709\nA \"Compromise\" That Still Denies Access\nUnder the newly amended Section 22683, platforms are prohibited from offering \"addictive features\" to users under 16. A platform can allow a minor to keep an account only if it strips away these features, which include what the bill calls \"addictive feeds,\" a…",
-          "link": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
-          "publishedOn": "2026-07-31T19:47:34.000Z",
-          "wordCount": 1889,
-          "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png",
-            "alt": "A concerned parent and child stand on a large laptop keyboard, while a shadowy hand reaches out from the screen with social media icons and a magnifying glass to scan them.",
-            "type": "image/png",
-            "length": "1146559"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-1a.png"
-        },
-        {
-          "id": "112234 at https://www.eff.org",
-          "author": "India McKinney",
-          "description": "The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they access lawful speech.  \nUnlike many state-age verification laws—which have been harmful in their own right—the SCREEN Act has no requirement that a significant portion of the website consist of sexually explicit content that is harmful to minors. The bill requires nearly any service hosting even a single piece of sexually explicit content to verify the ages of its users. The result is that the bill would apply not only to adult content sites like Po…",
-          "link": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
-          "publishedOn": "2026-07-31T19:41:55.000Z",
-          "wordCount": 1928,
-          "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png",
-            "alt": "A hand holding a cellphone showing a verification screen and ACCESS DENIED in the background.",
-            "type": "image/png",
-            "length": "536728"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
-        },
-        {
-          "id": "112233 at https://www.eff.org",
-          "author": "Joe Mullin",
-          "description": "Artificial intelligence is rapidly changing education, and the way people search for information. Parents, teenagers, teachers, and schools are struggling with tough questions about when AI should, and should not, be used. It makes sense for Congress to hold hearings and examine how AI should be used by minors. But the recently introduced CHATBOT Act answers those questions with a one-size-fits-all mandate governing how teenagers access AI through federally prescribed parental monitoring systems. \nThe Bill Requires AI Companies To Build Family Monitoring Systems \nParents are approaching AI in different ways. Some closely supervise how their children use chatbots, while others might set more general rules about technology. Many families are still figuring out what role AI should play in sch…",
-          "link": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
-          "publishedOn": "2026-07-31T19:06:43.000Z",
-          "wordCount": 2591,
-          "title": "The CHATBOT Act Forces One Parenting Model On Every Family",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ai-robots-emotion.png",
-            "alt": "Two robots, one smiling, one frowning (photo: Nicholas-Halodi CC-BY) ",
-            "type": "image/png",
-            "length": "580680"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ai-robots-emotion.png"
         }
       ]
     },
