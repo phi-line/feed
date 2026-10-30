@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-29T22:25:46.075Z</updated>
+    <updated>2026-10-30T04:22:26.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Dog attacks; county Flock contract; 8th & Harrison encampment ruling]]></title>
+        <id>https://www.berkeleyside.org/?p=565265</id>
+        <link href="https://www.berkeleyside.org/2026/10/29/the-wire-dog-attacks-county-flock-contract-8th-harrison-encampment-ruling"/>
+        <updated>2026-10-30T00:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: The high cost of housing has driven the all-in price of attending UC Berkeley to above $54,674 this year for new in-state students living in a campus residence hall.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meals on Wheels delivers more than food to Alameda County’s growing senior population. Will the state starve support?]]></title>
         <id>https://www.berkeleyside.org/?p=565237</id>
