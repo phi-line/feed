@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-10-30T21:55:42.790Z</updated>
+    <updated>2026-10-31T04:01:36.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Copyright Law for Generative AI Would Hurt Everyone]]></title>
+        <id>112503 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone"/>
+        <updated>2026-10-30T23:42:45.000Z</updated>
+        <summary type="html"><![CDATA[In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and publishers fighting for a cut of Big Tech company profits. But this fight is actually much larger. It affects billions of people who aren’t represented in the case at all, including researchers, artists, activists, journalists, people with disabilities, and anyone who accesses and shares content online.   
+That’s why EFF is stepping in to defend the public’s rights in these cases. Today, EFF filed an amicus brief in In re OpenAI, explaining how the court’s ruling on fair use could impact people worldwide. If fair use gets narrowed, it will impede work that benefits the publ…]]></summary>
+        <author>
+            <name>Corynne McSherry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFFecting Change: Same Product, Different Price on 11.5.26]]></title>
+        <id>112501 at https://www.eff.org</id>
+        <link href="https://www.eff.org/node/112501"/>
+        <updated>2026-10-30T21:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Site Banner: 
+
+
+
+
+Mobile Site Banner: 
+
+
+
+
+Link: 
+
+EFFecting Change: Same Product, Different Price on November 5
+
+
+Mobile Link: 
+
+EFFecting Change: Same Product, Different Price on November 5
+
+
+Banner Text: 
+
+EFFecting Change: Same Product, Different Price on November 5
+
+
+Mobile Banner Text: 
+
+EFFecting Change: Same Product, Different Price on November 5]]></summary>
+        <author>
+            <name>Melissa Srago</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why VPNs Are Worth Defending]]></title>
         <id>112500 at https://www.eff.org</id>
