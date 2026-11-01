@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-01T04:24:30.110Z</updated>
+    <updated>2026-11-01T12:40:22.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
@@ -11469,109 +11469,6 @@ Toni Morrison famously said, “If there’s a book you want to read, but it has
         <summary type="html"><![CDATA[Why some people mow a lawn better than others.]]></summary>
         <author>
             <name>The Pudding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Diplomats See the World]]></title>
-        <id>https://asteriskmag.com/issues/15/how-diplomats-see-the-world</id>
-        <link href="https://asteriskmag.com/issues/15/how-diplomats-see-the-world"/>
-        <updated>2026-08-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inside the boring-by-design U.S. fact-checking machine.]]></summary>
-        <author>
-            <name>Asterisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Senate Should Reject KOSA's Privacy Risks]]></title>
-        <id>112244 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks"/>
-        <updated>2026-08-03T23:47:38.000Z</updated>
-        <summary type="html"><![CDATA[The Senate Commerce Committee is once again considering legislation that would dramatically expand age verification, and undermine privacy for everyone. Alongside the SCREEN Act, the CHATBOT Act, and the Youth AI Privacy Act, the Kids Online Safety Act (KOSA) would push companies to collect more information about their users while creating new incentives to restrict lawful speech.
-Take action
-Tell Congress: KOSA endangers the privacy of all
-KOSA Pushes Platforms Toward Age Verification
-The Senate version of KOSA imposes a “duty of care” on online services, including social media, to avoid exposing young people to certain material the law deems harmful. But those obligations only work if online services know which users are minors. That means more platforms will be pressured to implement ag…]]></summary>
-        <author>
-            <name>Joe Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Berkeley student says 4th grade teacher molested him in 1990s]]></title>
-        <id>https://www.berkeleyside.org/?p=560588</id>
-        <link href="https://www.berkeleyside.org/2026/08/03/leconte-elementary-computer-class-sex-abuse-lawsuit"/>
-        <updated>2026-08-03T23:34:13.000Z</updated>
-        <summary type="html"><![CDATA[The 39-year-old is suing Berkeley Unified for negligence, alleging a computer teacher groomed and then abused him at what was then LeConte Elementary School in 1996 and 1997.]]></summary>
-        <author>
-            <name>Alex N. Gecan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF Joins 18 Civil Rights Organizations Calling on Governor Hochul to Reject the Stealth Crawler Prohibition Act]]></title>
-        <id>112243 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/08/eff-joins-18-civil-rights-organizations-calling-governor-hochul-reject-stealth"/>
-        <updated>2026-08-03T23:25:40.000Z</updated>
-        <summary type="html"><![CDATA[EFF joined a group of 18 civil society organizations to send a letter encouraging New York Governor Kathy Hochul to Senate Bill 9934A, the New York Stealth Crawler Prohibition Act. The letter states:
-While framed as a measure to protect local journalism, this legislation harms free expression and establishes a dangerous precedent by effectively deanonymizing and criminalizing automated access to the open web. By requiring all web crawlers to disclose their identity and explicit purpose, and by granting media outlets unchecked authority to obtain judicial subpoenas to unmask unidentified automated web traffic without any showing of misconduct or actual injury, this bill threatens digital privacy, compromises the foundational architecture of the internet, and will ultimately stifle the very …]]></summary>
-        <author>
-            <name>Rindala Alajaji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal]]></title>
-        <id>112238 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal"/>
-        <updated>2026-08-03T22:17:56.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence systems.” We urge the FTC to withdraw this misguided proposal and instead focus on its core strengths and mission to protect consumers. 
-The new proposed policy builds on, and directly references, the Trump administration’s  “Preventing Woke AI in the Federal Government” executive order—a nightmare for civil liberties that seeks to strong-arm AI companies into modifying their models to conform with the its ideological agenda. In recently filed comments, EFF,  Public Knowledge, and Fight for the Future call for the FTC to stop its unconstitutional efforts to regulate lawful speech, override state laws, and intimidate AI developers into ideological …]]></summary>
-        <author>
-            <name>Tori Noble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Youth AI Privacy Act’s Privacy Paradox]]></title>
-        <id>112241 at https://www.eff.org</id>
-        <link href="https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox"/>
-        <updated>2026-08-03T21:08:45.000Z</updated>
-        <summary type="html"><![CDATA[The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and make it harder for people to access lawful speech online. 
-While the bill is narrower than some other proposed chatbot bills, it still has massive data security implications because it protects information for only certain users. This creates a problem we’ve cited many times before: if a bill requires that online services offer protections to minor users, the services will respond by imposing age gates to know which users should receive them. A better approach would be to offer the same privacy pro…]]></summary>
-        <author>
-            <name>Maddie Daly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley’s July openings marked by new dessert and cafe options]]></title>
-        <id>https://www.berkeleyside.org/?p=560590</id>
-        <link href="https://www.berkeleyside.org/2026/08/03/popbar-sanaa-palmetto-skula-enssaro-sweet-fingers-open"/>
-        <updated>2026-08-03T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent restaurant openings include Popbar, Qualcomm cafe, Sana'a, Palmetto Superfoods, Cold Stone Creamery and Milk Cloud Bakery.]]></summary>
-        <author>
-            <name>Momo Chang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech]]></title>
-        <id>6a70ca44b145170001b39165</id>
-        <link href="https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/"/>
-        <updated>2026-08-03T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA["This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens."]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Our AI Data Center’s First Take Your Child to Work Day]]></title>
-        <id>https://www.mcsweeneys.net/articles/announcing-our-ai-data-centers-first-take-your-child-to-work-day</id>
-        <link href="https://www.mcsweeneys.net/articles/announcing-our-ai-data-centers-first-take-your-child-to-work-day"/>
-        <updated>2026-08-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear Astral Skye Data Center Workers,
- When A-Skye first took possession of four thousand acres of your town’s land to build an AI facility the size of three thousand football fields, it gave some of you pause.
- You wanted transparency. You wanted oversight. While we couldn’t provide either of those things, we more than made up for it in deceit and unkept promises.
- When we opened, we needed just a smidge more water than anticipated, and your wells dried up.
- When your electric bills skyrocketed, it was our bad.
- In the space of a year, we destroyed the tight-knit fabric that held this community of 130 citizens together. That’s also on us.
- Another thing we didn’t anticipate was not being able to provide three hundred good-paying jobs that didn’t require special training or college degrees…]]></summary>
-        <author>
-            <name>John Howard Matthews</name>
         </author>
     </entry>
     <entry>
