@@ -633,6 +633,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6ae9f413c720c3000104fd30",
+          "author": "Jason Koebler",
+          "description": "Slopfest 2k26 continues with an election, a fanfic fiasco, and World of Slopcraft.",
+          "link": "https://www.404media.co/america-votes-cekevpativg-edeldoa/",
+          "publishedOn": "2026-11-03T14:54:40.000Z",
+          "wordCount": 781,
+          "title": "America Votes: 'CEKEVPATIVG EDELDOA'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-03-at-6.49.59-AM@2x.png"
+        },
+        {
+          "id": "6ae8dd5a5972ad0001d40b4c",
+          "author": "Joseph Cox",
+          "description": "The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.",
+          "link": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+          "publishedOn": "2026-11-03T14:00:00.000Z",
+          "wordCount": 1867,
+          "title": "World of Warcraft: Forever Is Already Overrun with AI Slop",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/wow-slop.png"
+        },
+        {
           "id": "6ae93e3e5972ad0001d41edd",
           "author": "Samantha Cole",
           "description": "ao3.life was scraping and repackaging fanfiction’ works and turning them into audiobooks for sale without the original authors’ permission.",
@@ -3010,6 +3030,22 @@
       "siteUrl": "https://www.asimov.press",
       "articles": [
         {
+          "id": "https://www.asimov.press/p/cystic-fibrosis",
+          "author": "Asimov Press",
+          "description": "I was born with a rare form of cystic fibrosis that leaves my lungs without working CFTR protein. My work—and my hope—for a cure rests on gene therapy.",
+          "link": "https://www.asimov.press/p/cystic-fibrosis",
+          "publishedOn": "2026-11-03T15:50:35.000Z",
+          "wordCount": null,
+          "title": "Trying to Cure My Cystic Fibrosis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Otow!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4796eec4-2366-41d1-bd78-12a590c9c57e_2000x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Otow!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4796eec4-2366-41d1-bd78-12a590c9c57e_2000x1260.jpeg"
+        },
+        {
           "id": "https://www.asimov.press/p/centivax",
           "author": "Niko McCarty",
           "description": "Centivax is building a universal flu vaccine designed to protect against all strains of influenza—past, present, and future.",
@@ -3644,6 +3680,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
+          "author": "Michael Fitzpatrick",
+          "description": "The post In Praise Of Japan’s Failure To Keep Up appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
+          "publishedOn": "2026-11-03T17:39:52.000Z",
+          "wordCount": 12930,
+          "title": "In Praise Of Japan’s Failure To Keep Up",
+          "imageUrl": "https://noemamag.imgix.net/2026/11/Noema.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=2dd92956cc4bda58f0326657aada4494"
+        },
+        {
           "id": "https://www.noemamag.com/the-sediment-of-culture-shapes-political-order",
           "author": "Nathan Gardels",
           "description": "The post The Sediment Of Culture Shapes Political Order appeared first on NOEMA.",
@@ -3990,6 +4036,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=482975",
+          "author": "Jose Fermoso",
+          "description": "The ballot measure is high stakes for the future of BART and AC Transit. One in five voters were undecided, a recent survey found.",
+          "link": "https://www.berkeleyside.org/2026/11/03/rtm-regional-transit-measure-election-results-live-updates",
+          "publishedOn": "2026-11-03T22:26:55.000Z",
+          "wordCount": 8318,
+          "title": "Election 2026: Will voters approve Measure RTM to prop up mass transit in the Bay Area?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/RNI-Films-IMG-F71E14BB-1B8C-4C70-A795-45AC0775FA14-1-scaled-2.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565538",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/11/03/braid-bakery-salt-straw-chix-hango-hot-pot-north-beach-nonos",
+          "publishedOn": "2026-11-03T20:00:00.000Z",
+          "wordCount": 8894,
+          "title": "Braid evolves from buzz-worthy babkas to new Berkeley bakery; plus Salt & Straw announces Rockridge opening date and North Beach softly opens",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/BraidBakery-MiniBabkas.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565504",
+          "author": "Felicia Mello",
+          "description": "The student experienced “severe gender-based violence” in Colombia, her attorney said. UC Berkeley’s chancellor has asked the government to release her.",
+          "link": "https://www.berkeleyside.org/2026/11/03/ice-arrests-23-year-old-uc-berkeley-student-and-asylum-seeker-at-san-francisco-airport-attorney-says",
+          "publishedOn": "2026-11-03T19:01:00.000Z",
+          "wordCount": 9141,
+          "title": "Updated: ICE arrests 23-year-old UC Berkeley student and asylum seeker at San Francisco airport",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Paula-Valentina-Albornoz-Hernandez.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565470",
+          "author": "Nico Savidge",
+          "description": "Housing, bike lanes and Israel have been some of the top issues in four races for Berkeley City Council.",
+          "link": "https://www.berkeleyside.org/2026/11/03/berkeley-city-council-election-results-2026",
+          "publishedOn": "2026-11-03T14:30:00.000Z",
+          "wordCount": 8389,
+          "title": "Election 2026: City Council races could shift Berkeley’s political direction",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/large-Polling-Place-Novemeber-Election-2022-1.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565489",
+          "author": "Alex N. Gecan",
+          "description": "The measures include a $300 million infrastructure bond, parcel taxes to support the arts and create a public bank and proposals to increase the sales tax and double the soda tax. Polls close at 8 p.m.",
+          "link": "https://www.berkeleyside.org/2026/11/03/berkeley-ballot-measure-election-results-2026",
+          "publishedOn": "2026-11-03T13:59:00.000Z",
+          "wordCount": 8711,
+          "title": "Election 2026: Which of Berkeley’s 7 ballot measures will pass?",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2014/08/10478386_741174889254771_3789265271683847852_o.jpg?fit=2048%2C1357&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565091",
           "author": "Berkeleyside Staff",
@@ -11490,6 +11586,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112507 at https://www.eff.org",
+          "author": "Aaron Mackey",
+          "description": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show.\nThe records, disclosed to EFF and other requesters suing the postal service under the Freedom of Information Act, show that the agency’s internet Covert Operations Program, or iCOP, routinely sifted through social media posts organizing and discussing protests with little records of any oversight or legal justification.\nEFF filed suit in 2021 after Yahoo News disclosed the program’s existence and how the agency used it to monitor First Amendment protected activities. After years of delays and technical failures that led the agency to lose access to a trove of emails discussing the program, the postal service disclosed records to EFF and several ot…",
+          "link": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
+          "publishedOn": "2026-11-03T21:45:46.000Z",
+          "wordCount": 2140,
+          "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/social-media-surveillance-2026.jpg",
+            "alt": "Security camera screens display logos for Facebook, YouTube, X, TikTok, and Reddit ",
+            "type": "image/jpeg",
+            "length": "142559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/social-media-surveillance-2026.jpg"
+        },
+        {
+          "id": "112494 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "The government’s surveillance powers grew rapidly after Sept. 11, 2001, some in public view and some in secret. EFF suspected but couldn’t prove that the National Security Agency was spying on Americans' communications. The New York Times sat on a story about it for over a year, finally publishing it in December 2005. Then, in January 2006, a retired AT&T technician named Mark Klein walked into EFF's office with a manila folder of documents that blew the story wide open. \nWelcome to the third episode of “Privacy’s Defenders,” a podcast about the people – lawyers, journalists, hackers, and others – who’ve fought to secure your digital liberties since before most people even knew what the internet was.\n\n  \n%3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scro…",
+          "link": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-secret-room",
+          "publishedOn": "2026-11-03T15:00:01.000Z",
+          "wordCount": 1595,
+          "title": "Privacy's Defenders Podcast: The Secret Room",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/pd-podcast-banner.png",
+            "alt": "Privacy&#039;s Defender: Stories From the Fights for Digital Rights",
+            "type": "image/png",
+            "length": "1062415"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/pd-podcast-banner.png"
+        },
         {
           "id": "112504 at https://www.eff.org",
           "author": "Jillian C. York",
