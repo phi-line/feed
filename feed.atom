@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-05T23:15:44.578Z</updated>
+    <updated>2026-11-06T05:05:51.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wire: Berkeley food company cofounded by Jennifer Garner recalls snack bars after toddlers choked on them]]></title>
+        <id>https://www.berkeleyside.org/?p=565840</id>
+        <link href="https://www.berkeleyside.org/2026/11/05/the-wire-berkeley-food-company-cofounded-by-jennifer-garner-recalls-snack-bars-after-toddlers-choked-on-them"/>
+        <updated>2026-11-06T01:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Also: A man was arrested for allegedly recording a teenage girl with a hidden shoe camera at Lox Stock and Bagel. And Catapult Books is being sold.]]></summary>
+        <author>
+            <name>Berkeleyside Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man on death row for Berkeley double murder is among 548 spared by Gov. Newsom]]></title>
+        <id>https://www.berkeleyside.org/?p=565872</id>
+        <link href="https://www.berkeleyside.org/2026/11/05/gavin-newsom-death-sentence-commutations"/>
+        <updated>2026-11-06T00:33:05.000Z</updated>
+        <summary type="html"><![CDATA[All condemned people will instead serve life without parole, including Erven R. Blacksher, 71, who killed his sister and nephew in West Berkeley in 1995.]]></summary>
+        <author>
+            <name>By Jeanne Kuang and Nigel Duara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflecting on Digital Rights Wins and Losses in Sacramento]]></title>
+        <id>112514 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento"/>
+        <updated>2026-11-05T23:33:19.000Z</updated>
+        <summary type="html"><![CDATA[California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year legislative session, which meant several bills resumed their legislative paths from 2025.
+EFF monitored nearly 100 bills in the state over the two-year session. These included proposed regulations on 3D printers, access to social media platforms, police, commercial, and workplace surveillance practices, AI, and other privacy concerns. While we saw some victories, alarming developments also raised serious concerns about the future of privacy protection in the state.
+Celebrating Wins
+Use of automated decision-making and surveillance in the workplace
+Governor Newsom signed vital …]]></summary>
+        <author>
+            <name>Rindala Alajaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join EFF to Celebrate the Life of Aaron Swartz]]></title>
+        <id>112515 at https://www.eff.org</id>
+        <link href="https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz"/>
+        <updated>2026-11-05T23:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Join us to celebrate the legacy of Aaron Swartz on Nov. 8, 2026. With the organizers of Aaron Swartz Day, we’re honoring his life with an in-person and remote hackathon. This event is supported by several organizations that carry on his work, including the Internet Archive—which is hosting the in-person event—the Freedom of the Press Foundation, Creative Commons and the Free Law Project.
+Aaron Swartz was a digital rights champion who believed in the need for an open internet. His life was cut short in 2013, after federal prosecutors charged him under the Computer Fraud and Abuse Act (CFAA) for systematically downloading academic journal articles from the online database JSTOR. Facing the prospect of a long and unjust sentence, Aaron died by suicide at the age of 26.
+EFF was proud to call A…]]></summary>
+        <author>
+            <name>Hayley Tsukayama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause]]></title>
         <id>6aecedcbefbc460001fd06fb</id>

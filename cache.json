@@ -4056,6 +4056,26 @@
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
         {
+          "id": "https://www.berkeleyside.org/?p=565840",
+          "author": "Berkeleyside Staff",
+          "description": "Also: A man was arrested for allegedly recording a teenage girl with a hidden shoe camera at Lox Stock and Bagel. And Catapult Books is being sold.",
+          "link": "https://www.berkeleyside.org/2026/11/05/the-wire-berkeley-food-company-cofounded-by-jennifer-garner-recalls-snack-bars-after-toddlers-choked-on-them",
+          "publishedOn": "2026-11-06T01:14:00.000Z",
+          "wordCount": 7879,
+          "title": "The Wire: Berkeley food company cofounded by Jennifer Garner recalls snack bars after toddlers choked on them",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/IMG_2441-scaled.jpg?fit=2560%2C1920&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565872",
+          "author": "By Jeanne Kuang and Nigel Duara",
+          "description": "All condemned people will instead serve life without parole, including Erven R. Blacksher, 71, who killed his sister and nephew in West Berkeley in 1995.",
+          "link": "https://www.berkeleyside.org/2026/11/05/gavin-newsom-death-sentence-commutations",
+          "publishedOn": "2026-11-06T00:33:05.000Z",
+          "wordCount": 9073,
+          "title": "Man on death row for Berkeley double murder is among 548 spared by Gov. Newsom",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2025/07/AP25197813657444-scaled-1.jpg"
+        },
+        {
           "id": "https://www.berkeleyside.org/?p=565841",
           "author": "Alex N. Gecan",
           "description": "FBI agents arrested a child porn suspect on Dwight Way Wednesday morning. In response to concerned callers, BPD said there was “no verified information” that ICE was also in town.",
@@ -11645,6 +11665,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112514 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year legislative session, which meant several bills resumed their legislative paths from 2025.\nEFF monitored nearly 100 bills in the state over the two-year session. These included proposed regulations on 3D printers, access to social media platforms, police, commercial, and workplace surveillance practices, AI, and other privacy concerns. While we saw some victories, alarming developments also raised serious concerns about the future of privacy protection in the state.\nCelebrating Wins\nUse of automated decision-making and surveillance in the workplace\nGovernor Newsom signed vital …",
+          "link": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
+          "publishedOn": "2026-11-05T23:33:19.000Z",
+          "wordCount": 3568,
+          "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/california-bear2023.png",
+            "alt": "Bear hugging CA state, with lightning bolts on plum bg",
+            "type": "image/png",
+            "length": "110576"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/california-bear2023.png"
+        },
+        {
+          "id": "112515 at https://www.eff.org",
+          "author": "Hayley Tsukayama",
+          "description": "Join us to celebrate the legacy of Aaron Swartz on Nov. 8, 2026. With the organizers of Aaron Swartz Day, we’re honoring his life with an in-person and remote hackathon. This event is supported by several organizations that carry on his work, including the Internet Archive—which is hosting the in-person event—the Freedom of the Press Foundation, Creative Commons and the Free Law Project.\nAaron Swartz was a digital rights champion who believed in the need for an open internet. His life was cut short in 2013, after federal prosecutors charged him under the Computer Fraud and Abuse Act (CFAA) for systematically downloading academic journal articles from the online database JSTOR. Facing the prospect of a long and unjust sentence, Aaron died by suicide at the age of 26.\nEFF was proud to call A…",
+          "link": "https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz",
+          "publishedOn": "2026-11-05T23:21:45.000Z",
+          "wordCount": 887,
+          "title": "Join EFF to Celebrate the Life of Aaron Swartz",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/og-aaronswartz-credit.jpg",
+            "alt": "Aaron Swartz at a Boston Wiki Meetup in 2009 photo by Sage Ross via Wikipedia",
+            "type": "image/jpeg",
+            "length": "268127"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/og-aaronswartz-credit.jpg"
+        },
         {
           "id": "112511 at https://www.eff.org",
           "author": "Andrew Crocker",
