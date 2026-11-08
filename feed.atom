@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-08T12:45:01.437Z</updated>
+    <updated>2026-11-08T21:40:15.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modern warfare]]></title>
+        <id>https://worksinprogress.co/issue/the-future-of-war/</id>
+        <link href="https://worksinprogress.co/issue/the-future-of-war/"/>
+        <updated>2026-11-08T18:01:20.000Z</updated>
+        <summary type="html"><![CDATA[A review of The Arms of the Future.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Earth Lost a Billion Years of Its History]]></title>
         <id>6aee3557efbc460001009797</id>
