@@ -643,6 +643,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6af1bc82aa10b4000105187b",
+          "author": "Samantha Cole",
+          "description": "Also: Wanna get off this planet? There's a job open on the moon.",
+          "link": "https://www.404media.co/bad-news-for-kinky-brits/",
+          "publishedOn": "2026-11-09T14:29:53.000Z",
+          "wordCount": 1568,
+          "title": "Bad news for kinky Brits",
+          "imageUrl": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGVuZ2xhbmR8ZW58MHx8fHwxNzk0MjI3MjgxfDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6aee3557efbc460001009797",
           "author": "Becky Ferreira",
           "description": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient supercontinents.",
@@ -2721,16 +2731,6 @@
           "wordCount": 1888,
           "title": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/robin-worrall-FPt10LXK0cg-unsplash.jpg"
-        },
-        {
-          "id": "6a7b61d114bab50001de30d4",
-          "author": "Becky Ferreira",
-          "description": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
-          "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
-          "publishedOn": "2026-08-11T17:55:52.000Z",
-          "wordCount": 1842,
-          "title": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image1-1.jpg"
         }
       ]
     },
@@ -4017,16 +4017,6 @@
           "wordCount": 6945,
           "title": "The Nature Of Free Will In The Age Of AI",
           "imageUrl": "https://noemamag.imgix.net/2026/08/081126-Noema_FreeWill_Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=6912c647b92058fae87a42466a9f3c66"
-        },
-        {
-          "id": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
-          "author": "Daniel Freeman",
-          "description": "The post The Tantalizing Possibility Of Locating Consciousness In The Brain appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
-          "publishedOn": "2026-08-11T17:16:19.000Z",
-          "wordCount": 6897,
-          "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
-          "imageUrl": "https://noemamag.imgix.net/2026/08/SearchForConsciousness-Illustration.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=779541e82c332c3ed68103b175242191"
         }
       ]
     },
@@ -6904,36 +6894,6 @@
           "wordCount": 8148,
           "title": "UC Berkeley wants to demolish mansion that long housed UC presidents",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/IMG_1631-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561117",
-          "author": "Nathan Dalton",
-          "description": "A company that works to temporarily fill vacant retail with creative space has gotten a discounted six-month lease to build 24 studios where artists can make and sell in downtown.",
-          "link": "https://www.berkeleyside.org/2026/08/11/zero-empty-spaces-downtown-berkeley-half-price-books",
-          "publishedOn": "2026-08-11T23:53:21.000Z",
-          "wordCount": 8111,
-          "title": "Artist studios pop up at Berkeley’s empty Half Price Books",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/large-Zero-Empy-Spaces-3.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561064",
-          "author": "Daniel Ekonde",
-          "description": "The city is soliciting input from residents through Aug. 24 on sculpture proposals for the new park being built on a stretch of the old Santa Fe railroad line.",
-          "link": "https://www.berkeleyside.org/2026/08/11/public-art-proposals-southwest-berkeley-park",
-          "publishedOn": "2026-08-11T19:10:01.000Z",
-          "wordCount": 7865,
-          "title": "Sculptures that double as bird nests: Weigh in on 3 public art proposals for new Southwest Berkeley park",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/image-6.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561060",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/08/11/casa-latina-chom-thai-kitchen-lalala-cafe-opening",
-          "publishedOn": "2026-08-11T19:00:00.000Z",
-          "wordCount": 6935,
-          "title": "New Latin Market lands in Richmond, and the East Bay gets fresh cafe and Thai options",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/CasaLatinaSuperMercado-Umanzor.jpg"
         }
       ]
     },
@@ -7598,16 +7558,6 @@
           "publishedOn": "2026-08-13T09:00:20.000Z",
           "wordCount": null,
           "title": "Audrey Hobert:Tiny Desk Concert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=swh0_M0rRPQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=swh0_M0rRPQ",
-          "publishedOn": "2026-08-11T11:47:25.000Z",
-          "wordCount": null,
-          "title": "Death Cab for Cutie: Tiny Desk Concert",
           "imageUrl": null
         }
       ]
@@ -9845,6 +9795,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=83038",
+          "author": "Jessica Hylton",
+          "description": "Forget the maple syrup and try taking your oats in a savoury direction today. This savoury oatmeal walks the line between a hearty breakfast and a satisfying side dish with its cheddar-cheesy, umami-rich flavour profile and creamy texture (with just the right amount of chew). Take a chance on something different. You won't be sorry.",
+          "link": "https://jessicainthekitchen.com/savoury-oatmeal-recipe/",
+          "publishedOn": "2026-11-09T15:00:00.000Z",
+          "wordCount": 8081,
+          "title": "Savoury Oatmeal Recipe",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Vegan-Savory-Steel-Cut-Oatmeal-14.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=83178",
           "author": "Jessica Hylton",
           "description": "Who knew a humble pot of rice and beans could taste this good? This Caribbean-inspired black beans and rice dish is full of deeply savoury, subtly smoky flavours, with tender beans tucked into fluffy rice and just a kick of vinegar to brighten things up. Serve it as a side or as your main event.",
@@ -10148,6 +10108,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/chuck-schumers-non-negotiable-post-midterm-election-list-of-demands",
+          "author": "Bryan Lyng",
+          "description": "1. Craft a strongly worded, unambiguous memorandum informing the president and his corrupt and lawless cabinet members that they will soon face indictments for their repeated constitutional transgressions.\n 2. Soften language to caution the administration that this is only a possibility.\n 3. Soften language further to indicate that it’s probably not going to happen.\n 4. Further soften to remove any references to “corrupt,” “lawless,” and “indictments.” Revise to “certain people who may—or may not—have adhered strictly to the law.”\n 5. Further soften to remove any references to “adhering to the law.” Change to “members of your administration whose actions could possibly be reviewed.”\n 6. Follow with our comprehensive list of draconian and categorically non-negotiable demands.\n 7. Immediatel…",
+          "link": "https://www.mcsweeneys.net/articles/chuck-schumers-non-negotiable-post-midterm-election-list-of-demands",
+          "publishedOn": "2026-11-09T13:00:00.000Z",
+          "wordCount": 2730,
+          "title": "Chuck Schumer’s Non-Negotiable Post-Midterm-Election List of Demands",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/oj85348q43gm8lqk42avqu624tnn"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/new-updates-on-the-arc-of-the-moral-universe",
           "author": "Amanda Lehr",
@@ -11617,16 +11587,6 @@
           "wordCount": 2954,
           "title": "The Free Trial  by Franz Kafka",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rp1q9ecgfc0z72edgzzjbqf0la6w"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/when-you-really-think-about-it-everything-makes-you-poop-by-taylor-farms",
-          "author": "Jack Loftus",
-          "description": "“Taylor Farms is recalling items containing jalapeños sold at major retailers over Salmonella risk. The salad company, which recently recalled certain lettuce products amid the ongoing cyclosporiasis outbreak, announced on Aug. 9 that it is recalling its products made with jalapeños due to potential Salmonella contamination amid a multistate outbreak.” – People\n - - -\nYes, we know we’re in the news again, but before everybody starts pointing fingers with the hand that isn’t clutching their abdomen, we’d like to offer a little perspective.\n Since our ancestors first dragged themselves out of the primordial muck and discovered that things could be chewed, food has gone in one end and out the other. Digestion is not a Taylor Farms innovation. We did not invent the intestine, set the bowel in …",
-          "link": "https://www.mcsweeneys.net/articles/when-you-really-think-about-it-everything-makes-you-poop-by-taylor-farms",
-          "publishedOn": "2026-08-11T17:00:00.000Z",
-          "wordCount": 2826,
-          "title": "When You Really Think About It, Everything Makes You Poop (by Taylor Farms)",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/idkauab5v8v4yvko2cjjaq0lx4rp"
         }
       ]
     },
@@ -13270,22 +13230,6 @@
             "length": "161449"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png"
-        },
-        {
-          "id": "112240 at https://www.eff.org",
-          "author": "Hugh D&#039;Andrade",
-          "description": "We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been created with AI image generators. We’d like to answer these questions and clarify our internal policy regarding image creation. \nEFF images are all made by human beings, not by automated image generators, with very rare exceptions. This is an internal decision made by our small design team, for the following reasons: \n  \nOur designers bring knowledge and expertise to the images we create, informed by years of consultation with EFF’s lawyers, technologists and activists. We find that this informed perspective helps make the issues we cover more clear, and more engaging, for our supporters. \nThe content on our sites is written by human beings, not…",
-          "link": "https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff",
-          "publishedOn": "2026-08-11T20:24:25.000Z",
-          "wordCount": 1789,
-          "title": "Who (or What) Generates Images for EFF?",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
-            "alt": "robot doing brain surgery on itself",
-            "type": "image/jpeg",
-            "length": "673377"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg"
         }
       ]
     },
