@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=168601",
+          "author": "Philip Ball",
+          "description": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough.            \nThe post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+          "publishedOn": "2026-11-09T15:20:29.000Z",
+          "wordCount": 2382,
+          "title": "Did Life Begin in an RNA World?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168674",
           "author": "Charlie Wood",
           "description": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument.            \nThe post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
@@ -546,6 +556,16 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/16/six-gutenberg-revolutions-in-a-row/f5a71cc21a-1792435854/gutenberg-revolutions-erkers-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/16/a-brief-history-of-our-place-in-the-universe",
+          "author": null,
+          "description": "German Romantics created every Bay Area social movement.",
+          "link": "https://asteriskmag.com/issues/16/a-brief-history-of-our-place-in-the-universe",
+          "publishedOn": "2026-10-14T00:00:00.000Z",
+          "wordCount": 5750,
+          "title": "A Brief History of Our Place in the Universe",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/a-brief-history-of-our-place-in-the-universe/242ad450bd-1794183093/german-romantics-toby-shorin-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/16/the-dream-of-an-aristotelian-machine",
           "author": null,
           "description": "Why alignment science took a turn towards virtue ethics.",
@@ -642,6 +662,16 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6af22e3eaa10b40001081c05",
+          "author": "Matthew Gault",
+          "description": "Police arrested a man in South Carolina after he left his daughter asleep in a Target parking lot so he could keep his place in line.",
+          "link": "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
+          "publishedOn": "2026-11-09T20:42:34.000Z",
+          "wordCount": 1469,
+          "title": "Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/photo-1647892591711-f310c2a3ab7c.jpeg"
+        },
         {
           "id": "6af1bc82aa10b4000105187b",
           "author": "Samantha Cole",
@@ -2721,16 +2751,6 @@
           "wordCount": 2269,
           "title": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/404-Media-5101-Santa-Monica-Blvd-Ste-8-PMB1405-Los-Angeles--CA-90029.jpg"
-        },
-        {
-          "id": "6a7b631214bab50001de314a",
-          "author": "Joseph Cox",
-          "description": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
-          "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
-          "publishedOn": "2026-08-12T12:49:12.000Z",
-          "wordCount": 1888,
-          "title": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/robin-worrall-FPt10LXK0cg-unsplash.jpg"
         }
       ]
     },
@@ -3265,6 +3285,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3322/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3322/",
+          "publishedOn": "2026-11-09T05:00:00.000Z",
+          "wordCount": 178,
+          "title": "Dragonfly",
+          "imageUrl": "https://imgs.xkcd.com/comics/dragonfly_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3321/",
           "author": null,
           "description": "",
@@ -3633,16 +3663,6 @@
           "wordCount": 187,
           "title": "Accretionary Arc",
           "imageUrl": "https://imgs.xkcd.com/comics/accretionary_arc_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3284/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3284/",
-          "publishedOn": "2026-08-12T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Geology Building",
-          "imageUrl": "https://imgs.xkcd.com/comics/geology_building_2x.png"
         }
       ]
     },
@@ -4025,6 +4045,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=565963",
+          "author": "Skylla Mumana",
+          "description": "Chef Aaron Salit’s Second Line Pleasure Club, brings crawfish, live music and community together. Its final boil of the year is Nov. 10 in Santa Cruz.",
+          "link": "https://www.berkeleyside.org/2026/11/09/crawfish-boil-secondline-pleasure-club-new-orleans",
+          "publishedOn": "2026-11-09T20:00:00.000Z",
+          "wordCount": 8506,
+          "title": "Rollicking Louisiana crawfish boils have landed in the East Bay. Here’s where to find one before the year ends",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/NATERA_CrawfishBoil-NOSH_261018_010.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565976",
+          "author": "Felicia Mello",
+          "description": "The university had campaigned to free Paula Albornoz Hernandez, an asylum seeker from Colombia arrested at San Francisco airport on Oct. 30.",
+          "link": "https://www.berkeleyside.org/2026/11/09/paula-albornoz-hernandez-uc-berkeley-student-ordered-released",
+          "publishedOn": "2026-11-09T17:48:55.000Z",
+          "wordCount": 7791,
+          "title": "Judge orders UC Berkeley student released from ICE custody",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Paula-Valentina-Albornoz-Hernandez.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565885",
+          "author": "Momo Chang",
+          "description": "Oh G Burger, Seniore's, Nabolom, and Taqueria Mi Familia were among the recent restaurant closures.",
+          "link": "https://www.berkeleyside.org/2026/11/09/nabolom-sliver-elis-mile-high-oeste-oh-g-admiral-maltings-close",
+          "publishedOn": "2026-11-09T17:00:00.000Z",
+          "wordCount": 9407,
+          "title": "One Berkeley burger joint makes way for another, plus bakery, pizza and Mexican options shutter",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/oh-g-burger.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565906",
           "author": "Nico Savidge",
@@ -10109,6 +10159,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/other-new-tv-shows-based-on-classic-literature",
+          "author": "Felipe Torres Medina",
+          "description": "“NBC is eyeing a fresh spin on a literary classic, with a partially gender-swapped police procedural take on The Great Gatsby in development … It’s billed as a modern-day police procedural about Det. Jay Gatsby, a devilishly charming investigator with a con-man’s gift for reading human behavior, and decorated New York State Police Det. Nicole ‘Nicky’ Carraway, who was born to be a cop but dreams of becoming a writer.” – Deadline\n - - -\nN.Y.P.D.ickinson\n A gender-bending spin on the work of the great American poetess, N.Y.P.D. Detective Emilio Dickinson (Wilmer Valderrama) is haunted by Hope (Hope Davis), a deadly murderer who always leaves a trademark feather at every crime scene. Emilio is unrelenting in his investigations. Murder does not deter him, which explains his catchphrase: “I wil…",
+          "link": "https://www.mcsweeneys.net/articles/other-new-tv-shows-based-on-classic-literature",
+          "publishedOn": "2026-11-09T18:00:00.000Z",
+          "wordCount": 3193,
+          "title": "Other New TV Shows Based on Classic Literature",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/l5w4rch04sow6t0b43kqjg78go0i"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/chuck-schumers-non-negotiable-post-midterm-election-list-of-demands",
           "author": "Bryan Lyng",
           "description": "1. Craft a strongly worded, unambiguous memorandum informing the president and his corrupt and lawless cabinet members that they will soon face indictments for their repeated constitutional transgressions.\n 2. Soften language to caution the administration that this is only a possibility.\n 3. Soften language further to indicate that it’s probably not going to happen.\n 4. Further soften to remove any references to “corrupt,” “lawless,” and “indictments.” Revise to “certain people who may—or may not—have adhered strictly to the law.”\n 5. Further soften to remove any references to “adhering to the law.” Change to “members of your administration whose actions could possibly be reviewed.”\n 6. Follow with our comprehensive list of draconian and categorically non-negotiable demands.\n 7. Immediatel…",
@@ -11577,16 +11637,6 @@
           "wordCount": 2835,
           "title": "Release Notes:  Woman™ Version 51.0",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8f8e199buw7tp1ejjncwjpmmk5pt"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/the-free-trial-by-franz-kafka",
-          "author": "Bob Woodiwiss",
-          "description": "There’s been some sort of error, thought Joseph K. Yes, that was it, an inadvertent error. Quite possibly on his part. A careless thumb tap when paranoiascrolling on his phone or a wayward mouse click while porn-drunk. The type of mistake modern life makes inevitable.\n Though, too, given the fraught times, it would be foolish to rule out the possibility of e-malice. And no one was above suspicion. Not his fishmonger, his cheesemonger, his bongmonger, his psychiatrymonger—all, he knew, were active in MAJA (Mongers Against Joseph Alliance). For that matter, it might even be his own father, still in high dudgeon over Joseph K.’s name change (from Joseph G.), claiming it sounded “too Jewish.”\n However it had happened, it had, undeniably, happened. The confirmation email made that clear.\n “Welc…",
-          "link": "https://www.mcsweeneys.net/articles/the-free-trial-by-franz-kafka",
-          "publishedOn": "2026-08-12T12:00:00.000Z",
-          "wordCount": 2954,
-          "title": "The Free Trial  by Franz Kafka",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rp1q9ecgfc0z72edgzzjbqf0la6w"
         }
       ]
     },
@@ -11595,6 +11645,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112525 at https://www.eff.org",
+          "author": "Andrew Crocker",
+          "description": "Today, along with the ACLU, EFF filed an amicus brief in the Sixth Circuit court of appeals in United States v. Sturdivant, a case where police warrantlessly tracked a suspect’s movements using Automated License Plate Reader (ALPR) data. Our brief details the vast, interconnected network of ALPRs that constantly track drivers around the country and argues that this tracking is a “search” under the meaning of the Fourth Amendment. \nSturdivant involves a series of robberies in and around Cleveland, Ohio. Using surveillance camera footage, police identified the make, model and color of the robber’s car, but they did not know its license plate number. After running an open-ended search of two ALPR databases, Flock and ELSAG, officers learned a car belonging to the defendant had been tracked near sites of the robberies, eventually leading to his arrest. Faced with a motion to suppress the ALPR evidence, the district court held that Mr. Sturdivant had no reasonable expectation of privacy in his license plate number because it could be observed by members of the public, and that therefore he had no Fourth Amendment interest in not having his car tracked in public places.\nBut ALPRs are simply not comparable to observing an individual license plate on a passing car. As we’ve explained in many amicus briefs and in our lawsuits directly challenging ALPR use in San Jose, California and Wisconsin, ALPRs give law enforcement “a virtual time machine to view suspects’, or anyone else’s, past movements (and much more) with just the click of a button.” Just last month, a federal district court agreed and held that ALPRs are a “form of indiscriminate mass surveillance” that can violate the Fourth Amendment.\nWe hope the Sixth Circuit will reverse the lower court in this case and hold that ALPR searches require a warrant.\n\n\nRelated Cases: \n\nWisconsin Council of Churches v. Milwaukee, Racine, Kenosha & Green Bay\nSIREN and CAIR-CA v. San Jose",
+          "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+          "publishedOn": "2026-11-09T22:09:24.000Z",
+          "wordCount": 1534,
+          "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+            "alt": "sinister cop and cameras loom over street grid with cars identified by license plates",
+            "type": "image/png",
+            "length": "224550"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/siren_v._san_jose.png"
+        },
+        {
+          "id": "112522 at https://www.eff.org",
+          "author": "Betty Gedlu",
+          "description": "The number of petitions being filed at the Patent Trial and Appeal Board (PTAB) has collapsed. That’s not reason for celebration. The PTAB is an important line of defense against low-quality software patents being used in lawsuits against people and companies.\nThe drop didn’t happen because suddenly patents have become higher quality. It’s simply because USPTO leadership is increasingly refusing to consider good challenges to patents, for reasons unrelated to the merits. The process has become so unreliable that many would-be patent challengers aren’t even trying.\nInter partes review (IPR) is a process that allows people to challenge patents at the Patent Office, rather than having to fight an expensive lawsuit in federal court. It’s one of the most important ways to get bad patents out of…",
+          "link": "https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents",
+          "publishedOn": "2026-11-09T21:40:14.000Z",
+          "wordCount": 2576,
+          "title": "Why Fewer People Are Challenging Bad Patents",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/patent-troll-warning_0.png",
+            "alt": "A warning sign with a picture of a troll says &quot;do not feed the troll&quot;",
+            "type": "image/png",
+            "length": "339880"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/patent-troll-warning_0.png"
+        },
+        {
+          "id": "112521 at https://www.eff.org",
+          "author": "Sophia Cope",
+          "description": "For the past two decades, the U.S. Supreme Court has been slowly weakening the Alien Tort Statute (ATS), a key human rights law that allows foreign nationals to sue persons or entities in civil court for harms resulting from violations of international law. The court’s recent ruling in Cisco Systems, Inc. v. Doe I dealt the law a final blow, foreclosing—absent new legislation by Congress—any future ability by plaintiffs to use the law to hold technology companies accountable for aiding and abetting human rights abuses. EFF filed multiple amicus briefs in the case, including most recently in the Supreme Court.\nThe Supreme Court Rejected New Causes of Action Under the ATS\nThe ATS was passed by the very first Congress in 1789 and in just a few words gives U.S. federal courts jurisdiction to h…",
+          "link": "https://www.eff.org/deeplinks/2026/11/us-supreme-court-deals-final-blow-corporate-human-rights-accountability",
+          "publishedOn": "2026-11-09T19:29:03.000Z",
+          "wordCount": 2452,
+          "title": "U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/china-eye.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "23708"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/china-eye.png"
+        },
         {
           "id": "112519 at https://www.eff.org",
           "author": "Rory Mir",
