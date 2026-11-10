@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=168606",
+          "author": "Perri Thaler",
+          "description": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather.            \nThe post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+          "publishedOn": "2026-11-10T15:08:35.000Z",
+          "wordCount": 2399,
+          "title": "The Case for a Bubble at Life’s Start",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168601",
           "author": "Philip Ball",
           "description": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough.            \nThe post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
@@ -652,6 +662,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6af329395e69340001b938e0",
+          "author": "Jason Koebler",
+          "description": "AI companies crack down on 'reverse engineer anything.'",
+          "link": "https://www.404media.co/come-and-take-it/",
+          "publishedOn": "2026-11-10T14:41:26.000Z",
+          "wordCount": 773,
+          "title": "Come and Take It",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/gforce.jpg"
+        },
+        {
+          "id": "6af327295e69340001b938b5",
+          "author": "Jason Koebler",
+          "description": "The future of hacking your devices is in local and open-weight AI.",
+          "link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+          "publishedOn": "2026-11-10T14:21:37.000Z",
+          "wordCount": 2029,
+          "title": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-10-at-6.20.18-AM@2x.png"
+        },
         {
           "id": "6af22e3eaa10b40001081c05",
           "author": "Matthew Gault",
@@ -3618,6 +3648,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/when-ais-become-unruly-swarms",
+          "author": "Ben Bariach",
+          "description": "The post When AIs Become Unruly Swarms appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/when-ais-become-unruly-swarms",
+          "publishedOn": "2026-11-10T17:39:53.000Z",
+          "wordCount": 9599,
+          "title": "When AIs Become Unruly Swarms",
+          "imageUrl": "https://noemamag.imgix.net/2026/11/smaller.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C90%2C946%2C495&w=1200&wpsize=noema-social-facebook&s=1e48f583b77846a5ac56f76fd368f665"
+        },
+        {
           "id": "https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante",
           "author": "Nathan Gardels",
           "description": "The post Democrats Should Not Revert To The Status Quo Ante appeared first on NOEMA.",
@@ -3964,6 +4004,36 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://oaklandside.org/?p=483760",
+          "author": "Darwin BondGraham",
+          "description": "The county’s top lawyer is demanding immigration agents stop using county property as a staging ground for enforcement operations.",
+          "link": "https://www.berkeleyside.org/2026/11/10/cease-and-desist-letter-ice-immigration-enforcement-alameda-county-jail",
+          "publishedOn": "2026-11-10T22:09:07.000Z",
+          "wordCount": 8572,
+          "title": "Alameda County issues cease-and-desist letter to stop ICE activity at jail",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/09/04_01_20_santa_rita-jail.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566103",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/11/10/cafe-adeline-wagyu-factory-oh-crab-doppio-zero-open",
+          "publishedOn": "2026-11-10T20:33:36.000Z",
+          "wordCount": 8308,
+          "title": "A Turkish cafe comes to South Berkeley, a new Japanese BBQ option in Oakland, and more East Bay restaurant openings",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/CafeAdeline.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566105",
+          "author": "Vani Sanganeria and Mallika Seshadri &#124; EdSource",
+          "description": "Google announced last week that if schools opt out of its AI feature, students will lose access to the search engine.",
+          "link": "https://www.berkeleyside.org/2026/11/10/berkeley-school-district-to-consider-blocking-google-search-after-tech-giants-ai-ultimatum",
+          "publishedOn": "2026-11-10T20:05:23.000Z",
+          "wordCount": 8991,
+          "title": "Berkeley school district to consider switching from Google search after tech giant’s AI ‘ultimatum’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/AP20339793092004.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=565432",
           "author": "Family and friends of Jon Balderston",
@@ -7046,21 +7116,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/tract/lw-nonfold.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity",
-          "author": null,
-          "description": "not a person!",
-          "link": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-08-13T03:55:59.000Z",
-          "wordCount": 7774,
-          "title": "GenAI Is a Lens into Humanity",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/gen-ai-is-a-lens-into-humanity/kaleidolens.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/gen-ai-is-a-lens-into-humanity/kaleidolens.jpg"
         }
       ]
     },
@@ -7508,16 +7563,6 @@
           "wordCount": 3460,
           "title": "This could be YOU. Enter at NPR.org/TinyDeskGiveaway",
           "imageUrl": "https://i.ytimg.com/vi/fmVQyYN7gOA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAY_DVcycmceK8ocD-jAoEL8e-9AA"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_R_5qaYATh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_R_5qaYATh0",
-          "publishedOn": "2026-08-13T09:00:20.000Z",
-          "wordCount": null,
-          "title": "Audrey Hobert:Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10067,6 +10112,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/i-went-to-stanford-for-three-semesters-please-give-me-all-your-money",
+          "author": "Claire Friedman",
+          "description": "Friends, my name is Otto Alchen-Zimmerbud. I’m twenty years old, and I’m raising $67 billion for a new AI fund called Infinite Upside. You, my future investors (a.k.a. my “Zimmerbuds”), are among the rare visionaries whose minds are open enough to be Zimmer-bombed with opportunity.\n Congratulations. You’re about to become stupid rich.\n How? Two words: A. I. The greatest technological advancement humans have ever created. I mean this thing can do anything from writing software, to polishing emails, to telling you whether bangs would be a mistake (always), to possibly killing every human being on Earth within the next ten years.\n You don’t hear people saying that about Etsy.\n Why am I the almost-adult man to lead your portfolio through this revolution? Because I spent nearly three semesters …",
+          "link": "https://www.mcsweeneys.net/articles/i-went-to-stanford-for-three-semesters-please-give-me-all-your-money",
+          "publishedOn": "2026-11-10T18:00:00.000Z",
+          "wordCount": 3122,
+          "title": "I Went to Stanford for Three Semesters. Please Give Me All Your Money",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/njcla7vdpqogmzdyxcn1nk2wydsb"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/kyle-carrero-lopez",
           "author": "Jesse Nathan",
