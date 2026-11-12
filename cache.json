@@ -6,6 +6,16 @@
       "siteUrl": "https://pudding.cool",
       "articles": [
         {
+          "id": "https://pudding.cool/2026/11/wnba-politics",
+          "author": null,
+          "description": "Analyzing the right-wing politicization of the Women’s National Basketball Association.",
+          "link": "https://pudding.cool/2026/11/wnba-politics",
+          "publishedOn": "2026-11-12T05:00:00.000Z",
+          "wordCount": 4855,
+          "title": "Why is Fox News obsessed with the WNBA?",
+          "imageUrl": "https://pudding.cool/2026/11/wnba-politics/images/social.png"
+        },
+        {
           "id": "https://pudding.cool/projects/lopi",
           "author": null,
           "description": "Live lo-fi beats from the digits of pi, forever.",
@@ -52,6 +62,36 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=168928",
+          "author": "Steven Strogatz and Janna Levin",
+          "description": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.            \nThe post Can Network Science Transform Health and Nutrition? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+          "publishedOn": "2026-11-12T19:40:54.000Z",
+          "wordCount": 10563,
+          "title": "Can Network Science Transform Health and Nutrition?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=169152",
+          "author": "Yasemin Saplakoglu, Philip Ball, Perri Thaler and Jake Buehler",
+          "description": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life.            \nThe post A New Era for the Dawn of Life first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+          "publishedOn": "2026-11-12T16:20:28.000Z",
+          "wordCount": 847,
+          "title": "A New Era for the Dawn of Life",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/OriginsOfLife-Ads-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=168783",
+          "author": "Yasemin Saplakoglu",
+          "description": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.            \nThe post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+          "publishedOn": "2026-11-12T15:45:27.000Z",
+          "wordCount": 8761,
+          "title": "The Evolving Story of How Chemistry Became Biology",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=168766",
           "author": "Jake Buehler",
@@ -672,6 +712,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6af5e980270542000112d8d7",
+          "author": "Samantha Cole",
+          "description": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
+          "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
+          "publishedOn": "2026-11-12T16:46:42.000Z",
+          "wordCount": 1497,
+          "title": "'Way more terrifying than I expected'",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Businesses_and_Brands_26315487779928-1.jpg"
+        },
+        {
+          "id": "6af5da7f270542000112d672",
+          "author": "Samantha Cole",
+          "description": "Vanniall wanted to see if Muse would stop a boundary-pushing fan scenario. She found that it only encouraged this kind of behavior.",
+          "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
+          "publishedOn": "2026-11-12T16:25:29.000Z",
+          "wordCount": 4018,
+          "title": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Photo-Oct-29-2026--8-44-14-PM--4--1.jpg"
+        },
         {
           "id": "6af491d70f04ce0001cb3f45",
           "author": "Becky Ferreira",
@@ -2691,16 +2751,6 @@
           "wordCount": 898,
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image3-2-1.png"
-        },
-        {
-          "id": "6a7f794c14bab50001e73a4d",
-          "author": "Becky Ferreira",
-          "description": "Mice can access memories after hibernation, a state that largely shuts their brains off and reduces synapses, suggesting that memories are stored across shifting neural systems.",
-          "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
-          "publishedOn": "2026-08-15T10:00:42.000Z",
-          "wordCount": 2226,
-          "title": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/milada-vigerova-QJDcNfJjHRc-unsplash.jpg"
         }
       ]
     },
@@ -2709,6 +2759,39 @@
       "feedUrl": "https://reason.com/tag/ice/feed",
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
+        {
+          "id": "https://reason.com/?p=8410747",
+          "author": "Billy Binion",
+          "description": "Peanut's killing became a symbol of what happens when government policy is controlled by a busybody spirit. His owner's detention offers a rather different illustration.",
+          "link": "https://reason.com/2026/11/12/j-d-vance-used-peanut-the-squirrel-to-attack-government-overreach-so-why-has-ice-detained-peanuts-owner/",
+          "publishedOn": "2026-11-12T21:05:20.000Z",
+          "wordCount": null,
+          "title": "J.D. Vance Used Peanut the Squirrel To Attack Government Overreach. So Why Has ICE Detained Peanut's Owner?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8410786",
+          "author": "Tosin Akintola",
+          "description": "Immigrants facing poorly vetted agents and a lack of due process are choosing to leave the country on their own terms.",
+          "link": "https://reason.com/2026/11/12/ice-says-its-deporting-more-immigrants-than-ever-many-are-actually-leaving-voluntarily/",
+          "publishedOn": "2026-11-12T20:53:18.000Z",
+          "wordCount": null,
+          "title": "ICE Says It's Deporting More Immigrants Than Ever. Many Are Actually Leaving Voluntarily.",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://reason.com/?p=8410644",
+          "author": "Eric Boehm",
+          "description": "Stephen Miller, the architect of Trump's immigration policies, was promoted despite the midterm losses and Trump's admission that ICE has been too harsh.",
+          "link": "https://reason.com/2026/11/12/trumps-immigration-crackdowns-helped-turn-kansas-blue/",
+          "publishedOn": "2026-11-12T18:25:23.000Z",
+          "wordCount": null,
+          "title": "Trump's Immigration Crackdowns Helped Turn Kansas Blue",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://reason.com/?p=8410235",
           "author": "Jacob Sullum",
@@ -3649,6 +3732,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/a-generation-revolts",
+          "author": "John Last",
+          "description": "The post A Generation Revolts appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/a-generation-revolts",
+          "publishedOn": "2026-11-12T17:38:28.000Z",
+          "wordCount": 7953,
+          "title": "A Generation Revolts",
+          "imageUrl": "https://noemamag.imgix.net/2026/11/GettyImages-2298594231-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=5cc795a080b9d6ef79c1b058f774f74f"
+        },
+        {
           "id": "https://www.noemamag.com/when-ais-become-unruly-swarms",
           "author": "Ben Bariach",
           "description": "The post When AIs Become Unruly Swarms appeared first on NOEMA.",
@@ -3985,6 +4078,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566202",
+          "author": "Sharon McDonnell",
+          "description": "At Divan, traditional Turkish flavors meet California sensibilities in a sleek, garden-inspired restaurant built around shareable mezze, freshly baked breads and creative cocktails.",
+          "link": "https://www.berkeleyside.org/2026/11/12/divan-modern-turkish-west-berkeley",
+          "publishedOn": "2026-11-12T20:00:00.000Z",
+          "wordCount": 9162,
+          "title": "A fresh take on Turkish cuisine takes root in West Berkeley",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/large-Divan-for-NOSH-27.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566181",
+          "author": "Andrew Gilbert",
+          "description": "Born Samuel Cohen, he assembled unusual instruments from discarded parts. Young musicians and luminaries from Taj Mahal to Charlie Hunter flocked to his shop, which ran on hippie idealism and helped launch the vintage guitar movement.",
+          "link": "https://www.berkeleyside.org/2026/11/12/fat-dog-obituary",
+          "publishedOn": "2026-11-12T16:45:41.000Z",
+          "wordCount": 9367,
+          "title": "Fat Dog, owner of Berkeley’s Subway Guitars and a legend of the city, has died",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Fat-Dog.png"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566115",
           "author": "Andrew Gilbert",
@@ -6980,16 +7093,6 @@
           "wordCount": 4510,
           "title": "Meera Sodha’s recipe for blackberry and almond cake | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/12be320e687f823f62640c83d68ce47d49490dfe/40_532_5307_4242/master/5307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04fdf3157b6f3db959fc475722bba869"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/aug/15/black-rice-salad-recipe-tomatoes-tamarind-green-beans-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Change up your seasonal salads with an easy-to-prep dish that centres on slow-cooked rice and a lively Asian dressing \nHere’s a recipe straight out of the low-effort, high-reward school of cooking, in which you chop the vegetables and nuts, boil the rice and beans, throw over a dressing … and it’s done! It was written in the middle of a heatwave, when cooking felt impossible, but I couldn’t look at another watermelon and feta salad. The trade-off is that this dish relies heavily on a couple of key ingredients: sambal oelek (which gives the salad its sparkle) and black rice, which, unlike other types of rice in a salad, never tastes worthy.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/aug/15/black-rice-salad-recipe-tomatoes-tamarind-green-beans-meera-sodha",
-          "publishedOn": "2026-08-15T05:00:50.000Z",
-          "wordCount": 4473,
-          "title": "Meera Sodha’s recipe for black rice salad with tomatoes, tamarind and green beans | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/408e979e34f9115272bd09e6a6c4b44340ce55f3/186_3_4002_3199/master/4002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb9e86f1819638f713d57a33448c2a07"
         }
       ]
     },
@@ -9755,6 +9858,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=83370",
+          "author": "Jessica Hylton",
+          "description": "Corn tortillas fresh out of the pan? Say less. These 3-ingredient homemade tortillas are surprisingly easy to make and will single-handedly take your taco game to the next level with their authentic masa harina flavour and soft, pliable texture. Wrap 'em around your favourite filling, top with guac, and enjoy.",
+          "link": "https://jessicainthekitchen.com/homemade-corn-tortillas/",
+          "publishedOn": "2026-11-12T15:00:00.000Z",
+          "wordCount": 9278,
+          "title": "Homemade Corn Tortillas",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Homemade-Corn-Tortillas_16.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=83038",
           "author": "Jessica Hylton",
           "description": "Forget the maple syrup and try taking your oats in a savoury direction today. This savoury oatmeal walks the line between a hearty breakfast and a satisfying side dish with its cheddar-cheesy, umami-rich flavour profile and creamy texture (with just the right amount of chew). Take a chance on something different. You won't be sorry.",
@@ -10058,6 +10171,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/not-all-men",
+          "author": "Nathan Cowley",
+          "description": "“Russell Brand has been found guilty of raping a woman and sexually assaulting three others over the course of five years of his showbusiness career.” \n – The Guardian\n - - -\nHere we go again. One creep does something wrong, and suddenly everyone is tarred with the same brush. I’m getting pretty tired of saying this, but it seems you need reminding…\n It’s not all men.\n Sure, I guess you could say it’s the man leading the Free World, the man in charge of our health, the man in charge of our defense, and the men responsible for every major decision facing this country.\n Granted, that’s some men. But all men? It’s not even close.\n If we’re nit-picking, I’ll let you have the man from Rocky, the man from The Graduate, the man from That ‘70s Show, the man from Spider-Man 3, the man from Morbius,…",
+          "link": "https://www.mcsweeneys.net/articles/not-all-men",
+          "publishedOn": "2026-11-12T18:30:00.000Z",
+          "wordCount": 2765,
+          "title": "Not All Men",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nho0o45dbxrkhcfbn381zqijlcpo"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/whittling-away",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/whittling-away",
+          "publishedOn": "2026-11-12T17:00:00.000Z",
+          "wordCount": 2405,
+          "title": "Whittling Away",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/9wl2a8jmt3okjzkqdbv0j4avjwfb"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-open-letter-from-an-african-girl-to-the-tokenism-coordinator-in-hollywood",
           "author": "Kosoluchi Agboanike",
