@@ -53,6 +53,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=168766",
+          "author": "Jake Buehler",
+          "description": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.            \nThe post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+          "publishedOn": "2026-11-11T15:10:30.000Z",
+          "wordCount": 2209,
+          "title": "How a Metabolic Spark Could Have Jump-Started Life",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168606",
           "author": "Perri Thaler",
           "description": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather.            \nThe post The Case for a Bubble at Life’s Start first appeared on Quanta Magazine",
@@ -526,6 +536,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/16/we-are-all-playable-characters",
+          "author": null,
+          "description": "Diagnosing “main character syndrome.”",
+          "link": "https://asteriskmag.com/issues/16/we-are-all-playable-characters",
+          "publishedOn": "2026-11-11T00:00:00.000Z",
+          "wordCount": 3098,
+          "title": "We Are All Playable Characters",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/we-are-all-playable-characters/8f4e7eea76-1794183979/playable-characters-hannah-kim-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/16/how-to-turn-a-philanderer-into-a-father",
           "author": null,
           "description": "What your dad has in common with the African striped mouse.",
@@ -662,6 +682,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6af491d70f04ce0001cb3f45",
+          "author": "Becky Ferreira",
+          "description": "It's likely an ultra-rare supermassive neutron star.",
+          "link": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
+          "publishedOn": "2026-11-11T19:00:00.000Z",
+          "wordCount": 1685,
+          "title": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-f8cb3932-c6cc-490d-8b01-f99d945d0971-1.jpeg"
+        },
+        {
+          "id": "6af490780f04ce0001cb3f08",
+          "author": "Jason Koebler",
+          "description": "Silicon Valley tries to understand the election.",
+          "link": "https://www.404media.co/its-one-banana-michael-what-could-it-cost/",
+          "publishedOn": "2026-11-11T16:11:40.000Z",
+          "wordCount": 763,
+          "title": "It's One Banana Michael, What Could It Cost?",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-11-at-8.09.57-AM@2x.png"
+        },
+        {
+          "id": "6af481e60f04ce0001cb3cee",
+          "author": "Jason Koebler",
+          "description": "The All-In podcast contemplates the \"ornery mood\" of America's \"bottom half of non-equity holders.\"",
+          "link": "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
+          "publishedOn": "2026-11-11T15:12:05.000Z",
+          "wordCount": 1411,
+          "title": "Silicon Valley Podcast Hosts Try to Understand Why Regular People Are Mad",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-11-at-6.57.34-AM@2x.png"
+        },
         {
           "id": "6af329395e69340001b938e0",
           "author": "Jason Koebler",
@@ -3225,6 +3275,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3323/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3323/",
+          "publishedOn": "2026-11-11T05:00:00.000Z",
+          "wordCount": 180,
+          "title": "Meteor Fear",
+          "imageUrl": "https://imgs.xkcd.com/comics/meteor_fear_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3322/",
           "author": null,
           "description": "",
@@ -3593,16 +3653,6 @@
           "wordCount": 192,
           "title": "Particle Physics Equipment",
           "imageUrl": "https://imgs.xkcd.com/comics/particle_physics_equipment_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3285/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3285/",
-          "publishedOn": "2026-08-14T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Accretionary Arc",
-          "imageUrl": "https://imgs.xkcd.com/comics/accretionary_arc_2x.png"
         }
       ]
     },
@@ -10054,6 +10104,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/october-2026-atrocities-1354-1437",
+          "author": "Emily Greenberg and Andrew Belfry",
+          "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
+          "link": "https://www.mcsweeneys.net/articles/october-2026-atrocities-1354-1437",
+          "publishedOn": "2026-11-11T17:30:00.000Z",
+          "wordCount": 11315,
+          "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: October 2026:  Atrocities 1354-1437",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/ez3zjr53ovw0hz94vyfzaga07g0a"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/yossarian-from-catch-22-calls-the-va",
           "author": "Sloan Green",
           "description": "Thank you for calling the US Department of Veterans Affairs. To help us better serve you, please choose from the following options:\n If you are calling about an existing claim, press or say “one.”\n If you are calling about a new claim, press or say “two.”\n If you are convinced everyone is trying to kill you and it is making you go crazy, press or say “three.”\n Three.\n Thank you. The mental health of our veterans is one of the VA’s top priorities, and we want you to know that we are here to help. Currently, you are the forty-seventh caller in line, and your wait time will be approximately five hours. Is that okay? Please respond, “yes” or “no.”\n What?! No! I’m not holding for five hours.\n Congratulations. Based on your response, we have determined that you are not crazy. Only a crazy person…",
@@ -11532,16 +11592,6 @@
           "wordCount": 3112,
           "title": "It’s ICE—We’re Rebranding and Jazz-Handing With Our Sizzling New INCEL™ G.L.O.V.E.S.",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zhnm4avdfwr00hyv1jou1wynviog"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/a-field-guide-to-the-inspirational-people-you-meet-after-having-a-disabled-child",
-          "author": "Anaïs Godard",
-          "description": "Congratulations. Your child has received a diagnosis. You have now entered one of Southern California’s most biodiverse ecosystems.\n While these remarkable creatures can be found throughout the region, they thrive in particularly fertile habitats: Erewhon checkout lines, adaptive playgrounds, Pilates studios, pediatric waiting rooms with aquariums no one cleans, and anywhere within a three-mile radius of Silver Lake.\n Remain perfectly still. Direct eye contact may trigger unsolicited advice or a referral to an energy healer.\n Miraculum anecdotalis\n (commonly known as the Miracle Hunter)\n The Miracle Hunter can detect the phrase “my daughter is autistic” from over forty feet away. Watch as it slowly pivots its entire body toward the conversation. It has a story. It always has one. Usually s…",
-          "link": "https://www.mcsweeneys.net/articles/a-field-guide-to-the-inspirational-people-you-meet-after-having-a-disabled-child",
-          "publishedOn": "2026-08-14T12:00:00.000Z",
-          "wordCount": 3383,
-          "title": "A Field Guide to the Inspirational People You Meet After Having a Disabled Child",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/97aenu2p4hr3igio6h65o0kkrras"
         }
       ]
     },
@@ -11550,6 +11600,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112531 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to evaluate Medicare beneficiaries' requests for certain procedures.\nEFF sued for records on WISeR, seeking badly needed transparency about Medicare's AI experiment. In our latest EFFector newsletter, we're talking about what happens when the government outsources treatment approval to private AI companies—without sufficient transparency, testing, or legal limits.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers unconstitutional digital dragnets, a post office surveillance scheme, and what EFF uncovered about Medicare's AI experiment.\n\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time we're talking to EFF's Lena Cohen about WISeR records documenting improper denials, operational chaos, and lengthy delays that have left patients waiting in pain. You can find the episode and subscribe on your podcast platform of choice:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Fdd676393-5a53-4517-b42b-6fef4f0f0052%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to protect your right to digital privacy? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
+          "link": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+          "publishedOn": "2026-11-11T18:32:37.000Z",
+          "wordCount": 775,
+          "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "78242"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
+        },
         {
           "id": "112525 at https://www.eff.org",
           "author": "Andrew Crocker",
