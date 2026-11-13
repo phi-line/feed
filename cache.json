@@ -713,6 +713,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6af73eb02705420001161545",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss getting inspired and how things get prioritized.",
+          "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
+          "publishedOn": "2026-11-13T17:28:17.000Z",
+          "wordCount": 1045,
+          "title": "Behind the Blog: Priorities, Priorities",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/nl-11.13-1.png"
+        },
+        {
+          "id": "6af70c392705420001160de1",
+          "author": "Samantha Cole",
+          "description": "All those Malfoid memes meant nothing?",
+          "link": "https://www.404media.co/podcast-election-fallout/",
+          "publishedOn": "2026-11-13T15:38:09.000Z",
+          "wordCount": 994,
+          "title": "Podcast: Election Fallout",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/maxresdefault--1-.jpg"
+        },
+        {
           "id": "6af5e980270542000112d8d7",
           "author": "Samantha Cole",
           "description": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
@@ -2760,6 +2780,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8410932",
+          "author": "Josh Pauzé",
+          "description": "David Brouillette’s fatal shooting of a Colombian migrant raises more questions about a rapidly expanding agency’s vetting process.",
+          "link": "https://reason.com/2026/11/13/maine-ice-officer-who-killed-a-man-had-a-past-full-of-red-flags/",
+          "publishedOn": "2026-11-13T21:00:28.000Z",
+          "wordCount": null,
+          "title": "Maine ICE Officer Who Killed a Man Had a Past Full of Red Flags",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8410747",
           "author": "Billy Binion",
           "description": "Peanut's killing became a symbol of what happens when government policy is controlled by a busybody spirit. His owner's detention offers a rather different illustration.",
@@ -3318,6 +3349,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3324/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3324/",
+          "publishedOn": "2026-11-13T05:00:00.000Z",
+          "wordCount": 182,
+          "title": "Ultimate Movie Series",
+          "imageUrl": "https://imgs.xkcd.com/comics/ultimate_movie_series_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3323/",
           "author": null,
           "description": "",
@@ -3732,6 +3773,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy",
+          "author": "Nathan Gardels",
+          "description": "The post Serbia’s Experiment: Combining Democracy & Meritocracy appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy",
+          "publishedOn": "2026-11-13T17:50:07.000Z",
+          "wordCount": 3081,
+          "title": "Serbia’s Experiment: Combining Democracy & Meritocracy",
+          "imageUrl": "https://noemamag.imgix.net/2026/11/Serbia_Color_V2-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=be81d122b3050c7ff1ab90b23ef55c08"
+        },
+        {
           "id": "https://www.noemamag.com/a-generation-revolts",
           "author": "John Last",
           "description": "The post A Generation Revolts appeared first on NOEMA.",
@@ -4078,6 +4129,56 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566280",
+          "author": "Jake Coyle",
+          "description": "Siân Heder's follow-up to the Oscar-winning \"Coda\" chronicles the life of disability rights pioneer Judy Heumann, who died at the age of 75 in 2023 while Heder was developing the movie with her. It premieres Friday on Apple TV.",
+          "link": "https://www.berkeleyside.org/2026/11/13/judy-heumann-being-heumann",
+          "publishedOn": "2026-11-13T22:40:52.000Z",
+          "wordCount": 9063,
+          "title": "In ‘Being Heumann,’ a best picture-winning filmmaker channels the spirit of a Berkeley disability rights icon",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Being_Heumann_Photo_0102-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566259",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently closed in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/11/13/lao-garden-fosters-freeze-clementines-closed",
+          "publishedOn": "2026-11-13T22:00:00.000Z",
+          "wordCount": 7999,
+          "title": "Lao Garden goes dark, and more East Bay restaurant closures",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/large-LaoGarden_EG_09.jpg?fit=1600%2C1067&ssl=1"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566254",
+          "author": "Skylla Mumana",
+          "description": "The Portland-born ice cream shop opened in Rockridge, and will feature familiar favorites, a Thanksgiving-themed menu and two exclusive flavors in collaboration with Berkeley’s Fra’Mani.",
+          "link": "https://www.berkeleyside.org/2026/11/13/salt-and-straw-ice-cream-oakland-rockridge-opening",
+          "publishedOn": "2026-11-13T20:00:00.000Z",
+          "wordCount": 8672,
+          "title": "The inside scoop on Salt & Straw’s first Oakland shop and its exclusive flavors",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/SaltandStrawEugeneOpening-560-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566198",
+          "author": "Ivi Kolasi, Halyna Sendoun, Lindsay Nofelt and Samantha Cooper",
+          "description": "The school district should make evidence-based changes to curriculum to close racial achievement gaps and expand advanced math pathways starting in middle school.",
+          "link": "https://www.berkeleyside.org/2026/11/13/opinion-berkeleys-math-curriculum-should-emphasize-explicit-instruction-and-advanced-pathways",
+          "publishedOn": "2026-11-13T16:11:09.000Z",
+          "wordCount": 8221,
+          "title": "Opinion: Berkeley’s math curriculum should emphasize explicit instruction and advanced pathways",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/08/berkeleyside-opinion-featured-image-blue.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566227",
+          "author": "Alex N. Gecan",
+          "description": "Officials have warned motorists to move cars ahead of parking restrictions, and say everyone moving through Berkeley can expect delays.",
+          "link": "https://www.berkeleyside.org/2026/11/13/2026-berkeley-half-marathon-10k-5k-road-closures",
+          "publishedOn": "2026-11-13T15:00:00.000Z",
+          "wordCount": 8236,
+          "title": "Berkeley Half Marathon will bring road closures Sunday",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/11/DSCF1277.jpg?fit=800%2C533&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566136",
           "author": "Karina Ioffee",
@@ -7194,6 +7295,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/3E3QSmMqKaQ",
+          "author": null,
+          "description": "What sets these nominations for the Latin Grammys apart from previous years? On the red carpet, Alt.Latino’s Anamaria Sayre asks artists what they think.⁠",
+          "link": "https://www.youtube.com/shorts/3E3QSmMqKaQ",
+          "publishedOn": "2026-11-13T21:03:52.000Z",
+          "wordCount": 3323,
+          "title": "What sets these nominations for the Latin Grammys apart from previous years?",
+          "imageUrl": "https://i.ytimg.com/vi/3E3QSmMqKaQ/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDE23VrwZVM-Sen0XutRgOXz85Oyw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/O_6MOksn9Pg",
+          "author": null,
+          "description": "A rising vanguard of Black radical voices are injecting new blood — and intersectional political analysis — into rap’s reigning manosphere of podcast bros. N...",
+          "link": "https://www.youtube.com/shorts/O_6MOksn9Pg",
+          "publishedOn": "2026-11-13T18:31:20.000Z",
+          "wordCount": 4224,
+          "title": "Video essayists like Vic Mensa, Deanté Kyle and F.D Signifier are worth watching.⁠",
+          "imageUrl": "https://i.ytimg.com/vi/O_6MOksn9Pg/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCmaVCN9XIupG1JQqsttqmxOydlbg"
+        },
+        {
           "id": "https://www.youtube.com/shorts/U-F9eWafig4",
           "author": null,
           "description": "Alt.Latino’s Anamaria Sayre shares her predictions for the 2026 Latin Grammys. Will the awards show get political tonight?Host: @anamaria.sayre • Anamaria Sa...",
@@ -10192,6 +10313,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-love-that-youre-fleeing-city-life-for-a-sleepy-coastal-town-but-this-one-is-mine",
+          "author": "Tim Sniffen",
+          "description": "Hey, stranger. I couldn’t help but notice you walking along the path of crushed oyster shells by the shore, gazing wistfully at the lighthouse, and I wondered if we could chat for a second. Is there a chance you’re thinking of leaving city life behind to reinvent yourself in this misty hidden gem of a town?\n Yeah, I thought so. That is such a charming instinct, and I so want that to happen for you, except I did it six months ago.\n You heard me. Harbor Cove is mine.\n Spare me the look of surprise. You think you’re the first person to scroll north on Zillow and get lost in the possibilities? I was standing right where you are when I swore to build a new life for myself, one that involved foghorns, cable-knit sweaters, and knowing the name of the mail carrier. And with patience, planning, and…",
+          "link": "https://www.mcsweeneys.net/articles/i-love-that-youre-fleeing-city-life-for-a-sleepy-coastal-town-but-this-one-is-mine",
+          "publishedOn": "2026-11-13T18:50:00.000Z",
+          "wordCount": 3018,
+          "title": "I Love That You’re Fleeing City Life for a Sleepy Coastal Town, But This One Is Mine",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/k8y2nuiujb2lsnoabb2hjo0ny1nt"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-sarah-walt-weavers-graphic-memoir-tumbleweed-funny-stories-about-serious-situations",
+          "author": "Sarah Walt Weaver",
+          "description": "With over 400 drawings and lots of humor, Sarah Walt Weaver’s  Tumbleweed: Funny Stories about Serious Situations is a poignant story collection that explores the weirdness of being alive after someone you love dies—and the deeply human need to find meaning, connection, and sometimes just a bathroom.\n Beyond death, the book weaves together other absurd situations:\n  \nYou want to be Superman, but your glasses make you Clark Kent.\n Your mom performs an exorcism on your Harry Potter books.\n You find your sister’s diary and accidentally read the whole thing.\n  \nTumbleweed is for readers who want to laugh and feel. It’s for readers who seek stories with unflinching heart: emotionally raw, hilariously embarrassing, and surprisingly moving. We’re happy to offer an excerpt from the book, which is …",
+          "link": "https://www.mcsweeneys.net/articles/an-excerpt-from-sarah-walt-weavers-graphic-memoir-tumbleweed-funny-stories-about-serious-situations",
+          "publishedOn": "2026-11-13T16:30:00.000Z",
+          "wordCount": 2910,
+          "title": "An Excerpt from Sarah Walt Weaver’s Graphic Memoir, Tumbleweed: Funny Stories about Serious Situations",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/69daddimyw408dawu5e2ofz2vewv"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/explanations-for-all-eighteen-band-aids-my-four-year-old-is-currently-wearing",
           "author": "Eddie Small",
           "description": "Stars, Left Calf: We walked by a pointy stick the other day, and while it did not make any actual physical contact with my four-year-old, the knowledge that it could have was traumatic enough for her to demand a Band-Aid immediately.\n Elsa, Right Knee: She likes Elsa.\n Kangaroos, Right Elbow: She allegedly got some type of boo-boo here about five weeks ago, and we have since decided that it is better to just let the Band-Aid live there permanently after all seven attempts to rip it off were met with panicked claims that doing so would hurt way too much.\n Rainbows, Left Elbow: Rachel had a rainbow Band-Aid on her left elbow at preschool this morning, so our four-year-old needed one too. And honestly, I don’t blame her. Rachel is, like, intimidatingly cool.\n Dinosaurs, chin: ???\n Elsa, Left …",
@@ -11728,6 +11869,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112537 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "Privacy, which companies were once happy to claim was all about personal choice, is now primed to affect everyone around you even more than it already did.\nMeta and Google’s smart glasses can record anything the owner is looking at or use artificial intelligence to describe it. Apple’s* Audio Intelligence feature turns every Apple Watch into a transcription machine that records or summarizes your day. Amazon’s Bee devices take that a step further and can record and transcribe everything. Dozens of other companies are introducing pendants, rings, and other products designed to record, transcribe, or summarize everything we say and do all day long.\nPrivacy has always been a team sport. The actions you take with communication apps, collaborative software, or your cloud backup solutions, have …",
+          "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+          "publishedOn": "2026-11-13T21:29:31.000Z",
+          "wordCount": 2507,
+          "title": "Tech Companies Are Trying to Shift the Entire Concept of Privacy (Again)",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "23559"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png"
+        },
         {
           "id": "112531 at https://www.eff.org",
           "author": "Hudson Hongo",
