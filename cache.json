@@ -541,16 +541,6 @@
           "wordCount": 10234,
           "title": "Are We Thinking Correctly About AI Intelligence?",
           "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=165698",
-          "author": "Ben Brubaker",
-          "description": "No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            \nThe post Building a Quantum Computer, One Fragile Qubit at a Time first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
-          "publishedOn": "2026-08-19T14:16:03.000Z",
-          "wordCount": 2798,
-          "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2056/08/IBMs-quantum-computer-cr-Graham-Carlow-Social.jpg"
         }
       ]
     },
@@ -702,6 +692,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6afc6bb950a7a20001241019",
+          "author": "Samantha Cole",
+          "description": "Birdwatching in GTA VI, the DOJ using Pangram, and more.",
+          "link": "https://www.404media.co/defense-by-chatgpt/",
+          "publishedOn": "2026-11-17T15:26:46.000Z",
+          "wordCount": 1243,
+          "title": "'Defense by ChatGPT'",
+          "imageUrl": "https://images.unsplash.com/photo-1593115057322-e94b77572f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGp1c3RpY2V8ZW58MHx8fHwxNzk0OTI4NTY4fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6afc6e0f50a7a200012410b8",
+          "author": "Jason Koebler",
+          "description": "\"This case has turned into defense by ChatGPT.\"",
+          "link": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
+          "publishedOn": "2026-11-17T15:14:27.000Z",
+          "wordCount": 2159,
+          "title": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+        },
+        {
+          "id": "6af79eda2705420001198468",
+          "author": "Matthew Gault",
+          "description": "The sprawling four hour long documentary is weighed down by an AI Elon and pointless video game sequences.",
+          "link": "https://www.404media.co/the-ai-in-musk-is-cringe/",
+          "publishedOn": "2026-11-17T14:09:37.000Z",
+          "wordCount": 1765,
+          "title": "The AI in ‘Musk’ Is Cringe",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Screenshot-2026-11-12-122710-1.png"
+        },
         {
           "id": "6afb1d73539e590001fa14be",
           "author": "Jason Koebler",
@@ -2701,36 +2721,6 @@
           "wordCount": 1439,
           "title": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
           "imageUrl": "https://images.unsplash.com/photo-1658870901055-665c9621d7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRyYW5zZm9ybWVyfGVufDB8fHx8MTc4NzIzMTUwN3ww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6a860894ec31a300018d536d",
-          "author": "Joseph Cox",
-          "description": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
-          "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-          "publishedOn": "2026-08-19T20:06:22.000Z",
-          "wordCount": 1155,
-          "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/amazonbooks.png"
-        },
-        {
-          "id": "6a85cc28a92fbd00017ed344",
-          "author": "Becky Ferreira",
-          "description": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future human exploration.",
-          "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
-          "publishedOn": "2026-08-19T18:00:10.000Z",
-          "wordCount": 1712,
-          "title": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/image1.png"
-        },
-        {
-          "id": "6a85be83a92fbd00017ecddf",
-          "author": "Jason Koebler",
-          "description": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
-          "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
-          "publishedOn": "2026-08-19T17:14:58.000Z",
-          "wordCount": 2676,
-          "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-19-at-09.29.32@2x.png"
         }
       ]
     },
@@ -3051,17 +3041,6 @@
           "publishedOn": "2026-08-21T16:15:25.000Z",
           "wordCount": null,
           "title": "The U.S. Is Sending Deportees to Countries They've Never Called Home",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8398096",
-          "author": "Matthew Petti",
-          "description": "Newly released FOIA files reveal a back channel between ICE's office in Israel, the Qatari government, and the Islamic Republic.",
-          "link": "https://reason.com/2026/08/19/ice-handed-over-specific-iranians-at-the-islamic-republics-request/",
-          "publishedOn": "2026-08-19T20:15:06.000Z",
-          "wordCount": null,
-          "title": "ICE Handed Over Specific Iranians at the Islamic Republic's Request",
           "itunes": {},
           "imageUrl": null
         }
@@ -4079,6 +4058,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566219",
+          "author": "Nathan Dalton",
+          "description": "Two local high schoolers started a nonprofit that assembles menstrual hygiene care kits at the library. Another new nonprofit wants pet shops to stop selling betta fish in cups. Also: A custom frame shop opens on Fourth Street.",
+          "link": "https://www.berkeleyside.org/2026/11/17/betta-world-for-bettas-care-for-her-framebridge-workbits",
+          "publishedOn": "2026-11-17T15:00:00.000Z",
+          "wordCount": 9721,
+          "title": "Shop Talk: New nonprofits fight for menstrual equity and against fish in cups; tinkering hub for neurodivergent kids in South Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/image-25.png?fit=800%2C600&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566406",
           "author": "Alex N. Gecan",
@@ -7008,56 +6997,6 @@
           "wordCount": 7904,
           "title": "Around Berkeley: Shakespeare in the park, mural art talk, Canto mahjong",
           "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Midsummer_Nights_Dream-1.png?fit=2000%2C1500&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561508",
-          "author": "Vanessa Arredondo",
-          "description": "Berkeley Unified and other districts are increasingly using “me too” contract clauses tying executive salaries to staff pay raises, as a way to retain top talent.",
-          "link": "https://www.berkeleyside.org/2026/08/19/berkeley-unified-executive-salaries-bay-area-superintendents",
-          "publishedOn": "2026-08-19T23:14:44.000Z",
-          "wordCount": 8497,
-          "title": "In a tight budget year, BUSD’s superintendent joined teachers in getting a pay raise",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2023/06/20230606-213647.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561302",
-          "author": "Nico Savidge",
-          "description": "Update: One of the candidates vying to represent City Council District 8 has dropped out of the race.",
-          "link": "https://www.berkeleyside.org/2026/08/19/berkeley-election-candidates-city-council-rent-board-school-board",
-          "publishedOn": "2026-08-19T23:13:29.000Z",
-          "wordCount": 7754,
-          "title": "Election 2026: Who’s running for Berkeley City Council, school board and more",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/04/Natera_CityCouncilMeeting-MigrationRally_250121_08.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561443",
-          "author": "Myron Caringal",
-          "description": "After a reader sent Berkeleyside photos of his front yard corn, we put a call out to see what else is being grown around town this summer. You all produced.",
-          "link": "https://www.berkeleyside.org/2026/08/19/from-green-apple-cucumber-to-red-kuri-squash-heres-what-berkeley-residents-are-growing-in-their-gardens",
-          "publishedOn": "2026-08-19T22:43:55.000Z",
-          "wordCount": 7265,
-          "title": "From green apple cucumber to red kuri squash, here’s what Berkeley residents are growing in their gardens",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/unnamed.png"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561458",
-          "author": "Skylla Mumana",
-          "description": "At Studio Estepan, owner Estevan Silva brings Michelin technique and global flavors to his part-time West Oakland bakery.",
-          "link": "https://www.berkeleyside.org/2026/08/19/studio-estepan-west-oakland-bread-pastries",
-          "publishedOn": "2026-08-19T19:00:00.000Z",
-          "wordCount": 8226,
-          "title": "Follow the sweet aromas and long lines to Oakland’s latest buzzy bakery",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/20260725_StudioEstepan_EG_007-4.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561102",
-          "author": "Joanne Furio",
-          "description": "Jeremy Lent describes the consequences of a society stretched to its limits and what can replace it. Also: “Reckonings” by Thomas Farber, and a posthumous memoir of LSD and erotic encounters at Esalen by Cal professor Clare Cooper Marcus.",
-          "link": "https://www.berkeleyside.org/2026/08/19/jeremy-lent-ecocivilization-reckonings-thomas-farber-my-deepest-desire-tamiki-hara-groundbreaking-clare-cooper-marcus-smolder-colleen-morton-busch",
-          "publishedOn": "2026-08-19T14:00:00.000Z",
-          "wordCount": 9633,
-          "title": "Berkeley author maps out an ‘ecocivilization’ to avert climate and economic catastrophe",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Ecocivilization.png?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -10293,6 +10232,26 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-david-shields-new-book-failure-is-the-only-subject-on-documentary-film-and-a-life-coming-undone",
+          "author": "David Shields",
+          "description": "In Failure Is the Only Subject, we encounter David Shields—memoirist, novelist, and filmmaker—undergoing psychoanalysis in the aftermath of divorce and in the throes of an addictive new relationship. Struggling to piece his life back together, Shields watches (and rewatches) documentaries about human disappointment by such groundbreaking directors as Werner Herzog, Errol Morris, Ross McElwee, Kitty Green, Adam Curtis, and Michael Winterbottom. Contemplating the filmmakers’ choices, Shields asks painful questions about his life, any life, life itself. What happens when the mask falls off and we come face-to-face with the abyss within? Is there a way to bear such harrowing knowledge—about ourselves and the world? \n We’re thrilled to share an excerpt of the opening chapter of Failure Is the O…",
+          "link": "https://www.mcsweeneys.net/articles/an-excerpt-from-david-shields-new-book-failure-is-the-only-subject-on-documentary-film-and-a-life-coming-undone",
+          "publishedOn": "2026-11-17T14:00:00.000Z",
+          "wordCount": 4648,
+          "title": "An Excerpt from David Shields’ New Book, Failure Is the Only Subject: On Documentary Film and a Life Coming Undone",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/pjgopoehfayfh4nggybt2z7kp2h6"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/please-buy-teslas-cybercab-which-is-cool-not-stupid",
+          "author": "Tyler Gooch",
+          "description": "“Tesla is inviting some people to buy a Cybercab ‘for personal use’—but read the fine print.” — The Verge\n - - -\nWell, well, well, you nipwhistles did it. You killed the Cybertruck world’s first car designed for divorcées, by divorcées. Ordinarily, if I got mildly frustrating news like this, I would fly into a rage, throw furniture, and scream at everyone in my life—which, for the record, had nothing to do with my divorce.\n Lucky for you weinerheads, Tesla saved your ass from my rage by announcing they are replacing the epically popular and, actually, too successful Cybertruck with an equally cool and not stupid vehicle: the Cybercab.\n What is the Cybercab? Well, it’s an absolutely bitchin’ new coupe that completely DRIVES ITSELF. It has two seats, which is plenty, way more than I, a guy w…",
+          "link": "https://www.mcsweeneys.net/articles/please-buy-teslas-cybercab-which-is-cool-not-stupid",
+          "publishedOn": "2026-11-17T13:00:00.000Z",
+          "wordCount": 3234,
+          "title": "Please Buy Tesla’s Cybercab, Which Is Cool, Not Stupid",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nxinx3qqradvc6dw8uk23ngnhenk"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/excerpts-from-jensen-huangs-unpublished-spy-novel-the-spy-who-railed-me",
           "author": "Juliana Gray",
           "description": "“As the Jensen Huang saga suggests, you can be a really smart cookie pioneering the development of humanity’s most advanced technology, but it won’t stop you from falling prey to the world’s oldest espionage technique.” — Newsweek\n - - -\nThe dark-haired beauty was waiting for him at the bar, wearing a form-fitting pink dress and designer heels. “Mr. Zhang,” she purred. “We meet at last.”\n Jamesen took her soft hand in his and held her gaze. He could tell she wanted more than a professional handshake.\n “Two of your most expensive whiskeys,” he told the bartender.\n She uncrossed her legs and gazed at him longingly. “I love your leather jacket,” she cooed. “It’s very cool and age-appropriate.”\n “And I love the name of your tech company,” he replied smoothly. “Megaspeed. Very modern, and not a…",
@@ -11821,16 +11780,6 @@
           "wordCount": 2712,
           "title": "Work is Not Your Family, but AI is Your Friend",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/uy2x1v8dgqdajpaj5b4qczy2nlg2"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/professor-sisyphus-begins-a-new-semester",
-          "author": "Talia Argondezzi",
-          "description": "On the first day of the semester, Professor Sisyphus made a to-do list. As he completed items on the to-do list, he kept adding new ones at about twice the rate he crossed off items.\n Professor Sisyphus graded the papers his students had submitted. The day he handed back the graded papers, the next paper was due.\n Professor Sisyphus joined the committee that was drafting the new strategic plan. They held planning meetings. Then they held listening sessions. Then they drafted a draft strategic plan. Then they held feedback meetings on the draft strategic plan. Then they made revisions to the draft based on the draft strategic plan feedback meetings. On the day the administration released the new strategic plan, which didn’t reflect the committee’s work, they called for volunteers to form a …",
-          "link": "https://www.mcsweeneys.net/articles/professor-sisyphus-begins-a-new-semester",
-          "publishedOn": "2026-08-19T16:58:00.000Z",
-          "wordCount": 2950,
-          "title": "Professor Sisyphus Begins a New Semester",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/baogt0tabw3e3euhzyvbs70hzbci"
         }
       ]
     },
@@ -11839,6 +11788,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112546 at https://www.eff.org",
+          "author": "Karen Gullo",
+          "description": "EFF and 27 other human rights organizations called on the European Commission today to retract a dangerous proposal granting its border agency Frontex to request that national authorities issue takedown orders for social media content and giving it “trusted flagger” status under the Digital Services Act (DSA), the EU regulation governing online platforms and content moderation in the region.\nThe extraordinarily improper proposal not only disregards the provisions of the DSA but also places a mechanism of enforcement overreach in the hands of a law enforcement agency that has failed to safeguard people against serious human rights violations at EU borders.\nUnder the proposal, Frontex has the power to “monitor publicly accessible social media content, detect developments relevant to external…",
+          "link": "https://www.eff.org/deeplinks/2026/11/european-commission-plan-give-frontex-trusted-flagger-status-threat-free-speech",
+          "publishedOn": "2026-11-17T11:33:26.000Z",
+          "wordCount": 1750,
+          "title": "European Commission Plan to Give Frontex Trusted Flagger Status Is A Threat to Free Speech",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/eu-flag-11.png",
+            "alt": "EU-flag-circuits",
+            "type": "image/png",
+            "length": "48177"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/eu-flag-11.png"
+        },
         {
           "id": "112543 at https://www.eff.org",
           "author": "India McKinney",
@@ -13506,38 +13471,6 @@
             "length": "46142"
           },
           "imageUrl": "https://www.eff.org/files/banner_library/brazil-platform-2.png"
-        },
-        {
-          "id": "112269 at https://www.eff.org",
-          "author": "Mario Trujillo",
-          "description": "In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when the agency tried to unmask anonymous users who tracked immigration activities or criticized the government.\n As ICE engages in a pattern of illegal and chilling investigations, any resistance is welcome. But social media companies can do more. When companies receive these unlawful subpoenas, they should be clear with the public that they will not hand over the data unless a court compels them to do so. In addition, companies themselves can take the government to court to challenge these unlawful subpoenas on behalf of their users.\nICE has sent hundreds of subpoenas to large technology companies like Google, Meta, and Reddit.\nPublicly challeng…",
-          "link": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
-          "publishedOn": "2026-08-19T22:23:49.000Z",
-          "wordCount": 2074,
-          "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/social-media-2026-2.gif",
-            "alt": "",
-            "type": "image/gif",
-            "length": "3467306"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/social-media-2026-2.gif"
-        },
-        {
-          "id": "112267 at https://www.eff.org",
-          "author": "Hudson Hongo",
-          "description": "Your location isn't just a pin on a map—it can expose some of the most intimate details about your life. The value of this information to advertisers and others has turned the location data business into a multi-billion dollar industry. In our latest EFFector newsletter, we're covering a new EFF report on how ad libraries encourage apps to leak user location data—potentially without app developers themselves even realizing it.\nJOIN OUR NEWSLETTER\nFor over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers what recently announced Flock reforms actually do, privacy-invasive legislation advancing in the Senate, and an EFF investigation into mobile ad software.\n\nPrefer to listen in? EFFector is now available on all major podcast platforms. This time, we're covering EFF's new report on mobile ad libraries and chatting with EFF Executive Director Nicole Ozer about how digital rights have become fundamental to our lives. You can find the episode and subscribe on your podcast platform of choice:\n\n  \n%3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Fbaf87477-9c26-4b51-8f00-b0465a2606d1%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E\nPrivacy info.\n    This embed will serve content from simplecast.com\n\n  \n   \nWant to protect your right to digital privacy? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!",
-          "link": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
-          "publishedOn": "2026-08-19T16:35:30.000Z",
-          "wordCount": 774,
-          "title": "📍 The Sneaky Code Tracking App Users | EFFector 38.15",
-          "enclosure": {
-            "url": "https://www.eff.org/files/banner_library/effector-green-web.png",
-            "alt": "",
-            "type": "image/png",
-            "length": "78242"
-          },
-          "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png"
         }
       ]
     },
