@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=169228",
+          "author": "Charlie Wood",
+          "description": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.              \nThe post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+          "publishedOn": "2026-11-16T15:15:33.000Z",
+          "wordCount": 3671,
+          "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168928",
           "author": "Steven Strogatz and Janna Levin",
           "description": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.            \nThe post Can Network Science Transform Health and Nutrition? first appeared on Quanta Magazine",
@@ -692,6 +702,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6afb1d73539e590001fa14be",
+          "author": "Jason Koebler",
+          "description": "\"Any human would agree with me that there’s something clearly wrong here.\"",
+          "link": "https://www.404media.co/ai-powered-copyright-hell/",
+          "publishedOn": "2026-11-16T15:25:10.000Z",
+          "wordCount": 819,
+          "title": "AI-Powered Copyright Hell",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/image.jpg"
+        },
+        {
+          "id": "6af63a78270542000115f27e",
+          "author": "Matthew Gault",
+          "description": "‘I can’t get in touch with a human being.’ A company founded last year said it owns the copyright on an artist's five year old recording.",
+          "link": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
+          "publishedOn": "2026-11-16T14:58:28.000Z",
+          "wordCount": 2822,
+          "title": "How an AI Content Mill Put a Real Musician Through Copyright Hell",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/photo-1762340273700-70c17506e578.jpeg"
+        },
         {
           "id": "6af78f432705420001198157",
           "author": "Dave Maass",
@@ -2710,6 +2740,17 @@
       "siteUrl": "https://reason.com/tag/ice/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8411068",
+          "author": "Elizabeth Nolan Brown",
+          "description": "Yeah, that seems like a First Amendment violation, holds a federal judge.",
+          "link": "https://reason.com/2026/11/16/border-agents-seized-and-copied-an-immigration-policy-critics-phone-without-a-warrant/",
+          "publishedOn": "2026-11-16T16:33:45.000Z",
+          "wordCount": null,
+          "title": "Border Agents Seized and Copied an Immigration Policy Critic's Phone Without a Warrant",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?p=8410932",
           "author": "Josh Pauzé",
           "description": "David Brouillette’s fatal shooting of a Colombian migrant raises more questions about a rapidly expanding agency’s vetting process.",
@@ -3023,17 +3064,6 @@
           "title": "ICE Handed Over Specific Iranians at the Islamic Republic's Request",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?p=8397878",
-          "author": "Jacob Sullum",
-          "description": "The agency’s attempt to intimidate David Streever is at the center of a First Amendment case.",
-          "link": "https://reason.com/2026/08/19/ice-admits-it-investigated-a-critic-based-on-constitutionally-protected-speech/",
-          "publishedOn": "2026-08-19T04:01:47.000Z",
-          "wordCount": null,
-          "title": "ICE Admits It Investigated a Critic Based on Constitutionally Protected Speech",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3278,6 +3308,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3325/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3325/",
+          "publishedOn": "2026-11-16T05:00:00.000Z",
+          "wordCount": 178,
+          "title": "Light-Day",
+          "imageUrl": "https://imgs.xkcd.com/comics/light_day_2x.png"
+        },
         {
           "id": "https://xkcd.com/3324/",
           "author": null,
@@ -3647,16 +3687,6 @@
           "wordCount": 180,
           "title": "Archery Feat",
           "imageUrl": "https://imgs.xkcd.com/comics/archery_feat_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3287/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3287/",
-          "publishedOn": "2026-08-19T04:00:00.000Z",
-          "wordCount": 188,
-          "title": "Perseids",
-          "imageUrl": "https://imgs.xkcd.com/comics/perseids_2x.png"
         }
       ]
     },
@@ -4049,6 +4079,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566406",
+          "author": "Alex N. Gecan",
+          "description": "The Bonita House program was “the last stop between severe mental illness and homelessness,” one client’s family said.",
+          "link": "https://www.berkeleyside.org/2026/11/16/bonita-house-inc-alameda-county-behavioral-health-dual-diagnosis-closure",
+          "publishedOn": "2026-11-17T00:19:41.000Z",
+          "wordCount": 9025,
+          "title": "Nonprofit closes Berkeley mental health and addiction treatment program",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/webimage-Bonita-House-t5ORRK.jpg.jpeg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566369",
+          "author": "Skylla Mumana",
+          "description": "Our Nosh reporter breaks down the crackdown on ultraprocessed foods in schools, plus wine-and-parenting talks in Berkeley and other food news.",
+          "link": "https://www.berkeleyside.org/2026/11/16/california-ultraprocessed-school-lunch-study",
+          "publishedOn": "2026-11-16T22:00:00.000Z",
+          "wordCount": 8845,
+          "title": "The end of ultraprocessed school lunches, and a standout sandwich in Oakland Chinatown",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/school_lunches_091124_mtierney115.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566379",
+          "author": "Calliope Arkilic",
+          "description": "Upstairs has reopened above Snail Bar, offering a cozy new place to gather over coffee and food.",
+          "link": "https://www.berkeleyside.org/2026/11/16/upstairs-snail-bar-temescal-cafe",
+          "publishedOn": "2026-11-16T20:10:23.000Z",
+          "wordCount": 8424,
+          "title": "Get to know the new cafe tucked above Temescal’s popular natural wine bar",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/large-Nosh_UpstairsCafe-4.jpg"
+        },
+        {
+          "id": "https://oaklandside.org/?p=483886",
+          "author": "Jose Fermoso",
+          "description": "AC Transit and BART will start receiving tens of millions of dollars by next summer.",
+          "link": "https://www.berkeleyside.org/2026/11/16/measure-rtm-passed-what-now-bart-ac-transit",
+          "publishedOn": "2026-11-16T15:01:00.000Z",
+          "wordCount": 10447,
+          "title": "Measure RTM passed at a dire moment for Bay Area transit. Now what?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/RNI-Films-IMG-F71E14BB-1B8C-4C70-A795-45AC0775FA14-1-scaled-2.jpeg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566319",
           "author": "Nico Savidge",
@@ -7195,6 +7265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/uzg76uBakpI",
+          "author": null,
+          "description": "The nominations for the 69th annual Grammy Awards were announced and women artists across genres dominate the major categories. NPR Music’s Ann Powers explai...",
+          "link": "https://www.youtube.com/shorts/uzg76uBakpI",
+          "publishedOn": "2026-11-16T22:06:41.000Z",
+          "wordCount": 3329,
+          "title": "Women artists across genres dominate the major nomination categories of the Grammy Awards.",
+          "imageUrl": "https://i.ytimg.com/vi/uzg76uBakpI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDf_IqQbuccm8sSn6sedvuu2WaudA"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DZ4-X4T7qyw",
           "author": null,
           "description": "",
@@ -9899,6 +9979,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/?p=83500",
+          "author": "Jessica Hylton",
+          "description": "Looking for a fresh addition to your holiday cookie jar? Meet the best vegan chocolate crinkle cookies ever. Made in one bowl, they're so soft and tender in the center, with huge chocolate flavour. And that crinkled powdered sugar coating is just so pretty. Pour yourself a glass of almond milk and enjoy.",
+          "link": "https://jessicainthekitchen.com/chocolate-crinkle-cookies/",
+          "publishedOn": "2026-11-16T15:00:00.000Z",
+          "wordCount": 7837,
+          "title": "Chocolate Crinkle Cookies",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Vegan-Chocolate-Crinkle-Cookies-13.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=83370",
           "author": "Jessica Hylton",
           "description": "Corn tortillas fresh out of the pan? Say less. These 3-ingredient homemade tortillas are surprisingly easy to make and will single-handedly take your taco game to the next level with their authentic masa harina flavour and soft, pliable texture. Wrap 'em around your favourite filling, top with guac, and enjoy.",
@@ -10202,6 +10292,36 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/excerpts-from-jensen-huangs-unpublished-spy-novel-the-spy-who-railed-me",
+          "author": "Juliana Gray",
+          "description": "“As the Jensen Huang saga suggests, you can be a really smart cookie pioneering the development of humanity’s most advanced technology, but it won’t stop you from falling prey to the world’s oldest espionage technique.” — Newsweek\n - - -\nThe dark-haired beauty was waiting for him at the bar, wearing a form-fitting pink dress and designer heels. “Mr. Zhang,” she purred. “We meet at last.”\n Jamesen took her soft hand in his and held her gaze. He could tell she wanted more than a professional handshake.\n “Two of your most expensive whiskeys,” he told the bartender.\n She uncrossed her legs and gazed at him longingly. “I love your leather jacket,” she cooed. “It’s very cool and age-appropriate.”\n “And I love the name of your tech company,” he replied smoothly. “Megaspeed. Very modern, and not a…",
+          "link": "https://www.mcsweeneys.net/articles/excerpts-from-jensen-huangs-unpublished-spy-novel-the-spy-who-railed-me",
+          "publishedOn": "2026-11-17T00:25:00.000Z",
+          "wordCount": 3281,
+          "title": "Excerpts from  Jensen Huang’s  Unpublished Spy Novel,  The Spy Who Railed Me",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/fb8roa39oskcx4wp0s9d4n0f8h7s"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-only-way-to-fix-the-air-traffic-control-system-is-fifty-billion-dollars-worth-of-shady-backroom-deals",
+          "author": "Carlos Greaves",
+          "description": "“Air Space Intelligence INC PAC, which is associated with the contractor [Transportation Secretary Sean Duffy], announced in June would develop the Federal Aviation Administration’s new AI-powered air traffic management system, contributed $2,500 to the congressional campaign of [Duffy’s son-in-law] Michael Alfonso.” — Raw Story\n - - -\nWhen I, Secretary of Transportation Sean Duffy, took charge of the FAA’s air traffic control system, it was a mess—the system was so antiquated it literally ran on floppy disks. Revamping such complex and critical infrastructure is an enormously complicated undertaking with life-threatening ramifications. That’s why the only way we’ll ever overhaul our outdated air traffic control system is through an elaborate series of under-the-table agreements with my po…",
+          "link": "https://www.mcsweeneys.net/articles/the-only-way-to-fix-the-air-traffic-control-system-is-fifty-billion-dollars-worth-of-shady-backroom-deals",
+          "publishedOn": "2026-11-16T18:01:00.000Z",
+          "wordCount": 3113,
+          "title": "The Only Way to Fix the Air Traffic Control System Is Fifty Billion Dollars Worth of Shady Backroom Deals",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/nwy0pqgdkdc0iieek5uysdtl9lji"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/a-heads-up-from-a-mcsweeneys-representative-about-people-pretending-to-be-mcsweeneys-representatives",
+          "author": "McSweeney's",
+          "description": "Dear People on the Internet,\n It has come to our attention that some writers have received fawning emails about their work from people claiming to be McSweeney’s editors. The senders use the names of actual McSweeney’s editors and offer literary agent hookups, publishing deals, and other exciting pie-in-the-sky writing ventures.\n While we are fans of fawning emails, hookups, publishing, and pie, the emails are not from McSweeney’s editors.\n Should you get one of these missives, there are a few telltale scamming signs to look for:\n  \nThe sender’s email address ends in “@hotmail.com” or “@aol.com” or “@baconporn.tv.” (McSweeney’s editors and staff use official “@mcsweeneys.net” email addresses.)\n The sender requests monetary compensation of any kind, be it cash, crypto, Robux, or Simon gift cards.\n The sender writes in Finnish.\n The sender uses a cringy sign-off like “Keep being awesome,” which our humor editor, Chris Monks, says is the “worst thing” about this whole ordeal.\n  \nWe’re sorry for any consternation and disappointment this phishing enterprise has created. If you receive one of these emails, please don’t respond, and report the sender’s address to your provider’s security and privacy team.\n Keep being awesome Sincerely,\n McSweeney’s",
+          "link": "https://www.mcsweeneys.net/articles/a-heads-up-from-a-mcsweeneys-representative-about-people-pretending-to-be-mcsweeneys-representatives",
+          "publishedOn": "2026-11-16T17:00:00.000Z",
+          "wordCount": 2627,
+          "title": "A Heads-Up from a McSweeney’s Representative About People Pretending to Be McSweeney’s Representatives",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/7gdvgvsjyh7zj9k8dvppqql2782r"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/sex-diary-a-sea-captain-pines-for-the-one-that-got-away",
           "author": "James Folta",
@@ -11711,16 +11831,6 @@
           "wordCount": 2950,
           "title": "Professor Sisyphus Begins a New Semester",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/baogt0tabw3e3euhzyvbs70hzbci"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/honest-parks-and-rec-soccer-itinerary-ages-4-5-league",
-          "author": "Eddie Small",
-          "description": "Week 1\n Players will arrive at the field, get their shirts, get incredibly excited about their shirts, demand to know why Moana isn’t on any of the shirts, fight among each other about who got the best shirt, and hopefully get within six inches of the ball at some point.\n Week 2\n Players’ parents will begrudgingly accept that their children are not going to participate in any of the drills unless they get on the field as well and join them to halfheartedly jog after a soccer ball for the first time since they thought making their middle school’s junior varsity team was a big deal. But, hey, at least now they can say they got some exercise today.\n Week 3\n Players will at least, you know, move around without crying for a little bit.\n Week 4\n Players will start practice by actually lining up …",
-          "link": "https://www.mcsweeneys.net/articles/honest-parks-and-rec-soccer-itinerary-ages-4-5-league",
-          "publishedOn": "2026-08-19T12:00:00.000Z",
-          "wordCount": 2797,
-          "title": "Honest Parks and Rec Soccer Itinerary, Ages 4-5 League",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0plgzqnw3c6h72rdi153asgnqurw"
         }
       ]
     },
@@ -11729,6 +11839,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112543 at https://www.eff.org",
+          "author": "India McKinney",
+          "description": "The news has been filled with stories recently of AI breaching the security of websites. And while it may feel like a new problem because of AI’s involvement, it turns out that there are longstanding existing cybersecurity safety best practices that these companies—some of the largest tech companies in the world—could and should have taken to prevent these breaches.\nRecent cybersecurity incidents have shown that some of the world’s largest tech companies have failed to take basic security precautions when testing frontier AI systems on internet-connected systems. Unfortunately, these failures resulted in breaches of numerous third-party websites, including an AI research-sharing platform called Hugging Face and the Australian healthcare system’s website. Even worse, AI developers failed to…",
+          "link": "https://www.eff.org/deeplinks/2026/11/effs-ai-cybersecurity-policy-framework",
+          "publishedOn": "2026-11-16T22:50:00.000Z",
+          "wordCount": 1991,
+          "title": "EFF’s AI Cybersecurity Policy Framework",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/og-governmenthacking_0.png",
+            "alt": "",
+            "type": "image/png",
+            "length": "146862"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/og-governmenthacking_0.png"
+        },
+        {
+          "id": "112541 at https://www.eff.org",
+          "author": "Hudson Hongo",
+          "description": "Do the holidays have you thinking about how you can support your favorite nonprofit?  \nFor 35 years, the Electronic Frontier Foundation has been advancing our digital rights, including defending security researchers, encrypting the web, and fighting illegal surveillance. Donating equity to EFF can help support this important work. \nPerhaps your family has taken advantage of the new tax law around giving by creating a Donor-Advised Fund.  \nPerhaps your employer has gone public and you now own stock.  \nPerhaps you’ve seen some of EFF’s recent successes and thought, Man, imagine what they could do with more. \nStocks \nA gift of equity can help your contribution go farther and offer tax savings. When you donate appreciated stock, you avoid paying capital gains tax on any increase in its value. …",
+          "link": "https://www.eff.org/deeplinks/2026/11/how-donate-equity-support-digital-rights-stocks-dafs-and-charity",
+          "publishedOn": "2026-11-16T20:23:12.000Z",
+          "wordCount": 968,
+          "title": "Donate Equity to Support Digital Rights: Stocks, DAFs, and Giving",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/challenge-banner-1.png",
+            "alt": "Colorful figure with wings",
+            "type": "image/png",
+            "length": "115393"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/challenge-banner-1.png"
+        },
+        {
+          "id": "112539 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "Amazon Ring has finally announced their long-dreaded indoor drone, a small flying surveillance device connected to their security suite of products that can fly around your house filming and recording things. The device is supposedly designed to fly preset paths across your home and will also activate if a sensor or alarm has been triggered.  \nCustomers should think twice about purchasing these devices for a number of reasons. These devices are problematic in many of the ways we’ve said Ring’s stationary home surveillance products are a problem, plus some new ways. At a very basic level, they are essentially a window into your house that can be accessed by anyone with access to your account—which has historically included bad actors looking to embarrass or harass Ring users and employees o…",
+          "link": "https://www.eff.org/deeplinks/2026/11/amazon-rings-new-indoor-surveillance-drone-not-compatible-privacy",
+          "publishedOn": "2026-11-16T17:58:26.000Z",
+          "wordCount": 1948,
+          "title": "Amazon Ring’s New Indoor Surveillance Drone Is Not Compatible with Privacy",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/ring_banner.png",
+            "alt": "The shadow of a police officer looms in front of a Ring device on a closed door.",
+            "type": "image/png",
+            "length": "82172"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/ring_banner.png"
+        },
         {
           "id": "112537 at https://www.eff.org",
           "author": "Thorin Klosowski",
