@@ -556,6 +556,16 @@
       "siteUrl": "https://asteriskmag.com",
       "articles": [
         {
+          "id": "https://asteriskmag.com/issues/16/marginal-grains",
+          "author": null,
+          "description": "The history of civilization is the history of wheat.",
+          "link": "https://asteriskmag.com/issues/16/marginal-grains",
+          "publishedOn": "2026-11-17T00:00:00.000Z",
+          "wordCount": 4378,
+          "title": "Marginal Grains",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/marginal-grains/cc8de77fbe-1794867526/marginal-grains-thomas-kirk-2-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/16/we-are-all-playable-characters",
           "author": null,
           "description": "Diagnosing “main character syndrome.”",
@@ -692,6 +702,36 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6afccc5530b49b00015237ef",
+          "author": "Jason Koebler",
+          "description": "We are seeing the XKCD dependency domino tower, but for everything.",
+          "link": "https://www.404media.co/breaking-everything/",
+          "publishedOn": "2026-11-17T21:58:52.000Z",
+          "wordCount": 1983,
+          "title": "BREAKING: Everything",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/imkara-visual-Qlg_Bsui8mc-unsplash.jpg"
+        },
+        {
+          "id": "6afc6f8850a7a200012410e0",
+          "author": "Jason Koebler",
+          "description": "\"Meta shut my accounts down because they detected my AI. She jumped right up and set up emails to Congressmen, Senator Tim Scott. She filed the whole lawsuit herself.\"",
+          "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+          "publishedOn": "2026-11-17T19:41:33.000Z",
+          "wordCount": 2590,
+          "title": "A Man and His Muse AI Agent Sue Meta",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/CleanShot-2026-11-17-at-7.15.49-AM@2x.png"
+        },
+        {
+          "id": "6afc812230b49b0001522031",
+          "author": "Becky Ferreira",
+          "description": "Satellite images revealed a trend scientists say indicates a “genuine, global-scale phenomenon” that may be a dire warning.",
+          "link": "https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/",
+          "publishedOn": "2026-11-17T16:31:39.000Z",
+          "wordCount": 1333,
+          "title": "Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/data-src-image-b9492289-de87-4b14-b576-4b07b84a1444-1-1.jpeg"
+        },
         {
           "id": "6afc6bb950a7a20001241019",
           "author": "Samantha Cole",
@@ -4058,6 +4098,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566466",
+          "author": "Alex N. Gecan",
+          "description": "High winds could knock out power in the hills, but weather officials are not forecasting widespread flooding.",
+          "link": "https://www.berkeleyside.org/2026/11/17/berkeley-weather-rain-forecast",
+          "publishedOn": "2026-11-18T00:29:23.000Z",
+          "wordCount": 7468,
+          "title": "Berkeley will get 2 to 3 inches of rain over the next two days",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/02/large-Natera_240122_RainyBerkeley_01-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566457",
+          "author": "Skylla Mumana",
+          "description": "As the U.S. becomes K-pop’s largest overseas market, the East Bay has emerged as a hub for the genre in Northern California with sold-out Oakland arena shows, local dance classes and student fan clubs.",
+          "link": "https://www.berkeleyside.org/2026/11/17/east-bay-kpop-oakland-arena-fan-community-northern-california",
+          "publishedOn": "2026-11-17T22:35:32.000Z",
+          "wordCount": 9814,
+          "title": "The K-pop takeover: How the East Bay became a hub for Korean pop culture",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Tuite_Aespa_OaklandArena_100626-24-scaled-1.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566449",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/11/17/eggys-piggies-bistro-haraz-coffee-fire-rice-osaka-market-open",
+          "publishedOn": "2026-11-17T20:00:00.000Z",
+          "wordCount": 7527,
+          "title": "Eggy’s completes move south on Shattuck, plus new brunch, Jamaican, and Yemeni coffee options hit the East Bay",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Eggys-2.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566171",
+          "author": "Local sponsor",
+          "description": "The Broadway musical version of the mega-hit movie is on stage through Dec. 23.",
+          "link": "https://www.berkeleyside.org/2026/11/17/disneys-frozen-comes-to-life-at-berkeley-playhouse",
+          "publishedOn": "2026-11-17T17:22:06.000Z",
+          "wordCount": 8154,
+          "title": "Disney’s ‘Frozen’ comes to life at Berkeley Playhouse",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Frozen-Elsa.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566219",
           "author": "Nathan Dalton",
@@ -7672,16 +7752,6 @@
           "wordCount": null,
           "title": "Isaiah Rashad: Tiny Desk Concert",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o4I-Y8XiBIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o4I-Y8XiBIs",
-          "publishedOn": "2026-08-20T09:00:28.000Z",
-          "wordCount": null,
-          "title": "'Weird Al' Yankovic: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10232,6 +10302,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/brain-eating-lizards-are-here-to-stay-so-we-might-as-well-get-used-to-them",
+          "author": "Devon Halliday",
+          "description": "When I first heard that an invasive breed of brain-eating lizards was multiplying rapidly across North America, I had the same reaction you did: I was skeptical. I worried that the lizards would change my life for the worse. I wanted to keep the lizards out. This all sounds so naïve in retrospect, but—I didn’t want lizards gnawing on my brain.\n Within a few weeks of watching three-foot-long lizards infest my property, however, I realized how wrong I was. Just because the lizards eat the brains of unsuspecting adults and children doesn’t mean they’re a net negative for our society. They have all sorts of useful functions, too, which will surely emerge with enough time and encouragement. The lizards have proven quickly adept at basic household chores, when they’re not distracted by their ram…",
+          "link": "https://www.mcsweeneys.net/articles/brain-eating-lizards-are-here-to-stay-so-we-might-as-well-get-used-to-them",
+          "publishedOn": "2026-11-17T18:00:00.000Z",
+          "wordCount": 3237,
+          "title": "Brain-Eating Lizards Are Here to Stay, So We Might as Well Get Used to Them",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/d7fzir1je8yod47z2mts279agrfl"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/an-excerpt-from-david-shields-new-book-failure-is-the-only-subject-on-documentary-film-and-a-life-coming-undone",
           "author": "David Shields",
           "description": "In Failure Is the Only Subject, we encounter David Shields—memoirist, novelist, and filmmaker—undergoing psychoanalysis in the aftermath of divorce and in the throes of an addictive new relationship. Struggling to piece his life back together, Shields watches (and rewatches) documentaries about human disappointment by such groundbreaking directors as Werner Herzog, Errol Morris, Ross McElwee, Kitty Green, Adam Curtis, and Michael Winterbottom. Contemplating the filmmakers’ choices, Shields asks painful questions about his life, any life, life itself. What happens when the mask falls off and we come face-to-face with the abyss within? Is there a way to bear such harrowing knowledge—about ourselves and the world? \n We’re thrilled to share an excerpt of the opening chapter of Failure Is the O…",
@@ -11770,16 +11850,6 @@
           "wordCount": 2747,
           "title": "FAQ: Your Favorite ’70s Song Is in Our Prescription Drug Commercial",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/dycry2nfogv3m0bxo7u0dzub2hr0"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/work-is-not-your-family-but-ai-is-your-friend",
-          "author": "Ali Kelley",
-          "description": "Ready to join an exciting new startup with a radical approach to employee-employer relations? Trustus was founded on a belief that workplaces are not families. For too long, we’ve seen companies use this language to exploit employee labor for personal profit, and we don’t want to be another predatory corporation. At Trustus, we simply ask that you make AI your friend.\n Does the term “work wife/husband” make you cringe? Us too. At Trustus, we’ll never ask you to work that much and so closely with your coworker that you consider them a replacement for your real-life partner. Forming a close bond with your coworkers is toxic, which is why we only advocate for a healthy relationship between you and our proprietary GPT, Tom.\n Have you ever been encouraged to “lean on your coworkers in times of …",
-          "link": "https://www.mcsweeneys.net/articles/work-is-not-your-family-but-ai-is-your-friend",
-          "publishedOn": "2026-08-20T12:00:00.000Z",
-          "wordCount": 2712,
-          "title": "Work is Not Your Family, but AI is Your Friend",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/uy2x1v8dgqdajpaj5b4qczy2nlg2"
         }
       ]
     },
@@ -11788,6 +11858,54 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112549 at https://www.eff.org",
+          "author": "Joe Mullin",
+          "description": "Software patents are mostly vague, hard to define, and widely abused. Most tech patent lawsuits aren’t filed by companies that make real products. They’re filed by patent trolls, companies that acquire patents to extract payments through litigation and legal threats. \nA patent on one feature of a smartphone shouldn’t give the patent owner the power to threaten the existence of the entire product line. But that is exactly the leverage patent trolls want—and the current administration is helping them to get it. \nIn two recent patent cases, Radian Memory Systems v. Samsung and Collision Communications v. Samsung, the Justice Department and the U.S. Patent and Trademark Office have asked courts to make it easier for patent owners to get injunctions. These are judicial orders that can force com…",
+          "link": "https://www.eff.org/deeplinks/2026/11/justice-department-wants-give-patent-trolls-more-power",
+          "publishedOn": "2026-11-17T21:08:00.000Z",
+          "wordCount": 2529,
+          "title": "The Justice Department Wants To Give Patent Trolls More Power",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/patent-troll-3b.png",
+            "alt": "Patent Troll line art on graph paper; troll is in a small jail cell, ready to escape.",
+            "type": "image/png",
+            "length": "646513"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/patent-troll-3b.png"
+        },
+        {
+          "id": "112547 at https://www.eff.org",
+          "author": "Katharine Trendacosta",
+          "description": "There are all sorts of reasons to be against the merger of Paramount and Warner Brothers-Discovery. There's the obvious problem of increasing concentration in the already pretty-concentrated film and TV industry. People have problems with Paramount's owner Skydance interfering  with its news coverage and late night comedy. But one of the biggest is the way we are losing choice and access to information and culture.  \nIn the context of the digital world, there are two major problems with these mega mergers. One, as we've said in the past, is that it further degrades the already awful state of mainstream streaming services. In short, by increasing the amount of legacy content under their control, major studios don't have to invest in either new content or well-engineered services to get user…",
+          "link": "https://www.eff.org/deeplinks/2026/11/paramount-warner-brothers-deal-could-usher-another-age-lost-media",
+          "publishedOn": "2026-11-17T20:56:59.000Z",
+          "wordCount": 1978,
+          "title": "The Paramount-Warner Brothers Deal Could Usher in Another Age of Lost Media",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/icon-2019-innovation.png",
+            "alt": "Innovation",
+            "type": "image/png",
+            "length": "16801"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/icon-2019-innovation.png"
+        },
+        {
+          "id": "112532 at https://www.eff.org",
+          "author": "Josh Richman",
+          "description": "By 2013, EFF had spent seven years arguing in court that the National Security Agency was sweeping up ordinary Americans’ communications, including through the secret room that whistleblower Mark Klein had exposed. The government would neither confirm nor deny it, and outside the courtroom the public seemed to have moved on.  \nThen, in early June, documentary filmmaker Laura Poitras and journalist Glenn Greenwald mysteriously missed a Freedom of the Press Foundation board meeting at EFF’s offices. It turned out they were in Hong Kong, meeting an NSA contractor who had been secretly writing to Laura for months. His name was Edward Snowden, he had thousands of secret documents proving the government had in fact been spying on millions of Americans. When he subsequently revealed himself, a ph…",
+          "link": "https://www.eff.org/deeplinks/2026/11/privacys-defenders-podcast-snowden-exposes-nsas-lies",
+          "publishedOn": "2026-11-17T16:00:25.000Z",
+          "wordCount": 1631,
+          "title": "Privacy's Defenders Podcast: Snowden Exposes NSA’s Lies",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/pd-podcast-banner.png",
+            "alt": "Privacy&#039;s Defender: Stories From the Fights for Digital Rights",
+            "type": "image/png",
+            "length": "1062415"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/pd-podcast-banner.png"
+        },
         {
           "id": "112546 at https://www.eff.org",
           "author": "Karen Gullo",
@@ -13708,16 +13826,6 @@
           "wordCount": 4182,
           "title": "The kill switch for harmful genes",
           "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/The_Protein_Kill_Switch_Sharecard.jpg"
-        },
-        {
-          "id": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-          "author": null,
-          "description": "Its royal family used a charm offensive where military power failed.",
-          "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-          "publishedOn": "2026-08-20T09:11:43.000Z",
-          "wordCount": 4469,
-          "title": "How Thailand resisted colonization",
-          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/08/The_Art_Of_Not_Being_Conquered_Sharecard-1.jpg"
         }
       ]
     }
