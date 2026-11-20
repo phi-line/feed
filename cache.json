@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=169214",
+          "author": "Ben Brubaker",
+          "description": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.            \nThe post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+          "publishedOn": "2026-11-20T14:50:41.000Z",
+          "wordCount": 3003,
+          "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=168911",
           "author": "Shalma Wegsman",
           "description": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.            \nThe post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine",
@@ -692,6 +702,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6b00a8aff7a2ad0001596a05",
+          "author": "Joseph Cox",
+          "description": "The man who created OnlyFake; a Muse agent is suing Meta; and the Justice Department is using Pangram.",
+          "link": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
+          "publishedOn": "2026-11-20T20:12:51.000Z",
+          "wordCount": 990,
+          "title": "Podcast: I Spoke to an AI Fraud Kingpin",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/maxresdefault-6.jpg"
+        },
+        {
+          "id": "6b0066f8f7a2ad000155d049",
+          "author": "Samantha Cole",
+          "description": "This week, we discuss hippo physiology, Shenmue, and tricky interviews.",
+          "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
+          "publishedOn": "2026-11-20T15:40:21.000Z",
+          "wordCount": 1066,
+          "title": "Behind the Blog: Keeping It Together",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/nl-11.20.png"
+        },
         {
           "id": "6aff39e450c3d200013d072e",
           "author": "Mikael Thalen",
@@ -3348,6 +3378,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3327/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3327/",
+          "publishedOn": "2026-11-20T05:00:00.000Z",
+          "wordCount": 180,
+          "title": "Plate Maintenance",
+          "imageUrl": "https://imgs.xkcd.com/comics/plate_maintenance_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3326/",
           "author": null,
           "description": "",
@@ -3752,6 +3792,16 @@
       "siteUrl": "https://www.noemamag.com",
       "articles": [
         {
+          "id": "https://www.noemamag.com/the-shenzhen-summit-supplants-yalta",
+          "author": "Nathan Gardels",
+          "description": "The post The Shenzhen Summit Supplants Yalta appeared first on NOEMA.",
+          "link": "https://www.noemamag.com/the-shenzhen-summit-supplants-yalta",
+          "publishedOn": "2026-11-20T15:51:40.000Z",
+          "wordCount": 4908,
+          "title": "The Shenzhen Summit Supplants Yalta",
+          "imageUrl": "https://noemamag.imgix.net/2026/11/GettyImages-2305167190-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=f0e46a1da242bb71c69d506790a688d4"
+        },
+        {
           "id": "https://www.noemamag.com/the-end-of-extraction",
           "author": "Benjamin Siegel",
           "description": "The post The End Of Extraction appeared first on NOEMA.",
@@ -4118,6 +4168,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566660",
+          "author": "Nico Savidge",
+          "description": "City leaders voted to charge for admission in the formerly free park because of budget shortfalls at the Berkeley Marina. People 15 and up still get in free.",
+          "link": "https://www.berkeleyside.org/2026/11/20/berkeley-adventure-playground-cost-marina",
+          "publishedOn": "2026-11-20T20:39:07.000Z",
+          "wordCount": 8211,
+          "title": "Kids will no longer get in free at Berkeley’s beloved Adventure Playground",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2017/08/AP-.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566661",
+          "author": "Momo Chang",
+          "description": "The Oakland club that first opened in 2022 has announced its final day in business.",
+          "link": "https://www.berkeleyside.org/2026/11/20/crybaby-99-ranch-green-fish-sweet-pour-flow-closed",
+          "publishedOn": "2026-11-20T20:00:00.000Z",
+          "wordCount": 8124,
+          "title": "Shed a tear for Crybaby, and more East Bay closures",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/CRYBABYNYEFINALS123123-315-scaled-1.jpg?fit=2560%2C1706&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566617",
           "author": "Andrew Gilbert",
@@ -10048,6 +10118,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "http://theblog.jessikerbakes.com/?p=3068",
+          "author": "Jessica Hylton",
+          "description": "Tired of soggy, limp green beans? These 15-minute garlic parmesan green beans will change how you see this classic veggie side. Simply seasoned and lightly sautéed, they're tender on the inside with the perfect bite. Tossed with rich vegan Parmesan and finished with nutty sesame seeds, they're ready for your holiday table.",
+          "link": "https://jessicainthekitchen.com/garlic-parmesan-sesame-stir-fry-green-beans/",
+          "publishedOn": "2026-11-20T15:00:00.000Z",
+          "wordCount": 7635,
+          "title": "Garlic Parmesan Green Beans",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Garlic-Parmesan-Sesame-Stir-Fry-Green-Beans1039.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/?p=83273",
           "author": "Jessica Hylton",
           "description": "In the mood for cacio e pepe but kind of over pasta right now? These vegan cacio e pepe beans take all of the creamy, cheesy, peppery goodness of the classic pasta dish but replace the noodles with tender cannellini beans. Done in just 25 minutes, they're an easy way to get your Italian comfort food fix on short notice.",
@@ -10361,6 +10441,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/nimbys-discover-stonehenge",
+          "author": "Andrew Patrick Clark",
+          "description": "Many years ago, around 3000 BC, a mysterious structure appeared in the village of Wiltshire.\n Perched atop a small plateau was a circle of stones. Strangers had dragged these stones from far away lands, and the rumor was that more were on the way. Some said the structure was part of a burial ground. Others said it could be used to read the stars. And then another group said it violated local zoning codes and did not reflect the village character.\n The strangers who built the structure were called before a council to hear the group’s concerns. They met in the village courtroom, which was also the village pig pen. Shooing away the pigs, a gray-haired villager called the meeting to order.\n “I like the idea in theory,” the gray-haired villager said, “but we have too much construction as it is.…",
+          "link": "https://www.mcsweeneys.net/articles/nimbys-discover-stonehenge",
+          "publishedOn": "2026-11-20T18:30:00.000Z",
+          "wordCount": 3051,
+          "title": "NIMBYs Discover Stonehenge",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/612hdoyzquj0pt4eewduvjnj6uy3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/an-interview-with-rebecca-handler-about-her-new-novel-in-the-round",
           "author": "Amanda Uhle",
@@ -11948,6 +12038,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112558 at https://www.eff.org",
+          "author": "Matthew Guariglia",
+          "description": "In June 2026, the surveillance authority Section 702 of FISA expired absent a consensus among lawmakers over the terms of its reauthorization. Now, with the program set to truly turn off within the next few months, surveillance hawks and national security maximalists are rushing to renew this secretive power by shoving it into a must-pass bill, like a continuing resolution to fund the government or the National Defense Authorization Act (NDAA) or an end of year, rushed, funding bill to prevent a shutdown. This would be both undemocratic and suppress any real chance at reform. In an effort to prevent that, EFF has singed into a letter with over 25 civil liberties organizations, including the ACLU, Color of Change, and the Brennan Center, to urge Congress not to allow such a significant and …",
+          "link": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
+          "publishedOn": "2026-11-20T21:52:51.000Z",
+          "wordCount": 1622,
+          "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg",
+            "alt": "US flag with spying eyes for stars",
+            "type": "image/jpeg",
+            "length": "98960"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/flag-surveillance-color.jpg"
+        },
         {
           "id": "112556 at https://www.eff.org",
           "author": "Starchy Grant",
