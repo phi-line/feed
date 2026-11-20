@@ -693,6 +693,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6aff39e450c3d200013d072e",
+          "author": "Mikael Thalen",
+          "description": "By posing as the victim of a ransomware attack and the threat actors themselves, the FBI was able to catch an alleged fraud scheme in the act.",
+          "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
+          "publishedOn": "2026-11-19T18:11:50.000Z",
+          "wordCount": 1502,
+          "title": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/getty-images-BxeiWnaLZaI-unsplash.jpg"
+        },
+        {
+          "id": "6aff15e650c3d200013ced1d",
+          "author": "Jason Koebler",
+          "description": "“It genuinely feels like I’ve had something stolen from me.”",
+          "link": "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
+          "publishedOn": "2026-11-19T15:33:18.000Z",
+          "wordCount": 2139,
+          "title": "High-End Furniture Marketplace AptDeco Is Taking People’s Furniture and Not Paying Them",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/aptdeco.png"
+        },
+        {
           "id": "6afefe8250c3d200013a0b5e",
           "author": "Matthew Gault",
           "description": "The number goes up to 2.6 in majority-Hispanic neighborhoods and 4.2 times in majority-Asian neighborhoods.",
@@ -2761,16 +2781,6 @@
           "wordCount": 2098,
           "title": "How a Network of Volunteers Is Liberating Critical Court Records for Everyone",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/anil-baki-durmus-M-J9cdC1e0Q-unsplash.jpg"
-        },
-        {
-          "id": "6a888f2a8ec9190001a8fa46",
-          "author": "Becky Ferreira",
-          "description": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
-          "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
-          "publishedOn": "2026-08-22T10:00:35.000Z",
-          "wordCount": 2059,
-          "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/image4.jpg"
         }
       ]
     },
@@ -4108,6 +4118,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566606",
+          "author": "Karina Ioffee",
+          "description": "Parents are asking for concrete safety measures, and students describe a culture of apathy on campus when it comes to those with special needs.",
+          "link": "https://www.berkeleyside.org/2026/11/19/berkeley-high-unity-week-violence-busd",
+          "publishedOn": "2026-11-19T23:00:00.000Z",
+          "wordCount": 9080,
+          "title": "Calls for change at Berkeley High mount, a month after violence-marred Unity Week",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Berkeley-High-students-rally-around-mental-health-attention-after-a-friends-death-scaled.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566507",
+          "author": "Skylla Mumana",
+          "description": "After navigating grief, her son's diagnosis and surviving a near fatal illness, Everett and Jones heir Dottie Moore is bringing Southern comfort food to Oakland’s brunch scene.",
+          "link": "https://www.berkeleyside.org/2026/11/19/chix-new-brunch-restaurant-old-oakland",
+          "publishedOn": "2026-11-19T20:00:00.000Z",
+          "wordCount": 8909,
+          "title": "New Oakland brunch restaurant CHIX marks hard-won milestone for its owner",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Chix-Soft-Opening-Brunch.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566578",
+          "author": "Andrew Gilbert",
+          "description": "'Borders of Dreaming' centers on Andry José Hernández Romero, a gay Venezuelan makeup artist who was deported by ICE and locked up in El Salvador's notorious CECOT prison.",
+          "link": "https://www.berkeleyside.org/2026/11/19/festival-opera-borders-of-dreaming-andry-jose-hernandez-romero",
+          "publishedOn": "2026-11-19T19:00:00.000Z",
+          "wordCount": 8923,
+          "title": "A new song series was inspired by a headline-grabbing ICE arrest",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Efrain-1249-e1795107770616.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566024",
+          "author": "Local sponsor",
+          "description": "Posterchild AI and Alternative Technologies, both in Berkeley, provide tech services — each with a means of keeping costs down, so nonprofits can focus on their mission.",
+          "link": "https://www.berkeleyside.org/2026/11/19/this-is-where-nonprofits-go-for-help",
+          "publishedOn": "2026-11-19T17:40:00.000Z",
+          "wordCount": 8603,
+          "title": "This is where nonprofits go for help",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Alt-Tech-indoor-group-1.png?fit=1771%2C1097&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566525",
           "author": "Andrew Gilbert",
@@ -7068,6 +7118,16 @@
       "siteUrl": "https://smittenkitchen.com",
       "articles": [
         {
+          "id": "https://smittenkitchen.com/?p=98313",
+          "author": "deb",
+          "description": "Ed Levine yesterday, as we chatted for an upcoming podcast episode [I’ll link it here as soon as it’s live], a statistic that remains baffling to me. What should one even have to show for two decades of Thanksgiving recipes, ideas, and advice? A degree in dry brining? A medal in single-oven-side-dish-rewarming Jenga? A metamorphosis into my final form: a human-shaped holiday cooking questions hotline (it’s me, or at least the texts on my phone)? Aspirationally, all of the above?\nRead more »",
+          "link": "https://smittenkitchen.com/2026/11/chocolate-pecan-pie-bars/",
+          "publishedOn": "2026-11-19T23:00:45.000Z",
+          "wordCount": 5207,
+          "title": "chocolate pecan pie bars",
+          "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2026/11/pecan-pie-bars-10-scaled.jpg?fit=1200%2C800&quality=89&ssl=1"
+        },
+        {
           "id": "https://smittenkitchen.com/?p=98065",
           "author": "deb",
           "description": "Read more »",
@@ -7153,16 +7213,6 @@
           "wordCount": 4370,
           "title": "Meera Sodha’s recipe for spicy mozzarella, green bean and edamame salad | Meera Sodha recipes",
           "imageUrl": "https://i.guim.co.uk/img/media/d50195b1a81db731a41b47cb891689ff214793eb/7_1168_4874_3899/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=381bb9e6a0595b7e2a19d978918873ae"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/aug/22/blackberry-almond-cake-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "Rich, velvety nuts are offset by zippy, seasonal berries in a cake for all occasions\nMost cakes I can take or leave, but I never regret a slice of almond cake. The density! The chewy crumb! The way it romances butter and other flavours! The ultimate almond cake, in the Sodha house, at least, is Claudia Roden’s orange and almond cake, which is made religiously for special occasions (of which there are many from December to March), but I wanted a more seasonal cake for a good friend’s August birthday. Blackberries are perfect (not least because we’re drowning in them right now), because they provide an excellent, zippy contrast to the almond’s velvety nature.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/aug/22/blackberry-almond-cake-recipe-meera-sodha",
-          "publishedOn": "2026-08-22T05:00:56.000Z",
-          "wordCount": 4510,
-          "title": "Meera Sodha’s recipe for blackberry and almond cake | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/12be320e687f823f62640c83d68ce47d49490dfe/40_532_5307_4242/master/5307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04fdf3157b6f3db959fc475722bba869"
         }
       ]
     },
@@ -10281,6 +10331,26 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/im-not-sith",
+          "author": "Cezary Jan Strusiewicz",
+          "description": "“Elon Musk insisted he is ‘not MAGA’ during an interview at The New York Times’ 2026 DealBook Summit, distancing himself from President Donald Trump and the Republican Party after pouring nearly $500 million into a disastrous midterm election effort.” — Mediate\n - - -\nI want to clear something up, because apparently there’s some confusion about where I, Darth Vader, stand politically.\n I’m not Sith.\n I know this may come as a surprise to some people, particularly those who have been following my career over the past several decades, but I think it’s important to distinguish between one’s personal beliefs and the political organizations one has maybe occasionally helped establish, finance, and actually worked for, one time announcing their involvement by going on stage with a lightsaber cha…",
+          "link": "https://www.mcsweeneys.net/articles/im-not-sith",
+          "publishedOn": "2026-11-19T18:15:00.000Z",
+          "wordCount": 3143,
+          "title": "I’m Not Sith",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/0lm1x12tv9jevtwjspac1pgq03f0"
+        },
+        {
+          "id": "https://www.mcsweeneys.net/articles/meditation-helps",
+          "author": "Ali Fitzgerald",
+          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
+          "link": "https://www.mcsweeneys.net/articles/meditation-helps",
+          "publishedOn": "2026-11-19T17:00:00.000Z",
+          "wordCount": 2372,
+          "title": "Meditation Helps",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/rpw8gv4qr401i19uzw92gcyjkhh9"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/faq-international-mens-day",
           "author": "Tom Ellison",
@@ -13583,6 +13653,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/",
+          "author": null,
+          "description": "It’s almost impossible to know whether a drug will work, unless you know the right people.",
+          "link": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/",
+          "publishedOn": "2026-11-19T15:48:12.000Z",
+          "wordCount": 1706,
+          "title": "The edge of biotech hedge funds",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/11/Column_Abhishaike_Mahajan_Sharecard_02.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/accidental-discoveries/",
           "author": null,
