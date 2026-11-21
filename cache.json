@@ -3756,16 +3756,6 @@
           "wordCount": 178,
           "title": "Launchpad",
           "imageUrl": "https://imgs.xkcd.com/comics/launchpad_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3289/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3289/",
-          "publishedOn": "2026-08-24T04:00:00.000Z",
-          "wordCount": 180,
-          "title": "Highway Signs",
-          "imageUrl": "https://imgs.xkcd.com/comics/highway_signs_2x.png"
         }
       ]
     },
@@ -7403,6 +7393,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ypbjl05eoo8",
+          "author": null,
+          "description": "Is opera becoming hip again? NPR Music’s Tom Huizenga explains why so many stars flocked to see the world premiere of the opera “Lincoln in the Bardo.”⁠",
+          "link": "https://www.youtube.com/shorts/ypbjl05eoo8",
+          "publishedOn": "2026-11-21T19:00:41.000Z",
+          "wordCount": 3125,
+          "title": "Is opera becoming hip again?",
+          "imageUrl": "https://i.ytimg.com/vi/ypbjl05eoo8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBpEFURNiPB5Mk896KUwSLF-oetuw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/t0lx8uzoefM",
+          "author": null,
+          "description": "David Eugene Edwards’ voice offers gravitas to the heavy metal genre. NPR Music’s Lars Gotrich breaks down his contributions to recent tracks from Cult of Lu...",
+          "link": "https://www.youtube.com/shorts/t0lx8uzoefM",
+          "publishedOn": "2026-11-21T18:00:49.000Z",
+          "wordCount": 4098,
+          "title": "David Eugene Edwards’ voice offers gravitas to the heavy metal genre.",
+          "imageUrl": "https://i.ytimg.com/vi/t0lx8uzoefM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAHr921OJZt01nSaofImvuNvIr0fA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=r5W4W6aWw_M",
           "author": null,
