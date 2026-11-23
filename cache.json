@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=169527",
+          "author": "Annie Melchor",
+          "description": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.            \nThe post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+          "publishedOn": "2026-11-23T15:27:11.000Z",
+          "wordCount": 3564,
+          "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=169214",
           "author": "Ben Brubaker",
           "description": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.            \nThe post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
@@ -692,6 +702,26 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6b0457d5d863d10001916038",
+          "author": "Joseph Cox",
+          "description": "ARTEX, an AI hacking framework causing havoc, is free, and Jensen Huang is back.",
+          "link": "https://www.404media.co/im-not-going-to-remove-the-repository/",
+          "publishedOn": "2026-11-23T15:35:22.000Z",
+          "wordCount": 977,
+          "title": "“I’m not going to remove the repository”",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Jensen_Huang_reinstated_26327519425907.jpg"
+        },
+        {
+          "id": "6b006f09f7a2ad000155d195",
+          "author": "Joseph Cox",
+          "description": "The original author of AI hacking framework ARTEX may have taken the tool down. But 404 Media spoke to multiple people who are distributing it for anyone to download.",
+          "link": "https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/",
+          "publishedOn": "2026-11-23T14:16:47.000Z",
+          "wordCount": 1829,
+          "title": "‘The Code Is Already Copied Everywhere’: The AI Hacking Tool Causing Havoc Around the World",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Hacker_26322642210237.jpg"
+        },
         {
           "id": "6b00aba7f7a2ad0001596b15",
           "author": "Becky Ferreira",
@@ -2751,26 +2781,6 @@
           "wordCount": 1614,
           "title": "The AI ‘Ghosts’ Contaminating Academic Publishing",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg"
-        },
-        {
-          "id": "6a8dd6f2a269ab0001934732",
-          "author": "Matthew Gault",
-          "description": "An Israel-funded think tank is churning out AI written essays to catch the attention of AI chatbots and warp search results.",
-          "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
-          "publishedOn": "2026-08-25T18:35:26.000Z",
-          "wordCount": 1994,
-          "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-          "imageUrl": "https://images.unsplash.com/photo-1612383401597-cdfb8bdfa0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzNXx8a2V5Ym9hcmR8ZW58MHx8fHwxNzg3NjgyNzI0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6a8dda7ca269ab00019347fd",
-          "author": "Joseph Cox",
-          "description": "Voting data is public by design, but ICE is looking for a federal contractor to help it handle voter registration and history files to find what it describes as fraud.",
-          "link": "https://www.404media.co/ice-wants-the-countrys-voter-data/",
-          "publishedOn": "2026-08-25T18:16:34.000Z",
-          "wordCount": 1387,
-          "title": "ICE Wants the Country’s Voter Data",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/55363168497_d6e42a41dd_k.jpg"
         }
       ]
     },
@@ -4098,6 +4108,16 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566673",
+          "author": "Karina Ioffee",
+          "description": "A Berkeley coalition also filed an amicus brief opposing a lawsuit accusing the district of pro-Palestine bias in the classroom and creating an unsafe environment for Jewish students.",
+          "link": "https://www.berkeleyside.org/2026/11/23/berkeley-unified-brandeis-lawsuit-antisemitism-ethnic-studies",
+          "publishedOn": "2026-11-23T15:00:00.000Z",
+          "wordCount": 8914,
+          "title": "BUSD parents and students rally to support ethnic studies amid allegations of antisemitism",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/Natera_230531_217_BUSDSuperintendent_24-scaled.jpg?fit=2560%2C1709&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566660",
           "author": "Nico Savidge",
@@ -7027,46 +7047,6 @@
           "wordCount": 7615,
           "title": "Berkeley’s 5 1/2 Street renamed for city employee who created affordable housing",
           "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/Wayne-Jeronimus-surrounded-by-former-colleagues-and-Berkeley-residents-cuts-ribbon-for-his-alley-way-1.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561836",
-          "author": "Alastair Boone",
-          "description": "Aikens grew up in Berkeley and North Oakland. For years, he could be found at the market every Tuesday protecting shoppers from traffic and selling copies of Street Spirit.",
-          "link": "https://www.berkeleyside.org/2026/08/25/kevin-kk-aikens-berkeley-obituary",
-          "publishedOn": "2026-08-25T23:00:00.000Z",
-          "wordCount": 7809,
-          "title": "Remembering Kevin Aikens, East Bay local who was a fixture of the South Berkeley Farmer’s Market",
-          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/aikens.jpeg?fit=1536%2C1152&ssl=1"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561767",
-          "author": "Local sponsor",
-          "description": "Hundreds of East Bay families have swapped gas for induction with a battery-equipped range made by Berkeley's own Copper.",
-          "link": "https://www.berkeleyside.org/2026/08/25/how-berkeleys-hottest-stove-stays-cool-to-the-touch",
-          "publishedOn": "2026-08-25T22:14:09.000Z",
-          "wordCount": 8071,
-          "title": "How Berkeley’s hottest stove stays cool to the touch",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/eric-charlie.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561690",
-          "author": "Alex N. Gecan",
-          "description": "Proponents say Measure Z, a parcel tax to fund a regional public bank, will invest in progressive causes. Critics say Berkeley will carry too much of the cost for the rest of the East Bay.",
-          "link": "https://www.berkeleyside.org/2026/08/25/berkeley-election-2026-measure-z-public-bank-east-bay",
-          "publishedOn": "2026-08-25T20:36:38.000Z",
-          "wordCount": 8729,
-          "title": "Should Berkeley fund a public bank for the East Bay? Voters will decide in November",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2011/10/occupy-berkeley-10.8.11-042-scaled.jpg"
-        },
-        {
-          "id": "https://www.berkeleyside.org/?p=561798",
-          "author": "Momo Chang",
-          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
-          "link": "https://www.berkeleyside.org/2026/08/25/aks-anh-hong-berkeley-bagels-happy-express-philz",
-          "publishedOn": "2026-08-25T19:00:00.000Z",
-          "wordCount": 7331,
-          "title": "Berkeley Bagels debuts downtown location, plus new Asian fusion, coffee and takeout Chinese options",
-          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/08/BerkeleyBagel3.jpg"
         }
       ]
     },
@@ -7273,6 +7253,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_l1DbqVacBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_l1DbqVacBc",
+          "publishedOn": "2026-11-23T10:00:39.000Z",
+          "wordCount": null,
+          "title": "Will Liverman: Tiny Desk Concert",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/ypbjl05eoo8",
           "author": null,
@@ -10008,6 +9998,26 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=10346",
+          "author": "Jessica Hylton",
+          "description": "Meet peanut butter's slightly sweeter cousin. This pecan butter is made with rich, toasted nuts that are a little sweet on their own. Blend them with some coconut sugar and warming cinnamon, and you've got a velvety-smooth nut butter you'll want to eat straight out of the jar.",
+          "link": "https://jessicainthekitchen.com/homemade-easy-pecan-butter/",
+          "publishedOn": "2026-11-23T15:00:00.000Z",
+          "wordCount": 6354,
+          "title": "Homemade Pecan Butter",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Pecan-Butter9461.jpg"
+        },
+        {
+          "id": "https://jessicainthekitchen.com/?p=83741",
+          "author": "Jessica Hylton",
+          "description": "Meet peanut butter's slightly sweeter cousin. This pecan butter is made with rich, toasted nuts that are a little sweet on their own. Blend them with some coconut sugar and warming cinnamon, and you've got a velvety-smooth nut butter you'll want to eat straight out of the jar.",
+          "link": "https://jessicainthekitchen.com/homemade-pecan-butter/",
+          "publishedOn": "2026-11-23T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Homemade Pecan Butter",
+          "imageUrl": null
+        },
+        {
           "id": "http://theblog.jessikerbakes.com/?p=3068",
           "author": "Jessica Hylton",
           "description": "Tired of soggy, limp green beans? These 15-minute garlic parmesan green beans will change how you see this classic veggie side. Simply seasoned and lightly sautéed, they're tender on the inside with the perfect bite. Tossed with rich vegan Parmesan and finished with nutty sesame seeds, they're ready for your holiday table.",
@@ -10321,6 +10331,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/my-video-game-girlfriend-is-starting-to-sound-an-awful-lot-like-my-ex-wife",
+          "author": "Jack Loftus",
+          "description": "\"The Grand Theft Auto games never actually taught someone how to knock over a bank or survive a shootout with police, but the latest storyline in the franchise serves up some valuable lessons about what it means to be in a loving and committed relationship. This isn’t sitting well with a histrionic minority of right-wing gamers who have been warning for months that GTA VI would be intolerably ‘woke’ … ‘RIP GTA,’ one X user somberly concluded. ‘Killed by women.’” – WIRED\n - - -\nI play video games for escapism. They’re a fun way to get away from the stresses of everyday life, like work, politics, and paying the bills. After a long day of explaining why women shouldn’t be allowed in combat roles, the last thing I want is to come home and help some fictional broad unload the dishwasher.\n But n…",
+          "link": "https://www.mcsweeneys.net/articles/my-video-game-girlfriend-is-starting-to-sound-an-awful-lot-like-my-ex-wife",
+          "publishedOn": "2026-11-23T13:02:00.000Z",
+          "wordCount": 3159,
+          "title": "My Video Game Girlfriend Is Starting to Sound an Awful Lot Like My Ex-Wife",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/zrybgqy59osxhb1x5h1ss3e8gf2q"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/nimbys-discover-stonehenge",
           "author": "Andrew Patrick Clark",
