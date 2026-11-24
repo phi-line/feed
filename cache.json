@@ -703,6 +703,26 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6b0498c1d863d10001945d2a",
+          "author": "Matthew Gault",
+          "description": "University of Michigan regents voted 7-1 to approve a controversial data center project.",
+          "link": "https://www.404media.co/ypsilanti-michigan-data-center-vote/",
+          "publishedOn": "2026-11-23T19:56:37.000Z",
+          "wordCount": 1870,
+          "title": "University Approves Nuclear Weapons Data Center, Township Vows to Fight On",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/Ypsi-1.jpg"
+        },
+        {
+          "id": "6b03e405f7a2ad00015f8540",
+          "author": "Jason Koebler",
+          "description": "AI generated customized shows featuring customized ads.",
+          "link": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+          "publishedOn": "2026-11-23T18:17:22.000Z",
+          "wordCount": 1536,
+          "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-22-at-11.00.26-PM@2x.png"
+        },
+        {
           "id": "6b0457d5d863d10001916038",
           "author": "Joseph Cox",
           "description": "ARTEX, an AI hacking framework causing havoc, is free, and Jensen Huang is back.",
@@ -3338,6 +3358,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3328/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3328/",
+          "publishedOn": "2026-11-23T05:00:00.000Z",
+          "wordCount": 182,
+          "title": "Ivory Tower Elites",
+          "imageUrl": "https://imgs.xkcd.com/comics/ivory_tower_elites_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3327/",
           "author": null,
           "description": "",
@@ -4108,6 +4138,46 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566708",
+          "author": "Alex N. Gecan",
+          "description": "Bay levels are projected to approach “the highest tide ever recorded” as a strong El Niño effect overlaps a king tide and a rainstorm, according to the National Weather Service.",
+          "link": "https://www.berkeleyside.org/2026/11/23/berkeley-november-rain-storm-surge-king-tide-el-nino-flooding",
+          "publishedOn": "2026-11-23T23:29:11.000Z",
+          "wordCount": 9340,
+          "title": "Monster tides expected to batter Berkeley in days before Thanksgiving",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Flooding-11-18-26-Mtierney17.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566696",
+          "author": "Local sponsor",
+          "description": "The epic play is based on the true, revolutionary story of a maverick Russian theater-maker.",
+          "link": "https://www.berkeleyside.org/2026/11/23/shotgun-players-stages-the-death-of-meyerhold",
+          "publishedOn": "2026-11-23T20:30:35.000Z",
+          "wordCount": 7608,
+          "title": "Shotgun Players stages ‘The Death of Meyerhold’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Meyerhold.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566719",
+          "author": "Skylla Mumana",
+          "description": "Whether you want to cook, serve meals, or delivery groceries, there are plenty of ways to give back this holiday across Oakland, Berkeley and Richmond.",
+          "link": "https://www.berkeleyside.org/2026/11/23/east-bay-thanksgiving-holiday-volunteer-opportunities",
+          "publishedOn": "2026-11-23T18:05:19.000Z",
+          "wordCount": 8919,
+          "title": "Where to volunteer in the East Bay this Thanksgiving",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/BFN-ShoeySindel_SSP0068.jpg"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566718",
+          "author": "William Melhado &#124; EdSource",
+          "description": "As UC leaders announced an expanded partnership with OpenAI, faculty leaders said administrators failed to sufficiently consult the Academic Senate and the decision will be perceived as endorsing students’ AI use in all courses.",
+          "link": "https://www.berkeleyside.org/2026/11/23/university-of-california-chatgpt",
+          "publishedOn": "2026-11-23T17:48:24.000Z",
+          "wordCount": 8630,
+          "title": "University of California gives students free access to ChatGPT. Faculty say deal is ‘unwise’",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/AP26275604283119.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566673",
           "author": "Karina Ioffee",
@@ -10332,6 +10402,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/i-am-a-pacific-northwesterner-and-i-will-die-before-using-an-umbrella",
+          "author": "Gracie Beaver-Kairis",
+          "description": "Nice umbrella, loser. Yeah, I’m talking to you, holding that little piece of fun-print fabric over your head like some kind of pathetic and dry snob. Are you afraid of a little rain, or in this case, a torrential downpour that has initiated an unexpected flash-flood warning for our area?\n Like all real Pacific Northwesterners, I will die before I use an umbrella.\n I’m not scared of the elements. If I can technically survive the inclement weather, I plan to do it like our forefathers did: gritting my teeth and bearing the misery. If it was good enough for President William Henry Harrison, it’s good enough for me. Talk about dying before using an umbrella! He was a real one.\n Sure, I may show up to work looking like the reanimated corpse of a drowned rat. And my khakis will be completely soa…",
+          "link": "https://www.mcsweeneys.net/articles/i-am-a-pacific-northwesterner-and-i-will-die-before-using-an-umbrella",
+          "publishedOn": "2026-11-23T18:00:00.000Z",
+          "wordCount": 2903,
+          "title": "I Am a Pacific Northwesterner, and I Will Die Before Using an Umbrella",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/pkesshdi0cwzncrqqi335hcgl7of"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/my-video-game-girlfriend-is-starting-to-sound-an-awful-lot-like-my-ex-wife",
           "author": "Jack Loftus",
           "description": "\"The Grand Theft Auto games never actually taught someone how to knock over a bank or survive a shootout with police, but the latest storyline in the franchise serves up some valuable lessons about what it means to be in a loving and committed relationship. This isn’t sitting well with a histrionic minority of right-wing gamers who have been warning for months that GTA VI would be intolerably ‘woke’ … ‘RIP GTA,’ one X user somberly concluded. ‘Killed by women.’” – WIRED\n - - -\nI play video games for escapism. They’re a fun way to get away from the stresses of everyday life, like work, politics, and paying the bills. After a long day of explaining why women shouldn’t be allowed in combat roles, the last thing I want is to come home and help some fictional broad unload the dishwasher.\n But n…",
@@ -11880,16 +11960,6 @@
           "wordCount": 2546,
           "title": "Why Aren’t People Moving to This Town with Cheap Housing and Literally Nothing Else?",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/5plw135i3z27f7e2t720ge69n15m"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog",
-          "author": "Erica Lies",
-          "description": "Please rate Erica on a scale of 1-5 on how she demonstrates the following:\n CONSISTENCY: 5\n Erica does fantastic treat work, always offering me a tasty morsel after walks, even though she doesn’t contribute to our daily quota for eating grass.\n PUNCTUALITY: 2\n Erica often delays leaving the house because of something she calls a “job,” which, from the best I can discern, is just staring at (and sometimes talking to) a glowing screen. She would benefit from improving her time management to meet walk deadlines more consistently.\n TEAM CULTURE: 2\n It would behoove Erica to think more outside the crate. She often misses opportunities to partner with me in meeting our mission-critical KPIs of barking at wild rabbits, anyone in a uniform, men in hats, men in general, men who are Generals, garbag…",
-          "link": "https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog",
-          "publishedOn": "2026-08-26T12:00:00.000Z",
-          "wordCount": 2881,
-          "title": "My Annual Performance, as Reviewed by My Dog",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/7lv9svb0cqy3klgwwdkrkr6zwyi5"
         }
       ]
     },

@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-23T17:23:42.952Z</updated>
+    <updated>2026-11-24T03:48:04.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monster tides expected to batter Berkeley in days before Thanksgiving]]></title>
+        <id>https://www.berkeleyside.org/?p=566708</id>
+        <link href="https://www.berkeleyside.org/2026/11/23/berkeley-november-rain-storm-surge-king-tide-el-nino-flooding"/>
+        <updated>2026-11-23T23:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Bay levels are projected to approach “the highest tide ever recorded” as a strong El Niño effect overlaps a king tide and a rainstorm, according to the National Weather Service.]]></summary>
+        <author>
+            <name>Alex N. Gecan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shotgun Players stages ‘The Death of Meyerhold’]]></title>
+        <id>https://www.berkeleyside.org/?p=566696</id>
+        <link href="https://www.berkeleyside.org/2026/11/23/shotgun-players-stages-the-death-of-meyerhold"/>
+        <updated>2026-11-23T20:30:35.000Z</updated>
+        <summary type="html"><![CDATA[The epic play is based on the true, revolutionary story of a maverick Russian theater-maker.]]></summary>
+        <author>
+            <name>Local sponsor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University Approves Nuclear Weapons Data Center, Township Vows to Fight On]]></title>
+        <id>6b0498c1d863d10001945d2a</id>
+        <link href="https://www.404media.co/ypsilanti-michigan-data-center-vote/"/>
+        <updated>2026-11-23T19:56:37.000Z</updated>
+        <summary type="html"><![CDATA[University of Michigan regents voted 7-1 to approve a controversial data center project.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character]]></title>
+        <id>6b03e405f7a2ad00015f8540</id>
+        <link href="https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/"/>
+        <updated>2026-11-23T18:17:22.000Z</updated>
+        <summary type="html"><![CDATA[AI generated customized shows featuring customized ads.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to volunteer in the East Bay this Thanksgiving]]></title>
+        <id>https://www.berkeleyside.org/?p=566719</id>
+        <link href="https://www.berkeleyside.org/2026/11/23/east-bay-thanksgiving-holiday-volunteer-opportunities"/>
+        <updated>2026-11-23T18:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Whether you want to cook, serve meals, or delivery groceries, there are plenty of ways to give back this holiday across Oakland, Berkeley and Richmond.]]></summary>
+        <author>
+            <name>Skylla Mumana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Am a Pacific Northwesterner, and I Will Die Before Using an Umbrella]]></title>
+        <id>https://www.mcsweeneys.net/articles/i-am-a-pacific-northwesterner-and-i-will-die-before-using-an-umbrella</id>
+        <link href="https://www.mcsweeneys.net/articles/i-am-a-pacific-northwesterner-and-i-will-die-before-using-an-umbrella"/>
+        <updated>2026-11-23T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nice umbrella, loser. Yeah, I’m talking to you, holding that little piece of fun-print fabric over your head like some kind of pathetic and dry snob. Are you afraid of a little rain, or in this case, a torrential downpour that has initiated an unexpected flash-flood warning for our area?
+ Like all real Pacific Northwesterners, I will die before I use an umbrella.
+ I’m not scared of the elements. If I can technically survive the inclement weather, I plan to do it like our forefathers did: gritting my teeth and bearing the misery. If it was good enough for President William Henry Harrison, it’s good enough for me. Talk about dying before using an umbrella! He was a real one.
+ Sure, I may show up to work looking like the reanimated corpse of a drowned rat. And my khakis will be completely soa…]]></summary>
+        <author>
+            <name>Gracie Beaver-Kairis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University of California gives students free access to ChatGPT. Faculty say deal is ‘unwise’]]></title>
+        <id>https://www.berkeleyside.org/?p=566718</id>
+        <link href="https://www.berkeleyside.org/2026/11/23/university-of-california-chatgpt"/>
+        <updated>2026-11-23T17:48:24.000Z</updated>
+        <summary type="html"><![CDATA[As UC leaders announced an expanded partnership with OpenAI, faculty leaders said administrators failed to sufficiently consult the Academic Senate and the decision will be perceived as endorsing students’ AI use in all courses.]]></summary>
+        <author>
+            <name>William Melhado &amp;#124; EdSource</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“I’m not going to remove the repository”]]></title>
         <id>6b0457d5d863d10001916038</id>
@@ -87,6 +160,15 @@ I play video games for escapism. They’re a fun way to get away from the stress
         <updated>2026-11-23T10:00:39.000Z</updated>
         <author>
             <name>NPR Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivory Tower Elites]]></title>
+        <id>https://xkcd.com/3328/</id>
+        <link href="https://xkcd.com/3328/"/>
+        <updated>2026-11-23T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -11834,22 +11916,6 @@ KNOPF: This is a very funny, very moving book about the deepest kind of friendsh
  I think moving there is something thousands of young people should consider, and no, I will not consider what would happen to housing costs if thousands of young people moved there.]]></summary>
         <author>
             <name>Devin Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Annual Performance, as Reviewed by My Dog]]></title>
-        <id>https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog</id>
-        <link href="https://www.mcsweeneys.net/articles/my-annual-performance-as-reviewed-by-my-dog"/>
-        <updated>2026-08-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Please rate Erica on a scale of 1-5 on how she demonstrates the following:
- CONSISTENCY: 5
- Erica does fantastic treat work, always offering me a tasty morsel after walks, even though she doesn’t contribute to our daily quota for eating grass.
- PUNCTUALITY: 2
- Erica often delays leaving the house because of something she calls a “job,” which, from the best I can discern, is just staring at (and sometimes talking to) a glowing screen. She would benefit from improving her time management to meet walk deadlines more consistently.
- TEAM CULTURE: 2
- It would behoove Erica to think more outside the crate. She often misses opportunities to partner with me in meeting our mission-critical KPIs of barking at wild rabbits, anyone in a uniform, men in hats, men in general, men who are Generals, garbag…]]></summary>
-        <author>
-            <name>Erica Lies</name>
         </author>
     </entry>
     <entry>
