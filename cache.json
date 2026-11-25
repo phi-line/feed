@@ -63,6 +63,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=169596",
+          "author": "Jay Bennett",
+          "description": "Scientists are inventing new ways to search for the missing mass of the universe.            \nThe post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+          "publishedOn": "2026-11-25T14:00:49.000Z",
+          "wordCount": 3293,
+          "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=169527",
           "author": "Annie Melchor",
           "description": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.            \nThe post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
@@ -712,6 +722,46 @@
       "feedUrl": "https://www.404media.co/rss",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "6b06fa3f992b650001e9f235",
+          "author": "Joseph Cox",
+          "description": "We spoke to the people distributing ARTEX; Google is making a 24/7 AI TV channel staring you; and this data center definitely isn't a data center.",
+          "link": "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
+          "publishedOn": "2026-11-25T15:14:33.000Z",
+          "wordCount": 1031,
+          "title": "Podcast: The AI Tool Hacking the Planet",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/maxresdefault-14.jpg"
+        },
+        {
+          "id": "6b05d7ac755cac0001c8bd40",
+          "author": "Samantha Cole",
+          "description": "Good vibes, pink slime, and more.",
+          "link": "https://www.404media.co/let-the-beat-drop/",
+          "publishedOn": "2026-11-25T14:05:00.000Z",
+          "wordCount": 1075,
+          "title": "Let the beat drop",
+          "imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGhlYWRwaG9uZXN8ZW58MHx8fHwxNzk1NTU0OTY0fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6b05a395755cac0001c8a5f0",
+          "author": "Samantha Cole",
+          "description": "As \"Airpods for your ass,\" the Groove Thing is more concert experience than climax.",
+          "link": "https://www.404media.co/groove-thing-review/",
+          "publishedOn": "2026-11-25T14:00:00.000Z",
+          "wordCount": 2302,
+          "title": "I Listened to ‘Sandstorm’ Through a Sex Toy",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/groove-thing---1-.png"
+        },
+        {
+          "id": "6b069b65755cac0001c8df50",
+          "author": "Jason Koebler",
+          "description": "While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'",
+          "link": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
+          "publishedOn": "2026-11-25T12:05:53.000Z",
+          "wordCount": 1531,
+          "title": "Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-25-at-12.33.44-AM@2x.png"
+        },
         {
           "id": "6b04f389d863d10001946ec3",
           "author": "Jason Koebler",
@@ -2821,16 +2871,6 @@
           "wordCount": 979,
           "title": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/bd-robot.png"
-        },
-        {
-          "id": "6a907da95158d400012fbfaf",
-          "author": "Emanuel Maiberg",
-          "description": "“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.",
-          "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-          "publishedOn": "2026-08-27T18:14:29.000Z",
-          "wordCount": 1614,
-          "title": "The AI ‘Ghosts’ Contaminating Academic Publishing",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg"
         }
       ]
     },
@@ -3755,16 +3795,6 @@
           "wordCount": 180,
           "title": "Geology Class",
           "imageUrl": "https://imgs.xkcd.com/comics/geology_class_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3291/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/3291/",
-          "publishedOn": "2026-08-28T04:00:00.000Z",
-          "wordCount": 178,
-          "title": "Launchpad",
-          "imageUrl": "https://imgs.xkcd.com/comics/launchpad_2x.png"
         }
       ]
     },
@@ -4149,16 +4179,6 @@
           "wordCount": 6316,
           "title": "Subjective Perspective Makes Objective Reality ‘Everywhere Whole’",
           "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_Feature_Color_V1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=44b339e81f0d948c808559e8906d7d9d"
-        },
-        {
-          "id": "https://www.noemamag.com/the-latest-chapter-in-american-military-muddling",
-          "author": "John Arquilla",
-          "description": "The post The Latest Chapter In American Military Muddling appeared first on NOEMA.",
-          "link": "https://www.noemamag.com/the-latest-chapter-in-american-military-muddling",
-          "publishedOn": "2026-08-27T16:18:15.000Z",
-          "wordCount": 8673,
-          "title": "The Latest Chapter In American Military Muddling",
-          "imageUrl": "https://noemamag.imgix.net/2026/08/Feature_color_V5-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=24d09f8b16fff0b2a42ad384a6a6709b"
         }
       ]
     },
@@ -4167,6 +4187,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566872",
+          "author": "Zac Farber",
+          "description": "Higher education reporter Felicia Mello won an award from a local chapter of the Society of Professional Journalists for her wide-ranging interview with Lyons, including probing questions about his approach to free speech.",
+          "link": "https://www.berkeleyside.org/2026/11/25/interview-with-cal-chancellor-rich-lyons-wins-berkeleyside-reporter-a-journalism-award",
+          "publishedOn": "2026-11-25T16:46:17.000Z",
+          "wordCount": 8396,
+          "title": "Interview with Cal chancellor Rich Lyons wins Berkeleyside reporter a journalism award",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/Lyons-Mello.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=565015",
+          "author": "Local sponsor",
+          "description": "Funding from Bayer in West Berkeley helps keep the doors open for multiple community-support groups.",
+          "link": "https://www.berkeleyside.org/2026/11/25/5-berkeley-nonprofits-share-the-worries-the-wins-and-whats-next-in-a-challenging-era",
+          "publishedOn": "2026-11-25T16:11:43.000Z",
+          "wordCount": 8677,
+          "title": "5 Berkeley nonprofits share the worries, the wins and what’s next in a challenging era",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_6482.jpg"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566799",
           "author": "Danielle Venton &#124; KQED",
@@ -7378,6 +7418,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lN96f4SwJyk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lN96f4SwJyk",
+          "publishedOn": "2026-11-25T10:00:27.000Z",
+          "wordCount": null,
+          "title": "Patti Smith: Tiny Desk Concert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/xZeIozsa6Z8",
           "author": null,
           "description": "#tinytalk • Tiny fans of @graciescorner ask Graceyn their burning questions.⁠#tinydesk #tinydeskconcert #nprmusic #graciescorner",
@@ -10420,16 +10470,6 @@
           "wordCount": 12502,
           "title": "Cottage Cheese Pancakes",
           "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Vegan-Cottage-Cheese-Pancakes8260.jpg"
-        },
-        {
-          "id": "https://jessicainthekitchen.com/?p=79171",
-          "author": "Jessica Hylton",
-          "description": "This recipe for vegan cottage cheese couldn't be easier. Perfectly tender tofu \"curds\" sit in a savoury, tangy, salty sauce and take on an incredibly realistic cottage cheese flavour. You'll see!",
-          "link": "https://jessicainthekitchen.com/vegan-tofu-cottage-cheese/",
-          "publishedOn": "2026-08-27T14:00:00.000Z",
-          "wordCount": 12003,
-          "title": "Vegan Cottage Cheese",
-          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/07/Vegan-Tofu-Cottage-Cheese-7205.jpg"
         }
       ]
     },
@@ -10455,6 +10495,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/butterballs-helpline-helpline",
+          "author": "Alysia Gray Painter",
+          "description": "Originally published November 26, 2003.\n - - -\nQ: A caller just said she forgot to baste every 10 minutes. I advised her to serve the turkey anyway. Was I correct?\n A: Not at all. The turkey is merely the vehicle for the basting. In a recent poll, nine out of ten people would rather sit down at the table and suck on the end of a baster full of buttery juices than gnaw at some dry old wing. Bad call.\n - - -\nQ: I just overheard my coworker advising a home cook to truss the bird. I arrived late at the “Talk Turkey” seminar last week and missed the trussing segment. Can you advise?\n A: Trussing, while not the chef’s best friend, is that pleasant acquaintance you see about once a year and always have a compliment for. Trussing is legal in every state. Trussing comes from the word “truss,” which…",
+          "link": "https://www.mcsweeneys.net/articles/butterballs-helpline-helpline",
+          "publishedOn": "2026-11-25T13:19:00.000Z",
+          "wordCount": 2795,
+          "title": "Butterball’s Helpline Helpline",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/49ly55b5kq84j3h4dg4vmxn2fjbl"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/positive-affirmations-for-thanksgiving-travelers",
           "author": "Emily Delaney",
@@ -11994,26 +12044,6 @@
           "wordCount": 2826,
           "title": "Back-to-School Shopping List for the End-of-Times Academic Year",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/5ynkc6a0umegyuffyrivfdqpigyn"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/relax-if-food-is-no-longer-safe-to-eat-just-eat-cake",
-          "author": "Carlos Greaves",
-          "description": "It seems like food safety is all anyone has been talking about this summer, whether you found out about these problems the easy way (reading an article your mom texted you about the latest recall) or the hard way (weeks-long explosive diarrhea because you ignored your mom’s text messages). As an FDA spokesperson, I’m here to assure you that we’re on top of it.\n Admittedly, lots of pantry staples are currently unsafe to eat—everything from fresh produce (because of cyclospora) to eggs (because of salmonella) to bread (because there are literally bits of glass in it). Other foods, like ground beef, have gotten expensive thanks, in part, to infections like New World screwworm. Pretty much everything on RFK Jr.’s food pyramid is either contaminated or cost-prohibitive:\n \n But there is one food…",
-          "link": "https://www.mcsweeneys.net/articles/relax-if-food-is-no-longer-safe-to-eat-just-eat-cake",
-          "publishedOn": "2026-08-27T17:00:00.000Z",
-          "wordCount": 2815,
-          "title": "Relax, If Food Is No Longer Safe to Eat, Just Eat Cake",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/2c5w9g3a6art3izq05h749qo6cmz"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/performative-slurp",
-          "author": "Ali Fitzgerald",
-          "description": "Underground Artists is an ongoing comic by Ali Fitzgerald (Hungover Bear & Friends) that follows woodland creatures as they create art and search out whimsy in a bleak forest.\n - - -",
-          "link": "https://www.mcsweeneys.net/articles/performative-slurp",
-          "publishedOn": "2026-08-27T16:00:00.000Z",
-          "wordCount": 2113,
-          "title": "Performative Slurp",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/w05qvhaod6msaqyffmc9c8vnef9z"
         }
       ]
     },
@@ -13841,6 +13871,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+          "author": null,
+          "description": "Traditional architecture is alive and well in Lahore. A photo essay of Kamil Khan Mumtaz’s greatest works.",
+          "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+          "publishedOn": "2026-11-25T11:42:20.000Z",
+          "wordCount": 1865,
+          "title": "The greatest architect you’ve never heard of is in Pakistan",
+          "imageUrl": "https://worksinprogress.co/wip-image/uploads/2026/11/The_Greatest_Architect_Sharecard_03.jpg"
+        },
         {
           "id": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/",
           "author": null,
