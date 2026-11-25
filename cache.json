@@ -606,6 +606,16 @@
           "imageUrl": "https://asteriskmag.com/media/pages/issues/16/six-gutenberg-revolutions-in-a-row/f5a71cc21a-1792435854/gutenberg-revolutions-erkers-1600x900-crop-sharpen50.png"
         },
         {
+          "id": "https://asteriskmag.com/issues/16/so-you-want-to-fight-the-loneliness-epidemic",
+          "author": null,
+          "description": "Berkeley lesbians and Christian homeschool moms have a few things in common.",
+          "link": "https://asteriskmag.com/issues/16/so-you-want-to-fight-the-loneliness-epidemic",
+          "publishedOn": "2026-10-14T00:00:00.000Z",
+          "wordCount": 5925,
+          "title": "So You Want to Fight the Loneliness Epidemic",
+          "imageUrl": "https://asteriskmag.com/media/pages/issues/16/so-you-want-to-fight-the-loneliness-epidemic/4ca192bb56-1795464830/loneliness-epidemic-piper-ruiz-collier-1600x900-crop-sharpen50.png"
+        },
+        {
           "id": "https://asteriskmag.com/issues/16/a-brief-history-of-our-place-in-the-universe",
           "author": null,
           "description": "German Romantics created every Bay Area social movement.",
@@ -3340,6 +3350,16 @@
       "siteUrl": "https://magazine.atavist.com/",
       "articles": [
         {
+          "id": "https://magazine.atavist.com/?p=56623",
+          "author": "Alexandra Marvar",
+          "description": "There is no excerpt because this is a protected post.\nThe post Protected: Finders Keepers appeared first on The Atavist Magazine.",
+          "link": "https://magazine.atavist.com/2026/finders-keepers-steamboat-arabia",
+          "publishedOn": "2026-11-24T23:51:58.000Z",
+          "wordCount": 1971,
+          "title": "Protected: Finders Keepers",
+          "imageUrl": null
+        },
+        {
           "id": "https://magazine.atavist.com/?p=56027",
           "author": "Alessio Perrone and Berber Verpoest",
           "description": "There is no excerpt because this is a protected post.\nThe post Protected: The Rise and Fall of a Supercop appeared first on The Atavist Magazine.",
@@ -4147,6 +4167,26 @@
       "feedUrl": "https://www.berkeleyside.org/feed",
       "siteUrl": "https://www.berkeleyside.org/",
       "articles": [
+        {
+          "id": "https://www.berkeleyside.org/?p=566799",
+          "author": "Danielle Venton &#124; KQED",
+          "description": "Many people living in the Bay Area don’t realize that standard home insurance does not cover flood risk.",
+          "link": "https://www.berkeleyside.org/2026/11/24/is-your-home-insurance-ready-for-el-nino-flooding",
+          "publishedOn": "2026-11-24T20:39:40.000Z",
+          "wordCount": 8963,
+          "title": "Is your home insurance ready for El Niño flooding?",
+          "imageUrl": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/image-42.png"
+        },
+        {
+          "id": "https://www.berkeleyside.org/?p=566801",
+          "author": "Momo Chang",
+          "description": "A running list of restaurants that have recently opened in Berkeley, Oakland, Richmond, and beyond.",
+          "link": "https://www.berkeleyside.org/2026/11/24/dumplingo-mumu-hot-pot-rosies-sabores-komali-open",
+          "publishedOn": "2026-11-24T20:00:00.000Z",
+          "wordCount": 8273,
+          "title": "New tea, dumpling and hot pot options arrive in Berkeley",
+          "imageUrl": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/UMEtea.jpg?fit=1002%2C797&ssl=1"
+        },
         {
           "id": "https://www.berkeleyside.org/?p=566767",
           "author": "Family of Mike Bank",
@@ -7329,21 +7369,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://aethermug.com/assets/posts/backgrounding/Konjakuzokuhyak2.jpg"
-        },
-        {
-          "id": "https://aethermug.com/posts/tract",
-          "author": null,
-          "description": "An interactive Wittgensteinian tool for thought",
-          "link": "https://aethermug.com/posts/tract?utm_source=rss&utm_campaign=rss",
-          "publishedOn": "2026-08-27T04:58:30.000Z",
-          "wordCount": 3669,
-          "title": "Presenting the Foldable Tractatus",
-          "enclosure": {
-            "url": "https://aethermug.com/assets/posts/tract/lw-nonfold.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://aethermug.com/assets/posts/tract/lw-nonfold.jpg"
         }
       ]
     },
@@ -7352,6 +7377,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
       "siteUrl": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/xZeIozsa6Z8",
+          "author": null,
+          "description": "#tinytalk • Tiny fans of @graciescorner ask Graceyn their burning questions.⁠#tinydesk #tinydeskconcert #nprmusic #graciescorner",
+          "link": "https://www.youtube.com/shorts/xZeIozsa6Z8",
+          "publishedOn": "2026-11-24T20:20:16.000Z",
+          "wordCount": 3452,
+          "title": "Tiny fans of @graciescorner ask Graceyn their burning questions.⁠",
+          "imageUrl": "https://i.ytimg.com/vi/xZeIozsa6Z8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCFbCx0x2FBvEmwE9wKkRHbUkhObA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=_l1DbqVacBc",
           "author": null,
@@ -7851,16 +7886,6 @@
           "wordCount": 3413,
           "title": "The new lost album by The Cramps, 'Gravest Gravy,' is gold.",
           "imageUrl": "https://i.ytimg.com/vi/0NnrSFJ-lkY/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLDihkAbbIN1XKbILtz2-eXbxQd3cw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SG0ifZpDswg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SG0ifZpDswg",
-          "publishedOn": "2026-08-27T09:00:05.000Z",
-          "wordCount": null,
-          "title": "E.U.: Tiny Desk Concert",
-          "imageUrl": null
         }
       ]
     },
@@ -10431,6 +10456,16 @@
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
         {
+          "id": "https://www.mcsweeneys.net/articles/positive-affirmations-for-thanksgiving-travelers",
+          "author": "Emily Delaney",
+          "description": "I wake up energized and excited to use personal time off for the sole purpose of traveling on a Wednesday.\n I am the best version of myself at the LaGuardia Airport Shake Shack at 9:30 a.m.\n I am turning down the volume of negativity when my flight is delayed due to weather.\n I am exactly where I am supposed to be when my flight is delayed again due to weather.\n I am surrounded by abundance and opportunity as Delta Airlines announces they overbooked my flight and will be kicking people off.\n I do not secretly wish I was one of the people they kicked off.\n I am at peace with the way people board and deboard airplanes.\n I forgive myself for saying yes when a friend invites me to the local bar tonight so we can “see everyone from high school.”\n I am focusing on the blessings in my life and no…",
+          "link": "https://www.mcsweeneys.net/articles/positive-affirmations-for-thanksgiving-travelers",
+          "publishedOn": "2026-11-24T18:00:00.000Z",
+          "wordCount": 2710,
+          "title": "Positive Affirmations for Thanksgiving Travelers",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/8rwlfkt0in7d9jdw8lan6ladafdd"
+        },
+        {
           "id": "https://www.mcsweeneys.net/articles/if-god-is-for-us-can-church-be-too",
           "author": "Taylor Harris",
           "description": "You’ve Always Been This Way is a column written by Taylor Harris, a late-diagnosed neurodivergent woman and 1980s preschool dropout, who identifies every moment from her past that filled her with shame and mutters, “Yep, that tracks. I see it all now.”\n - - -\nI’ll begin with the end. It was all too much (for me).\n My husband and I started a church several years ago. Evangelicals or members of “nondenominational” churches often call it planting. We planted a church. I knew Jesus, sure, but nothing of digging or daffodils, of seeding or plowing, literal or otherwise.\n I entered the church planting process—a spiritual combine of sorts, where you don’t flex your biceps or sprint for Jesus, but share your gifts and grit with church leaders who determine if you’re spiritually fit—with the same i…",
@@ -11979,26 +12014,6 @@
           "wordCount": 2113,
           "title": "Performative Slurp",
           "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/w05qvhaod6msaqyffmc9c8vnef9z"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/july-2026-atrocities-1117-1207",
-          "author": "Emily Greenberg and Chase Bush-McLaughlin",
-          "description": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.\n - - -\nThese lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subsc…",
-          "link": "https://www.mcsweeneys.net/articles/july-2026-atrocities-1117-1207",
-          "publishedOn": "2026-08-27T11:45:00.000Z",
-          "wordCount": 10376,
-          "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: July 2026:  Atrocities 1117-1207",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/30k8e4cv9kct519xkfcgppvsz8d5"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/an-interview-with-dave-eggers-about-his-new-novel-contrapposto",
-          "author": "Knopf",
-          "description": "- - -\nKNOPF: This is a very funny, very moving book about the deepest kind of friendship. It unfolds over many decades, and the novel took shape over decades for you, too. When did you begin thinking about these characters?\n DAVE EGGERS: I’ve been thinking about Cricket and Olympia for about twenty years, and was writing random passages about them much of that period. Sometimes a certain book takes an especially long time to gestate and make its correct form known, and this was one of those books.\n Q: The book covers about 65 years in the lives of its two main characters, Cricket and Olympia. Their interactions take place all over the world, from Indiana to Thailand, from Philadelphia to Turkey and Paris. Did you always see this as a book with that kind of epic scope?\n DE: Once I decided i…",
-          "link": "https://www.mcsweeneys.net/articles/an-interview-with-dave-eggers-about-his-new-novel-contrapposto",
-          "publishedOn": "2026-08-27T11:28:00.000Z",
-          "wordCount": 3311,
-          "title": "An Interview with Dave Eggers About His New Novel, Contrapposto",
-          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/wgnhdm6zuxtkhjnsa17mp8c5vgsa"
         }
       ]
     },
@@ -12007,6 +12022,38 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112562 at https://www.eff.org",
+          "author": "Rindala Alajaji",
+          "description": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on January 1, 2027. Meanwhile, state attorney general regulations for New York’s Stop Addictive Feeds Exploitation (SAFE) for Kids Act take effect on January 25, 2027.\nEFF has opposed these laws across legislatures, regulatory proceedings, and the courts. The core problem is simple: age-gating mandates trade away everyday user privacy and free expression under the guise of safety, while pushing platforms to gather even more personal data on users.\nWhat California’s Rules Say\nThree interlocking California laws take effect on January 1, 2027, reshaping how platforms handle age checks…",
+          "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+          "publishedOn": "2026-11-24T22:35:05.000Z",
+          "wordCount": 2635,
+          "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/age_verification-cell_phone-access_denied.png",
+            "alt": "A blue hand holding a cellphone showing a verification screen and ACCESS DENIED in the background",
+            "type": "image/png",
+            "length": "990456"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/age_verification-cell_phone-access_denied.png"
+        },
+        {
+          "id": "112561 at https://www.eff.org",
+          "author": "Thorin Klosowski",
+          "description": "Signal announced an update to its mobile apps on iOS and Android that seeks to curb issues with AI agents accessing private chats. This is a useful new barrier against a problem we’ve been highlighting this year in our Encrypt It Already campaign. And good news, it’s enabled by default so you don’t need to do anything except update the app.\nOver the last year, both Google and Apple* have released AI features in their operating systems that can read the contents of apps. One of the ways it can do this is through screen analysis. Google calls this feature “Intelligent Screen Context,” while Apple refers to it as either “Onscreen Awareness” or “Visual Intelligence.”\nApple now provides a way to block Siri AI’s access to apps, but by default every app is available to Siri AI, so it’s up to the user to go in and put these guardrails up. Signal requests that protection on your behalf. Google doesn’t currently offer any sort of similar option. So Signal on Android does the best it can, by turning off screenshots when it detects an AI assistant attempting to access the screen. Signal’s solution helps ensure that, unless you go in and change the setting yourself, it defaults to the most private option.\nWhile this is a clever solution to the current issues facing Signal (and potentially useful for any other app that does its best to promise privacy), we need all operating systems to provide stronger methods and clear documentation to developers so they can safeguard their users without needing to jump through hoops. Both developers and users should have the tools they need to safeguard their own data from AI agents and other AI tools.\n*Apple is an EFF donor. EFF donors do not influence our agenda or our positions.",
+          "link": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
+          "publishedOn": "2026-11-24T19:43:49.000Z",
+          "wordCount": 1450,
+          "title": "Signal Moves to Block AI Agents",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png",
+            "alt": "People communicating on devices with encryption, art by Chelsea Saunders",
+            "type": "image/png",
+            "length": "194039"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/encryption-poc-chelsea-saunders.png"
+        },
         {
           "id": "112558 at https://www.eff.org",
           "author": "Matthew Guariglia",
