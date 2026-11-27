@@ -2871,16 +2871,6 @@
           "wordCount": 881,
           "title": "Google's Calling Lake Ontario 'Lake America' Now",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Screenshot-2026-08-30-at-8.42.47---AM.png"
-        },
-        {
-          "id": "6a91c3a35158d4000132f1a9",
-          "author": "Becky Ferreira",
-          "description": "The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.",
-          "link": "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
-          "publishedOn": "2026-08-29T10:00:27.000Z",
-          "wordCount": 2282,
-          "title": "Thousands of Interstellar Objects May Be Lurking in Our Solar System",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/image2.jpg"
         }
       ]
     },
@@ -7360,16 +7350,6 @@
           "wordCount": 4621,
           "title": "Meera Sodha’s vegetarian recipe for kacang pool, or Malaysian bean stew",
           "imageUrl": "https://i.guim.co.uk/img/media/43b4dfeb18e830879e72f8a1df02bf91a0475e67/0_1434_5115_4093/master/5115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a4b4d1b40b11e625db8ed69c6ac1bd2"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2026/aug/29/spicy-mozzarella-green-bean-edamame-salad-recipe-meera-sodha",
-          "author": "Meera Sodha",
-          "description": "An enticing, slightly spicy, east/west fusion stacked with vigour and colour\nOne thing I learned during the recent hot weather is that I don’t have enough “substantial but quick salads” in my locker. A salad one could call lunch (or a light dinner when served with other bits). On rotation in my “throw-together” category is my no-cook chickpea, tomato and cucumber salad, to which I’m also going to add my favourite summer vegetable, bulgur and pesto salad, which isn’t quite an assembly job, but near-enough and a family favourite. To that line-up, I’m happy to introduce this gently spicy, green beauty.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2026/aug/29/spicy-mozzarella-green-bean-edamame-salad-recipe-meera-sodha",
-          "publishedOn": "2026-08-29T05:00:20.000Z",
-          "wordCount": 4370,
-          "title": "Meera Sodha’s recipe for spicy mozzarella, green bean and edamame salad | Meera Sodha recipes",
-          "imageUrl": "https://i.guim.co.uk/img/media/d50195b1a81db731a41b47cb891689ff214793eb/7_1168_4874_3899/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=381bb9e6a0595b7e2a19d978918873ae"
         }
       ]
     },
@@ -13920,6 +13900,16 @@
       "feedUrl": "https://worksinprogress.co/rss.xml",
       "siteUrl": "https://worksinprogress.co/",
       "articles": [
+        {
+          "id": "https://worksinprogress.co/issue/book-reviews/",
+          "author": null,
+          "description": "Submit a book review to Works in Progress.",
+          "link": "https://worksinprogress.co/issue/book-reviews/",
+          "publishedOn": "2026-11-26T17:03:20.000Z",
+          "wordCount": 855,
+          "title": "Book Reviews",
+          "imageUrl": null
+        },
         {
           "id": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
           "author": null,

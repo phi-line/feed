@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-26T16:23:27.967Z</updated>
+    <updated>2026-11-27T01:28:56.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Book Reviews]]></title>
+        <id>https://worksinprogress.co/issue/book-reviews/</id>
+        <link href="https://worksinprogress.co/issue/book-reviews/"/>
+        <updated>2026-11-26T17:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Submit a book review to Works in Progress.]]></summary>
+        <author>
+            <name>Works in Progress RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grand Thanksgiving Autumn]]></title>
         <id>6b07a65c992b650001ea213b</id>
@@ -12054,28 +12064,6 @@ The post ‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase 
         <summary type="html"><![CDATA[Unreleased music from the vaults can be filled with junk. However, the new lost album by The Cramps, 'Gravest Gravy,' is gold. #nprmusic #albumreview #thecra...]]></summary>
         <author>
             <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Interstellar Objects May Be Lurking in Our Solar System]]></title>
-        <id>6a91c3a35158d4000132f1a9</id>
-        <link href="https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/"/>
-        <updated>2026-08-29T10:00:27.000Z</updated>
-        <summary type="html"><![CDATA[The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.]]></summary>
-        <author>
-            <name>Becky Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meera Sodha’s recipe for spicy mozzarella, green bean and edamame salad | Meera Sodha recipes]]></title>
-        <id>https://www.theguardian.com/food/2026/aug/29/spicy-mozzarella-green-bean-edamame-salad-recipe-meera-sodha</id>
-        <link href="https://www.theguardian.com/food/2026/aug/29/spicy-mozzarella-green-bean-edamame-salad-recipe-meera-sodha"/>
-        <updated>2026-08-29T05:00:20.000Z</updated>
-        <summary type="html"><![CDATA[An enticing, slightly spicy, east/west fusion stacked with vigour and colour
-One thing I learned during the recent hot weather is that I don’t have enough “substantial but quick salads” in my locker. A salad one could call lunch (or a light dinner when served with other bits). On rotation in my “throw-together” category is my no-cook chickpea, tomato and cucumber salad, to which I’m also going to add my favourite summer vegetable, bulgur and pesto salad, which isn’t quite an assembly job, but near-enough and a family favourite. To that line-up, I’m happy to introduce this gently spicy, green beauty.
- Continue reading...]]></summary>
-        <author>
-            <name>Meera Sodha</name>
         </author>
     </entry>
     <entry>
