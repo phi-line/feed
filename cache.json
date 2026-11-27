@@ -7949,16 +7949,6 @@
           "wordCount": 3492,
           "title": "Sometimes a cover song is so good it completely eclipses the original version.",
           "imageUrl": "https://i.ytimg.com/vi/u-CvQKQtgao/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA4HIGxyEl6-M22HDnqsYVqEhBB0g"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/0NnrSFJ-lkY",
-          "author": null,
-          "description": "Unreleased music from the vaults can be filled with junk. However, the new lost album by The Cramps, 'Gravest Gravy,' is gold. #nprmusic #albumreview #thecra...",
-          "link": "https://www.youtube.com/shorts/0NnrSFJ-lkY",
-          "publishedOn": "2026-08-29T18:35:30.000Z",
-          "wordCount": 3413,
-          "title": "The new lost album by The Cramps, 'Gravest Gravy,' is gold.",
-          "imageUrl": "https://i.ytimg.com/vi/0NnrSFJ-lkY/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLDihkAbbIN1XKbILtz2-eXbxQd3cw"
         }
       ]
     },
@@ -10195,6 +10185,16 @@
       "siteUrl": "https://jessicainthekitchen.com/",
       "articles": [
         {
+          "id": "https://jessicainthekitchen.com/new/?p=8673",
+          "author": "Jessica Hylton",
+          "description": "Who knew you could put beets in a smoothie? This vibrant pink beet smoothie bowl combines sweet (but not too sweet) roasted beets, protein powder, and lots of fruit to create a spoonably thick base for all of your favourite toppings. It's an easy way to get your fruits and veggies in first thing.",
+          "link": "https://jessicainthekitchen.com/banana-berry-beet-smoothie-bowl/",
+          "publishedOn": "2026-11-27T15:00:00.000Z",
+          "wordCount": 6309,
+          "title": "Banana Berry Beet Smoothie Bowl",
+          "imageUrl": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Banana-Verry-Beet-Smoothie-Bowl7970.jpg"
+        },
+        {
           "id": "https://jessicainthekitchen.com/new/?p=10346",
           "author": "Jessica Hylton",
           "description": "Meet peanut butter's slightly sweeter cousin. This pecan butter is made with rich, toasted nuts that are a little sweet on their own. Blend them with some coconut sugar and warming cinnamon, and you've got a velvety-smooth nut butter you'll want to eat straight out of the jar.",
@@ -10518,6 +10518,16 @@
       "feedUrl": "https://www.mcsweeneys.net/rss.xml",
       "siteUrl": "https://www.mcsweeneys.net/",
       "articles": [
+        {
+          "id": "https://www.mcsweeneys.net/articles/the-first-black-friday-by-william-bradford",
+          "author": "River Clegg",
+          "description": "Originally published November 26, 2013.\n - - -\nAnd after the feaste, which did consist of water-fowl, and cod and bass and other fishes, and a great many wylde turkeys, the people of Plymouth did retire. And upon awakening they were greeted with many goodly savings, on itemes of considerable necessitie, and just in tyme for the forthcoming holidaye season!\n Shoes of sturdy leather were to be had for the low, low sum of a single raccoon’s pelt, and milking cow discounts did flood with joye anyone able to parse the true meaning of “half-off.” Values on corn, squash, peas, and barley likewise were out of this (New!) worlde; and the people’s clamour to purchase a canoe, a novel form of transport that many did consider the hot new gift, was so immense that for some poore souls it did prove inju…",
+          "link": "https://www.mcsweeneys.net/articles/the-first-black-friday-by-william-bradford",
+          "publishedOn": "2026-11-27T13:15:42.000Z",
+          "wordCount": 2828,
+          "title": "The First Black Friday,  by William Bradford",
+          "imageUrl": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/k6l556ref8yqnv1uee2yu1w6fde3"
+        },
         {
           "id": "https://www.mcsweeneys.net/articles/post-dinner-interview-with-a-twelve-year-old-who-sat-at-the-grown-ups-table-for-the-first-time-on-thanksgiving",
           "author": "Nathaniel Brown",
@@ -12065,6 +12075,22 @@
       "feedUrl": "http://eff.org/rss.xml",
       "siteUrl": "https://www.eff.org",
       "articles": [
+        {
+          "id": "112542 at https://www.eff.org",
+          "author": "Jason Kelley",
+          "description": "EFF supporters are why our lawyers can sue the government when it spies on you and chills your free speech. EFF members make it possible for our technologists to build the tools to protect privacy on the streets and online. And donations to EFF are what fuels our activists as they fight to pass good laws and to end bad company practices. \nBut you can also support EFF by buying gear from the EFF Online Shop! And starting today, take 20% off your entire order with coupon code: \"BL4CKFRID4Y\" !  From now until midnight on Monday the 30th, stock up and stand out with rad, stylish EFF merch: \nShop Now\nSupport Digital Rights with Every Purchase\nWhat's New\n\nThe Digital Unicorn was created for EFF's 25th anniversary, and it was too good to leave in the archives. It's back on the Digital Unicorn Tan…",
+          "link": "https://www.eff.org/deeplinks/2026/11/rad-gifts-fund-fight-effs-holiday-merch-guide-2026",
+          "publishedOn": "2026-11-27T08:00:01.000Z",
+          "wordCount": 1921,
+          "title": "Rad Gifts That Fund the Fight: EFF's Holiday Merch Guide for 2026",
+          "enclosure": {
+            "url": "https://www.eff.org/files/banner_library/stim-sticker-banner-flat.jpg",
+            "alt": "",
+            "type": "image/jpeg",
+            "length": "229741"
+          },
+          "imageUrl": "https://www.eff.org/files/banner_library/stim-sticker-banner-flat.jpg"
+        },
         {
           "id": "112565 at https://www.eff.org",
           "author": "Hudson Hongo",
