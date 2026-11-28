@@ -713,6 +713,16 @@
       "siteUrl": "https://www.404media.co/",
       "articles": [
         {
+          "id": "6b097f075aa7f2000157923d",
+          "author": "Becky Ferreira",
+          "description": "Move over, Neanderthals and Denisovans. Human teeth unearthed from caves in southern China hint that multiple human lineages inhabited this region 100,000 years ago, including a new “unresolved” member of our family tree.",
+          "link": "https://www.404media.co/scientists-discovered-a-mysterious-lost-human-species/",
+          "publishedOn": "2026-11-28T13:00:00.000Z",
+          "wordCount": 2278,
+          "title": "Scientists Discovered a Mysterious Lost Human Species",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/data-src-image-42732c0f-cebd-445a-b3bc-ddc43e354c84-1.png"
+        },
+        {
           "id": "6b07a65c992b650001ea213b",
           "author": "Jason Koebler",
           "description": "What you can learn about a person from how they share GTA VI.",
@@ -2861,16 +2871,6 @@
           "wordCount": 1629,
           "title": "How Cyber Sleuths Tracked a Nigerian Scammer to His Doorstep",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/nigeria.png"
-        },
-        {
-          "id": "6a942cc25158d4000138cb71",
-          "author": "Samantha Cole",
-          "description": "Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.",
-          "link": "https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/",
-          "publishedOn": "2026-08-30T13:20:40.000Z",
-          "wordCount": 881,
-          "title": "Google's Calling Lake Ontario 'Lake America' Now",
-          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/Screenshot-2026-08-30-at-8.42.47---AM.png"
         }
       ]
     },
@@ -3404,6 +3404,16 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3330/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/3330/",
+          "publishedOn": "2026-11-27T05:00:00.000Z",
+          "wordCount": 180,
+          "title": "Tiny Squirrels",
+          "imageUrl": "https://imgs.xkcd.com/comics/tiny_squirrels_2x.png"
+        },
         {
           "id": "https://xkcd.com/3329/",
           "author": null,
@@ -7939,16 +7949,6 @@
           "wordCount": 3492,
           "title": "It took Cypress Hill 35 years to make an album of original songs written in Spanish: 'Dios Bendiga.'",
           "imageUrl": "https://i.ytimg.com/vi/Mi2vGgB14FQ/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAQUdMxvmXDLp1XdNwd7te99f6Wlw"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/u-CvQKQtgao",
-          "author": null,
-          "description": "Sometimes a cover song is so good it completely eclipses the original version. In a hot take from All Songs Considered host Robin Hilton, an acoustic version...",
-          "link": "https://www.youtube.com/shorts/u-CvQKQtgao",
-          "publishedOn": "2026-08-30T17:02:44.000Z",
-          "wordCount": 3492,
-          "title": "Sometimes a cover song is so good it completely eclipses the original version.",
-          "imageUrl": "https://i.ytimg.com/vi/u-CvQKQtgao/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA4HIGxyEl6-M22HDnqsYVqEhBB0g"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phi-line.github.io/feed/index.html</id>
     <title>phiid</title>
-    <updated>2026-11-28T01:04:46.800Z</updated>
+    <updated>2026-11-28T15:01:29.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://phi-line.github.io/feed/index.html"/>
     <link rel="self" href="https://phi-line.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists Discovered a Mysterious Lost Human Species]]></title>
+        <id>6b097f075aa7f2000157923d</id>
+        <link href="https://www.404media.co/scientists-discovered-a-mysterious-lost-human-species/"/>
+        <updated>2026-11-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Move over, Neanderthals and Denisovans. Human teeth unearthed from caves in southern China hint that multiple human lineages inhabited this region 100,000 years ago, including a new “unresolved” member of our family tree.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As I Lay Buying]]></title>
         <id>https://www.mcsweeneys.net/articles/as-i-lay-buying</id>
@@ -58,6 +68,15 @@ What's New
 The Digital Unicorn was created for EFF's 25th anniversary, and it was too good to leave in the archives. It's back on the Digital Unicorn Tan…]]></summary>
         <author>
             <name>Jason Kelley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Squirrels]]></title>
+        <id>https://xkcd.com/3330/</id>
+        <link href="https://xkcd.com/3330/"/>
+        <updated>2026-11-27T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -12088,26 +12107,6 @@ The post ‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase 
         <updated>2026-08-31T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes a cover song is so good it completely eclipses the original version.]]></title>
-        <id>https://www.youtube.com/shorts/u-CvQKQtgao</id>
-        <link href="https://www.youtube.com/shorts/u-CvQKQtgao"/>
-        <updated>2026-08-30T17:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes a cover song is so good it completely eclipses the original version. In a hot take from All Songs Considered host Robin Hilton, an acoustic version...]]></summary>
-        <author>
-            <name>NPR Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Calling Lake Ontario 'Lake America' Now]]></title>
-        <id>6a942cc25158d4000138cb71</id>
-        <link href="https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/"/>
-        <updated>2026-08-30T13:20:40.000Z</updated>
-        <summary type="html"><![CDATA[Google Maps announced on Saturday it would start reflecting the change for U.S.-based users.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
         </author>
     </entry>
     <entry>
